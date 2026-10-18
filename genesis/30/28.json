@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נקבה",
+      "rationale": "literally 'to puncture\/designate precisely' — Tok Pisin 'makim gutpela' keeps the sense of fixing exactly"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי",
+      "rationale": "'upon me' — Lavan lets Yakov set the wage against him, i.e. charged to his own account"
+    }
+  ],
+  "translation": "Na em i tok: Makim gutpela sekel bilong yu long mi, na bai mi givim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/30\/25-28.1792346898047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "makim gutpela"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "sekel bilong yu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na bai mi givim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:18.049172461Z",
+  "model": "glm-5.3"
+}

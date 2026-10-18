@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יעיב",
+      "rationale": "Rare verb 'to becloud' appearing only here in this form; rendered 'karamapim' with the cloud-picture lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Hebrew literally 'nose\/nostril', idiom for anger; rendered 'kros'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "Verse opens the acrostic poem chapter with the keyword 'How!' — Aleph line of the 22-verse alphabet structure."
+    }
+  ],
+  "translation": "Olsem wanem Adonai i karamapim ⟨את⟩ pikinini meri bilong Tsiyon long kros bilong en! Em i trowim i go daun long graun dispela glori bilong Yisrael i bin karamap long heven, na em i no memarem stul bilong lek bilong en long dei bilong kros bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4021fe51af953ffa93d017a256291638f701a29cd755eb0b387b1c2559deba96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/2\/1-4.1792360668539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Olsem wanem"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "long kros bilong en"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini meri bilong Tsiyon"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "em i trowim i go daun"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "i karamap long heven"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "glori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "memarem"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "stul"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "bilong lek bilong en"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bilong kros bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:48.539915395Z",
+  "model": "glm-5.3"
+}

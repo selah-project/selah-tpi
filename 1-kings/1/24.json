@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 1:24",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Natan to David",
+      "rationale": "Nathan addresses King David directly with a probing question"
+    },
+    {
+      "kind": "addition",
+      "subject": "?",
+      "rationale": "Hebrew has no question mark; Nathan's words are a question only from intonation"
+    }
+  ],
+  "translation": "Na Natan i tok: Bikman bilong mi, king, yu yet i tok, Adonaya bai i king bihain long mi, na em bai sindaun long throne bilong mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/21-24.1792352661032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu yet"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonaya"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bai i king"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long mi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bai sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "throne bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:21.033448528Z",
+  "model": "glm-5.3"
+}

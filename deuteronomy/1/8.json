@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "'seed' rendered as 'pikinini' (descendants), per the discipline table — never 'sidin'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע \/ שבע",
+      "rationale": "Hebrew 'swear' echoes 'seven' (to seven oneself); lost in Tok Pisin 'bet'."
+    }
+  ],
+  "translation": "Lukim, mi putim ⟨את⟩ graun pastaim long yu olgeta; go insait na kisim ⟨את⟩ graun we Yahwe i bet long ol papa bilong yu — long Avraham, long Yitsak, na long Yakov — bilong givim long ol, na long ol pikinini bilong ol i kamap bihain.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/5-8.1792349723304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pastaim long yu olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "באו",
+      "gloss": "go insait"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "na kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "i bet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "long ol papa bilong yu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "long Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "long Yitsak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na long Yakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "na long ol pikinini bilong ol"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "i kamap bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:23.306121626Z",
+  "model": "glm-5.3"
+}

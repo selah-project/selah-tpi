@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "solwara i kamap antap",
+      "rationale": "'The sea has come up over Babylon' is a prophetic image of armies overwhelming like a flood (cf. Isa 8:7-8); rendered literally to keep the picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew leaves the subject implicit in the passive verb נכסתה; Tok Pisin needs the bracketed pronoun."
+    }
+  ],
+  "translation": "Solwara i kamap antap long Babel; ⟨em⟩ i karamap wantaim planti ol leklek wara bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bcc3df932f9b70f6340cd410f0138c33ae230269093daf76966228dec60d0900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/41-44.1792355915079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "i kamap antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Solwara"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "planti"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ol leklek wara bilong en"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "i karamap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:35.080578891Z",
+  "model": "glm-5.3"
+}

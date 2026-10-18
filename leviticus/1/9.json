@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ניחוח",
+      "rationale": "אִשֵּׁה רֵיחַ נִיחוֹחַ em i wanpela of smel-switpela; Tok Pisin i putim tupela tok wantaim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "altar",
+      "rationale": "מִזְבֵּחַ — Tok Pisin i save tok 'altar'; 'plaes bilong brin ofa' i hat tumas."
+    }
+  ],
+  "translation": "Na ol i wasim bel bilong em na tupela leg bilong em long wara; na pris i brin ⟨את⟩ olgeta samting antap long altar — ofa bilong paia, smel bilong kona long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/1\/9-12.1792348249785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "tupela leg bilong em"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "i wasim"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i brin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "long altar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofa bilong bren olgeta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofa bilong paia"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smel bilong kona"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "smel switpela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:49.786553780Z",
+  "model": "glm-5.3"
+}

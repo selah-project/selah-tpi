@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנונים\/יפלו",
+      "rationale": "Hebrew i putim 'sipak' na 'pundaun' klostu — ara i go insait long bel; Tpi pasin bilong olgeta i stap, tasol lain i no helim wankain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לב",
+      "gloss": "bel",
+      "rationale": "לב em i bel\/tingting long Hibru, i no hat — 'insait long bel bilong ol birua'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "word order",
+      "rationale": "Hebrew i putim 'ol manmeri i pundaun' namel long ves; KJV i statim wantaim ara — mipela bihainim pasin Hibru."
+    }
+  ],
+  "translation": "Ol ara bilong yu ol i sipak; ol manmeri i pundaun aninit long yu — insait long bel bilong ol birua bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/5-8.1792358289021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "ol ara bilong yu"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "sipak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "aninit long yu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "insait long bel"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "bilong ol birua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:09.022880860Z",
+  "model": "glm-5.3"
+}

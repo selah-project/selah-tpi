@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sakrifis bilong baksait",
+      "rationale": "חטאת em i sakrifis bilong baksait long sin, 'sin offering'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותאכל\/ידו",
+      "rationale": "kal bilong MT i tok ידו (han, wanpela), sampla palimpsekt i gat ידיו (ol han, tupela)"
+    }
+  ],
+  "translation": "Na Aharon i heltap ⟨את⟩ han bilong en i go long ol manmeri, na i blessingim ol; na i kamdaun long wok bilong mekim ol sakrifis bilong baksait na ol sakrifis bilong goap na ol sakrifis bilong pis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a3d690cce0f3322a2a66c498da9c3472edea00af817a4030dbd6fd81d0fb9ec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/9\/21-24.1792348401491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i heltap"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong en"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "i blessingim ol"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "i kamdaun"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "long wok bilong mekim"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sakrifis bilong baksait"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "sakrifis bilong goap"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "sakrifis bilong pis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:21.492826672Z",
+  "model": "glm-5.3"
+}

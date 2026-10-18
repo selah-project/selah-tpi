@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "save",
+      "rationale": "בוא ויצא — hap tok bilong wokabaut i save wok long taim ol i no kalabusim em yet; 'save' i soim pasin i wankain oltaim"
+    },
+    {
+      "kind": "elision",
+      "subject": "bilong",
+      "rationale": "כי — 'bilong' i soim as; tok bilong join i smol tasol long Tok Pisin hia"
+    }
+  ],
+  "translation": "Na Yeremiyahu i save kam insait na go ausait namel long ol manmeri, bilong ol i no putim ⟨את⟩ em long haus kalabus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/37\/1-4.1792355641206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Na Yeremiyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i save kam insait"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na i save go ausait"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bilong ol i no"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "putim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "Yeremiyahu (em)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "kalabus"
+    }
+  ],
+  "timestamp": "2026-10-18T20:34:01.207309490Z",
+  "model": "glm-5.3"
+}

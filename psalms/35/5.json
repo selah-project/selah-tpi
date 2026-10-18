@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i wanpela tok — win\/Spirit; hia em i win bilong pulim skin raismo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mesenja",
+      "rationale": "מלאך i man i karim tok; 'angel' long Inglis i no Tok Pisin tok"
+    }
+  ],
+  "translation": "Ol i kamap olsem skin bilong raismo long pes bilong ruak, na mesenja bilong Yahwe i pushim ol i go daun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/5-8.1792358133278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ol i kamap olsem"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "skin bilong raismo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na mesenja bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "i pushim ol i go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:33.278914445Z",
+  "model": "glm-5.3"
+}

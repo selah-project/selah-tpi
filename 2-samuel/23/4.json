@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנגה ממטר",
+      "rationale": "מחלוקת: 'בזריחה [יביא] גשם' או 'זריחה אחרי גשם'; תורגם 'בירח אחרי גשם' כ-KJV\/JPS"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקר...בקר",
+      "rationale": "כפילות 'moning...moning' שומרת על החזרה הרטורית בעברית"
+    }
+  ],
+  "translation": "Na em i olsem lait bilong moning, taim san i kamap: wanpela moning i no gat klaut; long sait bilong shain, bihain long ren, gras i gro long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/23\/1-4.1792352627958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "na olsem lait bilong"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "taim san i kamap"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "sait bilong shain"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "bihain long ren"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gras i gro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:47.959736135Z",
+  "model": "glm-5.3"
+}

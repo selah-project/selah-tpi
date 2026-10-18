@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתבונן",
+      "rationale": "Hitpael of בין, 'distinguish\/ponder'; rendered 'mi save skelim samting gutpela'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נצרתי",
+      "gloss": "",
+      "rationale": "'I guarded\/kept' — 'mi lukautim gut' keeps the guarding shape rather than 'obey'."
+    }
+  ],
+  "translation": "Moa long ol olpela man mi save skelim samting gutpela, bilong wanem, mi lukautim gut ol mandate bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/97-100.1792359136277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "moa long ol olpela man"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mi save skelim samting gutpela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ol mandate bilong yu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mi lukautim gut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:16.278766499Z",
+  "model": "glm-5.3"
+}

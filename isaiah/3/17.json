@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתהן",
+      "rationale": "Root פתה = hole\/opening; 'their private parts' (KJV\/ASV\/JPS 'secret parts') vs some read 'their foreheads' (שפה)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaskas",
+      "rationale": "שׂפח properly 'scrape out'; 'smite with a scab' is the traditional rendering of the causative sense."
+    }
+  ],
+  "translation": "Olgeta Adonai bai wokim kaskas long kop bilong hed bilong ol meri bilong Tsiyon, na Yahwe bai kalapim ⟨את⟩ ol hap sikret bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/3\/17-20.1792353892592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "bai wokim kaskas long"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kop bilong hed"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ol meri bilong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "ol hap sikret bilong ol"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "bai kalapim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:52.593113845Z",
+  "model": "glm-5.3"
+}

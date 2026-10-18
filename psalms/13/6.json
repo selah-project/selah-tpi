@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "לב literally 'heart'; Tok Pisin uses 'bel' for feelings and will per D4"
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "ואני 'and I' contrastive against the enemies of v5; 'tasol' carries the contrast"
+    },
+    {
+      "kind": "invitation",
+      "subject": "singsing",
+      "rationale": "vow of praise closes the psalm, shifting from plea to declaration"
+    }
+  ],
+  "translation": "Tasol mi, long khesed bilong yu mi bilip; bel bilong mi bai amamas tru long selbim bilong yu; bai mi singsing long Yahwe, long wanem em i mekim gutpela long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/13\/5-6.1792357897086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tasol mi"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "long khesed bilong yu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi bilip"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bai amamas tru"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "long selbim bilong yu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "bai mi singsing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "i mekim gutpela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:37.090676044Z",
+  "model": "glm-5.3"
+}

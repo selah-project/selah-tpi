@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tokaut",
+      "rationale": "ספר here 'tally\/recount' → tokaut (declare aloud); 'kauntim' wud losim tokaut sens"
+    }
+  ],
+  "translation": "Long tupela lip bilong mi mi tokaut olgeta ol kot bilong mouth bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/13-16.1792359089027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "long tupela lip bilong mi"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "mi tokaut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ol kot"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mouth bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:29.028626287Z",
+  "model": "glm-5.3"
+}

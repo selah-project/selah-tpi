@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 15:15",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew fronting הקהל has no verb of being; Tok Pisin needs 'i stap' to carry the fronted construction."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חקה \/ חקת",
+      "rationale": "Same word חוקה repeated — 'one statute… a statute for ever'; repetition kept as 'lo… lo'."
+    }
+  ],
+  "translation": "Long ol man i sanap wantaim: wanpela lo i stap bilong yupela na bilong man i no bilong kantri i stap long wantaim — lo bilong oltaim, long ol patrien bilong yupela; olsem yupela, olsem man i no bilong kantri, bai ⟨em⟩ i stap pastaim long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/15\/13-16.1792349234081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקהל",
+      "gloss": "ol man i sanap wantaim"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "wanpela lo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na bilong man i no bilong kantri"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "man i no bilong kantri i stap"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bilong oltaim"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "long ol patrien bilong yupela"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "olsem yupela"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "olsem man i no bilong kantri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:14.082682828Z",
+  "model": "glm-5.3"
+}

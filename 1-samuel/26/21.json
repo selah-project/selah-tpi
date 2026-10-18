@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 26:21",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i klostu long 'throat\/breath\/life-force', mi usim 'laip'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Tok Pisin i nidim pronomin 'mi' long verb, Hibru i no gat em long חטאתי"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Saul i toktok go stret long David, olsem papa long pikinini man"
+    }
+  ],
+  "translation": "Na Saul i tok: Mi tokim olgeta samting nogut; go bek, pikinini man bilong mi David, long wanem bai mi no mekim olgeta nogut samting long yu moa, bilong olsem laip bilong mi i stap gutpela tru long ai bilong yu dispela de. Lukluk: mi wokim pasin bilong ol man nogut tru, na mi lusim rot olgeta tru tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1133154e33381df9a3375ebd1322aea89868ee201c81806444169b393948df1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/26\/21-24.1792352039423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na … i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mi tokim olgeta samting nogut"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "mekim nogut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "i stap gutpela tru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "long ai bilong yu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukluk"
+    },
+    {
+      "surface": "הסכלתי",
+      "gloss": "mi wokim pasin bilong ol man nogut"
+    },
+    {
+      "surface": "ואשגה",
+      "gloss": "na mi lusim rot"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "trutru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:59.424482306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צפוניך",
+      "rationale": "KJV 'hidden ones' (ol man yu haitim) vs JPS 'treasured ones' (ol man yu holim gut) — צפון i minol haitim o ol man yu lukautim"
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד i sikret plan — ol birua i wokim plan hait"
+    }
+  ],
+  "translation": "Long ol manmeri bilong yu ol i wokim sikret plan bilong giaman, na ol i kotim wantaim long ol samting yu haitim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/1-4.1792358600297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ol manmeri bilong yu"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ol i wokim plan bilong giaman"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sikret plan"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "na ol i kotim wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ol samting yu haitim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:20.298426908Z",
+  "model": "glm-5.3"
+}

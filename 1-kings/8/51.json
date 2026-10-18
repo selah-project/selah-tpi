@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim marker predikat 'i', Hebrew i no gat"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bel bilong paia bilong iron",
+      "rationale": "כור הברזל 'paia bilong iron' — literal i 'furnace bilong iron', piksa bilong taim ol i wokim ol long Mitsrayim"
+    }
+  ],
+  "translation": "Bilong ol ⟨i⟩ manmeri bilong yu, na pes bilong yu, ol we yu bringim ol i kam aut long Mitsrayim, long namel bilong bel bilong paia bilong iron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/49-52.1792352862862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "manmeri bilong yu"
+    },
+    {
+      "surface": "וינחלתך",
+      "gloss": "na pes bilong yu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "yu bringim ol i kam aut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "long namel"
+    },
+    {
+      "surface": "כור",
+      "gloss": "bel bilong paia"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "bilong iron"
+    }
+  ],
+  "timestamp": "2026-10-18T19:47:42.863825899Z",
+  "model": "glm-5.3"
+}

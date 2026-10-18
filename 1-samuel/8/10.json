@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השאלים",
+      "rationale": "Definite participle 'the-asking-ones' — article on a participle marks the people as a defined class"
+    }
+  ],
+  "translation": "Na Semuel i tokim ⟨את⟩ olgeta tok bilong Yahwe long ol manmeri, ol lain i askim long em ⟨את⟩ king.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/9-12.1792351530735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta tok bilong Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ol lain i askim"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "long em ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:30.736611733Z",
+  "model": "glm-5.3"
+}

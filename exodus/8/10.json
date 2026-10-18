@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמרם חמרם",
+      "rationale": "Repetition 'heap upon heap' preserved with 'hap wantaim hap'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol wantuat",
+      "rationale": "אתם 'self' used reflexively; supplied 'ol wantuat' (the frogs) for sense."
+    }
+  ],
+  "translation": "Na ol i sanapim ⟨את⟩ ol wantuat long ol bikpela hap, hap wantaim hap, na graun i kamap nogut smel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e9fae6e1be5ec8c4928d88c230ab62786f7a0fe21e597954a44a49094d5f8c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/10-11.1792362902402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ol i sanapim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol wantuat long ol bikpela hap"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hap"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hap"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "i kamap nogut smel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:02.403370062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דברי בלע",
+      "rationale": "lit. 'words of a gulp\/swallowing'; rendered 'tok bilong kaikai i go olgeta' — words that devour"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "vocative 'o' added before 'tang bilong giaman'; Hebrew apposition has no vocative particle"
+    }
+  ],
+  "translation": "Yu laikim olgeta tok bilong kaikai i go olgeta, o tang bilong giaman!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/52\/5-8.1792358340273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "yu laikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "bilong kaikai i go olgeta"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tang"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bilong giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:00.273967361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגם שאול בנביאים",
+      "rationale": "Ol ves 11 na 12 ol i ritim wanpela tok — repetisen i mekim kamap tok bilong taim."
+    },
+    {
+      "kind": "crux",
+      "subject": "Na husat papa bilong ol",
+      "rationale": "ומי אביהם: sampela i ritim 'husat papa bilong ol profet?' (profet i no bilong lain man), narapela 'husat papa bilong Shaol?' (Kish)."
+    }
+  ],
+  "translation": "Na wanpela man bilong dispela ples i bekim tok, i tok: Na husat papa bilong ol? Olsem na tok i kamap olsem tok bilong taim: Olsen Shaol long ol profet?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/10\/9-12.1792351670923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na i bekim tok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "משם",
+      "gloss": "bilong dispela ples"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Na husat"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa bilong ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "olsem tok bilong taim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Olsen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "long ol profet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:50.925321964Z",
+  "model": "glm-5.3"
+}

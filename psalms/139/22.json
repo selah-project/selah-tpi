@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכלית שנאה",
+      "rationale": "'completion of hatred' = perfect\/utmost hatred; rendered 'les tru tru' (superlative), losing the 'completion' picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאה\/שנאתים",
+      "rationale": "root שנא repeats three times in vv.21–22, binding the stanza; partially kept with 'les … les'"
+    }
+  ],
+  "translation": "Long les tru tru mi les long ol; ol i kamap ol birua bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/21-24.1792359254803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "tru tru"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "les"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "mi les long ol"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "ol birua"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:14.803869669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin needs the object pronoun em; Hebrew carries it in the suffix of תכנו"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "rendered 'sapos' (if\/when); others read causal 'bilong wanem' (for) — both fit"
+    }
+  ],
+  "translation": "No ken holim bek skulimpasin long pikinini; sapos yu paitim em long stik, em bai no dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/13-16.1792359699629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "holim bek"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "skulimpasin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "paitim ⟨em⟩"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "long stik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:39.630211891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 26:16",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per discipline: seat of feeling and will, not the physical organ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨gutpela smel⟩",
+      "rationale": "הקטיר 'to make smoke as fragrance' needs an object in Tok Pisin; supplied 'gutpela smel' (incense)"
+    }
+  ],
+  "translation": "Na taim em i strong pinis, bel bilong em i go antap nogut, i go inap bagarapem em yet, na em i bihainim giaman pasin wantaim Yahwe, Elohim bilong em, na em i go insait long haus bilong Yahwe, bilong kukim ⟨gutpela smel⟩ long altar bilong gutpela smel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7311b477c395d6c908a7eec77ab4cfc0b5ec1fd7693309648fa0cd4e73ea1739",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/26\/13-16.1792362697761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכחזקתו",
+      "gloss": "taim em i strong pinis"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "i go antap nogut"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "bagarapem em yet"
+    },
+    {
+      "surface": "וימעל",
+      "gloss": "i bihainim giaman pasin wantaim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim bilong em"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i go insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "bilong kukim ⟨gutpela smel⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar bilong"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "gutpela smel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:37.762932262Z",
+  "model": "glm-5.3"
+}

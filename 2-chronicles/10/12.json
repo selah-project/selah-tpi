@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "לאמר introduces direct speech; Tok Pisin needs 'bilong' to link the saying"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביום השלשי",
+      "rationale": "The phrase 'on the third day' repeats twice, mirroring the Hebrew repetition of ביום השלשי"
+    }
+  ],
+  "translation": "Na Yarovam i kam wantaim olgeta manmeri i go long Rahavam long tritela de, olsem king i tok bilong: Kam bek long mi long tritela de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "287efdeaefcce095945767ca7d28e44267769f296d7c94e8441be78f31bb641d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/10\/12-12.1792363479133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahavam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "tritela de"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Kam bek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "tritela de"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:39.133926469Z",
+  "model": "glm-5.3"
+}

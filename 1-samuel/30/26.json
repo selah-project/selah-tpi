@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 30:26",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blesing",
+      "rationale": "ברכה is 'blessing\/benediction', not a 'present' (KJV); David calls the share a blessing."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השלל \/ משלל",
+      "rationale": "Repetition of שלל (spoil) twice in one verse; the echo is kept by repeating the same phrase."
+    }
+  ],
+  "translation": "Na David i kam long Tsiklag, na em i salim ol samting bilong ol i raunim i go long ol olpela man bilong Yehuda, long ol poroman bilong em, i tok olsem: Lukim, dispela blesing bilong yu, i kam long ol samting ol i raunim long ol birua bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "328136d43f54c64c44541612a0154d5845f1165281984a29fb3135e41b3f218b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/25-28.1792352018966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na David i kam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "em i salim i go"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "long ol samting bilong ol i raunim"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "long ol olpela man bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "long ol poroman bilong em"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blesing"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "i kam long ol samting ol i raunim"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "long ol birua bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:38.967264322Z",
+  "model": "glm-5.3"
+}

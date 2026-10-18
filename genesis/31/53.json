@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 31:53",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Pret bilong papa bilong en Yitsak",
+      "rationale": "פחד 'the Fear of his father Isaac' is widely read as a divine title (Yakov swears by God, not by Isaac's emotion); literal 'fear\/dread' kept as Pret."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skelim",
+      "rationale": "ישפטו is jussive 'may he judge', rendered as obligation 'i mas skelim' — Hebrew has no separate modal word."
+    },
+    {
+      "kind": "addition",
+      "subject": "tupela",
+      "rationale": "Hebrew אביהם 'their father' is singular; 'ol tupela' added in Tok Pisin to clarify whose father."
+    }
+  ],
+  "translation": "Elohim bilong Avraham, na Elohim bilong Nahor, Elohim bilong papa bilong ol tupela, i mas skelim bitwinim yumi. Na Yakov i swer long Pret bilong papa bilong en, Yitsak.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ba49954535c46cc6eb3448ef7573da7bfdd49a3fe0e0696b37cd7906671c8118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/53-54.1792346919786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim bilong"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "i mas skelim"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "bitwinim yumi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa bilong ol tupela"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "na i swer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "בפחד",
+      "gloss": "long Pret bilong"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:39.787239006Z",
+  "model": "glm-5.3"
+}

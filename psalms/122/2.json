@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew היו is perfect 'have been\/are standing'; Tok Pisin predicate marker i carries the verb"
+    },
+    {
+      "kind": "you",
+      "subject": "Yerusalayim",
+      "rationale": "direct address to Jerusalem in second person (thy gates)"
+    }
+  ],
+  "translation": "Ol lek bilong yumi i sanap long ol dua bilong yu, Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/122\/1-4.1792359193761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ol lek bilong yumi"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "long ol dua bilong yu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:13.762388162Z",
+  "model": "glm-5.3"
+}

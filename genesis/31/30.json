@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלכת",
+      "rationale": "Infinitive absolute: 'going you went' — emphasis lost in Tok Pisin 'go pinis tru'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol Elohim bilong mi",
+      "rationale": "אלהיך is plural here — Laban's house idols, not Elohim the God; lowercase 'ol god' reading also possible."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yakov",
+      "rationale": "Laban's direct accusing question to Jacob."
+    }
+  ],
+  "translation": "Na nau, yu go pinis tru, long wanem bel bilong yu i hangamap tru long haus bilong papa bilong yu — bilong wanem yu stilim ⟨את⟩ ol Elohim bilong mi?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/29-32.1792346989826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yu go"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "yu go pinis tru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "bel i hangamap"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "yu hangamap tru"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bilong papa bilong yu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "yu stilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Elohim bilong mi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ol Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:49.827283329Z",
+  "model": "glm-5.3"
+}

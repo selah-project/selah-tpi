@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol bel bilong mi",
+      "rationale": "כליות em i tupela kidni — inap bilong tingting; Tok Pisin 'bel' i klostu"
+    },
+    {
+      "kind": "crux",
+      "subject": "skulim",
+      "rationale": "יסר i min skulim o stretim olsem papa; KJV 'reins instruct' vs 'chasten'"
+    }
+  ],
+  "translation": "Bai mi barekim ⟨את⟩ Yahwe, we em i givim tok save long mi; i tru, long ol nait ol bel bilong mi skulim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/16\/5-8.1792357931205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Bai mi barekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "em i givim tok save long mi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i tru"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "long ol nait"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ol i skulim mi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ol bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:11.207271182Z",
+  "model": "glm-5.3"
+}

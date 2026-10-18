@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel — tingting na laik, i no hat"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Tok Pisin i nidim bai long wanem bai kamap bihain; Hibru i no gat"
+    }
+  ],
+  "translation": "Man bel i kelong i no inap painim gutpela samting, na man i senisim tok bilong em bai i pundaun long samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/17\/17-20.1792359591176.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "kelong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "na i senisim"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "tok bilong em"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "long samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:51.177721927Z",
+  "model": "glm-5.3"
+}

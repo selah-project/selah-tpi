@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem",
+      "rationale": "יבשו em i 'sem' — Tok Pisin i no gat tok stret bilong 'shame\/confounded' namel"
+    }
+  ],
+  "translation": "Ol bai sem na ol bai go bek long olgeta, olgeta ol i les long Tsiyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/129\/5-8.1792359186794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ol i les long"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:06.794776859Z",
+  "model": "glm-5.3"
+}

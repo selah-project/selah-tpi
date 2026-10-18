@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "geography",
+      "rationale": "Verse names and places the battle site: Soko, Aseka, Efes-Dammim."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Efes-Dammim",
+      "rationale": "Hebrew אפס דמים may mean 'edge of blood'; kept as place name."
+    }
+  ],
+  "translation": "Na ol Peliset i sanapim ⟨את⟩ ol kamp bilong ol long pait, na ol i sanap long Soko, ples bilong Yuda, na ol i kamp namel long Soko na Aseka, long Efes-Damim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/1-4.1792351785772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ol i sanapim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Peliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol kamp bilong ol"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ol kamp bilong ol"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ples bilong"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "na ol i kamp"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "long Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:45.773405318Z",
+  "model": "glm-5.3"
+}

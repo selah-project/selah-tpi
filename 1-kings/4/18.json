@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long graun bilong",
+      "rationale": "Hebrew 'in Benjamin' means in the tribal territory"
+    },
+    {
+      "kind": "measurement",
+      "subject": "list bilong ol gavana",
+      "rationale": "Continues the list of Solomon's district officers"
+    }
+  ],
+  "translation": "Shimi, pikinini bilong Ela, long graun bilong Binyamin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/4\/17-20.1792352738834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "long graun bilong Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:38.835347522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לעשת",
+      "rationale": "Infinitive 'to do' with implicit object Pesak; direct-object marker absent here, so no ⟨את⟩ supplied."
+    }
+  ],
+  "translation": "Na Mose i tokim ol pikinini bilong Yisrael bilong wokim ⟨את⟩ Pesak.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/9\/1-4.1792349130575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:30.576458339Z",
+  "model": "glm-5.3"
+}

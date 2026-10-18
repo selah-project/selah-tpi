@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sikisti wantu na tu yia",
+      "rationale": "KJV\/Geneva '120 princes' belongs to the next verse in their versification; JPS correctly reads here 'about threescore and two years old'."
+    },
+    {
+      "kind": "addition",
+      "subject": "taim em i gat",
+      "rationale": "Hebrew כבר שנין is elliptical ('a son of years'); the age-frame is supplied."
+    },
+    {
+      "kind": "measurement",
+      "subject": "yia",
+      "rationale": "Verse states Darius's age: sixty-two years."
+    }
+  ],
+  "translation": "Na Daryaves, man bilong Midi, i kisim malin bilong king, taim em i gat bin sikisti wantu na tu yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/6\/1-4.1792361240955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "Na Daryaves"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "man bilong Midi"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "malin bilong king"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "yia"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "sikisti wantu"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "na tu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:07:20.956361918Z",
+  "model": "glm-5.3"
+}

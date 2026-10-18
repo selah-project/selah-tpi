@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלכם",
+      "rationale": "Milkom\/Malkam, nem bilong gosen bilong ol man Amon, o 'king bilong ol' — ol tanim tok i no agri"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמים",
+      "rationale": "heven — Tok Pisin i no gat dual; Hibru i tok 'ol heven' (dual)"
+    }
+  ],
+  "translation": "Na ⟨את⟩ ol i kambel daun long ol rup bilong haus long ol ami bilong heven, na ⟨את⟩ ol i kambel daun, ol i sworim long Yahwe, na ol i sworim long Malkam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zephaniah\/1\/5-8.1792357594813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol i kambel daun"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ol i kambel daun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "ol rup bilong haus"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "long ol ami"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "bilong heven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol i kambel daun"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ol i kambel daun"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ol i sworim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "na ol i sworim"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "long Malkam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:34.814091138Z",
+  "model": "glm-5.3"
+}

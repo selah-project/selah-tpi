@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 6:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מפזז",
+      "rationale": "piel of פזז (spring about) occurs only here in the Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tingting daunbilo",
+      "rationale": "ותבז is 'despised\/ held cheap' — rendered with Tok Pisin idiom of looking down"
+    },
+    {
+      "kind": "addition",
+      "subject": "insait long",
+      "gloss": "Hebrew says simply 'in her heart' — locative phrase expanded for Tok Pisin"
+    }
+  ],
+  "translation": "Na i kamap, taim bokis bilong Yahwe i kamap insait long taun bilong David, Mikal, pikinini meri bilong Sha'ul, i lukluk i go long windo, na em i lukim ⟨את⟩ king David i salp na dans long pes bilong Yahwe; na em i tingting daunbilo long em insait long bel bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1409a58f740d1dff55b3d65531a57408289bcf8de4e59c4e11a0fcc5f20f0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/6\/13-16.1792352249616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap insait"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "נשקפה",
+      "gloss": "i lukluk i go"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "long"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "windo"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "na em i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king David"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפזז",
+      "gloss": "i salp"
+    },
+    {
+      "surface": "ומכרכר",
+      "gloss": "na dans"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבז",
+      "gloss": "na em i tingting daunbilo long em"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בלבה",
+      "gloss": "insait long bel bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:29.617534404Z",
+  "model": "glm-5.3"
+}

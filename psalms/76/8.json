@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yū kros",
+      "rationale": "אפך leta i 'ksen bilong yū' — long Hibru kros i stap long nus"
+    },
+    {
+      "kind": "you",
+      "subject": "yū",
+      "rationale": "Tok i go daun long Yahwe yet, em i tok bilong stretim tingting"
+    },
+    {
+      "kind": "invitation",
+      "subject": "husat i ken sanap",
+      "rationale": "Askim we i no gat wanpela tok bek — em i pulim rit long tingim"
+    }
+  ],
+  "translation": "Yū, yū yet ol man i friet long yū; na husat i ken sanap pastaim long yū, taim yū kros pinis?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/76\/5-8.1792358529846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yū"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ol man i friet long yū"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yū yet"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ken sanap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pastaim long yū"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "taim … pinis"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "yū kros"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:09.847898325Z",
+  "model": "glm-5.3"
+}

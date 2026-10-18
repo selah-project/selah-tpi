@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol kilman",
+      "rationale": "טבחים i tok olsem 'butja', tasol em i tok long ol man bilong kipim gutpela king — Tok Pisin i no gat narapela tok bilong em."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol pris",
+      "rationale": "Ves i lainim ol nem na ol ples: Sraya, Tsefanyaahu, na tripela man i save lukautim dua."
+    }
+  ],
+  "translation": "Na bikman bilong ol kilman i kisim ⟨את⟩ Sraya, pris nambawan, na ⟨את⟩ Tsefanyaahu, pris nambatu, na ⟨את⟩ tripela man i save lukautim dua bilong banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/17-20.1792353850900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na em i kisim"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bikman bilong"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ol kilman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "nambawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsefanyaahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyaahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "nambatu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tripela man i save lukautim dua bilong banis"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "man i save lukautim"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "dua bilong banis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:10.901045600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i needim predicate marker, Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skulim",
+      "rationale": "יורה i minim skulim\/tanim tok olsem was, tanim long 'teach' tasol"
+    }
+  ],
+  "translation": "Yahwe em i gutpela na stret: olsem na em i skulim ⟨את⟩ ol man i wok long hevi long rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ad5963b16fe019023955a8fc2c32b6256d0facf90ac00615ab3ac44d45509e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/25\/8-8.1792363334670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "stret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "skulim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i wok long hevi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ol man i wok long hevi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:14.670543584Z",
+  "model": "glm-5.3"
+}

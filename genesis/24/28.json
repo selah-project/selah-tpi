@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skruim tok",
+      "rationale": "הגיד is 'tell, report boldly' — Tok Pisin 'skruim tok' (make known the words) keeps the declarative force."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew feminine verb endings carry the subject; Tok Pisin needs the pronoun 'em' separately."
+    }
+  ],
+  "translation": "Na grafla meri i ran, na em i go skruim tok long haus bilong mama bilong en, olsem ol tok dispela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6f33a666494fdde0dd56a11df833d43b2726ccb142590ad19671d6525f603898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/25-28.1792346656106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "na i ran"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "grafla meri"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "na i go skruim tok"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "bilong mama bilong en"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "olsem ol tok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:16.107283208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גל עיני",
+      "rationale": "Hebrew 'uncover my eyes' rendered 'skraumap ol ai bilong mi' — literal picture of removing a cover from the eyes"
+    },
+    {
+      "kind": "you",
+      "subject": "prayer to Yahwe",
+      "rationale": "Verse is direct address to Yahwe in second person ('ai bilong mi', 'Tora bilong yu')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirakel",
+      "rationale": "נפלאות literally 'things separated\/distinct, wonders' — rendered with borrowed 'mirakel'"
+    }
+  ],
+  "translation": "Skraumap ol ai bilong mi, na bai mi lukim ⟨olgeta⟩ ol mirakel we i kamap long Tora bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ffb4d22778297ce4b6a8d5ac2274c03ca4ecd9ecc5271911b314004b01176018",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/18-19.1792363401990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Skraumap"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ol ai bilong mi"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "na bai mi lukim"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ol mirakel"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "long Tora bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:21.990906780Z",
+  "model": "glm-5.3"
+}

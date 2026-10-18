@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "'ol strongpela man' (mighty ones) vs 'ol angel' (KJV\/JPS 'bread of angels') — same Hebrew word, two famous readings"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fulapim bel bilong ol",
+      "rationale": "לשבע is 'to satisfaction\/fullness'; Tok Pisin needs the belly idiom to carry it"
+    }
+  ],
+  "translation": "Bret bilong ol strongpela man, man i kaikai pinis; em i salim kaikai i kam long ol long fulapim bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/25-28.1792358557684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "bilong ol strongpela man"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "i kaikai pinis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "em i salim i kam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "long fulapim bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:37.684680970Z",
+  "model": "glm-5.3"
+}

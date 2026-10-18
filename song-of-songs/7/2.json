@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת נדיב",
+      "rationale": "'Daughter of a noble' — literal 'daughter of Nadib'; rendered as 'pikinini meri bilong bikman' (role), name reading also possible."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol klen bilong gol",
+      "rationale": "חלאים 'trinkets\/ornaments' — 'chains of gold' supplies the material from context; Hebrew just says polished ornaments."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong gol",
+      "rationale": "Material of the ornaments not in the Hebrew word חלאים itself."
+    }
+  ],
+  "translation": "Oh, ol hap bilong go bilong yu i gutpela tru long ol suo, pikinini meri bilong bikman! Ol raun lek bilong yu olsem ol klen bilong gol, wok bilong ol han bilong man i save wokim gutpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/1-4.1792360517511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "oh"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "i gutpela tru"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ol hap bilong go bilong yu"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "long ol suo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "ol raun…"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "lek bilong yu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "ol klen bilong gol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ol han bilong"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "man i save wokim gutpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:17.512359981Z",
+  "model": "glm-5.3"
+}

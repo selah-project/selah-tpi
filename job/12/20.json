@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שפה → tok",
+      "rationale": "Hibru i tok 'sup\/lip' — Tok Pisin 'tok' i holim mining, sup i lus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעם → tingting",
+      "rationale": "Hibru i tok 'swit\/save bilong skelim kaikai' (taste) — mining i go long tingting\/skelim."
+    }
+  ],
+  "translation": "Em i tekewe tok bilong ol man bilong tru, na em i tekewe tingting bilong ol olpela man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/12\/17-20.1792359971872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "em i tekewe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "tok (sup)"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "bilong ol man bilong tru"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "na tingting"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bilong ol olpela man"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "em i tekewe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:11.873153944Z",
+  "model": "glm-5.3"
+}

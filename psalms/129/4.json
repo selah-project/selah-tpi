@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker required by grammar; Hebrew has no copula."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבות",
+      "rationale": "'Cords\/ropes' (BSB: 'he has cut me from the cords'); ploughing metaphor continues with harness ropes cut so the wicked cannot plough."
+    }
+  ],
+  "translation": "Yahwe i stretpela; em i katim ol rop bilong ol man nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/129\/1-4.1792359196127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "stret"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "katim"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ol rop"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:16.128494285Z",
+  "model": "glm-5.3"
+}

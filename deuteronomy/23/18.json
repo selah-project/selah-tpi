@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדשה\/קדש",
+      "rationale": "Both words come from the root קדש (holi) — 'consecrated one', used here for a cultic prostitute; the irony of the holy root is lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדשה",
+      "rationale": "Cultic shrine-prostitute (root 'holy') vs ordinary harlot — 'salim bodi long nem bilong ol god' keeps the cultic sense against KJV 'whore'."
+    },
+    {
+      "kind": "elision",
+      "subject": "olsem",
+      "rationale": "Second clause abbreviates; 'olsem' (likewise) supplied to carry the repeated verb, marked ⟨…⟩ where not in Hebrew."
+    }
+  ],
+  "translation": "Ol pikinini meri bilong Yisrael i no ken kamap ⟨ol⟩ meri i salim bodi long nem bilong ol god, na ol pikinini man bilong Yisrael i no ken kamap olsem.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/17-20.1792350217618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i ken kamap"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "meri i salim bodi long nem bilong ol god"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ol pikinini meri bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i ken kamap"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "man i salim bodi long nem bilong ol god"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:37.619084718Z",
+  "model": "glm-5.3"
+}

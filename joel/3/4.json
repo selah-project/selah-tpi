@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "de bilong Yahwe",
+      "rationale": "יום is 'day'; the genitive 'bilong' supplies the construct chain the Hebrew binds tightly"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sun and moon darkened",
+      "rationale": "Cosmic reversal signs preceding the day of Yahwe are deliberately opaque portents"
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "Repeat of the verb makes the 'before it comes' clause explicit for Tok Pisin word order"
+    }
+  ],
+  "translation": "San bai senis i kamap tudak, na mun bai senis i kamap blut, pastaim long taim we de bilong Yahwe, bikpela tru na bilong mekim pret, i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "18356801f560ca2b9d111d5cf6f6028fca8a9dc017af32887cdd77869f935108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/3\/3-4.1792363309326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "San"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "bai senis i kamap"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "tudak"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "na mun"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long taim we"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "na bilong mekim pret"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:49.326800988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok",
+      "rationale": "לשון em i 'tang' tasol hia em i tok ples — 'ol tok bilong ol'"
+    }
+  ],
+  "translation": "Olgeta ⟨ol⟩ i ol pikinini bilong Ham, long ol familia bilong ol, long ol tok bilong ol, long ol graun bilong ol, long ol lain bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/10\/17-20.1792346410607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨ol⟩ pikinini bilong"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "long ol familia bilong ol"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "long ol tok bilong ol"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "long ol graun bilong ol"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "long ol lain bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:10.608495584Z",
+  "model": "glm-5.3"
+}

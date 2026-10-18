@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ai bilong yu",
+      "rationale": "פניך i min 'pes bilong yu' — 'long ai bilong yu' em i pasin bilong Tok Pisin long tokim sef i stap klostu."
+    },
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Hibru i no gat kopula — Tok Pisin i nidim 'i gat' long tupela klostu."
+    }
+  ],
+  "translation": "Yu soim mi rot bilong laip: long ai bilong yu i gat fulap kain amamas wantaim ⟨את⟩; long han sut bilong yu i gat ol gutpela samting i stap olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/16\/9-11.1792357905167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Yu soim mi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rot"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bilong laip"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fulap kain"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "amamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai bilong yu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ai bilong yu"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "ol gutpela samting"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "long han sut bilong yu"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "i stap olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:45.169091658Z",
+  "model": "glm-5.3"
+}

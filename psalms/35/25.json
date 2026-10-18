@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Héa",
+      "rationale": "האח em i singaut bilong wokabaut bilong ol birua (aha!); Tok Pisin i no gat wankain singaut, mi holim nois bilong en"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mipela i laim",
+      "rationale": "נפשנו (nafesh bilong mipela) — em i laik\/traipela tingting bilong laik, no 'soul'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלענוהו",
+      "rationale": "בלע = olsem swerim\/kaikaiim olgeta — piksa bilong snek o waitpela kaikai; Tok Pisin 'kaikaiim em olgeta'"
+    }
+  ],
+  "translation": "Ol i no ken tok long bel bilong ol: Héa, bilong olgeta samting mipela i laim! Ol i no ken tok: Mipela i kaikaiim em olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/25-28.1792358143540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "long bel bilong ol"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "bilong olgeta samting mipela i laim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "mipela i kaikaiim em olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:43.541346936Z",
+  "model": "glm-5.3"
+}

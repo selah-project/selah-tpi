@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi i go daun",
+      "rationale": "בעטף לבי literal 'ol i putim klos long bel bilong mi' — bel i karim hevi i pulap daun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב → bel (tingting na laik), no hat."
+    },
+    {
+      "kind": "crux",
+      "subject": "ston i antap moa long mi",
+      "rationale": "ממני i save tanim 'moa long mi' o 'i no inap long mi' — JPS 'too high for me'."
+    },
+    {
+      "kind": "you",
+      "subject": "long yu",
+      "rationale": "Tok i go street long Yahwe\/Elohim."
+    }
+  ],
+  "translation": "Long narapela hap bilong graun bai mi singaut long yu; taim bel bilong mi i go daun, yu ken salim mi long rot i go long ston i antap tru, i antap moa long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/61\/1-4.1792358414844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "long narapela hap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "bai mi singaut"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "taim ... i go daun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "long ston"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "i antap tru"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "moa long mi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yu ken salim mi long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:14.845801520Z",
+  "model": "glm-5.3"
+}

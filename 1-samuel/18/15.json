@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויגר",
+      "rationale": "gur: i scare (KJV afraid) o i stanap long biknem (ASV stood in awe) — tupela i olsem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i scare long em",
+      "rationale": "מפניו literally 'long pes bilong em' — Tok Pisin i tokim scare, tasol shape bilong pes i stap long gloss."
+    }
+  ],
+  "translation": "Na Shaul i lukim se em i mekim gutpela tingting tumas, na em i scare long em, i go bek long pes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e4b14f2836feb455bdd817b3ffdfc37829c269a7813f5690645f4c833be3912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/18\/13-16.1792351828542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na … i lukim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "i mekim gutpela tingting"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "na em i scare"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "i go bek long pes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:28.543168816Z",
+  "model": "glm-5.3"
+}

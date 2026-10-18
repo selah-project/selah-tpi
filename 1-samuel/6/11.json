@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טחריהם",
+      "rationale": "'Emerods\/tumors' in older Bibles vs 'boils' vs anal tumors — the Hebrew טחור points to hemorrhoid-like swellings; 'ol boil' keeps the bodily picture without the clinical gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol rat",
+      "rationale": "עכבר is a mouse (nibbler); Tok Pisin has no everyday word for mouse apart from rat."
+    }
+  ],
+  "translation": "Na ol i putim ⟨את⟩ bokis bilong Yahwe antap long kiat, wantaim ⟨את⟩ ol bokis, na ⟨את⟩ ol rat bilong gol, na ⟨את⟩ ol piksa bilong ol boil bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f174bc3f3b0be042c2f56cccab0974255fb64a2fcc9344410ac8719b9c67f557",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/6\/9-12.1792351572329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "na ol i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis bilong Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol bokis"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ol bokis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol rat bilong gol"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ol rat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bilong gol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol piksa bilong ol boil"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ol piksa"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ol boil bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:12.330250897Z",
+  "model": "glm-5.3"
+}

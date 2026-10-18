@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 1:9",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb has suffixed object; Tok Pisin needs ⟨em⟩ to carry it"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלות שלמה",
+      "rationale": "'whole captivity' (KJV\/JPS) vs 'complete\/peaceable captivity' — whether שלמה means whole or a treaty-peace betrayal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלות",
+      "rationale": "'exiles\/captivity' rendered as ol man ol i klostu, Tok Pisin lacks a single word"
+    }
+  ],
+  "translation": "Yahwe i tok olsem: Long tripela pasin bilong brukim lo bilong Tsor, na long fopela, bai mi no senisim ⟨em⟩, long wanem ol i salim olgeta man ol i klostu long Edom, na ol i no tingim kontrak bilong ol brata.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "18d57826864840b5a9f51e0fdef4b8072b654b9be425ca2c58327381776d49f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/9-12.1792357169631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pasin bilong brukim lo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "bilong Tsor"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fopela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "bai mi no senisim ⟨em⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "ol i salim ol"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ol man ol i klostu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "long Edom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "tingim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bilong ol brata"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:29.631854589Z",
+  "model": "glm-5.3"
+}

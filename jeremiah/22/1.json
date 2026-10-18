@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "construct chain בית מלך יהודה needs Tok Pisin 'bilong' twice"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yirmeyahu",
+      "rationale": "Yahwe commands the prophet with singular imperative 'go down'"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok: Yu go daun long haus bilong king bilong Yuda, na yu tokim long hap ⟨את⟩ tok dispela:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9babd1d519357962e6f83ff1549314723379076eaf179b902b4adc50530a1a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/22\/1-4.1792355284624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "yu go daun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na yu tokim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok dispela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:04.625518488Z",
+  "model": "glm-5.3"
+}

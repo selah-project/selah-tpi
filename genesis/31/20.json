@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ganim bel",
+      "rationale": "גנב את לב idiom 'steal the heart' = deceive secretly; Tok Pisin 'ganim bel' keeps the picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (seat of thinking and feeling), not 'hat'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבן \/ לב",
+      "rationale": " adjacent sound-play between Laban's name and 'heart' is lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na Yakov i ganim ⟨את⟩ bel bilong Lavan, man bilong Aram, bilong olsem em i no skruvim long em, long wanem em i ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1c75988bdc61f27b714bbb37d79a958f59139a147a097f7395c1ad9f7e8aaabc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/20-20.1792362891043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "i ganim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "man bilong Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "i no"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "skruvim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "i ranawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:51.044008715Z",
+  "model": "glm-5.3"
+}

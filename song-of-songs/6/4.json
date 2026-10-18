@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yu",
+      "rationale": "אַתְּ long ves em i pronon 'yu' (lemma אתה), i no aleph-tav marker H853"
+    },
+    {
+      "kind": "crux",
+      "subject": "ami i kotim ol plak",
+      "rationale": "נדגלות: 'ol ami long ol plak' (dual\/plural bilong דגל), o samting i save fainim aut wantaim plak — ol i.no save stret"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתרצה\/כנדגלות",
+      "rationale": "Tupela komparesen i stat wantaim כ — Tri-taim 'olsem' stat long wanwan lain, pasin bilong song"
+    }
+  ],
+  "translation": "Yu gutpela tru, meri bilong lav bilong mi, olsem Tirtsa; yu swit olsem Yerusalayim; yu i mekim man fright olsem ol ami i kotim ol plak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/6\/1-4.1792360466282.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "gutpela tru"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "meri bilong lav bilong mi"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "olsem Tirtsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "swit"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "olsem Yerusalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "i mekim man fright"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "olsem ol ami i kotim ol plak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:26.283125768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 33:30",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש is throat\/breath\/life-force, rendered as 'bel' (seat of life and feeling), not 'soul'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hol birua",
+      "rationale": "שחת is a pit\/trap, figuratively destruction — rendered as 'hol birua', not 'hel'."
+    }
+  ],
+  "translation": "Bilong bel bilong em i go bek long hol birua, bilong em i lukim lait long lait bilong ol man i gat laip.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/33\/29-32.1792360291239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשיב",
+      "gloss": "bilong … i go bek"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "מני",
+      "gloss": "long"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hol birua"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "bilong lukim lait"
+    },
+    {
+      "surface": "באור",
+      "gloss": "long lait"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bilong ol man i gat laip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:31.240153884Z",
+  "model": "glm-5.3"
+}

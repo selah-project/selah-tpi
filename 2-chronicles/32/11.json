@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "han",
+      "rationale": "מכף em i 'kpalma bilong han'; 'long han' em i pasin bilong Tok Pisin we i klia"
+    },
+    {
+      "kind": "you",
+      "subject": "tok long ol man Yerusalayim",
+      "rationale": "Sanherib i askim ol man i stap insait, i no tok long king"
+    }
+  ],
+  "translation": "A, no Yakhizkiyahu i tritim ol yupela long bagarap, bilong givim yupela i go dai long hangre na long taim bilong no gat wara, taim em i tok olsem: Yahwe, Elohim bilong yumi, bai em i rausim yumi long han bilong king bilong Ashur?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/32\/9-12.1792362742825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a, no"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yakhizkiyahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "i tritim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "למות",
+      "gloss": "i go dai"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "long hangre"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "na long taim bilong no gat wara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "taim em i tok olsem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "bai em i rausim yumi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "long han"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "bilong Ashur"
+    }
+  ],
+  "timestamp": "2026-10-18T22:32:22.825984045Z",
+  "model": "glm-5.3"
+}

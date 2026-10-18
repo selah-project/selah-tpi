@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיות",
+      "rationale": "'vigorous\/lively' — rendered strongpela laip"
+    },
+    {
+      "kind": "crux",
+      "subject": "המילדת singular",
+      "rationale": "verse-end form is singular 'the midwife' though plural midwives speak; rendered collectively"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...כי",
+      "rationale": "repeated causal 'for...for' structure of the midwives' answer"
+    }
+  ],
+  "translation": "Na ol meri bilong helpim karim pikinini ol i tokim Paroh: Long wanem, ol meri Ivrimeri i no wankain olsem ol meri bilong Mitsrayim, long wanem ol Ivrimeri ol i gat strongpela laip — hanbirua i no inap kamap yet long ol, na ol i karim pikinini pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/17-20.1792347340814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "na ol i tokim"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ol meri bilong helpim karim pikinini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "wankain olsem ol meri"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ol meri Ivrimeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ol i gat strongpela laip"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "hanbirua i no inap kamap yet"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "meri bilong helpim karim pikinini"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "na ol i karim pikinini pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:40.816624302Z",
+  "model": "glm-5.3"
+}

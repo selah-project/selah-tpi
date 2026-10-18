@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man i no bon long kantri",
+      "rationale": "גר em i man i kam stap long kantri bilong ol narapela, i no sitizen — Tok Pisin i no gat wanpela tok."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "Hibru i putim tripela man wantaim long wanpela kot — Tok Pisin i nidim bilong long olgeta."
+    },
+    {
+      "kind": "you",
+      "subject": "ol manmeri bilong Yisrael",
+      "rationale": "Bansis i tokim olgeta manmeri long tok Amen."
+    }
+  ],
+  "translation": "Man i kers, man i bagarapim kot bilong man i no bon long kantri, bilong pikinini i no gat papa, na bilong meri i lait man; na olgeta manmeri bilong ples bai i tok: Amen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/17-20.1792350262860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i kers"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "man i bagarapim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "גר",
+      "gloss": "man i no bon long kantri"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "pikinini i no gat papa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na meri i lait man"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na bai i tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri bilong ples"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:22.861524265Z",
+  "model": "glm-5.3"
+}

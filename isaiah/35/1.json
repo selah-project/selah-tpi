@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "habatselet",
+      "rationale": "Rose vs crocus\/meadow-saffron; Tok Pisin借用音habatselet保住词形"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יששום...ותגל",
+      "rationale": "三个动词叠唱欢乐：hamamas\/amamas保留近音重复"
+    }
+  ],
+  "translation": "Ol baksait bus na graun draipela bai i hamamas, na ples wailples i amamas, na bai i karim ol pawa, olsem habatselet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/35\/1-4.1792354356366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "bai i hamamas"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "baksait bus"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "na graun draipela"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na i amamas"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ples wailples"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "na bai i karim ol pawa"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "olsem habatselet"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:36.366910324Z",
+  "model": "glm-5.3"
+}

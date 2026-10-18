@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Em⟩",
+      "rationale": "Hibru i no gat sabjek; Tok Pisin i save putim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "foudesen",
+      "rationale": "מכוניה — ol sen i strong, ples bilong sanap; 'foudesen' em i klostu tasol"
+    }
+  ],
+  "translation": "⟨Em⟩ i statim ⟨את⟩ graun antap long ol foudesen bilong en; em i no ken surik, taim olgeta i go pinis i go inap oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/5-8.1792358913632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "statim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "foudesen bilong en"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "surik"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taim olgeta i go pinis"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:33.632833420Z",
+  "model": "glm-5.3"
+}

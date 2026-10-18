@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol han bilong alter",
+      "rationale": "קרנות 'horns' of the altar are its corner projections; Tok Pisin 'han' keeps the projecting shape"
+    },
+    {
+      "kind": "addition",
+      "subject": "sampela",
+      "rationale": "מדם 'from the blood' implies a portion; 'sampela' makes the partitive explicit"
+    },
+    {
+      "kind": "you",
+      "subject": "Mose",
+      "rationale": "Instructions addressed directly to Moses"
+    }
+  ],
+  "translation": "Na yu kisim sampela blut bilong bulmakau man, na yu putim long ol han bilong alter wetim pinga bilong yu; na ⟨את⟩ olgeta blut yu ronim i go long fodaesen bilong alter.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0c08fc337118253f740951b22bea98bfa6ef2d862f10c884b3957824189adacb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/9-12.1792347938141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "yu kisim"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "sampela blut bilong"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bulmakau man"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ol han bilong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "wetim pinga bilong yu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta blut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "yu ronim i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "fodaesen bilong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alter"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:38.142612760Z",
+  "model": "glm-5.3"
+}

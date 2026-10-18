@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלת",
+      "rationale": "'olah' is literally 'that which ascends' (whole offering going up in smoke); rendered 'ofa bilong paia' — the up-going picture is partially carried by 'i go antap'."
+    },
+    {
+      "kind": "addition",
+      "subject": "altas",
+      "rationale": "Hebrew mizbeach means 'place of slaughtering'; Tok Pisin borrows 'altas', an added loanword, since no native word covers it."
+    },
+    {
+      "kind": "you",
+      "subject": "ליהוה",
+      "rationale": "The altar is built 'to\/for Yahwe' — first act of worship after the flood, marking Yahwe as the addressee of the offering."
+    }
+  ],
+  "translation": "Na Noa i wokim wanpela altas bilong Yahwe, na em i kisim long olgeta ol animal bilong lukautim we i klia, na long olgeta pisin we i klia, na em i salim ol ofa bilong paia i go antap long altas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/8\/17-20.1792346382235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na em i kisim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "we i klia"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na long olgeta"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "pisin"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "we i klia"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na em i salim i go antap"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ol ofa bilong paia"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "long altas"
+    }
+  ],
+  "timestamp": "2026-10-18T17:59:42.236770476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "bilong wanem",
+      "rationale": "כי em i maruk bilong toktok, Tok Pisin i nidim `bilong wanem` o em i stap ausait"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol pikinini bilong en",
+      "rationale": "אחרית i save tokim pikinini o bihain taim; `bihain taim` em i nambawan hia"
+    }
+  ],
+  "translation": "Bihain taim i no gat bilong man nogut; lamp bilong ol man bilong rong bai i mate.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "059be322f064815aca8bbfbaf04daf006c053cf00d32f6c88eb372c06a51d87c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/24\/17-20.1792359711809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bihain taim"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bilong man nogut"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man bilong rong"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "bai i mate"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:51.810808775Z",
+  "model": "glm-5.3"
+}

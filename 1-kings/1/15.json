@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong em",
+      "rationale": "Heb i tok 'long rum' tasol; mi putim 'bilong em' bilong klia — rum bilong king yet."
+    },
+    {
+      "kind": "elision",
+      "subject": "החדרה",
+      "rationale": "Heb i gat he bilong rum — Tok Pisin i no gat article, olsem na mi no raitim."
+    }
+  ],
+  "translation": "Na Bat-Sjeva i go long king, long rum bilong em; na king i lapun tumas; na Abisag, meri bilong Sunem, i save wokim ⟨את⟩ king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6c69edec50781295b2e58ebe30217b1d3f0b96a12e6686d6e81dae9a6daa9d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/13-16.1792352658576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "i go"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "long rum"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na king"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "i lapun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "na Abisag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "meri bilong Sunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "i save wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:18.577965930Z",
+  "model": "glm-5.3"
+}

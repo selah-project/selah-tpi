@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מפיל\/נפל",
+      "rationale": "same root nafal — 'make-fall' the beam, the iron 'falls' — wordplay lost in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "והוא שאול",
+      "rationale": "'it was borrowed' (I asked for it) vs 'it is lost\/swallowed' (cf. shual, Sheol-like root) — KJV follow the first"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "man speaking to Elisha, so 'bikman bilong mi', not Adonai — human addressee"
+    }
+  ],
+  "translation": "Na i kamap, taim wanpela man i waskim ⟨את⟩ wampen diwai, ⟨את⟩ ain i pundaun i go long wara, na em i singautut na i tok: Aua, bikman bilong mi! Na em i samting mi bin askim long narapela man!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/6\/5-8.1792353315798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "i waskim"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "wampen diwai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ain"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ain"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "na em i singautut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "mi bin askim long narapela man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:15.799391393Z",
+  "model": "glm-5.3"
+}

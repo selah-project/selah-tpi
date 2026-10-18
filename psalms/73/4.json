@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרצבות",
+      "rationale": "tok i stap hia tasol long olgeta Tanakh — bar bilong tintin\/pain"
+    },
+    {
+      "kind": "crux",
+      "subject": "אולם",
+      "rationale": "'bodi i rol wantaim' o 'strong' — KJV 'strength is firm' vs JPS 'body is sound'"
+    }
+  ],
+  "translation": "Bilong wanem i no gat ol bar bilong pain long taim ol i dai; na bel bilong ol i fulap, bodi bilong ol i strong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/1-4.1792358489961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ol bar bilong pain"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "long taim ol i dai"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "na bel i fulap"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "bodi bilong ol i strong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:29.962962508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לבה",
+      "rationale": "Hebrew 'upon her heart' = speaking inwardly; rendered 'long bel bilong en' per D4 לב=bel."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Emphatic pronoun היא bracketed, supplied in Tok Pisin construction."
+    }
+  ],
+  "translation": "Na Hana, em i toktok long bel bilong ⟨em⟩; olgeta bilong en lip i wokabaut tasol, na nois bilong en i no inap harim; na Eli i tingting em i dring pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/1\/13-16.1792351472704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "Na Hana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "i toktok"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "olgeta bilong en lip"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "na nois bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "i inap harim"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "na i tingting em"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "i dring pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:32.706221012Z",
+  "model": "glm-5.3"
+}

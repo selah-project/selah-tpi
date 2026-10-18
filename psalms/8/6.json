@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאלהים",
+      "rationale": "'a little less than Elohim' — LXX and KJV read 'than the angels'; Hebrew literally says Elohim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד is literally 'weight', figuratively splendor."
+    }
+  ],
+  "translation": "Yu mekim em i smol liklik long Elohim, na yu putim kron long em wantaim glori na bikpela nem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/8\/5-8.1792357907417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "yu mekim em i smol liklik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "wantaim glori"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na bikpela nem"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "yu putim kron long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:47.418235157Z",
+  "model": "glm-5.3"
+}

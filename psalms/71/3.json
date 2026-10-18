@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Petition continuing direct address to Yahwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew fronted pronoun אתה for emphasis; Tok Pisin needs bracketed pronoun to carry the 'you are' clause"
+    },
+    {
+      "kind": "crux",
+      "subject": "צוית להושיעני",
+      "rationale": "'You have commanded to save me' (past, KJV\/ASV) vs 'You have appointed' (JPS) — perfect vs purposive reading"
+    }
+  ],
+  "translation": "Yu stap long mi olsem ston bilong strongpela ples bilong stap, we mi ken go insait oltaim; yu bin givim tok bilong sevim mi, long wanem yu ⟨em⟩ ston bilong mi na banis bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/1-4.1792358471014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "yu stap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "olsem ston bilong strongpela ples"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ples bilong stap"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bilong go insait"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "yu bin givim tok"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "bilong sevim mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ston bilong mi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na banis bilong mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:11.015755701Z",
+  "model": "glm-5.3"
+}

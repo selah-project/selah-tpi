@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Prayer of the psalmist addressed directly to God."
+    },
+    {
+      "kind": "idiom",
+      "subject": "mekim gutpela long",
+      "rationale": "גמול literally 'deal\/requite (with)' — here deal good, not the generic 'deal bountifully'."
+    }
+  ],
+  "translation": "Mekim gutpela long wokboi bilong yu, bilong bai mi stap laip, na bai mi lukautim tok bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/17-20.1792359094297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמול",
+      "gloss": "mekim gutpela long"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wokboi bilong yu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "bai mi stap laip"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "na bai mi lukautim"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tok bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:34.298350342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting nating",
+      "rationale": "אלילים i tok 'ol samting i nating long wokim' — KJV 'idols', JPS 'things of nought'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ol",
+      "rationale": "שמים em i dual — tupela heven; Tok Pisin i lusim namba dual"
+    }
+  ],
+  "translation": "Bihain long wanem, olgeta god bilong ol lain i ol samting nating; tasol Yahwe i wokim ol heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97181f96890c63ce205790d229cab2560e78902b76da491cd5581843bf8646c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/96\/5-8.1792358850318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain long wanem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "god"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bilong ol lain"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ol samting nating"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "tasol Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:30.325645446Z",
+  "model": "glm-5.3"
+}

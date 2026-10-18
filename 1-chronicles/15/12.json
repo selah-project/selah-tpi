@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 15:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ \/ ken",
+      "rationale": "Tok Pisin predicate markers and modality supplied; Hebrew has bare imperatives."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויאמר להם",
+      "rationale": "Hebrew 'and he said to them' rendered as 'i tok long ol' without separate brackets."
+    },
+    {
+      "kind": "you",
+      "subject": "to the Levite heads",
+      "rationale": "David directly addresses the heads of the Levite fathers' houses."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Three summons: sanctify yourselves, you and your brothers, bring up the ark."
+    }
+  ],
+  "translation": "Na em i tok long ol: Yupela i ol het bilong ol papa bilong ol Levi. Yupela na ol brata bilong yupela, yupela ken kamap holi, na yupela ken salim ⟨את⟩ sanduk bilong Yahwe, Elohim bilong Yisrael, i go long ples mi bin redim long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be7f189f8906f45d742e7b18b0a04111e11d5690d3e0c82c58d6d82bb05f0473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/15\/9-12.1792361998152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Yupela"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol het bilong"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ol papa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "bilong ol Levi"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "yupela ken kamap holi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Yupela"
+    },
+    {
+      "surface": "ואחיכם",
+      "gloss": "na ol brata bilong yupela"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "yupela ken salim i go antap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduk bilong Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "הכינותי",
+      "gloss": "ples mi bin redim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:58.153646109Z",
+  "model": "glm-5.3"
+}

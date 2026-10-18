@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יפיפית",
+      "rationale": "Rot sipeli (intensive) bilong יפה — 'yu preti tru tru' — duplikaten i lus long Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חן",
+      "rationale": "חן em i gutpela luk wantaim gutpela pasin — 'kros' i hat long Tok Pisin; 'gutpela pasin' i klostu."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "Long ves 7, king i kolim 'Elohim' — dispela ves i setim narapela man i gat tupela hia."
+    }
+  ],
+  "translation": "Yu i winim olgeta ol pikinini man long gutpela luk; gutpela kros ⟨i⟩ kapsait long tupela lip bilong yu; olsem na Elohim i brunim yu olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/1-4.1792358295894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "yu i winim olgeta long gutpela luk"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "i kapsait"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gutpela pasin"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "long tupela lip bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "long dispela as"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "i brunim yu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:15.895793199Z",
+  "model": "glm-5.3"
+}

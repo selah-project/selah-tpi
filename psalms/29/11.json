@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim gutpela tok",
+      "rationale": "barak i tok 'nailap \/ givim gutpela tok' — Tok Pisin i no gat wanpela tok bilong barak."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז\/יעוז",
+      "rationale": "olgeta i no save — עז i stap long hia na longצ 29:1 ('givim Yahwe strong') — repiten bilong strong i kilim bodi bilong salim."
+    }
+  ],
+  "translation": "Yahwe i givim strong long ol manmeri bilong en; Yahwe i givim gutpela tok bilong en i go ⟨את⟩ long ⟨את⟩ ol manmeri bilong en, long pasis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/29\/9-11.1792358043215.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "long ol manmeri bilong en"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "i givim gutpela tok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri bilong en"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "long pasis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:03.216117053Z",
+  "model": "glm-5.3"
+}

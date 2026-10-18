@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Hebrew 'from the face of the waters of the flood'; Tok Pisin 'long pes bilong' keeps the body-part picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teba",
+      "rationale": "התבה is literally 'box\/chest' (same word as baby Moses's basket), rendered as 'teba' the floating box."
+    },
+    {
+      "kind": "measurement",
+      "subject": "bikpela karamap",
+      "rationale": "המבול with definite article — THE deluge, the one named event, not any flood."
+    }
+  ],
+  "translation": "Na Noa i go insait, na ol pikinini man bilong en, na meri bilong en, na ol meri bilong ol pikinini man bilong en, ⟨את⟩ wantaim em, i go long teba, long pes bilong ol wara bilong bikpela karamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6005f8635fe525b8d74b70a412316f4b91b87761b22fb0796a62f695bc72fd56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/7\/7-8.1792362912192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i go insait"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ol pikinini man bilong en"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na meri bilong en"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "na ol meri bilong"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini man bilong en"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wantaim ⟨em⟩",
+      "marks": "Noa i go insait wantaim em"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wara"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "bikpela karamap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:12.193819740Z",
+  "model": "glm-5.3"
+}

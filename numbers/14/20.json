@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rong",
+      "rationale": "object of forgiving supplied in Tok Pisin; Hebrew verb 'I have forgiven' stands absolute"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלח \/ סלחתי",
+      "rationale": "Mose's verb 'lusim' (v19) answered by Yahwe's same verb 'Mi bin lusim' — kept in parallel"
+    }
+  ],
+  "translation": "Na Yahwe i tok: Mi bin lusim rong, olsem tok bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2cce4de3c1b32089776949657e78a9c37a62a7ae462fef08a74f322c9262cfee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/14\/17-20.1792349156398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "Mi bin lusim rong"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "olsem tok bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:56.399205580Z",
+  "model": "glm-5.3"
+}

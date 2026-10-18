@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "eleben-pela de",
+      "rationale": "journey measured in eleven days — distance framing for the speech"
+    },
+    {
+      "kind": "addition",
+      "subject": "rot bilong",
+      "rationale": "Hebrew says only 'eleven days from Horeb'; 'journey\/rot' supplied to make the measure readable"
+    }
+  ],
+  "translation": "Wanpela rot bilong eleben-pela de i stap, long holsait bilong Horev, i go lusim maunten Seir, inap long Kadesh-Barnea.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/1-4.1792349739583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eleben"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "long holsait bilong Horev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:39.584682523Z",
+  "model": "glm-5.3"
+}

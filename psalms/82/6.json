@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol god",
+      "rationale": "אלהים here plural addressed to the judges — 'ol god' lowercase per D1 allowance; not Elohim the Name, since the speaker is God addressing others"
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "direct address to the judged rulers of v.82:1"
+    }
+  ],
+  "translation": "Mi tok olgeta: Yupela ol i ⟨ol⟩ god, na yupela olgeta pikinini bilong Elyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/82\/5-8.1792358597036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tok olgeta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "yupela olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:17.037393156Z",
+  "model": "glm-5.3"
+}

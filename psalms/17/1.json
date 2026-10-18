@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i needim predicate marker; Hibru i no gat"
+    },
+    {
+      "kind": "crux",
+      "subject": "tsedek",
+      "rationale": "צדק ol i tanim: 'harim stret' o 'harim tok bilong stret man'; mi holim tok tsedek olsem nem bilong samting"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krai",
+      "rationale": "רנה em i singaut nogut tru (wantaim wari o amamas), mi givim krai tasol"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tpi",
+      "rationale": "Olgeta improtiv long stat — samting ol i singautim long Yahwe"
+    }
+  ],
+  "translation": "Tapela bilong David. Harim, Yahwe, ⟨i⟩ tsedek; harim gutpela krai bilong mi; waskim aras long tapela bilong mi — i no gat nating lips bilong giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/17\/1-4.1792357948343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "tapela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "harim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "harim gutpela"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "krai bilong mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "waskim aras"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tapela bilong mi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lips"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bilong giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:28.344577511Z",
+  "model": "glm-5.3"
+}

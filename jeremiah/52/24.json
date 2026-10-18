@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bikman bilong ol man i kilim man",
+      "rationale": "רב טבחים literally 'chief of the butchers', i.e. Nebuzaradan the executioner-captain"
+    },
+    {
+      "kind": "measurement",
+      "subject": "captives",
+      "rationale": "three named captives plus three doorkeepers, part of the roll of those seized"
+    }
+  ],
+  "translation": "Na bikman bilong ol man i kilim man i kisim ⟨את⟩ Serayah, pris nambawan, na ⟨את⟩ Tsefanyah, pris nambatu tupela, na ⟨את⟩ tripela man i save lukautim dua bilong go insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e5311180b94c362b84f8c838ccca97e3d238df78b5029224c3c372977f53dc72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/52\/21-24.1792355951958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bikman bilong"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ol man i kilim man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "nambawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "nambatu tupela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tripela man i save lukautim dua"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "man i save lukautim"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "dua bilong go insait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:11.960121002Z",
+  "model": "glm-5.3"
+}

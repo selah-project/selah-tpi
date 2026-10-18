@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש em i laip\/breth bilong man, no 'hat' — mi usim 'bel' bilong Tok Pisin bilong tingting"
+    },
+    {
+      "kind": "crux",
+      "subject": "wanpela bilong mi tasol",
+      "rationale": "יחידתי: 'pikinini wanpela \/ laik tru bilong mi' — KJV 'my darling', JPS 'mine only one'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat tok bilong em, Tok Pisin i nidim"
+    }
+  ],
+  "translation": "Salim bel bilong mi i kamap long ausait long bainat; long han bilong dok, salim ⟨em⟩ — wanpela bilong mi tasol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/21-24.1792358032434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "salim … i kamap long ausait"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "dok"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "wanpela bilong mi tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:52.434537707Z",
+  "model": "glm-5.3"
+}

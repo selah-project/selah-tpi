@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ston bilong stat",
+      "rationale": "מוסדי 'foundations' rendered as foundation-stones of the earth; picture of a building shaken at its base"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימוטו",
+      "rationale": "'waver\/slip\/shaken' — KJV 'out of course' vs ASV 'shaken'; tok 'goru' (shaken) chosen"
+    }
+  ],
+  "translation": "Ol i no save, na ol i no save skelim; long tudak ol i wokabaut; olgeta ston bilong stat bilong graun i goru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/82\/5-8.1792358597036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "save skelim"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "long tudak"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "i goru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "ston bilong stat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bilong graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:17.037229923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באפך",
+      "rationale": "Literally 'in your nose\/nostrils' = anger; Tok Pisin 'bel kol' idiom for anger."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמעטני",
+      "rationale": "'Diminish\/make me few' (JPS, YLT 'make me small') vs 'bring me to nothing' (KJV)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Imperative prayer addressed directly to Yahwe."
+    }
+  ],
+  "translation": "Yahwe, skelim mi stret, tasol long pasin bilong kot; no long bel kol bilong yu, na bai yu no ken rausim mi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/10\/21-24.1792355020995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "skelim mi stret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "long pasin bilong kot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "long bel kol bilong yu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "bai yu no ken rausim mi olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:40.996970069Z",
+  "model": "glm-5.3"
+}

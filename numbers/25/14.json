@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 25:14",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok bilong mer long kilim; Hibru i tok kilim meri tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bikman",
+      "rationale": "נשיא 'bikman bilong lain' — i no 'prin'; Tok Pisin 'bikman' i holim pasin bilong Hibru."
+    }
+  ],
+  "translation": "Na nem bilong man bilong Yisrael, man we ol i kilim, we i kilim ⟨את⟩ ⟨em⟩ meri Midian — em i Zimri, pikinini bilong Salu, bikman bilong haus papa long lain Simeon.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eff4c36b1f6fc95200c4fea687a22808b955d7ab914eb351baa741cbc510f686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/25\/13-16.1792349417302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na nem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "man we ol i kilim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "i kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meri Midian"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "meri Midian"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "לשמעני",
+      "gloss": "long lain Simeon"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:17.303007190Z",
+  "model": "glm-5.3"
+}

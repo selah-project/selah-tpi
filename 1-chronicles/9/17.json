@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i laikim mak i long het bilong sentens, Hibru i no gat em"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחיהם",
+      "rationale": "JPS ritim 'ol brata bilong Salum' (apostrophes: brata i Salum yet), ol narapela ritim 'ol brata bilong ol"
+    }
+  ],
+  "translation": "Na ol man bilong lukautim dua — Salum, na Akub, na Talmon, na Ahiman, na ol brata bilong ol; Salum i hed.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "28bf7ba2a3a6ddfa8c29ba678c63cdd11e1d92bf64b421f5e8f516d5beb44179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/9\/17-20.1792361962737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "ol man bilong lukautim dua"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salum"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "Akub"
+    },
+    {
+      "surface": "וטלמן",
+      "gloss": "Talmon"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "Ahiman"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ol brata bilong ol"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salum"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hed"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:22.738370083Z",
+  "model": "glm-5.3"
+}

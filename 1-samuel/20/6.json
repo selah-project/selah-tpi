@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker needed for the final clause; Hebrew has no such particle"
+    },
+    {
+      "kind": "crux",
+      "subject": "זבח הימים",
+      "rationale": "'sacrifice of the days': yearly sacrifice (KJV\/JPS) vs sacrifice of the new-moon festival days (context)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשאל נשאל",
+      "rationale": "infinitive absolute doubling 'asked earnestly he asked', rendered as one strengthened phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרוץ",
+      "gloss-check": "l\/7323 'to run' — rendered 'bilong ran' (hurry to Bethlehem)",
+      "rationale": "run\/hurry"
+    }
+  ],
+  "translation": "Sapos papa bilong yu lukim mi i no stap na askim, yu ken tok: David i askim strong long mi bilong ran i go Betlekem, siti bilong en, long wanem ol i wokim ofa bilong ol de long en long olgeta man bilong di fæmili ⟨i⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/5-8.1792351877641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "פקוד",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "askim long mi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "yu ken tok"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "askim strong"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "askim strong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "bilong ran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekem"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "siti bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "bilong ol de"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta man bilong"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "famili"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:17.642116596Z",
+  "model": "glm-5.3"
+}

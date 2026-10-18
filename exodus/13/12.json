@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 13:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "והעברת",
+      "rationale": "Hebrew 'cause to pass over\/cross over'; rendered as 'pasim givim' (set apart), the standard sense 'cause to pass to Yahwe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פטר רחם",
+      "rationale": "literally 'opener of the womb' — the firstborn as the one who splits open the mother's womb"
+    },
+    {
+      "kind": "measurement",
+      "subject": "firstborn dedication",
+      "rationale": "verse counts and assigns every first-opening of womb and firstling of livestock to Yahwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פטר...פטר",
+      "rationale": "repetition of פטר frames the two halves of the verse, lost in translation"
+    }
+  ],
+  "translation": "Na yu ken pasim ⟨את⟩ olgeta pikinini i opim bel bilong mama bilong en, long Yahwe; na olgeta pikinini fes bilong ol animal bilong lukautim we i stap long yu, ol man — ol i bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47f0444450aee9649ec82f2860bcb58df16a9522420d6c8ff129aff078170f7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/13\/12-12.1792362891980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "na yu ken pasim givim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "pikinini i opim"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "bel bilong mama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "pikinini fes bilong"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "pikinini i kamap"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:51.981652510Z",
+  "model": "glm-5.3"
+}

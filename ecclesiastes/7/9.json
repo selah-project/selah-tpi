@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "Deprecative imperative אל תבהל directly addresses the hearer."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel hepa",
+      "rationale": "כעס is vexation\/anger; Tok Pisin 'bel hepa' (belly-liver hot) is the idiom for anger."
+    }
+  ],
+  "translation": "No ken harim hed kwik long ruak bilong yu long bel hepa; long wanem bel hepa i save stap long bel bilong ol man long tingting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/9-12.1792360789568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "harim hed kwik"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "long ruak bilong yu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "long bel hepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bel hepa"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ol man long tingting nogut"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "i save stap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:49.568867150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה 'bundle\/package' appears only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "כנעתך",
+      "rationale": "Some read 'thy shame' (כנעה as from כנע), most read 'thy bundle of goods'."
+    },
+    {
+      "kind": "you",
+      "subject": "yu meri",
+      "rationale": "Feminine singular address — Zion\/Jerusalem personified as a woman under siege."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baksit",
+      "rationale": "כנעתך is literally 'thy package\/bundle of belongings'."
+    }
+  ],
+  "translation": "Kisim baksit bilong yu i kamap olgeta long graun, yu meri we yu stap insait long banis bilong pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/10\/17-20.1792355034050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "kisim … i kamap olgeta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "baksit bilong yu"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "yu stap"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "insait long banis bilong pait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:54.050737878Z",
+  "model": "glm-5.3"
+}

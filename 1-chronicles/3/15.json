@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "namba wan",
+      "rationale": "הבכור i tok 'pikinini bilong stat' (firstborn); Tok Pisin ordinal 'namba wan' i holim pasin bilong stat long lain."
+    },
+    {
+      "kind": "crux",
+      "subject": "Yokhanan",
+      "rationale": "Hb 1 Esdras na samting narapela i tok nem bilong הבכור em i Yehoyakim; Buk Baibel ol i no wankain long en."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ordinal list",
+      "rationale": "Verse i skelim ol pikinini bilong king long namba: wan, tu, tri, foa."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yoshiyahu: namba wan, Yokhanan; namba tu, Yehoyakim; namba tri, Tsidkiyahu; namba foa, Shalum.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e8900acdb94bf4ef07e737f2a2212f9f9eeab211d7c0411f173e1c03fecce30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/3\/13-16.1792361822947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ol pikinini bilong"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "namba wan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokhanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "namba tu"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "namba tri"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "namba foa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalum"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:02.947760793Z",
+  "model": "glm-5.3"
+}

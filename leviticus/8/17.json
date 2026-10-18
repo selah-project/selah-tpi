@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pait kaikai",
+      "rationale": "פרש is dung\/excrement of the animal"
+    }
+  ],
+  "translation": "Na ⟨את⟩ bulmakau man, na ⟨את⟩ skin bilong en, na ⟨את⟩ mit bilong en, na ⟨את⟩ pait kaikai bilong en, em i brunim ⟨⟨long paia⟩⟩ autsait long kemp, olsem Yahwe i bin salim tok long ⟨את⟩ Mose.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/17-20.1792348419852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bulmakau man"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bulmakau man"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skin bilong en"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "skin bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mit bilong en"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mit bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pait kaikai bilong en"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "pait kaikai bilong en"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brunim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "autsait"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "long kemp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "salim tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:39.852880703Z",
+  "model": "glm-5.3"
+}

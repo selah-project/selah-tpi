@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 23:19",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מימין",
+      "rationale": "'right hand\/side' rendered 'han sut' (south); Hebrew orients by the body, Tok Pisin by compass."
+    },
+    {
+      "kind": "secret",
+      "subject": "מסתתר",
+      "rationale": "The Ziphites betray David's hiding place — verse turns on concealed location."
+    }
+  ],
+  "translation": "Na ol man Zif i go antap long Saul long Gibea, ol i tok: No tru, David i hait wantaim mipela long ol strongpela ples, long bus Horesa, long hil Hakila, we i stap long han sut bilong Jeshimon?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/23\/17-20.1792351960787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "זפים",
+      "gloss": "ol man Zif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "long Gibea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no tru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "i hait"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim mipela"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "long ol strongpela ples"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "long bus Horesa"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "long hil"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hakila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "long han sut"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Jeshimon"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:40.788320496Z",
+  "model": "glm-5.3"
+}

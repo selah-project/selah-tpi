@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered ruak always, per D2 — wind\/breath\/spirit one word."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kapsaitim laip bilong mi",
+      "rationale": "'Pour out my soul' — Hebrew idiom for pouring out one's inner life in prayer; נפש is life-force, not immaterial soul."
+    },
+    {
+      "kind": "you",
+      "subject": "Hannah to Eli",
+      "rationale": "Direct address answering Eli's rebuke."
+    }
+  ],
+  "translation": "Na Hana i bekim tok na i tok: Nogat, bikman bilong mi; mi wanpela meri i gat traipela pen long ruak bilong mi; wain na strongpela dring mi no dring; tasol mi kapsaitim ⟨את⟩ laip bilong mi long fes bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/1\/13-16.1792351472704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "na i bekim tok"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nogat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "i gat traipela pen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "long ruak bilong mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na wain"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na strongpela dring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "mi dring"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "tasol mi kapsaitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laip bilong mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:32.707558655Z",
+  "model": "glm-5.3"
+}

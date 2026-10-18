@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i needim pronoun; Hibru i gat suffix long מתניו\/חלציו tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק i stap olsem 'stretpela pasin' tasol; nem bilong Hibru i holim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Tupela lain i wankain: tsedek\/bilip tru, wes\/hipes — olsem Hibru sajim"
+    }
+  ],
+  "translation": "Tsedek bai i stap olsem bel bilong ⟨em⟩ long wes bilong em, na bilip tru bai i stap olsem bel bilong hipes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/11\/5-8.1792354025191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bel bilong"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "wes bilong em"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "bilip tru"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bel bilong"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "hipes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:07:05.192473027Z",
+  "model": "glm-5.3"
+}

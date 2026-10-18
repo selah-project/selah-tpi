@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wasman sipsip",
+      "rationale": "רעי em i 'man i wasim sipsip' — Hibru i wanpela tok, Tok Pisin i nidim olgeta tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem na",
+      "rationale": "Hebrew i no gat konectiveksin namel long tupela pat"
+    }
+  ],
+  "translation": "Salim bilong David. Yahwe i wasman sipsip bilong mi, olsem na mi no bai sot long wanpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/23\/1-4.1792358025660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "salim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "wasman sipsip bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "bai sot long wanpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:45.661636050Z",
+  "model": "glm-5.3"
+}

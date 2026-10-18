@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנטותו",
+      "rationale": "'when it stretches out\/lengthens' (JPS) vs 'when it declines\/goes down' (KJV) — the shadow at day's end."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gras",
+      "rationale": "ארבה locust rendered 'gras'; Tok Pisin lacks a distinct locust word."
+    }
+  ],
+  "translation": "Mi go we olsem sait taim em i go daun; ol i skruim mi i go olsem gras.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/21-24.1792359023856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "olsem sait"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "taim em i go daun"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "mi go we"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ol i skruim mi i go"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "olsem gras"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:23.857592452Z",
+  "model": "glm-5.3"
+}

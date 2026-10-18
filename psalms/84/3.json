@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nepes",
+      "rationale": "נפש em i laip\/wind bilong man — mi holim nem nepes, i no 'sol'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכספה וכלתה",
+      "rationale": "Tupela tok istrong — wanpela i tok 'pale\/gat hangre', narapela i tok 'pinis\/kirap' — pilai strong i stap"
+    }
+  ],
+  "translation": "Nepes bilong mi i hangre tumas, em i kirap pinis, long ol ya bilong haus bilong Yahwe; bel bilong mi na bodi bilong mi i singautim amamas long El i gat laip.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/84\/1-4.1792358797289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "i hangre tumas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na tu"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "em i pinis kirap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nepes bilong mi"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "long ol ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "na bodi bilong mi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "i singautim amamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gat laip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:37.290239469Z",
+  "model": "glm-5.3"
+}

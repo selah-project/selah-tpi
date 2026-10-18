@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפשי em i laif\/breth\/hangre bilong bodi, i no 'soul''; bel i holim laik na hangre long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "i weri",
+      "rationale": "עיפה em i 'weri\/lus strong'; KJV\/JPS i tanim olsem 'thirsty' long wanem as bilong graun, tasol Hibru i tok 'weri' tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ hangre long wara",
+      "rationale": "Hibru i no tokim hangre; KJV tradisen i putim, mi makim hia olsem tok i kamap long Tok Pisin"
+    }
+  ],
+  "translation": "Mi stretim aut ol han bilong mi i go long yu; bel bilong mi i weri olsem graun bilong yu ⟨i⟩ hangre long wara. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/143\/5-8.1792359291164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "mi stretim aut"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ol han bilong mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i go long yu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "olsem graun"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "i weri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:51.165075795Z",
+  "model": "glm-5.3"
+}

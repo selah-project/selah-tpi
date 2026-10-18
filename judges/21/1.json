@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 21:1",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "ואיש singular 'man' rendered distributive plural as context is collective oath"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאשה",
+      "rationale": "'to a woman\/wife' rendered as 'bilong kamap meri bilong en' (marriage sense), literal shape 'to-woman' kept partly"
+    }
+  ],
+  "translation": "Na ol man bilong Yisrael i swerim long Mitzpa, ol i tok olsem: Bilong wanpela man long mipela, em i no ken givim ⟨את⟩ pikinini meri bilong en long wanpela man bilong Binyamin bilong kamap meri bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2edbb294e6902bd6e835ce2ad81e5c3a366edd2823ef562175dedecf09d64513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/21\/1-4.1792351465473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na ol man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "i swerim"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "long Mitzpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ol i tok olsem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pikinini meri bilong en"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "long man bilong Binyamin"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilong kamap meri bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:25.474074688Z",
+  "model": "glm-5.3"
+}

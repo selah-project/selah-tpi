@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "i kaunim olgeta man bilong Yisrael",
+      "rationale": "פקד hia em i kaunim na kalapim ol man bilong pait (muster, sens bilong 'review' ol man long exp)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaunim",
+      "rationale": "פקד i gat planti minin (lukautim, skelim, kaunim); hia em i muster bilong ol man bilong pait"
+    }
+  ],
+  "translation": "Na king Yehoram i go ausait long Shomron long dispela dei, na i kaunim ⟨את⟩ olgeta man bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/3\/5-8.1792353272139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Na i go ausait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long … dei"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na i kaunim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta man bilong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:32.140485618Z",
+  "model": "glm-5.3"
+}

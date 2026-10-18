@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרחק \/ תרחיקו",
+      "rationale": "Wanem rot רחק i kamap tupela taim — 'go we, no ken go we tumas' — infinitif absolut, repit bilong wok, em i stap long Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "העתירו בעדי",
+      "rationale": "רוט עתר i min 'pairim insens \/ puren' — hia 'begim' o 'purenim long mi'; sampla tanim tok i tok 'praem bilong mi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ \/ bilong yumi",
+      "rationale": "Heber i no gat 'bilong yumi' long lek bilong בעדי — Paroh i laik Mose i puren long Yahwe bilong em."
+    }
+  ],
+  "translation": "Na Paroh i tok: Mi bai salim yumi, na yumi kilim animal bilong sakrifaes long Yahwe, Elohim bilong yu, long ples wailbush; tasol yu go we — no ken go we tumas. Begim ⟨i⟩ long mi bilong yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/21-24.1792347487873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bai salim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "yumi ⟨את⟩",
+      "marks": "yumi (ol man Isrel)"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "na yumi kilim animal bilong sakrifaes"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wailbush"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "yu go we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "go we tumas"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "long wokabaut"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Begim"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:07.875112558Z",
+  "model": "glm-5.3"
+}

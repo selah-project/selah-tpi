@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "שאול i tanim Seol — i no 'hel' o 'paia', em i ples bilong ol man i dai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוש\/בוש",
+      "rationale": "אבושה na יבשו — wankain as, tupela 'sem': man i singaut i no ken kisim sem, ol man nogut bai kisim sem"
+    }
+  ],
+  "translation": "Yahwe, no ken mekim mi kisim sem, long wanem mi singautim yu; ol man nogut, bai ol kisim sem, bai ol no ken tok, long Seol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/31\/17-20.1792358102858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mekim mi kisim sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mi singautim yu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bai ol kisim sem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bai ol no ken tok"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Seol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:02.859832287Z",
+  "model": "glm-5.3"
+}

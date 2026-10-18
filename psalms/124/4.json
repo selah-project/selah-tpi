@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong yumi",
+      "rationale": "נפש is throat\/breath\/life-force, not an immaterial 'soul'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "wara \/ wara bilong vali",
+      "rationale": "flood and wadi-torrent paired in parallel lines; the sudden desert flash-flood picture"
+    }
+  ],
+  "translation": "olsem na wara i bin wasim yumi go, bikpela wara bilong vali i go antap long laip bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/124\/1-4.1792359200367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "i bin wasim yumi go"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bikpela wara bilong vali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "i bin go antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "laip bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:20.368016350Z",
+  "model": "glm-5.3"
+}

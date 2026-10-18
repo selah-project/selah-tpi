@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Future marker added; Hebrew imperfect implies future destruction."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol i plaunim",
+      "rationale": "תחרש literally 'be plowed' — rendered with garden\/field plowing, picture kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיין",
+      "rationale": "Rare word: 'heap of ruins' vs some read 'ruined tell' — rendered as rubble heaps."
+    }
+  ],
+  "translation": "Olsem, bilong olgeta bilong yupela, Zion bai i kamap gaden ol i plaunim, na Yerusalayim bai i kamap pilapila ston, na maunten bilong haus bai i kamap ol hamaunten bilong bus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/3\/9-12.1792357345485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "bilong olgeta bilong yupela"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ol i plaunim"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerusalayim"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "pilapila ston"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "והר",
+      "gloss": "na maunten"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ol hamaunten"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bilong bus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:25.486575364Z",
+  "model": "glm-5.3"
+}

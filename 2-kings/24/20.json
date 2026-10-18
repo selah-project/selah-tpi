@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אף",
+      "rationale": "af = nus\/narap, hia em i tok bilong kros — 'long nus bilong Yahwe' i tanim olsem 'bilong kros bilong Yahwe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "gloss": "otam em i promon 'ol' (olgeta), i no mak bilong objekt olsem aleph-tav H853 — gloss 'ol', no ⟨את⟩"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימרד",
+      "rationale": "marad i ken tok 'go sanis \/ bript' — 'sanis' em i Tok Pisin bilong rebellion"
+    }
+  ],
+  "translation": "Long wanem, bilong kros bilong Yahwe dispela i kamap long Yerusalayim na long Yehuda, inap em i rausim ⟨את⟩ ol long pes bilong en; na Tsedekiayahu i sanis long king bilong Babel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9f82d92d5ea9cf66f9541c3c4d8fbe100e2a2d7e75ae80c3ebcf3db8231733ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/24\/17-20.1792353828349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "na long Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "em i rausim \/ trowawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long ausait bilong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong en"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "na i sanis"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsedekiayahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:48.351162551Z",
+  "model": "glm-5.3"
+}

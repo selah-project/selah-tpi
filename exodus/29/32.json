@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האיל",
+      "rationale": "איל i diua (ram), tok i stap long tebol bilong animal — i no 'bulmakau'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'Ohel Moed' — haus sel bilong ol sani (tent of meeting); translation i stap long Tok Pisin"
+    }
+  ],
+  "translation": "Na Aharon na ol pikinini man bilong en bai kaikai ⟨את⟩ mit bilong diua, na ⟨את⟩ bret we i stap long basket, long dua bilong Haus Bilong Ol Sanestructed, long dua bilong Ohel Moed.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c42209384540781f2a93a5a4db04bb3e50cc0b44816bbf910eb4855adbf048d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/32-32.1792362937663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "bai kaikai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ol pikinini man bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit bilong diua"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "bilong diua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bret"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "stap long basket"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "long dua"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bilong haus sel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bilong ol sani"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:37.664542433Z",
+  "model": "glm-5.3"
+}

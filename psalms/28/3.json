@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered bel per D4 (tingting na laik), not hat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעיהם\/ורעה",
+      "rationale": "Sound play between reʿehem (their companions) and raʿah (evil): friends\/evil pun lost in Tok Pisin."
+    }
+  ],
+  "translation": "No ken pulim mi wantaim ol man nogut, na wantaim ol man i wokim nating-samting-nogut, ol i toktok pis long ol koba bilong ol, tasol olgeta samting nogut i stap long bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/28\/1-4.1792358077508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "pulim mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ol man i wokim"
+    },
+    {
+      "surface": "און",
+      "gloss": "nating-samting-nogut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol i toktok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "long"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ol koba bilong ol"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tasol olgeta samting nogut"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "long bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:37.509463090Z",
+  "model": "glm-5.3"
+}

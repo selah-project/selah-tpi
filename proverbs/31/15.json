@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai",
+      "rationale": "טרף literally 'prey, torn thing' — picture of food seized\/provided, lost in generic kaikai"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחק",
+      "rationale": "'portion of food' (KJV) vs 'appointed task' (ASV) — I hold the appointed-work reading"
+    }
+  ],
+  "translation": "Na em i kirap yet long nait, na em i givim ⟨את⟩ kaikai long haus bilong en, na wok bilong ol de long ol meri bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/31\/13-16.1792359832826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "na em i kirap"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "na em i givim"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "long haus bilong en"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na wok bilong ol de"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "long ol meri bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:52.827445977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "susa",
+      "rationale": "אחות long Tok Pisin: 'susa' em i brata o sista namel long ol; Tok Pisin i no gat tok bilong sista tasol"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ועשה אל",
+      "rationale": "Nem Asael i stap long tupela tok hia (ועשה + אל), wanpela nem tasol"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela",
+      "rationale": "Namba bilong ol pikinini man bilong Tseruya"
+    }
+  ],
+  "translation": "Ol susa bilong ol i Tseruya na Avigayil. Na ol pikinini man bilong Tseruya i Abishai, na Yoav, na Asael — tripela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/2\/13-16.1792361779023.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "Ol susa bilong ol"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruya"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "na Avigayil"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruya"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "na Yoav"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na Asa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:19.024255697Z",
+  "model": "glm-5.3"
+}

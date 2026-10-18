@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long haus bilong yu",
+      "rationale": "Hebrew 'your girls' does not say housemaids; context of household supplied"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ודי",
+      "rationale": "verse quantifies sufficiency: enough milk for food, household, and maids"
+    }
+  ],
+  "translation": "Na inap tru susu bilong ol meme bilong kaikai bilong yu, bilong kaikai bilong haus bilong yu, na laip bilong ol meri yangpela bilong wok long haus bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/25-27.1792359760505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "na inap tru"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bilong ol meme"
+    },
+    {
+      "surface": "ללחמך",
+      "gloss": "bilong kaikai bilong yu"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "bilong kaikai"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "bilong haus bilong yu"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "na laip"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "bilong ol meri yangpela bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:40.505939296Z",
+  "model": "glm-5.3"
+}

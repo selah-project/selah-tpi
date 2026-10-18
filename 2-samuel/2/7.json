@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 2:7",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masta bilong yumi",
+      "rationale": "אדניכם man em i man (Sael), olsem na *masta bilong yumi* — i no Adonai bilong God"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kapsaitim oil long mi",
+      "rationale": "משחו: kapsaitim oil — em i pasin bilong mekim king, i no Masiak olsem nem"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהיו לבני חיל",
+      "rationale": "Hebrew literal 'be sons of strength' — Tok Pisin 'kamap ol pikinini man strong' holim klostu long lek"
+    },
+    {
+      "kind": "you",
+      "subject": "ol man bilong Yabes-Gileat",
+      "rationale": "David i toktok olgeta long ol man ia, tok i go stret long ol"
+    }
+  ],
+  "translation": "Na nau, ol han bilong yumi i gat strong, na yumi kamap ol pikinini man strong, long wanem, masta bilong yumi, Sael, i dai pinis; na ol i kapsaitim oil long mi tu — ol man bilong haus Yuda — long kamapim mi king long olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fafbcd1e56e391c94df7bcdce264a1b7ded242452c3c306fb1f784ccab4b6471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/7-8.1792363105271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "i gat strong"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ol han bilong yumi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na yumi kamap"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ol pikinini man"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i dai pinis"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "masta bilong yumi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na … tu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ol i kapsaitim oil long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ol man bilong haus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long kamapim king"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "long olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:25.272170177Z",
+  "model": "glm-5.3"
+}

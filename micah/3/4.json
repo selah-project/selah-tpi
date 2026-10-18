@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אותם",
+      "rationale": "אותם here is the object pronoun 'them', not the bare direct-object marker; rendered as ⟨את⟩ with 'ol' per aleph-tav discipline."
+    },
+    {
+      "kind": "idiom",
+      "subject": "haitim pes",
+      "rationale": "Hiding the face = withdrawing favour; Hebrew idiom kept literally in Tok Pisin, as in Tanakh-register usage."
+    }
+  ],
+  "translation": "Na taim ol i singaut long Yahwe, em i no ken bekim ⟨את⟩ ol; na em i haitim pes bilong en long ol long dispela taim, olsem ol i bin wokim nogut long ol pasin bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/3\/1-4.1792357398693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ol i singaut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "em i no ken"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bekim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "na em i haitim"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong en"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "ol i bin wokim nogut"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "long ol pasin bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:18.694727404Z",
+  "model": "glm-5.3"
+}

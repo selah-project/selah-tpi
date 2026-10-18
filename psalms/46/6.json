@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew feminine suffix -הּ on בקרבה and יעזרה refers to the city; Tok Pisin needs the pronoun supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפנות בקר",
+      "rationale": "'at the turning of morning' — rendered 'when morning comes'; KJV 'right early' takes it adverbially"
+    }
+  ],
+  "translation": "Elohim i stap long bel bilong ⟨em⟩, ⟨em⟩ i no ken sekisep; Elohim bai i helpim ⟨em⟩ taim moning i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/46\/5-8.1792358272663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "long bel bilong ⟨em⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ken sekisep"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "bai i helpim ⟨em⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "taim … i kamap"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moning"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:52.664442658Z",
+  "model": "glm-5.3"
+}

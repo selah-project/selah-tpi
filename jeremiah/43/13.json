@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Bet-Semes",
+      "rationale": "בית שמש em i 'haus bilong san' — Heliopolis long Mitsrayim; mipela holim nem bilong ples, no tanim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol ston i stanap",
+      "rationale": "מצבות em i ston i stanap o piksa; 'images' bilong KJV i tok 'piksa' tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "ישרף i wan tok tasol, tasol Tok Pisin i laikim 'ol' long wanem bai i kukim"
+    }
+  ],
+  "translation": "Na em bai brukim ⟨את⟩ ol ston i stanap long Bet-Semes, we i stap long graun bilong Mitsrayim, na ⟨את⟩ ol haus bilong ol god bilong Mitsrayim em bai kukim ol long paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/43\/13-13.1792355700414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "bai brukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ston i stanap"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ol ston i stanap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol haus bilong ol god bilong Mitsrayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ol haus bilong"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ol god bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bai kukim ol"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:00.415350931Z",
+  "model": "glm-5.3"
+}

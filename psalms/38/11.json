@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סחרחר",
+      "rationale": "Sekarar — tok i stap hia tasol long olgeta Tanakh; i reduplicetim סחר (wokabaut raun), bilong bel i pulapstrong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i bel — i no hat"
+    }
+  ],
+  "translation": "Bel bilong mi i pait fastapec, strong bilong mi i lusim mi, na lait bilong ai bilong mi — olgeta ol i no stap wantaim ⟨את⟩ mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/9-12.1792358187846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "i pait fastapec"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "i lusim mi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na lait"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "bilong ai bilong mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olgeta tu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no stap"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:27.847357708Z",
+  "model": "glm-5.3"
+}

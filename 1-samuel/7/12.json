@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 7:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העזר \/ עזרנו",
+      "rationale": "Place-name Even-Ezer ('Ston bilong Helpim') echoes verb עזרנו 'i helpim yumi' — the name enacts the testimony; echo kept via shared root Ezer\/helpim."
+    },
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "Hebrew עזרנו is 'helped us' with suffix; Tok Pisin requires yumi as separate word."
+    }
+  ],
+  "translation": "Na Samuël i kisim wanpela ston, na i putim em namel long Mitzpa na namel long Sen, na i singaut ⟨את⟩ nem bilong en: Even-Ezer; na i tok: inap long hia Yahwe i helpim yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/7\/9-12.1792351536303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuël"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "השן",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i singaut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong en"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hia"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "i helpim yumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:36.305564648Z",
+  "model": "glm-5.3"
+}

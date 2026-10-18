@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך להרע",
+      "rationale": "Tupela skul: 'no ken kros tru, inap long wokim nogut nomo' (ylt) o 'em i bringim long nogut' (jps)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאף",
+      "rationale": "Hibru em i 'nus\/nostrik' — Tok Pisin 'kros' (long nus man i bagarap)."
+    }
+  ],
+  "translation": "Stopim kros, na lusim bel hevi; no ken kros tru — sapos yu no mekim olsem, oliken kamap wokim olgeta samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/5-8.1792358150662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Stopim"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "kros"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "na lusim"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "bel hevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "kros tru"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sapos yu no mekim olsem, oliken kamap"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "wokim olgeta samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:50.663404589Z",
+  "model": "glm-5.3"
+}

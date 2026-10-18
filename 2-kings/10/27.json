@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "למחראות",
+      "rationale": "tok bilong ples toilet — em i wanpela tok i stap long Tanakh hia tasol (wantaim ylt 'draught-house')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתצו ... ויתצו",
+      "rationale": "repitim tupela taim 'brokim daun' — Hibru i ripitim, Tok Pisin i holim olsem"
+    }
+  ],
+  "translation": "Na ol i brokim daun ⟨את⟩ stan stingari bilong Baal, na ol i brokim daun ⟨את⟩ haus bilong Baal, na ol i mekim ⟨em⟩ i kamap ples bilong toilet, i stap olsem inap long dispela de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/10\/25-28.1792353399798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Na ol i brokim daun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan stingari bilong Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stan stingari"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "bilong Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "na ol i brokim daun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "bilong Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "na ol i mekim ⟨em⟩"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "ples bilong toilet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    }
+  ],
+  "timestamp": "2026-10-18T19:56:39.800144328Z",
+  "model": "glm-5.3"
+}

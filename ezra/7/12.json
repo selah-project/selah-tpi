@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמיר וכענת",
+      "rationale": "Aramaic formula bilong opim pas: 'gamar u-khen' — 'i pinis, olsem' — sampe i tanim 'perfect peace' (KJV), sampe 'greetings' (BSB), JPS 'and so forth'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גמיר",
+      "rationale": "Tok i tok 'pinis\/gutpela tru' — klosu long 'man orait olgeta long dat', no 'peace'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך מלכיא",
+      "rationale": "King bilong ol king — Persian titel; klostu long titel we Tanakh i usim long Yahwe olsem, tasol long em em i king bilong graun tasol."
+    }
+  ],
+  "translation": "Artahshasta, king bilong ol king, long Ezira, pris, man i save raitem lo dat bilong Eloa bilong heven — gutpela tru, na olsem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/7\/9-12.1792361387659.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artahshasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "bilong ol king"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "long Ezira"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "pris"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "man i save raitem"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "lo dat"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "bilong heven"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "gutpela tru"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "na olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:09:47.661196155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחסדך",
+      "rationale": "חסד hiphil here means 'put to shame\/revile', unlike its usual sense of loyal-love; renderings split between 'shame' and 'defame'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ritirit",
+      "rationale": "שוב 'turn back' rendered as Tok Pisin 'ritirit' (withdraw); 'your slander not turning away' = it stays on you permanently."
+    },
+    {
+      "kind": "secret",
+      "subject": "context",
+      "rationale": "Verse continues the warning against exposing a secret (סוד) to another — consequence of betrayed confidence."
+    }
+  ],
+  "translation": "Bilong man i harim i no putim sem long yu, na tok nogut bilong yu i no ken ritirit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb5bcdcaf09df42422f3c2d4863d1ede92aaceb188df42322cc056a11ef1f69c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/10-11.1792363402244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "i no putim sem long yu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "man i harim"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "na tok nogut bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ritirit"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:22.245054799Z",
+  "model": "glm-5.3"
+}

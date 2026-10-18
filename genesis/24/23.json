@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Rivka",
+      "rationale": "direct address — servant questioning the girl at the well"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הגידי נא לי",
+      "rationale": "imperatives 'tell me please' draw the addressee to answer"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "here את is the pronoun 'you' (H859), not the object marker את (H853)"
+    }
+  ],
+  "translation": "Na i tok: Pikinini meri bilong husat yu? Tokim mi plis: i gat ples long haus bilong papa bilong yu bilong yumi slip i stap?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "929efbe90f8e3e4962f02e9091b861a681496f80a429afb3f9334022efb959b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/21-24.1792346663686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bilong husat"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu",
+      "marks": "yu"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bilong papa bilong yu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "bilong slip"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:23.687846198Z",
+  "model": "glm-5.3"
+}

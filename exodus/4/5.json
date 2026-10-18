@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lukluk i kamap",
+      "rationale": "נראה נִרְאָה (Niphal) em i 'i bin kamap sen ol i lukim', Tok Pisin i lusim kain bilong tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "sen",
+      "rationale": "כי long hia em i 'olsem sen', Tok Pisin i nidim"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nem",
+      "rationale": "lista bilong tupela nem papa: Avraham, Yitsak, Yakov"
+    }
+  ],
+  "translation": "Bilong olsem ol bai bilivim sen Yahwe, Elohim bilong ol papa bilong ol — Elohim bilong Avraham, Elohim bilong Yitsak, na Elohim bilong Yakov — i bin lukluk i kamap long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "658a85369b6f50c16f4b3050da9f91d3c030c8e4065bc001af9b8eaaaf91ea5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/5-8.1792347391408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ol bai bilivim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sen"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i bin lukluk i kamap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ol papa bilong ol"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:31.408984212Z",
+  "model": "glm-5.3"
+}

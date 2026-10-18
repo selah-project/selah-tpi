@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brunim",
+      "rationale": "ויקטר literally 'make smoke \/ turn into fragrance' — ritual burning, not destruction"
+    }
+  ],
+  "translation": "Na ⟨את⟩ dia em i kotim long ol hap bilong en, na Mose i brunim ⟨את⟩ het, na ⟨את⟩ ol hap, na ⟨את⟩ suet long paia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/17-20.1792348419852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dia"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "kotim long hap"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "long ol hap bilong en"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "brunim long paia \/ meksmok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "het"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol hap"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ol hap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "suet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:39.853558527Z",
+  "model": "glm-5.3"
+}

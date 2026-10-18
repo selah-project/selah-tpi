@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכידון",
+      "rationale": "spia \/ raunpela sekit (KJV 'target') \/ kain banga — ol tanim tok i no wankain"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומצחת",
+      "rationale": "samting bilong lukautim lek — tok i kamap long wanpela ples tasol (dual forPl)"
+    }
+  ],
+  "translation": "Na samting bilong kupar i stap antap long lek bilong en, na wantaim wanpela kain spia bilong kupar i stap namel long tupela sok bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/5-8.1792351768833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "na samting bilong kupar long lek"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kupar"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lek bilong en"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "na spia"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kupar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "tupela sok bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:28.834553975Z",
+  "model": "glm-5.3"
+}

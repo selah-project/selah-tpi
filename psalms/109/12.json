@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem khesed — 'marimari' tasol i no inap holim olgeta mining."
+    }
+  ],
+  "translation": "I no ken gat man i pulautim khesed long em, na i no ken gat man i sori long ol pikinini bilong en i lusim papa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/9-12.1792359026704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "משך",
+      "gloss": "i pulautim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "i sori long"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ol pikinini bilong en i lusim papa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:26.705917133Z",
+  "model": "glm-5.3"
+}

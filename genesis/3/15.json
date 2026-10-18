@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שוף",
+      "rationale": "'crush\/bruise' vs 'snap at'; the verb is only here and Gen 3:16-related usage — both sides strike, reading kept symmetrical"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא ישופך ראש",
+      "rationale": "singular 'he' (one seed) vs collective 'they' (JPS); Tok Pisin keeps singular 'em'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע 'seed' as posterity = 'pikinini' per D4; 'kaikai pikinini' fits plants, not descendants"
+    }
+  ],
+  "translation": "Na mi bai putim birua namel long yu na meri, na namel long pikinini bilong yu na pikinini bilong ⟨em⟩; em bai brukim het bilong yu, na yu bai kapaim sol bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/13-16.1792346292393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Na birua"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "bai mi putim"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "namel long yu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "pikinini bilong em"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "bai i brukim yu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "bai yu kapaim"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sol"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:12.394266554Z",
+  "model": "glm-5.3"
+}

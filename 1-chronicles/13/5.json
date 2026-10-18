@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "long Siho i go inap Hamat",
+      "rationale": "Verse sizes the assembly by the full north-south span of the land."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokis",
+      "rationale": "ארון is literally a box; Tok Pisin 'bokis' keeps the shape rather than a religious role-word."
+    }
+  ],
+  "translation": "Na David i karamapim ⟨את⟩ olgeta manmeri bilong Yisrael, long Siho bilong Mitsrayim i go inap long ples bilong go insait long Hamat, bilong bringim ⟨את⟩ bokis bilong Elohim long Kiryat Yearim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be2276c05befa90f3fd447567c18e9dae07753285b0baf2fa98957c41406f3f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/13\/5-8.1792362056045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta manmeri bilong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Siho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ples bilong go insait"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "bilong bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis bilong Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:56.046348946Z",
+  "model": "glm-5.3"
+}

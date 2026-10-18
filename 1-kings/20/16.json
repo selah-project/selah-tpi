@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בצהרים",
+      "rationale": "Dual 'double-light', i.e. noon; rendered belo bilong de, the dual shape lost in Tok Pisin."
+    },
+    {
+      "kind": "measurement",
+      "subject": "thirty-two kings",
+      "rationale": "Count of the allied kings: tetipela na tupela king."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתה שכור",
+      "rationale": "Drinking \/ drunk-back-to-back in Hebrew; Tok Pisin repeats dring to keep the echo."
+    }
+  ],
+  "translation": "Na ol i go ausait long belo bilong de; tasol Ben-Hadad i dring, i dring pinis tru, long ol haus sel — em wantaim ol king, tetipela na tupela king, ol i helpim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e103acdd39ddccaaf50c4e922632ef9e94a61497601bcceb98bdd7ca5703183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/20\/13-16.1792353162369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Na ol i go ausait"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "long belo bilong de"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "i dring"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "i dring pinis tru"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "long ol haus sel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "wantaim ol king"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tetipela"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na tupela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ol i helpim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-10-18T19:52:42.370655378Z",
+  "model": "glm-5.3"
+}

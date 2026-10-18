@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש i klostu long 'breth \/ laip bilong man', mi givim 'bel bilong mi' long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hangre",
+      "rationale": "ערג em i 'hangre long wara' — Tok Pisin i no gat separat tok bilong thirst, 'hangre' i holim tupela"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ערג",
+      "rationale": "marimari tok — ol i usim long Tanakh long wanpela ples tasol (hia na Ps 63:2)"
+    }
+  ],
+  "translation": "Olsem dia i hangre long ol strim bilong wara, olsem na bel bilong mi i hangre long yu, Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/42\/1-4.1792358225806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "olsem dia"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "i hangre"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ol strim bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "i hangre"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:05.808158450Z",
+  "model": "glm-5.3"
+}

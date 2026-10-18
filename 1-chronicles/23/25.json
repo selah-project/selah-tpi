@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩ ×2",
+      "rationale": "Tok Pisin i nidim pronaun; Hibru i no gat pronaun long הניח na וישכן"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישכן",
+      "rationale": "Ol tanim tok i no wankain: 'ol man i stap' (KJV, JPS) o 'Yahwe i stap' (YLT, BSB) — wanem i stap long Yerusalayim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד לעולם",
+      "rationale": "Tupela tok Hibru bilong 'oltaim'; Tok Pisin wanpela tok 'oltaim' i tanim tupela"
+    }
+  ],
+  "translation": "Bilong wanem, David i tok: Yahwe, Elohim bilong Yisrael, i mekim malolo long ol man bilong ⟨em⟩, na ⟨em⟩ i stap long Yerusalayim oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6c6e1ae13377def927ab7a5f88024ff7c657545f01897b496ec79a98c6b0836e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/23\/25-28.1792362165222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "i mekim malolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "long ol man bilong em"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "na em i stap"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim i no gat las"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:45.223452496Z",
+  "model": "glm-5.3"
+}

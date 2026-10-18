@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "strongim",
+      "rationale": "vayehazek — 'strongim' (YLT) vs 'mekim hat' (KJV\/JPS): het-harden; strongim i bihainim leksem bilong hazaq."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "lev em i 'bel' long Tok Pisin — olgeta tingting, laik, na pasin, i no 'hat'."
+    }
+  ],
+  "translation": "Na Yahwe i strongim ⟨את⟩ bel bilong Paro, na i no harim ol, olsem we Yahwe i bin tokim Mose.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/9\/9-12.1792347475389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Na i strongim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bilong Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i bin tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-10-18T18:17:55.390558717Z",
+  "model": "glm-5.3"
+}

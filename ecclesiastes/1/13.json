@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 1:13",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i oltaim 'bel' long Tok Pisin — tingting na laik, i no 'hat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wok pen nogut",
+      "rationale": "ענין רע i buk tok bilong Kohelet; 'sore travail' — wok we i gat pen tumas."
+    },
+    {
+      "kind": "elision",
+      "subject": "לענות",
+      "rationale": "'long pen' — ענה inap min 'ol i wokim pen' o 'ol i pen'; mipelai usim 'pen'."
+    }
+  ],
+  "translation": "Na mi givim ⟨את⟩ bel bilong mi long askim na painim aut long save, long olgeta samting ol i wokim aninit long heven. Em i wok pen nogut — Elohim i givim ⟨em⟩ long ol pikinini bilong man long ol i pen long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/13-16.1792360726562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Na mi givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong mi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "long askim"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "na painim aut"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "long save"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Em"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "wok pen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "long pen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:46.562768855Z",
+  "model": "glm-5.3"
+}

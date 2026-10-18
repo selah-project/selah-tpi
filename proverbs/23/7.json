@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "KJV 'thinketh' (ken olsem שוער hap tok); JPS 'hath reckoned'; BSB 'keeping track, counting the cost' — mi holim pasin bilong skelim (numbers bilong kaikai)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i laif\/breth, tasol Tok Pisin 'bel' i holim tingting na laik"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "em i tokim yu stret — man i gat ai nogut i tok olsem tasol bel bilong em i stap wantside"
+    }
+  ],
+  "translation": "Bilong wanem, olsem em i skelim ⟨i⟩ long bel bilong en, olsem na em i stap: \"Kaikai na dring,\" em i tokim yu, tasol bel bilong em i no wantaim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b1904f3ce2fe430942b8ee3995a9920f3698c147d8cb1179d26e54b30105700",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/6-7.1792363400852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שער",
+      "gloss": "skelim"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "long bel bilong en"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i stap"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Kaikai"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "na dring"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "tasol bel bilong em"
+    },
+    {
+      "surface": "בל",
+      "gloss": "i no"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wantaim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:20.853755496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ביום השבת ביום השבת",
+      "rationale": "full doubling 'on the day of the sabbath, on the day of the sabbath' — idiomatic Hebrew for 'each and every sabbath', kept literal"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת בני ישראל",
+      "rationale": "'from the sons of Israel' — taken by priests (KJV) or given on behalf of Israel (ASV\/BSB)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Sabbath-day schedule",
+      "rationale": "verse fixes the regular time-cycle for arranging the bread"
+    }
+  ],
+  "translation": "Long de bilong Sabat, long de bilong Sabat, em i bai setim ⟨em⟩ gut long fes bilong Yahwe, oltaim — ⟨i kam⟩ ⟨את⟩ long ol pikinini bilong Yisrael, kontrak bilong oltaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/5-8.1792348739195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "em i bai setim gut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:59.196596752Z",
+  "model": "glm-5.3"
+}

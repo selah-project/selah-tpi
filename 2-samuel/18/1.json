@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": " muster bilong ol manmeri",
+      "rationale": "David i namba ol manmeri na i makim ol liftenen bilong tausen na handet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "liftenen",
+      "rationale": "שר em i 'bikman bilong ol', Tok Pisin i no gat tok bilong em, olsem na liftenen."
+    }
+  ],
+  "translation": "Na David i skelim ol manmeri ol i stap wantaim ⟨את⟩ em, na i putim olgeta ol liftenen bilong tausen na ol liftenen bilong handet long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/18\/1-4.1792352458162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap wantaim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩ em"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol liftenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bilong tausen"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ol liftenen"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "bilong handet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:58.163902771Z",
+  "model": "glm-5.3"
+}

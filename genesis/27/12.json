@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 27:12",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כמתעתע",
+      "rationale": "'Like one who mocks\/deceives' rendered 'olsem man i giamanim'; 'man i lap long ol' also possible."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אולי",
+      "rationale": "'Perhaps' — rendered as 'sapos' (what if), the fear-scenario reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קללה\/ברכה",
+      "rationale": "Curse\/blessing antithesis closes the verse; Yakov fears trading ברכה for קללה."
+    }
+  ],
+  "translation": "Sapos papa bilong mi i holim long mi, na mi go kamap long ai bilong em olsem man i giamanim, na mi bringim antap long mi kago, no bless.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/9-12.1792346847502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "i holim long mi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "na mi go kamap"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em"
+    },
+    {
+      "surface": "כמתעתע",
+      "gloss": "olsem man i giamanim"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "na mi bringim antap long mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "antap long mi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bless"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:27.503950046Z",
+  "model": "glm-5.3"
+}

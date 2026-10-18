@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 23:3",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותזנינה \/ זנו",
+      "rationale": "Wanem rif bilong pasin nogut i kamap tupela taim — kolel i lus long Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעכו",
+      "rationale": "Man i no agrilong mining: 'makmakim' (KJV 'pressed') o 'holim wantaim han' (ASV 'handled')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעכו",
+      "rationale": "Tok מעכו i stap long Tanakh hia tasol."
+    }
+  ],
+  "translation": "Na ol i wokim pasin nogut bilong meri long Mitsrayim; long taim ol i yangpela yet, ol i wokim pasin nogut bilong meri. Long wanem ples ol i makmakim susu bilong ol, na long sanpela ples ol i holim susu bilong taim ol i yet bin ples meri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a8ce53f0725d4bce11c2f22acb68d05cd08d128dd95a8d16b801f743871f1f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/23\/1-4.1792356443140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנינה",
+      "gloss": "ol i wokim pasin nogut bilong meri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "בנעוריהן",
+      "gloss": "long taim ol i yangpela yet"
+    },
+    {
+      "surface": "זנו",
+      "gloss": "ol i wokim pasin nogut bilong meri"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long wanem ples"
+    },
+    {
+      "surface": "מעכו",
+      "gloss": "ol i makmakim"
+    },
+    {
+      "surface": "שדיהן",
+      "gloss": "susu bilong ol"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na long sanpela ples"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i holim"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "susu"
+    },
+    {
+      "surface": "בתוליהן",
+      "gloss": "bilong taim ol i yet bin ples meri"
+    }
+  ],
+  "timestamp": "2026-10-18T20:47:23.141612351Z",
+  "model": "glm-5.3"
+}

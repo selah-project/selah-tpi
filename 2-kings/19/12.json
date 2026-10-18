@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Hezekiah",
+      "rationale": "continuation of the taunting address"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהי here refers to foreign gods — lowercase per discipline, not Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "word order",
+      "rationale": "Hebrew puts verb first: 'did the gods deliver them?' — rhetorical question moved to end in tpi to keep the list intact"
+    }
+  ],
+  "translation": "Ol god bilong ol lain olgeta, we ol papa bilong mi i bagarapim ⟨את⟩ olgeta — ol i save holimpas ⟨את⟩ Gozan, na ⟨את⟩ Haran, na Retsef, na ol pikinini bilong Eden we i stap long Telasar — ol i pulim olgeta ausait?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/19\/9-12.1792353594684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ol i pulim olgeta ausait"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ olgeta",
+      "marks": "ol god"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ol god bilong"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol lain olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ol papa bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "i stap long Telasar"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:54.685248390Z",
+  "model": "glm-5.3"
+}

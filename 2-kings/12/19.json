@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 12:19",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואחזיהו",
+      "rationale": "MT lacks the conjunction 'and' before Ahaziah's dedication; some Hebrew MSS read ואת — 'and what Ahaziah had dedicated'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויעל מעל ירושלם",
+      "rationale": "literally 'he went up from upon Jerusalem' = he withdrew; rendered 'i go we long Yerusalayim'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "free pronoun supplied for Hebrew verb suffixes (object of שלח, subject of ויעל)"
+    }
+  ],
+  "translation": "Na Yehoas king bilong Yuda i kisim ⟨את⟩ olgeta ol samting holi we Yehosafat, na Yehoram, na Ahaziahu, ol papa bilong en, ol king bilong Yuda, i bin mekim holi, na ⟨את⟩ ol samting holi bilong en yet, na ⟨את⟩ olgeta gol i stap long ol haus keep bilong haus bilong Yahwe na haus bilong king, na i salim ⟨em⟩ i go long Hazael king bilong Aram; na ⟨em⟩ i go we long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "60960f44efbf26e71851314d4b46c19eba74ec3419dc86e3867f2dd813702cbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/18-19.1792363174081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na i kisim"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol samting holi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ol samting holi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "i bin mekim holi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "ויהורם",
+      "gloss": "na Yehoram"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "na Ahaziahu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ol king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting holi bilong en yet"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ol samting holi bilong en yet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta gol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "long ol haus keep"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na haus bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na i salim i go"
+    },
+    {
+      "surface": "לחזאל",
+      "gloss": "long Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na ⟨em⟩ i go we"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:34.082000014Z",
+  "model": "glm-5.3"
+}

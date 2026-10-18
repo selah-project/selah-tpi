@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכרתי",
+      "rationale": "'ol Kereti' (man bilong Kri) o 'ol man bilong prutis bilong David' — Tok Pisin i holim nem Kereti."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Samting i no gat klin Tok Pisin tok; 'samting i bilong Yehuda' i tanim klostu tasol."
+    }
+  ],
+  "translation": "Mipela i wokim ret long saut bilong ol Kereti, na long olgeta ⟨i⟩ bilong Yehuda, na long saut bilong Kalev; na mipela i brenim ⟨את⟩ Tsiklag long paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/13-16.1792352062143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "Mipela"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "i wokim ret"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "saut"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "bilong ol Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bilong Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "saut"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "mipela i brenim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:22.144540022Z",
+  "model": "glm-5.3"
+}

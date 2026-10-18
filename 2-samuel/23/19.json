@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלשה",
+      "rationale": "Both occurrences say 'the three' but context implies the FIRST three (the elite trio) vs the thirty; translations differ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלושה repetition",
+      "rationale": "'the three ... the three' repetition builds the paradox: chief of the three, yet not among the three — kept in Tok Pisin."
+    }
+  ],
+  "translation": "Long ol tripela, a, em i man i gat bikpela nem? Na em i kamap hetman bilong ol; tasol long ol tripela stat em i no kamap insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8dd1e25a7264f829c11d73911aca7466ad434faefbf6ece08ed2caaf0ab0ca48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/23\/17-20.1792352648963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Long"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "ol tripela"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "i gat bikpela nem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "hetman bilong ol"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tasol poste"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "long ol tripela stat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "em i no"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kamap insait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:08.964488126Z",
+  "model": "glm-5.3"
+}

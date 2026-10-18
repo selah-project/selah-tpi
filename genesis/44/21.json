@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "putim ai long",
+      "rationale": "Hebrew 'set eye upon' means to look after with care, rendered as Tok Pisin idiom keeping the eye"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object pronoun supplied for Tok Pisin, Hebrew has only the verb suffix"
+    }
+  ],
+  "translation": "Na yu i tokim ol wokman bilong yu: Bringim ⟨em⟩ i kam daun long mi, na bai mi putim ai bilong mi long ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/44\/21-24.1792347177523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na yu i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ol wokman bilong yu"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "bringim ⟨em⟩ i kam daun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "na bai mi putim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai bilong mi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:57.523705051Z",
+  "model": "glm-5.3"
+}

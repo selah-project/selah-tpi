@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man \/ em",
+      "rationale": "Hibru i no gat ol nem bilong man; Tok Pisin i nidim ol"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוריש",
+      "rationale": "YL 'dispossesseth' (yatim man long ples) vs KJV 'maketh poor' (mekim man i no gat samting)"
+    }
+  ],
+  "translation": "Yahwe i mekim man i no gat samting, na i mekim man i gat planti; em i daunim man, ia, em i salim em i go antap olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "900417afb3d837660c5550ad10191abba04c2f10245c41b74fb7c2d21a817c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/6-7.1792363040858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "i mekim man i no gat samting"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "na i mekim man i gat planti"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "em i daunim man"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ia"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "em i salim em i go antap olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:20.858917115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trausen",
+      "rationale": "בעותיך em i ol sansen\/trausen; KJV 'terrors' — tok TPI 'trausen' i klostu long sen bilong bikpela frighten"
+    }
+  ],
+  "translation": "Antap long mi ol kros bilong yu i go olgeta; ol trausen bilong yu i rausim mi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/88\/17-19.1792358759211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "antap long mi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "i go"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ol kros bilong yu"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ol trausen bilong yu"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "i rausim mi olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:25:59.213060828Z",
+  "model": "glm-5.3"
+}

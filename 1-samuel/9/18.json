@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "Saul addresses Samuel directly with polite request, not yet knowing who he is."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הראה",
+      "rationale": "'the one-who-sees' — ro'eh is a vision-seer; rendered descriptively rather than with an office title."
+    }
+  ],
+  "translation": "Na Saul i go klostu long ⟨את⟩ Samuel namel long dua bilong banis, na i tok: Tokim mi plis — long wanem ples ⟨i⟩ stap haus bilong man i lukim ol samting?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/9\/17-20.1792351651278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Na Saul i go klostu long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "השער",
+      "gloss": "dua bilong banis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Tokim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "long wanem ples"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "bilong man i lukim ol samting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:31.280325487Z",
+  "model": "glm-5.3"
+}

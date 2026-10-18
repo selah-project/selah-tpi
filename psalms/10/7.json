@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol tok swere nogut",
+      "rationale": "אלה 'imprecation\/curse-oath' — 'cursing' (KJV) vs 'oaths' (YLT); 'tok swere nogut' keeps both edges."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל ואון",
+      "rationale": "Pair 'toil and trouble\/iniquity', recurring Tanakh word-pair (e.g. Ps 10:3, 14:4), lost as separate items in single-word renderings."
+    }
+  ],
+  "translation": "Maus bilong em i fulap long ol tok swere nogut na giaman na bagarapim; aninit long tong bilong em i stap wok pen na rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/10\/5-8.1792357941417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol tok swere nogut"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "maus bilong em"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "na giaman"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "na bagarapim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "tong bilong em"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wok pen"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:21.418784355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i stap⟩",
+      "rationale": "Tok Pisin i nidim kopila; Hibru i no gat tok bilong 'is'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בין הערבים",
+      "rationale": "'namel long tupela apinun': sampela tanim olsem 'apinun' tasol, 'between the evenings' em iLiteral"
+    },
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "Manis fes, de foatinpela — kalenda bilong ol selebresen"
+    }
+  ],
+  "translation": "Long manis fes, long de foatinpela long manis, namel long tupela apinun, Pesak bilong Yahwe ⟨i stap⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/5-8.1792348703224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "long manis"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fes"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "long foa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten (foatinpela)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "long manis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tupela apinun"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:23.224837130Z",
+  "model": "glm-5.3"
+}

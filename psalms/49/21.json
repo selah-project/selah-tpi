@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "Root echo between ni-mashal (likened) and nidmu (perished\/silenced) — both from near-identical roots, lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pinis",
+      "rationale": "נדמו literally 'be dumb\/silent', hence 'fail, perish' — 'pinis' captures the end but not the silence."
+    },
+    {
+      "kind": "crux",
+      "subject": "bikpela nem",
+      "rationale": "ביקר 'honor\/riches' — BSB reads 'riches', KJV 'honour'; psalm context (49:6-18) favors wealth."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker required before verb, absent in Hebrew."
+    }
+  ],
+  "translation": "Man long bikpela nem, tasol em i no save ⟨i⟩ tingting stret, em i wankain olsem ol animal bilong lukautim — ol i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc6b7c77f76eb66697796be341fc5d46f0785a167995223d72f36ffde2e9ea8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/21-21.1792358224359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "long bikpela nem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "save tingting stret"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "em i wankain olsem"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ol i pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:04.360750912Z",
+  "model": "glm-5.3"
+}

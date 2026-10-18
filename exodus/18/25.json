@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol het",
+      "rationale": "ראשים\/שרי literal 'heads\/princes' rendered as 'het' — Tok Pisin 'het bilong' keeps the body part shape"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tausen\/handet\/fifti\/ten",
+      "rationale": "hierarchy of leaders counted by units of thousands, hundreds, fifties, tens"
+    }
+  ],
+  "translation": "Na Mose i skelim ol man i gat strong long olgeta man bilong Yisrael, na em i mekim ol i kamap ol het bilong ol man, ol het bilong wan tausen, ol het bilong wan handet, ol het bilong fifti, na ol het bilong ten.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/18\/25-27.1792347644779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "i gat strong"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na em i mekim ol i kamap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol het"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ol het"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol het bilong"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "wan tausen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol het bilong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol het bilong"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifti"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ol het bilong"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-18T18:20:44.780504601Z",
+  "model": "glm-5.3"
+}

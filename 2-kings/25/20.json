@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bikman bilong ol kilman",
+      "rationale": "רב טבחים i tok 'bikman bilong ol butja' — em i ofisa bilong Babylon i save kilim ol man, Tok Pisin 'ol kilman'."
+    }
+  ],
+  "translation": "Na Nevuzaradan, bikman bilong ol kilman, i kisim ⟨את⟩ ol, na em i bringim ⟨את⟩ ol i go long king bilong Bavel, long Rivlata.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/17-20.1792353850900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na em i kisim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bikman bilong"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ol kilman"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i bringim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "bilong Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "long Rivlata"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:10.901741976Z",
+  "model": "glm-5.3"
+}

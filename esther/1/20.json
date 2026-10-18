@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kot",
+      "rationale": "פתגם em i tok Persian, i min 'kot\/sentens bilong king' — i no tok bilong Tora"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בכל מלכותו",
+      "rationale": "'long olgeta kantri bilong em' — מלכות em i daunbilo bilong king, Tok Pisin i usim 'kantri'"
+    }
+  ],
+  "translation": "Na taim ol i harim dispela kot bilong king we em i mekim — long olgeta kantri bilong em, bikos em i bikpela tru — olgeta meri bai givim respek long ol man bilong ol, bilong bikpela i go daun long smol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/1\/17-20.1792360909592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "na taim ol i harim"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "kot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "em i mekim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kantri bilong em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "em i bikpela tru"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bai givim"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "respek"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "long ol man bilong ol"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "bilong bikpela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go daun long"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "smol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:49.594186506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פני בכם",
+      "rationale": "'set face against' — Tok Pisin i tok 'putim pes long yupela antap', pes i no tanim olgeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונגפתם",
+      "rationale": "KJV 'slain' vs ASV\/JPS 'smitten'; hapax-form stem — narapela lain i tanim 'ol i ranurai yupela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ורדו",
+      "rationale": "'to tread down' — Tok Pisin 'bosim olgeta' (rule), literal 'lukluk i go daun long yupela' i no klia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאיכם \/ איביכם",
+      "rationale": "tupela tok bilong birua i stap klostu — 'ol birua' na 'ol i les long yupela' — olsem Ki 26:16"
+    }
+  ],
+  "translation": "Na bai mi putim pes bilong mi long yupela antap, na bai ol i paitim yupela i ranumi long hed bilong ol birua bilong yupela, na bai ol i les long yupela i bosim olgeta long yupela, na bai yupela i ranawe, tasol i no gat man i bilong ranim ⟨את⟩ yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/17-20.1792348845210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "na bai mi putim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yupela antap"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "na bai ol i paitim yupela i ranumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long hed bilong"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ol birua bilong yupela"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "na bai ol i bosim olgeta"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "ol i les long yupela"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "na bai yupela i ranawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol i no gat"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "man i bilong ranim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:45.211308425Z",
+  "model": "glm-5.3"
+}

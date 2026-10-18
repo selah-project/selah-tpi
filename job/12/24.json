@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "gloss": "לב rendered 'bel' (seat of thinking and will) per D4 — not 'hat'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתהו",
+      "rationale": "Same word as Gen 1:2 'tohu' (formless waste) — leaders wander in un-creation, where there is no way."
+    }
+  ],
+  "translation": "Em i rausim ⟨את⟩ bel bilong ol hetman bilong ol man bilong graun, na em i mekim ol i wokabaut nating long ples i no gat samting — i no gat rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/12\/21-24.1792359989884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "em i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol hetman bilong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "na em i mekim ol i wokabaut nating"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "long ples i no gat samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:29.885921668Z",
+  "model": "glm-5.3"
+}

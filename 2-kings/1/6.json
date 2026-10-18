@@ -1,0 +1,204 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "god bilong Ekron",
+      "rationale": "אלהי עקרון — foreign god, so lowercase 'god' per the names discipline, not Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "כי מות תמות is infinitive-absolute 'dying you shall die'; Tok Pisin needs 'bilong … tru' to carry the certainty."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלית\/תרד",
+      "rationale": "Rhetorical reversal: 'you went UP, you shall not come DOWN' — verb pair kept literal in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol i tok long em: Wanpela man i kamap bilong lukim mipela, na em i tok long mipela: Yupela go, yupela go bek long king we i salim ⟨את⟩ yupela, na yupela tok long em olsem: Yahwe i tok: Em bilong wanem — i no gat Elohim long Yisrael, na yu salim long askim Baal-Zevuv, god bilong Ekron? Olsem na, long bet we yu go antap long en, yu bai no kamapdaun long en, bilong yu bai dai tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/5-8.1792353277786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "bilong lukim mipela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yupela go"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "yupela go bek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "yupela tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "sapos i no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yu salim"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "bilong askim"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "long Baal"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zevuv"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "god bilong"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yu go antap"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bai yu kamapdaun"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "yu bai dai tru"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:37.787795336Z",
+  "model": "glm-5.3"
+}

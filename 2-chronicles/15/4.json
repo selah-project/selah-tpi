@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בצר",
+      "rationale": "Hebrew i tok 'long ples narrow\/trabel' — Tok Pisin: taim trabel i hariapim ol"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימצא להם",
+      "rationale": "Literal: 'em i gat long ol' — mi mekim 'em i kamap klia long ol', olsem pes 2: 'em i gat long yupela'"
+    }
+  ],
+  "translation": "Na taim trabel i hariapim ol, ol i tanim bek olgeta long Yahwe, Elohim bilong Yisrael, na ol i painim em, na em i kamap klia long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/15\/1-4.1792362514628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na ol i tanim bek"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "taim trabel i hariapim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "na ol i painim em"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "na em i kamap klia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:28:34.629201089Z",
+  "model": "glm-5.3"
+}

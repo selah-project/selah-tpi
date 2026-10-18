@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Tok Pisin i nidim predicate marker na verb; Hibru i onli tok 'na long em sipsip-meri'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sipsip-meri",
+      "rationale": "שפחה em i meri slev bilong haus; Tok Pisin i no gat wanpela tok stret"
+    }
+  ],
+  "translation": "Na Sarai, meri bilong Avram, i no karim pikinini long em; na em i gat wanpela sipsip-meri bilong em, wanpela meri bilong Mitsrayim, na nem bilong em Hagar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "813a5638abccfd29b184ac90cd4ab92f1c74d575e87b148b519fddf9b8970ee2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/16\/1-4.1792346534885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Na Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "karim pikinini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "na long em"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "sipsip-meri bilong em, wanpela meri bilong"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na nem bilong em"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:14.886552237Z",
+  "model": "glm-5.3"
+}

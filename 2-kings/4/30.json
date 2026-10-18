@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "soul",
+      "rationale": "נפש i klostu long throat\/breath\/laip — Tok Pisin: laip"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "tok bilong kot (oath) 'sapos' — Tok Pisin i no nidim, em i kamap long daires"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "Hebrew i no gat 'olsem' — tok bilong kot i askim wanpela tok moa"
+    }
+  ],
+  "translation": "Na mama bilong pikinini man i tok: Olsem Yahwe i stap yet, na olsem laip bilong yu i stap yet — mi no ken lusim yu. Na em i kirap na go bihain long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/4\/29-32.1792353350440.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama bilong"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na i stap yet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "laip bilong yu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "mi no ken lusim yu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Na em i kirap"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na go"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "bihain long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:50.441147688Z",
+  "model": "glm-5.3"
+}

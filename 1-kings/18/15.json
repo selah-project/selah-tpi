@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "oath formula 'Yahwe lives'; rendered as statement of his living, not 'as surely as'"
+    },
+    {
+      "kind": "you",
+      "subject": "Obadya",
+      "rationale": "Elijah answers Obadiah's fear directly with an oath"
+    }
+  ],
+  "translation": "Na Eliyahu i tok: Yahwe Tsebaot i stap long laip — em i stap long fes bilong en mi sanap — long dispela de bai mi soim mi long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/18\/13-16.1792353120516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na … i tok"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap long laip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "mi sanap"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long fes bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "bai mi soim mi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:52:00.517481225Z",
+  "model": "glm-5.3"
+}

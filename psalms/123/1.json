@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu we yu",
+      "rationale": "Hibru i tok long wanpela man we em i sindaun; Tok Pisin i nidim ⟨yu we⟩ long painim em"
+    },
+    {
+      "kind": "you",
+      "subject": "long yu",
+      "rationale": "Ol man i singim dispela singsing ol i tok stret long Yahwe we em i stap long ol heven"
+    }
+  ],
+  "translation": "Singsing bilong go antap. Long yu mi painimap ⟨את⟩ ol ai bilong mi, yu we yu sindaun long ol heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/123\/1-4.1792359223303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong go antap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi painimap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ai bilong mi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ol ai bilong mi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "yu we yu sindaun"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long ol heven"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:43.304161888Z",
+  "model": "glm-5.3"
+}

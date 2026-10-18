@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "Hebrew wish-formula 'who will give you' = Tok Pisin 'sapos wanpela i givim yu', longing idiom"
+    },
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "Hebrew has no conditional word; Tok Pisin wish construction adds it"
+    }
+  ],
+  "translation": "Sapos wanpela i givim yu olsem brata bilong mi, wanpela i sutim susu bilong mama bilong mi! Bai mi painim yu ausait, bai mi kissim yu, na ol i no ken lukim daun long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/1-4.1792360530417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "i givim yu"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "olsem brata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sutim"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "susu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "bilong mama bilong mi"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "bai mi painim yu"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ausait"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "bai mi kissim yu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ol i lukim daun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:30.418216128Z",
+  "model": "glm-5.3"
+}

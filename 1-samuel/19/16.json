@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "terafim \/ matres",
+      "rationale": "V.16 repeats the exact vocabulary of v.13 — the discovery scene mirrors the deception scene word for word."
+    }
+  ],
+  "translation": "Na ol mesinja i kam insait, na luk — ol terafim i stap long bet, na matres bilong gras bilong ol meme long hap bilong het bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/19\/13-16.1792351835126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i kam insait"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ol mesinja"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ol terafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "bet"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "na matres"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "gras bilong ol meme"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "long hap bilong het bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:35.127481528Z",
+  "model": "glm-5.3"
+}

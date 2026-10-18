@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 39:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נעלסה",
+      "rationale": "The verb 'flap joyously\/exult' occurs only here in the Tanakh, so its meaning is inferred from context."
+    },
+    {
+      "kind": "crux",
+      "subject": "renanim",
+      "rationale": "Famous crux: the ostrich's wing beats proudly — but is it like the stork's pinions (KJV\/BSB read 'peacock'; YLT reads 'rattling ones' as a bird name; JPS asks 'are her pinions the kindly stork's?')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "The stork's name shares its root with khesed ('kindness') — the bird named for maternal kindness contrasted with the ostrich's neglect; lost in Tok Pisin."
+    }
+  ],
+  "translation": "Wing bilong renanim i swimgim long hamamas; em i wing na pluma bilong hasida, o nogat?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0d9575c97f6212d68123822bbbb901a38e1d1fd5f981c12c6b16ecfe6257aeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/39\/13-16.1792360397252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנף",
+      "gloss": "Wing"
+    },
+    {
+      "surface": "רננים",
+      "gloss": "bilong renanim"
+    },
+    {
+      "surface": "נעלסה",
+      "gloss": "i swimgim long hamamas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o nogat"
+    },
+    {
+      "surface": "אברה",
+      "gloss": "wing"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "bilong hasida"
+    },
+    {
+      "surface": "ונצה",
+      "gloss": "na pluma"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:17.252976721Z",
+  "model": "glm-5.3"
+}

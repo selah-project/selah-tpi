@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "Oath formula 'if not...': a sworn negative — 'if I have not' means 'as surely as I have'; renderings split between conditional and affirmation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יומם ולילה",
+      "rationale": "Hebrew 'day and night' as continuous routine; rendered 'long save long de na long nait' to keep the daily-repetition shape."
+    }
+  ],
+  "translation": "Olsem Yahwe i tok: sapos kontrak bilong mi long save long de na long nait i no stap, na sapos mi no putim ol lo bilong skai na graun —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d5fd3a2c059d096e7708b9bd2d1893957ba6421ab2b8532a493d0fd7413930d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/33\/25-26.1792355507723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "long save long de"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na long nait"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "ol lo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "bilong skai"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mi putim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:47.723770619Z",
+  "model": "glm-5.3"
+}

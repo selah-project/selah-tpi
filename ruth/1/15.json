@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהיה",
+      "rationale": "Here Elohim refers to Moabite gods — small-letter ol god, not Elohim of Israel."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew omits subject of ותאמר (Naomi); Tok Pisin needs em."
+    },
+    {
+      "kind": "you",
+      "subject": "Naomi to Ruth",
+      "rationale": "Direct address of Naomi to Ruth, urging her to return."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Lukim, kandere bilong yu i go bek long ol man bilong en na long ol god bilong en; yu go bek bihain long kandere bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/1\/13-16.1792360541274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "i go bek"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "kandere bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ol man bilong en"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ol god bilong en"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "yu go bek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "kandere bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:41.275695464Z",
+  "model": "glm-5.3"
+}

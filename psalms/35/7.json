@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i laip\/breath, i no 'sol' — Tok Pisin 'laip bilong mi' i klostu long mining"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנם",
+      "rationale": "חנם i kamap tupela taim long wanpela ves — repitisen bilong autim 'nating ol i wokim'; Tok Pisin i holim tupela 'nating'"
+    }
+  ],
+  "translation": "Bikos nating ol i hidim hol bilong trap long mi wantaim net bilong ol; nating ol i harim hol bilong laip bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/5-8.1792358133278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nating"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ol i hidim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hol bilong trap"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "net bilong ol"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nating"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ol i harim hol"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bilong laip bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:33.279356646Z",
+  "model": "glm-5.3"
+}

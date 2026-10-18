@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בית צור",
+      "rationale": "Compound place name split over two tokens; both carry the full name."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lista bilong ol taun",
+      "rationale": "Continuation of the fortified-city list."
+    }
+  ],
+  "translation": "na ⟨את⟩ Bet-Tsur, na ⟨את⟩ Sokho, na ⟨את⟩ Adulam,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/11\/5-8.1792362393253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Tsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Tsur"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Bet-Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sokho"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adulam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    }
+  ],
+  "timestamp": "2026-10-18T22:26:33.254371112Z",
+  "model": "glm-5.3"
+}

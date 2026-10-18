@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 23:4",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sabat",
+      "rationale": "השבת rendered 'Sabat' per discipline D2 — a name, not 'de bilong malolo'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests and Levites",
+      "rationale": "Direct instruction ('yu ol mekim') to the armed Levites\/priests."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela hap",
+      "rationale": "Division of the guards into thirds — a counting\/distribution structure."
+    }
+  ],
+  "translation": "Dispela em i wok bilong yu ol bai yu ol mekim: Tripela hap long yu ol, ol i kam insait long taim bilong Sabat — ol pris na ol Levi — bai ol i wok olsuman long ol dua bilong go insait long haus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2c2f576b859a6eef1bd8812308375201bc5536d80524786384d6499f2931619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/23\/1-4.1792362595695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dispela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wok bilong tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bai yu ol mekim"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yu ol mekim"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "tripela hap"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ol i kam insait"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "long taim bilong Sabat"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "na ol Levi"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "ol i wok olsuman long"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ol dua bilong go insait"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:55.696797519Z",
+  "model": "glm-5.3"
+}

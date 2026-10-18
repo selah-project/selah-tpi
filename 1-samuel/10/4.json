@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long gutpela taim",
+      "rationale": "לשלום em i tok bilong salaam — gutpela taim, harmori; 'askim long gutpela taim' i min ol i pasim salutation"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronoun; Tok Pisin i nidim long 'ol i kisim'"
+    }
+  ],
+  "translation": "Na ol bai askim yu long gutpela taim, na ol bai givim yu tupela bret, na yu bai kisim ⟨em⟩ long ol han bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4f3f79d28c02d1da323b511445de08b733d88b8202da607e258341b72a4a4ab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/10\/4-4.1792363029315.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ol bai askim yu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "long gutpela taim"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "na ol bai givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "na yu bai kisim"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "long ol han bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:09.316317664Z",
+  "model": "glm-5.3"
+}

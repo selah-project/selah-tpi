@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pilim olgeta manmeri i orait gen",
+      "rationale": "רפא literal em i 'mekim orait gen' — Tok Pisin i usim 'pilim … i orait gen' bilong wok dokta"
+    }
+  ],
+  "translation": "Na Yahwe i harim tok bilong Hizkiyahu, na em i pilim ⟨את⟩ olgeta manmeri i orait gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fad44f8a5d360335bf114b94f5a252b2905c33a0c9ad4300b1bf6de7e5f2baf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/30\/17-20.1792362755688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na Yahwe i harim tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "em i pilim olgeta manmeri i orait gen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olgeta manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T22:32:35.689758190Z",
+  "model": "glm-5.3"
+}

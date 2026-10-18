@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש nefesh em i breath\/vitality — 'laip' i klostu, 'soul' i no Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלתה ... כלו (119:82)",
+      "rationale": "wankain rod כלה i kamap tupela taim namel long Kaphsekson — wanpela bel, wanpela ai"
+    },
+    {
+      "kind": "you",
+      "subject": "long Yahwe",
+      "rationale": "tok i go long God yet, man i wet long en"
+    }
+  ],
+  "translation": "Laip bilong mi i klostu pinis long wok seivim bilong yu; long tok bilong yu mi wet strong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/81-84.1792359150859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "i klostu pinis"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "long wok seivim bilong yu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "long tok bilong yu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mi wet strong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:30.860317756Z",
+  "model": "glm-5.3"
+}

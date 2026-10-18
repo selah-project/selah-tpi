@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השבת ... השבת",
+      "rationale": "Sabat i kamap tupela taim — lukautim na wokim, olsem wanpela as"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pikinini bilong Yisrael",
+      "rationale": "tok i go stret long ol lain bilong Yisrael"
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yisrael i mas lukautim ⟨את⟩ Sabat, bilong wokim ⟨את⟩ Sabat long ol klostu taim bilong ol, kontrak oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "234eba3aa7e3190f65de987679394396c0d2d61b6f28cbd9cf06aef2cadc642c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/15-16.1792362959886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na ol i mas lukautim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "long ol klostu taim bilong ol"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:59.887669705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tapela",
+      "rationale": "כפר i tok 'karim\/kapim' — 'atone' o 'pelim sen'"
+    },
+    {
+      "kind": "crux",
+      "subject": "סור מרע",
+      "rationale": "infinitive: 'man i senisim' (KJV) o imperativ 'yu senis!' (YLT 'turn thou aside')"
+    }
+  ],
+  "translation": "Long khesed wantaim tru tok, ol sen i tapela; na long longlong bilong Yahwe, man i senisim ⟨את⟩ rot bilong olgeta samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/5-8.1792359572130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "long khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "wantaim tru tok"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ol sen i tapela"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "na long longlong bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סור",
+      "gloss": "senisim"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "rot bilong olgeta samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:32.131201026Z",
+  "model": "glm-5.3"
+}

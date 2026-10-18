@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sotim tok",
+      "rationale": "תשבע literal i 'ol i mekim seven' — pasin bilong sotim tok long nem bilong Yahwe."
+    },
+    {
+      "kind": "elision",
+      "subject": "wokim wok bilong",
+      "rationale": "ואתו i makim direct object; תעבד wanpela tok tasol, Tok Pisin i laikim tupela tok."
+    }
+  ],
+  "translation": "Yu ken pret long Yahwe, Elohim bilong yu, na yu ken wokim wok bilong ⟨את⟩ em, na yu ken sotim tok long nem bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/6\/13-16.1792349784146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "yu ken pret long"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩ em"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "yu ken wokim wok bilong"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "na long nem bilong em"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "yu ken sotim tok"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:24.147391849Z",
+  "model": "glm-5.3"
+}

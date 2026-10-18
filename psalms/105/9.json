@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת",
+      "rationale": "'katim kontrak' — kontrak long Hibru em i 'katim', bilong pasin bilong katim animal namel long tupela hap, dispela piksa i lus long Tok Pisin."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ושבועתו",
+      "rationale": "Tok su o — wanpela tok strong bilong statim kontrak."
+    }
+  ],
+  "translation": "We em i katim kontrak wantaim ⟨את⟩ Avraham, na tok su o bilong en i go long Yitsak,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/9-12.1792358952496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "We em i"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "katim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "na tok su o bilong en"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "i go long Yitsak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:12.497218631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered 'ruak' throughout — one Hebrew word covers spirit\/wind\/breath; shape kept rather than choosing one sense."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe to the spirit",
+      "rationale": "Direct address: Yahwe questions the spirit in the heavenly court."
+    }
+  ],
+  "translation": "Na ruak i kamaut na em i sanap过去的 long heve bilong Yahwe, na em i tok: Mi bai pulim em. Na Yahwe i tokim em: Long wanem samting?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b26af33bb6b6390ea09c68253a75e9e927ac1ce481734d7afac1949cc8591cd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/18\/17-20.1792362530755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i kamaut"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long heve bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "bai pulim em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "במה",
+      "gloss": "long wanem samting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:28:50.757411533Z",
+  "model": "glm-5.3"
+}

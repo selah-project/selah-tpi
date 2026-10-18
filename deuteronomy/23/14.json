@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתד \/ אזנך",
+      "rationale": "Lit. 'a peg... upon your paddle\/spade'; KJV reads 'paddle upon thy weapon' — peg vs paddle division debated."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צאתך",
+      "rationale": "Lit. 'your excrement' — rendered as periphrasis 'ol samting i lusim yu'."
+    }
+  ],
+  "translation": "Na wanpela stik i ken stap long yu, long sop bilong hakim graun bilong yu; na taim yu sindaun long autsait, yu ken hakim wantaim em, na yu tanim bek na yu karimim daun ⟨את⟩ ol samting i lusim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/13-16.1792350205550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "na stik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i ken stap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sop bilong hakim graun bilong yu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "yu sindaun"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "long autsait"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "yu ken hakim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "na yu tanim bek"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "na yu karimim daun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting i lusim yu"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ol samting i lusim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:25.551791379Z",
+  "model": "glm-5.3"
+}

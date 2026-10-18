@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "jeremiah 51:57",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew apposition 'King, Yahwe Tsebaot is his name' needs a bracketed pronoun in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slip bilong oltaim",
+      "rationale": "שנת עולם literal 'sleep of olam\/vanishing-distance', euphemism for death rendered as everlasting sleep"
+    },
+    {
+      "kind": "you",
+      "subject": "Babel\/Babilon",
+      "rationale": "oracle of judgment spoken against Babylon, third person"
+    }
+  ],
+  "translation": "Na bai mi dringizim olgeta ol bikman bilong en, na ol man save bilong en, ol gavana bilong en, na ol hetman bilong en, na ol strongpela man bilong en; na bai ol i slip, slip bilong oltaim, na bai ol i no kirap — Yahwe Tsebaot, ⟨em i⟩ King, i tok; nem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/57-60.1792355960010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשכרתי",
+      "gloss": "bai mi dringizim"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ol bikman bilong en"
+    },
+    {
+      "surface": "וחכמיה",
+      "gloss": "na ol man save bilong en"
+    },
+    {
+      "surface": "פחותיה",
+      "gloss": "ol gavana bilong en"
+    },
+    {
+      "surface": "וסגניה",
+      "gloss": "na ol hetman bilong en"
+    },
+    {
+      "surface": "וגבוריה",
+      "gloss": "na ol strongpela man bilong en"
+    },
+    {
+      "surface": "וישנו",
+      "gloss": "bai ol i slip"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "slip"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na bai ol i no"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:20.010675738Z",
+  "model": "glm-5.3"
+}

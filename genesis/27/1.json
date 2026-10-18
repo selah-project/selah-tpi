@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "warwari",
+      "rationale": "כהה em i tok 'ink i spred, lait i go daun'; 'warwari' (blur) em i klostu min tasol"
+    },
+    {
+      "kind": "you",
+      "subject": "Pikinini bilong mi",
+      "rationale": "Yitsak i tokim Esav, pikinini man bilong em i bikpela, long tok direct"
+    },
+    {
+      "kind": "addition",
+      "subject": "mi stap",
+      "rationale": "הנני i tok 'lukim mi'; Tok Pisin i minim 'mi stap hia'"
+    }
+  ],
+  "translation": "Na i kamap, taim Yitsak i ol man pinis, na ol ai bilong em i warwari, i no inap lukim, em i singautim ⟨את⟩ Esav, pikinini man bilong em i bikpela, na em i tok long em: Pikinini bilong mi. Na em i tok long em: Lukim, mi stap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/1-4.1792346740435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "i ol man pinis"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "i warwari"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ol ai bilong em"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "i no inap lukim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "em i singautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong em"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "i bikpela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Pikinini bilong mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lukim, mi stap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:05:40.436520592Z",
+  "model": "glm-5.3"
+}

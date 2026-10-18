@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karamapim",
+      "rationale": "בלע i min 'karim i go daun' (olsem Balam i karim); 'karamapim' i holim piksa bilong karim olgeta."
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "Pasim toktok i go long Adonai — em i save tok."
+    }
+  ],
+  "translation": "Adonai, karamapim ⟨את⟩ ol, scatim ⟨את⟩ tong bilong ol; long wanem, mi lukim olsem ol i wokim pasin nogut na pait namel long taun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/9-12.1792358312657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "karamapim ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "scatim ⟨את⟩"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tong bilong ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ol i wokim pasin nogut"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "na pait"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "namel long taun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:32.658259193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "soim",
+      "rationale": "גלה i tok long paitim klaut na soim — hia em i openim na soim, i no bagarapim"
+    }
+  ],
+  "translation": "Yahwe i mekim ol man i save long salvation bilong em; long ai bilong ol olgeta lain bilong ol gutpela man i no bilong Yisrael, em i soim ⟨את⟩ tsedek bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/98\/1-4.1792358899922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "i mekim ol man i save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "salvation bilong em"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol olgeta lain bilong ol gutpela man i no bilong Yisrael"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "em i soim"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedek bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:19.923021558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Verse text lacks the direct-object marker את; no object marker present in the Hebrew of this verse, but ofa supplied as object contextually."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bed bilong yu",
+      "rationale": "משכב 'bed' carries euphemistic sense of cultic prostitution; bed-image kept literal."
+    }
+  ],
+  "translation": "Antap long maunten, bikpela maunten ol i haelim, yu putim bed bilong yu; tu long hap yu go antap bilong kilim ⟨את⟩ ofa, kilim ofa tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/57\/5-8.1792354713782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ol i haelim"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "bed bilong yu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yu go antap"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "bilong kilim ofa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofa tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:33.783979749Z",
+  "model": "glm-5.3"
+}

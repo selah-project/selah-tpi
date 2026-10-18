@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבנים",
+      "rationale": "dual bilong אבן — 'tupela ston' \/ ston bilong tulait \/ stul bilong tulait; ol man i no save long mining"
+    },
+    {
+      "kind": "you",
+      "subject": "ol meri bilong helpim tulait",
+      "rationale": "king i tokim Shifra na Pua stret — tok i go long ol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וחיה",
+      "rationale": "em i tok 'bai em i lait' — Tok Pisin i larim em i lait, pasin olsem KJV"
+    }
+  ],
+  "translation": "I tok: Long taim yu helpim ol meri Hebru long tulait, na yu lukim ol long antena bilong tupela ston bilong tulait: sapos em i pikinini man, bai yu kilim ⟨את⟩ em; tasol sapos em i pikinini meri, bai yu larim em i lait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/13-16.1792347340391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "long taim yu helpim tulait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol meri Hebru"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ol meri Hebru"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "na yu lukim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antena bilong"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "tupela ston bilong tulait"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "bai yu kilim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "bai yu larim em i lait"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:40.392881018Z",
+  "model": "glm-5.3"
+}

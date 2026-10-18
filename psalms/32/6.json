@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taim bilong painim",
+      "rationale": "לעת מצא: 'time of finding [God]' (when He may be found) vs 'time of distress' reading; also 'at an acceptable time'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩",
+      "rationale": "Object of 'finding' supplied — Hebrew leaves it implicit"
+    }
+  ],
+  "translation": "Long dispela, olgeta man khesed bai i beten long yu, long taim bilong painim ⟨yu⟩; tru, long taim bikpela pulap bilong planti wara i kam, ol i no inap kam klostu long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/32\/5-8.1792358154751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "bai i beten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "man khesed"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "long taim bilong"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "painim"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tru"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "long taim bilong pulap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "inap kam klostu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:54.752854451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על דעתך",
+      "rationale": "'According to your knowledge' (KJV\/ASV 'though you know') vs imperative 'know!' — most read it as concessive 'though you know'; rendered as 'long save bilong yu yet'."
+    },
+    {
+      "kind": "you",
+      "subject": "Job i toktok long Yahwe",
+      "rationale": "Direct address continues — Job's complaint is spoken to God himself."
+    }
+  ],
+  "translation": "Long save bilong yu yet, yu save long mi, mi no wokim rong; na i no gat man inap pulim mi ausait long han bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/5-8.1792359990777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "save bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yu save long mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "mi wokim rong"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat man"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ausait long han bilong yu"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "inap pulim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:30.778527642Z",
+  "model": "glm-5.3"
+}

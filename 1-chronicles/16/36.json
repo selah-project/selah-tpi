@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 16:36",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Blessed",
+      "rationale": "ברוך literally 'kneeled\/blessed'; English loanword used as no clean Tok Pisin equivalent"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Hebrew has no copula in the blessing formula; dash marks the seam"
+    },
+    {
+      "kind": "measurement",
+      "subject": "from olam to olam",
+      "rationale": "temporal span from everlasting to everlasting"
+    }
+  ],
+  "translation": "Blessed — Yahwe, Elohim bilong Yisrael, stat long ol taim bipo na inap long ol taim bihain. Na olgeta manmeri i tok: Amen, na givim preis long Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97220f65115438fc6742e52f26e638852c51772784fb7f203cc84cc9086bc315",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/16\/33-36.1792362069507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "stat long"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ol taim bipo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ol taim bihain"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "givim preis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:09.508706780Z",
+  "model": "glm-5.3"
+}

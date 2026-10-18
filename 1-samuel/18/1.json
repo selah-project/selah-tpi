@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sol",
+      "rationale": "נפש em i klostu long 'breth \/ laip', no wanpela samting i stapap long ai yet"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no tokim David long hap bilong 'laikim', Tok Pisin i nidim olsem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש...נפש...נפשו",
+      "rationale": "Tripela taim 'nepheš' i kamap, wanpela sol i binim wantaim narapela sol — repetisen i lukluk klostu long Tok Pisin tasol i no wankain strong"
+    }
+  ],
+  "translation": "Na i kamap, taim em i pinisim tok long Shaol, sol bilong Yonatan i binim wantaim sol bilong David, na Yonatan i laikim ⟨em⟩ olsem sol bilong em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/18\/1-4.1792351874925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "taim em i pinisim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "sol bilong"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "i binim wantaim"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "wantaim sol bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "na i laikim"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "olsem sol bilong em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:14.926208688Z",
+  "model": "glm-5.3"
+}

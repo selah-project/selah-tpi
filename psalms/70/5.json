@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tru",
+      "rationale": "Hebrew lacks copula; יגדל as stative 'is\/becomes great'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "second-person address throughout the verse"
+    }
+  ],
+  "translation": "Ol i ken garagarim na ol i ken amamas long yu, olgeta ol i painim yu; na ol i ken tok oltaim: Elohim i kamap bikpela tru, ol i save long sevim bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/70\/5-6.1792358425464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ol i ken garagarim"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na ol i ken amamas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ol i painim yu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i ken tok"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "i kamap bikpela tru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ol i save long"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "sevim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:25.465194873Z",
+  "model": "glm-5.3"
+}

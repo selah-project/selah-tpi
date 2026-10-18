@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "territory list",
+      "rationale": "Verse enumerates the districts under Ish-Bosheth's rule."
+    },
+    {
+      "kind": "crux",
+      "subject": "האשורי",
+      "rationale": "'Ashurite' district vs LXX 'Asher' vs 'Geshur' — identity of this group disputed."
+    }
+  ],
+  "translation": "Na em i mekim em i kamap king long Gilad, na long ol man bilong Ashuri, na long Yizreel, na long Efrayim, na long Binyamin, na long Yisrael olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/9-12.1792352112312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "em i mekim em i kamap king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "ol man bilong Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:12.313265207Z",
+  "model": "glm-5.3"
+}

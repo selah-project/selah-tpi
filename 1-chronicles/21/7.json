@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וירע בעיני",
+      "rationale": "Hebrew 'was evil in the eyes of'; Tok Pisin keeps the eye-idiom."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויך",
+      "rationale": "Hebrew 'struck'; rendered 'paitim' (hit\/strike)."
+    }
+  ],
+  "translation": "Na dispela samting i nogut long ai bilong Elohim, na em i paitim ⟨את⟩ Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/21\/5-8.1792362078955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "i nogut"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:18.956823305Z",
+  "model": "glm-5.3"
+}

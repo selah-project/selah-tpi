@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 11:13",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "namba",
+      "rationale": "the verse counts gods by cities and altars by streets"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבשת \/ לבעל",
+      "rationale": "shame (boshet) substituted for Baal — a deliberate sound-pun on the deity's name, kept as 'sem' and 'Baal'"
+    },
+    {
+      "kind": "you",
+      "subject": "o Yuda",
+      "rationale": "direct address to Judah"
+    }
+  ],
+  "translation": "Bilong namba bilong ol sit bilong yu, ol god bilong yu i kamap, o Yuda; na bilong namba bilong ol stret bilong Yerusalayim, yu putim ol altar long sem, ol altar bilong kukim smel ofa long Baal.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7bdac5e801bb1f575c2f497218be8354f3a51ad9294f89707edaf50c88a0fb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/11\/13-16.1792355071017.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "namba"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ol sit bilong yu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ol god bilong yu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "o Yuda"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "na bilong namba"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ol stret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "bilong Yerusalayim"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ol altar"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "long sem"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ol altar"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "bilong kukim smel ofa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "long Baal"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:31.017825701Z",
+  "model": "glm-5.3"
+}

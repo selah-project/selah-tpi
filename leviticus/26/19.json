@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמיכם",
+      "rationale": "dual — 'ol heven\/skai'; Tok Pisin i no gat dual, wanpela 'skai' tasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברזל\/נחשה",
+      "rationale": "ain na kopa — tupela samting hat; Deut 28:23 i gat wankain piksa"
+    }
+  ],
+  "translation": "Na bai mi brukim ⟨את⟩ pride bilong strong bilong yupela, na bai mi mekim ⟨את⟩ skai bilong yupela olsem ain, na ⟨את⟩ graun bilong yupela olsem kopa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/17-20.1792348845210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "na bai mi brukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pride bilong strong bilong yupela"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pride"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "strong bilong yupela"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na bai mi mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skai bilong yupela"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "skai bilong yupela"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "olsem ain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "graun bilong yupela"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "graun bilong yupela"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "olsem kopa"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:45.211680857Z",
+  "model": "glm-5.3"
+}

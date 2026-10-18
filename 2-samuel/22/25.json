@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim bek",
+      "rationale": "וישב em i 'turn bek \/ bekim', long hia em i minim 'pairim olsem bilong bekim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה i tsedek — no 'raitnes' tasol, em i pasin stret bilong skelim"
+    }
+  ],
+  "translation": "Na Yahwe i givim bek long mi olsem tsedek bilong mi, olsem klia pasin bilong mi long front bilong ai bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8040045032bfc76d7a954cd620260dace12facd92735e82bebef3fda3a6a6bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/25-28.1792352611138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i givim bek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "olsem tsedek bilong mi"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "olsem klia pasin bilong mi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "long front bilong"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ai bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:31.138832308Z",
+  "model": "glm-5.3"
+}

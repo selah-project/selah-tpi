@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav wantaim pronoun suffix; ⟨את⟩ i stap, na pronoun bilong Tok Pisin i kamap."
+    }
+  ],
+  "translation": "Na ol man Peliset i kisim ⟨את⟩ bokis bilong Elohim, na ol i karim i go insait long haus bilong Dagon, na ol i putim ⟨את⟩ em klostu long Dagon.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/5\/1-4.1792351563154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Na ol i kisim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol man Peliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis bilong Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na ol i karim i go insait"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (bokis)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "na ol i putim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (bokis)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:03.155563388Z",
+  "model": "glm-5.3"
+}

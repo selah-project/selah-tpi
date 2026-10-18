@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין הערבים",
+      "rationale": "'Between the two evenings' — rendered literally 'namel long tupela apinun'; traditions differ: dusk (Rabbinic) vs afternoon (Samaritan\/Karaite)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "one lamb morning, one at evening",
+      "rationale": "Timing and count of the daily offering."
+    }
+  ],
+  "translation": "⟨את⟩ Wanpela pikinini sipsip yu wokim long moning, na ⟨את⟩ nambatu pikinini sipsip yu wokim namel long tupela apinun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/28\/1-4.1792349522065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanpela pikinini sipsip"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nambatu pikinini sipsip"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nambatu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tupela apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:52:02.066524399Z",
+  "model": "glm-5.3"
+}

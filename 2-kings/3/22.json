@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדמים\/דם\/אדום",
+      "rationale": "Retpela wara olsem blut — tok Edom (אדום, retpela) i klostu long hia; man i tingting ol king i pait long olgeta yet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדמים",
+      "rationale": "Wara i luk retpela taim san i sait — em i saut bilong kilim wariim, no rong bilong wara yet"
+    }
+  ],
+  "translation": "Na ol i kirap earli long moning, na san i sait long wara, na Moab i lukim, long hap narapelside, ⟨את⟩ wara i retpela olsem blut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "988ab2402c976aeb615252d2c2c8843834bbd2e059948347b8f1cb8ededf308e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/3\/21-24.1792353310924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "kirap earli"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "na san"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "sait"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "long hap narapelside"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "retpela"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "olsem blut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:10.925535547Z",
+  "model": "glm-5.3"
+}

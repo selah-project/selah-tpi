@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המצוה",
+      "rationale": "'The commandment' — versions split between 'the law', 'terms and conditions', and 'that which was commanded'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kopi ol i opim",
+      "rationale": "הגלוי 'the revealed (copy)' rendered as 'the copy opened up' — root galah means uncovered\/open."
+    }
+  ],
+  "translation": "Na mi kisim ⟨את⟩ buk bilong baim, ⟨את⟩ kopi ol i sealim wantaim ol komand na ol lo, na ⟨את⟩ kopi ol i opim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/32\/9-12.1792355516322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "na mi kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buk bilong baim"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bilong baim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopi ol i sealim"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "kopi ol i sealim"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ol komand"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "wantaim ol lo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kopi ol i opim"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "kopi ol i opim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:56.323510591Z",
+  "model": "glm-5.3"
+}

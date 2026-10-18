@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kam bek, mi askim yu",
+      "rationale": "Imperative plea summoning God to return and look"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim Tsebaot",
+      "rationale": "Direct address to God of hosts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lukautim",
+      "rationale": "פקד means 'visit\/attend to\/inspect' — rendered as 'look after'"
+    }
+  ],
+  "translation": "Elohim Tsebaot, kam bek, mi askim yu; lukluk daunbilo long heven na lukim, na lukautim dispela wain diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/13-16.1792358590437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kam bek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi askim yu"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "lukluk daunbilo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "na lukautim"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "wain diwai"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.438143596Z",
+  "model": "glm-5.3"
+}

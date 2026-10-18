@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ארץ",
+      "rationale": "Hebrew has no definite article here; Tok Pisin has no articles so none supplied, ⟨את⟩ marker not in Hebrew text"
+    }
+  ],
+  "translation": "Ol man bilong tsedek bai ol i kisim ⟨את⟩ graun, na ol i ken stap long em oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/29-32.1792358174132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man bilong tsedek"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bai ol i kisim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "na ol i ken stap"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:14.133226598Z",
+  "model": "glm-5.3"
+}

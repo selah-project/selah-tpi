@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את נבות",
+      "rationale": "את long hia (H854, 'wantaim') i no aleph-tav bilong tanim tok (H853) — tasol em i makim Nabot, olsem mi holim ⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man i gat nem",
+      "rationale": "החרים literol 'ol man ol i klinim wantaim paia' — ol man i gat nem long taun"
+    }
+  ],
+  "translation": "Na em i raitim ol leta long nem bilong Ahab, na em i sealim ol wantaim seal bilong em, na em i salim ol leta i go long ol olpela man na long ol man i gat nem ol i stap long taun bilong em, ol i stap wantaim ⟨את⟩ Nabot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/21\/5-8.1792353192723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "i raitim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ol leta"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "i sealim"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "wantaim seal bilong em"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "ol leta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ol olpela man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ol man i gat nem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "long taun bilong em"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:12.725140097Z",
+  "model": "glm-5.3"
+}

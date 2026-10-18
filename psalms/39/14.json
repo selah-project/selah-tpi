@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השע ממני",
+      "rationale": "'lukluk i go ausait long mi' — KJV 'spare mi' vs JPS 'look away from mi'; Hibru i tok stret 'laklaim i go long mi'",
+      "subject2": null
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואבליגה",
+      "rationale": "Hibru em i 'bai mi bilap gen \/ i kirap gen'; 'hamapas gen' i klostu, tasol liklik senis"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Taim daivid i toktok stret long Yahwe"
+    }
+  ],
+  "translation": "Lukluk i go ausait long mi, na bai mi hamamas gen, pastaim mi go na mi no stap gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/39\/13-14.1792358171389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "lukluk i go ausait"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "na bai mi hamamas gen"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pastaim"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi go"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "na mi no stap gen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:11.391149657Z",
+  "model": "glm-5.3"
+}

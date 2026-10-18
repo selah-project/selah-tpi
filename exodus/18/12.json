@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 18:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "papa bilong meri bilong Mose",
+      "rationale": "חתן משה is a bound construct 'father-in-law of Moses'; Tok Pisin spells the kinship out rather than one word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "long stun bilong ples bilong",
+      "rationale": "לפני is literally 'to the face of'; Tok Pisin idiom for 'in the presence of' uses the meeting-place picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Second 'father-in-law of Moses' clause: pronoun added for flow where Hebrew repeats the construct."
+    }
+  ],
+  "translation": "Na Yitro, papa bilong meri bilong Mose, i kisim burntoff sakrifis na ol narapela sakrifis bilong givim long Elohim; na Aharon i kam, wantaim olgeta ol bikman bilong Yisrael, bilong kaikai bret wantaim ⟨em⟩, papa bilong meri bilong Mose, long stun bilong ples bilong Elohim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/18\/9-12.1792347672634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na i kisim"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "papa bilong meri bilong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "burntoff sakrifis"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "na ol narapela sakrifis"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bilong givim long Elohim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na i kam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ol bikman bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bilong kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "papa bilong meri bilong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long stun bilong ples bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:12.635765211Z",
+  "model": "glm-5.3"
+}

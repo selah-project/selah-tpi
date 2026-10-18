@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neshet",
+      "rationale": "נשך (b\/neshet) em i 'kaikai bilong mani' — mana bilong karipela; Tok Pisin i no gat tok, olsem na mi holim nois bilong Hibru."
+    },
+    {
+      "kind": "substitution",
+      "subject": "soba",
+      "rationale": "שחד em i mani man i givim long het bilong man bilong skelim kot — 'soba' long Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "surik",
+      "rationale": "ימוט em i 'surik, sek, pundaun' — 'no bai surik olgeta taim' long ples bilong 'no ken muv'."
+    }
+  ],
+  "translation": "Silva bilong em i no givim long neshet, na soba long man i no gat sala i no tekim; man i wokim ol dispela samting, em i no bai surik olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/15\/5-5.1792357890772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "silva bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "long neshet"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "na soba"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "man i no gat sala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tekim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "surik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:30.774339603Z",
+  "model": "glm-5.3"
+}

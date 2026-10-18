@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bringapim",
+      "rationale": "המעלה em i tok bilong 'go antap \/ bringim i kamap', KJV i ken 'brought you up'; Tok Pisin i gat 'bringapim' olsem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשים \/ קדוש",
+      "rationale": "Olsem Stat — 'yumi stap holi, bilong mi stap holi': wanpela rot, tung i kamap tupela."
+    },
+    {
+      "kind": "addition",
+      "subject": "bai i",
+      "rationale": "והייתם em i we bilong bihain — Tok Pisin i bruikim mak 'bai'."
+    }
+  ],
+  "translation": "Bilong wanem mi Yahwe, em i bringapim ⟨את⟩ yupela i kamap long graun bilong Mitsrayim, bilong mi kamap Elohim bilong yupela; na yupela bai i stap holi, bilong mi stap holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/45-47.1792348382506.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "em i bringapim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "bilong mi kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "na yupela bai i stap"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "holi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mi stap holi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:02.507023167Z",
+  "model": "glm-5.3"
+}

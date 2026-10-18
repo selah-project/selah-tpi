@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i needim pronoun long femel singkat bilong Hibru"
+    }
+  ],
+  "translation": "Bai papa bilong yu na mama bilong yu i amamas, na ⟨em⟩ meri i karim yu bai i singsing gutpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/25-28.1792359693490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "na mama bilong yu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na bai i singsing gutpela"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "meri i karim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:33.491424926Z",
+  "model": "glm-5.3"
+}

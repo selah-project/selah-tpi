@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Imperfect ואתנה rendered with future bai; Hebrew aspect left unmarked."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ber",
+      "rationale": "Place-name Beer means 'well' — the etymology is spelled out in the verse itself (בארה… הבאר), kept visible as Ber \/ hol bilong wara."
+    }
+  ],
+  "translation": "Na long hap ol i go long Ber; em i hol bilong wara we Yahwe i tokim Mose: Rundim ⟨את⟩ ol manmeri, na bai mi givim olgeta wara.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "79ce5c8d28b2a5a5d43d2f0c435c8fd6f748e5ec8dfee043521c0e0fcce0e526",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/21\/13-16.1792349320366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "na long hap"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "ol i go long Ber"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "hol bilong wara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "long Mose"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rundim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na bai mi givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:48:40.368233693Z",
+  "model": "glm-5.3"
+}

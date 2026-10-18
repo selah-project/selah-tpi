@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saveman bilong mi",
+      "rationale": "תשועתי — 'help\/halivim\/man i halivim mi'; 'saveman' i kamap long pasin bilong tok; no 'salvation' bilong Nupela Testamen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonai",
+      "rationale": "tok diret long Adonai — hevi bilong man i gohet"
+    }
+  ],
+  "translation": "Salim han kwiktime bilong halivim mi, Adonai, saveman bilong mi!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/21-23.1792358170522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "salim han kwiktime"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "bilong halivim mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "saveman bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:10.523513498Z",
+  "model": "glm-5.3"
+}

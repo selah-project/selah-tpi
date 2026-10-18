@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai olgeta",
+      "rationale": "אכלה 'it will eat' = fire devouring; Tok Pisin 'kaikai' keeps the literal eating verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "strongpela haus",
+      "rationale": "ארמנות is citadels\/fortified palaces; expanded as 'bikpela strongpela haus' since Tok Pisin lacks one word for citadel."
+    }
+  ],
+  "translation": "Na mi bai salim paia i go long haus bilong HazaEl, na bai em i kaikai olgeta ol bikpela strongpela haus bilong Ben-Hadad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/1-4.1792357236771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Na mi bai salim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i go long haus bilong"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "HazaEl"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "na bai em i kaikai olgeta"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ol bikpela strongpela haus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:36.775524331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masim flao",
+      "rationale": "משארת em i basin bilong kep flao; Tok Pisin i no gat wanpela tok, olsem na dispela tok wantaim."
+    },
+    {
+      "kind": "elision",
+      "subject": "karamap i stap",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim ⟨i stap⟩."
+    }
+  ],
+  "translation": "Karamap i stap long baskit bilong yu, na long ⟨samting⟩ bilong masim flao bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/17-20.1792350335837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "karamap"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "baskit bilong yu"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "na samting bilong masim flao bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:35.838396741Z",
+  "model": "glm-5.3"
+}

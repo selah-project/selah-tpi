@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרעם",
+      "rationale": "'rule\/break' (רעע): YLT 'rule', KJV\/JPS 'break' — mi usim 'brukim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יוצר",
+      "rationale": "man i wokim banis — potter, man i wokim tanim kapa long hap"
+    }
+  ],
+  "translation": "Yupela bai brukim ol ⟨את⟩ wantaim stik bilong aion; yupela bai brukim ol i go smol olsem samting bilong man i wokim banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/2\/9-12.1792357816077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "yupela bai brukim ⟨em⟩"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "wantaim stik"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bilong aion"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "olsem samting"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "bilong man i wokim banis"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "yupela bai brukim ol i go smol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:16.078174381Z",
+  "model": "glm-5.3"
+}

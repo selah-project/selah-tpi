@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המאכלת",
+      "rationale": "Hebrew 'eating-implement' → knife; rendered 'naip bilong katim' keeping the picture of cutting."
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "The narrative withholds Isaac's reaction entirely — only the actions are told."
+    }
+  ],
+  "translation": "Na Avraham i salim ⟨את⟩ han bilong en, na i kisim ⟨את⟩ naip bilong katim, bilong kilim ⟨את⟩ pikinini bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/22\/9-12.1792346592130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong en"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naip bilong katim"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "naip bilong katim"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "bilong kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini bilong en"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:12.131583264Z",
+  "model": "glm-5.3"
+}

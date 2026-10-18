@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 14:9",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hebrew את here is a preposition 'with'; Tok Pisin needs wantaim, supplied and bracketed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "foapela king wantaim ol faipela",
+      "rationale": "verse tallies the two coalitions: four kings against five"
+    }
+  ],
+  "translation": "⟨wantaim⟩ ⟨את⟩ Kedorlaomer king bilong Elam, na Tidal king bilong Goyim, na Amrafel king bilong Shinar, na Aryok king bilong Elasar — foapela king wantaim ⟨את⟩ ol faipela king.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/14\/9-12.1792346428138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer king bilong Elam"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ותדעל",
+      "gloss": "na Tidal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Goyim"
+    },
+    {
+      "surface": "ואמרפל",
+      "gloss": "na Amrafel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "ואריוך",
+      "gloss": "na Aryok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אלסר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol faipela king"
+    },
+    {
+      "surface": "החמשה",
+      "gloss": "ol faipela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:28.138922438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "trowim sulu",
+      "rationale": "סיר רחצי \/ shoe-casting — pasin bilong trowim sulu i tok: dispela graun em i bilong mi, ol i ken bosim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סיר",
+      "rationale": "'pot' — pot bilong wasim, tok bilong lek bilong wasim, em i tok bilong daunim Moab"
+    }
+  ],
+  "translation": "Moab em i pot bilong wasim ⟨mi⟩; long Edom mi bai trowim sulu bilong mi; long Peliset mi bai krai strongpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/108\/9-12.1792359019843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "pot"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "bilong wasim mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mi bai trowim"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sulu bilong mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peliset"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "mi bai krai strongpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:19.844567791Z",
+  "model": "glm-5.3"
+}

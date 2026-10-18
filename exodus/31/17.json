@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/וינפש",
+      "rationale": "root שבת repeats from v.16 into 'he sabbathed'; TPI keeps one form 'malolo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינפש",
+      "rationale": "from נפש — 'he breathed\/caught breath again'; rendered 'kisim bek win' to keep the breathing picture."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sixpela de \/ seventupela de",
+      "rationale": "counting of creation days."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew הוא plus TPI predicate marker supplies the copula the clause needs."
+    }
+  ],
+  "translation": "Em i mak namel long mi na ol pikinini bilong Yisrael, oltaim; long wanem, long sixpela de Yahwe i wokim ⟨את⟩ ol heven na ⟨את⟩ graun, na long seventupela de em i malolo, na em i kisim bek win.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0f8ad6a11f7c2f987950f19a3404b0a212673d186b2dd5fde73572986c11d585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/17-18.1792348013494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "namel long mi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "mak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sixpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol heven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na long de"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seventupela"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "i malolo"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "na em i kisim bek win"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:53.495488760Z",
+  "model": "glm-5.3"
+}

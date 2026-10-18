@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stelim pikinini",
+      "rationale": "ושכלה em i tok long lostim pikinini (olsem wanpela mama i lusim pikinini bilong em), ol i tanim long 'bereave'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושכלה אתכם",
+      "rationale": "KJV\/JPS 'rob you of your children' vs YLT 'bereaved you' — mak ⟨את⟩ i pointim yupela, tasol wok i paitim pikinini"
+    }
+  ],
+  "translation": "Na bai mi salim ⟨את⟩ ol animal bilong gaden long yupela, na bai ol i stelim pikinini bilong yupela, na bai ol i kotim olgeta ⟨את⟩ ol animal bilong lukautim bilong yupela, na bai ol i ritim yupela i go daun, na rot bilong yupela bai i stap nating.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/21-24.1792348843268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "na bai mi salim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol animal bilong gaden"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ol animal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "na bai ol i stelim pikinini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "pikinini bilong yupela"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "na bai ol i kotim olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol animal bilong lukautim bilong yupela"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "ol animal bilong lukautim bilong yupela"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "na bai ol i ritim i go daun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "bai i stap nating"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "rot bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:43.269511820Z",
+  "model": "glm-5.3"
+}

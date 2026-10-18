@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש i klostu long 'bel\/laik bilong liv' — i no 'soul' olsem Inglis."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטי נפשו",
+      "rationale": "'Ol i kot long bel bilong en' o 'ol i sotim bel bilong en' — sku bilong tanim tok i ogat."
+    }
+  ],
+  "translation": "Bikos em i sanap long han sut bilong man hungri, bilong ritim ⟨את⟩ em long ol man i skelim bel bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/29-31.1792359037623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "long han sut bilong"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "man hungri"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "bilong ritim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ol man i skelim"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:37.624527894Z",
+  "model": "glm-5.3"
+}

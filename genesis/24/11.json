@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i mekim ol i kunait",
+      "rationale": "ברך em i 'kunait' — wotkamel i save kunait; translata ol i putim 'mekim i slip' tasol leta i tok kunait"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol meri",
+      "rationale": "השאבת em i 'ol pulim wara' — 'ol meri' i kamap long sipela man long Stat 24:13, Hebrew i no tok 'meri' hia"
+    }
+  ],
+  "translation": "Na i mekim ol kamel i kunait long autsait bilong siti, klostu long wel bilong wara, long apinun, long taim bilong ol meri i kam aut long pulim wara.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/9-12.1792346638826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "i mekim ol i kunait"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ol kamel"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "long autsait"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bilong siti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "באר",
+      "gloss": "wel"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kam aut"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "ol pulim wara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:58.827875269Z",
+  "model": "glm-5.3"
+}

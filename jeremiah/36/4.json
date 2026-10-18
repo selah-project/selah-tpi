@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 36:4",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the pronoun object after 'tokim'; Hebrew אליו 'to him' comes later, so ⟨em⟩ is supplied"
+    },
+    {
+      "kind": "measurement",
+      "subject": "olgeta tok",
+      "rationale": "כל 'all' — totality of the words written on the scroll is counted out"
+    }
+  ],
+  "translation": "Na Yirmeyahu i singautim ⟨את⟩ Baruk, pikinini bilong Nerya, na Baruk i raitim, long maus bilong Yirmeyahu, ⟨את⟩ olgeta tok bilong Yahwe, we em i tokim ⟨em⟩ long wanpela rol bilong buk.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03a08900161bb325ec04417a3fd45e452a1f4baf251b6f38446b16cdcfac3227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/36\/4-4.1792363230901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerya"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "na i raitim"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "long maus bilong"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta tok bilong Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "rol bilong"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:30.902024719Z",
+  "model": "glm-5.3"
+}

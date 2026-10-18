@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבת",
+      "rationale": "שֶׁבֶת (sit\/stul, seat) i luk wankain long tok Sabat — 'stul bilong pasin bagarap' (KJV) o 'ples bilong sindaun bilong ol man nogut'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "putim i go longwe \/ bringim klostu",
+      "rationale": "Hibru i wokim pasin hiahai: ol i rausim de nogut i go longwe, tasol ol i bringim pasin nogut i kam klostu — tupela tok i tanim klostu."
+    }
+  ],
+  "translation": "Yupela ol i putim de bilong nogut i go longwe, na yupela i bringim klostu stul bilong pasin bagarapim ol man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/6\/1-4.1792357295162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "ol i putim i go longwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bilong nogut"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "na yupela i bringim klostu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "stul bilong"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pasin bagarapim ol man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:35.163247427Z",
+  "model": "glm-5.3"
+}

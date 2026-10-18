@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Meltzar",
+      "rationale": "המלצר — nem bilong man o tok bilong 'bilen bilong kaikai'? Ol tanim i no wankain"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרענים",
+      "rationale": "Tok 'ol samting bilong plaenim' — i stap long Buk Daniel tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikai bilong gaden",
+      "rationale": "זרענים — 'kaikai pikinini bilong gaden' (kumu), Inglis 'pulse'"
+    }
+  ],
+  "translation": "Na Meltzar i karim ⟨את⟩ kaikai swit bilong ol i go we, na wain bilong dring bilong ol, na em i givim long ol kaikai bilong gaden.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/1\/13-16.1792360961909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Meltzar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "i karim i go we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai swit bilong ol"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "kaikai swit bilong ol"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na wain"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "bilong dring bilong ol"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na em i givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "kaikai bilong gaden"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:41.910619540Z",
+  "model": "glm-5.3"
+}

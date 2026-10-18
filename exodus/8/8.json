@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויצעק",
+      "rationale": "'shriek\/cry out aloud' — rendered 'singaut klia', intense outcry not ordinary prayer."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "subject pronoun of 'i putim' supplied; Hebrew participle 'שם' leaves the actor implicit (Yahwe)."
+    }
+  ],
+  "translation": "Na Mose na Aharon i go ausait long Paroh; na Mose i singaut klia long Yahwe long samting bilong ol frok we em i putim long Paroh.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/5-8.1792347483906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na i go ausait"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "na i singaut klia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bilong ol frok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שם",
+      "gloss": "em i putim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "long Paroh"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:03.907707463Z",
+  "model": "glm-5.3"
+}

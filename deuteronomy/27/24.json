@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i laikim predicate marker i, Hebrew i nogat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poro man",
+      "rationale": "רעהו em i poro\/wantok bilong man, nogat 'neighbour' olsem ples i stap klostu tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "ואמר em i wayim taim bilong bihain, Tok Pisin i putim bai"
+    }
+  ],
+  "translation": "Man i kersim ol i kilim ⟨את⟩ poro man bilong en long haid ples, na olgeta manmeri bilong graun bai tok: Amen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "741e3243fb05bb766e39c0d82057cba1868ffbf7803f8170975452493b01563a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/24-24.1792362994007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "kersim ol"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kilim"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poro man bilong en"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "long haid ples"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri bilong graun"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:34.007648784Z",
+  "model": "glm-5.3"
+}

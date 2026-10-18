@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Samuayel",
+      "rationale": "Hibru i tok wanpela nem 'ושמואל'; Tok Pisin i nidim nem pastaim long 'i scare'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המראה",
+      "rationale": "'visin' — samting man i lukim, we Inglis i lainim olsem 'vision'."
+    }
+  ],
+  "translation": "Na Samuayel i slip i go kam long moningtaim, na em i opim ⟨את⟩ ol dua bilong haus bilong Yahwe; na Samuel i scare bilong autim ⟨את⟩ visin long Eli.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/13-16.1792351536739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Na i slip"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuayel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go kam"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "long moningtaim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na i opim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol dua bilong haus bilong Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ol dua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Samuayel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i scare"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "bilong autim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visin"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "visin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:36.740801737Z",
+  "model": "glm-5.3"
+}

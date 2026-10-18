@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממלכת כהנים",
+      "rationale": "'kingdom of priests' (whole people as priests) vs 'royal priesthood' (kingdom ruled by priests) vs 'a kingdom of priests' each member priestly."
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "Simile marker added; Hebrew construct chain 'kingdom of priests' is bound directly."
+    },
+    {
+      "kind": "you",
+      "subject": "to Mose",
+      "rationale": "YHWH commands Moses to speak these words to Israel — imperative embedded address."
+    }
+  ],
+  "translation": "Na yupela bai kamap bilong mi olsem kingdom bilong ol pris, na holi lain. Ol dispela tok na yupela tokim ol long ol pikinini bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2eb98da1e9f54c1edc73e95c989f3d9bf47ee1e364314572207e33da10a30031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/19\/5-8.1792347668886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "na yupela"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "yupela kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "bilong ol pris"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "na lain"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "yupela tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:08.887600749Z",
+  "model": "glm-5.3"
+}

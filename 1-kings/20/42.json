@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש is life-force\/breath, rendered as laip (life), not soul."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמי",
+      "rationale": "Crux: 'the man I devoted to destruction' (thing under חרם ban) vs 'a man worthy of death'; KJV inserts 'whom I appointed to utter destruction'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת נפשו \/ תחת עמו",
+      "rationale": "Balanced parallelism: life-for-life, people-for-people, chiastic justice structure preserved."
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem na",
+      "rationale": "Consequential connector implied by והיתה but not explicit in Hebrew."
+    }
+  ],
+  "translation": "Na em i tokim em: Olsem Yahwe i tok: Bilong yu no ken holim, yu salim ⟨את⟩ man bilong olkukim long paia bilong mi i lusim han bilong yu, olsem na laip bilong yu bai i go long ples bilong laip bilong em, na ol manmeri bilong yu long ples bilong ol manmeri bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/20\/41-43.1792353118406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Bilong"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "yu salim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man bilong olkukim long paia bilong mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "bilong olkukim long paia bilong mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "i lusim han bilong yu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bai i go"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "laip bilong yu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "laip bilong em"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ol manmeri bilong yu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:58.407466881Z",
+  "model": "glm-5.3"
+}

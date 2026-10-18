@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשור",
+      "rationale": "Pointed as אָשׁוּר from שור 'watch, lurk' (so KJV\/ASV 'observe'), but same letters as 'Asshur' — Wycliffe\/Geneva read 'way of the Assyrians'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mi stap wet lukluk",
+      "rationale": "Reading שור 'lurk for prey' fits the leopard image better than the place-name."
+    }
+  ],
+  "translation": "Na mi kamap long ol olsem laion, olsem lepat mi stap wet long rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/13\/5-8.1792357073120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "na mi kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "laion"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "olsem lepat"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "mi stap wet lukluk"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:53.121132516Z",
+  "model": "glm-5.3"
+}

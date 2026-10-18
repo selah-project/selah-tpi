@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vijen",
+      "rationale": "חזון is a sight\/revelation\/oracle; 'vijen' (vision) is the nearest single Tok Pisin word."
+    },
+    {
+      "kind": "crux",
+      "subject": "ודברתי על הנביאים",
+      "rationale": "'I spoke to\/upon the prophets' vs 'through the prophets'; עַל rendered as plain 'long'."
+    }
+  ],
+  "translation": "Na mi toksave long ol profet, na mi, vijen i kamap planti; na long han bilong ol profet mi mekim ol tok olsem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/12\/9-12.1792357051876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Na mi toksave"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ol profet"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "vijen"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "i kamap planti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ol profet"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "mi mekim ol tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:31.877536457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Object pronoun added — Hebrew verb suffic 'him' implicit in context."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט יכה",
+      "rationale": "Read as 'he (Yahwe) strikes with the rod'; KJV\/JPS read the rod as Assyria's own."
+    }
+  ],
+  "translation": "Bilong wanem, long voises bilong Yahwe, Ashur bai i pundaun i bruk; wantaim sut stik bai i paitim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/30\/29-32.1792354315333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "long voises"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "bai i pundaun i bruk"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "wantaim sut stik"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "bai i paitim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:55.334876551Z",
+  "model": "glm-5.3"
+}

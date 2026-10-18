@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tamboren",
+      "rationale": "toph em i kain drum bilong Tok Pisin 'tamboren' — klostu, tasol no wankain tambol."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחולות",
+      "rationale": "YL 'choruses' vs KJV 'dances' — mekot em i dans, 'dansen' i stret."
+    }
+  ],
+  "translation": "Na Miryam, profet meri, sista bilong Aharon, i kisim ⟨את⟩ tamboren long han bilong em, na olgeta meri i go ausait bihain long em wantaim ol tamboren na ol dans.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bc87174636828cfdf52110f3c1fd40de9c603c0c84276b10355e685615dcc298",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/15\/19-20.1792362923402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Na … i kisim"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "profet meri"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sista bilong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamboren"
+    },
+    {
+      "surface": "התף",
+      "gloss": "tamboren"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "long han bilong em"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "na … i go ausait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "bihain long em"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "wantaim ol tamboren"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "na ol dans"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:23.402968574Z",
+  "model": "glm-5.3"
+}

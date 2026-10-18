@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i needim predicate marker na demonstrative, Hibru i no gat"
+    }
+  ],
+  "translation": "Na dispela em i blessing bilong Mose, man bilong Elohim, we em i blessingim ⟨את⟩ ol pikinini bilong Yisrael, pastaim long taim bilong dai bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "39e85ab2e9b07d420b4f3a56b08668d0b1e10b096e72a843cea554185d4ea437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/33\/1-4.1792350400047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na dispela"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blessing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blessingim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "dai bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:40.047906723Z",
+  "model": "glm-5.3"
+}

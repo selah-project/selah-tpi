@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew lacks copula; Tok Pisin predicate marker and 'is' sense supplied."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסדך \/ אמתך",
+      "rationale": "Parallel pair khesed and emet balanced against heavens\/clouds in a mirrored couplet."
+    }
+  ],
+  "translation": "Bikos khesed bilong yu ⟨i⟩ bikpela i go antap long ol heven, na tok tru bilong yu i go antap long ol klap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/9-12.1792358325841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go antap long"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na i go antap long"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ol klap"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tok tru bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:45.841943360Z",
+  "model": "glm-5.3"
+}

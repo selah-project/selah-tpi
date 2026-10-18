@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרכיו\/עלילותיו",
+      "rationale": "Rot bilong en (ways) long Mose, tasol ol wok (deeds) long ol pikinini — save bilong insait vs save bilong lukim."
+    }
+  ],
+  "translation": "Em i mekim ol i save ⟨את⟩ ol rot bilong en long Mose, ⟨את⟩ ol wok bilong en long ol pikinini bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/5-8.1792358892310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "em i mekim ol i save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol rot bilong en"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ol rot bilong en"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "long Mose"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ol wok bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:12.311261352Z",
+  "model": "glm-5.3"
+}

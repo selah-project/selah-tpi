@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pulap long",
+      "rationale": "natsal means 'snatch away, rescue' — rendered 'pulap long' (pull out) to keep the picture of snatching from danger."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew lo ('him', singular) widened to 'ol' to cover the plural poor of the verse."
+    }
+  ],
+  "translation": "Bihain em bai i pulap long ol man i no gat samting, ol i singaut; na ol man i no gat strong, i no gat man i helpim ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/9-12.1792358435556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "em bai i pulap long"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ol man i no gat samting"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "ol i singaut"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na ol man i no gat strong"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "man i helpim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ol⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:35.557248579Z",
+  "model": "glm-5.3"
+}

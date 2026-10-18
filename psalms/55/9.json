@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מפלט",
+      "rationale": "JPS\/ASV 'haste me to a shelter' (noun as place) vs KJV 'hasten my escape' (escape as act); mi holim pas bilong 'ranawe'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "ruak — wanpela tok bilong ruak\/win\/Spirit, olsem D2 i lainim."
+    }
+  ],
+  "translation": "Mi laik bilong spidim ⟨em⟩ — olsem wanpela bilong ol man i ranawe i salim ol yet — long pinis long ruak i strong tumas, long bikpela win sera.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/9-12.1792358312657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mi laik bilong spidim"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "olsem wanpela bilong ol man i ranawe i salim ol yet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "long pinis long ruak i strong tumas"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "i strong tumas"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "long bikpela win sera"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:32.658037918Z",
+  "model": "glm-5.3"
+}

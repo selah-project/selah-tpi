@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "pronoun bilong Tok Pisin long 'putim em' — Hibru i gat suffix wantaim verb yet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארון",
+      "rationale": "'bokis' — wankain tok ol i usim long Arks bilong Noa na Arks bilong Kontrak."
+    }
+  ],
+  "translation": "Na king i tok, olsem na ol i wokim wanpela bokis, na ol i putim ⟨em⟩ long dua bilong haus bilong Yahwe, long autsait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/24\/5-8.1792362621075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na king i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na ol i wokim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "na ol i putim em"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "long dua bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "long autsait"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:21.076817606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 29:29",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol tok bilong",
+      "rationale": "Hebrew plural adjectives ראשנים\/אחרנים lack a noun; supplied 'ol tok' to make 'first and last' plain"
+    },
+    {
+      "kind": "measurement",
+      "subject": "source list",
+      "rationale": "verse cites three named written sources — Samuel, Nathan, Gad — a bibliographic index of David's acts"
+    }
+  ],
+  "translation": "Na ol tok bilong David, king, ol tok bilong bipo na ol tok bilong bihain — luk, ol i stap, ol i raitim olgeta long ol tok bilong Shemuel, man i save lukim ol samting, na long ol tok bilong Natan, profet, na long ol tok bilong Gad, man i save lukim ol samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/29\/29-30.1792362219238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Na ol tok bilong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ol tok bilong bipo"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "na ol tok bilong bihain"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "luk, ol i stap"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ol i raitim olgeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "man i save lukim ol samting"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "man i save lukim ol samting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:39.238969124Z",
+  "model": "glm-5.3"
+}

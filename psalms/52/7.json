@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "rendered Elohim per discipline; not 'God' or 'Bikpela'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחתך",
+      "rationale": "verb חתה 'to pick up (fire)'; versions split: 'take thee away' vs 'snatch up'; rendered 'holim' keeping the seizing sense"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתצך יחתך ויסחך",
+      "rationale": "three 2nd-person suffix verbs pile up in succession, violent staccato judgment; partially lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew suffix -ך carries 'thee'; Tok Pisin needs free pronoun ⟨yu⟩"
+    }
+  ],
+  "translation": "Gutpela tok: Elohim bai i bagarapim ⟨yu⟩ oltaim olgeta, em bai i holim ⟨yu⟩ na pulim ⟨yu⟩ ausait long haus sel bilong ⟨yu⟩, na rausim rot bilong ⟨yu⟩ long graun bilong ol man i stap alaive. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/52\/5-8.1792358340273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gutpela tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "bai i bagarapim"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "em bai i holim"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "na pulim ausait"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "long haus sel"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "na rausim rot bilong yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bilong ol man i stap alaive"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:00.274135134Z",
+  "model": "glm-5.3"
+}

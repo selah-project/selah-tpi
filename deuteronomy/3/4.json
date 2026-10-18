@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבל → hap bilong kantri",
+      "rationale": "חבל i min rop bilong skelim graun — bilebay em i min hap graun; Tok Pisin i no gat wankain tok"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sutisiti siti",
+      "rationale": "Namba bilong siti — 60 — em i mak bilong kaunim"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "קריה i no gat namba 'wan' long Hebri, tasol Tok Pisin i nidim 'wanpela siti' long doble negatif"
+    }
+  ],
+  "translation": "Na mipela i kisim ⟨את⟩ olgeta siti bilong em long taim olsem; i no gat wanpela siti we mipela i no kisim ⟨את⟩ long ol — sutisiti siti, olgeta hap bilong kantri Argob, bilong kingdom bilong Og long Bashan.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/3\/1-4.1792349764310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "mipela i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta siti bilong em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "siti bilong em"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "wanpela siti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "mipela i kisim"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ long ol"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sutisiti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "hap bilong kantri"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "long Bashan"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:04.311931938Z",
+  "model": "glm-5.3"
+}

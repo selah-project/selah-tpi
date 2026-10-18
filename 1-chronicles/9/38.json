@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 9:38",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נגד אחיהם",
+      "rationale": "Hebrew 'in front of their brothers' rendered as 'stap kwikim ol brata bilong ol' (alongside their brothers)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחיהם ... אחיהם",
+      "rationale": "'brothers' repeated twice in one verse, kept in both places"
+    }
+  ],
+  "translation": "Na Miklot i bonim ⟨את⟩ Shimam; na olgeta ol i stap kwikim ol brata bilong ol, ol i stop long Yerusalayim wantaim ol brata bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8492f4dab857bb31b25b44fa570d8df7e1f528c388f1887e3833aaff3662c3c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/9\/37-40.1792361947367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "Na Miklot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "i bonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimam"
+    },
+    {
+      "surface": "שמאם",
+      "gloss": "Shimam"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "i stap kwikim"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ol brata bilong ol"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ol i stop"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ol brata bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:07.368464056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "Literal 'bikman bilong ol man bilong katim' (chief of the butchers\/executioners); versions soften to 'captain of the guard'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun added to make clear who accompanies whom."
+    }
+  ],
+  "translation": "Na ⟨את⟩ ol banis graun bilong Yerusalayim ol i bagarapim olgeta, i go raun long em — olgeta ami bilong ol Kasdim ol i stap wantaim ⟨em⟩, bikman bilong ol man bilong katim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/9-12.1792353807759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol banis graun bilong Yerusalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ol banis graun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "bilong Yerusalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i go raun long em"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ol i bagarapim olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ami"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "bilong ol Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap wantaim"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "bilong ol man bilong katim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:27.760542394Z",
+  "model": "glm-5.3"
+}

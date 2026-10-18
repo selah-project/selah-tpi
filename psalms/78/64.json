@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "חרב em i 'bainat' — tok bilong pait, i no naim tasol"
+    }
+  ],
+  "translation": "Ol pris bilong en ol i pundaun long bainat, na ol wido bilong en ol i no karai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8c9d13d5a29679e854faae2fec053017836fc2054dd1776de2f30f2f5cf3100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/63-64.1792363396382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ol pris bilong en"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ol i pundaun"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "na ol wido bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ol i karai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:16.383426749Z",
+  "model": "glm-5.3"
+}

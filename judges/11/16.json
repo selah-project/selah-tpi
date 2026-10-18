@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rationale": "Literally 'Sea of Reeds' (papyrus); 'Red Sea' is traditional — rendered literally as 'solwara bilong ol raun diwai'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "route Egypt–wilderness–Sea of Reeds–Kadesh",
+      "rationale": "Itinerary of stages, a route-map defense."
+    }
+  ],
+  "translation": "Long wanem, taim ol i kamap antap long Mitsrayim, Yisrael i wokabaut i go long wol long graun i go inap long solwara bilong ol raun diwai, na ol i kam insait long Kades.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "207e6d69b6cf370032646f726189dfb62e3175e9bb796a7b5b27b2733596d7be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/11\/13-16.1792351268113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "taim ol i kamap antap"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na i wokabaut i go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long wol long graun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inantap long"
+    },
+    {
+      "surface": "ים",
+      "gloss": "solwara bilong"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ol raun diwai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na ol i kam insait long"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kades"
+    }
+  ],
+  "timestamp": "2026-10-18T19:21:08.115548674Z",
+  "model": "glm-5.3"
+}

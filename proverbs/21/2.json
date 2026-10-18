@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun bilong kilirim long ai bilong husat — Hibru i gat suffix pinis long בעיניו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבות em i bel — tingting na laik, i no hat long bodi"
+    }
+  ],
+  "translation": "Olgeta rot bilong man i stap stret long ai bilong ⟨em⟩ yet; tasol Yahwe i skelim ol bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/1-4.1792359658738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "i stap stret"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em yet"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "tasol … i skelim"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ol bel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:58.739697904Z",
+  "model": "glm-5.3"
+}

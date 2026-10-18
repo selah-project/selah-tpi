@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sizen bilong haus",
+      "rationale": "Tripela sikelim: 60 × 20 × 30 ama — ama em i mak bilong skelim, long han bilong man."
+    },
+    {
+      "kind": "addition",
+      "subject": "lapun bilong en",
+      "rationale": "Hibru i tok tupela ten tasol; ama i no repit, Tok Pisin i putim ⟨ama⟩ klostu."
+    }
+  ],
+  "translation": "Na haus we king Shelomo i wokim bilong Yahwe — sikis ten ama long longpela bilong en, na tupela ten ama lapun bilong en, na tripela ten ama het bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/1-4.1792352779454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Na haus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sikis ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "longpela bilong en"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na tupela ten"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lapun bilong en"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na tripela ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "het bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:19.455474219Z",
+  "model": "glm-5.3"
+}

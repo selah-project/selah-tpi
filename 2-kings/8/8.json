@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Hazael",
+      "rationale": "The king's command is direct second-person address to Hazael — take, go, inquire."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה kept as minkha, not 'gift\/presen' — tribute-donation with offering overtones, one word in Hebrew."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאותו",
+      "rationale": "'From him' or 'through him' — is YHWH inquired by means of Elisha, or an answer sought from Elisha himself; most read instrumental 'through him'."
+    }
+  ],
+  "translation": "Na king i tok long Hazael: Kisim minkha long han bilong yu, na go long pasim man bilong Elohim, na yu askim ⟨את⟩ Yahwe ⟨את⟩ long em, i tok: Bai mi kirap agen long dispela sik?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/8\/5-8.1792353486980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na go"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "long pasim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "na yu askim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ long em"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Bai mi kirap agen"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "long sik"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:06.981762585Z",
+  "model": "glm-5.3"
+}

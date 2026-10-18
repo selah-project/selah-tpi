@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i klostu long 'breth\/laip-pawa', no 'soul' — 'laip bilong yu' long Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "mas",
+      "rationale": "Tok Pisin i putim 'mas' bilong mekim imperativ; Hibru i no gat wanpela tok olsem."
+    }
+  ],
+  "translation": "Long dispela de, Yahwe, Elohim bilong yu, i givim ordet long yu long mekim ⟨את⟩ ol huk dispela na ⟨את⟩ ol kot; na yu mas lukautim na mekim olgeta wantaim olgeta bel bilong yu na wantaim olgeta laip bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "00106c9a54a47ed101b3eb4ed699cf5bae087ef8a1ad89e17185b2140eed0257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/26\/13-16.1792350258082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Long dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "i givim ordet long yu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "long mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol huk dispela"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ol huk"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol kot"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ol kot"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "yu mas lukautim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na yu mekim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ olgeta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na wantaim olgeta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "laip bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:18.083617565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהעמונים",
+      "rationale": "KJV\/ASV 'some of the Ammonites' (wankain lain), BSB 'Meunites' (narapela lain); Hebṛu i tok 'ol man bilong Amon'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨inap⟩",
+      "gloss_prefix": "tpi",
+      "rationale": "Preposition ל long למלחמה i laikim help tok long Tok Pisin."
+    }
+  ],
+  "translation": "Na bihain long ol dispela samting, ol pikinini bilong Moab na ol pikinini bilong Amon, wantaim ol klostu olgeta man bilong Amon, i kamap long pes bilong Yehosafat inap long pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/20\/1-4.1792362567789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ol i kam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "man bilong Amon"
+    },
+    {
+      "surface": "על",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "inap long pait"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:27.789684283Z",
+  "model": "glm-5.3"
+}

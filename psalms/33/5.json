@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה rendered as tsedek, not 'stretpela pasin', per discipline"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד rendered as khesed, not 'marimari', per discipline"
+    }
+  ],
+  "translation": "Em i laikim tsedek na kot; graun i fulap long khesed bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/5-8.1792358111090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "laikim"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na kot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fulap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:11.090824735Z",
+  "model": "glm-5.3"
+}

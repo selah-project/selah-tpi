@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i go",
+      "rationale": "Hebrew verb is a single imperative רומה; second clause is verbless, copula supplied."
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer",
+      "rationale": "Imperative addressed to Elohim, the psalm's refrain (also v.12)."
+    }
+  ],
+  "translation": "Kirap antap long ol heven, Elohim; glori bilong yu i go antap long olgeta graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/5-8.1792358358231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "kirap antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "glori bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:18.233012997Z",
+  "model": "glm-5.3"
+}

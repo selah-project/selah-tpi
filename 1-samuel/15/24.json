@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pi Yahwe",
+      "rationale": "'tok bilong Yahwe' — Ebra i tok 'paus bilong Yahwe'; Tok Pisin 'tok i kam long paus' i no save wokim."
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Saul i bekim tok long Semuel; em i tokim olsem wanpela man i winim tok."
+    }
+  ],
+  "translation": "Na Saul i tok long Semuel: Mi winim tok — mi go bras long ⟨את⟩ tok bilong Yahwe na ⟨את⟩ ol tok bilong yu, bikos mi frait long ⟨את⟩ ol manmeri, na mi harim long tok bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/21-24.1792351732205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na Saul i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mi winim tok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "mi go bras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol tok bilong yu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ol tok bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mi frait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "na mi harim"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "long tok bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:52.207344121Z",
+  "model": "glm-5.3"
+}

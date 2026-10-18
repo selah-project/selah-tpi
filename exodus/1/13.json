@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בפרך",
+      "rationale": "hapax em i tok 'bruk'; 'pasin nogut tru' vs 'hat tumas' — ol man i no save long mining bilong en"
+    }
+  ],
+  "translation": "Na Mitsrayim i wokim ⟨את⟩ ol pikinini bilong Yisrael long pasin nogut tru.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/13-16.1792347340391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "long pasin nogut tru"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:40.392268117Z",
+  "model": "glm-5.3"
+}

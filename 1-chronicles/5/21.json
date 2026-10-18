@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 5:21",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "counts",
+      "rationale": "Verse lists spoil counts: 50,000 camels, 250,000 sheep, 2,000 donkeys, 100,000 persons."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man",
+      "rationale": "נפש אדם literally 'nefesh of man' (breathing person\/life); rendered 'ol man' in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol i kisim ⟨את⟩ ol animal bilong ol: ol kamel bilong ol, faifti tausen; na ol sipsip na meme, tupela handet na faiftipela tausen; na ol donki, tu tausen; na ol man, wan handet tausen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "153127b8ff45f95e73c80d5df9adbb58966b202cd6be7941775f337f112c5dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/5\/21-24.1792361864025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ol i kisim kalabus"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ol animal bilong ol"
+    },
+    {
+      "surface": "גמליהם",
+      "gloss": "ol kamel bilong ol"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na ol sipsip na meme"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tupela handet"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na faiftipela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "וחמורים",
+      "gloss": "na ol donki"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tu tausen"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na ol man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨ol⟩ man"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:44.026446737Z",
+  "model": "glm-5.3"
+}

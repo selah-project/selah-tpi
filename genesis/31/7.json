@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשרת מנים",
+      "rationale": "'Ten times' is a idiom for 'again and again', not a literal census."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tenpela taim",
+      "rationale": "Verse counts the number of times Laban changed the wages."
+    },
+    {
+      "kind": "crux",
+      "subject": "נתנו אלהים",
+      "rationale": "'Elohim did not give him to harm me' — verb read as 'allowed\/permitted' (most versions) vs literal 'gave'."
+    }
+  ],
+  "translation": "Na papa bilong yupela i giamanim mi, na senisim ⟨את⟩ pe bilong mi tenpela taem; tasol Elohim i no larim em i mekim nogut long mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/5-8.1792346971959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "na papa bilong yupela"
+    },
+    {
+      "surface": "התל",
+      "gloss": "giamanim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "senisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pe bilong mi"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "pe bilong mi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tenpela"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "taim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "larim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mekim nogut"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:31.960886612Z",
+  "model": "glm-5.3"
+}

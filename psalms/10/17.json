@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel — tingting na laik, i no hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכין לבם",
+      "rationale": "Ol tanim tok i no wankain: 'yu stiffim bel bilong ol' (BSB) o 'yu redim bel bilong ol' (JPS 'direct')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bilong harim⟩",
+      "rationale": "תקשיב אזנך em i idiom — 'tanim aring bilong yu' — Tok Pisin i laik tok bilong harim"
+    }
+  ],
+  "translation": "Laik bilong ol man namanim yu harim, Yahwe; yu stiffim bel bilong ol; yu tanim aring bilong yu ⟨bilong harim⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/10\/17-18.1792357902728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "laik"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "bilong ol man namanim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "yu stiffim"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bel bilong ol"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "yu tanim"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "aring bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:42.728755483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i needim predicate marker na kopia; Hibru i gat הוא tasol long end"
+    }
+  ],
+  "translation": "Laip bilong yumi i wet long Yahwe; em yet em i help bilong yumi na sila bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/17-20.1792358125388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Laip bilong yumi"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "i wet long"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "help bilong yumi"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "na sila bilong yumi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet em i"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:25.389932199Z",
+  "model": "glm-5.3"
+}

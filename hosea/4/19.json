@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכנפיה",
+      "rationale": "כנפים 'wings\/skirts' — KJV 'wings' vs JPS 'skirts' (garment hem, same word covers both)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sagrifis",
+      "rationale": "מזבחות strictly 'altar-sacrifices' (from זבח slaughter), rendered with general Tok Pisin term"
+    }
+  ],
+  "translation": "Ruak i pasim ⟨את⟩ em long ol wing bilong en, na ol bai sem long ol sakrifis bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/4\/17-19.1792356959153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "i pasim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "em long ol wing bilong en"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "long ol wing bilong en"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "na ol bai sem"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ol sakrifis bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:55:59.154143209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "inap",
+      "rationale": "Hebrew has no modal verb; 'cannot' supplied as Tok Pisin requires it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "שאול kept as Seol, not 'hel' or 'graun bilong ol i dai' — Seol i no ples bilong pe bihain"
+    }
+  ],
+  "translation": "Long wanem Seol i no inap tok tenkyu long yu, dai i no inap singsing pris long yu; ol i go daun long hol i no inap wet long stretpela pasin bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/38\/17-20.1792354369552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "tok tenkyu long yu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "singsing pris long yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "wet"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ol i go daun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "long hol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "stretpela pasin bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:49.552914067Z",
+  "model": "glm-5.3"
+}

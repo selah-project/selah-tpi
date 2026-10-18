@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הוללו",
+      "rationale": "הלל i min orait 'ol i kolim nem bilong meri long singsing bilong marit'; ol tanim tok i raitim 'no gat singsing bilong marit' o 'no givim moa'"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "מרזר את i no stap long ves bilong Hibru hia, tasol ⟨את⟩ i stap long tanim tok bilong min bilong en"
+    }
+  ],
+  "translation": "Paia i kaimapim ⟨את⟩ ol yangpela man bilong en, na ol meri i no marit yet bilong en ol i no singautim olsem; ol i no gat singsing bilong marit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8c9d13d5a29679e854faae2fec053017836fc2054dd1776de2f30f2f5cf3100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/63-64.1792363396382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "ol yangpela man bilong en"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "i kaimapim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "na ol meri i no marit yet bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "ol i singautim olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:16.383223005Z",
+  "model": "glm-5.3"
+}

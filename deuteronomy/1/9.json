@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת אתכם",
+      "rationale": "Hebrew 'lift\/carry you' — idiom for bearing responsibility for a people; karim keeps the carrying picture."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Mose i tokim ol Israelet direk long dispela tok."
+    }
+  ],
+  "translation": "Na mi tokim yupela long taim bilong olsem, olsem: mi no inap, mi wanpela tasol, long karim ⟨את⟩ yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/9-12.1792349695250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na mi tokim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi inap"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mi wanpela tasol"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "long karim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:54:55.251687843Z",
+  "model": "glm-5.3"
+}

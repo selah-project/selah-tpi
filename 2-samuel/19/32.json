@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim",
+      "rationale": "First את here is H854 'with', not the object marker; rendered as accompaniment with king."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jarden tupela taim",
+      "rationale": "Jarden appears twice — crossing and sending-across — framing the verse; repetition kept."
+    }
+  ],
+  "translation": "Na Barzilai, man bilong Gilad, i kamdaun long Rogelim, na i go antap ⟨את⟩ king i go long Jarden, bilong salim ⟨את⟩ em i go long Jarden.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/29-32.1792352549925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Na Barzilai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "man bilong Gilad"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i kamdaun"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "long Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "long Jarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "bilong salim em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "long Jarden"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:29.927288550Z",
+  "model": "glm-5.3"
+}

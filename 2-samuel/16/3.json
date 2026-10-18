@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok 'em' bilong tok i klia; Tok Hibru i no gat em."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אמר",
+      "rationale": "Tsam i tok 'long wanem em i tok' — em i tok bilong Mefiboset, o i tok bilong Tsiba yet? Ol man i agri em i tok bilong Mefiboset."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישיבו \/ השיב",
+      "rationale": "Tok 'ashiv' (givim bek) i kamap gen gen — Mefiboset i wantaim samting i kam bek; Tok Pisin i no save lukim dispela."
+    }
+  ],
+  "translation": "Na king i tok: Na we, pikinini bilong masta bilong yu? Na Tsiba i tok long king: Lukim, ⟨em⟩ i stap long Yerusalayim, long wanem em i tok: Tede, haus bilong Yisrael bai ol givim bek ⟨את⟩ olgeta samting bilong king — olgeta samting bilong papa bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/16\/1-4.1792352437666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na king i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bilong masta bilong yu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨em⟩ i stap"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tede"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bai ol givim bek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamlekat — olgeta samting bilong king"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "olgeta samting bilong king"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bilong papa bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:37.667926274Z",
+  "model": "glm-5.3"
+}

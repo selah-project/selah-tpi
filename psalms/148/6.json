@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וְלֹא יַעֲבֹר",
+      "rationale": "'It shall not pass over' — idiom for 'shall not be transgressed\/changed'; rendered 'em i no ken ron pas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb יעבור carries no explicit subject; pronoun supplied for Tok Pisin."
+    }
+  ],
+  "translation": "Na em i sanapim ol long olgeta taim, i go tru long taim i no pinis; em i givim wanpela lo, na em i no ken ron pas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/148\/5-8.1792359338942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "na em i sanapim ol"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "long olgeta taim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i go tru long taim i no pinis"
+    },
+    {
+      "surface": "חק",
+      "gloss": "wanpela lo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no ken"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ron pas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:38.945205673Z",
+  "model": "glm-5.3"
+}

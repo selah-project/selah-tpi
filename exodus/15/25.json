@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "נסהו object suffix is singular 'him' but context is the people; ol supplied in brackets"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם שם... ושם",
+      "rationale": "threefold repetition of sham 'there' — rhetorical anchor lost in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel via testing",
+      "rationale": "Yahwe tests the people at Marah"
+    }
+  ],
+  "translation": "Na em i singaut long Yahwe, na Yahwe i soim ⟨את⟩ wanpela diu long em, na em i trowim ⟨i⟩ i go long wara, na wara i kamap swit. Long hap Yahwe i putim ⟨lo⟩ bilong ol — wantaim kot — na long hap em i traim ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "25f3f04862d03b4188d45ffd38513932e81438dcff2da64f38dbe2b5fd5a117e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/15\/25-27.1792347626320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "i singaut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "i soim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wanpela diu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "na em i trowim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "i kamap swit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨lo⟩"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "wantaim kot"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na long hap"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "em i traim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:20:26.321404367Z",
+  "model": "glm-5.3"
+}

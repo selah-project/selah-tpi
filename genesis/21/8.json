@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "weanim long susu",
+      "rationale": "Hebri 'vayigamal' em i wok bilong pinis long susu \/ weaning; 'ol i weanim' em i klia tok bilong pasin, no rol bilong man."
+    },
+    {
+      "kind": "addition",
+      "subject": "long susu",
+      "rationale": "Tok Pisin i nidim tok 'susu' bilong kliaim mak bilong 'gamal', Hebri i gat wanpela tok tasol."
+    }
+  ],
+  "translation": "Na pikinini i kamap bikpela, na em i pinis long susu; na Avraham i wokim wanpela bikpela kaikai long de bilong taim ol i weanim ⟨את⟩ Yitsak long susu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fcb4755e35b3a5f80e01c27ca0340d12c0ee9d92909efbdad38133cd7ba76b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/21\/5-8.1792346570724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Na pikinini i kamap bikpela"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "em i pinis long susu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "taim ol i weanim long susu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:50.725470979Z",
+  "model": "glm-5.3"
+}

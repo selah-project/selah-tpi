@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח → ruak (D2): wanpela tok — win, ruak, pulim win; 'spirit' tasol bai lusim piksa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "graun stret",
+      "rationale": "מישור em i 'graun i no gat hilik' — level graun; 'graun bilong tsedek' narapela skul i tingting."
+    }
+  ],
+  "translation": "Skulim mi long wokim ol samting yu laikim, bilong wanem yu Eloa bilong mi; ruak bilong yu i gutpela — salim mi i go long graun stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/143\/9-12.1792359253247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "skulim mi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ol samting yu laikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa bilong mi"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruak bilong yu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "salim mi i go"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:13.247964211Z",
+  "model": "glm-5.3"
+}

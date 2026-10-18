@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Man i tok — Mose — em i stap long klostu ves; Tok Pisin i nidim olgeta."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Yahwe",
+      "rationale": "Mose i askim strong long Yahwe — harim, soim mi."
+    },
+    {
+      "kind": "secret",
+      "subject": "glori bilong Yahwe",
+      "rationale": "Mose i laik lukim wanem i tap — Yahwe i no soim yet."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Plis, soim mi ⟨את⟩ glori bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/17-20.1792348078766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "soim mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glori bilong yu"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "glori bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:58.767480766Z",
+  "model": "glm-5.3"
+}

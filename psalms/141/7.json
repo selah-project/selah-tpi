@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלח ובקע",
+      "rationale": "'one plows and cleaves' vs 'one splits wood' (KJV follows 'עצים\/wood'); the verb pair is read both ways."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפי שאול",
+      "rationale": "'mouth of Sheol' sounds like 'command of Saul' — YLT takes it as 'at the command of Saul'; the pun is lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "שאול rendered Seol, never 'hel' or 'paia'."
+    }
+  ],
+  "translation": "Olsem man i wasim na i brukim long graun, olsem na ol bun bilong yumi i skaterap long maus bilong Seol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/141\/5-8.1792359285258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "man i wasim"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "na i brukim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "i skaterap"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ol bun bilong yumi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "long maus bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:45.259156378Z",
+  "model": "glm-5.3"
+}

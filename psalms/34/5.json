@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "samting i scareim mi",
+      "rationale": "מגורות (fears\/terrors) — 'ol scare' i stap long Tok Pisin tasol 'samting i scareim mi' i holim mining"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרשתי...וענני",
+      "rationale": "painim...bekim tok — pasin bilong profet: darash (painim) na anah (bekim), tupela i makim kontrak"
+    }
+  ],
+  "translation": "Mi painim ⟨את⟩ Yahwe, na em i bekim tok long mi, na em i pulim mi lus long olgeta samting i scareim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/5-8.1792358104221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "mi painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na em i bekim tok long mi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na long olgeta"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "samting i scareim mi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "em i pulim mi lus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:04.222846813Z",
+  "model": "glm-5.3"
+}

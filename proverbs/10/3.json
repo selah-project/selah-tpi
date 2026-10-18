@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש i klostu long 'bel\/laik\/breth' — i no 'soul' wantaim Inglis mining (tebol D4)"
+    },
+    {
+      "kind": "crux",
+      "subject": "והות",
+      "rationale": "הוה i gat tupela mining: 'laik' o 'bagarap' — YLT\/ASV\/JPS 'desire', KJV 'substance'"
+    }
+  ],
+  "translation": "Yahwe i no larim bel bilong man stretpela i hangre; tasol ol laik bilong ol man nogut i go long(rausim).",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/10\/1-4.1792359470751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "larim … i hangre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bilong man stretpela"
+    },
+    {
+      "surface": "והות",
+      "gloss": "tasol ol laik bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "i go long(rausim)"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:50.752781449Z",
+  "model": "glm-5.3"
+}

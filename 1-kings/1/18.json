@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": " Hibru onli מלך (king); TPI i putim 'kamap ... pinis' long kes ia"
+    },
+    {
+      "kind": "you",
+      "subject": "tok long David king",
+      "rationale": "Batsheba i toktok stret long king David"
+    }
+  ],
+  "translation": "Na nau, lukim, Adoniya i kamap king pinis, na nau, bikman bilong mi king, yu no save long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/17-20.1792352654583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i kamap king pinis"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:14.584667463Z",
+  "model": "glm-5.3"
+}

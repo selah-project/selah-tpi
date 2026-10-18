@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Hebrew polite particle 'I pray' has no Tok Pisin equivalent; softened into 'yu yet' emphasis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mesinja",
+      "rationale": "מלאך is 'messenger'; Tok Pisin Bible 'enjel' imports later doctrine, so 'mesinja' keeps the literal shape."
+    },
+    {
+      "kind": "you",
+      "subject": "meri bilong Manoa",
+      "rationale": "The angel of Yahwe directly addresses the barren woman with promises and commands."
+    }
+  ],
+  "translation": "Na mesinja bilong Yahwe i kamap long meri, na i tokim em: Lukim, yu yet i no inap karim pikinini na yu no karim; tasol bai yu karim bel, na bai yu karim wanpela pikinini man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/13\/1-4.1792351273114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesinja bilong Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "em"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "i no inap karim pikinini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yu no"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "karim pikinini"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "bai yu karim bel"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "bai yu karim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wanpela pikinini man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:21:13.115736324Z",
+  "model": "glm-5.3"
+}

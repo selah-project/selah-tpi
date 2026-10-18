@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 4:11",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "Hebrew 4:11 (one hand working, one holding weapon) is English 4:17; KJV 4:11 is the adversaries' speech."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השלח",
+      "rationale": "Rare word for a missile\/javelin rendered 'spia bilong sutim', keeping the throwing-weapon picture."
+    }
+  ],
+  "translation": "Ol bilong wokim banis, na ol bilong karim hevi, olgeta i kapsait hevi: wantaim wanpela han bilong en i wokim wok, na wantaim wanpela han i holim spia bilong sutim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d13a46365d3cef062fc0eb16fbf866e5cbbd70ac1dfb37cd9db460725515fa9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/4\/9-12.1792361553822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבונים",
+      "gloss": "ol bilong wokim"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "banis"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "na ol bilong karim"
+    },
+    {
+      "surface": "בסבל",
+      "gloss": "hevi"
+    },
+    {
+      "surface": "עמשים",
+      "gloss": "ol i kapsait hevi"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "wantaim wanpela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na wantaim wanpela"
+    },
+    {
+      "surface": "מחזקת",
+      "gloss": "han i holim"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "spia bilong sutim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:33.823537278Z",
+  "model": "glm-5.3"
+}

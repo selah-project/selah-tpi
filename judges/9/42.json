@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong taun",
+      "rationale": "Hebrew says only 'the people'; Tok Pisin adds 'bilong taun' to identify whose people — supplied context."
+    }
+  ],
+  "translation": "Na long narapela de, ol manmeri bilong taun i go aut long gaden, na ol i stori long Avimelek.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "013d7fd54006395a363c44bd2f157341aea92eebc0d17cbb668ec2292a311a83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/9\/41-44.1792351157136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na long narapela de"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "long narapela de"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i go aut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri bilong taun"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "na ol i stori"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "long Avimelek"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:17.137067681Z",
+  "model": "glm-5.3"
+}

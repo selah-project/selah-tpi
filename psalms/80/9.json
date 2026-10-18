@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diwai wain",
+      "rationale": "גפן em i piksa bilong Yisrael; rit long pas bilong mumi, ol i no ken lusim piksa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "ה long ותטעה em i pronaun bilong tpipel — Tok Pisin i nidim ⟨em⟩"
+    }
+  ],
+  "translation": "Yu bin pulim wanpela diwai wain i kam long Mitsrayim, yu rausim ol kantri, na yu plandim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/9-12.1792358585630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "diwai wain"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "yu pulim i kam"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "yu rausim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol kantri"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "na yu plandim ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:05.631206147Z",
+  "model": "glm-5.3"
+}

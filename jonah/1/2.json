@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וקרא עליה",
+      "rationale": "autim tok long en — Hebrew על 'against\/in opposition to', not merely 'unto' as some render."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלתה רעתם",
+      "rationale": "evil 'goes up' before Yahwe — same verb as Jonah going down to flee; ascent\/descent contrast, lost in Tok Pisin."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Jonah",
+      "rationale": "Imperative summons: kirap, go — divine command addressing Jonah directly."
+    }
+  ],
+  "translation": "Kirap, go long Ninve, ⟨i⟩ bikpela siti, na autim tok olgeta long en, bilong ol i no stret, bilong olgeta ol i bin bagarapim ol samting i no stret i go antap long bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2efe5fbb2f9c830283f5fb1d2e66aefeae32caed9178f51970b5ca9a0eb5fff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/1\/2-3.1792363321678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "na autim tok"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ol i bagarapim ol samting i no stret"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:01.679035167Z",
+  "model": "glm-5.3"
+}

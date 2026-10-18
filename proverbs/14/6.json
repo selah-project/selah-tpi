@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לץ",
+      "rationale": "Hebrew 'one who makes mouths at' (scoffer); rendered as Tok Pisin mocker phrase, literal mouth-mocking picture lost"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואין",
+      "rationale": "Hebrew says 'and it is not' — a pure nonexistence word; rendered as 'does not find it' plus bracketed ⟨i no gat⟩"
+    }
+  ],
+  "translation": "Man i baikim tupla het i lukautim hatkamap tok bilong ol gutpela man, tasol em i no painim; na save long man i save skelim, em i kamap isi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/14\/5-8.1792359538212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "i lukautim"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "man i baikim tupla het"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hatkamap tok bilong ol gutpela man"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol em i no painim ⟨i no gat⟩"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na save"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "long man i save skelim"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "em i kamap isi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:58.213479395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨wanpela⟩",
+      "rationale": "Tok Pisin i nidim relativ pronoun; Hibru i no gat em long construct bilong עושה שמים."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Hibru i no gat את long ves; ⟨את⟩ mak i kam long wokim, i no token long Hibru hia — tok i pairap long ves 15."
+    }
+  ],
+  "translation": "Yupela i gat blesing bilong Yahwe, ⟨wanpela⟩ i wokim ⟨את⟩ ol heven na ⟨את⟩ graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/13-16.1792359071036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "i gat blesing"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:11.037386130Z",
+  "model": "glm-5.3"
+}

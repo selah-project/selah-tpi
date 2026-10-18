@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol man⟩",
+      "rationale": "Hibru i no tok olsem em i rausim husat; Tok Pisin i nidim wanpela objek"
+    },
+    {
+      "kind": "crux",
+      "subject": "lusim",
+      "rationale": "יזנח: 'rausim\/ lusim\/ ritim i go ausait' — ol tanim tok i no wankain"
+    }
+  ],
+  "translation": "Bai Adonai lusim ⟨ol man⟩ i go oltaim? Na em i no ken amamas long ⟨ol⟩ olgeta moa?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/5-8.1792358516874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "bai ... lusim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... no ken"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "olgeta moa"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "amamas long"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:56.875508795Z",
+  "model": "glm-5.3"
+}

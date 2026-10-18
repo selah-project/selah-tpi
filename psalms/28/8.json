@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "Poetic particle read as 'to them' (KJV\/ASV, referring back to the people) or as emphatic 'to him' (YLT); taken here as 'bilong ol'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Masiak",
+      "rationale": "משיחו rendered per glossary as 'man ol i kapsaitim oil long em' — anointed king, no later 'Krais' sense imported."
+    }
+  ],
+  "translation": "Yahwe em i strong bilong ol, na em i strongpela banis bilong ol help we i seivim, bilong man ol i kapsaitim oil long em bilong en — em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/28\/5-8.1792358076206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "na strongpela banis"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ol help we i seivim"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "man ol i kapsaitim oil long em bilong en"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:36.207785637Z",
+  "model": "glm-5.3"
+}

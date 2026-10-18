@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פשעינו",
+      "rationale": "פשע i tok bilong 'belo\/revolt' — ol rong bilong yumi i holim piksa bilong go belo long God"
+    }
+  ],
+  "translation": "Olsem longwe long ist long wes, olsem na em i putim ⟨את⟩ ol rong bilong yumi i go longwe longwe long yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/9-12.1792358882338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "olsem longwe"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ist"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "long wes"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "putim i go longwe longwe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol rong bilong yumi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ol rong bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:02.339221116Z",
+  "model": "glm-5.3"
+}

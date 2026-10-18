@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הַהַרְאֵל",
+      "rationale": "Har'el ('mount of God' as altar name) occurs only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "אֲרִיאֵל",
+      "rationale": "'Ariel' here likely 'altar hearth' (lion of God \/ hearth-of-God), not the name Ariel."
+    },
+    {
+      "kind": "measurement",
+      "subject": "hearth and horns",
+      "rationale": "Four cubits; four horns — dimensions given."
+    }
+  ],
+  "translation": "Na Harel em i fopela ama; na long Ariel i antap yet, ol korn bilong en i fopela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "99079149b9664cb21d26999b6c55fa98dc7725cca1ac2bb6f224514b389e80c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/43\/13-16.1792356836835.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "Na Harel"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "em i fopela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "na long Ariel"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "i antap yet"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ol korn bilong en"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "i fopela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:56.838965381Z",
+  "model": "glm-5.3"
+}

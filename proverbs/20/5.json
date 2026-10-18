@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok bilong tingting",
+      "rationale": "עצה em i tok bilong skelim\/advis; tok bilong tingting i holim piksa bilong en"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronoun; Tok Pisin i nidim em long pulim i kamap"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים \/ ידלנה",
+      "rationale": "כdalה em i pulim wara long wel — piksa bilong wel namel long wara i daun tru i stap"
+    }
+  ],
+  "translation": "Wara i go daun tru — tok bilong tingting insait long bel bilong man; tasol man i gat save i pulim ⟨em⟩ i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/20\/5-8.1792359635085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "i go daun tru"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tok bilong tingting"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "insait long bel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tasol man"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "i gat save"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "i pulim ⟨em⟩ i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:35.085740566Z",
+  "model": "glm-5.3"
+}

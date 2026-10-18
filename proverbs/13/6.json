@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "Same word means 'sinner', 'sin', or 'sin-offering' (YLT takes 'sin offering'); most take 'sinner' here."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תם דרך",
+      "rationale": "Read as 'the blameless one in his way' (KJV) or 'the way of the blameless' — construct or adjective-noun."
+    }
+  ],
+  "translation": "Tsedek i lukautim man i stap stret long rot; tasol pasin rongus i bagarapim man bilong sin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/13\/5-8.1792359494686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "i lukautim"
+    },
+    {
+      "surface": "תם",
+      "gloss": "stret olgeta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "pasin rongus"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "man bilong sin"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:14.687486756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting bilong kaikai bilong ol",
+      "rationale": "שלחנן literally 'tedbel' — ples bilong kaikai; Tok Pisin i gat no wanpela tok bilong tedbel"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולשלומים",
+      "rationale": "'long ol man i stap gutpela' (JPS) o 'peman bilong ol' (ylt: shillum 'pe') — tupela mining i stap"
+    }
+  ],
+  "translation": "OL samting bilong kaikai bilong ol long holim han bilong ol i kamap net bilong ketchim ol, na long ol man i stap gutpela, em i kamap trep bilong ketchim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "042893099a01a6b6a9c9910293ba544ac57c0c197c7f3d958a3237b7a22c801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/21-24.1792358430079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ol samting bilong kaikai bilong ol"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "long holim han bilong ol"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "net bilong ketchim ol"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "na long ol man i stap gutpela"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "trep bilong ketchim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:30.080781920Z",
+  "model": "glm-5.3"
+}

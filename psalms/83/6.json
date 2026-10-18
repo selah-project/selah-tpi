@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kotim kontrak",
+      "rationale": "Hebrew karat berit literally 'to cut a covenant' (passing between cut pieces); Tok Pisin keeps the cutting verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "lev is rendered 'bel' (seat of thinking and wanting in Tok Pisin), not the body organ 'hat'."
+    }
+  ],
+  "translation": "Long wanem, ol i stackim plan wantaim bel olgeta; long yu ol i kotim kontrak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/5-8.1792358614160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ol i stackim plan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ol i kotim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:34.161939693Z",
+  "model": "glm-5.3"
+}

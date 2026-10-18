@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא היתה מהמלך",
+      "rationale": "'i no kamap long king' — Hebrey tok: 'i no stap long king', olsem em i no wok bilong king."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביום ההוא",
+      "rationale": "Hebrey i tok 'long de dispela', Tok Pisin i putim 'dispela' bihain long 'de'."
+    }
+  ],
+  "translation": "Na olgeta manmeri na olgeta Yisrael i save long dispela de, se em i no kamap long king, long kilim ⟨את⟩ Avner, pikinini bilong Ner.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00d91dafc87941300e606976ca2ffeb947016096734c0aae0f36f55fe61f0d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/37-39.1792352115436.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "i save"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "long kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:15.437580346Z",
+  "model": "glm-5.3"
+}

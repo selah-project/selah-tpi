@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיות",
+      "rationale": "Rare word: 'carved figures\/settings' (from שכה) — versions split between 'pictures', 'network', 'settings' of silver."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפניו",
+      "rationale": "אֹפֶן 'a turn\/season' occurs only here in the Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Copula added for the Tok Pisin simile; Hebrew juxtaposes the two noun phrases without a verb."
+    }
+  ],
+  "translation": "Ol apul bilong gol long ol piksa bilong silva — em i tok i tokim long taim bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb5bcdcaf09df42422f3c2d4863d1ede92aaceb188df42322cc056a11ef1f69c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/10-11.1792363402244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "ol apul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bilong gol"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "long ol piksa bilong"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "taim bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:22.245227461Z",
+  "model": "glm-5.3"
+}

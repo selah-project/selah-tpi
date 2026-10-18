@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong mi",
+      "rationale": "פי (maut) i no gat possessiv; Tok Pisin i laikim wanpela man i save"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bodi",
+      "rationale": "בשר em i mit\/bodi; long Hibru em i tok bilong olgeta man olgeta"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לעולם ועד",
+      "rationale": "tupela tok bilong taim i bin wantaim — 'taim olgeta na oltaim' — pasin bilong emphasizes"
+    }
+  ],
+  "translation": "Tok bilong mi bai autim ol senis bilong Yahwe, na olgeta bodi bain sekim nem holi bilong en, i go long taim olgeta na oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b4ff06a0a24023cc0952b89e9adf8b964dfbb2d0b0c915dd7f52a47316d414c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/21-21.1792359286830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "ol senis bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bai autim"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na bai sekim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong en"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i go long taim olgeta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:46.831403197Z",
+  "model": "glm-5.3"
+}

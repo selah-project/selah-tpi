@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הודו",
+      "rationale": "יָדָה i bin tok long 'tromwe samting', na bihain i tok long 'givim tenkyu \/ singautim nem' — Tok Pisin 'givim tenkyu' i holim pasin, tasol piksa bilong tromwe i lus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol wok bilong en",
+      "rationale": "עֲלִילוֹתָיו i tok long 'ol samting God i wokim' (strongpela wok) — 'wok' i liklik tumas, tasol i klostu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol man i ritim pes",
+      "rationale": "Tupela tok bilong tokim man: הודו קראו — pes i opim olgeta ol man long sekim nem bilong Yahwe."
+    }
+  ],
+  "translation": "Givim tenkyu long Yahwe, kolim long nem bilong en, autim long ol lain olgeta ol wok bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/1-4.1792358967962.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "givim tenkyu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kolim"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "long nem bilong en"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "autim"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "long ol lain"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ol wok bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:27.963330339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i nidim predicate marker 'i' na 'em' bilong sentens; Hibru i nogat copula"
+    }
+  ],
+  "translation": "Na yu bai tokim Faro: Olsem Yahwe i tok: Pikinini man bilong mi, pikinini man bikpela bilong mi, em i Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ae3d94da7b0abb2679d008711b7ff2ebba24b654259f351a3c86471a595b2561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/21-24.1792347388381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "yu bai tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "pikinini man bikpela bilong mi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:28.382708317Z",
+  "model": "glm-5.3"
+}

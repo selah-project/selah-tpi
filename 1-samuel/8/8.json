@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "longhan?",
+      "rationale": "Stray editorial token removed from rendering; Hebrew reads continuously 'according to all the works…'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהים אחרים is 'other gods' — lowercase 'ol god' per the names discipline, since these are foreign gods, not Elohim."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מיום … ועד היום הזה",
+      "rationale": "Time span measured: from the day of the exodus from Mitsrayim until this day."
+    }
+  ],
+  "translation": "Olsem olgeta wok ol i wokim, longhan? — stat long dei mi bringim ⟨את⟩ ol i kamap long aut bilong Mitsrayim, inap long dispela dei, ol i lusim mi na ol i wokim long ol narapela god — olsem tu ol i wokim dispela long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/5-8.1792351545086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "wok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim pinis"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "stat long dei"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "mi bringim ol i kamap long aut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (man Israel) — ol mi bringim i kamap long aut"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long aut bilong Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dei"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "ol i lusim mi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na ol i wokim long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "i wokim dispela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:45.088276320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקב",
+      "gloss": "nup",
+      "rationale": "Root נקב literally 'to bore\/pierce', here 'pronounce the Name distinctly' — some render 'blasphemed', others 'pronounced'; TPI 'nup' (call out the name) keeps the speech-act."
+    },
+    {
+      "kind": "crux",
+      "subject": "השם",
+      "gloss": "Nem",
+      "rationale": "'The Name' — with the article, likely the Tetragrammaton itself; the crime depends on this reading."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Shelomit bat Dibri",
+      "rationale": "Genealogy naming: mother, her father, and the tribe of Dan."
+    }
+  ],
+  "translation": "Na pikinini bilong meri Yisrael ya i nup ⟨את⟩ Nem, na krosim; ol i bringim ⟨את⟩ em i go long Mose. Na nem bilong mama bilong em Shelomit, pikinini meri bilong Dibri, long lain bilong Dan.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/9-12.1792348756707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "i nup"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri ya bilong"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nem"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "na krosim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ol i bringim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong en"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Dibri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "long lain bilong"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:16.708735296Z",
+  "model": "glm-5.3"
+}

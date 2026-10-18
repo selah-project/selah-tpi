@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלאבות",
+      "rationale": "Rare word for parched\/drought-land; appears only here in Tanakh."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yahwe addresses Israel directly across v4–6."
+    }
+  ],
+  "translation": "Mi yet, mi save long yu long ples wailbus, long graun i no gat wata tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/13\/5-8.1792357073120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "mi save long yu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wailbus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "i no gat wata tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:53.120679419Z",
+  "model": "glm-5.3"
+}

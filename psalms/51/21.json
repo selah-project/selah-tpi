@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "זבחי צדק rendered 'ofa bilong tsedek', keeping the Hebrew term rather than 'stretpela pasin'"
+    },
+    {
+      "kind": "elision",
+      "subject": "פרים",
+      "rationale": "aleph-tav absent in Hebrew here; ⟨את⟩ marker supplied as object signpost for ol bulmakau man"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יעלו",
+      "rationale": "verb could read 'they will make ascend (offer)' — future after repentance, not imperative"
+    }
+  ],
+  "translation": "Long taim olsem, Yahwe bai i laikim ol ofa bilong tsedek, ofa ol i kukim olgeta na ofa ol i kukim olgeta tru; long taim olsem, ol bai salim ⟨את⟩ ol bulmakau man antap long alter bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/21-21.1792358303133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "long taim olsem"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "bai i laikim"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ol ofa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bilong tsedek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "na ofa ol i kukim olgeta tru"
+    },
+    {
+      "surface": "אז",
+      "gloss": "long taim olsem"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bai ol i salim antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "alter bilong yu"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ol bulmakau man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:23.133665100Z",
+  "model": "glm-5.3"
+}

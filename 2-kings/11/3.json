@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sikis yia",
+      "rationale": "Namba bilong yia Yoas i stap haeraus — sikis yia"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "gloss-note": "",
+      "rationale": "אתה hia em i preposition 'wantaim em', i no aleph-tav bilong dativ — tasol mak ⟨את⟩ i stap"
+    }
+  ],
+  "translation": "Na em i stap wantaim ⟨את⟩ ⟨em⟩ long haus bilong Yahwe, i haeraus, sikis yia; na Atalya i king long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/11\/1-4.1792353485906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na em i stap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wantaim ⟨את⟩ ⟨em⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "i haeraus"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "na Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "i king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:05.908009065Z",
+  "model": "glm-5.3"
+}

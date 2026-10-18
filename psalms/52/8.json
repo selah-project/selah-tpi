@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויראו \/ וייראו",
+      "rationale": "see (ירא from ראה) vs fear (ירא from ירא) — identical consonants יראו, sound-pair lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na ol man stretpela bai i lukim, na ol bai i scared, na ol bai i lap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/52\/5-8.1792358340273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Na ol bai i lukim"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man stretpela"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na ol bai i scared"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ol bai i lap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:00.274366606Z",
+  "model": "glm-5.3"
+}

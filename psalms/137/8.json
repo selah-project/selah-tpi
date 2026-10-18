@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Babel",
+      "rationale": "Direct apostrophe — the psalmist addresses Babylon personified as 'daughter of Babylon'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "pikinini meri bilong Babel",
+      "rationale": "Hebrew idiom 'daughter of X' for a city and its people, rendered literally."
+    },
+    {
+      "kind": "crux",
+      "subject": "השדודה",
+      "rationale": "'The destroyed\/despised one' — KJV 'who art to be destroyed' (future) vs YLT 'O destroyed one' (already devastated)."
+    }
+  ],
+  "translation": "Pikinini meri bilong Babel, ol i bagarapim yu — gutpela tumas long man i bai payim yu bek ⟨את⟩ long ol pasin yu wokim long mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/137\/5-8.1792359280782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "bilong Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ol i bagarapim yu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gutpela tumas long"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "man i bai payim yu bek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pasin yu wokim long mipela"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ol pasin bilong yu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:40.784314873Z",
+  "model": "glm-5.3"
+}

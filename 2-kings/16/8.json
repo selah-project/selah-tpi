@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "'sohad' em i sohad\/bek — KJV 'present' (presen) vs YLT 'bribe' (sohad nogut); tok Hibru em i bek bilong baim wanpela man"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "aleph-tav bilong gol — Tok Pisin i no gat wanpela ples klia, em i stap wantaim ⟨את⟩ fes"
+    }
+  ],
+  "translation": "Na Akaz i kisim ⟨את⟩ silva na ⟨את⟩ gol ol i painim long haus bilong Yahwe, na long ol stua bilong haus bilong king, na i salim i go long king bilong Asur — sohad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "06d1c2ed9ddb019354f774e82d1266257ce9cf03d6d7dbbded1bd51f352a2956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/8-8.1792363137043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "gol"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na long ol stua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bilong haus bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na i salim i go"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king bilong"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sohad"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:57.044018058Z",
+  "model": "glm-5.3"
+}

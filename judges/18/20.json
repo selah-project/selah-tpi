@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel\/tingting long Tok Pisin (D4) — i no hat"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker ⟨i⟩; Hibru i no gat em"
+    }
+  ],
+  "translation": "Na bel bilong ⟨i⟩ pris i kamap swit, na em i tekim ⟨את⟩ ephot, na ⟨את⟩ ol terafim, na ⟨את⟩ piksa, na em i go insait namel long ol manmeri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e33979c6ea12a25f981f4251d1c1da4c47b66b7fc3b2d1e40678cf429e4c6ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/18\/17-20.1792351409846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "i kamap swit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na em i tekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephot"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ol terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "piksa"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "piksa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na em i go insait"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T19:23:29.849009477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": " Hebrew has לא (no) before כרעים but the construction reads 'which has legs'; the negative is carried by context and bracketed in the rendering"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרעים",
+      "rationale": " jointed hopping legs; translations split between 'legs above their feet' (KJV) and 'jointed legs' (JPS)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לנתר",
+      "rationale": " rare verb 'to leap\/spring', found only in this locust context"
+    }
+  ],
+  "translation": "Tasol dispela ⟨את⟩ save kakai long olgeta ol binatang bilong skai i save wokabaut long foa leg, we ol i gat tupela long leg namel long olgeta, long usim ol long hop i go long graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/21-24.1792348382873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "save kakai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ol binatang na ol samting i save wokabaut long graun"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "bilong skai"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "i save wokabaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no gat⟩"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "tupela long leg namel"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "olgeta leg bilong en"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "long usim ol long hop"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:02.874205709Z",
+  "model": "glm-5.3"
+}

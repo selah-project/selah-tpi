@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צרת",
+      "rationale": "Hebrew 'bind up\/cinch tight' rendered as Tok Pisin 'pasim' (tie up fasten), the standard binding verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Second הכסף carries the definite article; Tok Pisin marks it with the demonstrative 'dispela'."
+    }
+  ],
+  "translation": "Na yu putim ⟨i⟩ long silva, na yu pasim dispela silva long han bilong yu, na yu wokabaut i go long ples we Yahwe, Elohim bilong yu, i makim long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8b6770a02bbb31c9df8aa407914ee18cd3468d8232154248b7815832865f712b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/25-28.1792349972612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "long silva"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "yu pasim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dispela silva"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "yu wokabaut i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "i makim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:32.613462771Z",
+  "model": "glm-5.3"
+}

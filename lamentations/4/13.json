@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 4:13",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מחטאת",
+      "rationale": "construct chain 'sins-of her prophets' rendered with bilong, no separate word for the prefixed min"
+    }
+  ],
+  "translation": "Bilong ol sin bilong ol profet bilong en, na bilong ol rong bilong ol pris bilong en — ol i skelim blut bilong ol man stret insait long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/13-16.1792360634090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחטאת",
+      "gloss": "bilong ol sin bilong"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "ol profet bilong en"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ol rong"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "ol pris bilong en"
+    },
+    {
+      "surface": "השפכים",
+      "gloss": "ol i skelim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "insait long en"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:14.090845517Z",
+  "model": "glm-5.3"
+}

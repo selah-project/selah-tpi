@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tenpela kiubit",
+      "rationale": "Ol mak bilong board — tenpela kiubit longpela, kiubit wantaim haf bilong kiubit lap"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i save putim 'i' — Hibru i no gat"
+    }
+  ],
+  "translation": "Tenpela kiubit i longpela bilong wanpela board, na kiubit wantaim haf bilong kiubit i lap bilong wanpela board.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/26\/13-16.1792347876233.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tenpela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiubit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "i longpela bilong"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "wanpela board"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na kiubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "wantaim haf"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "bilong kiubit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "i lap bilong"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "wanpela board"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:36.246039284Z",
+  "model": "glm-5.3"
+}

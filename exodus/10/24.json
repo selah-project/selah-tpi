@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טפכם",
+      "rationale": "טַף 'little ones\/children' as collective — 'ol pikinini' keeps the family picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצג",
+      "rationale": "Pual of יצג 'be set\/stationed': KJV 'be stayed' vs reading 'be given\/put in place'; kept as 'ol i stap' (left behind)."
+    }
+  ],
+  "translation": "Na Faro i singautim Mose, na i tok: Go, wokim ⟨את⟩ Yahwe; tasol ol sipsip na meme bilong yu na ol bulmakau bilong yu ol i stap, olsamoa ol pikinini bilong yu ol i ken go wantaim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/10\/21-24.1792347507007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Go"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ol sipsip na meme bilong yu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "na ol bulmakau bilong yu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olsamoa"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ol pikinini bilong yu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ol i ken go"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "wantaim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:27.008435061Z",
+  "model": "glm-5.3"
+}

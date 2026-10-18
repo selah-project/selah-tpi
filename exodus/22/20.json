@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "yumi",
+      "rationale": "Lo i tok stret long Yisrael — tupela negativim tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun ⟨em⟩ long תלחצנו i stap long Hibru (-נו suffix), no needim braket"
+    }
+  ],
+  "translation": "Na man i kam long ausait, yu no ken bagarapim em, na yu no ken pulim em daun, longwonem yumi ol i bin man i kam long ausait long graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/17-20.1792347754787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "na man i kam long ausait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "bagarapim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "pulim em daun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "longwonem"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ol man i kam long ausait"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "yumi ol i bin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:34.788252414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 24:27",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד is covenant loyalty-kindness, kept as the Hebrew word rather than reduced to 'marimari'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אנכי בדרך",
+      "rationale": "Literally 'I in the way' — an absolute phrase KJV famously struggles with ('I being in the way'); Tok Pisin makes it 'mi yet' for emphasis."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong go",
+      "rationale": "Hebrew has no verb 'go' — 'led me to the house' is direct; Tok Pisin needs a motion phrase."
+    }
+  ],
+  "translation": "Na em i tok: Tahim nem bilong Yahwe, Elohim bilong masta bilong mi Avraham, we em i no lusim khesed bilong en na tru bilong en i go long masta bilong mi; mi yet, Yahwe i statim mi long rot bilong go long haus bilong ol brata bilong masta bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6f33a666494fdde0dd56a11df833d43b2726ccb142590ad19671d6525f603898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/25-28.1792346656106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "tahim nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong en"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "na tru bilong en"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "i statim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bilong ol brata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bilong masta bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:16.107119630Z",
+  "model": "glm-5.3"
+}

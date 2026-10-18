@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i maurim predicate marker; Hibru i no gat."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקום ספיר אבניה",
+      "rationale": "Construct chain: 'ples bilong safaya, ol ston bilong en' — o 'ples bilong ol ston bilong safaya' (KJV); arda bilong construct i ambigi."
+    }
+  ],
+  "translation": "Ples bilong safaya — ol ston bilong en; na das bilong gol ⟨i⟩ gat long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/28\/5-8.1792360205415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safaya"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ol ston bilong en"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "na das bilong"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:05.415784603Z",
+  "model": "glm-5.3"
+}

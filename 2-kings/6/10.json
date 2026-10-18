@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אחת ולא שתים",
+      "rationale": "'not once and not two' — Hebrew idiom for 'time and again'; rendered literally to keep the counting shape."
+    },
+    {
+      "kind": "substitution",
+      "subject": "והזהירה",
+      "gloss-missing": false,
+      "rationale": "root זהר 'to gleam', figuratively 'enlighten by warning'; Tok Pisin 'skruim tok pastaim' (warn beforehand) keeps the caution sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמר (v.9) \/ ונשמר",
+      "rationale": "repetition of guard-verb: the king 'keeps himself' exactly as the prophet commanded 'beware'."
+    }
+  ],
+  "translation": "Na king bilong Yisrael i salim man i go long ples we man bilong Elohim i tokim ⟨em⟩ long en, na em i skruim tok pastaim, na em i lukaut long san long hap — no wanpela taim, na no tupela taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b5df42c8ee4da5b782e612421c37db39537b41c4eb129372d258e6b2a1047acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/6\/9-12.1792353332200.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim man i go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "i skruim tok pastaim"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "i lukaut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long san"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela taim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tupela taim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:32.200992014Z",
+  "model": "glm-5.3"
+}

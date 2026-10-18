@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכפר",
+      "rationale": "Root kafar 'cover\/atone': 'annul' (KJV) vs 'wiped out' — covenant with death will be canceled like a debt covered over."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוט שוטף",
+      "rationale": "Alliterative pair 'whip…flooding' (shot shotef) sounds like one gushing lash; Tok Pisin splits it into two phrases and the sound echo is lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lukluk bilong yupela",
+      "rationale": "חזות is a vision\/pact of seeing; KJV 'agreement', literal is 'your vision with Sheol'."
+    }
+  ],
+  "translation": "Na bai ol i rausim kontrak bilong yupela wantaim ⟨את⟩ dai, na lukluk bilong yupela wantaim ⟨את⟩ Seol i no ken sanap; taim rop bilong pait i wasim i go na i kamap Pastaim, bai yupela kamap ⟨i⟩ olsem ples bilong tramap long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/28\/17-20.1792354239537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "na bai ol i rausim"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "kontrak bilong yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "na lukluk bilong yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ken sanap"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "rop bilong pait"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "i wasim i go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "i kamap Pastaim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "bai yupela kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "olsem ples bilong tramap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:39.538191687Z",
+  "model": "glm-5.3"
+}

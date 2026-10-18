@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועז מלך משפט אהב",
+      "rationale": "Strong i bilong king (we king i laikim kot), o strongpela king em i narapela tok — 'king bilong strong i laikim kot'? Ol tanim tok i no wankain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה mi holim olsem tsedek — 'stretpela pasin' tasol i lusim nem bilong wanpela tok."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanem",
+      "rationale": "אתה i kamap tupela taim — Hebrew i usim ol pronoun bilong strongim, 'yu wanem' i strongim Tok Pisin."
+    }
+  ],
+  "translation": "Na strong bilong king i laikim ⟨את⟩ kot: yu wanem i mekim stret olgeta samting; kot na tsedek long Yakov, yu wanem i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/99\/1-4.1792358893404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Na strong bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "i laikim ⟨את⟩ kot"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i laikim ⟨את⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu wanem"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "i mekim stret"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "long Yakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu wanem"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:13.405644840Z",
+  "model": "glm-5.3"
+}

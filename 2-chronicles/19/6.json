@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew has no pronoun with ועמכם; Tok Pisin needs ⟨em⟩ to name who is 'with you'."
+    },
+    {
+      "kind": "you",
+      "subject": "ol man bilong kot",
+      "rationale": "Yehoshafat directly addresses the judges with plural imperatives."
+    }
+  ],
+  "translation": "Na em i tokim ol man bilong kot: Lukim gut wanem samting yupela i wokim, long wanem no long man yupela i skelim kot, tasol long Yahwe, na ⟨em⟩ i stap wantaim yupela long pasin bilong skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd5a5d0e3309ad29c1c0effdb197405a85184848df204458e9c5cefbd1983a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/19\/5-8.1792362623312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "ol man bilong kot"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Lukim gut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "long man"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "yupela i skelim kot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "i stap wantaim yupela"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "long pasin bilong"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "skelim kot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:23.313080426Z",
+  "model": "glm-5.3"
+}

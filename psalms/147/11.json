@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "scare",
+      "rationale": "ירא i min 'i scare na gat respek wantaim' — 'scare' tasol i no holim gutpela mining"
+    }
+  ],
+  "translation": "Yahwe i amamas long ⟨את⟩ ol man i scare long em, long ⟨את⟩ ol man i wet long khesed bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/9-12.1792359309360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "i amamas long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i scare long em"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ol man i scare long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i wet long khesed bilong em"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ol man i wet"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "long khesed bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:09.362212272Z",
+  "model": "glm-5.3"
+}

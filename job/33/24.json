@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 33:24",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פדעהו",
+      "rationale": "פדע occurs only here in the Tanakh; cognate to פדה, to ransom\/retrieve."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'Ransom\/atonement' — covering-price; who found it and for whom (the man, or a substitute) is disputed."
+    }
+  ],
+  "translation": "na em i givim marimari long em, i tok: Rausim em long go daun long hol; mi painim pinis pe bilong baim em bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/33\/21-24.1792360296094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחננו",
+      "gloss": "i givim marimari long em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "פדעהו",
+      "gloss": "rausim em"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "long go daun"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "long hol"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mi painim pinis"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "pe bilong baim em bek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:36.095245109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 35:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is\/bin",
+      "rationale": "Tok Pisin需要谓语标记i与助动词，希伯来无"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרח תפרח",
+      "rationale": "不定式绝对叠词：em kamaut...kamaut gut tru，重复得以保留"
+    }
+  ],
+  "translation": "Em bai kamaut ol pawa gut, gut tru, na bai i amamas, iet long hamamas na singing, olsem klem bilong Lebanon i bin givim long em, olsem namel bilong Karmel na Saron; olgeta bai ol i lukim ⟨את⟩ klem bilong Yahwe, ⟨את⟩ nemel bilong Elohim bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/35\/1-4.1792354356366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרח",
+      "gloss": "kamaut ol pawa"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "bai i kamaut ol pawa gut, gut tru"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na bai i amamas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iet"
+    },
+    {
+      "surface": "גילת",
+      "gloss": "long hamamas"
+    },
+    {
+      "surface": "ורנן",
+      "gloss": "na singing"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "klem"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "bilong Lebanon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i bin givim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "namel"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "bilong Karmel"
+    },
+    {
+      "surface": "והשרון",
+      "gloss": "na Saron"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bai ol i lukim"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "klem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "nemel"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:36.367152199Z",
+  "model": "glm-5.3"
+}

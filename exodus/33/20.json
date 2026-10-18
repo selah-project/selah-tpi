@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok i kam long Yahwe; Tok Pisin i nidim man i tok."
+    },
+    {
+      "kind": "mystery",
+      "subject": "pes bilong Yahwe",
+      "rationale": "Wanem i tap — man i no ken lukim pes bilong Yahwe na stil liv."
+    },
+    {
+      "kind": "you",
+      "subject": "to Mose",
+      "rationale": "Yahwe i tok stret long Mose: yu no inap."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Yu no inap lukim ⟨את⟩ pes bilong mi, bilong wanem man i no ken lukim mi na stil liv.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/17-20.1792348078766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "yu inap"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong mi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "i lukim mi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na stil liv"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:58.767825389Z",
+  "model": "glm-5.3"
+}

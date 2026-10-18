@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גבים",
+      "rationale": "'ol bar' — ol tanim tok i totok: beams, planks, vaults (geneva: couplis\/vawted)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שדרת",
+      "rationale": "'ron' — tok i kamap wanpela taim tasol long Tanakh hia."
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ haus, na em i pinisim em; na em i karapim ⟨את⟩ haus wantaim ol bar na ol ron bilong ol sedar.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/9-12.1792352753513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "na em i pinisim em"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "na em i karapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ol bar"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "na ol ron"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "bilong ol sedar"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:53.514504391Z",
+  "model": "glm-5.3"
+}

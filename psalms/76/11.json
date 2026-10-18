@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bilim em olsem belt",
+      "rationale": "תחגר: KJV 'yu baitim em i go daun' vs ylt\/jps 'yu bilim em olsem belt long yu' — tok i mean bilim, olsem na piksa i stap"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת … חמת",
+      "rationale": "Hibru i ripitim 'bel het' tupela taim, wanpela i preisim, wanpela i bilim — Tok Pisin i holim daunbilo tasol"
+    }
+  ],
+  "translation": "Bihainen, bel het bilong man bai i preisim yu; hap i stap bilong bel het, yu bai bilim em olsem belt.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fc712475da22ab84df14d3e8d9af11f75c24ea0f7fb4510db40ae874f904de32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/76\/9-12.1792358513483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihainen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bel het"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "bai i preisim yu"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hap i stap"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bilong bel het"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "yu bai bilim em olsem belt"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:53.484565684Z",
+  "model": "glm-5.3"
+}

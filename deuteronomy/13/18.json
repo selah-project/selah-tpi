@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 13:18",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel hevai",
+      "rationale": "מחרון אף — singaut bilong paia long nus — 'bel hevai' long Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמים\/ורחמך",
+      "rationale": "Tupela tok i klostu wankain — marimari na luksave — ol i kamap tupela tok long Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yahwe i tokim Yisrael — man i rit olgeta buk"
+    }
+  ],
+  "translation": "Na samting bilong rausim olgeta i no ken hukim long han bilong yu, bilong Yahwe i ken kirap na lusim bel hevai bilong em, na em i ken givim marimari long yu, na luksave yu, na multiplesim yu, olsem em i tok beten long ol papa bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9b2a99ccead3409eee064d9a22f71469976f53201545a4eb8d997de414737003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/13\/17-19.1792349973412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "hukim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "wanpela samting"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "samting bilong rausim olgeta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ken kirap na lusim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "bel hevai"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na i ken givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "marimari"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "na luksave yu"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "na multiplesim yu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "em i tok beten"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "long ol papa bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:33.413678958Z",
+  "model": "glm-5.3"
+}

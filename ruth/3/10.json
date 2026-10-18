@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "D2: khesed i stap, i no marimari tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "ברוכה את — Tok Pisin i laikim pronaun, ⟨em⟩ i stap"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היטבת…האחרון מן הראשון",
+      "rationale": "khesed bihain winim khesed bipo — repitisen bilong taim, Tap Pisin i holim"
+    }
+  ],
+  "translation": "Na em i tok: Yu gutpela long Yahwe, dauna bilong mi; yu mekim khesed bilong yu bihain i pas winim khesed bilong bipo, long wanem yu no bihainim ol yangpela man, sapos man no gat mani o sapos man i gat planti mani.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/3\/9-12.1792360521683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "yu gutpela"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu",
+      "marks": "yu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dauna bilong mi"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "yu mekim gut"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "מן",
+      "gloss": "winim"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "bipo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "long wanem yu no"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "ol yangpela man"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "דל",
+      "gloss": "man no gat mani"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o sapos"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "man i gat planti mani"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:21.684304736Z",
+  "model": "glm-5.3"
+}

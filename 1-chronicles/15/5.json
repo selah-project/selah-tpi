@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Census of Levite families with head counts."
+    },
+    {
+      "kind": "crux",
+      "subject": "120 vs 220",
+      "rationale": "Wycliffe reads 'two hundred and twenty' against Hebrew מאה ועשרים (120)."
+    }
+  ],
+  "translation": "Long ol pikinini bilong Kehat: Uriel em i bikman, na ol brata bilong en, wan handet na tupela ten.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0859649601e0547d0608963ddcadde0d2f17a7e6bcdef515bcd890fdce7801ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/15\/5-8.1792361987839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "השר",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ol brata bilong en"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "tupela ten"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:47.840263341Z",
+  "model": "glm-5.3"
+}

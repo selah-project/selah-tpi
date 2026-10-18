@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim glima",
+      "rationale": "פארך is 'he beautified\/glorified you' — gleam-verb, rendered as giving glory."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Holi bilong Yisrael",
+      "rationale": "קדוש ישראל is construct 'the Holy One of Israel'; Tok Pisin needs the supplied head noun."
+    }
+  ],
+  "translation": "Lukluk: yu bai singautim wanpela lain yu no save long ⟨em⟩, na wanpela lain i no save long yu bai ran i kam long yu, bilong Yahwe Elohim bilong yu, na bilong ⟨Holi bilong⟩ Yisrael, long wanem em i bin givim glima long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/55\/5-8.1792354657095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lukluk"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "wanpela lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "save"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "yu bai singautim"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "na wanpela lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "save long yu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "bai ran i kam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "na bilong ⟨Holi bilong⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "em i bin givim glima long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:37.096171028Z",
+  "model": "glm-5.3"
+}

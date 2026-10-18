@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב long Tok Pisin discipline em i 'bel' — tingting na laik, i no 'hat'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kangal\/warakai\/hatlong",
+      "rationale": "tripela tok bilong pen iWantaim long ves — personification bilong wain na diwai"
+    }
+  ],
+  "translation": "Wain nupela i kangal, diwai wain i warakai, olgeta man i amamas long bel ol i hatlong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/24\/5-8.1792354193003.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "i kangal"
+    },
+    {
+      "surface": "תירוֹשׁ",
+      "gloss": "wain nupela"
+    },
+    {
+      "surface": "אֻמְלְלָה",
+      "gloss": "i warakai"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "diwai wain"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "ol i hatlong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שִמחֵי",
+      "gloss": "man i amamas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "long bel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:53.004566560Z",
+  "model": "glm-5.3"
+}

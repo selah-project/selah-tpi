@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong em",
+      "rationale": "נפש i minim laip\/breth, ol tanim tok i usim 'soul' — Tok Pisin 'laip' i klostu tru"
+    },
+    {
+      "kind": "crux",
+      "subject": "תלין",
+      "rationale": "לין i minim 'stap wanpela nait' o 'stap oltaim' — 'dwell at ease' vs 'abide'"
+    }
+  ],
+  "translation": "Laip bilong em i save stap long gutpela samting, na pikinini bilong em bai kisim graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/25\/13-16.1792358051320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "laip bilong em"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "long gutpela samting"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "i save stap"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na pikinini bilong em"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bai kisim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:11.320812315Z",
+  "model": "glm-5.3"
+}

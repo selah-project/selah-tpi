@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כסאות … כסאות",
+      "rationale": "Repetition of 'thrones' in parallel cola, kept by repeating 'ol tron'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker added; Hebrew has no copula or predicate marker."
+    }
+  ],
+  "translation": "Bikos long en, ol tron bilong kot i sindaun, ol tron bilong haus bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/122\/5-8.1792359200776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "i sindaun"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "ol tron"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "bilong kot"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "ol tron"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:20.777068030Z",
+  "model": "glm-5.3"
+}

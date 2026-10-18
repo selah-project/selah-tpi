@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bodi",
+      "rationale": "בשר em i mit\/bodi; 'skin' i no stret hia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרחה קרחה",
+      "rationale": "Tanim tok i tanim tok — depilate\/baldness, tupela tok i klostu wankain long Hibru, lus long Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pris",
+      "rationale": "Lo i tok long ol pris — subjek bilong יקרחה em ol pris (long 21:1)"
+    }
+  ],
+  "translation": "Ol i no ken kirapim keleng long hed bilong ol, na ol i no ken savim het bilong smok bilong ol, na long bodi bilong ol ol i no ken katim kat-samas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a9ee5dd7fa6d74c7286ad7dbe748750f81e934f2212575385f796b590cd777bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/21\/5-8.1792348693930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "kirapim keleng"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "keleng"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "long hed bilong ol"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "na het"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "bilong smok bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "savim"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "na long bodi bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "katim"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "kat-samas"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:13.931134902Z",
+  "model": "glm-5.3"
+}

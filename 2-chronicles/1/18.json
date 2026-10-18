@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨long⟩",
+      "rationale": "Tok Pisin i needim 'long' bilong tok long wok; Hibru i gat infinitive construct tasol."
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Suleman",
+      "rationale": "Suleman i tok aut long laik bilong en — stat bilong wok bilong haus bilong Yahwe."
+    }
+  ],
+  "translation": "Na Suleman i tok ⟨long⟩ wokim ⟨wanpela⟩ haus long nem bilong Yahwe, na ⟨wanpela⟩ haus long kingdom bilong ⟨en⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/1\/17-18.1792362213337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Suleman i tok"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleman"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na haus"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "long kingdom bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:33.338238211Z",
+  "model": "glm-5.3"
+}

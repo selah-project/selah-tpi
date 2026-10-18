@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחש ינחש",
+      "rationale": "'uses divination\/whispers spells' — literal 'he whispers omens with it'; rendered 'wasim was' (read omens), alternatives 'skelim toktok bilong ol giaman man'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחש ינחש",
+      "rationale": "infinitive-verb repetition, same root doubled for emphasis"
+    },
+    {
+      "kind": "you",
+      "subject": "ol brata bilong Yosef",
+      "rationale": "steward speaks Joseph's words directly to the brothers"
+    }
+  ],
+  "translation": "I no long dispela? Bikman bilong yumi dringim long em, na em i usim em long wasim was. Olsem na yumi wokim nogut long ol samting yumi wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1d3707164a78e164cdcb522a49abb977a8e9d87473a42276601baedb5b3f8238",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/44\/5-8.1792347189775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "i no long"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "dringim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong yumi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "wasim was"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "usim em long wasim was"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "yum i wokim nogut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "long ol samting"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "yumi wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:09.775630951Z",
+  "model": "glm-5.3"
+}

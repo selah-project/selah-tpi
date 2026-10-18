@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 23:24",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדבה",
+      "rationale": "Some render 'freewill offering' (a category), others adverbially 'freely' modifying the vow; here 'presen bilong laik bilong yu yet' keeps the voluntariness"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפתיך",
+      "rationale": "Hebrew 'your lips' rendered 'maus bilong yu' (mouth) in the second half בפיך also mouth — lip\/mouth distinction flattened"
+    }
+  ],
+  "translation": "Olgeta samting i kamap auset long maus bilong yu, yu ken lukautim gut na wokim em, olsem promis bilong yu yet we yu bin givim long Yahwe Elohim bilong yu, olsem presen bilong laik bilong yu yet, we yu bin tokim long maus bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3515179111441dfa20f25aa020dff171656a1a1981a66aa74186436370e98879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/21-24.1792350174787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוצא",
+      "gloss": "i kamap auset"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "long maus bilong yu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "yu ken lukautim gut"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na wokim em"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "promis bilong yu yet we yu bin givim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "presen bilong laik bilong yu yet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "yu bin tokim"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "long maus bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:54.788903716Z",
+  "model": "glm-5.3"
+}

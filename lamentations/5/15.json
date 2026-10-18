@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i 'bel' long Tok Pisin — tingting na laik, i no 'hat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאבל",
+      "rationale": "'Bel hevi' long אבל — tok Tok Pisin bilong tang bilong sori."
+    }
+  ],
+  "translation": "Amamas bilong bel bilong yumi i pinis; dans bilong yumi i senis i go long bel hevi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/5\/13-16.1792360713070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "i pinis"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "amamas"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "bel bilong yumi"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "i senis i go"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "long bel hevi"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "dans bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:33.071110393Z",
+  "model": "glm-5.3"
+}

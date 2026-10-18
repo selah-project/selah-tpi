@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim kopula; Hibru i no gat"
+    },
+    {
+      "kind": "invitation",
+      "subject": "plural imperative",
+      "rationale": "רוממו na והשתחוו — kolim ol man long salim nem na mangalim bodi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשו \/ קדוש",
+      "rationale": " repetitions bilong tok holi namel long ves — maunten holi bilong em, Yahwe i holi"
+    }
+  ],
+  "translation": "Ol i salim nem bilong Yahwe Elohim bilong yumi, na ol i mangalim bodi long maunten holi bilong em, bilong wanem, Yahwe Elohim bilong yumi ⟨em⟩ holi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8dda68d17645219ad927aa35bcd62768128258e2e667d0d4787e74b6284eaca3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/99\/9-9.1792358873867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ol i salim nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "na ol i mangalim bodi long"
+    },
+    {
+      "surface": "להר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:53.868814268Z",
+  "model": "glm-5.3"
+}

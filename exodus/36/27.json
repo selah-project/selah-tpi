@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירכתי",
+      "rationale": "Tok Hibru em i 'flank' — sait bilong bel; tanim olsem 'bilbehain sait'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "Tok Hibru em i 'silwara' — tanim olsem 'wes', bilong ol man i rit i save."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sikis bo",
+      "rationale": "Namba bilong ol bo long bilbehain sait."
+    }
+  ],
+  "translation": "Na long bilbehain sait bilong Miskan, long sait bilong wes, em i mekim sikis bo.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/36\/25-28.1792348122613.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "Na long bilbehain sait bilong"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "long sait bilong wes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i mekim"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:42.614475891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Mikal",
+      "rationale": "Hebrew suffix -ה 'her' carries the object; Tok Pisin uses 'em' where English versions supply 'Michal'"
+    }
+  ],
+  "translation": "Na Ish-Boshet i salim, i go kisim em long man — long Paltiel, pikinini man bilong Layis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/13-16.1792352157357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na i salim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "i go kisim em"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Layis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:57.359843210Z",
+  "model": "glm-5.3"
+}

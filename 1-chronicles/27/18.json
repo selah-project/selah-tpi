@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Hebrew says 'of the brothers of David'; 'wanpela' added to show Elihu is one of them"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lista bilong ol lida bilong ol tribe",
+      "rationale": "Roster of tribal leaders"
+    }
+  ],
+  "translation": "Bilong Yehuda: Elihu, wanpela bilong ol brata bilong David. Bilong Yissaskar: Omri, pikinini bilong Mikael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/27\/17-20.1792362222774.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "bilong Yehuda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "bilong ol brata bilong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "bilong Yissaskar"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mikael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:42.775380323Z",
+  "model": "glm-5.3"
+}

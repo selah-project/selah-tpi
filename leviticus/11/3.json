@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מפרסת פרסה ושסעת שסע פרסת",
+      "rationale": "Root repetition (פרס three times, שׂסע twice) builds the split-hoof criterion as drumbeat; Tok Pisin keeps the echo with 'brumap klu' but loses the consonantal chain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i kirapim bek kaikai long maun",
+      "rationale": "גרה is literally 'the cud (as scraping the throat)'; Tok Pisin describes the action rather than naming a technical term."
+    }
+  ],
+  "translation": "Olgeta we i brumap klu, na i brumap kla long klu, na i kirapim bek kaikai long maun — long ol animal bilong lukautim, ⟨את⟩ em yumi ken kaikai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/1-4.1792348425566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Olgeta"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "we i brumap"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klu"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "na i brumap kla"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "kla"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "long klu"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "i kirapim bek"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kaikai long maun"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "long ol animal bilong lukautim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em — dispela kain animal bilong lukautim"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yumi ken kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:45.566843171Z",
+  "model": "glm-5.3"
+}

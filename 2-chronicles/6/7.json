@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם לבב",
+      "rationale": "literally 'it was with the heart of David' — rendered 'i bin stap long bel bilong David'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב is heart as inner will; Tok Pisin 'bel' carries thinking and wanting, not the body organ"
+    }
+  ],
+  "translation": "Na i bin stap long bel bilong David, papa bilong mi, long wokim haus bilong Nem bilong Yahwe, Elohim bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a24b8c18f5212b601a082fc279d04c5e309091375145823c8d6f21b76a81f16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/5-8.1792362311406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i bin stap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "bilong Nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:11.407142462Z",
+  "model": "glm-5.3"
+}

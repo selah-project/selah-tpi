@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "Repetition of גם links Moses' exclusion ('also on me') to the people's — flattened to two 'tu's."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker ⟨i⟩ supplied where Hebrew has no copula."
+    }
+  ],
+  "translation": "Tu, Yahwe i kros long mi long as bilong yu, i tok olsem: Yu tu, yu no ken go long hap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/37-40.1792349710960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "i kros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "long as bilong yu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "go"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:10.962044674Z",
+  "model": "glm-5.3"
+}

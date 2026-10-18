@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/וישבר",
+      "rationale": "Verb repeated: 'voes i brukim' then 'Yahwe i brukim' — Hebrew parallelism splitting one act between voice and speaker, kept in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sedar",
+      "rationale": "ארז 'cedar' transliterated; Tok Pisin has no native cedar word."
+    }
+  ],
+  "translation": "Voes bilong Yahwe i brukim ol sedar; Yahwe i brukim ⟨את⟩ ol sedar bilong Lebnon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/29\/5-8.1792358052964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Voes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ol sedar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol sedar bilong Lebnon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ol sedar bilong"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebnon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:12.965453470Z",
+  "model": "glm-5.3"
+}

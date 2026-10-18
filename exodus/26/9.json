@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "faipela\/sikispela laplap",
+      "rationale": "Counting of curtains, five and six, laid out separately."
+    },
+    {
+      "kind": "substitution",
+      "subject": "frond",
+      "rationale": "פני is literally 'face' — the facing\/front of the tent, rendered as 'frond' in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "long wanpela hap \/ long narapela hap",
+      "rationale": "לבד literally 'apart, by itself', rendered with separate-set phrasing."
+    }
+  ],
+  "translation": "Na yu joinim ⟨את⟩ faipela laplap wantaim long wanpela hap, na yu joinim ⟨את⟩ sikispela laplap wantaim long narapela hap; na yu foldim tupela ⟨את⟩ laplap namba sik i go klostu long frond bilong haus sel.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/26\/9-12.1792347860490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "na yu joinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faipela laplap"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faipela"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ol laplap"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "long wanpela hap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikispela laplap"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikispela"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ol laplap"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "long narapela hap"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "na yu foldim tupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laplap namba sik"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "laplap"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "namba sik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מול",
+      "gloss": "klostu opos"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frond"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "bilong haus sel"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:20.491482610Z",
+  "model": "glm-5.3"
+}

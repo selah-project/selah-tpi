@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "singautim singsing wantaim string",
+      "rationale": "זמר i min Literal 'toksim string bilong miusik' — tanim tok i redusim long 'sing praises'"
+    },
+    {
+      "kind": "you",
+      "subject": "Strong bilong mi, long yu",
+      "rationale": "Davud i toktok lotu long Yahwe, em i singautim Nem"
+    }
+  ],
+  "translation": "Strong bilong mi, long yu bai mi singautim singsing wantaim string, bilong wanem Elohim em strongpela rok bilong mi, Elohim bilong khesed bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/59\/17-18.1792358368634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Strong bilong mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bai mi singautim singsing wantaim string"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "strongpela rok bilong mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesed bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:28.634906788Z",
+  "model": "glm-5.3"
+}

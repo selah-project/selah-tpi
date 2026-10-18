@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדמת נכר",
+      "rationale": "'soil of foreignness' — foreign land, not merely 'strange' land"
+    },
+    {
+      "kind": "you",
+      "subject": "rhetorical kwesten",
+      "rationale": "question addressed to the captors\/readers, refusing song in exile"
+    }
+  ],
+  "translation": "Olsem wanem mipela ken singim ⟨את⟩ singsing bilong Yahwe, long graun bilong narapela lain?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/137\/1-4.1792359244299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "mipela ken singim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singsing bilong Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "graun"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bilong narapela lain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:04.300684612Z",
+  "model": "glm-5.3"
+}

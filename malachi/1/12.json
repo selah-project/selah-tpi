@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dot",
+      "rationale": "מגאל literally 'desecrated\/soiled' — rendered 'dot' (dirtied), losing the cultic-desecration nuance."
+    },
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "Pronoun object of bagarapim supplied in brackets; Hebrew marks it with אתו pointing back to the Name of v11."
+    },
+    {
+      "kind": "you",
+      "subject": "ol prias",
+      "rationale": "Direct accusation: 'yupela' — the priests profane the Name with their words."
+    }
+  ],
+  "translation": "Na yupela i bagarapim ⟨את⟩ en, taim yupela i tok: tebol bilong Adonai, em i dot; na olgeta samting i kamap long en, kaikai bilong en, em i nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/malachi\/1\/9-12.1792357744514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na yupela"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "en (nem bilong Yahwe)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "taim yupela i tok"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bilong Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "em i dot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "na olgeta samting i kamap long en"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "em i nating"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kaikai bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:04.515473636Z",
+  "model": "glm-5.3"
+}

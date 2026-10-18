@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "mi",
+      "rationale": "Yaakov's question 'Who are these?' is direct address to Yosef, standing before him"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew omits copula in the question"
+    }
+  ],
+  "translation": "Na Yisrael i lukim ⟨את⟩ ol pikinini man bilong Yosef, na em i tok: Ol dispela ⟨i⟩ husat?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e71674377fff5797f7fe843ca9f47a33b9bbb8787d6f59b14acb95a728cd027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/5-8.1792347278131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini man bilong Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:38.132996767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yumi ol",
+      "rationale": "Hebrew verb תלקטהו carries the 'you' subject in its form; Tok Pisin needs a pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sabat",
+      "rationale": "שבת is the name Sabat, not a description 'day of rest'"
+    }
+  ],
+  "translation": "Long sixpela de yumi ol i ken kirapim ⟨את⟩ en, tasol long sebenpela de em i Sabat, long em bai i no stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a57093a0a1757c86e4cbd4b7ba1976796cb640491b8c550ec7fa68e8fec01691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/26-27.1792362950300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sixpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "kirapim ⟨את⟩ en"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tasol long sebenpela de"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sebenpela"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:50.301032588Z",
+  "model": "glm-5.3"
+}

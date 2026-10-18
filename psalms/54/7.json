@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישוב",
+      "rationale": "'ol samting nogut bai i go bek' (YLT) o 'Bai yu lukautim ol' (KJV — i ting God i wokim)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שרר",
+      "rationale": "tok bilong 'man i ken agensem' — i stap hamtas liklik long Tanakh"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "tok bilong askim Yahwe long rausim ol birua"
+    }
+  ],
+  "translation": "Ol samting nogut bai i go bek long ol birua bilong mi; long tru bilong yu, rausim olgeta i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/54\/5-8.1792358344326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bai i go bek"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "long ol birua bilong mi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "long tru bilong yu"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "rausim olgeta i pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:04.326786557Z",
+  "model": "glm-5.3"
+}

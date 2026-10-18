@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i needim liklik tok bilong joenim"
+    },
+    {
+      "kind": "elision",
+      "subject": "מבבל",
+      "rationale": "stat long Bavel i kam — tok i stap, tasol pasin bilong Tok Pisin i senis liklik"
+    }
+  ],
+  "translation": "Na ol dispela ⟨em⟩ ol het bilong ol papa bilong ol, na ol i bilong lain ol i skelim ol nem — ol i go antap wantaim mi, long taim bilong Artahshasta king, i kam long Bavel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/8\/1-4.1792361509957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol dispela"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol het"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "bilong ol papa bilong ol"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "na ol i bilong lain ol i skelim ol nem"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ol i go antap"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wantaim mi"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "long taim bilong kingdom"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artahshasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "i kam long Bavel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:11:49.958447279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאמנו\/נאוה",
+      "rationale": "Near-anagram sound pair 'ne'emenu\/na'vah' frames the verse; the echo is lost in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "עדתיך",
+      "rationale": "'Your testimonies' vs 'Your adornments' (from עדה, ornament, as in Song 1:10) — most versions take 'testimonies'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "לארך ימים",
+      "rationale": "Verse closes with a duration: 'for length of days'"
+    }
+  ],
+  "translation": "Ol tok saks bilong yu ol i stap tru tumas; holi i stret long haus bilong yu, Yahwe, long longpela taim bilong ol de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f90c887e987920b7694f66fc76abc8b30a4694805b9033834b216e2b1e222d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/93\/5-5.1792358812025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ol tok saks bilong yu"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ol i stap tru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "long haus bilong yu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "long longpela taim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bilong ol de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:52.026124788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצר",
+      "rationale": "KJV reads בצר as 'gold ore' ('lay up gold as dust'); YLT repoints to בצרה 'fortress' ('set on the dust a defence')."
+    },
+    {
+      "kind": "alternative",
+      "subject": "treat gold as worthless",
+      "rationale": "Context of renouncing riches: 'consign gold to dust' (BSB\/JPS) — treat treasure like common dust and stones."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gol bilong Ofir",
+      "rationale": "Ophir gold names a standard of wealth, a weighed quantity of treasure."
+    }
+  ],
+  "translation": "Na putim gol bilong graun i go long das, na gol bilong Ofir namel long ol ston bilong ol vali bilong wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "34839cc85820da0747e4c67d47dfa331b923642de585cf389a9635a1e295fc00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/22\/21-24.1792360105054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "na putim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "gol bilong graun"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "na namel long ol ston"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "bilong ol vali bilong wara"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-10-18T21:48:25.055467143Z",
+  "model": "glm-5.3"
+}

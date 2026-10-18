@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel he",
+      "rationale": "עברה em i strongpela aut bilong bel; Tok Pisin i no gat narapela tok, bel he i klostu"
+    },
+    {
+      "kind": "elision",
+      "subject": "בתוכה",
+      "rationale": "'long insait bilong en' — em i toktok long haus paia o siti, Tok Pisin i laikim 'en'"
+    }
+  ],
+  "translation": "Na bai mi bungim ⟨את⟩ ol yupela, na bai mi pulim win long ol yupela wantaim paia bilong bel he bilong mi, na bai yupela i larut long insait bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7ef7112bc9e6d73491a69c1b4d6b9534167ac3322b82fcc68e13c01fd681c640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/22\/21-24.1792356417890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "na bai mi bungim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ol yupela"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "na bai mi pulim win"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "long ol yupela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wantaim paia"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "bilong bel he bilong mi"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "na bai yupela i larut"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "long insait bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:46:57.891342018Z",
+  "model": "glm-5.3"
+}

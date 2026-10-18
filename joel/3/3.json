@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting i kamap olsem tuking",
+      "rationale": "מופתים (miracles\/omens) rendered descriptively; Tok Pisin lacks a single-word equivalent"
+    },
+    {
+      "kind": "mystery",
+      "subject": "cosmic signs",
+      "rationale": "Blood, fire, and smoke-columns are deliberately portentous, unexplained omens"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew dual\/plural on שמים and תימרות marked with plural 'ol'"
+    }
+  ],
+  "translation": "Na mi bai givim ol samting i kamap olsem tuking long ol heven na long graun: blut, na paia, na ol pilaia smok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "18356801f560ca2b9d111d5cf6f6028fca8a9dc017af32887cdd77869f935108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/3\/3-4.1792363309326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Na mi bai givim"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "ol samting i kamap olsem tuking"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long ol heven"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na long graun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na paia"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "na ol pilaia"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "smok"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:49.326617919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 19:31",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew suffix on ביתו rendered as bracketed pronoun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gut",
+      "rationale": "בשלום 'in peace\/wholeness' rendered as 'gut' (well, safe); 'peace' alone would narrow it."
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Mefiboset answers David directly, surrendering the whole land to Tsiva."
+    }
+  ],
+  "translation": "Na Mefiboset i tok long king: Em i ken tekim ⟨את⟩ olgeta, bihain long taim we bikman bilong mi king i kamap gut long haus bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/29-32.1792352549925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefiboset"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "i ken tekim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long taim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "gut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:29.926952726Z",
+  "model": "glm-5.3"
+}

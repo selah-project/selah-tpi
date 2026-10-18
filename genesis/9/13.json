@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ana",
+      "rationale": "קשת em i ana bilong sutim; 'renbon' em i kala bilong skai tasol, Hebrew i no tokim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשתי נתתי",
+      "rationale": "tupela tok i klostu olsem (kashti natati), ritim i swit — lus long Tok Pisin"
+    }
+  ],
+  "translation": "Mi putim ⟨את⟩ ana bilong mi long klaut, na em bai i kamap mak bilong kontrak namel long mi na graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/9\/13-16.1792346364750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana bilong mi"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "ana bilong mi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "long klaut"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na em bai i kamap"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "mak bilong"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "namel long mi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T17:59:24.751573824Z",
+  "model": "glm-5.3"
+}

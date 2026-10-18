@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מידעת",
+      "rationale": "Ketiv 'make known' (Hiphil imperative fem.) vs qere נודעת 'is known' — KJV\/ASV follow qere, YLT-style imperatives follow ketiv."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאות",
+      "rationale": "'pride\/exaltation\/excellent things' — rendered as 'olgeta samting gutpela tru' after existing versions; literal is 'highness, excellency'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "זמרו ... מידעת",
+      "rationale": "Plural imperatives summoning the community to sing and make known."
+    }
+  ],
+  "translation": "Salim singaut long Yahwe wantaim ol string bilong miusik, bilong em i wokim olgeta samting gutpela tru; wantaim, yu ken mekim dispela i kamap save long olgeta hap bilong graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/12\/5-6.1792353960322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "salim singaut long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "olgeta samting gutpela tru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "mekim i kamap save"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta hap bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:00.323657760Z",
+  "model": "glm-5.3"
+}

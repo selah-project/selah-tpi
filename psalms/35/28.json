@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tokaut",
+      "rationale": "הגה = tang i wokabaut wantaim tingting — murmur\/ponder; Tok Pisin 'tokaut' i holim hap tasol"
+    },
+    {
+      "kind": "you",
+      "subject": "bilong yu",
+      "rationale": "Devid i toktok wantaim Yahwe long dispela ves — address inap long God"
+    }
+  ],
+  "translation": "Na tang bilong mi bai tokaut tsedek bilong yu, olgeta de ol singaut bilong prais bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/25-28.1792358143540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "na tang bilong mi"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "bai tokaut"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedek bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "singaut bilong prais bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:43.542041913Z",
+  "model": "glm-5.3"
+}

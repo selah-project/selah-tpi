@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok skelim",
+      "rationale": "גערת em i tok skelim bilong bikman — tok i hat, i no marimari"
+    },
+    {
+      "kind": "alternative",
+      "subject": "גערת",
+      "rationale": "Sapos 'tok skelim' i sot, 'tok bilong kenim bel' i ken; tasol גַּעֲרָה em i strongpela tok"
+    }
+  ],
+  "translation": "Gutpela long harim tok skelim bilong man save, moa long man i harim singsing bilong ol man sot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/5-8.1792360776809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "long harim"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "tok skelim"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "man save"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "moa long man"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ol man sot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:36.810028990Z",
+  "model": "glm-5.3"
+}

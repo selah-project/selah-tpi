@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i no kilim skru yet",
+      "rationale": "ערל שפתיים — literal 'lips i no katim'; BSB senisim i go 'i no save tok gut' — piksa bilong katim i lus"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong mi",
+      "rationale": "ערל i bin gat onli adjektiv; Tok Pisin i nidim poseisen long lips"
+    },
+    {
+      "kind": "you",
+      "subject": "Mose i tok long Yahwe",
+      "rationale": "Mose i tok daun long Nem bilong Yahwe"
+    }
+  ],
+  "translation": "Na Mose i tok Pastaim long Yahwe: Lukluk, lips bilong mi i no kilim skru yet, olsem na bilong wanem Parao bai harim tok bilong mi?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/6\/29-30.1792347372999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lukluk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "i no kilim skru yet"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lips bilong mi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "olsem na bilong wanem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bai harim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:12.999895368Z",
+  "model": "glm-5.3"
+}

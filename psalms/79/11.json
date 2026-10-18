@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "hiphil bilong יתר: 'spesim\/livim ol' (YLT 'leave') o 'harim\/strongim ol' (KJV 'preserve') — tpi mi usim 'spesim'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני תמותה",
+      "rationale": "literal 'ol pikinini bilong dai' — ol man i makim long dai, 'appointed to death'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנקת",
+      "rationale": "literal 'skrim' — tpi 'krai bilong man' long kalabus"
+    }
+  ],
+  "translation": "Krai bilong man i stap long kalabus i mas kam stil long ai bilong yu; olsem bikness bilong han bilong yu, yu mas spesim ol pikinini bilong dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1378b9d7e1f1a10e84e05e2d709ab7988c83612101981698b6600fa504e2a98f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/10-11.1792363413952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "i mas kam"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "long ai bilong yu"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "krai bilong man"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "i stap long kalabus"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "olsem bikness"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "bilong han bilong yu"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "yu mas spesim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "bilong dai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:33.953244926Z",
+  "model": "glm-5.3"
+}

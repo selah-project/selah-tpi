@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i putim",
+      "rationale": "נתן i no gat man i mekim, pasif — 'ol i givim ples'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanap",
+      "rationale": "ישבו i tok 'sanap\/sindaun', em i stap long ples"
+    }
+  ],
+  "translation": "Ol i putim ol man long tingting i no stap long ol heban bilong olgeta man, na ol man i gat planti mani ol i sanap long ples i daunbilo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/10\/5-8.1792360772840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ol i putim"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ol man long tingting i no stap"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "long ol heban"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bilong olgeta man"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "na ol man i gat planti mani"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "long ples i daunbilo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ol i sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:32.841213146Z",
+  "model": "glm-5.3"
+}

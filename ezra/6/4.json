@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלל",
+      "rationale": "גלל i makim ol bigpela ston ol i rololim — 'great stones' (KJV) o 'rololim ston' (YLT); Tok Pisin i makim bigpela ston."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kabit",
+      "rationale": "Aramia אמה (kabit\/cubit) em i mak bilong skelim — olgeta long Ezra i tanim 'cubit'; Tok Pisin 'kabit' i holim nois bilong en."
+    }
+  ],
+  "translation": "tripela laia bilong ol bigpela ston, na wanpela laia bilong kain wud; na ol kos bilong wok i mas kamap long man long haus bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/6\/1-4.1792361422665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "laia"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "bigpela"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "na wanpela laia"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אע",
+      "gloss": "wud"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "kain"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "na ol kos bilong wok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "i mas kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:10:22.666783260Z",
+  "model": "glm-5.3"
+}

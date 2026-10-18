@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "han",
+      "rationale": "זרוע em i han — strong bilong pamilia; KJV 'thine arm', tasol mining em i strong, no han bilong bodi tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "i no ken kamap",
+      "rationale": "מהיות זקן — infinitive construct, Tok Pisin i nidim helping tok"
+    }
+  ],
+  "translation": "Lukim, ol dei i kamap nau, na mi bai katim ⟨את⟩ han bilong yu na ⟨את⟩ han bilong haus bilong papa bilong yu — ol man i no ken kamap olpela man long haus bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/29-32.1792351505776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol dei"
+    },
+    {
+      "surface": "באים",
+      "gloss": "i kamap nau"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "na mi bai katim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong yu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "han bilong haus bilong papa bilong yu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "i no ken kamap"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "olpela man"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "long haus bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:05.781279045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 8:18",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb ויקרא lacks explicit subject; Tok Pisin needs 'em' (Ezra, from context 8:13)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven days \/ eighth day",
+      "rationale": "The verse counts the festival: day by day, first to last, seven days, plus the eighth-day assembly."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצרת",
+      "rationale": "'Atzeret': solemn closing assembly (KJV 'solemn assembly') vs literal 'restraint\/stopping' (YLT) — rendered here as great gathering."
+    }
+  ],
+  "translation": "Na em i rit long buk bilong Tora bilong Elohim, de wantaim de, long fes de inap long las de; na ol i mekim festaval sevenpela de, na long etpela de i gat bikpela ranu, olsem pasin bilong skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3a927790594a465df39ae0df261330ada2b887867fccb5ce31702df9bc8d46be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/8\/17-18.1792361659701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "na em i rit"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "long buk"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "bilong Tora"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "wantaim de"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "las"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na ol i mekim"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festaval"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na long de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "etpela"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "bikpela ranu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "olsem pasin bilong skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:14:19.702645525Z",
+  "model": "glm-5.3"
+}

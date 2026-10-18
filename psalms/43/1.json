@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסיד i tok bilong khesed; 'i no gat khesed' i holim sia bilong tok, i no 'ol man nogut' tasol"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Ples long psalm i toktok dairekt long Elohim, bilong skelim na salim"
+    }
+  ],
+  "translation": "Yu skelim mi long kot, Elohim, na yu faitem ⟨את⟩ pait bilong mi, long lain bilong ol manmeri i no gat khesed; long man bilong tiltim na pasin nogut, yu salim mi kisim singaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/43\/1-4.1792358222643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "yu skelim mi long kot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "na yu faitem"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "pait bilong mi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "long lain bilong ol manmeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "gat khesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "long man"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bilong tiltim"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "na pasin nogut"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "yu salim mi kisim singaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:02.644803884Z",
+  "model": "glm-5.3"
+}

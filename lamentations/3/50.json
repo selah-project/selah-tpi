@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישקיף",
+      "rationale": "שקף em i 'lean aut long windu' — piksa bilong man i lukluk aut, KJV 'look down' i lusim piksa"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem long windu",
+      "rationale": "Brackets bilong tok klia — tok Hibru i no gat 'windu', tasol wanem mining bilong שקף"
+    }
+  ],
+  "translation": "Bihainem Yahwe i lukluk aut olsem long windu na i lukim olgeta long heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/3\/49-52.1792360595565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "bihainem"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "lukluk aut olsem long windu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na i lukim olgeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "long heven"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:35.566366385Z",
+  "model": "glm-5.3"
+}

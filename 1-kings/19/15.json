@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elijah",
+      "rationale": "Yahwe gives Elijah direct imperatives"
+    },
+    {
+      "kind": "alternative",
+      "subject": "anointing",
+      "rationale": "nowhere does the text say Elijah physically anoints Hazael; Elisha's anointing (v.16) is by mantle, and Hazael is raised later — some read 'anoint' here as 'commission\/announce'"
+    }
+  ],
+  "translation": "Na Yahwe i tok long em: Go, go bek long rot bilong yu, i go long wanwara bilong Damasek, na taim yu kamap, yu ken kapsaitim oil long ⟨את⟩ Hazael bilong kamap king long Aram.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/19\/13-16.1792353168412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "long rot bilong yu"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "i go long wanwara bilong"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "na taim yu kamap"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "yu ken kapsaitim oil long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-18T19:52:48.413372020Z",
+  "model": "glm-5.3"
+}

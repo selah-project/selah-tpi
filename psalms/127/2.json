@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כן יתן לידידו שנא",
+      "rationale": "KJV\/BSB: 'em i givim slip long man bilong en'; JPS: 'long slip em i givim long man bilong en' — šenah i kam long het o long hap bilong 'givim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידידו",
+      "rationale": "yedid = 'man i save bel long em' — mi no usim 'beloved', tok bilong Tok Pisin"
+    }
+  ],
+  "translation": "Long nating yupela i kirap kwiktaim, i go sindaun i go longtime bihain, yupela i kaikai bret bilong pen bilong hadwok — olsem em i givim slip long man i save bel long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/127\/1-4.1792359210167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "long nating"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "i kirap kwiktaim"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "i go longtime bihain"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "i sindaun"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "yupela i kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bilong pen bilong hadwok"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "long man i save bel long em"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "slip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:30.168812631Z",
+  "model": "glm-5.3"
+}

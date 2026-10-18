@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חללה",
+      "rationale": "Literally 'a profaned thing'; idiom of strong repudiation, rendered 'Tambu tru' (taboo indeed \/ far be it)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבב",
+      "rationale": "Hebrew 'heart' as innermost organ; Tok Pisin 'bel' carries thinking and feeling, matching the range."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו לי",
+      "rationale": "Elihu summons the wise men to hear him — direct call to addressees."
+    }
+  ],
+  "translation": "Olsem na, ol man bilong bel, harimim mi: Tambu tru long El long mekim rong, na long Sadai long mekim olgeta nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3ffb375b8b937087dca96c982a7456ed856af0c4bcf2792f26d1c4f6c82c5b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/34\/9-12.1792360291623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bilong bel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "harimim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "Tambu tru"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "long El"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "long mekim rong"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "na long Sadai"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "long mekim olgeta nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:31.624545688Z",
+  "model": "glm-5.3"
+}

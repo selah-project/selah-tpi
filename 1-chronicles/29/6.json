@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 29:6",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol kaptin bilong wan handet",
+      "rationale": "Hebrew pairs 'chiefs of thousands and of hundreds' — one construct governs both; repeated 'kaptin' supplied for clarity."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tausen na handet",
+      "rationale": "Military ranks named by unit size — thousands and hundreds."
+    }
+  ],
+  "translation": "Na ol bikman bilong ol papa, na ol bikman bilong ol lain bilong Yisrael, na ol kaptin bilong wan tausen na ol kaptin bilong wan handet, wantaim ol bikman bilong wok bilong king, ol i givim long laik bilong ol yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/29\/5-8.1792362259583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנדבו",
+      "gloss": "ol i givim long laik bilong ol yet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol bikman bilong"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ol papa"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ol bikman bilong"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ol lain bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ol kaptin bilong"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "wan tausen"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "na ol kaptin bilong wan handet"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "wantaim ol bikman bilong"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:24:19.583876724Z",
+  "model": "glm-5.3"
+}

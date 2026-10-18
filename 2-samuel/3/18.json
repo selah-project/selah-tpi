@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs an object pronoun for the imperative 'yupela mekim'; Hebrew has none."
+    },
+    {
+      "kind": "invitation",
+      "subject": "עשו",
+      "rationale": "Abner's imperative 'do it now' summons the elders to act."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביד דוד הושיע",
+      "rationale": "Hebrew has no subject pronoun; 'YHWH will save by David's hand' vs 'David will save' — the agent is YHWH, the instrument David."
+    }
+  ],
+  "translation": "Na nau yupela mekim ⟨em⟩, long wanem Yahwe i tokim David olsem: Long han bilong David, wantaim bilong mi, bai em pulim ⟨את⟩ ol manmeri bilong mi Yisrael i kamap sef long han bilong ol Peliset, na long han bilong olgeta birua bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/17-20.1792352167300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yupela mekim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wantaim bilong mi"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "bai em pulim i kamap sef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri bilong mi Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol manmeri bilong mi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Peliset"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "birua bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:07.301455984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפסח",
+      "rationale": "Tiphsah on the Euphrates seems impossibly far; some read Tappuah (תפוח) near Tirzah — letter swap in near-identical words."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fopae opim",
+      "rationale": "בקע is literally 'to cleave\/rip open'; Tok Pisin needs a phrase where Hebrew has one verb."
+    }
+  ],
+  "translation": "Long dispela taim Menahem i paitim ⟨את⟩ Tipsah na ⟨את⟩ olgeta we i stap long en, na ⟨את⟩ ol boda bilong en i kam long Tirtsa, long wanem ol i no opim ⟨long em⟩; na i paitim, na ⟨את⟩ olgeta ol meri we bel bilong ol i gutpela long pikinini, em i fopae opim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c184e8d47edc1543aa1e10f050bd311954b0cfab9943c891f8c67bfbdb7494f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/15\/13-16.1792353573367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "long dispela taim"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tipsah"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tipsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta we i stap long en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i stap long en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol boda bilong en"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ol boda bilong en"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "i kam long Tirtsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ol i opim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol meri we bel bilong ol i gutpela long pikinini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "ol meri we bel bilong ol i gutpela long pikinini"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "i fopae opim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:33.368576625Z",
+  "model": "glm-5.3"
+}

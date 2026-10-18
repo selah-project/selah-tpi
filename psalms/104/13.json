@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "מעליותיו has 3rd-person suffix; preceding participles address 'you', so pronoun supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעליותיו",
+      "rationale": "'his upper chambers' (God's) vs 'thy upper chambers' — suffix person shifted mid-verse"
+    }
+  ],
+  "translation": "Em i givim wara long ol maunten, long ol rum antap bilong ⟨em⟩; graun i fulap long frut bilong ol wok bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/13-16.1792358908146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "givim wara long"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ol rum antap bilong em"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "long frut bilong"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ol wok bilong yu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:28.147793372Z",
+  "model": "glm-5.3"
+}

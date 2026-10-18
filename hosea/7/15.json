@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mi skulim",
+      "rationale": "יסרתי: 'mi skulim\/taim' (ASV\/JPS) o 'mi bin taipelaim' (KJV 'bound')"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong wokim",
+      "rationale": "Tok Pisin i nidim wanpela tok bilong holim 'tingting nogut' wantaim"
+    }
+  ],
+  "translation": "Na mi skulim ol, mi strongim ol ar bilong ol, tasol ol i tingting bilong wokim nogut long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "36b6bf3e3c9a41ee248e1d0a4f99006557fc60b97cd978e05736890a9ee094ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/7\/13-16.1792357065026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "mi skulim"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "mi strongim"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "ol ar bilong ol"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "tasol long mi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ol i tingting"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:45.027074231Z",
+  "model": "glm-5.3"
+}

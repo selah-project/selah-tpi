@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה i stap olsem minkha — i no presen o takis (D2)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המחבת",
+      "rationale": "machavat — paella bilong bekim, em i wanpela tok bilong gaden kago"
+    }
+  ],
+  "translation": "Na sapos minkha bilong karika en i stap long paella, em i karikaen bilong yu: flaua ol i miksim wantaim ol, olsem bret i no gat yis em i ken kamap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/2\/5-8.1792348208049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "paella"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "karikaen bilong yu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flaua"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ol i miksim wantaim ol"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "bret i no gat yis"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "em i ken kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:08.050396116Z",
+  "model": "glm-5.3"
+}

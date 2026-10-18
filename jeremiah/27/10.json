@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרחיק\/והדחתי",
+      "rationale": "Tripela strongpela pasin i kam wanwan: rausim i gowe, paitim i go ausait, lus olgeta — gradation i stap long Hibru."
+    },
+    {
+      "kind": "addition",
+      "subject": "long wanem",
+      "rationale": "כי ola i opim senten, Tok Pisin i needim konekta."
+    }
+  ],
+  "translation": "Long wanem, ol i autim tok profet bilong giaman long yupela, bilong rausim yupela go hariap long graun bilong yupela, na bai mi paitim yupela i go ausait, na yupela bai lus olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4bd98d508507cb80a644c81385de48e57cc761825e82bd33f1817636fcad93f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/27\/10-11.1792363199491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giaman"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "autim tok profet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "rausim yupela go hariap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "rausim yupela go hariap"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "graun bilong yupela"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "na bai mi paitim i go ausait"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "paitim yupela i go ausait"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "na yupela bai lus olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:59.491761933Z",
+  "model": "glm-5.3"
+}

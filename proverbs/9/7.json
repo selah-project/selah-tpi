@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalopa",
+      "rationale": "מומו is literally 'his blemish' (physical defect); rendered as moral stain 'kalopa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לץ \/ לקח \/ לו",
+      "rationale": "dense l-sounds in first colon, sound patterning lost."
+    }
+  ],
+  "translation": "Man i stretim ⟨את⟩ man i bikhet, em i kisim sem bilong em yet; na man o ova i skelim ⟨את⟩ man nogut, em i kisim kalopa bilong em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba54514a2842e0a842f4b9a272f64e53e48c68672d900aa915d7f018379fe2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/9\/5-8.1792359467022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Man i stretim"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "man i bikhet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "em i kisim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em yet"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "na man o ova i skelim"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "kalopa bilong em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:47.024243120Z",
+  "model": "glm-5.3"
+}

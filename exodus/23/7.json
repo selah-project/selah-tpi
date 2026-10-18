@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מדבר שקר",
+      "rationale": "'tok giaman' — מדבר i tok o kas; em i mining 'kes bilong tok giaman' (long kot)."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקחים",
+      "rationale": "KJV olsem 'ol man i save lukluk' against Sipuno — man i gat save; Hibru i tok 'man i lukluk klia'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim olsem — objek bilong 'kilim'."
+    }
+  ],
+  "translation": "Long tok giaman, yu ken harim tok long em; na man no rong na man stret, no ken kilim ⟨em⟩; long wanem, mi no ken skelim rong man i stret.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/5-8.1792347739496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "long tok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giaman"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "yu ken harim tok long em"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "na man no rong"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "na man stret"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "kilim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "mi … skelim stret"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rong man"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:19.497645716Z",
+  "model": "glm-5.3"
+}

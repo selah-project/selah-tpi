@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela pes",
+      "rationale": "חן em i marimari \/ pes gut — idiom 'painim gut long ai bilong man'."
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Shaol i go long Yishai",
+      "rationale": "Shaol i tok dairek long Yishai long David."
+    }
+  ],
+  "translation": "Na Shaol i salim tok long Yishai, i tok olsem: Plas, larim David i sanap pastaim long mi, bilong em i painim gutpela pes long ai bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d7593d52ea881d4bdfd672b718ca18d236cfdb80cc8981e3a87b1b463b6a005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/16\/21-23.1792351721244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i sanap pastaim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "em i painim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gutpela pes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:41.245306366Z",
+  "model": "glm-5.3"
+}

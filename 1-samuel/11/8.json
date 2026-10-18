@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaunim",
+      "rationale": "muster\/census of the army: 300,000 Israel plus 30,000 Judah, counted at Bezek"
+    },
+    {
+      "kind": "crux",
+      "subject": "300,000",
+      "rationale": " enorm figures vs LXX 70,000; אלף may mean 'troop\/contingent' rather than a full thousand"
+    }
+  ],
+  "translation": "Na em i kaunim ol long Basek; na ol pikinini bilong Yisrael i stap tripela handet tausen, na ol man bilong Yuda teti tausen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/5-8.1792351656361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "na em i kaunim ol"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "long Basek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na ol i stap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ol man bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.363783380Z",
+  "model": "glm-5.3"
+}

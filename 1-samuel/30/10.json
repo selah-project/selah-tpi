@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "inap ol i no inap",
+      "rationale": "Hebrew says only 'who lagged behind in crossing'; incapacity is implied, supplied without brackets would overstate — marked as inference."
+    },
+    {
+      "kind": "measurement",
+      "subject": "400 \/ 200 men",
+      "rationale": "Explicit troop count, division of the force."
+    }
+  ],
+  "translation": "Na David i paitim wok bihain, em wantaim foapela handet man; na tupela handet man i sanap behain, ol man i pundaun long strong, inap ol i no inap go brass long ⟨את⟩ wara Besor.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/9-12.1792352015967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "i paitim wok bihain"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na foa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tupela handet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ol i pundaun long strong"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "go brass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:35.968916716Z",
+  "model": "glm-5.3"
+}

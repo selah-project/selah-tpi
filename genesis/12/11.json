@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Conjunction 'that' after 'mi save' has no Tok Pisin equivalent; elided."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew pronoun את 'you' — Tok Pisin word order requires 'yu' after 'mi save long'."
+    }
+  ],
+  "translation": "Na taim em i klostu long kirap long go long Mitsrayim, em i tokim Sarai, meri bilong em: Lukim, na yu save, mi save long yu em i meri swit long lukim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/12\/9-12.1792346439348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na taim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "long go"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "meri bilong em"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "swit"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "long lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:39.349307807Z",
+  "model": "glm-5.3"
+}

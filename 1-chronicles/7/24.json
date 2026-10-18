@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hibru i no gat tok 'i' namel long 'pikinini meri bilong em' na 'Sheera' — Tok Pisin i nidim predicate marker."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אזן שארה",
+      "rationale": "Uzen-Sheera — ples nem i kamap long Tanakh long dispela ves tasol."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותבן",
+      "rationale": "Sheera, wanpela meri, em i bilim ol ples — ol tanim tok i agar tok 'built' bilong em, o em i bosim ol man bilong bilim."
+    }
+  ],
+  "translation": "Na pikinini meri bilong em ⟨i⟩ Sheera; em i bilim ⟨את⟩ Bet-Horon daunbilo, na ⟨את⟩ Bet-Horon antapbilo, na ⟨את⟩ Uzen-Sheera.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82afb35ec53d4be1b9fda9111ba4d787a0f2b341136477fb20c53088a94f5ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/7\/21-24.1792361910181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "pikinini meri bilong em"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "em i bilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon daunbilo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bet-Horon antapbilo"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "antapbilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:30.182861111Z",
+  "model": "glm-5.3"
+}

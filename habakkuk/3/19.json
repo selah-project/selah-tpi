@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "habakkuk 3:19",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במותי",
+      "rationale": "'My high places': literal mountain heights vs euphoric triumph, or ironic echo of bamot (cultic shrines); rendered literally 'ol hapsait bilong mi'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חילי",
+      "rationale": "khail can mean strength, army, or wealth; 'strong bilong mi' chosen over 'ol samting bilong mi' (wealth)."
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח בנגינותי",
+      "rationale": "Closing superscription ('to the choirmaster, with my stringed instruments') is a psalm-header, not part of the poem's speech."
+    }
+  ],
+  "translation": "Yahwe Adonai — em i strong bilong mi; na em i putim ⟨em⟩ ol lek bilong mi olsem lek bilong ol female dia, na em i salim ⟨mi⟩ wokabaut long ol hapsait bilong mi. Bilong man i lidim singsing, wantaim ol string instrument bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/3\/17-19.1792357550747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na em i putim"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ol lek bilong mi"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "olsem lek bilong ol female dia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "ol hapsait bilong mi"
+    },
+    {
+      "surface": "ידרכני",
+      "gloss": "em i salim mi wokabaut"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lidim singsing"
+    },
+    {
+      "surface": "בנגינותי",
+      "gloss": "wantaim ol string instrument bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:50.748230578Z",
+  "model": "glm-5.3"
+}

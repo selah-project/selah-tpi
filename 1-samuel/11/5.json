@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Wanem i kirap",
+      "rationale": "Hebrew מה לעם is bare 'what [is] to the people?'; Tok Pisin needs a verb"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לעם",
+      "rationale": "Hebrew idiom 'what [is] to the people?' = 'what ails them'; rendered as question about their weeping"
+    }
+  ],
+  "translation": "Na lukluk, Shaol i kam bihain long ol bulmakau, i kam aut long gaden; na Shaol i tok: Wanem i kirap long ol manmeri, bilong wanem ol i krai? Na ol i storim long em ⟨את⟩ ol tok bilong ol man bilong Yaves.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/5-8.1792351656361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na lukluk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ol bulmakau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i kam aut long"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wanem i kirap"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "long ol manmeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ol i krai"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "na ol i storim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.362873272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימלטו",
+      "rationale": "'let escape\/be delivered' — KJV 'let alone', YLT 'let escape'; rendered 'lusim i stap'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added after 'livim' to make object explicit"
+    }
+  ],
+  "translation": "Na em i tok: Livim ⟨em⟩; man i no ken muvim ol bun bilong en. Na ol i lusim ol bun bilong en i stap wantaim ⟨את⟩ ol bun bilong profet we i kam long Shomron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/23\/17-20.1792353767968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "livim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "ken muvim"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ol bun bilong en"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "na ol i lusim"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ol bun bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong profet"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ol bun"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "bilong profet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "long Shomron"
+    }
+  ],
+  "timestamp": "2026-10-18T20:02:47.969877377Z",
+  "model": "glm-5.3"
+}

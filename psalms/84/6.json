@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel bilong tingting na laik long Tok Pisin, i no hat."
+    },
+    {
+      "kind": "crux",
+      "subject": "ol rot bilong wokabaut",
+      "rationale": "מסלות: ASV\/JPS 'highways (to Zion)' — rot bilong go long sios; BSB 'pilgrimage' — pasin bilong wokabaut long go."
+    }
+  ],
+  "translation": "Ol i gutpela tru, man ol i gat strong long yu, ol rot bilong wokabaut i stap insait long bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/84\/5-8.1792358776461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol i gutpela tru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ol rot bilong wokabaut"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "insait long bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:16.464960365Z",
+  "model": "glm-5.3"
+}

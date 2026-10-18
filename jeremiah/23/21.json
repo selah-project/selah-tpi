@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew has no concessive 'yet'; added to carry the contrast"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/רץ",
+      "rationale": "sent\/ran antithesis repeated with דבר\/נבא, parallelism lost partly in Tok Pisin"
+    }
+  ],
+  "translation": "Mi no salim ⟨את⟩ ol profet, tasol ol i ran; mi no tokim ol, tasol ol i autim tok profet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "587e3668655334fcb3a7f25a2129870534bc33b5d96cadde832d5ad94681bf44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/23\/21-24.1792355312976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "salim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol profet"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ol profet"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tasol ol"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tasol ol"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "autim tok profet"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:32.977458116Z",
+  "model": "glm-5.3"
+}

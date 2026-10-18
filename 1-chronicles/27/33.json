@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pren",
+      "rationale": "רעע is 'associate\/companion', rendered 'pren' in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker added, Hebrew lacks it."
+    }
+  ],
+  "translation": "Na Akitofel i givim tok bilong helpim long king, na Husai, man bilong Ark, em i pren bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5eae05505eef4b078990407a3196fcce766f50adad8ad18822d34166d5022c29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/27\/33-34.1792362208728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Na Akitofel"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "i givim tok bilong helpim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "na Husai"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "man bilong Ark"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pren"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:28.728657063Z",
+  "model": "glm-5.3"
+}

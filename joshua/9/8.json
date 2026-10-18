@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker bilong sentens 'ol wokman bilong yu mipela' — Hibru i no gat kopula"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Token אתם long ves em i proman 'yupela', i no mak bilong olgeta samting ⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol wokman bilong yu",
+      "rationale": "עבדיך em i 'ol servisen bilong yu'; olsem man i tanim tok i tok nating long ples bilong nem bilong man — tingting i stap"
+    }
+  ],
+  "translation": "Na ol i tok long Yehosua: Ol wokman bilong yu ⟨i⟩ mipela. Na Yehosua i tok long ol: Ol bilong wanem yupela, na long wanem ples yupela i kam?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "038edc3f04cad9586b576b3caf0ceb78d1a824af9c729e652740377ad6ea41a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/9\/8-8.1792362996746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ol wokman bilong yu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mipela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ol bilong wanem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "na long wanem ples"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "yupela i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:36.747658297Z",
+  "model": "glm-5.3"
+}

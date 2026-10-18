@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "wanpela tasol — 'one only', Hebrew i tok wanpela matet"
+    }
+  ],
+  "translation": "Na ⟨את⟩ nem bilong Aharon yu raitim long matet bilong Levi; long wanem, wanpela matet tasol long het bilong haus bilong ol papa bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "311995ed6b0b32fe61cdabbbf9bd2941a5e834f9f60b42746d99649d9a7c459f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/17\/17-20.1792349250851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong Aharon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "yu raitim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "matet bilong"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "matet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela tasol"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ol papa bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:30.852292959Z",
+  "model": "glm-5.3"
+}

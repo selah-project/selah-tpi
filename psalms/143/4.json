@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pen pen olgeta",
+      "rationale": "עטף literal em i 'karim klos \/ kilim olgeta' — ruak i tanim olsem man i wrap up i no inap — 'pen pen olgeta' i tanim piksa tasol."
+    },
+    {
+      "kind": "addition",
+      "subject": "nogut",
+      "rationale": "ישתומם em i 'stun \/ no gat strong' — 'nogut' i strongim tok, Hibru i no gat em."
+    }
+  ],
+  "translation": "Na ruak bilong mi i pen pen olgeta long mi; bel bilong mi insait long mi i berk olgeta nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/143\/1-4.1792359272986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "i pen pen olgeta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "insait long mi"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "i berk olgeta nogut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:32.987999145Z",
+  "model": "glm-5.3"
+}

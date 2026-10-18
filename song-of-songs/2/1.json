@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "Probable meadow-saffron\/crocus, traditionally 'rose'; rendered generic 'plaua' with loss of the specific flower"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Tok Pisin predicate marker required; Hebrew has pronoun only"
+    },
+    {
+      "kind": "alternative",
+      "subject": "speaker",
+      "rationale": "Some read v.1 as the woman speaking; others as the man quoting her — voice assignment is debated"
+    }
+  ],
+  "translation": "Mi ⟨em i⟩ plaua bilong Saron, lili bilong ol vali.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/2\/1-4.1792360453722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "plaua"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "bilong Saron"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "lili"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "bilong ol vali"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:13.722784006Z",
+  "model": "glm-5.3"
+}

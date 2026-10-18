@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 33:25",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai … ?",
+      "rationale": "Hebrew ends with the verb תירשו; Tok Pisin question form and future marker added to carry the rhetorical question"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol piksa",
+      "rationale": "גלולים literally 'round logs', i.e. idols — 'piksa' (carved image) chosen for the visible object"
+    },
+    {
+      "kind": "you",
+      "subject": "long ol",
+      "rationale": "Adonai Yahwe addresses the inhabitants of the land of Israel directly through the prophet"
+    }
+  ],
+  "translation": "Olsem, yu tok long ol: Adonai Yahwe i tok olsem: Yupela kaikai wantaim blut, na yupela antapim ol ai bilong yupela long ol piksa bilong yupela, na yupela skerim blut — na bai yupela holim ⟨את⟩ graun?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1dd639c70eae9bc38f827517e9b76bcfed36093e2b8ebe75eded3ecd51e14f53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/33\/25-28.1792356647555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yu tok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yupela kaikai"
+    },
+    {
+      "surface": "ועינכם",
+      "gloss": "na ol ai bilong yupela"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "yupela antapim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "ol piksa bilong yupela"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "na blut"
+    },
+    {
+      "surface": "תשפכו",
+      "gloss": "yupela skerim"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "תירשו",
+      "gloss": "bai yupela holim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:47.556243164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Hibru i tok 'nus bilong en' — piksa bilong bel het; Tok Pisin 'maus bilong en' i holim piksa tasol i no eksak"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "כלה + ותאכל — 'olgeta' i soim fulness bilong kalamapim, no wanpela tok stret long Hibru"
+    }
+  ],
+  "translation": "Yahwe i pinisim ⟨את⟩ bel het bilong en, i kapsaitim long paia bilong maus bilong en; na i save mekim paia long Tsiyon, na paia i kaikai olgeta ol fandesen bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/9-12.1792360629537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "i pinisim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel het bilong en"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "bel het bilong en"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "i kapsaitim"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "long paia bilong"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "maus bilong en"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "na i save mekim paia"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na i kaikai olgeta"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "ol fandesen bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:09.538397199Z",
+  "model": "glm-5.3"
+}

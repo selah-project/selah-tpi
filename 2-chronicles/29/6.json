@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 29:6",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim strongpela nek",
+      "rationale": "ויתנו ערף literal idiom 'give the neck', i.e. turn the back; Tok Pisin keeps the body-part picture with 'strongpela nek' per D4c"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wokim olgeta nating",
+      "rationale": "מעל act covertly\/treacherously; no single Tok Pisin word covers 'act unfaithfully'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun added for ויעזבהו (forsake him); Hebrew suffix has no free-standing Tok Pisin equivalent"
+    }
+  ],
+  "translation": "Bihain long ol mama i karim ol papa bilong yumi ol i wokim olgeta nating, ol i mekim olsem nogut tru long ai bilong Yahwe Elohim bilong yumi, na ol i lusim ⟨את⟩ em, na ol i karamapim ol pes bilong ol i go we long Miskan bilong Yahwe, na ol i givim ⟨את⟩ strongpela nek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "391e0de331f45bcce934fd3fef20ba13ba737cf8b03a08a7756e6cf55529f0ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/29\/6-7.1792363473411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ol i wokim olgeta nating"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ol mama i karim ol papa bilong yumi"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ol i mekim"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "olsem nogut tru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "ויעזבהו",
+      "gloss": "na ol i lusim ⟨את⟩ em"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "na ol i karamapim"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ol pes bilong ol"
+    },
+    {
+      "surface": "ממשכן",
+      "gloss": "i go we long Miskan bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "na ol i givim"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "strongpela nek"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:33.412383773Z",
+  "model": "glm-5.3"
+}

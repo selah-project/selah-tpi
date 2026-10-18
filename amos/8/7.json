@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגאון יעקב",
+      "rationale": "'by the pride of Jacob' — Yahwe swears by Jacob's glory (or His own glory in Jacob), not by any created thing."
+    },
+    {
+      "kind": "addition",
+      "subject": "sotru",
+      "rationale": "oath particle אם rendered by Tok Pisin oath word to keep the swearing formula."
+    }
+  ],
+  "translation": "Yahwe i singaut beten long bikpela nem bilong Yakov: Sotru, bai mi no lusim tingting oltaim long olgeta samting ol i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/8\/5-8.1792357301654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "i singaut beten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "long bikpela nem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sotru"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "bai mi lusim tingting"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "samting ol i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:41.655762631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bilong tut bilong elefant",
+      "rationale": "השן i tok 'tut' (eben tut bilong elefant = ivory); mi putim 'elefant' bilong klia."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pes⟩",
+      "rationale": "פני (ol pes) i stap long Hibru, tasol Tok Pisin i nidim wanpela tok bilong klia — bracketim samting we mi putim insait."
+    },
+    {
+      "kind": "you",
+      "subject": "bilong meri",
+      "rationale": "Man i tokim meri bilong em, ol samting bilong bodi bilong em i olsem olgeta bikpela samting."
+    }
+  ],
+  "translation": "Nek bilong yu i olsem taua bilong tut bilong elefant; ol ai bilong yu i olsem ol wara hol long Heshbon, klostu long dua bilong banis Bilong-Bat-Rabim; nokus bilong yu i olsem taua bilong Lebanon, we i lukluk antap long ⟨pes⟩ bilong Damesek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/5-8.1792360525633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "nek bilong yu"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "olsem taua"
+    },
+    {
+      "surface": "השן",
+      "gloss": "bilong tut bilong elefant"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ol ai bilong yu"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ol wara hol"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "long Heshbon"
+    },
+    {
+      "surface": "על",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dua bilong banis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bilong-Bat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Rabim"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nokus bilong yu"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "olsem taua"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "bilong Lebanon"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "antap long pes"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:25.634171288Z",
+  "model": "glm-5.3"
+}

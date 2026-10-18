@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokis",
+      "rationale": "ארון i wanpela bokis — no ken tanim olsem 'ark' long Inglis."
+    }
+  ],
+  "translation": "Na ol man Peliset i kisim ⟨את⟩ bokis bilong Elohim, na ol i karim i go long Eben-ha-Ezer i go long Asdod.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/5\/1-4.1792351563154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Na ol man Peliset"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis bilong Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "na ol i karim i go"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "long Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "i go long Asdod"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:03.155138788Z",
+  "model": "glm-5.3"
+}

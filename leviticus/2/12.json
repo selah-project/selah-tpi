@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "long Yisrael",
+      "rationale": "Lo i tok stret long ol man bilong Yisrael long pasin bilong bringim fisfrit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "korban",
+      "rationale": "קרבן i tok olsem 'samting yupela i bringim klostu' — Tok Pisin i holim nem 'korban' bilong lukim Hibru"
+    }
+  ],
+  "translation": "Korban bilong fisfrit yupela i ken bringim ol dispela long Yahwe, tasol ol i no ken go antap long altar long kamapim gutpela smel.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/2\/9-12.1792348216923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fisfrit"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "yupela i ken bringim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol dispela long Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ol i go antap"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "long smel"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "bilong kamapim gutpela ting"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:16.924217601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל \/ ישראל",
+      "rationale": "Yizreel ('God sows') sounds like Yisrael; both close the verse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ופקדתי",
+      "rationale": "פקד 'visit\/charge' rendered 'skelim' (judge\/avenge); literal is 'visit upon'."
+    },
+    {
+      "kind": "you",
+      "subject": "Hoshea",
+      "rationale": "Yahwe addresses the prophet with the naming command."
+    }
+  ],
+  "translation": "Na Yahwe i tokim em: Givim nem bilong em Yizreel, long wanem liklik taim moa na bai mi skelim ⟨את⟩ blut bilong Yizreel long haus bilong Yehu, na bai mi brasim sot king bilong haus bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "958d3b6c15167617e99ac0fa1adfc3a9bcbe857f73dc2a12fc5e2331f54a3d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/1\/1-4.1792357004394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "em"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "givim nem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik taim"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "na bai mi skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blut bilong Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blut"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "bilong Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na bai mi brasim sot"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "king"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bilong haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:44.395731401Z",
+  "model": "glm-5.3"
+}

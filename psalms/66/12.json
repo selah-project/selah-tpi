@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "אנוש em 'man i ken dai' — man ol i no strongpela; mi tanim 'ol man' tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרויה",
+      "rationale": "רויה i tok 'inap \/ fulap kaikai' (saturation) — KJV 'wealthy place', JPS 'abundance'"
+    }
+  ],
+  "translation": "Yu mekim ol man i raidim long het bilong mipela; mipela i go insait long paia na long wara, tasol yu bringim mipela i kam aut long ples bilong planti gutpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/9-12.1792358378971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "yu mekim ... i raidim"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "long het bilong mipela"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "mipela i go insait"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na long wara"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "tasol yu bringim mipela i kam aut"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "long ples bilong planti gutpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:38.973070789Z",
+  "model": "glm-5.3"
+}

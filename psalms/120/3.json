@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה יתן לך",
+      "rationale": "Sampela ol i rit olsem 'Bikpela bai givim wanem long yu?' (pel sen), sampela olsem 'em i givim wanem gutpela long yu?' (tok bilong kot)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i no tok husat i givim; Tok Pisin i nidim subjek"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yu tong bilong binaraut",
+      "rationale": "Tok i go stret long tong — kwesten bilong skelim"
+    }
+  ],
+  "translation": "Wanem samting bai ⟨ol⟩ i givim long yu? Na wanem samting moa bai ⟨ol⟩ i givim long yu, yu tong bilong binaraut?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/120\/1-4.1792359158602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨ol⟩ i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem samting moa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "⟨ol⟩ i givim moa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "yu tong"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bilong binaraut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:38.604868765Z",
+  "model": "glm-5.3"
+}

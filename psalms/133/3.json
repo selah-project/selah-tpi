@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טל חרמון על הררי ציון",
+      "rationale": "Hermon i stap long narapela hap, Tsiyon i stap long narapela — samaman i ting i wanpela konawa i go long tupela; narapela i tok 'olsem' tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צוה",
+      "rationale": "'i givim' — toksave i 'i tokim olsem em i mas kamap'; 'command' em i strongpela tok"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שירד",
+      "rationale": "Tok 'kam daunbilo' i kamap gen long v2 na v3 — oil na konawa i save kam daun daunbilo"
+    }
+  ],
+  "translation": "Olsem konawa bilong Hermon we i kam daunbilo long ol maunten bilong Tsiyon; long wanem, longen Yahwe i givim ⟨את⟩ blessing — laip olgeta taim, i no inap pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/133\/1-3.1792359201804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "olsem konawa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "we i kam daunbilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "longen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blessing"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "blessing"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "laip"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "i no inap pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:21.805567566Z",
+  "model": "glm-5.3"
+}

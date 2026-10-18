@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim objekt long verb 'painim'; Hibru i no gat pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ים ... מים",
+      "rationale": "tupela tok 'solwara' i kamap tupela taim — wokabaut i stap namel long olgeta hap, Tok Pisin i holim"
+    },
+    {
+      "kind": "you",
+      "subject": "ol man long banis Israel",
+      "rationale": "profet i tok long ol man bai painim tok bilong Yahwe tasol ol bai no inap painim"
+    }
+  ],
+  "translation": "Na ol bai wokabaut olgeta, hapsait long solwara i kamap long narapela solwara, na long hap nort i go raun long hap ist, ol bai ran raunraun long painim ⟨את⟩ tok bilong Yahwe, tasol ol bai no inap painim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f5da6ad650dbb48932aac2c2a58a335698b184334eae10d295d138eb8c5bf154",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/8\/12-12.1792363288311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "na ol bai wokabaut olgeta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "ים",
+      "gloss": "narapela solwara"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "na long hap nort"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go raun long"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "hap ist"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "ol bai ran raunraun"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "long painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol ol bai no"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "inap painim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:28.312156218Z",
+  "model": "glm-5.3"
+}

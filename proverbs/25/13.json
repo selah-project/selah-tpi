@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 25:13",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציר",
+      "rationale": "Lemma i tok 'hinge' o 'pen', tasol ol tanim tok i putim 'messenger' — tok i tanim wankain olsem Moselms 9:14."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש i klostu long 'win bilong laif \/ hangre' — Tok Pisin i gat 'bel' bilong tingting na laik."
+    },
+    {
+      "kind": "crux",
+      "subject": "כצנת שלג",
+      "rationale": "Ol i tok 'kol bilong snek', ol narapela i tok 'snek bilong kol' (samting man i dringim long kaikai taim) — tupela i save."
+    }
+  ],
+  "translation": "Olsem kol bilong snek long taim bilong katim kaikai, olsem man i save tok tru i go long ol i salim ⟨em⟩; na em i mekim bel bilong ol masta bilong en i slip swit gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8e93595ea61d5213bf857961d4115903817189a3586cae21d5ad24e37db7480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/13-16.1792359740198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצנת",
+      "gloss": "olsem kol bilong"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long taim bilong"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "katim kaikai"
+    },
+    {
+      "surface": "ציר",
+      "gloss": "man i salim tok"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "i save tok tru"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "long ol i salim ⟨em⟩"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na bel"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bilong ol masta bilong en"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "i slip swit gen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:20.199412804Z",
+  "model": "glm-5.3"
+}

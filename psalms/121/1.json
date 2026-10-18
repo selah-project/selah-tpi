@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למעלות",
+      "rationale": "'Song of ascents' — pilgrim songs; rendered literally 'of going up'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מאין",
+      "rationale": "can read as statement 'from whence my help comes' rather than question"
+    }
+  ],
+  "translation": "Olsem sing bilong go antap long ol hul. Mi sansim ol ai bilong mi long ol maunten — long wanem hap strongpela help bilong mi bai i kamap?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/121\/1-4.1792359156794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "bilong go antap long ol hul"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mi sansim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ol ai bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "long wanem hap"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "strongpela help bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:36.795868856Z",
+  "model": "glm-5.3"
+}

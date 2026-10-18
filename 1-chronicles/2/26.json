@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i kisim",
+      "rationale": "ותהי אשה אחרת i tok 'wanpela meri i kamap (bilong em)' — Tok Pisin i minim 'i kisim narapela meri'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "pronoun bilong klia pasin — Tok Pisin i nidim, Hibru i no gat"
+    }
+  ],
+  "translation": "Na Yerachmeel i kisim narapela meri, na nem bilong ⟨em⟩ em i Atara; ⟨em⟩ em i mama bilong Onam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b23c76f9a74a841c697b4c7c35ba0cd4976bf3eaaca13f84619a7c59ae2bbb6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/2\/26-27.1792363496667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na nem bilong ⟨em⟩"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Atara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨em⟩ em i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama bilong"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Onam"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:56.667951692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מזמור",
+      "rationale": "Instrumental music-poem rendered as singsing; the musical setting is lost"
+    }
+  ],
+  "translation": "Singsing bilong David, taim em i stap long wailples bilong Yehuda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/63\/1-4.1792358399546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "taim em i stap"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long wailples"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:59.547013197Z",
+  "model": "glm-5.3"
+}

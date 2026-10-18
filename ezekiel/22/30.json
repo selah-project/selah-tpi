@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש גדר גדר",
+      "rationale": "'a man walling a wall' — most read participle+object ('man i wokim banis'); some read the two as one office 'wall-builder'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Predicate marker required by Tok Pisin grammar before 'man i wokim banis' as the object of the search."
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא מצאתי",
+      "rationale": "Literally 'and I did not find'; rendered 'tasol mi no painim wanpela' — 'wanpela' supplied to close the clause."
+    }
+  ],
+  "translation": "Na mi painim long ol ⟨i⟩ man i wokim banis, i sanap long ples i bruk long ai bilong mi, bilong graun, bilong em i no bagarap; tasol mi no painim wanpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a745521b10d02e13b6e53539280c786b31ac28f31c0491f002fed31f64aba619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/22\/29-31.1792356410616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "na mi painim"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "i wokim banis"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "banis"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "long ples i bruk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long ai bilong mi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bilong em i no"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "bagarapim em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol mi no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "painim wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:46:50.617282354Z",
+  "model": "glm-5.3"
+}

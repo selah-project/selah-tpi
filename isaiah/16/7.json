@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשישי",
+      "rationale": "'Raisin-cakes' (KJV margin, JPS) vs 'foundations' (KJV, Geneva) — same consonants, different pointing."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ייליל...ייליל",
+      "rationale": "Twice-repeated howl verb echoes the wailing it names; Tok Pisin keeps the repetition with singaut krai."
+    }
+  ],
+  "translation": "Olsem na Moab bai singaut krai long Moab, olgeta bai singaut krai; long ol kek bilong raizin bilong Kir-Hareset yupela i ken krai; tru, ol i bagarap pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/16\/5-8.1792354120254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "bai singaut krai"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "long Moab"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "bai singaut krai"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "long ol kek bilong raizin"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Hareset"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "yupela i ken krai"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "ol i bagarap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:40.255754050Z",
+  "model": "glm-5.3"
+}

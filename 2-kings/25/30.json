@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר יום ביומו",
+      "rationale": "idiom 'the matter of a day in its day' — daily ration each day; literal repetition of יום kept"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaikai bilong oltaim",
+      "rationale": "verse specifies a fixed daily ration, measured by the king, for life"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikai",
+      "rationale": "ארחה is an allotted ration of food, not just any meal — kaikai bilong ol i givim long em carries the allotment sense"
+    }
+  ],
+  "translation": "Na kaikai bilong en — kaikai bilong oltaim — ol i givim ⟨את⟩ long em i kam long king: samting bilong wanpela de, long detpela de, olgeta de bilong laip bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/29-30.1792353784275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "na kaikai bilong en"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bilong oltaim"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ i kam long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bilong wanpela de"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "long detpela de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "bilong laip bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:04.276064596Z",
+  "model": "glm-5.3"
+}

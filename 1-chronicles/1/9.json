@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Verse is a name list — genealogy of the sons of Cush."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini man",
+      "rationale": "בני rendered 'pikinini man' — the Hebrew is family-line builder, not childhood."
+    }
+  ],
+  "translation": "Ol pikinini man bilong Kus: Seva, na Havila, na Savta, na Raama, na Savteka; na ol pikinini man bilong Raama: Seva na Dedan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/1\/9-12.1792361768700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Seva"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "na Havila"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "na Savta"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "na Raama"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "na Savteka"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Raama"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "na Dedan"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:08.700882020Z",
+  "model": "glm-5.3"
+}

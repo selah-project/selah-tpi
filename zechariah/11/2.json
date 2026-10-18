@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבצור",
+      "rationale": "'the inaccessible\/lofty one' — KJV 'forest of the vintage', JPS\/ASV 'strong forest', others 'fortified forest'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הילל ... הילילו",
+      "rationale": "Repeated howl-verb frames the verse in chiastic lament; Tok Pisin repeats 'singaut krai' to keep it."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Relative pronoun supplied for אשר; Tok Pisin needs it to link clause."
+    }
+  ],
+  "translation": "Singaut krai, ol cypress, bilong sedar i pundaun, bilong ol bikpela i bagarapim olgeta; singaut krai, ol oke bilong Bashan, bilong strongpela bus i pundaun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/11\/1-4.1792357719382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילל",
+      "gloss": "singaut krai"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "ol cypress"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "אדרים",
+      "gloss": "ol bikpela"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "i bagarapim olgeta"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "singaut krai"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "ol oke"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bilong Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bus"
+    },
+    {
+      "surface": "הבצור",
+      "gloss": "strongpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:39.383268778Z",
+  "model": "glm-5.3"
+}

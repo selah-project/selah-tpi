@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "no man living justified",
+      "rationale": "יצדק: 'kamap tsedek \/ i stret' — sampela tanim tok i tok 'justified' (pasin bilong kot), narapela 'righteous' (pasin bilong man)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "long ai bilong yu",
+      "rationale": "לפניך literal 'long fes bilong yu \/ len bilong yu' — Tok Pisin 'long ai bilong yu' i holdim mining bilong stap long fes bilong man."
+    }
+  ],
+  "translation": "Na no ken kamap long kot wantaim ⟨את⟩ wokman bilong yu, bilong wanem no wanpela man i gat laip i ken kamap tsedek long ai bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/143\/1-4.1792359272986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "long kot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wokman bilong yu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wokman bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "i ken kamap tsedek"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "long ai bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela man i gat laip"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gat laip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:32.987513708Z",
+  "model": "glm-5.3"
+}

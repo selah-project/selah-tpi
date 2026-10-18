@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהן",
+      "rationale": "'Zabud was priest' (pris) vs KJV 'principal officer' — Hebrew says kohén, rēʿéh hammelek is his title."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "Tok Pisin possessive bilong supplied for the construct chain kohén rēʿéh hammelek."
+    },
+    {
+      "kind": "measurement",
+      "subject": "officials list",
+      "rationale": "Verse belongs to the administrative roster of Solomon's officials."
+    }
+  ],
+  "translation": "Na Azarayahu, pikinini bilong Natan, i bosim ol man i stanap bilong wok; na Zabud, pikinini bilong Natan, i pris, pren bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/4\/5-8.1792352690048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Na Azarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ol man i stanap bilong wok"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "na Zabud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pren"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:50.049629024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i 'bel' long Tok Pisin pasin — tingting na laik i stap long bel, i no 'hat'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol wasman",
+      "rationale": "רעים i 'ol man i lukautim ol sipsip' — 'ol wasman' i holdim piksa bilong lukautim"
+    }
+  ],
+  "translation": "Na bai mi givim yupela ol wasman ol i wankain olsem bel bilong mi, na bai ol wasim ⟨את⟩ yupela wantaim save na save tingting stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8ff1da43b5b9f1edf590e6c17b6c7f1ead1add17687c259c67a12def594e5807",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/3\/13-16.1792354991056.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "na bai mi givim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ol wasman"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "ol i wankain olsem bel bilong mi"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "na bai ol wasim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "save"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "save tingting stret"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:11.058167445Z",
+  "model": "glm-5.3"
+}

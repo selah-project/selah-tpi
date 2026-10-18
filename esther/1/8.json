@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין אנס",
+      "rationale": "אין אנס: 'i no gat man i ken pasim' (no compulsion) — sampela i ritim 'i no gat pasa\/limit', olgeta i gat wankain as."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim pronoun 'em' long haus bilong king; Hibru i no raitim."
+    }
+  ],
+  "translation": "Na dring i wok olsem lo, i no gat man i ken pasim, bilong wanem king i bin stapim olsem long olgeta bikman bilong haus bilong ⟨em⟩, bilong wokim olsem laik bilong wanwan man na wanwan man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/1\/5-8.1792360888218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "dring"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "olsem lo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "man i ken pasim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "i bin stapim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bilong haus bilong em"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "olsem laik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong wanwan man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na wanwan man"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:28.219366044Z",
+  "model": "glm-5.3"
+}

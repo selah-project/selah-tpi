@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hibru i no gat kopula long 'זאת הארץ' — Tok Pisin i nidim 'em i'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bilong yu",
+      "rationale": "זרע i min 'sidin\/pikinini' — hia em i pikinini bilong man, olsem D4"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mose",
+      "rationale": "Yahwe i tok daun long Mose wantaim 'yu' — soim graun tasol i no gat go antap"
+    },
+    {
+      "kind": "mystery",
+      "subject": "lukim tasol, no ken go antap",
+      "rationale": "Yahwe i soim graun klostu tasol — heltim wanpela samting we i stap het"
+    }
+  ],
+  "translation": "Na Yahwe i tokim em: Graun ya, em i graun we mi swor long Avraham, long Yitsak, na long Yakov, mi tok: Mi bai givim long pikinini bilong yu. Yu lukim ⟨em⟩ wetim ai bilong yu, tasol yu no ken go antap long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/34\/1-4.1792350412860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi swor"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "long Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "long Yitsak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na long Yakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "long pikinini bilong yu"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "mi bai givim"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "yu lukim"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "wetim ai bilong yu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ken go antap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:52.861747799Z",
+  "model": "glm-5.3"
+}

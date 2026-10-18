@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew has no verb 'to be' here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אין עוד מלבדו",
+      "rationale": "lit. 'there is no still apart-from-him' — 'i no gat narapela wantaim klostu long em' keeps the exclusivity"
+    }
+  ],
+  "translation": "Yu ⟨em⟩ yu lukim pinis, bilong save senis, olsem Yahwe, em ⟨i⟩ wanpela Elohim, i no gat narapela wantaim klostu long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/4\/33-36.1792349832035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "yu lukim pinis"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilong save senis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wanpela Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat narapela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "klostu long em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:57:12.036919924Z",
+  "model": "glm-5.3"
+}

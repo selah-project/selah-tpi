@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ksen",
+      "rationale": "Sabsjek bilong sentens i kam long ves 18; Hibru vers 19 i no ritim nem bilong kersen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעטה\/יחגרה",
+      "rationale": "Tupela tok bilong klos — 'salapim' na 'tai bel' — ol i sanap wantaim long wanpela piksa"
+    }
+  ],
+  "translation": "Bai kesen i stap long em olsem klos we em i putim long bodi, na olsem belt we em i tai oltaim long bodi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/17-20.1792359049667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Bai … i stap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "olsem klos"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "we em i putim long bodi"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "na olsem belt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "em i tai long bodi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:49.668194067Z",
+  "model": "glm-5.3"
+}

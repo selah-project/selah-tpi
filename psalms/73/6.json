@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גאוה",
+      "rationale": "גאוה i gat tupela mining: praod o biknem — 'praod' long konteks hia."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ענק",
+      "rationale": "Hibru i tok 'ol i putim nekles long ol' (ענק = nekles); Tok Pisin i holim piksa bilong nek."
+    }
+  ],
+  "translation": "Olsem na, praod i bandap long nek bilong ol, na pasin bilong bagarapim i kalap klos long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/5-8.1792358509298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "i bandap long nek bilong ol"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "praod"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "i kalap klos"
+    },
+    {
+      "surface": "שית",
+      "gloss": "klos"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pasin bilong bagarapim"
+    },
+    {
+      "surface": "למו",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:49.298817315Z",
+  "model": "glm-5.3"
+}

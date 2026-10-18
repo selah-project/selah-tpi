@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/הצדיקו — רשע\/הרשיעו",
+      "rationale": "hitam: verb 'stretim' na nem 'stret' wankain rod; Tok Pisin i no inap holim dispela rod"
+    },
+    {
+      "kind": "addition",
+      "subject": "mas",
+      "rationale": "Hibru i no gat tok bilong 'mas'; ol man i skelim olsem lo i tok"
+    }
+  ],
+  "translation": "Sapos i gat pait tok namel long ol man, na ol i kam long kot na ol i skelim ⟨את⟩ olgeta, ⟨את⟩ ol mas tok olsem man stret em i stret, ⟨את⟩ na man nogut em i nogut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/25\/1-4.1792350182489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pait tok"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "na ol i kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ol i skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "⟨את⟩ ol mas tok olsem man stret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man stret"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "em i stret"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "⟨את⟩ na man nogut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man nogut"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "em i nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:02.490626497Z",
+  "model": "glm-5.3"
+}

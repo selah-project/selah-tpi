@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "build\/plant vs destroy\/uproot",
+      "rationale": "Paired antonyms in a balanced chiasm: wokim–bagarapim, plantim–rusim; the agricultural metaphor of uprooting is kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "נחמתי",
+      "rationale": "'repent\/relent' vs 'be sorry'; rendered 'mi sori pinis' — change of mind, not regret over wrongdoing."
+    }
+  ],
+  "translation": "Sapos yupela i stap gen long graun dispela, bai mi wokim ⟨את⟩ yupela, na mi no ken bagarapim; bai mi plantim ⟨את⟩ yupela, na mi no ken rusim; long wanem mi sori pinis long ol samting nogut we mi wokim long yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/42\/9-12.1792355756982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "gen"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "yupela i stap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "bai mi wokim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "ken bagarapim"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "bai mi plantim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "ken rusim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mi sori pinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:56.987458034Z",
+  "model": "glm-5.3"
+}

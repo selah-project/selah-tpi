@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שם משמן",
+      "rationale": "Wordplay שם\/שמן (nem\/oil) — ol lain i tanim: 'gutpela nem' o 'ol i save nem bilong em'; nating long Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oil",
+      "rationale": "משמן em i ol gutpela oil bilong paiaim long bodi, no kaikai oil tasol."
+    }
+  ],
+  "translation": "Gutpela nem i gutpela long sampela gutpela oil, na de bilong dai i gutpela long de bilong man i kamap long bodi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/1-4.1792360807598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "long sampela gutpela oil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na de"
+    },
+    {
+      "surface": "המות",
+      "gloss": "bilong dai"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "i gutpela long de"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "bilong man i kamap long bodi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:07.599013898Z",
+  "model": "glm-5.3"
+}

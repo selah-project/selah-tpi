@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew adjective clause 'tov me'od' needs predicate marker and subject bracket in Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "de namba sikis",
+      "rationale": "Day-count closes the creation week structure"
+    }
+  ],
+  "translation": "Na Elohim i lukim ⟨את⟩ olgeta samting we em i wokim, na lukim — em i gutpela tumas. Na apinun i kamap, na moning i kamap — de namba sikis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "468bd5962ebf2312cbbedef2005981114ef009c288c0423ff3065380f4d5a4b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/1\/29-31.1792346272123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na i lukim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting we em i wokim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "namba sikis"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:52.125243686Z",
+  "model": "glm-5.3"
+}

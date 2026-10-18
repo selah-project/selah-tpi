@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 2:23",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu ol",
+      "rationale": "Hebrew plural participle תעשון has no pronoun; Tok Pisin needs 'yu ol'."
+    },
+    {
+      "kind": "you",
+      "subject": "Eli i tokim ol pikinini man bilong en",
+      "rationale": "Direct address of Eli to Hophni and Phinehas."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "'from with' — evil report coming from all the people, kept with the prepositional ⟨את⟩ marker."
+    }
+  ],
+  "translation": "Na em i tokim ol: Olsem wanem, bai yu ol i mekim olgeta pasin olsem, we mi yet mi harim ⟨את⟩ toksait nogut bilong yu ol, i kam long ⟨את⟩ olgeta man bilong dispela lain?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/21-24.1792351482089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tokim ol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Olsem wanem"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yu ol i mekim"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "olgeta pasin olsem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mi harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toksait nogut bilong yu ol"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "toksait bilong yu ol"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "i kam long ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man bilong"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela lain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:42.091468995Z",
+  "model": "glm-5.3"
+}

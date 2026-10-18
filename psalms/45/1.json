@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על ששנים",
+      "rationale": "'Long ol lilis' — em i mak bilong miusik, i no klia sapos em i nim bilong ol enstrument o nim bilong singsing."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידידת",
+      "rationale": "Tok 'yedidot' (ol man i laikim) i stap long Tanakh long dispela ples tasol."
+    }
+  ],
+  "translation": "Long man bilong holim pas bilong ol singsing, long pasin bilong ol lilis, bilong ol pikinini bilong Korak — singsing bilong skulim man, singsing bilong ol man i laikim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/1-4.1792358295894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "long man bilong holim pas bilong ol singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "long pasin bilong"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ol lilis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bilong ol pikinini bilong"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bilong skulim man"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "bilong ol man i laikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:15.895435303Z",
+  "model": "glm-5.3"
+}

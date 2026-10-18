@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rhetorical question",
+      "rationale": "האתה תבנה — 'yu bilong wokim?' — Heb. expects the answer 'no'; KJV\/ASV keep the question, BSB turns it into 'Are you the one'"
+    },
+    {
+      "kind": "you",
+      "subject": "to David (through Nathan)",
+      "rationale": "direct address to David via messenger, the speech-act of the whole oracle"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew verb has no copula-like particle"
+    }
+  ],
+  "translation": "Go, na yu tok long wokman bilong mi, long David, olsem: Yahwe i tok: Yu ⟨i⟩ bilong wokim haus bilong mi, long mi ⟨i⟩ stap insait?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/5-8.1792352266573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na yu tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "long mi stap insait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:46.574670793Z",
+  "model": "glm-5.3"
+}

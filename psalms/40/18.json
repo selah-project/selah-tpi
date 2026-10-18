@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man no gat samting",
+      "rationale": "עני em i man i daunpela long bel bilong en na i no gat samting — Tok Pisin i no gat wanpela tok"
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong David long Yahwe",
+      "rationale": "ves i toktok dairek long God: 'yu, Elohim bilong mi, no ken leta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim 'em' long sentens 'yu ⟨em⟩ help bilong mi'"
+    }
+  ],
+  "translation": "Tasol mi — mi man no gat samting, na mi hangre bilong help — Adonai i tingting long mi. Yu ⟨em⟩ help bilong mi na man i pulim mi long beng: yu, Elohim bilong mi, no ken leta!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/40\/17-18.1792358191932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Tasol mi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "man no gat samting"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mi hangre bilong help"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "i tingting"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "help bilong mi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na man i pulim mi long beng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "leta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:31.933795499Z",
+  "model": "glm-5.3"
+}

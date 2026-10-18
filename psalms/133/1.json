@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i ... tru",
+      "rationale": "מה em i exclamation; Tok Pisin i nidim 'em i' na 'tru' bilong tokim strong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם יחד",
+      "rationale": "Dabela tok 'wantaim, olgeta i wan' — olsem KJV 'together in unity'; יחד em i 'wan' olgeta"
+    },
+    {
+      "kind": "you",
+      "subject": "ol man i ritim",
+      "rationale": "הנה 'Lukim' i save pulim man i ritim long lukluk"
+    }
+  ],
+  "translation": "Sing bilong ol go-antap, bilong David. Lukim, em i gutpela tru, na em i switpela tru, taim ol brata i stap wantaim, olgeta i wan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/133\/1-3.1792359201804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong ol go-antap"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "em i"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela tru"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na em i"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "switpela tru"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "stap"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ol brata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "olgeta i wan"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:21.804967230Z",
+  "model": "glm-5.3"
+}

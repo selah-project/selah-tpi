@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel paia",
+      "rationale": "אף em i nus\/nau — Tok Pisin 'bel paia' i klostu long mining bilong Hebmarkdownyu (nau i pulim bel)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "silip bilong ai",
+      "rationale": "רגע em i taim bilong kilim ai — taim liklik tru"
+    }
+  ],
+  "translation": "Long wanpela silip bilong ai tasol, bel bilong paia i stap long en; laip i stap long laik bilong em. Long apinun, krai i slip wantaim man; long moning, singsing i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/30\/5-8.1792358066291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "wanpela silip bilong ai"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nau bilong bel paia"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "laip"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "long laik bilong em"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "long apinun"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "slip wantaim"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "krai"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na long moning"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "singsing i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:26.291642837Z",
+  "model": "glm-5.3"
+}

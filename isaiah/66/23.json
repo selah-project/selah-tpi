@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bodi bilong manmeri",
+      "rationale": "כל בשר is literally 'all flesh'; Tok Pisin 'olgeta bodi bilong manmeri' keeps the bodily picture"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מדי־חדש בחדשו",
+      "rationale": "Hebrew idiom 'from new moon to its new moon' rendered 'long wanpela mun inap long narapela mun'"
+    }
+  ],
+  "translation": "Na bai i kamap: long wanpela mun inap long narapela mun, na long wanpela Sabat inap long narapela Sabat, olgeta bodi bilong manmeri bai i kam lukluk na pundaun long ples bilong mi, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/66\/21-24.1792354860406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na bai i kamap"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "long wanpela ... inap"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nupela mun"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "long narapela mun"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "na long wanpela ... inap"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "long narapela Sabat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bai i kam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bodi bilong manmeri"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "pundaun long ples bilong"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:00.407016269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לריק \/ לתהו והבל",
+      "rationale": "Pile-up of three near-synonymous emptiness words (riq, tohu, hevel) — tohu echoing Gen 1:2 — flattened into one string in translation."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטי",
+      "rationale": "'My judgment\/verdict' — read as vindication (my rightful due) or as the verdict rendered by God."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ופעלתי",
+      "rationale": "'My work\/deed' rendered as 'pay bilong wok' following the reward reading; Hebrew literally is just 'my work.'"
+    }
+  ],
+  "translation": "Na mi tok: Long nating mi traim hat; long samting nating na hevel mi pinisim strong bilong mi; tasol kot bilong mi em i stap wantaim ⟨את⟩ Yahwe, na pe bilong wok bilong mi wantaim ⟨את⟩ Elohim bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/49\/1-4.1792354602264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "long nating"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mi traim hat"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "long samting nating"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "na hevel"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mi pinisim"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kot bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "na pe bilong wok bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim bilong mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:42.265614410Z",
+  "model": "glm-5.3"
+}

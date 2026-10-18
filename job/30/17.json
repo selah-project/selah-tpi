@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וערקי",
+      "rationale": "קרק from ערק 'to gnaw': 'my gnawing pains' (KJV\/ASV) vs 'my eyelids' following the Aramaic sense (YLT) — mi tanim olsem 'ol i kaikai mi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לילה",
+      "rationale": "layil em i 'nait', tasol Hebru i save usim nait olsem taim bilong pen — mi holim 'nait' tasol."
+    }
+  ],
+  "translation": "Long nait, em i sotim ol bun bilong mi i go insait long bodi bilong mi, na ol i kaikai mi — ol i no inap go long slip.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/30\/17-20.1792360256737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ol bun bilong mi"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "i sotim i go insait"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "long bodi bilong mi"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "na ol i kaikai mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "inap go long slip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:56.737957644Z",
+  "model": "glm-5.3"
+}

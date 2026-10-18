@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "kaporet: 'lid\/cover of the Ark' (JPS) vs 'mercy seat' (KJV) vs 'place of atonement' (YLX); literal lid\/cover rendered as 'kapa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "paten bilong enters",
+      "rationale": "verse lists architectural plans and room inventory — a dimensioning\/templating text"
+    }
+  ],
+  "translation": "Na David i givim long Soltomon pikinini man bilong en ⟨את⟩ paten bilong enters na ⟨את⟩ ol haus bilong en, na ol stua bilong guda, na ol rum antap, na ol rum insait, na haus bilong kapa bilong holi samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0ce385e751e02e207d4938c181b027e85b3664c30a46d501a4be70c67b91a7cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/28\/10-11.1792363492852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na i givim"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "long Soltomon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paten"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "paten"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "enters"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol haus bilong en"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "ol haus bilong en"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "na ol stua bilong guda"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "na ol rum antap"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "na ol rum insait"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "insait"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na haus bilong"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapa bilong holi samting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:52.852768218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tingting bilong en",
+      "rationale": "שיחו em i tok bilong bel — kapsaitim aut tok; 'tingting' i klostu tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "wraup olgeta",
+      "rationale": "יעטף: sampela i tok 'em i weak nogut', narapela 'ol samting i wraupim em'"
+    }
+  ],
+  "translation": "Prai bilong man i pundaun long bel bilong en, taim em i wraup olgeta, na long pren bilang Yahwe em i kapsaitim tingting bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/102\/1-4.1792358913683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Prai"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bilong man i pundaun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "em i wraup olgeta"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na long pren bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "em i kapsaitim"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "tingting bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:33.684160017Z",
+  "model": "glm-5.3"
+}

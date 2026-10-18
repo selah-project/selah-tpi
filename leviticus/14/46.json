@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasim",
+      "rationale": "סגר em i 'salim\/pasim'; haus i pas olgeta taim ol skelim sik nogut."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hibru i usim wanpela man long partisip; Tok Pisin i needim 'man' olsem nem bilong man."
+    }
+  ],
+  "translation": "Na man i save go insait long haus, long olgeta de bilong taim ol i pasim ⟨את⟩ em, em i no klin inap long apinun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/14\/45-48.1792348534113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "man i save go insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de bilong"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "taim ol i pasim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "em i no klin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:35:34.114459880Z",
+  "model": "glm-5.3"
+}

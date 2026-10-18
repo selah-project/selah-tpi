@@ -1,0 +1,213 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבקר",
+      "rationale": "ol tanim tok i no wankain: 'bilong lukluk\/bekim tok' (to inquire) o 'bilong bihaininem laik bilong mi' — piksa bilong baekim tok stret"
+    },
+    {
+      "kind": "you",
+      "subject": "Uría pris",
+      "rationale": "king Akaz i tokim Uría pris stret long tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבקר",
+      "gloss": "moning — tok bilong taim, i no bulmakau long hia"
+    }
+  ],
+  "translation": "Na king Akaz i givim wanem i mas wokim ⟨את⟩ Uría pris, i tok olsem: Long bikpela altä, yu ken kukim ⟨את⟩ ofa bilong moning ol i kukim olgeta, na ⟨את⟩ minkha bilong apinun, na ⟨את⟩ ofa bilong king ol i kukim olgeta, na ⟨את⟩ minkha bilong en, na ⟨את⟩ ofa bilong olgeta manmeri bilong graun ol i kukim olgeta, na minkha bilong ol na nesk bilong ol; na olgeta blut bilong ofa ol i kukim olgeta, na olgeta blut bilong ofa, long en yu ken skelim-skulim; na altä bilong kopa bai i stap bilong mi, bilong mi bai lukluk.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/13-16.1792353627476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "i givim wanem i mas wokim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uría pris"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altä"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "yu ken kukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofa bilong moning ol i kukim olgeta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bilong moning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "minkha bilong apinun"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "bilong apinun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ofa bilong king ol i kukim olgeta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "minkha bilong en"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ofa bilong olgeta manmeri ol i kukim olgeta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "na minkha bilong ol"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "na nesk bilong ol"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilong ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "bilong ofa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "yu ken skelim-skulim"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "na altä"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bilong kopa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "bilong mi bai lukluk"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:27.478443480Z",
+  "model": "glm-5.3"
+}

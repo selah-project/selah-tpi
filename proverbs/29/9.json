@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשפט",
+      "rationale": "Niphal: 'wiseman contends in court with fool' (KJV\/ASV) vs 'fool judges the wise man' (YLT) — mi bihainim pasin bilong kot."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples malolo",
+      "rationale": "נחת em i 'malolo\/daunbilo', olsems 'no gat pes stret'."
+    }
+  ],
+  "translation": "Man i save, taim em ikot wantaim ⟨את⟩ man nogut — em i kros, o em i lap — i no gat ples malolo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/9-12.1792359753640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i save"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ikot wantaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man nogut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "em i kros"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "o em i lap"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ples malolo"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:33.641456194Z",
+  "model": "glm-5.3"
+}

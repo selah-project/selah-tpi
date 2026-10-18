@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל מות",
+      "rationale": "'no death' vs 'leads to death'; דרך נתיבה אל־מות may be read as one word אלמות 'no-death' (Geneva\/JPS) or אל 'unto' + מות 'death' (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨narapela⟩",
+      "rationale": "no word for 'other' in Hebrew; supplied to avoid implying the same path"
+    }
+  ],
+  "translation": "Long rot bilong tsedek i gat laip, na long rot bilong ⟨narapela⟩ pas ⟨i no⟩ gat dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/12\/25-28.1792359523936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i gat laip"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na long rot bilong"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨i no⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gat dai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:43.937073160Z",
+  "model": "glm-5.3"
+}

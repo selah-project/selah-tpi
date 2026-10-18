@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכבד לב",
+      "rationale": "literal 'heart became heavy'; Tok Pisin keeps the literal picture 'bel i kamap hevi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "gloss": "לב rendered as bel per D4, feelings\/will not the organ 'hat'"
+    },
+    {
+      "kind": "addition",
+      "subject": "man i go lukim",
+      "rationale": "Hebrew just says Pharaoh sent; object supplied for sense"
+    }
+  ],
+  "translation": "Na Para'o i salim man i go lukim, na lukluk — i no gat wanpela bulmakau na sipsip bilong Yisrael i dai. Na bel bilong Para'o i kamap hevi, na em i no larim ⟨את⟩ ol man go.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/9\/5-8.1792347513778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim man i go lukim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para'o"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukluk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dai"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "wanpela bulmakau na sipsip"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "i kamap hevi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bilong Para'o"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "larim go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:33.778988888Z",
+  "model": "glm-5.3"
+}

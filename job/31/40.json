@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "job 31:40",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באשה",
+      "rationale": "בָּאְשָׁה em i gras nogut we i smel nogut — 'pisin nogut bilong wokabaut long graun' i holim piksa, tasol smel nogut i lus"
+    },
+    {
+      "kind": "hapax",
+      "subject": "באשה",
+      "rationale": "Tok חוח i kamap moa, tasol בָּאְשָׁה i no kamap long narapela ples long Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "i save go ausait",
+      "rationale": "יצא em i tok bilong go ausait; KJV i putim 'grow' — mi holim pasin bilong Hibru"
+    }
+  ],
+  "translation": "Long ples bilong wit, sipsip i save go ausait olsem praun, na long ples bilong bali, ol pisin nogut bilong wokabaut long graun. Ol tok bilong Iyob i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd70bb2af65a55bc5b7b153ea39b588f20c1198cbe10dac3470326b8af3be43b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/31\/40-40.1792363420245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i save go ausait"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "praun"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na long ples bilong"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "bali"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "ol pisin nogut bilong wokabaut long graun"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "i pinis"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:40.245737258Z",
+  "model": "glm-5.3"
+}

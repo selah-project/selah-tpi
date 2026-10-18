@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man hungrihungri",
+      "rationale": "עני — man i daunpela tru long bel na ol samting; 'poor' long Inglis i nau hat"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זה עני",
+      "rationale": "Sampela i ting David em yet (psalm bilong em), narapela i tok em i man long olgeta taim"
+    }
+  ],
+  "translation": "Dispela man hungrihungri i singautut, na Yahwe i harim tok bilong em, na em i helpim em long olgeta trabel bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/5-8.1792358104221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "עני",
+      "gloss": "man hungrihungri"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "i singautut"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i harim tok bilong em"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "trabel bilong em"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "em i helpim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:04.223394972Z",
+  "model": "glm-5.3"
+}

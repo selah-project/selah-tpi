@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אֵי",
+      "rationale": "The interrogative אַי 'where?' appears only here in the Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew has no verb 'to be' in 'am I my brother's keeper'; Tok Pisin predicate marker supplied."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe to Kayin",
+      "rationale": "Direct question of Yahwe addressed to Kayin."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Kayin: We Hebel, brata bilong yu? Na em i tok: Mi no save. A mi ⟨i⟩ man bilong lukautim brata bilong mi?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/4\/9-12.1792346298191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "we"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata bilong yu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "man bilong lukautim"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:18.192513289Z",
+  "model": "glm-5.3"
+}

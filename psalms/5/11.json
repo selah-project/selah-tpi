@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hibru i no gat kopula long 'makim ol i gat sala'"
+    },
+    {
+      "kind": "crux",
+      "subject": "האשימם",
+      "rationale": "KJV 'destroy', ASV 'hold guilty', ylt 'declare guilty' — אָשַׁם em i 'mekim ol i gat sala', no 'kilim ol yet'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol i go agensim",
+      "rationale": "מָרוּ we 'bel i bileng, karai' — fig. 'rebelim'; Tok Pisin 'go agensim' i holim mining, lasim pic bilong nopela taswol"
+    }
+  ],
+  "translation": "Elohim, yu makim ol ⟨i⟩ gat sala; ol bai pundaun long ol plan bilong ol; long planti rong bilong ol yu rausim ol, bikos ol i go agensim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/9-12.1792357833364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "yu makim ol i gat sala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ol bai pundaun"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "long ol plan bilong ol"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "long planti"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "rong bilong ol"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "yu rausim ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ol i go agensim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:33.365659236Z",
+  "model": "glm-5.3"
+}

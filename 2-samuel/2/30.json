@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "Verse-final אֵל read as name Asahel (KJV, JPS) or as 'these' completing the count (LXX); taken here as Asahel."
+    },
+    {
+      "kind": "measurement",
+      "subject": "תשעה עשר",
+      "rationale": "Head-count of the fallen: nineteen plus Asahel, from David's men."
+    }
+  ],
+  "translation": "Na Yoav i go bek bihain long Avner, na em i sanapim ⟨את⟩ olgeta man bilong lain, na ol i skelim olgeta — long ol wokman bilong David, nainpela ten na wan man i lus, wantaim Asael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/29-32.1792352169757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Na Yoav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "i go bek"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "na em i sanapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta man bilong lain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man bilong lain"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "na ol i skelim"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "long ol wokman bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nainpela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wantaim Asael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:09.759013402Z",
+  "model": "glm-5.3"
+}

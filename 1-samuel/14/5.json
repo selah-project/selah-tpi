@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השן",
+      "rationale": "Tok i tok 'tut' (hap tok bilong ston i save kot); mipela tanim olsem 'han bilong ston' long ples bilong tut."
+    },
+    {
+      "kind": "crux",
+      "subject": "השן האחד מצוק",
+      "rationale": "Samting i tok 'tut, wanpela, han ston' — ol tanim tok i sagul; KJV i tok 'forefront', JPS 'crag'."
+    }
+  ],
+  "translation": "Diwai bilong wanpela han i stap long kauntri bilong not, ansait long Mikhmas, na diwai bilong narapela han i stap long kauntri bilong saut, ansait long Givʼa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/14\/5-8.1792351677639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "diwai bilong han"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bilong wanpela"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "han bilong ston"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "long kauntri bilong not"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ansait long"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "na bilong narapela"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "long kauntri bilong saut"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ansait long"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Givʼa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:57.640609325Z",
+  "model": "glm-5.3"
+}

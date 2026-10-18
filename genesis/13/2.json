@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hibru i no gat tok 'i stap' — כבד i wokim sentens yet, Tok Pisin i no nidim moa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i hevi",
+      "rationale": "כבד i tok 'hevi' — ol tanim tok i tok 'ric', tasol picsha bilong Hibru i 'hevi'"
+    }
+  ],
+  "translation": "Na Avram i hevi tumas — long ol animal bilong lukautim, long silva, na long gol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/13\/1-4.1792346431529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Na Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "i hevi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "long ol animal bilong lukautim"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "long silva"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "na long gol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:31.529775732Z",
+  "model": "glm-5.3"
+}

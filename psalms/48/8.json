@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "second person subject",
+      "rationale": "Hebrew verb תשבר carries the 'thou' by form; Tok Pisin needs explicit 'yu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תרשיש",
+      "rationale": "Tarshish as place name vs epithet for large merchant ships — kept as place name 'bilong Tarshish'."
+    }
+  ],
+  "translation": "Wantaim win bilong ist, yu brukim ⟨i⟩ go ol pipel ol sip bilong Tarshish.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/48\/5-8.1792358260383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "wantaim win"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "bilong ist"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "yu brukim"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ol sip"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "bilong Tarshish"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:40.384908437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i scar",
+      "rationale": "Hibru i tok 'bikos i bin scar' — subject i kamap long Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחק",
+      "rationale": "Tok 'rigar' i kamap tripla taim namel long stori (Stat 18:12-15) — gerua bilong Sara i wok long stat"
+    }
+  ],
+  "translation": "Tasol Sara i tok nogut, i tok olsem: Mi no rigar. Bikos em i scar. Na ⟨i⟩ tok: Nogat, tasol yu rigar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/18\/13-16.1792346504876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "i tok nogut"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "mi rigar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "em i scar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "yu rigar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:44.877314223Z",
+  "model": "glm-5.3"
+}

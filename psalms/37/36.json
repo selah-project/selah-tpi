@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew suffix -הו on ואבקשהו ('him') rendered as bracketed pronoun after the verb."
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא",
+      "rationale": "Negative particle folded into 'tasol i no gat'; Tok Pisin carries the negation once."
+    }
+  ],
+  "translation": "Na em i go pas, na luk, em i no stap; na mi painim ⟨em⟩, tasol i no gat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d31483af4c858ffdc38ab7d9242c2eb68dada047025f74ee7dd18aa94b287d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/35-36.1792363351332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "na em i go pas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "em i no stap"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "na mi painim ⟨em⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "i no gat"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:31.333265158Z",
+  "model": "glm-5.3"
+}

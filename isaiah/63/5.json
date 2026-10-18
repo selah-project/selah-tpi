@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סומך\/סמכתני",
+      "rationale": "Same verb סמך opens and closes the verse — 'no one to prop' vs 'my wrath propped me' — a chiasm of support lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשתומם",
+      "rationale": "'I was appalled\/stunned' (KJV, JPS) vs 'I sought' following Syriac\/Targum (Wycliffe 'I souyte')."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew ותושע is verb-only; Tok Pisin needs a subject marker."
+    }
+  ],
+  "translation": "Na mi lukluk gut, na i no gat man i helpim, na mi stap olsem man i no gat tingting, na i no gat man i holim; na han bilong mi ⟨em i⟩ bringim gutpela long mi, na kros bilong mi — em i holim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/63\/5-8.1792354796402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "Na mi lukluk gut"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "man i helpim"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "na mi stap olsem man i no gat tingting"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "man i holim"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "na ⟨em i⟩ bringim gutpela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "na kros bilong mi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "i holim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:56.402953304Z",
+  "model": "glm-5.3"
+}

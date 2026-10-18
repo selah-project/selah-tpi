@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "l\/7489 'to his own hurt'",
+      "rationale": "להרע either 'swears to hurt himself (and keeps it)' or 'swears to do evil (to another)'; I follow the first, oath to one's own disadvantage."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשבע 'to seven oneself'",
+      "rationale": "Hebrew verb for swearing is built on 'seven'; rendered simply 'swirim' (swear)."
+    },
+    {
+      "kind": "elision",
+      "subject": "נבזה … נמאס",
+      "rationale": "Two near-synonymous verbs 'despised … spurned' compressed into 'liklik tru na bagarap'."
+    }
+  ],
+  "translation": "Long ai bilong em, man i nogut em i liklik tru na em i bagarap, tasol ⟨את⟩ ol man i scare long Yahwe em i givim nem gut long ol; em i swirim sapos samting nogut i kamap long em, na em i no senis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7b6698188cf93983fd1de61d38b049d0960393d392da1de8c118db09ae95e248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/15\/4-4.1792363341394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "em i liklik tru"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "em i bagarap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i scare long Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ol man i scare long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "em i givim nem gut long ol"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "em i swirim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "sapos samting nogut i kamap long em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "em i senis"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:21.395279515Z",
+  "model": "glm-5.3"
+}

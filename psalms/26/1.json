@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפטני",
+      "rationale": "'Skelim mi' (judge me) vs 'raitim mi' (vindicate me) — Hebrew שפט can mean either; psalmist asks for a favourable verdict."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Psalm opens with direct imperative address to Yahwe."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Skelim mi, Yahwe",
+      "rationale": "Imperative summons opens the psalm, drawing the hearer into the plea."
+    }
+  ],
+  "translation": "Bilong David. Yahwe, skelim mi, long wanem mi wokabaut long pasin stret bilong mi, na long Yahwe mi stiri tru, bai mi no senis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/26\/1-4.1792358071901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bilong David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "skelim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "long pasin stret bilong mi"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mi wokabaut"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "na long Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi stiri tru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "senis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:31.901622922Z",
+  "model": "glm-5.3"
+}

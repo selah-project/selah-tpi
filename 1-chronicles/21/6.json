@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew omits explicit subject of פקד; Tok Pisin needs it."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נתעב",
+      "rationale": "Hebrew 'loathsome\/detestable'; rendered 'i nogut tru long ai' (very bad in his eyes)."
+    }
+  ],
+  "translation": "Na Levi na Binyamin em i no kaunim long ol; long wanem tok bilong king i nogut tru long ai bilong ⟨את⟩ Yoav.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/21\/5-8.1792362078955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "na Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "i kaunim"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "i nogut tru long ai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ long"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:18.956674950Z",
+  "model": "glm-5.3"
+}

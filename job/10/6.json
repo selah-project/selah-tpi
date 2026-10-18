@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rot nogut",
+      "rationale": "עון is perversity\/iniquity — crooked way; rendered as 'rot nogut' (bad road) to keep the moral-direction picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבקש\/תדרוש",
+      "rationale": "Two near-synonymous search verbs in parallel; second clause lacks the conjunction ו (asyndeton), kept as separate clause."
+    }
+  ],
+  "translation": "Bihain yu painimaut ⟨את⟩ rot nogut bilong mi, na long sang bilong mi yu stap painim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/5-8.1792359990777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "yu painimaut"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "rot nogut bilong mi"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "na long sang bilong mi"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "yu stap painim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:30.778378099Z",
+  "model": "glm-5.3"
+}

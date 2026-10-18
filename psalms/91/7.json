@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Hibru i no gat sabsjek bilong יגש; ⟨em⟩ i point long ol samting i pundaun"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wan tausen \/ ten tausen",
+      "rationale": "Namba ol i skelim — elef na revava, ol piksel bilong planti man"
+    }
+  ],
+  "translation": "Wan tausen bai i pundaun long sait bilong yu, na ten tausen long han sut bilong yu; tasol ⟨em⟩ i no ken kam klostu long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/91\/5-8.1792358854425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "bai i pundaun"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "long sait bilong yu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "wan tausen"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "na ten tausen"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "long han sut bilong yu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "i ken kam klostu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:34.433714574Z",
+  "model": "glm-5.3"
+}

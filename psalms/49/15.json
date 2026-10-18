@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מזבל לו",
+      "rationale": "'his dwelling' (Sheol is their dwelling) vs 'from their dwelling' (KJV) vs 'no habitation for it' (JPS) — readings differ sharply."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "Seol kept per D2 — not hel, not paia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעם\/רעה",
+      "rationale": "Death 'shepherds' them — the pastoral verb reversed against the flock image of verse 15a."
+    }
+  ],
+  "translation": "Olsem ol sipsip, ol i stretim ol long Seol; Ol i wokim ol olsem man bilong lukautim sipsip i bosim ol; Na ol stret man bai bosim ol long moning; Na sekin bilong ol bai bruk i go long Seol, Seol em i haus bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/13-16.1792358272556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "olsem ol sipsip"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Seol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ol i stretim ol"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Ol"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "i wokim ol olsem man bilong lukautim sipsip i bosim ol"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "na ... bai bosim ol"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ol stret man"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "na sekin bilong ol"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "bai bruk i go"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "long Seol"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:52.557866606Z",
+  "model": "glm-5.3"
+}

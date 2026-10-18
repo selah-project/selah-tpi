@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i lukluk · i harim",
+      "rationale": "Hebrew is verbless (eyes toward, ears toward); Tok Pisin needs verbs, bracketed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל ... אל",
+      "rationale": "Parallel repetition 'toward...toward' matches eyes\/ears pair."
+    }
+  ],
+  "translation": "Ol ai bilong Yahwe ⟨i⟩ lukluk long ol man stretpela, na ol aun bilong en ⟨i⟩ harim krai bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/13-16.1792358116612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ol ai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man stretpela"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "na ol aun bilong en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "krai bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:16.613556627Z",
+  "model": "glm-5.3"
+}

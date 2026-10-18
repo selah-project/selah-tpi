@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maus bilong bainat",
+      "rationale": "לפי חרב — 'long maus bilong bainat' — mining i bilong fes bilong bainat we i katim"
+    },
+    {
+      "kind": "crux",
+      "subject": "החרים",
+      "rationale": "חרם — rausim olgeta long cherem, samting ol i givim long God na ol i bagarapim olgeta — 'rausim olgeta' tasol i lusim dispela sidin"
+    }
+  ],
+  "translation": "Na em i kapsaitim han long ⟨את⟩ Agag, king bilong Amalek, bilong em i stap yet wara; na ⟨את⟩ olgeta man em i rausim olgeta long maus bilong bainat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/5-8.1792351742304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "i kapsaitim han long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "bilong Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap yet wara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "i rausim olgeta long paia bilong cherem"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "long maus bilong"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:02.305771442Z",
+  "model": "glm-5.3"
+}

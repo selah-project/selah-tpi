@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added: Hebrew אתו is preposition 'with' plus suffix, Tok Pisin needs explicit ⟨em⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברמה",
+      "rationale": "'On the height' (common noun) vs place-name Ramah — versions split."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליו ... עליו",
+      "rationale": "Repetition 'upon him' framing the scene: servants stationed over\/around Saul."
+    }
+  ],
+  "translation": "Na Shaul i harim olsem David i kamap save, na ol man wantaim ⟨את⟩ ⟨em⟩; na Shaul i stap long Gibea, ananit diwai aisel long Ramah, wantaim hanit bilong em long han bilong em, na olgeta boas bilong em i sanap klostu long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e0fee5931212b15d3fb5287ce4c971cb5fd1920ac7c121dd59b767f30c56b54c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/22\/5-8.1792351969593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na i harim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "i kamap save"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na ol man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩ ⟨em⟩"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "long Gibea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "diwai aisel"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "long Ramah"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "wantaim hanit bilong em"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "long han bilong em"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "boas bilong em"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "klostu long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:49.594251717Z",
+  "model": "glm-5.3"
+}

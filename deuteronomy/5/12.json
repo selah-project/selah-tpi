@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu mekim holi",
+      "rationale": "לקדשו i infinitive bilong pusim — Tok Pisin i nidim subjekt 'yu' bilong mekim senis klia, bracket no nidim bilong em i stap long inflection."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Lukautim",
+      "rationale": "שמור hapa em i 'שמור' (lukautim) — Eksodus 20:8 i tok 'זכור' (tingim); dispela senis bilong Devarim i mining olgeta i wankain pasin bilong holim de."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sabat",
+      "rationale": "שבת i nem, mi no tanim long 'de bilong malolo' — nem em i nem, D1\/D2 lo."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Lo i tok stret long yu — Yisrael."
+    }
+  ],
+  "translation": "Lukautim ⟨את⟩ de bilong Sabat bilong yu mekim holi, olsem Yahwe Elohim bilong yu i tokim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/9-12.1792349789143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de bilong Sabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "bilong Sabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "bilong yu mekim holi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "i tokim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:29.144992413Z",
+  "model": "glm-5.3"
+}

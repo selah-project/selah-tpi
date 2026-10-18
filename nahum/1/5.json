@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "Hebrew tevel is 'inhabited world' — rendered as graun olgeta, distinction lost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעשו\/התמגגו",
+      "rationale": "quake\/melt pairing, cosmic theophany language"
+    }
+  ],
+  "translation": "Ol maunten i guria long en, na ol hil i smelim nau, na graun i go antap long pes bilong en, olsem na graun olgeta na ol manmeri i stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/1\/5-8.1792357453145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "na ol hil"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "i smelim nau"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "long pes bilong en"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "olsem na graun olgeta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol manmeri i stap"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:13.145735511Z",
+  "model": "glm-5.3"
+}

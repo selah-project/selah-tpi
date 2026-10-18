@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 30:23",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "faiv handet \/ faifti na tu handet",
+      "rationale": "recipe quantities for the anointing oil, given as raw numbers; Hebrew names no unit here (shekels supplied only in v24)"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרור",
+      "rationale": "'flowing\/free myrrh' — rendered 'bilong wokabaut fri'; alternatives: 'liquid myrrh' (distilled) or 'free-running, spontaneous'"
+    }
+  ],
+  "translation": "Na yu yu ken kisim long yu olgeta ol hedbilong switpela spis: mora bilong wokabaut fri — faiv handet; na kenemon besem — han bilong en, faifti na tu handet; na ken bilong swit — faifti na tu handet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ca7f449bb67ba31d4cd792cbf18ae969f174cf477e6c2dfd67966d4d55174123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/30\/21-24.1792347922335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na yu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "yu ken kisim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ol switpela spis"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ol hedbilong"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "bilong wokabaut fri"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faiv"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "וקנמן",
+      "gloss": "na kenemon"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "besem"
+    },
+    {
+      "surface": "מחציתו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tu handet"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "na ken"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bilong swit"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tu handet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:22.336543455Z",
+  "model": "glm-5.3"
+}

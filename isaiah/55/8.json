@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap \/ wankain olsem",
+      "rationale": "Hebrew is verbless 'not my thoughts your thoughts'; Tok Pisin requires a predicate."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבותי\/מחשבותיכם · דרכיכם\/דרכי",
+      "rationale": "Chiastic mirror repetition of 'thoughts' and 'ways', kept by repeating the same Tok Pisin nouns."
+    }
+  ],
+  "translation": "Long wanem, ol tingting bilong mi i no wankain olsem ol tingting bilong yupela, na ol rot bilong yupela i no wankain olsem ol rot bilong mi, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/55\/5-8.1792354657095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ol tingting bilong mi"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ol tingting bilong yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ol rot bilong yupela"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ol rot bilong mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:37.096624889Z",
+  "model": "glm-5.3"
+}

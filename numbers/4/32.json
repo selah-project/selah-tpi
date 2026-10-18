@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 4:32",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inventory by name",
+      "rationale": "each item must be counted and assigned by name — a named muster list."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanwan",
+      "rationale": "distributive sense of בשמת 'by name' made explicit with 'wanwan'."
+    }
+  ],
+  "translation": "Na ol pos bilong yad i raun raun, na ol futesen bilong ol, na ol peg bilong ol, na ol rop bilong ol, na olgeta samting bilong ol, na olgeta wok bilong ol; na yu ken skelim ⟨את⟩ olgeta samting bilong wok bilong lukautim karim bilong ol, wanwan long nem bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d89c13fa2238e052428a20574275f21ddb0c2e8d99b0dcba88ac039baadcf687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/4\/29-32.1792348953333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמודי",
+      "gloss": "na ol pos bilong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i raun raun"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na ol futesen bilong ol"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "na ol peg bilong ol"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "na ol rop bilong ol"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "samting bilong ol"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "wok bilong ol"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "wanwan long nem bilong en"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "yu ken skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting bilong wok bilong lukautim karim bilong ol"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "olgeta samting bilong"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wok bilong lukautim"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "karim bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:42:33.334538161Z",
+  "model": "glm-5.3"
+}

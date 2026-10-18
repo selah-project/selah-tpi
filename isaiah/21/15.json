@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבות \/ חרב",
+      "rationale": "Sem rod 'bainat' i kamap tupela taim — planti kain olsem na ol i ranawe; Tok Pisin i holim dispela wantaim 'ol bainat' na 'bainat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevi",
+      "rationale": "כבד i min 'weval' — grivi man; 'hevi bilong pait' i holim piksa bilong weval."
+    }
+  ],
+  "translation": "Bikos long feis bilong ol bainat ol i ranawe; long feis bilong bainat we ol i pulimaut na long feis bilong bon we ol i binim, na long feis bilong hevi bilong pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/21\/13-16.1792354085987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long feis bilong"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ol bainat"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ol i ranawe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long feis bilong"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "we ol i pulimaut"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na long feis bilong"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bon"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "we ol i binim"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na long feis bilong"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "hevi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bilong pait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:05.988785275Z",
+  "model": "glm-5.3"
+}

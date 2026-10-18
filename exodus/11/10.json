@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב is heart; Tok Pisin 'bel' carries feeling\/will per D4, not 'hat'"
+    },
+    {
+      "kind": "crux",
+      "subject": "strongim",
+      "rationale": "ויחזק here is 'made strong\/strengthened'; most versions render 'hardened' — strengthening implies making resolute rather than making stubborn"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i go ausait⟩",
+      "rationale": "מארצו 'from his land' rendered with direction added for Tok Pisin clarity"
+    }
+  ],
+  "translation": "Na Mose wantaim Aharon i wokim ⟨את⟩ olgeta dispela ol singsing i go long ai bilong Farao; na Yahwe i strongim ⟨את⟩ bel bilong Farao, na em i no salim ⟨את⟩ ol pikinini bilong Yisrael i go ausait long graun bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "906ca885bed15f84686871f47ab741839238b14e541e5656b782c184a8ed1a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/11\/9-10.1792347464772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Na Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "wantaim Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta dispela ol singsing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "ol singsing"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "na i strongim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bilong Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salim i go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ausait long graun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:17:44.773842449Z",
+  "model": "glm-5.3"
+}

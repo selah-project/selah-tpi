@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foapela taun",
+      "rationale": "Counting summary of the four cities from Asher."
+    },
+    {
+      "kind": "substitution",
+      "subject": "graun bilong en",
+      "rationale": "מגרש is open pastureland around a city."
+    }
+  ],
+  "translation": "⟨את⟩ Khelkat wantaim ⟨את⟩ graun bilong en, na ⟨את⟩ Rekob wantaim ⟨את⟩ graun bilong en — ol taun foapela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/21\/29-32.1792350935849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Khelkat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rekob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Rekob"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ol taun"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foapela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:35.850566378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה em i tsedek (stretpela pasin), no ken senis long narapela tok tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "saveman",
+      "rationale": "ישעו — 'saveman\/deliverance' o 'helpim'; Elohim bilong saveman bilong en"
+    }
+  ],
+  "translation": "Em bai kisim bareka long ⟨את⟩ Yahwe, na tsedek long Elohim bilong saveman bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/24\/5-8.1792358067109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bareka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "long Elohim bilong"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "saveman bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:27.110065774Z",
+  "model": "glm-5.3"
+}

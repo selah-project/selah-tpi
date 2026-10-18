@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנני אני",
+      "rationale": "Hebrew doubles the pronoun — 'Behold, I, I myself' — emphatic self-announcement of the judge; kept as 'mi yet'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "traipela bodi \/ nupela",
+      "rationale": "בריה (fat) and רזה (thin) describe body condition; Tok Pisin needs short phrases where Hebrew has single adjectives."
+    }
+  ],
+  "translation": "Olsem, Adonai Yahwe i tok long ol: Lukim, mi yet, bai mi skelim namel long pikinini sipsip i gat traipela bodi na pikinini sipsip i nupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "034de501458457c9368dc5a6bc52ee852ba920072a5aa74e46e731a0a1e99fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/34\/17-20.1792356596325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "bai mi skelim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "שה",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "i gat traipela bodi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "שה",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "i nupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:49:56.326377730Z",
+  "model": "glm-5.3"
+}

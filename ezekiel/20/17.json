@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i sori",
+      "rationale": "חוס em i 'skelim wanpela ai' — ai i ken lukluk yet na no rausim; Tok Pisin 'i sori' i holim bikpela hap, tasol piksa bilong ai i lus"
+    },
+    {
+      "kind": "alternative",
+      "subject": "long bagarapim ol",
+      "rationale": "משחתם i ken min 'long ol i bagarap' o 'bilong no bagarapim ol' — mi usim pasin bilong KJV\/JPS 'from destroying them'"
+    }
+  ],
+  "translation": "Na ai bilong mi i sori long ol, long bagarapim ol, na mi no bin mekim ⟨את⟩ ol i pinis olgeta long wailbus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/20\/17-20.1792356356478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "na i sori"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai bilong mi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "long bagarapim ol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi bin mekim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "i pinis olgeta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long wailbus"
+    }
+  ],
+  "timestamp": "2026-10-18T20:45:56.479347798Z",
+  "model": "glm-5.3"
+}

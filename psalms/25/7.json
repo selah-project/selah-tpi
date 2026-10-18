@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol rong",
+      "rationale": "חטאות em i ol rong, em i tok bilong ol samting man i wokim nating"
+    },
+    {
+      "kind": "idiom",
+      "subject": "למען טובך",
+      "rationale": "long Tok Pisin, 'long gutpela pasin bilong yu' — tok bilong mune long Hibru"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "אתה i stap long Hibru, tasol mi no putim 'yu' long translation bikos em i no stret long Tok Pisin sentens"
+    }
+  ],
+  "translation": "Ol rong bilong taim yong bilong mi, na ol pasin bilong go het long narapela rot — no ken samapim olgeta ⟨em⟩; long strong bilong khesed bilong yu, samapim ⟨את⟩ mi; long gutpela pasin bilong yu, Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c0fd9e15a1bb0755c9c620e1e126453a2d67f0b9df3631458117bb3b55350eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/25\/6-7.1792363340647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "ol rong"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "bilong taim yong bilong mi"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "na ol pasin bilong go het long narapela rot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "samapim olgeta"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "long strong bilong khesed bilong yu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samapim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "long gutpela pasin bilong yu"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "long gutpela pasin bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:20.648389820Z",
+  "model": "glm-5.3"
+}

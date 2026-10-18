@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i olsem bel — laik, hangre, laip bilong man; i no 'soul'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim objekt mak; Hibru i no gat"
+    }
+  ],
+  "translation": "Bikos em i fulim ⟨em⟩ bel bilong man i gat strongpela laik, na bel bilong hangre i fulimapim gutpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/9-12.1792358956944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "i fulim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "bilong man i gat strongpela laik"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na bel"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "bilong hangre"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i fulimapim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:16.945541646Z",
+  "model": "glm-5.3"
+}

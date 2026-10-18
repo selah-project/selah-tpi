@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "I gat",
+      "rationale": "Verbless Hebrew exclamation; existential frame supplied."
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Contrast conjunction added to mark the implicit 'yet' between the two halves."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומצאתו",
+      "rationale": "Literally 'its excrement\/filth' — singular construct rendered 'doti bilong ol' to keep the bodily picture."
+    }
+  ],
+  "translation": "⟨I gat⟩ ol lain bilong wanpela taim: ol i klin long ai bilong ol, tasol doti bilong ol ⟨i⟩ no wasim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/9-12.1792359791418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ol lain bilong wanpela taim"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "i klin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong ol"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "tasol doti bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "i wasim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:11.419780625Z",
+  "model": "glm-5.3"
+}

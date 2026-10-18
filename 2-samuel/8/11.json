@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אתם em i ⟨את⟩ wantaim olgeta (ol kago bilong v.10) — Tok Pisin 'olgeta ⟨את⟩ tu' i holim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקדיש … הקדיש",
+      "rationale": "Tupela namba wan tok holi i kamap tupela taim — pasin bilong statim tok gen"
+    }
+  ],
+  "translation": "Olgeta ⟨את⟩ tu, king David i mekim ⟨em⟩ i kamap holi long Yahwe, wantaim silva na gol we em i mekim holi, we i kam long olgeta ol lain ol i winim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/8\/9-12.1792352210192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "i mekim ⟨em⟩ i kamap holi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na gol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "i mekim holi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "we i kam long olgeta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ol i winim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:50.194675928Z",
+  "model": "glm-5.3"
+}

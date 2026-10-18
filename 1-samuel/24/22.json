@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini bilong mi",
+      "rationale": "זרע is 'seed'; Tok Pisin 'pikinini bilong man' keeps the posterity sense without the plant word."
+    },
+    {
+      "kind": "idiom",
+      "subject": "katim olgeta",
+      "rationale": "כרת 'cut off' = destroy a lineage; literal 'katim' plus 'olgeta' keeps the cutting picture of the root כרת."
+    },
+    {
+      "kind": "addition",
+      "subject": "no ken",
+      "rationale": "Hebrew אם 'if' in oath formula implies negative command; Tok Pisin needs 'no ken' to carry the oath demand."
+    }
+  ],
+  "translation": "Na nau, sua long mi long Yahwe: no ken katim ⟨את⟩ ol pikinini bilong mi bihain long mi, na no ken rausim olgeta ⟨את⟩ nem bilong mi long haus bilong papa bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/24\/21-23.1792351904724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "yu katim olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong mi"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ol pikinini bilong mi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long mi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "yu rausim olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong mi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nem bilong mi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bilong papa bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:44.725113174Z",
+  "model": "glm-5.3"
+}

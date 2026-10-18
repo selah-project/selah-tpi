@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "rationale": "Hibru i no gat pronaun; Tok Pisin i nidim em bilong tok klia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Tok i kam tupela taim — moning tru moning — strongpela repitisen, em i stap long Tok Pisin tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק em i nem bilong pasin stret bilong Yahwe; mi no tanim olsem 'stretpela man'"
+    }
+  ],
+  "translation": "Yahwe i tsedek long namel bilong ⟨en⟩; em i no inap mekim rong. Long moning, long moning, em i givim ⟨את⟩ kot bilong em long lait; em i no lus; tasol ol man rong i no save long sem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zephaniah\/3\/5-8.1792357624199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "long namel bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "rong"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "kot bilong em"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "long lait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "i lus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol … no"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save long"
+    },
+    {
+      "surface": "עול",
+      "gloss": "man rong"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:04.199909201Z",
+  "model": "glm-5.3"
+}

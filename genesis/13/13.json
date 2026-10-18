@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ליהוה",
+      "rationale": "lit. 'to Yahwe' — rendered 'long ai bilong Yahwe' (before\/against Yahwe); some read 'wicked toward Yahwe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ליהוה",
+      "rationale": "'before\/against the LORD': KJV 'before', Geneva 'against' — direction of the preposition ל is ambiguous"
+    }
+  ],
+  "translation": "Na ol man bilong Sedom ol i nogut, na ol man i wokim sin long ai bilong Yahwe, tumas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/13\/13-16.1792346437466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "na ol man bilong"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ol i nogut"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na ol man i wokim sin"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "long ai bilong Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:37.466782291Z",
+  "model": "glm-5.3"
+}

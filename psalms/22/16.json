@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלקוחי",
+      "rationale": "dual 'jaws' (as taking food); rendered as nek bilong maun, the two jaws of the mouth"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "subject pronoun added — תשפתני is 2fs 'you lay me', addressed to Yahwe"
+    }
+  ],
+  "translation": "Strong bilong mi i drai olsem hap pot; tongo bilong mi i stap klostu long nek bilong maun bilong mi; na yu putim mi long das bilong dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/13-16.1792358001427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "i drai"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "olsem hap pot"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "tongo bilong mi"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "i stap klostu long"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "nek bilong maun bilong mi"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "na long das"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bilong dai"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "yu putim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:21.428725771Z",
+  "model": "glm-5.3"
+}

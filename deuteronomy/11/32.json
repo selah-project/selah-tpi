@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חקים",
+      "rationale": "חקים em i ol lo God i setim — mi usim 'lo bilong God' long Tok Pisin, i no gat wanpela tok yet."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dispela de",
+      "rationale": "Taim i makim — 'long dispela de' em i wanpela point bilong taim."
+    }
+  ],
+  "translation": "Na yupela mas lukaut bilong mekim ⟨את⟩ olgeta ol lo bilong God na ⟨את⟩ ol skelim pasin we mi bilong givim long pes bilong yupela long dispela de.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9978f515a4faab6153bf1da2c0d761a44c568117944be8af44aaca869a0b8224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/11\/29-32.1792349932594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na yupela mas lukaut"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol lo bilong God"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ol lo bilong God"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol skelim pasin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ol skelim pasin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "long pes bilong yupela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    }
+  ],
+  "timestamp": "2026-10-18T18:58:52.595531781Z",
+  "model": "glm-5.3"
+}

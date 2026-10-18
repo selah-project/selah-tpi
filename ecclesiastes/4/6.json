@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח = win\/ruak\/Spirit, wanpela tok — 'pulim ruak' i holim piksa bilong Heb רעות רוח"
+    },
+    {
+      "kind": "addition",
+      "subject": "moa long",
+      "rationale": "Heb 'gutpela X' comparative i no gat 'moa' — Tok Pisin i nidim"
+    }
+  ],
+  "translation": "Gutpela, wanpela hanful bilong malolo, moa long tupela hanful bilong wok hat na bilong pulim ruak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/4\/5-8.1792360760937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wanpela hanful"
+    },
+    {
+      "surface": "כף",
+      "gloss": "han"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "bilong malolo"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "tupela hanful"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "tupela han"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wok hat"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na bilong pulim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:20.938559457Z",
+  "model": "glm-5.3"
+}

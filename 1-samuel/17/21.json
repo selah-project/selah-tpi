@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מערכה לקראת מערכה",
+      "rationale": "Repetition of מערכה around לקראת mirrors line facing line; Tok Pisin repeats 'lain' to keep the echo."
+    }
+  ],
+  "translation": "Na Yisrael na ol Pelishtim i kirapim ol lain pait, lain i go long kap long lain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a589d7a43bbb8dcbabc4ec730cb845d5ac73333e53cbc748fac1b2e644c2fa16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/21-24.1792351772081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "i kirapim ol lain pait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na ol Pelishtim"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "i go long kap long"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:32.082376180Z",
+  "model": "glm-5.3"
+}

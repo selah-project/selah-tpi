@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הולך וגדול",
+      "rationale": "Infinitive construction 'going and growing' — Mordecai walks on and becomes great; repetition of הולך frames the verse, and גדול opens and closes it (inclusio), kept in the rendering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok bilong em i wokabaut i go",
+      "rationale": "שמעו הולך is literally 'his report walks\/goes' — Hebrew personifies the fame as moving; Tok Pisin 'i wokabaut i go' keeps the walking picture."
+    }
+  ],
+  "translation": "Long wanem, Modekai i bikpela man long haus bilong king, na tok bilong em i wokabaut i go long olgeta ol kantri, long wanem, man Modekai i wokabaut i go na i kamap bikpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c807f026a912beaeedbc87a3e8336eaefb96b238cdc2446232249052dfd4266d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/4-4.1792363420912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i bikpela man"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "na tok bilong em"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "i wokabaut i go"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ol kantri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "i wokabaut i go"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "na i kamap bikpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:40.912565942Z",
+  "model": "glm-5.3"
+}

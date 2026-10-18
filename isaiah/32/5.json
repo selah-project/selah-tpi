@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבל\/נדיב",
+      "rationale": "Sound-pair 'naval\/nadiv' (wicked vs generous) sets the contrast of vv.5–8; lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "כילי",
+      "rarity": "Rare word: 'miser\/niggard' vs some read 'churlish rich man'; rendered 'man kiamut'."
+    }
+  ],
+  "translation": "Man nogut bai i no moa ol i kolem ⟨em⟩ gutpela man bilong givim, na long man kiamut bai i no moa ol i tok ⟨em⟩ em i man gutpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/32\/5-8.1792354307240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ol i kolem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "long man nogut"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "gutpela man bilong givim"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "na long man kiamut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "man gutpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:47.241297082Z",
+  "model": "glm-5.3"
+}

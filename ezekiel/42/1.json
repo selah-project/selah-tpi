@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הגזרה",
+      "rationale": "'ples ol i separetim' — Hebrew is 'the separated\/cut-off place', the temple reserve; some render 'the separate place' or 'the terrace'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Copula\/predicate marker supplied, Hebrew participle lacks it"
+    }
+  ],
+  "translation": "Na em i bringautim mi i go long holsaia bilong ausait, rot bilong go long not; na em i bringim mi i go insait long rum we ⟨i⟩ stap long frant bilong ples ol i separetim, na we ⟨i⟩ stap long frant bilong haus, long not.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/42\/1-4.1792356818320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "em i bringautim mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "holsaia"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "bilong ausait"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "bilong go long"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "not"
+    },
+    {
+      "surface": "ויביאני",
+      "gloss": "em i bringim mi insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "rum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "long frant bilong"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ples ol i separetim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na we"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "long frant bilong"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "not"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:38.321462610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "cutim kontrak",
+      "rationale": "Hebrev i tok 'karat berit' — cutim kontrak, bilong ol i cutim animal na wokabaut namel; Tok Pisin i save 'mekim kontrak' tasol mi holim piksa bilong cutim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sol",
+      "rationale": "נפש em i klostu long 'breth \/ laip'"
+    }
+  ],
+  "translation": "Na Yonatan i cutim kontrak wantaim David, bilong em i laikim ⟨את⟩ em olsem sol bilong em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/18\/1-4.1792351874925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Na i cutim"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "wantaim David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "bilong em i laikim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (David)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "olsem sol bilong em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:14.926569728Z",
+  "model": "glm-5.3"
+}

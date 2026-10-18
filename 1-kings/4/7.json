@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twelve officers, monthly rotation",
+      "rationale": "Counting twelve officials with a one-month-per-year provisioning rota."
+    },
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Hebrew has no verb 'had'; ולשלמה שנים עשר is literally 'and to Solomon twelve', so a possessive verb is supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלכל",
+      "rationale": "killel is 'sustain, maintain, provide food' — rendered givim kaikai, keeping the sustenance sense."
+    }
+  ],
+  "translation": "Na Salomo i gat twelvpela man i stanap long olgeta Yisrael, na ol i givim kaikai long ⟨את⟩ king na ⟨את⟩ haus bilong en; wanpela mun long wanpela yia i stap long wanpela man bilong givim kaikai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/4\/5-8.1792352690048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Na Salomo i gat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twelvpela (tu)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-ten)"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "man i stanap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "na ol i givim kaikai long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "long ⟨את⟩",
+      "marks": "haus bilong en"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong en"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "long wanpela yia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "bilong givim kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:50.050089874Z",
+  "model": "glm-5.3"
+}

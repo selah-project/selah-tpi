@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "katim skin bilong bel",
+      "rationale": "ערלת לבב — pasin bilong katim skin long bel, tok bilong pic; literal i 'skin nating long bel'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "wokim nek strong",
+      "rationale": "ערף קשה — nek strong, i min man i no ken hariap harim tok; Tok Pisin i holim piksa bilong nek"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yupela i ken katim",
+      "rationale": "tok bilong bosim Israel long wokim samting — imperative"
+    }
+  ],
+  "translation": "Na yupela i ken katim ⟨את⟩ skin bilong bel bilong yupela, na yupela i no ken wokim nek bilong yupela strong moa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/10\/13-16.1792349871708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "na yupela i ken katim skin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skin bilong bel bilong yupela"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "skin bilong"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "bel bilong yupela"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "na nek bilong yupela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "wokim strong"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    }
+  ],
+  "timestamp": "2026-10-18T18:57:51.709581850Z",
+  "model": "glm-5.3"
+}

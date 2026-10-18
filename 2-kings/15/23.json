@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 15:23",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "regnal dates",
+      "rationale": "Verse dates a king's reign by the regnal year of another king and its length, two years."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i kamap king",
+      "rationale": "Hebrew מלך is inceptive 'began to reign'; Tok Pisin expresses ascent to throne as 'came to be king'."
+    }
+  ],
+  "translation": "Long taim bilong fifti yia bilong Azarya, king bilong Yuda, Pekahya, pikinini bilong Menahem, i kamap king long Yisrael, long Shomron — tupela yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd3f895bcc1a425d25b6c98e1f690ed454cf698b5952c800eeccb1a01980e7f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/15\/23-24.1792363150278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "long taim bilong"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "bilong Azarya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i kamap king"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pekahya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "long Shomron"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "tupela yia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:10.279366778Z",
+  "model": "glm-5.3"
+}

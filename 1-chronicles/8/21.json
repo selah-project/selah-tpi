@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol pikinini man",
+      "rationale": "Hebrew בני is plural construct 'sons of'; Tok Pisin needs the plural marker"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Name list counting Benjaminite descent"
+    }
+  ],
+  "translation": "na Adajah, na Berajah, na Shimrat, ol pikinini man bilong Shimi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "698a5d97cd5c4b0978a38d40c586c15037aa2cf85d3be3295474a5a6f6300c08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/8\/21-24.1792361870779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "na Adajah"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "na Berajah"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "na Shimrat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:50.780285082Z",
+  "model": "glm-5.3"
+}

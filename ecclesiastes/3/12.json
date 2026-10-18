@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "בלבם in v.11 rendered 'long bel bilong ol' — Tok Pisin bel covers heart\/mind\/will, close to Hebrew לב breadth."
+    }
+  ],
+  "translation": "Mi save long olgeta i no gat gutpela long ol, tasol long hamamas na long wokim gutpela long laip bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47d838607d9eb90a7ca138616c1dcad25c238feef4e9c96884d8723f20a912a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/3\/9-12.1792360722932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mi save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "long hamamas"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na long wokim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "long laip bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:42.934040108Z",
+  "model": "glm-5.3"
+}

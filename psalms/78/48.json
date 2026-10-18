@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רשפים",
+      "rationale": "Sapot olsem kol bilong paia o laitning o faia-olon; KJV 'hot thunderbolts', JPS 'fiery bolts'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעירם \/ מקניהם",
+      "rationale": "Tupela tok i tok wankain klostu (bulmakau \/ ol animal bilong gaden) — pasin bilong statim tok i kamap tupela taim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לברד",
+      "gloss": "barad em i ais i faulap; Tok Pisin i gat wanpela tok, mi usim 'ol ston bilong ais'."
+    }
+  ],
+  "translation": "Em i givim ol bulmakau bilong ol long ol ston bilong ais, na ol sipsip na meme bilong ol long ol laitning bilong paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fe8470222415bbf9fb58c892d975dd3058748ee346bb86ce84700566f03f883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/48-48.1792363384363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "long ol ston bilong ais"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ol bulmakau bilong ol"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "na ol sipsip na meme bilong ol"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "long ol laitning bilong paia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:04.363628621Z",
+  "model": "glm-5.3"
+}

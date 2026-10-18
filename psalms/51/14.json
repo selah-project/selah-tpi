@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ruak bilong givim long tudak",
+      "rationale": "נדיבה: KJV\/ASV 'free\/willing spirit', JPS 'noble spirit' — tpi ova i holim wanpela mining tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "amamas",
+      "rationale": "ששון em i amamas i kamap strong, singaut bilong bel"
+    }
+  ],
+  "translation": "Olsem na, givim bek long mi amamas bilong save bilong yu, na ruak bilong givim long tudak bai holimap mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/13-16.1792358313183.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "givim bek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "amamas"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "bilong save bilong yu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruak"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "bilong givim long tudak"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "bai holimap mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:33.184287669Z",
+  "model": "glm-5.3"
+}

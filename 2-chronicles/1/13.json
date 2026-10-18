@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 1:13",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hul",
+      "rationale": "לבמה em i 'hul bilong ofa', ples ol i wokim ofa long en; Tok Pisin i gat wanpela tok tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "i go",
+      "rationale": "Hebrew i tok 'i kam long hul … long Yerusalayim'; Tok Pisin i need mak bilong muv"
+    }
+  ],
+  "translation": "Na Shelomo i kam ⟨i go⟩ long hul, we i stap long Gibon, i go long Yerusalayim, i go ausait long ai bilong haus sel bilong miting; na em i king long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/1\/13-16.1792362252957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na … i kam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "long hul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we i stap long"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "i go ausait long ai bilong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bilong miting"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na em i king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:24:12.958110924Z",
+  "model": "glm-5.3"
+}

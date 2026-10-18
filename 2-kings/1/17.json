@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 1:17",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "narapela pikinini man",
+      "rationale": "Hebrew says only 'a son'; Tok Pisin needs 'man' to make clear it means a male heir"
+    },
+    {
+      "kind": "crux",
+      "subject": "tupela yia bilong Yehoram",
+      "rationale": "whether the second year is counted by Judah's accession-era reckoning or coregency with Jehoshaphat; translators differ"
+    }
+  ],
+  "translation": "Na em i dai, olsem tok bilong Yahwe we Eliyau i tokim; na Yehoram i kamap king long ples bilong em, long nambapela yia bilong Yehoram, pikinini bilong Yehosafat, king bilong Yuda, long wanem narapela pikinini man i no stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d2c70f104436b2950a723657f711992ab0fa62f7b3c08490ef1b12d22a1038b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/17-18.1792353210396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Na em i dai"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "olsem tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyau"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na i kamap king"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong em"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "long yia bilong"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "bilong Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:30.396912501Z",
+  "model": "glm-5.3"
+}

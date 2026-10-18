@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Adonai Yahwe Tsebaot",
+      "rationale": "Direct petition addressed to Adonai Yahwe Tsebaot, Elohim of Yisrael"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/יכלמו ... חרפה\/כלמה",
+      "rationale": "Parallel roots of shame (בושׁ\/כלם) repeated across vv.7–8; Tok Pisin 'sem\/sem nogut' keeps the pair but loses root identity"
+    }
+  ],
+  "translation": "Ol man i wet long yu, Adonai, Yahwe Tsebaot, ol i no ken sem long bilong mi; ol man i painim yu, Elohim bilong Yisrael, ol i no ken sem nogut long bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/5-8.1792358451821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long bilong mi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ol man i wet long yu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "sem nogut"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long bilong mi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ol man i painim yu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:51.822081421Z",
+  "model": "glm-5.3"
+}

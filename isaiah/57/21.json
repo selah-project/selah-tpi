@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "salah",
+      "rationale": "שלום i wanpela tok: gutpela hap, stat, bel isi — Tok Pisin i no gat wanpela tok olgeta, mi holim 'salah' klostu long nois"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong mi",
+      "rationale": "suffix -י long אלהי, 'Eloa bilong mi' — Hebrew i holim long suffix tasol"
+    }
+  ],
+  "translation": "I no gat salah, Eloa bilong mi i tok, long ol man rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1df1ccde82d20782f67ff9e346ddfae75cea9130fb613192c3d4e50629719b88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/57\/21-21.1792354717072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloa bilong mi"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "long ol man rong"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:37.072894548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim objekt marker we Hibru i no gat long hia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meme meri",
+      "rationale": "Ez em i meme meri — nem bilong animal bilong Tes (D4b), i no man."
+    }
+  ],
+  "translation": "Na sapos presen bilong em i meme meri, em i bringim ⟨em⟩ klostu pastaim long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/3\/9-12.1792348234485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "עז",
+      "gloss": "meme meri"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "presen bilong en"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "em i bringim ⟨em⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "klostu pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:34.486974919Z",
+  "model": "glm-5.3"
+}

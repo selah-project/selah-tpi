@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "you",
+      "rationale": "ואתה תצוה — the address is to Moshe alone; singular 'yu', not the whole people."
+    },
+    {
+      "kind": "idiom",
+      "subject": "להעלת נר",
+      "rationale": "Literally 'to cause the lamp to go UP' (עלה = ascend), rendered 'bonim' — Hebrew speaks of raising the flame."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Direct second-person command: 'And you — you shall command the children of Israel.'"
+    }
+  ],
+  "translation": "Na yu mas givim ol komand long ⟨את⟩ ol pikinini bilong Yisrael, na ol bai kisim i kam long yu olis oil i klia, ol i pauenim gut, bilong lait, bilong bonim balus oltaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/27\/17-20.1792347886394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "mas givim ol komand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "na ol bai kisim i kam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olis"
+    },
+    {
+      "surface": "זך",
+      "gloss": "i klia"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ol i pauenim gut"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "bilong lait"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "bilong bonim"
+    },
+    {
+      "surface": "נר",
+      "gloss": "balus"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:46.395697575Z",
+  "model": "glm-5.3"
+}

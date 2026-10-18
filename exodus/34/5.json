@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok 'em' bilong tok klia se sanap wantaim Mose; Hibru i tok 'wantaim em' tasol."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe i kamdaun",
+      "rationale": "Yahwe i sanap wantaim Mose long maunten — tok i go stret long Mose."
+    },
+    {
+      "kind": "mystery",
+      "subject": "karautim long nem bilong Yahwe",
+      "rationale": "Nem bilong Yahwe bai i opim long ves 6 — olgeta man i wetim wanem nem man i karautim."
+    }
+  ],
+  "translation": "Na Yahwe i kamdaun long klaut, na em i sanap wantaim ⟨em⟩ long hap, na em i karautim long nem bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b979dfa7ed0b504af275711cd3fd3cc778850328720949595d5771685a5d0e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/34\/5-8.1792348059134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Na i kamdaun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "long klaut"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "na i sanap"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na i karautim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:39.135085996Z",
+  "model": "glm-5.3"
+}

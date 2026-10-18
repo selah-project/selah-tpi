@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 22:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol sta",
+      "rationale": "מסדות em i ol fodaesen — 'sta' i olgeta we Tok Pisin i save usim long fodaesen bilong haus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok bel",
+      "rationale": "גערה em i tok bilong wara i rausim man — 'tok bel' i olsem man i tok nogut long narapela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח אפו",
+      "rationale": "ruak bilong nos bilong en — piksa bilong man i bel nogut, was i kamap long nos; em i wanpela pasin bilong tok long Boas Stori"
+    }
+  ],
+  "translation": "Na ol gaten bilong solwara i kamap klia, ol sta bilong graun i kamap klia, long tok bel bilong Yahwe, long was bilong ruak bilong nos bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/13-16.1792352602346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "na ol i kamap klia"
+    },
+    {
+      "surface": "אפקי",
+      "gloss": "ol gaten"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bilong solwara"
+    },
+    {
+      "surface": "יגלו",
+      "gloss": "ol i kamap klia"
+    },
+    {
+      "surface": "מסדות",
+      "gloss": "ol sta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "בגערת",
+      "gloss": "long tok bel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "long was"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bilong ruak"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bilong nos bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:22.347224176Z",
+  "model": "glm-5.3"
+}

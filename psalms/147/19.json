@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yakov\/Yisrael",
+      "rationale": "Direct address of Israel as recipient of the word and ordinances."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Plural marker added for Hebrew plural constructs חקיו and משפטיו."
+    }
+  ],
+  "translation": "Em i autim ⟨את⟩ tok bilong en long Yakov, ⟨את⟩ ol rul bilong en na ⟨את⟩ ol kot bilong en long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/17-20.1792359335878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Em i autim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tok bilong en"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "long Yakov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ol rul bilong en"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "na ol kot bilong en"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "long Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:35.881825475Z",
+  "model": "glm-5.3"
+}

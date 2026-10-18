@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "preposition folded into 'i kamap long' — no separate Tok Pisin word"
+    }
+  ],
+  "translation": "Em i wokim kamap ⟨את⟩ gras bilong ol animal bilong lukautim, na ol gras kaikai bilong wok bilong man, bilong bringautim bret i kamap long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/13-16.1792358908146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "wokim kamap"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "bilong ol animal bilong lukautim"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "na ol gras kaikai"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "bilong wok"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "bilong bringautim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:28.148086031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 34:23",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "copulative 'as' added for the predicate noun 'shepherd'; Hebrew just has ל + noun"
+    },
+    {
+      "kind": "measurement",
+      "subject": "אחד",
+      "rationale": "explicit count: ONE shepherd, echoed in v.24's single prince"
+    }
+  ],
+  "translation": "Na bai mi kirapim wanpela wasman bilong ol olgeta antap long ol, na bai em wasim ⟨את⟩ olgeta — ⟨את⟩ wokman bilong mi, David; em bai wasim ⟨את⟩ olgeta, na em bai stap olsem wasman bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/34\/21-24.1792356617658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "na bai mi kirapim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "antap long ol"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wasman"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na bai em wasim"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wokman bilong mi David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong mi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "bai wasim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai stap"
+    },
+    {
+      "surface": "להן",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "olsem wasman"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:17.659423557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "",
+      "rationale": "Relativizer absorbed into 'bilong'; Tok Pisin needs no separate relative word here."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני מותו",
+      "rationale": "Literally 'before the face of his death', rendered 'bipo dai bilong em'."
+    }
+  ],
+  "translation": "Na yu kisim i go long papa bilong yu, na em i kaikai, bilong em i blessim yu long ai bilong em bipo dai bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/9-12.1792346847502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Na yu kisim i go"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "long papa bilong yu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na em i kaikai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "em i blessim yu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bipo"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "dai bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:27.503658859Z",
+  "model": "glm-5.3"
+}

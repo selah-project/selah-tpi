@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i needim objekt marker long 'tapim ⟨em⟩'; Hibru i no gat pronaun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "Dablim 'man man' olsem distributiv — 'wanwan man' i holim pasin"
+    }
+  ],
+  "translation": "Na wanwan man bilong ol pikinini bilong Yisrael, o bilong ol stranger i stap namel long ol, sapos em i holim long pas animal o pisin we i ken kaikai: em mas rausim ⟨את⟩ blut bilong en, na tapim ⟨em⟩ wantaim das.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/17\/13-16.1792348608093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bilong ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o bilong"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ol stranger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "i stap namel"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "i holim long pas"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "kaikai bilong holim"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pisin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we i ken"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "na rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blut bilong en"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blut bilong en"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "na tapim"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "wantaim das"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:48.093866898Z",
+  "model": "glm-5.3"
+}

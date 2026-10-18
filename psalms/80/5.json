@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשנת",
+      "rationale": "'smolder\/smoke (of anger)' — KJV\/ASV 'be angry', YLT 'burn', BSB 'smolder'; Tok Pisin keeps the smoke-picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct lament-address to Yahwe Elohim Tsebaot with a 'how long' question."
+    },
+    {
+      "kind": "substitution",
+      "subject": "paia i smok",
+      "rationale": "Hebrew verb is literally 'you smoke'; anger is supplied by context, smoke-shape kept."
+    }
+  ],
+  "translation": "Yahwe Elohim Tsebaot, i no long taim stret yu wok long mekim paia i smok ⟨i⟩ long praia bilong ol manmeri bilong yu!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/5-8.1792358608649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i no long taim stret"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "long wanem taim"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "yu wok long mekim paia i smok"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "long praia"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bilong ol manmeri bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:28.650040114Z",
+  "model": "glm-5.3"
+}

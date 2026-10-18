@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענה תענה · צעק יצעק · שמע אשמע",
+      "rationale": "Tripela infinitive absolute — infinitiv pastaim long vep — ol i stongim tok; Tok Pisin i gat \"tru\" long wanwan."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "Summa i tanim olsem \"bilong wanem, sapos\", tasol shape em i \"na sapos\" — clause i stap hia, no long ves 21."
+    }
+  ],
+  "translation": "Sapos yu pulapenim ⟨את⟩ em tru, na sapos em singaut tru long mi, mi bai harim tru singaut bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/21-24.1792347750604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "pulapenim"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yu pulapenim em tru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "singaut"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "em singaut tru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi bai harim tru"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "singaut bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:30.604986020Z",
+  "model": "glm-5.3"
+}

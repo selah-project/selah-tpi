@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "laif bilong mi",
+      "rationale": "Spika i toktok dairect long laif bilong en yet — pasin bilong toktok long bel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laif",
+      "rationale": "נפש em i win\/laif, i no 'soul' olsem Inglis; Tok Pisin 'laif bilong mi' i klostu."
+    }
+  ],
+  "translation": "Go bek, laif bilong mi, go long ples bilong malolo bilong yu, bikos Yahwe i mekim gutpela samting long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/116\/5-8.1792359089765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laif bilong mi"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "long ples bilong malolo bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "mekim gutpela samting"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:29.766023190Z",
+  "model": "glm-5.3"
+}

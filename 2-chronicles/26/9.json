@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong banis",
+      "rationale": "KJV tradition adds 'of the wall' to המקצוע; Hebrew says only 'the angle\/recess'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולעזיהו-חיל",
+      "rationale": "final verb suffix -ם 'them' (the towers) is rendered as bracketed ⟨ol⟩"
+    }
+  ],
+  "translation": "Na Uziya i wokim ol taua long Yerusalayim — long dua bilong kona, na long dua bilong vali, na long kona ⟨bilong banis⟩ — na i strongim ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "11919e7190248a6476666ea2c1b5d35395d2939050d6fd1d3c1037765629d06a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/26\/9-12.1792362695742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "ol taua"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "bilong kona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "bilong vali"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "kona ⟨bilong banis⟩"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "i strongim ⟨ol⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:35.742609954Z",
+  "model": "glm-5.3"
+}

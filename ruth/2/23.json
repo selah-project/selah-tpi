@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "was yet wantaim",
+      "rationale": "דבק i tok 'hangim wantaim, holim强'; 'was yet wantaim' i save tok long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong man bilong en",
+      "rationale": "חמותה i tok 'hait bilong en'; Tok Pisin i tok 'susa bilong man bilong en' (mother-in-law)"
+    }
+  ],
+  "translation": "Na em i was yet wantaim ol meri young bilong Boas long pikim kaikai i go het, inap long taim ol i pinisim kapsaitim barli na kapsaitim golum, na em i stop wantaim ⟨את⟩ susa bilong man bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d4e641031233f9a531f68609796ead298aea4ef68c2c3b3e6a50a8a7b0dc6ef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/2\/23-23.1792363425801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "i was yet wantaim"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "ol meri young"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "long pikim kaikai i go het"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long taim"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "ol i pinisim"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kapsaitim"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "barli"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "na kapsaitim"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "golum"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "em i stop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "susa bilong man bilong en"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "susa bilong man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:45.802359957Z",
+  "model": "glm-5.3"
+}

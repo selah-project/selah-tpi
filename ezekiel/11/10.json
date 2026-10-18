@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong mi, mi",
+      "rationale": "Hebrew כי אני יהוה lit. 'that I Yahwe'; Tok Pisin predikat marker na strong bilong tok i wantim dispela pasin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב \/ נפל",
+      "rationale": "Ves 8 ol i pret long bainat; hia olsem Yahwe i tokbek: dispela bainet em i kamap long ol yet — repetition bilong 'bainat' namel long 8–10."
+    }
+  ],
+  "translation": "Long bainat yupela bai i pundaun; long laget bilong Yisrael bai mi skelim yupela ⟨את⟩, na yupela bai i save long mi, bilong mi, mi Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/11\/9-12.1792356104965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "yupela bai i pundaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "laget"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "bai mi skelim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "na yupela bai i save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:41:44.966625604Z",
+  "model": "glm-5.3"
+}

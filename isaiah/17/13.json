@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 17:13",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאון\/ישאון",
+      "rationale": "Root שׁאה repeated: 'uproar' and 'they rush' — the nations become the noise itself; wordplay lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "וגער בו",
+      "rationale": "'He rebukes him\/it' — singular pronoun against plural nations; read as Yahwe rebuking the multitude, rendered with bracketed ⟨Em⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "גלגל",
+      "rationale": "'rolling thing': tumbleweed (KJV\/BSB) vs whirling dust (ASV\/JPS); rendered 'wilwil' (a thing that rolls)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered 'ruak' — wind\/breath\/Spirit as one word, per discipline."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sudden disappearance",
+      "rationale": "Verse withholds the agent of the rebuke — the destroyer is unnamed, only His effect shown."
+    }
+  ],
+  "translation": "Ol lain olgeta i raning olsem nois bilong planti wara, tasol ⟨Em⟩ i skruim tok long em, na em i ranawe i go longpela hap, na ol i stingim ⟨ol⟩ i go olsem pas bilong ol maunten long front bilong ruak, na olsem wanpela wilwil long front bilong bikpela win guria.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1eba63a3497c77aeb6ec83b0f83c491964bb75dfef2bee0e19b1ccf39713e5d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/17\/13-14.1792354077719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמים",
+      "gloss": "ol lain olgeta"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "olsem nois bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "i raning"
+    },
+    {
+      "surface": "וגער",
+      "gloss": "tasol ⟨Em⟩ i skruim tok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "na em i ranawe"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "i go longpela hap"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "na ol i stingim ol"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "olsem pas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bilong ol maunten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long front bilong"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "וכגלגל",
+      "gloss": "na olsem wanpela wilwil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long front bilong"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "bikpela win guria"
+    }
+  ],
+  "timestamp": "2026-10-18T20:07:57.719861185Z",
+  "model": "glm-5.3"
+}

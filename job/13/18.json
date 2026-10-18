@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stretpela man",
+      "rationale": "Hebrew verb אצדק 'to be right' needs a Tok Pisin predicate frame"
+    },
+    {
+      "kind": "crux",
+      "subject": "אצדק",
+      "rationale": "'I am righteous' (present, YLT\/ASV) vs 'I shall be justified' (future\/forensic, KJV\/JPS)"
+    }
+  ],
+  "translation": "Lukim, orait nau: mi bin setim kot bilong mi stret; mi save se mi yet i stretpela man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/13\/17-20.1792359992174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "orait nau"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "mi bin setim stret"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot bilong mi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "i stretpela man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:32.175065264Z",
+  "model": "glm-5.3"
+}

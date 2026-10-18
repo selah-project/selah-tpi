@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יטור",
+      "rationale": "נטר i tok bilong 'lukautim\/kenim' (guard); long hia em i holim bel nogut — literal 'em i no kenim kros olgeta taim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יריב",
+      "rationale": "ריב i tok bilong kot\/pait; 'paitim tok' i holim piksa bilong tanim tok olgeta"
+    }
+  ],
+  "translation": "Em i no save paitim tok ⟨i⟩ oltaim, na em i no save holim bel nogut olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/9-12.1792358882338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "paitim tok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "holim bel nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:02.338586554Z",
+  "model": "glm-5.3"
+}

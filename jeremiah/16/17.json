@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 16:17",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "haiten",
+      "rationale": "נסתרו (Niphal passive) i bin tanim olsem 'i no inap haiten' — Tok Pisin i no gat pasol gudpela long wok pasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסתרו\/נצפן",
+      "rationale": "Tupela tok bilong haiten i tanim klostu wankain — pasin bilong rit i repetim; Tok Pisin i usim 'haiten' tupela taim"
+    }
+  ],
+  "translation": "Bihainim: ol ai bilong mi i stap long olgeta rot bilong ol; ol i no inap haiten long pes bilong mi, na ol rong bilong ol i no inap haiten long fes bilong ol ai bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7021c1a1ed94eff917c4d3d8a3492aec69215d12f0915df3ab77daeed5c19f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/16\/17-20.1792355162901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihainim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ol ai bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דרכיהם",
+      "gloss": "rot bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נסתרו",
+      "gloss": "i no inap haiten"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "long pes bilong mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "נצפן",
+      "gloss": "i no inap haiten"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ol rong bilong ol"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ol ai bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:26:02.902145620Z",
+  "model": "glm-5.3"
+}

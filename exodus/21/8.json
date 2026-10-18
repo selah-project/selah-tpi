@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר לא יעדה",
+      "rationale": "Famous crux: KJV 'who hath not betrothed her' vs JPS 'who hath espoused her to himself' — the pointing of לא\/לו and the subject of יעדה divide translators."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baimim em bek",
+      "rationale": "פדה is ransom\/redemption — buying a person back out of bondage; 'baimim bek' carries the commercial core but not the technical redemption sense."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעה בעיני",
+      "rationale": "'Bad in the eyes of' — Hebrew idiom for displeasing; rendered 'i no stret long ai bilong'."
+    }
+  ],
+  "translation": "Sapos em i no stret long ai bilong bikman bilong en, we em i no bin makim em, em mas baimim em bek; em no gat strong long selim em long manmeri bilong narapela lain, bilong wanen em i giamanim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/21\/5-8.1792347796098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "i no stret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "bikman bilong en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "i bin makim em"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "em mas baimim em bek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "long manmeri"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "bilong narapela lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "gat strong"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "long selim em"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "bilong wanen em i giamanim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:16.099539300Z",
+  "model": "glm-5.3"
+}

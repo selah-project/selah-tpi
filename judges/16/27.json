@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 16:27",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs a subject for the verb; Hebrew fronts the noun in 'na haus i pulap' so the pronoun restates it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol hetman",
+      "rationale": "סרני (seranim) is the unique Philistine ruler-title, related to an axle; 'hetman' loses the Philistine-specific office."
+    },
+    {
+      "kind": "measurement",
+      "subject": "klostu tri tausen",
+      "rationale": "Count of about 3000 men and women on the roof."
+    },
+    {
+      "kind": "alternative",
+      "subject": "rup",
+      "rationale": "הגג is the flat roof where spectators stood — 'antap long haus' also possible."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i pulap long ol man na ol meri, na longen olgeta ol hetman bilong ol Pelisitim i stap; na antap long rup i stap klostu tri tausen man na meri, ol i lukluk taim Simson i pilai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5dfd476ea9391c1a83837383f23401b1f5b37661737ab40f6c8042d654e52803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/16\/26-27.1792363056056.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Na haus"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i pulap"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "na ol meri"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na longen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "ol hetman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bilong ol Pelisitim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na antap long"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "rup"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "klostu tri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "na meri"
+    },
+    {
+      "surface": "הראים",
+      "gloss": "ol i lukluk"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "taim ... i pilai"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Simson"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:36.057292898Z",
+  "model": "glm-5.3"
+}

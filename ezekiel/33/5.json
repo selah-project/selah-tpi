@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nau",
+      "rationale": "נפש i klostu long 'nau\/wind bilong hed\/laik bilong lip', i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והוא נזהר",
+      "rationale": "KJV rit em olsem 'em i wasyet pinis'; JPS\/ASV rit em olsem 'sapos em i wasyet' — mi bihainim pasin bilong JPS"
+    }
+  ],
+  "translation": "Em i harim ⟨את⟩ nois bilong shofar, na i no wasyet — blut bilong em bai i stap long em; tasol sapos em wasyet, em bai salim ⟨את⟩ nau bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/33\/5-8.1792356656527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nois"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "bilong shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "wasyet"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blut bilong em"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tasol sapos em"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "wasyet"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nau bilong em"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "em bai salim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:56.527972968Z",
+  "model": "glm-5.3"
+}

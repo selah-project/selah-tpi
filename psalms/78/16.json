@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol river",
+      "rationale": "נהרות 'streams\/rivers' rendered 'ol river' — the plural of abundance, water flowing like great rivers from one rock."
+    }
+  ],
+  "translation": "Na em i bringim ol wara i drip i kam aut long ston, na em i bringim ol wara i go daunbilo olsem ol river.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/13-16.1792358556588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "bringim … i kam aut"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ol wara i drip"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "aut long ston"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "bringim … i go daunbilo"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "olsem ol river"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ol wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:36.589181557Z",
+  "model": "glm-5.3"
+}

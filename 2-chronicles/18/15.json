@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "king to Mika",
+      "rationale": "The king directly rebukes and adjures Micaiah."
+    },
+    {
+      "kind": "substitution",
+      "subject": "swerim",
+      "rationale": "משביעך hiphil of שבע 'make swear' — Tok Pisin loanword keeps the oath sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד כמה פעמים",
+      "rationale": "Rhetorical exasperation 'until how many times', a Hebrew idiom of repetition rendered as 'how many times'."
+    }
+  ],
+  "translation": "Na king i tok long em: Hamas olgeta taim bai mi swerim yu bilong yu no ken tok long mi, tasol tok tru long nem bilong Yahwe?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3817883f182a303eb79215b321a0576fed0be41b44d0a9d47bef1995e78d931e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/18\/14-15.1792363481158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Hamas"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "taim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "swerim yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tok tru"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:41.158840754Z",
+  "model": "glm-5.3"
+}

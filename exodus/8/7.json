@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "Continuation of Moses' direct speech to Pharaoh, all 'bilong yu' forms."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממך ומבתיך... ומעבדיך ומעמך",
+      "rationale": "fourfold 'mi-\/' (from) chain reversed from v.5 order (servants\/people → houses\/servants\/people), a chiasm-like reversal lost in translation."
+    }
+  ],
+  "translation": "Na ol frok bai lus long yu, na long ol haus bilong yu, na long ol wokman bilong yu, na long ol manmeri bilong yu; tasol long wara ol bai stap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/5-8.1792347483906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "na ol bai lus"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ol frok"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "na long ol haus bilong yu"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "na long ol wokman bilong yu"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "na long ol manmeri bilong yu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ol bai stap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:03.907577200Z",
+  "model": "glm-5.3"
+}

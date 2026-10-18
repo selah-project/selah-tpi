@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to ol man save \/ to reader",
+      "rationale": "Closing summons of the psalm: a question that calls the hearer to attend"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew uses the participle with a relative sense; Tpi needs the pronoun"
+    }
+  ],
+  "translation": "Husat i man save, em i ken lukautim gut ol dispela samting, na ol bai save tingting bitim long ol khesed bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a21e665bc73bc95b50f307edc276b79471371200406a43bb2a3e2c7db17a02f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/41-43.1792358998826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "man save"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "i ken lukautim gut"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "bai save tingting bitim long"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ol khesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:58.827925159Z",
+  "model": "glm-5.3"
+}

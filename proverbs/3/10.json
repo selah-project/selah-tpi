@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יפרצו",
+      "rationale": "'Break out\/burst' for wine vats — rendered as vats bursting and spilling out."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wain",
+      "rationale": "תירוש is fresh grape-juice just squeezed, not necessarily fermented wine."
+    }
+  ],
+  "translation": "Na ol stohaos bilong yu bai fulap olgeta, na ol barrel wain bilong yu bai bruk i go aut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/9-12.1792359376541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "bai fulap olgeta"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "ol stohaos bilong yu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "oltaim, olgeta"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na wain"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "ol barrel bilong yu"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "bai bruk i go aut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:16.544936894Z",
+  "model": "glm-5.3"
+}

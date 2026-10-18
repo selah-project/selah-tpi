@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבר",
+      "rationale": "'vegetable lye\/soap' — translations split between 'as with lye' (JPS) and 'thoroughly' (KJV, adverb from כבר 'completely')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tin",
+      "rationale": "בדיל literally 'tin', figuratively cheap alloy removed in smelting; some render 'alloy\/impurities'."
+    }
+  ],
+  "translation": "Na bai mi turnim bek han bilong mi long yu, na bai mi rifainim olsem sop ol kruhok bilong yu, na bai mi rausim olgeta ol tin bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/25-28.1792353794572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "na bai mi turnim bek"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "na bai mi rifainim"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "olsem sop bilong wasim"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "ol kruhok bilong yu"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "na bai mi rausim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "ol tin bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:14.572771066Z",
+  "model": "glm-5.3"
+}

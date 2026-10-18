@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 22:51",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "slip wantaim ol papa bilong en",
+      "rationale": "Hebrew euphemism 'slept with his fathers' = died; Tok Pisin keeps the idiom."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun of the passive burial supplied; Hebrew omits it."
+    }
+  ],
+  "translation": "Na Yehoshafat i slip wantaim ol papa bilong en, na ol i berim ⟨em⟩ wantaim ol papa bilong en long taun bilong David papa bilong en; na Yehoram pikinini bilong en i kamap king long ples bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/49-52.1792353222911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "na i slip"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "na ol i berim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na i kamap king"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:42.912427799Z",
+  "model": "glm-5.3"
+}

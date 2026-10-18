@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kala patpela",
+      "rationale": "ארגמן em i kala patpela (purple), tok bilong ol kala olsem long Tok Pisin i no gat wanpela tok liklik"
+    },
+    {
+      "kind": "idiom",
+      "subject": "binatang saní",
+      "rationale": "תולעת שני em i binatang liklik we ol i wokim kala retpela long en — literal 'binatang bilong kala ret'"
+    }
+  ],
+  "translation": "Na kala blu, na kala patpela, na kala ret bilong binatang saní, na garen linen waitpela, na ol hari bilong meme.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/35\/5-8.1792348015849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "kala blu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kala patpela"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "saní (kala ret)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "garen linen waitpela"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ol hari bilong meme"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:55.849881378Z",
+  "model": "glm-5.3"
+}

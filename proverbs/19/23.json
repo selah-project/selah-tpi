@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bikpelarespek",
+      "rationale": "יראת יהוה — 'pret' i smol tumuna; 'bikpelarespek' i holdim gelap bilong respek"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקד",
+      "rationale": "pakad: 'bihainim lukaut long man' o 'bringim pen' — hia negatif: nogut i no lukautim em"
+    }
+  ],
+  "translation": "Bikpelarespek long Yahwe i bringim laip; na man i kaikai kampo inap bai i stap, olgeta samting nogut bai i no kamap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/19\/21-24.1792359610480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "bikpelarespek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "i bringim laip"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na man i kaikai kampo inap"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "בל",
+      "gloss": "olgeta samting … no"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:10.481042287Z",
+  "model": "glm-5.3"
+}

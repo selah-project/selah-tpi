@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "counting",
+      "rationale": "Verse is explicitly about counting (ספר) thoughts against sand — tallying language."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקיצתי ועודי עמך",
+      "rationale": "'When I awake I am still with you' vs JPS 'were I to come to the end of them I would still be with You' (עודי as 'end')."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong solwara",
+      "rationale": "Hebrew says only 'sand'; sand source supplied for clarity."
+    }
+  ],
+  "translation": "Sapos mi kaunim ⟨את⟩ ol, ol i moa long ol sain bilong solwara; taim mi kirap, mi yet mi stap wantaim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/17-20.1792359295420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "mi kaunim ⟨את⟩ ol",
+      "marks": "ol tingting bilong Eloa"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ol sain bilong solwara"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ol i kamap moa"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "taim mi kirap"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mi stap wantaim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:55.421283497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 24:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן שבע שנים",
+      "rationale": "Hebrew says 'a son of seven years' — Tok Pisin renders age with 'gat … yia'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven years \/ forty years",
+      "rationale": "Verse gives the ages and reign-length of Joash"
+    }
+  ],
+  "translation": "Yoash i gat sevenpela yia taim em i stat long king, na em i king foti yia long Yerusalayim; na nem bilong mama bilong em i Tsivya, bilong Beersheba.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e9d9cadb6c6c72a9f813e7eed94591a6a6a4effbbe88cf89a6ebb192233216fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/24\/1-4.1792362595669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sevenpela yia taim em i stat long king"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "יאש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "em i stat long king"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na foti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "em i king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong mama bilong em"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong em"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "bilong Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:55.670253656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'young women' (ol yangpela meri) vs traditional 'virgins' (ol meri i no yet sleep long man) — Hebrew word means young woman, not explicitly virgin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמן תורק",
+      "rationale": "'oil poured out' kept literally; the Hebrew idiom names the thing by its action, preserved rather than paraphrased."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמניך\/שמן\/שמך",
+      "rationale": "root שמן\/שם tripled — oils\/name\/anointing — sound play lost in Tok Pisin."
+    }
+  ],
+  "translation": "Long smel bilong yu, ol oil bilong yu i gutpela; nem bilong yu em i olsem oil ol i kapsaitim aut; long dispela as ol yangpela meri i larim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/1-4.1792360441658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "long smel bilong yu"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ol oil bilong yu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olsem oil"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "ol i kapsaitim aut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dispela as"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ol yangpela meri"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "i larim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:01.658732523Z",
+  "model": "glm-5.3"
+}

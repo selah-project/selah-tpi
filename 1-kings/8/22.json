@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 8:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol han bilong en",
+      "rationale": "כפיו is literally 'palms' (kav of hollow hand); Tok Pisin renders the whole hands spread out."
+    },
+    {
+      "kind": "addition",
+      "subject": "i go antap",
+      "rationale": "Hebrew has only 'the heavens'; direction supplied for natural Tok Pisin."
+    }
+  ],
+  "translation": "Na Selomo i sanap pastaim long alta bilong Yahwe, stret long ai bilong olgeta lain bilong Yisrael, na em i opim ol han bilong en i go antap long heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/21-24.1792352912036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na em i sanap"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "stret long ai bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lain bilong ol manmeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "na em i opim"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ol han bilong en"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "long heven"
+    }
+  ],
+  "timestamp": "2026-10-18T19:48:32.037497009Z",
+  "model": "glm-5.3"
+}

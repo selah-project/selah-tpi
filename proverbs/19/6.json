@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני",
+      "rationale": "'askim pes bilong' — Hebrew idiom 'to seek the face of', i.e. beg favor from a great man"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨long⟩",
+      "rationale": "Tok Pisin preposition added before 'pes'; Hebrew construct פני binds directly"
+    }
+  ],
+  "translation": "Planti man i askim ⟨long⟩ pes bilong bikman i gat gutpela bel; na olgeta man i pren bilong man i givim presen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/19\/5-8.1792359656517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "planti man"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "i askim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "bikman i gat gutpela bel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "man i pren"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "i givim presen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:56.517825860Z",
+  "model": "glm-5.3"
+}

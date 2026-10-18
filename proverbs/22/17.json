@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yu",
+      "rationale": "אזן em i aus\/long bel; Tok Pisin i no gat gutpela tok bilong aus, olsem na bel (bel = tingting na laik, wankain long לב)"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Tok i toktok daun long skulman — skim bilong profet: 'skurim bel bilong yu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "skim",
+      "rationale": "Ol imperativ (skurim, harim, putim) i pulim rit long bihainim tok"
+    }
+  ],
+  "translation": "Skurim ⟨em⟩ bel bilong yu, na harim tok bilong ol man i save, na putim bel bilong yu long save bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/22\/17-20.1792359664459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "skurim"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na harim"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ol man i save"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "na bel bilong yu"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "putim"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "long save bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:04.460235839Z",
+  "model": "glm-5.3"
+}

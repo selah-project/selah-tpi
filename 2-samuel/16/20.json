@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Una givim skelim tingting",
+      "rationale": "Imperative summons calling Akitofel to counsel."
+    },
+    {
+      "kind": "you",
+      "subject": "Avshalom i tok long Akitofel",
+      "rationale": "Direct address of Absalom to Ahithophel."
+    }
+  ],
+  "translation": "Na Avshalom i tok long Akitofel: Una givim skelim tingting bilong yumi — wanem samting yumi ken wokim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/16\/17-20.1792352437076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Akitofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Una givim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong una"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "skelim tingting"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yumi ken wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:37.077288481Z",
+  "model": "glm-5.3"
+}

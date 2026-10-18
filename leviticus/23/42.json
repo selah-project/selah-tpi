@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sevenpela de",
+      "rationale": "Count of days for dwelling in booths."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סוכות\/בסוכות",
+      "rationale": "Chiasm-like repetition of 'in booths' at start and end; also the festival name Sukkot itself."
+    }
+  ],
+  "translation": "Long ol sukul yupela ken stap sevenpela de; olgeta man i bon long Yisrael, ol i ken stap long ol sukul.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/41-44.1792348734484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "long ol sukul"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "yupela ken stap"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "man i bon long"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ol i ken stap"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "long ol sukul"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:54.485339239Z",
+  "model": "glm-5.3"
+}

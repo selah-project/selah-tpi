@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 39:14",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Safan",
+      "rationale": "שפן here is a man's name, not the rock-rabbit animal of the same lemma."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong graun",
+      "rationale": "Hebrew says only 'the people'; 'bilong graun' added to show these are the people left in the land."
+    }
+  ],
+  "translation": "Na ol i salim na ol i kisim ⟨את⟩ Yirmeyahu long yad bilong kalabus, na ol i givim ⟨את⟩ em long Gedalyahu, pikinini bilong Akikam, pikinini bilong Safan, bilong bringim em i go long haus; na em i stap nau namel long ol manmeri bilong graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf1ae255eccc1ec5f88f109689a31ab6703f68ef5d6190be4fbe4516c0a474d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/39\/13-16.1792355657697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "na ol i salim"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ol i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "long yad"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "bilong kalabus"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Safan"
+    },
+    {
+      "surface": "להוצאהו",
+      "gloss": "bilong bringim em i go ausait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na em i stap"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T20:34:17.697860781Z",
+  "model": "glm-5.3"
+}

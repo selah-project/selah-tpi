@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok",
+      "rationale": "הדבר 'tok' — KJV\/JPS 'word\/tidings'; em i tok profet bilong Yona i go long king"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sutru",
+      "rationale": "מכסאו em i sutru i gat kalap (covered throne)"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויגע",
+      "rationale": "לשון 'touch' — tanim olsem 'i kamap na wok long', i no gat wanpela tok klia"
+    }
+  ],
+  "translation": "Na tok i kamap long king bilong Ninve, em i kirap long sutru bilong en, em i rausim bikpela klos bilong em i go ausait long em, em i taparapim ⟨את⟩ klos sak, na em i sindaun long das bilong paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a699e195a2bb123d5e886f95597b1d6db8478797ed4e1e849cabc0eb2fa34078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/3\/5-6.1792363311523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "i kamap na wok long"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "em i kirap"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "long sutru bilong en"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "em i rausim"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "bikpela klos bilong em"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "i go ausait long em"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "em i taparapim"
+    },
+    {
+      "surface": "שק",
+      "gloss": "klos sak",
+      "marks": "אֵין (אין את בפסוק זה)"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "em i sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "das bilong paia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:51.524205703Z",
+  "model": "glm-5.3"
+}

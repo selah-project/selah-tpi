@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pis",
+      "rationale": "שלום em i gutpela pasin olgeta — kisim, gutpela wok — 'pis' em i wanpela hap tasol."
+    },
+    {
+      "kind": "you",
+      "subject": "long David",
+      "rationale": "Akish i givim tok stret long David — go bek, go long pis."
+    }
+  ],
+  "translation": "Na nau, yu go bek, na yu go long pis; na yu no ken mekim samting nogut long ai bilong ol seren bilong ol Palistim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/29\/5-8.1792352106305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "yu go bek"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na yu go"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu mekim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "ol seren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bilong ol Palistim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:06.306641723Z",
+  "model": "glm-5.3"
+}

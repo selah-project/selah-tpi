@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 27:2",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stret",
+      "rationale": "הישר 'stret' — 'wokim i stret' long Tok Pisin; Inglis 'right' i no Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "משחיתים 'ol i bagarapim \/ wokim narakain' — pasin bilong raunim ol we"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Hibru משחיתים i no gat objekt; Tok Pisin i askim bilong tok klia"
+    }
+  ],
+  "translation": "Na em i wokim stret long ol ai bilong Yahwe, olsem olgeta samting we Uziyahu, papa bilong em, i wokim; tasol em i no go insait long bikpela haus bilong Yahwe; na ol manmeri i go yet bagarapim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d06ca378b6c0218db77dfef3dc5f6b91c2ad4b896a9c894c0470e36b1899f48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/27\/1-4.1792362648406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "stret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ol ai bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בא",
+      "gloss": "go insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bikpela haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na go yet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "bagarapim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:48.407297579Z",
+  "model": "glm-5.3"
+}

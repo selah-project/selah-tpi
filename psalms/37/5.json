@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גול",
+      "rationale": "'Rolim' (rolim rot bilong yu antap long Yahwe) — Inglis 'commit' indai, Hibru em i wok bilong rulim samting antap long narapela."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Ves i toktok long wanpela man — singaut bilong psalm."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Rulim … bel hevi",
+      "rationale": "Tupela tok bilong askim man long mekim — imperative."
+    }
+  ],
+  "translation": "Rulim ⟨את⟩ rot bilong yu antap long Yahwe, na bel hevi long em, na em bai wokim ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/5-8.1792358150662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Rulim"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rot bilong yu"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "na bel hevi long"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bai wokim ⟨את⟩",
+      "marks": "rot bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:50.662701300Z",
+  "model": "glm-5.3"
+}

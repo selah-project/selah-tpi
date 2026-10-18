@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "Hebrew we-plus-imperfect conditional has no separate 'if' word; Tok Pisin needs sapos"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object pronoun added because Tok Pisin verb wasim needs an object where Hebrew suffixes carry it on the noun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sik nogut",
+      "rationale": "הנגע is literally 'the blow\/affliction' — spot-mark on cloth rendered as sik nogut"
+    }
+  ],
+  "translation": "Na sapos ol klos, o ol srot stat, o ol srot kros, o wanpela samting bilong skin, we yu wasim ⟨em⟩, na sik nogut i go ausait long olgeta, bai ol wasim ⟨em⟩ seken taim, na em i kamap klin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3e7ae85110407e48b12eb068061435a8338fd170466248fd2c2aee280828af78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/58-59.1792362977949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "na sapos ol klos"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "ol srot stat"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ol srot kros"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "samting"
+    },
+    {
+      "surface": "העור",
+      "gloss": "bilong skin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "yu wasim ⟨em⟩"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "na i go ausait"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sik nogut"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ol wasim ⟨em⟩"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "seken taim"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na i kamap klin"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:17.950269389Z",
+  "model": "glm-5.3"
+}

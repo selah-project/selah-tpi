@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i mas avim predikat mak; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bikpelo bilong en",
+      "rationale": "בכור em i pikinini namba wan; Tok Pisin i no gat wanpela tok tasol"
+    }
+  ],
+  "translation": "Na Kenan i karim ⟨את⟩ Tsidon, pikinini bikpelo bilong en, na ⟨את⟩ Het.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "551b3f3755e0cd20e9d776d5d03b051ed9a7f32f782ca86fe570f499b8eb79ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/1\/13-16.1792361776252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Na Kenan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "pikinini bikpelo bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:16.252891479Z",
+  "model": "glm-5.3"
+}

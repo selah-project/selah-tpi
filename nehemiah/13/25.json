@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 13:25",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i no ken",
+      "rationale": "Hebrew's אם conditional + oath context implies prohibition; Tok Pisin needs the negative command made explicit"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואמרטם",
+      "gloss-of": "ואמרטם",
+      "rationale": "רטה rare verb: 'pluck out hair' (KJV\/JPS) vs 'make bald'; rendered literally as pulling out head-hair"
+    }
+  ],
+  "translation": "Na mi paitim tok wantaim ol, na mi singautim ol nogut tok, na mi paitim sampela long ol man, na mi pullim i kam ol gras bilong het bilong ol, na mi mekim ol sworim long Elohim: sapos yupela i no ken givim ol pikinini meri bilong yupela long ol pikinini man bilong ol, na sapos yupela i no ken kisim ol pikinini meri bilong ol long ol pikinini man bilong yupela, na long yupela yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a2a6e69ae63d6e9a00f7eed51194c429117e2c8056e5fec633c32686be2fa2a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/13\/25-28.1792361806068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואריב",
+      "gloss": "mi paitim tok"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "ואקללם",
+      "gloss": "mi singautim ol nogut tok"
+    },
+    {
+      "surface": "ואכה",
+      "gloss": "mi paitim"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sampela long"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ואמרטם",
+      "gloss": "mi pullim i kam ol gras bilong het bilong ol"
+    },
+    {
+      "surface": "ואשביעם",
+      "gloss": "mi mekim ol sworim"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos i no"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "yupela givim"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ol pikinini meri bilong yupela"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "long ol pikinini man bilong ol"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sapos i no"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "yupela kisim"
+    },
+    {
+      "surface": "מבנתיהם",
+      "gloss": "ol pikinini meri bilong ol"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "long ol pikinini man bilong yupela"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "na long yupela yet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:46.069237410Z",
+  "model": "glm-5.3"
+}

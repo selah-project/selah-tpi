@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pes bilong ol",
+      "rationale": "תפלתם — pes\/petision; 'prayer' long Tok Pisin i 'pes'"
+    },
+    {
+      "kind": "elision",
+      "subject": "i kamap antap",
+      "rationale": "וישמע — 'i harim'; man i harim em i Yahwe, tasol nem i no stap long Hibru"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong Yahwe",
+      "rationale": "קדשו — 'holi bilong em'; Tok Pisin i nidim wanpela man i gat en"
+    }
+  ],
+  "translation": "Na ol pris, ol Levi, i kirap na ol i blesim ⟨את⟩ ol manmeri, na olgeta nois bilong ol i kamap antap, na pes bilong ol i go insait long ples holi bilong Yahwe, i go antap long heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/30\/25-27.1792362746911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Levi"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "blesim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "i kamap antap"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "olgeta nois bilong ol"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "i go insait"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pes bilong ol"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "long ples bilong stap"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong em"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "antap long heven"
+    }
+  ],
+  "timestamp": "2026-10-18T22:32:26.912561878Z",
+  "model": "glm-5.3"
+}

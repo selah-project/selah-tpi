@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 4:21",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקה",
+      "rationale": "piel 'avenge their blood' vs 'declare innocent' — JPS 'hold as innocent'; dual sense of clean\/acquit and punish."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skelim ol",
+      "rationale": "piel נקיתי rendered 'skelim ol' (judge\/avenge); literal is 'make clean'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin needs object marker where Hebrew uses verb valence alone."
+    }
+  ],
+  "translation": "Na bai mi skelim ol long ⟨em⟩ blut bilong ol, we mi no skelim ol yet; na Yahwe i stap skul long ⟨em⟩ Tsiyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6bc40d6388ef16b5ac0edee08774ba4a05b82c447dce6fa6ccb0baee84ae514d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/4\/21-21.1792357145303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקיתי",
+      "gloss": "na bai mi skelim ol long"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "blut bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "mi skelim ol"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:05.303480501Z",
+  "model": "glm-5.3"
+}

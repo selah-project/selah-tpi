@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tewel",
+      "rationale": "נפש em i tewel\/warapela laip, i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב em i bel bilong tingting na laik long Tok Pisin, i no 'hart' bilong bodi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yu ken laikim",
+      "rationale": "Tok i toktok stret long Yisrael long pasin bilong kolim"
+    }
+  ],
+  "translation": "Na yu ken laikim ⟨את⟩ Yahwe, Elohim bilong yu, wantaim olgeta bel bilong yu, na wantaim olgeta tewel bilong yu, na wantaim olgeta strong bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/6\/5-8.1792349773679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "yu ken laikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na wantaim olgeta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tewel bilong yu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na wantaim olgeta"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "strong bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:13.679615249Z",
+  "model": "glm-5.3"
+}

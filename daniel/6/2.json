@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 6:2",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aheshdarpan",
+      "rationale": "Loanword for אחשדרפניא (satrap), kept in Hebrew sound rather than a role-title."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Em i gutpela long ai bilong",
+      "rationale": "שפר קדם literally 'it shone before' = 'it pleased'; rendered as TPI idiom of approval."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wan handet na twenti",
+      "rationale": "Count of appointed satraps: 120."
+    }
+  ],
+  "translation": "Em i gutpela long ai bilong Daryaves, na em i kirapim ol aheshdarpan — wan handet na twenti — long olgeta malin bilong king, bilong ol i ken stap insait long olgeta malin bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/6\/1-4.1792361240955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפר",
+      "gloss": "Em i gutpela"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryaves"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "na em i kirapim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "olgeta malin bilong king"
+    },
+    {
+      "surface": "לאחשדרפניא",
+      "gloss": "ol aheshdarpan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "ועשרין",
+      "gloss": "na twenti"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ol i ken stap"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "insait long olgeta"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "malin bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:07:20.956552321Z",
+  "model": "glm-5.3"
+}

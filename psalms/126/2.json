@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peinu",
+      "rationale": "Hibru 'han' em i maus — Tok Pisin 'han bilong yumi' i holim piksa bilong Hibru."
+    },
+    {
+      "kind": "crux",
+      "subject": "im ele",
+      "rationale": "'Gadil Yahwe la'asot im ele' — 'wantaim ol dispela' (YLT) o 'long ol dispela' (KJV); Tok Pisin i holim 'wantaim' olsem YLT\/JPS."
+    }
+  ],
+  "translation": "Na taim olgeta, han bilong yumi i pulap olgeta wantaim gelop, na taim bilong yumi i singaut gutpela. Na taim olgeta, ol lain bilong ol narapela kantri i tok: Yahwe i wokim bikpela samting wantaim ol dispela man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/126\/1-4.1792359212771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na taim olgeta"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "i pulap olgeta"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "wantaim gelop"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "han bilong yumi"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "na taim bilong yumi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "i singaut gutpela"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Na taim olgeta"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ol … i tok"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "long ol lain bilong ol narapela kantri"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "i wokim bikpela samting"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:32.772273275Z",
+  "model": "glm-5.3"
+}

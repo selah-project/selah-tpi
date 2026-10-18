@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Yam",
+      "rationale": "הים (solwara) long hia em i nem bilong bikpela basin kopa — mi holim nem, i no tanim long 'solwara'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "twel ol bulmakau",
+      "rationale": "Namba bilong ol bulmakau aninit long Yam: twel."
+    }
+  ],
+  "translation": "⟨את⟩ wanpela Yam, na ⟨את⟩ twel ol bulmakau aninit long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/4\/13-16.1792362329179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanpela Yam"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "twel ol bulmakau"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ol bulmakau"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "aninit long em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:29.180902955Z",
+  "model": "glm-5.3"
+}

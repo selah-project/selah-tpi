@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 22:14",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משמעתך",
+      "rationale": "mishma'atkha is 'your hearing\/audience, royal court' — rendered as 'go bijim yu' (turns to heed you), a role gloss."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "Ahimelek answers the king directly in second person, defending David."
+    }
+  ],
+  "translation": "Na Ahimelek i bekim tok long ⟨את⟩ king, na i tok: Na husat namel long olgeta wokman bilong yu i wankain olsem David — man i stap tru, na son-in-lo bilong king, na i go bijim yu, na i gat nem gutpela long haus bilong yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/22\/13-16.1792351950148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na i bekim tok"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "namel long olgeta"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wokman bilong yu"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "i wankain olsem David"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "man i stap tru"
+    },
+    {
+      "surface": "וחתן",
+      "gloss": "na son-in-lo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "na i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bijim"
+    },
+    {
+      "surface": "משמעתך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ונכבד",
+      "gloss": "na i gat nem gutpela"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "long haus bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:30.149722895Z",
+  "model": "glm-5.3"
+}

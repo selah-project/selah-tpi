@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' — heart as seat of feeling and will, not the bodily organ 'hat'."
+    },
+    {
+      "kind": "crux",
+      "subject": "who hardens",
+      "rationale": "Commands are spoken to Isaiah but God is the agent of the hardening — famous crux of divine hardening vs human responsibility."
+    },
+    {
+      "kind": "idiom",
+      "subject": "השמן 'make fat'",
+      "rationale": "Literal: 'make the heart fat' = make calloused\/dull; Tok Pisin 'bilim' keeps the sense of dulling."
+    }
+  ],
+  "translation": "Bilim bel bilong ol manmeri bilong dispela lain, wokim ol aun bilong ol truta, na tapim ol ai bilong ol; sinaun ol lukim wantaim ol ai bilong ol, na harim wantaim ol aun bilong ol, na bel bilong ol i save, na ol senis na i kamap gut gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/6\/9-12.1792353938874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "na ol aun bilong ol"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wokim truta"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "na ol ai bilong ol"
+    },
+    {
+      "surface": "השע",
+      "gloss": "tapim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sinaun"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ol lukim"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "wantaim ol ai bilong ol"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "na wantaim ol aun bilong ol"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ol harim"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "na bel bilong ol"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "i save"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na ol senis"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "na i kamap gut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:38.875292286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i no tok",
+      "rationale": "מחריש (Hiphil of חרש) i tok 'em i stilim tok' — mi tanim olsem 'i no tok' long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "גם i minim 'olsem tu'; grein bilong tok i askim Tok Pisin 'sapos', Hebrew i no gat 'if'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol sep",
+      "rationale": "שפה i minim 'sep\/lip' — wanpela tok long Tok Pisin 'sep'"
+    }
+  ],
+  "translation": "Sapos man eved i no tok, ol i skelim em olsem ⟨em⟩ i man save; sapos em i pasim ol sep bilong em, ol i skelim em olsem man i save tingting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "312632d0dd9ba5bcd8c0ae0014489aa5645b46dd21b141d971682f8e483554f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/17\/28-28.1792363389679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "man eved"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "i no tok"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "man save"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ol i skelim em olsem"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "i pasim"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ol sep bilong em"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "man i save tingting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:09.679902252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Imperative 'Hear' addressed directly to Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples holi tru",
+      "rationale": "דביר is the innermost shrine; per D4c rendered ples holi tru, not 'holy of holies'."
+    }
+  ],
+  "translation": "Harim voix bilong ol askim bilong mi, taim mi singaut long yu, taim mi haulap ol han bilong mi i go long ples holi tru bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/28\/1-4.1792358077508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ol askim bilong mi"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "taim mi singaut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "taim mi haulap"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ol han bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ples holi tru"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "holi bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:37.509273107Z",
+  "model": "glm-5.3"
+}

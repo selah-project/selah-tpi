@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i klostu long 'breth\/laip bilong binatang i wokabaut', no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronaun bilong tok bek long Yahwe long ves 9, Hibru i no gat em namel"
+    }
+  ],
+  "translation": "We insait long han bilong ⟨em⟩ stap laip bilong olgeta samting i gat laip, na ruak bilong olgeta mit bilong man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/12\/9-12.1792359974684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "We"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "long han bilong ⟨em⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "samting i gat laip"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:14.684693358Z",
+  "model": "glm-5.3"
+}

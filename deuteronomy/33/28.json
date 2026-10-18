@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עין יעקב",
+      "rationale": "ai bilong Yakov (ylt) o wara bilong spak (jps, geneva 'fountain') — עין i min ai o ples wara i kamap"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דגן",
+      "gloss": "graun kaikai",
+      "rationale": "דגן em i graun kaikai (korn); Tok Pisin i no gat wanpela tok stret"
+    },
+    {
+      "kind": "addition",
+      "subject": "i lukluk",
+      "rationale": "verb 'lukluk' mi putim long אל — Heb em i preposisen tasol, 'ai bilong Yakov i go long graun'"
+    }
+  ],
+  "translation": "Na Yisrael i stap gutpela long sef, wanpela tasol; ai bilong Yakov i lukluk long graun bilong graun kaikai na wain; na heven bilong em bai i titim del.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba051d2ccc53837093dd20ff5f603d0af682eab203e9c5e95a3dda70572e9c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/33\/27-28.1792363010987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "Na ... i stap gutpela long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "long sef"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "wanpela tasol"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bilong Yakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i lukluk long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "bilong graun kaikai"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na wain"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "heven bilong em"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "bai i titim"
+    },
+    {
+      "surface": "טל",
+      "gloss": "del"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:50.988280032Z",
+  "model": "glm-5.3"
+}

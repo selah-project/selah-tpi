@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i 'bel' long Tok Pisin — tingting na laik, i no 'hat'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסבת את לבם אחרנית",
+      "rationale": "'yu i tanim bel bilong ol i go bek' — em i tok bilong tanim bel ol i go bek long Yahwe, o ol i tanim bel taim ol i go afta Bil?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענני ... ענני",
+      "rationale": "tupela tok i kamap olsem wanem — singaut bilong Eliya, i stap long Tok Pisin tu"
+    }
+  ],
+  "translation": "Yahwe, ansim mi, ansim mi, bilong ol manmeri bilong graun hia i save se yu em Yahwe, em Elohim, na yu i tanim ⟨את⟩ bel bilong ol i go bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e73263b2b224ed270ab18371faed27b323945380c3fc4ae3262dbdbd1b3b0a08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/18\/37-40.1792353122694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "ansim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ansim mi"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bilong ol i save"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri bilong graun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "yu i tanim i go bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong ol"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bel bilong ol"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "i go bek"
+    }
+  ],
+  "timestamp": "2026-10-18T19:52:02.695079800Z",
+  "model": "glm-5.3"
+}

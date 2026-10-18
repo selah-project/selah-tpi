@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 14:31",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'Slept with his fathers' = euphemism for dying, kept literally in Tok Pisin 'i slip wantaim ol papa bilong en'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew ויקבר is passive; Tok Pisin needs agent 'ol i berim em'"
+    }
+  ],
+  "translation": "Na Rekhabam i slip wantaim ol papa bilong en, na ol i berim em wantaim ol papa bilong en long taun bilong David. Na nem bilong mama bilong en, Naama, meri bilong Amon. Na Aviam, pikinini man bilong en, i kamap king long ples bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/14\/29-31.1792353030528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i slip"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "na ol i berim em"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong en"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "meri bilong Amon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i kamap king"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong en"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:30.529397524Z",
+  "model": "glm-5.3"
+}

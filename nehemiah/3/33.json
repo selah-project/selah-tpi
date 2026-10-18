@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 3:33",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר לו",
+      "rationale": "Hebrew idiom 'it burned to him' = anger; rendered as Tok Pisin 'hatwok bel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker required by grammar, Hebrew lacks it"
+    }
+  ],
+  "translation": "Na i kamap, taim Sanbalat i harim olsem mipela i wokim ⟨את⟩ banis, em i hatwok bel tru, em i kros tumas, na em i biautim lek long ol man Yuda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c684995899dca74caaadcc70e5e35b4ef010db83b5a1d0a243b360fd5bb8b40a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/3\/33-36.1792361627868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanbalat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mipela"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banis"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "banis"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "em i hatwok bel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "em i kros"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "tru"
+    },
+    {
+      "surface": "וילעג",
+      "gloss": "em i biautim lek"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ol man Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T22:13:47.869350730Z",
+  "model": "glm-5.3"
+}

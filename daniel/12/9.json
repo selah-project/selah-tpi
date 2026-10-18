@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim em, Hibru i no gat pronoun long ויאמר"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ol tok i tapim na sealim",
+      "rationale": "Tok i stap tap na seal — samting hait, i no opim"
+    },
+    {
+      "kind": "secret",
+      "subject": "סתמים וחתמים",
+      "rationale": "Ol tok i hait pas; Daniel i no inap ritim yet"
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Go, Daniel, bilong ⟨em⟩ ol tok i tapim pinis na sealim pinis, inap taim bilong pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/12\/9-12.1792361299880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong ⟨em⟩"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "ol tok i tapim pinis"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "na sealim pinis"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "bilong pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T22:08:19.881161047Z",
+  "model": "glm-5.3"
+}

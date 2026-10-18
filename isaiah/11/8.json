@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הדה",
+      "rationale": "גמול על הדה — tok הדה i kamap long Tanakh hia tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini i givim sok \/ pikinini ol i no givim sok moa",
+      "rationale": "יונק na גמול: pikinini i sot kat (givim sok) na pikinini i pinisim sok — Tok Pisin i needim ol tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "snek nogut",
+      "rationale": "פתן na צפעוני — tupela kain snek nogut; Tok Pisin i no gat nem bilong wanwan"
+    }
+  ],
+  "translation": "Na pikinini i givim sok bai i plei long hol bilong snek nogut, na pikinini ol i no givim sok moa bai i putim han bilong em long hol bilong snek nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/11\/5-8.1792354025191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "plei"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "pikinini i givim sok"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "חר",
+      "gloss": "hol bilong"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "snek nogut"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "hol bilong"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "snek nogut"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "pikinini ol i no givim sok moa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "putim ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:07:05.192994715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "שכם \/ סכות",
+      "rationale": "Vs i gat skelim graun na makim boundary — olsem man i makim hap graun."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בקדשו",
+      "rationale": "Sampela tanim 'long ples holi bilong en', narapela 'long holiness bilong en' — Heb i tok 'long holi bilong en' tasol."
+    }
+  ],
+  "translation": "Elohim i tok long ples holi bilong en: bai mi wokim gala, bai mi olsem skelim Shekem, na bai mi makim olgeta long vaeli bilong Sukot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/60\/5-8.1792358394228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "long ples holi bilong en"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "bai mi wokim gala"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "bai mi olsem skelim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "na vaeli"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "bilong Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "bai mi makim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:54.230171458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 2:32",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויאר להם",
+      "rationale": "Literal 'it became light for them in Hevron' — daybreak framing the all-night march."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כל הלילה",
+      "rationale": "The march is timed: all night, arriving at first light in Hevron."
+    }
+  ],
+  "translation": "Na ol i karim ⟨את⟩ Asael, na ol i grinim em long graun bilong papa bilong em, we i stap long Betlekhem; na Yoav wantaim ol man bilong en i wokabaut olgeta long nait, na lait i kirap long ol long Hevron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/29-32.1792352169757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Na ol i karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "na ol i grinim em"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we i stap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long Betlekhem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlekhem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na ol i wokabaut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "wantaim ol man bilong en"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "na lait i kirap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "long Hevron"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:09.759417049Z",
+  "model": "glm-5.3"
+}

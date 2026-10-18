@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 4:25",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Weyyiqtol discourse marker rendered as 'Na i kamap' carrying no content of its own"
+    },
+    {
+      "kind": "crux",
+      "subject": "מנגד",
+      "rationale": "'long hap narapela' (opposite\/across) vs KJV 'afar off' — Hebrew says opposite-side, not distance"
+    }
+  ],
+  "translation": "Na em i go, na em i kam long man bilong Elohim, long maunten Karmel. Na taim man bilong Elohim i lukim ⟨את⟩ em long hap narapela, em i tok long Geizazi, boi bilong en: Lukim, dispela meri bilong Sunem i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/4\/25-28.1792353348201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Na em i go"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na em i kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "taim … i lukim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "long hap narapela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Geizazi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "boi bilong en"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "meri bilong Sunem"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:48.202356383Z",
+  "model": "glm-5.3"
+}

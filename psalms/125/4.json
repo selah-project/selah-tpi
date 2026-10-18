@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per D4 — heart as seat of thought and will, not the organ"
+    }
+  ],
+  "translation": "Yahwe, yu mekim gutpela samting long ol man gutpela, na long ol man stret long bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/125\/1-4.1792359206192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yu mekim gutpela samting"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "long ol man gutpela"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "na long ol man stret"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "long bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:26.195678216Z",
+  "model": "glm-5.3"
+}

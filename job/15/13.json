@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 15:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i ruak — oltaim, i no 'spirit' tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשיב אל",
+      "rationale": "'taim yu tanim ruak bilong yu gen long El' — wanem i tanim: man o ruak; KJV 'turnest thy spirit against God'"
+    }
+  ],
+  "translation": "Bihain, yu tanim ⟨את⟩ ruak bilong yu gen long El, na yu brukim ol tok i kam aut long maus bilong yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/15\/13-16.1792360053261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihain"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "yutanim ... gen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruak bilong yu"
+    },
+    {
+      "surface": "והצאת",
+      "gloss": "na yu brukim ol tok i kam aut"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "long maus bilong yu"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ol tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:33.262113216Z",
+  "model": "glm-5.3"
+}

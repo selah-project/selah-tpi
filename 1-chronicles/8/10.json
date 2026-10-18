@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew nominal clause lacks a verb; Tok Pisin predicate marker and copula supplied."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Continuation of the named-son list with their clan-head titles."
+    }
+  ],
+  "translation": "Na ⟨את⟩ Yeuts, na ⟨את⟩ Sokhia, na ⟨את⟩ Mirmah. Ol dispela em i ol pikinini man bilong en, ol hetman bilong ol papa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/8\/9-12.1792361878227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sokhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sokhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini man bilong en"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol hetman"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bilong ol papa"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:58.228302529Z",
+  "model": "glm-5.3"
+}

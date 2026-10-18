@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 51:36",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רב\/ריבך · נקמתי\/נקמתך",
+      "rationale": "Root repetition: 'plead your plea, avenge your vengeance' — I-verb then your-noun; mirrored with 'skelim kot bilong yu, bekim rong bilong yu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Third-person suffix on 'sea' and 'spring' refers to Babylon; bracketed pronoun supplied."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion\/Jerusalem",
+      "rationale": "Yahwe answers the cry of v35 with direct second-person promise ('bilong yu')."
+    }
+  ],
+  "translation": "Olsem na, Yahwe i tok: Lukim, mi bai skelim ⟨את⟩ kot bilong yu, na mi bai bekim ⟨את⟩ rong bilong yu; na mi bai draim ⟨את⟩ wara bilong ⟨em⟩, na mi bai draim ⟨את⟩ spring bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "44aa8c39415fcf5b5269d67b80b88d08ebd6bdf4910dc4c03635472d1de21a6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/33-36.1792355946284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lukim, mi stap"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mi bai skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kot bilong yu"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kot bilong yu"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "na mi bai bekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rong bilong yu"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "rong bilong yu"
+    },
+    {
+      "surface": "והחרבתי",
+      "gloss": "na mi bai draim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara bilong em"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "wara bilong ⟨em⟩"
+    },
+    {
+      "surface": "והבשתי",
+      "gloss": "na mi bai draim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spring bilong em"
+    },
+    {
+      "surface": "מקורה",
+      "gloss": "spring bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:06.286158479Z",
+  "model": "glm-5.3"
+}

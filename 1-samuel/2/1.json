@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hon bilong mi i sanap antap",
+      "rationale": "קרן horn = strength\/honor; literal 'my horn is high' kept as picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (feelings\/will), not 'hat'"
+    },
+    {
+      "kind": "you",
+      "subject": "Hana i tok long Yahwe",
+      "rationale": "prayer addresses Yahwe directly ('yu', 'selvim bilong yu')"
+    }
+  ],
+  "translation": "Na Hana i beten, na i tok: Bel bilong mi i amamas tru long Yahwe, hon bilong mi i sanap antap long Yahwe, maus bilong mi i op long ol birua bilong mi, long wanem mi amamas long selvim bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/1-4.1792351483442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "na i beten"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "i amamas tru"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "i sanap antap"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "hon bilong mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "i op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "mi amamas"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "long selvim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:43.443942313Z",
+  "model": "glm-5.3"
+}

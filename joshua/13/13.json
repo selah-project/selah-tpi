@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הורישו",
+      "rationale": "‘ drivim aut na tekim ples’ — Tok Pisin i usim ‘rausim’ tasol, wanpela tok."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד היום הזה",
+      "rationale": "tok bilong taim: ‘i go inap long dispela de’ — mak bilong skelim taim."
+    }
+  ],
+  "translation": "Tasol ol pikinini bilong Yisrael i no rausim ⟨את⟩ ol man Geshur na ⟨את⟩ ol man Maakat; olsem na Geshur na Maakat i stap long namel bilong Yisrael i go inap long dispela de.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/13-16.1792350715162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tasol ol i no"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man Geshur"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "ol man Geshur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Maakat"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "ol man Maakat"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "olsem na i stap"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "na Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:11:55.163278479Z",
+  "model": "glm-5.3"
+}

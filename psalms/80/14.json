@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pik bilong bus",
+      "rationale": "חזיר מיער literally 'swine of the forest' — wild boar"
+    },
+    {
+      "kind": "crux",
+      "subject": "זיז",
+      "rationale": "'moving creature of the field' vs 'wild beast' — rare word, either creeping things or wild animals"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כרסם",
+      "rationale": "Rare verb 'to gnaw\/lay waste' — the boar gnaws the vine"
+    }
+  ],
+  "translation": "Pik bilong bus i bagarapim ⟨em⟩, na ol samting i save muv long gaden i kaikaiim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/13-16.1792358590437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "i bagarapim ⟨em⟩"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "pik bilong bus"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "bus"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "na ol samting i save muv"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "i kaikaiim ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.437969816Z",
+  "model": "glm-5.3"
+}

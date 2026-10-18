@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרק",
+      "rationale": "Occurs only here in the Tanakh — 'broken pieces\/broth of meat', rendered 'hap hap mit'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובנצורים",
+      "rationale": "'In the guarded\/hidden places' — graves-vaults (JPS), monuments (KJV), desert ruins (Targum); necromantic lodging implied by context."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פגלים",
+      "rationale": "Ceremonially fetid offerings, rendered 'samting tambu' — ritual uncleanness, not mere disgust."
+    }
+  ],
+  "translation": "Ol i stap long ol graun bilong ol man i dai pinis, na long ol ples hait ol i slip; ol i kaikai mit bilong pik, na hap hap mit bilong samting tambu i stap long ol kalik bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/65\/1-4.1792354884540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "long ol graun bilong ol man i dai pinis"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "long ol ples hait"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ol i slip"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "bilong pik"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "na hap hap mit"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "bilong samting tambu"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "long ol kalik bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:24.541771194Z",
+  "model": "glm-5.3"
+}

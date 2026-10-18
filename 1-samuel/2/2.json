@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Tok Pisin needs 'wanpela holi' where Hebrew has bare קדוש with אין"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rok",
+      "rationale": "צור is cliff\/rock, kept literal rather than 'strong fella'"
+    }
+  ],
+  "translation": "I no gat wanpela holi olsem Yahwe, long wanem i no gat narapela ⟨i stap⟩ bilong yu, na i no gat rok olsem Elohim bilong yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/1-4.1792351483442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "wanpela holi"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "olsem Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "narapela bilong yu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rok"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "olsem Elohim bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:43.444410638Z",
+  "model": "glm-5.3"
+}

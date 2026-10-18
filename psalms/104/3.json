@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח em i win\/ruak\/Spirit — wanpela Tok Pisin tok 'ruak' i holim olgeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "rum antap bilong en",
+      "rationale": "עליותיו dual\/plural: 'ol rum antap' o 'ol beam bilong rum'; YLT 'beam of His upper chambers'"
+    }
+  ],
+  "translation": "Em i wokim ol beam bilong rum antap long ol wara, em i putim ol klaut olsem karet bilong en, em i wokabaut antap long ol wing bilong ruak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/1-4.1792358923284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "wokim ol beam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long ol wara"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "rum antap bilong en"
+    },
+    {
+      "surface": "השם",
+      "gloss": "putim"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "ol klaut"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "karet bilong en"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "wokabaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ol wing bilong"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:43.286146670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומלוה",
+      "rationale": "Root can mean 'lend' or 'borrow'; most read here as 'lends' — lenim mani."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stapsidaun na givim favor",
+      "rationale": "חנן is 'bend\/stoop in kindness to an inferior'; Tok Pisin needs a phrase."
+    }
+  ],
+  "translation": "Gutpela man — em i stapsidaun na givim favor, na i lenim ⟨את⟩ mani; em i holim gut ol samting bilong en long pasin bilong skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/112\/5-8.1792359036996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "stapsidaun na givim favor"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "na i lenim ⟨את⟩ mani"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "holim gut"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ol samting bilong en"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "long pasin bilong skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:36.996756386Z",
+  "model": "glm-5.3"
+}

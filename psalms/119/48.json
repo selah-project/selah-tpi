@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hautimapel han",
+      "rationale": "כפי אל מצותיך — 'hautimapel palma i go long ol tok'; plesia i laikim lo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "objekt bilong laikim — Tok Pisin i nidim ol, Hibru i nogat"
+    }
+  ],
+  "translation": "Na bai mi hautimapel han bilong mi i go long ol tok bilong yu, we mi laikim ol, na bai mi tingting moa long ol lo bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/45-48.1792359105154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "na bai mi hautimapel"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol tok bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi laikim"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "na bai mi tingting moa long"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ol lo bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:45.156216137Z",
+  "model": "glm-5.3"
+}

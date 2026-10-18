@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה",
+      "rationale": "Doubled noun 'province and province' means 'each and every province' — kept as 'kantri na kantri'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol i no kaikai",
+      "rationale": "צום is ritual fasting; Tok Pisin has no single word, so 'no kaikai' keeps the literal act."
+    }
+  ],
+  "translation": "Na long wanwan kantri na kantri, long wanpela ples we tok bilong king na lo bilong en i kamap, ol Yuda i gat bel hevi bikpela tru — ol i no kaikai, na ol i krai, na ol i wokim singsing hevi; sak na das ol i skerim long ol planti man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/4\/1-4.1792360915385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Na long wanwan"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "kantri"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "na kantri"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "long wanpela ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "na lo bilong en"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "bel hevi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "ol Yuda i gat"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "ol i no kaikai"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "na ol i krai"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "na ol i wokim singsing hevi"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na das"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "ol i skerim"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "long ol planti man"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:55.386829162Z",
+  "model": "glm-5.3"
+}

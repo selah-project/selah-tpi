@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 11:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "דבר perfective read as completed speech; Tok Pisin needs aspect marker"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/מורא",
+      "rationale": "paired near-synonyms for dread and fear, rhetorical doubling lost as two separate words"
+    }
+  ],
+  "translation": "Nogat, wanpela man i no ken sanap long pes bilong yupela; pret bilong yupela na bikfede bilong yupela, Yahwe Elohim bilong yupela bai putim antap long pes bilong olgeta graun we yupela wokabaut long en, olsem em i tokim pinis long yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/11\/25-28.1792349883505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "בפניכם",
+      "gloss": "long pes bilong yupela"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "pret bilong yupela"
+    },
+    {
+      "surface": "ומוראכם",
+      "gloss": "na bikfede bilong yupela"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "putim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תדרכו",
+      "gloss": "yupela wokabaut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:58:03.506112525Z",
+  "model": "glm-5.3"
+}

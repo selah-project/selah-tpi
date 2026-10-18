@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨meri⟩ \/ ⟨em⟩ \/ ⟨man⟩",
+      "rationale": "Hibru i stap save long feminin kain (ות suffix), Tok Pisin i no gat, olsem mi putim pronoun."
+    }
+  ],
+  "translation": "Na ⟨meri⟩ i go aut long haus bilong ⟨man⟩, na ⟨em⟩ i go, na ⟨em⟩ i kamap meri bilong narapela man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "21fd4f112c782f01ddd9d4a21510d88248b0b4110a6c7087f176ec89c00590d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/24\/1-4.1792350238845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "na ⟨meri⟩ i go aut"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "long haus bilong ⟨man⟩"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "na ⟨em⟩ i go"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ⟨em⟩ i kamap"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "meri bilong man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "narapela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:58.846670687Z",
+  "model": "glm-5.3"
+}

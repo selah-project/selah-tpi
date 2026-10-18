@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long pris",
+      "rationale": "Hebrew lekohen 'to the priest' rendered as 'long pris' to keep the directional sense"
+    }
+  ],
+  "translation": "Na pris we i bringim ⟨את⟩ ofring bilong burn olgeta bilong wanpela man — skin bilong ofring bilong burn olgeta we i bringim, em i bilong en, long pris.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/5-8.1792348276626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Na pris"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "we i bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofring bilong burn olgeta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofring bilong burn olgeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong wanpela man"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilong ofring bilong burn olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "i bringim"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "long pris"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:16.627119310Z",
+  "model": "glm-5.3"
+}

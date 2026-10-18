@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Verse ends with direct address to Yahwe by name."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלא...קלון",
+      "rationale": "Psalm 83:16-17 repeat the same plea almost verbatim, an envelope repetition lost in a single reading."
+    }
+  ],
+  "translation": "Pulapim ol pes bilong ol wantaim sepen, na ol bai painim aut ⟨את⟩ nem bilong yu, Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/17-19.1792358590208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Pulapim"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ol pes bilong ol"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sepen"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "na ol bai painim aut"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.209511077Z",
+  "model": "glm-5.3"
+}

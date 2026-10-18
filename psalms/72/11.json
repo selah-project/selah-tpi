@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olsem masta",
+      "rationale": "'olsem masta' makes the sense of avad ('serve') explicit in Tok Pisin."
+    }
+  ],
+  "translation": "Na olgeta king bai i go daun bilong augud long em; olgeta kantri bai i wokim em olsem masta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/9-12.1792358435556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "na bai i go daun bilong augud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "king"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kantri"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "bai i wokim em olsem masta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:35.557114542Z",
+  "model": "glm-5.3"
+}

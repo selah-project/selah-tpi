@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Tok Pisin needs predicate marker; Hebrew verbless clause."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Register of Levitical family heads."
+    }
+  ],
+  "translation": "Ol pikinini bilong Yitsar: Shelomit ⟨em i⟩ hed.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/23\/17-20.1792362158854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Yitsar"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hed"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:38.854940106Z",
+  "model": "glm-5.3"
+}

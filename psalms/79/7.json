@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Tok Pisin i mas putim ol, Hibru i no gat man i mekim wok yet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikai pinis",
+      "rationale": "אכל em i piksa bilong kaikai — ol birua i kaikai Yakov i go pinis."
+    }
+  ],
+  "translation": "Bilong wanem ol i kaikai pinis ⟨את⟩ Yakov, na ⟨את⟩ ples bilong stap bilong em ol i bagarapim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/5-8.1792358623312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ol i kaikai pinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ples bilong stap bilong em"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ples bilong stap bilong em"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ol i bagarapim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:43.314139898Z",
+  "model": "glm-5.3"
+}

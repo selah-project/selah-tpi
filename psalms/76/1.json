@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה note absent",
+      "rationale": "Verse 1 has no סלה; title only"
+    }
+  ],
+  "translation": "Long lida bilong singsing, wantaim ol string bilong miusik; mizmor bilong Asaf, wanpela sing.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/76\/1-4.1792358524239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "long lida bilong singsing"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "wantaim ol string bilong miusik"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bilong Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sing"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:04.240338021Z",
+  "model": "glm-5.3"
+}

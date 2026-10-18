@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i lus",
+      "rationale": "Hebrew להציל (snatch away) needs a directional phrase in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Rabshakeh addresses the men on the wall of Yerusalayim directly"
+    }
+  ],
+  "translation": "King i tok olsem: No ken larim Khizkiyahu i giamanim yupela, long wanem em i no inap skrapim ⟨את⟩ yupela i lus long han bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/29-32.1792353678704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "givim giaman long"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i inap"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "skrapim i lus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "long han bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:01:18.705110040Z",
+  "model": "glm-5.3"
+}

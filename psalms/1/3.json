@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai bilong em",
+      "rationale": "פרי = frut; 'kaikai bilong diwai' olsem tebol D4 i makim"
+    },
+    {
+      "kind": "addition",
+      "subject": "wara",
+      "rationale": "מים i plural long Hibru; Tok Pisin i no makim plural long wanpela wara"
+    }
+  ],
+  "translation": "Na em bai i stap olsem wanpela diwai ol i plantim long het bilong ol wara i ran, em i givim kaikai bilong em long taim bilong en, na ol lip bilong em i no drai; na olgeta samting em i wokim, em i mekim i go het tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/1\/1-4.1792357862894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na em bai i stap"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "olsem wanpela diwai"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "ol i plantim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ol wara i ran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "kaikai bilong em"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "long taim bilong en"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "na ol lip bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "drai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "mekim i go het tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:02.895537333Z",
+  "model": "glm-5.3"
+}

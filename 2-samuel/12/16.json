@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "askim",
+      "rationale": "בקש is 'seek' — 'David sought God'; rendered 'askim' for the prayer sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hanganap",
+      "rationale": "צום\/צם 'cover the mouth, fast' rendered with the Tok Pisin church term 'hanganap'."
+    }
+  ],
+  "translation": "Na David i askim ⟨את⟩ Elohim bilong pikinini man, na David i wokim hanganap, na em i go insait, na i slip nait, na i liai daun long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/13-16.1792352333054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Na … i askim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "i wokim hanganap"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "hanganap"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i go insait"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "i slip nait"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "i liai daun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:53.056366227Z",
+  "model": "glm-5.3"
+}

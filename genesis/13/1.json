@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long saut",
+      "rationale": "הנגבה i tok Negèv — ples bilong saut, tasol Tok Pisin i tok 'long saut'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i go",
+      "rationale": "Tok Pisin i nidim tok bilong wokim sentens"
+    }
+  ],
+  "translation": "Na Avram i go antap i kam long Mitsrayim — em yet, na meri bilong em, na olgeta samting i bilong en, na Lot wantaim em — i go long saut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/13\/1-4.1792346431529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "i kam long Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na meri bilong em"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i bilong en"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "na Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "long saut"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:31.529597837Z",
+  "model": "glm-5.3"
+}

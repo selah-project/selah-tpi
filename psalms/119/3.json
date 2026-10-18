@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yes",
+      "rationale": "אף em i tok bilong go moa (af\/yea), 'yes' em i klostu pasin"
+    }
+  ],
+  "translation": "Yes, ol i no wokim pasin nogut, long ol rot bilong em ol i wokabaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/1-4.1792359104353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pasin nogut"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "long ol rot bilong em"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ol i wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:44.354562482Z",
+  "model": "glm-5.3"
+}

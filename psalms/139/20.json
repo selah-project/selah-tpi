@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאמרך",
+      "rationale": "'Who say you (your name) for wicked purpose' — object supplied: 'thee' vs 'thy name' (KJV) vs JPS 'utter Thy name'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשא לשוא",
+      "rationale": "Literally 'lift up for emptiness\/falseness'; rendered 'sailim long nating' — idiom of taking\/bearing in vain."
+    },
+    {
+      "kind": "crux",
+      "subject": "עריך",
+      "rationale": "Lemma ar 'watchful foe': 'your enemies' vs literal 'those who watch you (for mischief)'."
+    }
+  ],
+  "translation": "Dispela ol, ol i tokim nem bilong yu long tingting nogut; ol birua bilong yu, ol i sailim ⟨em⟩ long nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/17-20.1792359295420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dispela ol"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "ol i tokim nem bilong yu"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "long tingting nogut"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ol i sailim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "long nating"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ol birua bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:55.421806791Z",
+  "model": "glm-5.3"
+}

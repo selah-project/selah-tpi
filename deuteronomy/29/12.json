@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "יהיה i tok bilong taim bihain; Tok Pisin i nidim 'bai' bilong klia."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tupela nem wantaim tripela papa",
+      "rationale": "Ves i kaunim ol nem — Avraham, Yitsak, Yakov — olsem pas bilong kontrak."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע",
+      "rationale": "Hibru 'swear' i kamap long 'seven' (ševaʿ) — man i tokim samting sevenpela taim; Tok Pisin 'bet' i no gat dispela piksa."
+    }
+  ],
+  "translation": "Bilong em i kirapim ⟨את⟩ yu long dispela de long em bilong i kamap wanpela lain, na em bai i kamap Elohim bilong yu, olsem we em i tokim yu, na olsem we em i bet long ol papa bilong yu — long Avraham, long Yitsak, na long Yakov.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/29\/9-12.1792350285027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu — man we Yahwe i kirapim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bilong i kamap wanpela lain"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "na olsem we"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "em i bet"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "long ol papa bilong yu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "long Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "long Yitsak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na long Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:45.029229629Z",
+  "model": "glm-5.3"
+}

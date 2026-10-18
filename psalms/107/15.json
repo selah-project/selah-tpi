@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד mi holim long Tok Pisin olsem 'khesed' — marimari tasol i no inap holim olgeta mining"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol man",
+      "rationale": "ves em i singaut bilong ol man ol i bin sevim — 'ol mas givim tenkyu'"
+    }
+  ],
+  "translation": "Ol mas givim tenkyu long Yahwe long khesed bilong em, na long ol samting wantok i no inap mekim long ol pikinini bilong man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/13-16.1792358994597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ol mas givim tenkyu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong em"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na long ol samting wantok i no inap mekim bilong em"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:54.601088711Z",
+  "model": "glm-5.3"
+}

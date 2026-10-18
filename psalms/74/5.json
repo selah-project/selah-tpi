@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע כמביא",
+      "rationale": "Hebrew is opaque: 'known as one bringing\/lifting up on high' — versions differ: 'famous', 'wielded', 'bringing in on high'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קרדמות",
+      "rationale": "Plural of axe, rare word; rendered simply 'akis' (ol akis bilong katim)."
+    }
+  ],
+  "translation": "Ol i save long em olsem man i singautim akis i go antap, long busim ol diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/5-8.1792358520316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ol i save long em"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "olsem man i singautim i go antap"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "long busim"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ol diwai"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "akis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:00.317708895Z",
+  "model": "glm-5.3"
+}

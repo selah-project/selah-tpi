@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיב",
+      "rationale": "Literally 'prick up the ears', rendered 'pasim tudu long' (pay close attention)."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin predicate markers supplied; Hebrew verb alone."
+    }
+  ],
+  "translation": "Tasol tru, Elohim i harim; em i pasim tudu long ves bilong preg bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/17-20.1792358382787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "tasol tru"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "pasim tudu long"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ves bilong"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "preg bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:42.788361188Z",
+  "model": "glm-5.3"
+}

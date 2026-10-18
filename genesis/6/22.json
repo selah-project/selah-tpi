@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Wok 'wokim' long Tok Pisin i laikim wanpela objekt, Hibru ויעש i stap wanpela tasol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעש\/עשה",
+      "rationale": "Wok 'wokim' i kamap tupela taim — stat na pinis — olsem Hibru עשׂה i stap; man i rit i save lusim lukim em long Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "givim sanguma",
+      "rationale": "צוה i save tanim olsem 'tokim bilong wokim' o 'givim lo'; 'givim sanguma' em i pasin Tok Pisin bilong tok bilong bikman i no ken senis."
+    }
+  ],
+  "translation": "Na Noak i wokim ⟨em⟩ olsem olgeta samting we Elohim i givim sanguma ⟨את⟩ bilong em; olsem na em i wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3947e8d9366035b5c148ca6650227557417e0bb1c52013a453a423bdbcfdf029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/6\/21-22.1792346315680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na Noak i wokim"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noak"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i givim sanguma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (Noak)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:35.681482615Z",
+  "model": "glm-5.3"
+}

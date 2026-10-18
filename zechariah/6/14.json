@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 6:14",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diara",
+      "rationale": "עטרות is plural form but verb תהיה is singular — one crown of multiple materials, or several crowns"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nem bilong ol man",
+      "rationale": "list of four names plus patronymic, deposited as memorial in the temple"
+    }
+  ],
+  "translation": "Na diara bai i stap long Helm, na long Tovija, na long Yedaja, na long Hen, pikinini man bilong Tsefanja, bilong tingim ol long haus bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5231e28be5c269907db8c2b745f55ad29b824f5116eabe5dd150b96f1e33e803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/6\/13-15.1792357649708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעטרות",
+      "gloss": "na diara"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "לחלם",
+      "gloss": "long Helm"
+    },
+    {
+      "surface": "ולטוביה",
+      "gloss": "na long Tovija"
+    },
+    {
+      "surface": "ולידעיה",
+      "gloss": "na long Yedaja"
+    },
+    {
+      "surface": "ולחן",
+      "gloss": "na long Hen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "bilong tingim"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:29.709613018Z",
+  "model": "glm-5.3"
+}

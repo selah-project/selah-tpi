@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הודו ליהוה",
+      "rationale": "lit. 'throw to Yahwe' (root ידה, throw\/cast) — idiom of giving thanks\/praise."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bilong em i gutpela tru",
+      "rationale": "כי טוב lit. 'that\/for good'; rendered as causal clause."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to ol man i rit o singaut",
+      "rationale": "imperative plural summons the congregation to give thanks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...כי",
+      "rationale": "repetition of כי frames the two grounds for praise, kept as parallel 'bilong'."
+    }
+  ],
+  "translation": "Ol singaut luksave long Yahwe, bilong em i gutpela tru, bilong khesed bilong em i stap olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2c4a7b532406d2e32e091fbc4ab866978e6bfa972de5f1eb33a26e5b4f747266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/29-29.1792359061657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "singaut luksave"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela tru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:01.657468928Z",
+  "model": "glm-5.3"
+}

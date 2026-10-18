@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mekim ol de i kamap longpela moa",
+      "rationale": "והארכתי i tok \"mi skerim ol de i go longpela\" — Tok Pisin i usim \"mekim kamap longpela moa\" bilong soim gutpela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלך \/ הלך",
+      "rationale": "Hibru i wokabaut long \"wokabaut\" — תלך (Solomon bai i go) na הלך (David i bin go) — Tok Pisin i holim wankain tok \"wokabaut\", olsem na pun i stap"
+    }
+  ],
+  "translation": "Na sapos yu wokabaut long ol rot bilong mi, long lukautim gut ol lo bilong mi na ol toktok bilong mi, olsem David papa bilong yu i wokabaut, bai mi mekim ol de bilong yu i kamap longpela moa — ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "22c5543477e4da8b927fead331e4d9e5563165b9a74cc8d2acc66f7096a6c51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/3\/13-14.1792363117913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yu wokabaut"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "long ol rot bilong mi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "long lukautim gut"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ol lo bilong mi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na ol toktok bilong mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "bai mi mekim i kamap longpela moa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol de bilong yu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ol de bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:37.914718186Z",
+  "model": "glm-5.3"
+}

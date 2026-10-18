@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "'exploit\/deed' (from עלל, to do repeatedly) — rendered as 'deeds' vs KJV 'works'; some read it as 'unseemly act'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (feelings\/will), not body organ 'hat', per D4."
+    },
+    {
+      "kind": "you",
+      "subject": "man longlong",
+      "rationale": "the verse portrays the fool's inner speech, a summons to the reader to see."
+    }
+  ],
+  "translation": "Long man i lukautim singsing, bilong David. Man longlong i tok long bel bilong en: i no gat Elohim. Ol i bagarapim olgeta, ol i wokim ol samting we ol i bihainim long en olsem nogut tru; i no gat wanpela i wokim gutpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/14\/1-4.1792357926109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "long man i lukautim singsing"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "man longlong"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "long bel bilong en"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ol i bagarapim olgeta"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ol i wokim ol samting nogut tru"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ol samting we ol i bihainim long en"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat wanpela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:06.110543095Z",
+  "model": "glm-5.3"
+}

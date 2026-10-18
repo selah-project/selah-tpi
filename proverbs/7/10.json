@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שית",
+      "rationale": "Tok bilong klos i kamap long Tanakh long hapela ples tasol."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונצרת לב",
+      "rationale": "'i save holim bel' — noken 'slyus': lit. 'i save lukaut\/holim bel', ol tanim iargo 'cunning' o 'wily'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב = bel (tingting na laik), i no hat."
+    }
+  ],
+  "translation": "Na luk, wanpela meri i kam long em, i putim klos bilong meri i save wokim pasin nogut, na i gat tingting slyus long bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/7\/9-12.1792359433554.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wanpela meri"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "i kam long em"
+    },
+    {
+      "surface": "שית",
+      "gloss": "klos"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "bilong meri i save wokim pasin nogut"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "na i save holim olgeta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:13.555969053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ילדה",
+      "rationale": "Hebrew verb has no stated subject: 'she bore' — either the concubine bore Asriel, or (as JPS) a wife bore him and the concubine bore Makir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "konkyubain",
+      "rationale": "פילגש rendered as Tok Pisin 'konkyubain' for concubine."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Genealogy of Manasseh's descendants."
+    }
+  ],
+  "translation": "Ol pikinini bilong Menashe: Ashriel, em ⟨⟨em⟩⟩ we ol i kirapim; na konkyubain bilong en, wanpela meri bilong Aram, i karim ⟨את⟩ Makhir, papa bilong Gilad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/7\/13-16.1792361909454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Ashriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "konkyubain bilong en"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "meri bilong Aram"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makhir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:29.455248278Z",
+  "model": "glm-5.3"
+}

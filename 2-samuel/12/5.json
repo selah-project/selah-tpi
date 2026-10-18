@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nus i paia",
+      "rationale": "ויחר אף literally 'his nose burned' = anger flared; Tok Pisin keeps the nose\/heat picture"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "oath formula 'Yahwe i stap wara' — 'as Yahwe lives'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן מות",
+      "rationale": "'pikinini bilong dai' = son of death, i.e. deserving death; kept literally"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "oath כי left unrendered; the dash carries its affirming force"
+    },
+    {
+      "kind": "you",
+      "subject": "David i tokim Natan",
+      "rationale": "David's oath-speech delivered face to face to Nathan, unknowingly about himself"
+    }
+  ],
+  "translation": "Na nus bilong David i paia olgeta long ⟨em⟩ man, na em i tokim Natan: Yahwe i stap wara — man i wokim dispela samting, em i pikinini bilong dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/5-8.1792352326806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "i paia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "long ⟨em⟩ man"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap wara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bilong dai"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:46.807753100Z",
+  "model": "glm-5.3"
+}

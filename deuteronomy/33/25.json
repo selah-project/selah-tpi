@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol ban bilong du",
+      "rationale": "מנעליך: 'ol ban bilong du' (ASV\/JPS\/BSB, bolting Asher's fortified towns) o 'su bilong yu' (KJV, from מנעל 'shoe'); lemma data i tok 'bolt'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבאך",
+      "rationale": "dov'ah — tok i stap long Tanakh long hia tasol; mining i 'kaikai \/ strong', ol man i tanim 'strength'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וכימיך דבאך",
+      "rationale": "Hibru: 'na olsem ol de bilong yu — strong bilong yu'; Tok Pisin i laikim 'olsem tu' bilong stretim pasin."
+    }
+  ],
+  "translation": "Bara na kaper ol ban bilong du bilong yu; na olsem ol de bilong yu, olsem tu strong bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "041c4efc235dd77a0256497ac9c0f69586987f25529ac3810a92f0698c6c5a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/33\/25-26.1792363010377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "na kaper"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "ol ban bilong du bilong yu"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "na olsem ol de bilong yu"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "strong bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:50.377859476Z",
+  "model": "glm-5.3"
+}

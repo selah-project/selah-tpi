@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Verse explicitly concerns the secret\/counsel (סוד) — revealed versus concealed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered as ruak always, per discipline; here 'faithful of spirit\/ruak'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker added, Hebrew lacks it."
+    }
+  ],
+  "translation": "Man i wokabaut wantaim ol stori nogut i skruvimaut ⟨i⟩ ⟨את⟩ sikret, tasol man i stret bel long ruak i tailap ⟨i⟩ tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/11\/13-16.1792359513529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "man i karim ol stori nogut"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "i skruvimaut"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sikret"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "tasol man i stret bel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "i tailap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:33.529826757Z",
+  "model": "glm-5.3"
+}

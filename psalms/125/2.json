@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "repetition of 'surround' frames Jerusalem and Yahwe's people in parallel"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol manmeri",
+      "rationale": "םע is singular collective 'people'; Tok Pisin plural marked with ol"
+    }
+  ],
+  "translation": "Yerusalayim — ol maunten i stap raun long ⟨em⟩, na Yahwe i stap raun long ol manmeri bilong ⟨en⟩, bihain nau i go inap oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/125\/1-4.1792359206192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i stap raun long"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i stap raun long"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ol manmeri bilong ⟨en⟩"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "bihain nau"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:26.194373541Z",
+  "model": "glm-5.3"
+}

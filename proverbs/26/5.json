@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v4 vs v5",
+      "rationale": "Vers 4 i tok no ken bekim, vers 5 i tok bekim — tupela i go wantaim, ol man i tambuim long senisim wanpela."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hibru i no gat pronoun; Tok Pisin i nidim long kamap klia."
+    }
+  ],
+  "translation": "Bekim tok long kesil olsem mared bilong en, bilong olsem em i no kamap ⟨em i⟩ man i save long ai bilong en yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/26\/5-8.1792359745951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "bekim tok"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "long kesil"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "olsem mared bilong en"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bilong olsem ... i no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "man i save"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong en yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:25.951450849Z",
+  "model": "glm-5.3"
+}

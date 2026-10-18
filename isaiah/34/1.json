@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Kam klostu ... waskim yu yet",
+      "rationale": "Verse opens with imperatives summoning the nations to come near and listen — a direct hook."
+    },
+    {
+      "kind": "you",
+      "subject": "ol lain bilong ol narapela kantri na ol lain manmeri",
+      "rationale": "Direct address to the nations and peoples as summoned hearers."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol lain bilong ol narapela kantri",
+      "rationale": "גוים literally 'nations\/Gentiles'; rendered as a descriptive phrase since Tok Pisin has no single established equivalent."
+    }
+  ],
+  "translation": "Kam klostu, ol lain bilong ol narapela kantri, bilong harim; na ol lain manmeri, waskim yu yet long harim: graun i ken harim, na olgeta samting bilong en i ken harim; graun olgeta, na olgeta pikinini bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/34\/1-4.1792354351836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "kam klostu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol lain bilong ol narapela kantri"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "bilong harim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na ol lain manmeri"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "waskim yu yet long harim"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "i ken harim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na olgeta samting bilong en"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "graun olgeta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "pikinini bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:31.836923700Z",
+  "model": "glm-5.3"
+}

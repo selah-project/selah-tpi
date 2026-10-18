@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 2:27",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי האלהים",
+      "rationale": "Oath formula 'as Elohim lives' — kept literally 'long laip bilong Elohim'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אז מהבקר נעלה",
+      "rationale": "Crux: KJV 'in the morning the people had gone up'; JPS 'only after the morning'; sense — the pursuit would have continued till morning."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (first)",
+      "gloss": "",
+      "rationale": "Oath particle with no independent Tok Pisin equivalent, absorbed into the oath formula."
+    }
+  ],
+  "translation": "Na Joab i tok: Long laip bilong Elohim, sapos yu no tok, oltaim ol manmeri bai i go ausait olgeta bihain long moning, wanwan man i lusim brata bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a519031aaff2febfcb8e9df1ae132b4e4d33b507c72a82d28497ee2aa2e04a1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/25-28.1792352153801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "חי",
+      "gloss": "long laip bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "sapos yu no"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bihain long moning"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "bai i go ausait olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "i lusim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:53.802725099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 16:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קמט",
+      "rationale": "Root קמט (shrink\/shrivelled) i save kamap long Tanakh hia tasol — 'krusim mi olgeta' i holim piksa bilong skin i krus."
+    },
+    {
+      "kind": "crux",
+      "subject": "כחשי",
+      "rationale": "כחש i min 'nogat mit' (emaciation) na tu 'tok giaman' (hypocrisy) — ol save tok 'leanness' o 'falsehood'; 'nogat-mit' i holim bodi-piksa bilong Job."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebtru i no gat pronoun bilong waines; Tok Pisin i nidim ⟨em⟩."
+    }
+  ],
+  "translation": "Na yu krusim mi olgeta, ⟨em⟩ i kamap waines; na nogat-mit bilong mi i kirap long mi, long pes bilong mi em i tok agen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/16\/5-8.1792360056741.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקמטני",
+      "gloss": "yu krusim mi olgeta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "waines"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "na … i kirap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כחשי",
+      "gloss": "nogat-mit bilong mi"
+    },
+    {
+      "surface": "בפני",
+      "gloss": "long pes bilong mi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "em i tok agen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:36.742300601Z",
+  "model": "glm-5.3"
+}

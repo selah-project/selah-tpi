@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחבלות",
+      "rationale": "tok bilongHolim rop bilong stia kanu — tasol long olgeta Tanakh em i stap long ol planti ples long Mishle tasol, mining olsem plan o pasin bilong lukautim"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Tok Pisin i no gat mak bilong olgeta samting, ⟨את⟩ i stap long translation tasol"
+    }
+  ],
+  "translation": "Long wanem, wantaim ol plan gutpela yu ken wokim ⟨את⟩ pait bilong yu, na sevim i kamap long planti man i gat ol kaunsel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/24\/5-8.1792359690159.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "wantaim ol plan gutpela"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu ken wokim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "na sevim i kamap"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "long planti"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "man i gat ol kaunsel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:30.160587320Z",
+  "model": "glm-5.3"
+}

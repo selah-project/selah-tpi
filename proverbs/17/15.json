@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "samting i grisim tru",
+      "rationale": "תוֹעֵבָה em i samting man i luk na bel i no nup long en — 'abomination' long Inglis; Tok Pisin i no gat wanpela tok stret."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצדיק\/צדיק · מרשיע\/רשע",
+      "rationale": "Rot bilong tupela tok i senisim ples — man i mekim stret i go long rong man, na man i mekim rong i go long stret man; chiasm."
+    }
+  ],
+  "translation": "Man i tok ol man nogut i stret, na man i tok ol man stret i rong — tupela i samting i grisim tru long ai bilong Yahwe, tupela olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/17\/13-16.1792359571788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "i tok … i stret"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "na i tok … i rong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "samting i grisim tru long ai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:31.789407392Z",
+  "model": "glm-5.3"
+}

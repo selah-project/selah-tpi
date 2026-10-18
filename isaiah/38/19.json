@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 38:19",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חי חי",
+      "rationale": "doubling of 'living' — 'the living, the living' — emphatic repetition kept"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יודך",
+      "rationale": "same verb as תודך in v18 — 'confess\/give thanks'; 'tok tenkyu' unifies the two verses"
+    }
+  ],
+  "translation": "Man i stap, man i stap, em bai tok tenkyu long yu, olsem mi long dispela de; papa bai skruim long ol pikinini stretpela pasin bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/38\/17-20.1792354369552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "man i stap"
+    },
+    {
+      "surface": "חי",
+      "gloss": "man i stap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "tok tenkyu long yu"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "olsem mi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "long ol pikinini"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "skruim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨long⟩ stretpela pasin"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:49.553054318Z",
+  "model": "glm-5.3"
+}

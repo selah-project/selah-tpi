@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חפצתי",
+      "rationale": "'I have delighted' expanded to 'bel bilong mi i laikim tru' — Hebrew verb of inclination\/delight."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנתיב",
+      "rationale": "A 'beaten track' (from נתב), distinct from the broader דרך of v33 — path imagery lost in generic 'pas'."
+    }
+  ],
+  "translation": "Mekim mi wokabaut long pas bilong ol komand bilong yu, long wanem long em bel bilong mi i laikim tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/33-36.1792359100308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Mekim mi wokabaut"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "long pas bilong"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol komand bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "bel bilong mi i laikim tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:40.309124585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כל קבל דנה",
+      "rationale": "Aramaic idiom 'for all this \/ on account of this', rendered as 'long olgeta dispela as'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אסרא",
+      "rationale": "Aramaic 'interdict\/ban', rendered as 'lo bilong pasim olgeta' — a prohibition, not the Tora"
+    }
+  ],
+  "translation": "Long olgeta dispela as, King Darius i raitim nem long rait bilong lo, na long lo bilong pasim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be960648d1d6dea61b3925fc4db3caef6a024f5c42e3442d0df7b7debf45242b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/6\/10-11.1792363451066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "as bilong"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darius"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "raitim nem"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "rait bilong lo"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "na lo bilong pasim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:11.066851016Z",
+  "model": "glm-5.3"
+}

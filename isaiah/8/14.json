@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew has no 'but'; supplied to mark the pivot from sanctuary to stumbling-stone."
+    },
+    {
+      "kind": "crux",
+      "subject": "tupela haus",
+      "rationale": "שני בתי ישראל: 'the two houses of Israel' (Israel plus Judah) vs 'both houses' read as the one divided kingdom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגף\/מכשול\/פח\/מוקש",
+      "rationale": "Four stacked trap-images climaxing from stone to snare; the escalation is kept by four distinct Tok Pisin phrases."
+    }
+  ],
+  "translation": "Na em i bai kamap ⟨em⟩ ples holi, tasol i bai kamap ston bilong bagarapim leg, na rok bilong pasim wokabaut, long tupela haus bilong Yisrael — olsem net na olsem tanim bilong ol man i stap long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/8\/13-16.1792353950806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na i bai kamap"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ples holi"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "na ston"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "bilong bagarapim leg"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "na rok"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "bilong pasim wokabaut"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "long tupela"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "olsem net"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "na olsem tanim"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "bilong ol man i stap"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:50.807803219Z",
+  "model": "glm-5.3"
+}

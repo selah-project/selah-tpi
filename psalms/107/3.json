@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומים",
+      "rationale": "ים hia em i 'solwara' (saut) o i no — KJV 'south', YLT\/JPS 'sea'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fopela kona",
+      "rationale": "Teks i skelim ol fopela kona bilong graun — ist, wes, nath, solwara"
+    }
+  ],
+  "translation": "Na long ol graun i bin olsem graun i kam olgeta, long sait bilong san i kirap, na long sait bilong san i daun, long nath, na long solwara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/1-4.1792358996851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "na long ol graun"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "i bin kamap olgeta"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "long sait bilong san i kirap"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na long sait bilong san i daun"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "long nath"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na long solwara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:56.855078842Z",
+  "model": "glm-5.3"
+}

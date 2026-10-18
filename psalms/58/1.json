@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "Al-Tashhet em i nem bilong wanpela singsing — 'No ken bagarapim' — tasol KJV i go long statistic bilong Ps 57 ol i bin lusim."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Miktam em i tok i no klia — 'gol' o 'ston ol i tanim tok long en' — i stap long titel bilong siks psalm tasol."
+    }
+  ],
+  "translation": "Long man i lidim sing; Al-Tashet (No ken bagarapim); psalm bilong David; Miktam (ol i tanim tok stret long ston).",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/58\/1-4.1792358352480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Long man i lidim sing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al (No ken)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bagarapim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam (tanim tok stret long ston)"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:12.481499547Z",
+  "model": "glm-5.3"
+}

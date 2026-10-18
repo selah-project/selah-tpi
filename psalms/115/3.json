@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat kopula long klos bilong v1"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עשה",
+      "rationale": "tempol pas — 'em i wokim pinis' o 'em i wokim' (perfekt Hebtru)"
+    }
+  ],
+  "translation": "Tasol Elohim bilong yumi ⟨em⟩ i stap long heven, wanem samting em i laikim, em i wokim pinis ⟨את⟩ ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/1-4.1792359050043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Tasol Elohim bilong yumi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i stap long heven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em i laikim"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:50.044774449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 4:22",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זהב סגור",
+      "rationale": "Literally 'shut-up gold' — understood as refined\/pure gold ('gol klia tru'); KJV 'pure gold', YLT 'gold refined'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדש הקדשים",
+      "rationale": "Hebrew construct 'holy of holies' rendered 'ples holi tru' per D4c — English 'holy of holies' superlative pattern."
+    },
+    {
+      "kind": "elision",
+      "subject": "ופתח הבית",
+      "rationale": "'Opening of the house' rendered as 'bel bilong haus' (entrance); Hebrew has no verb, English versions supply 'as for the entry'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gol",
+      "rationale": "Closing inventory of temple furnishings — every item specified as pure gold."
+    }
+  ],
+  "translation": "Na ol naintus, na ol bol bilong skaterim, na ol kap bilong han, na ol pen bilong kol — gol klia tru; na bel bilong haus, ol dua insait bilong en i go long ples holi tru, na ol dua bilong haus bilong tempel — gol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5d9a94abc40fb10112017a40e0975aca57bc2daf821799f368570a55414b1b7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/4\/21-22.1792362302148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמזמרות",
+      "gloss": "na ol naintus"
+    },
+    {
+      "surface": "והמזרקות",
+      "gloss": "na ol bol bilong skaterim"
+    },
+    {
+      "surface": "והכפות",
+      "gloss": "na ol kap bilong han"
+    },
+    {
+      "surface": "והמחתות",
+      "gloss": "na ol pen bilong kol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "klia tru"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "na bel bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "דלתותיו",
+      "gloss": "ol dua bilong en"
+    },
+    {
+      "surface": "הפנימיות",
+      "gloss": "insait"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "long ples holi tru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bilong ol samting holi tru"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "na ol dua bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "bilong tempel"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:02.149008423Z",
+  "model": "glm-5.3"
+}

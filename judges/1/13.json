@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 1:13",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "banis",
+      "rationale": "Hebrew verb has only object suffix 'it' (the city Kiryat-Sefer from v12); Tok Pisin needs the noun"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקטן ממנו",
+      "rationale": "'younger than him' — whether Kenaz or Caleb is the younger brother; BSB reads Kenaz as Caleb's younger brother"
+    }
+  ],
+  "translation": "Na Otniel, pikinini bilong Kenaz, brata bilong Kalev i liklik long em, em i kisim ⟨את⟩ banis; na em i givim long em ⟨את⟩ Aksa, pikinini meri bilong em, bilong kamap meri bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/1\/13-16.1792350970996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "em i kisim"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Otniel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "i liklik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pikinini meri bilong em"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilong kamap meri bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:16:10.997329939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "תת יצא ובא",
+      "rationale": "Hebrew 'to give going-out and coming-in' rendered as 'ken gat man i save go ausait o kam insait'."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Tok Pisin requires 'man' as the one going out and in; Hebrew has no explicit noun."
+    }
+  ],
+  "translation": "Na Baasha, king bilong Yisrael, i go antap long Juda, na em i bilim ⟨את⟩ Rama, bilong olsem ol i no ken gat man i save go ausait o kam insait long Asa, king bilong Juda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/15\/17-20.1792353090936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na em i bilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bilong olsem ol i no ken"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ken gat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i save go ausait"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "o kam insait"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "long Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:30.937690967Z",
+  "model": "glm-5.3"
+}

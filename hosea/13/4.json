@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim mak bilong 'i no gat' — אַיִן Hibru i tok 'i no stap' tasol."
+    },
+    {
+      "kind": "you",
+      "subject": "Efrayim\/Yisrael",
+      "rationale": "Yahwe i tok stret long Yisrael — 'yu' long olgeta sat."
+    },
+    {
+      "kind": "crux",
+      "subject": "זוּלָתִי",
+      "rationale": "'Narapela long mi' o 'bilong mi tasol' — wankain mining, tupela pasin i stap."
+    }
+  ],
+  "translation": "Na mi, Yahwe Elohim bilong yu, long graun bilong Mitsrayim; na narapela Elohim long mi yu no save long em, na ⟨i⟩ no gat man i save helpim, mi tasol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/13\/1-4.1792357113808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "na narapela Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yu save"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "na man i save helpim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨i⟩ no gat"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mi tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:33.809747979Z",
+  "model": "glm-5.3"
+}

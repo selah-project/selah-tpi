@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Relative particle absorbed into the concessive 'maski olgeta dispela samting'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Belshazzar",
+      "rationale": "Direct second-person accusation by Daniel before the king"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב rendered bel per discipline: seat of thinking and wanting, not 'hat'"
+    }
+  ],
+  "translation": "Na yu yet, pikinini bilong en, Belshatsar, yu no mekim bel bilong yu smol, maski yu save olgeta dispela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aed8ce4b0d66142f5ea25f1f43524182b70176576f71af7bb9c9ed762c260b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/5\/21-24.1792361088325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "na yu yet"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "yu mekim smol"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maski"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "maski"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save"
+    }
+  ],
+  "timestamp": "2026-10-18T22:04:48.326818933Z",
+  "model": "glm-5.3"
+}

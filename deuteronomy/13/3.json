@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol narapela god",
+      "rationale": "אלהים אחרים is 'other elohim' — small-g 'god' since it is gods of the nations, not Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added to mark the relative clause object, absent in Hebrew."
+    }
+  ],
+  "translation": "na dispela sign o mirakel i kamap, olsem em i tokim yu long en, i tok: Yumi go bihain long ol narapela god, ol ⟨em⟩ yu no save long ol, na yumi savim ol;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "902980cbce8974fc662d2c774a7e22cf6680f3744c98e6f4212c20177b7a8070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/13\/2-3.1792363020107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "האות",
+      "gloss": "dispela sign"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "o mirakel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "yumi go"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ol narapela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "yu save long ol"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "na yumi savim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:00.108371090Z",
+  "model": "glm-5.3"
+}

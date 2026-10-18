@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 21:37",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Hebrew uses 2fs passive (תזכרי) with no agent; Tok Pisin needs 'ol i' for the impersonal rememberers"
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם-formula absent",
+      "rationale": "Verse ends on 'ki Ani YHWH dibarti', the divine-speech seal; rendered 'long wanem mi Yahwe, mi tokim dispela'"
+    }
+  ],
+  "translation": "Long paia yu bai kamap bilong kaikai; blut bilong yu bai stap long namel bilong graun; bai ol i no tingim yu moa, long wanem mi Yahwe, mi tokim dispela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1dae85b6a4b36da4122b25b01a2124369163b40f45b9a57f07887e4e15acae7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/21\/37-37.1792356300184.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yu bai kamap"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "bilong kaikai"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "blut bilong yu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai stap"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "bai ol i tingim yu moa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi tokim dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:45:00.185331698Z",
+  "model": "glm-5.3"
+}

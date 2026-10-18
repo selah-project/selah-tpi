@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew השמיעיני has no explicit object; TPI requires ⟨em⟩ (the voice)."
+    },
+    {
+      "kind": "you",
+      "subject": "to the beloved",
+      "rationale": "The speaker addresses the woman dwelling in the gardens directly."
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמיעיני",
+      "rationale": "Imperative summons: 'let me hear (your voice)' draws the addressee in."
+    }
+  ],
+  "translation": "Yu, yu save sindaun long ol gaden — ol kampfren i hariap harim tok bilong yu; skrumi ⟨em⟩ long mi, olsem mi ken harim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/13-14.1792360504781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "yu, yu save sindaun"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "long ol gaden"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ol kampfren"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "i hariap harim"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "skrumi ⟨em⟩ long mi, olsem mi ken harim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:04.782554463Z",
+  "model": "glm-5.3"
+}

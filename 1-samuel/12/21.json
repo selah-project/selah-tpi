@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו...תהו",
+      "rationale": "Tohu frames the verse at start and end — 'emptiness' repeated for emphasis; Tok Pisin keeps the repetition 'samting nating'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יועילו\/הואיל",
+      "rationale": "yo'ilu (profit) in v21 echoes ho'il (was pleased) in v22 — same root יעל, a sound-link lost in translation."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ino ken giregi",
+      "rationale": "Samuel's negative imperative directly addresses the people."
+    }
+  ],
+  "translation": "Na ino ken giregi, long wanem, bihainim ol samting nating, olgeta we ol i no inap wokim gutpela samting i no inap olgeta lukautim yupela, long wanem, olgeta em i ol samting nating.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/12\/21-24.1792351642246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ino ken"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "giregi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "⟨ה⟩ samting nating"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olgeta we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ino"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "inap wokim gutpela samting"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i no inap olgeta"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "lukautim yupela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "samting nating"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:22.247046602Z",
+  "model": "glm-5.3"
+}

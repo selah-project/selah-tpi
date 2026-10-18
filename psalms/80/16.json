@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכנה ... ועל בן",
+      "rationale": "'the plant... and upon the son' — KJV reads 'branch', BSB 'the son'; Hebrew has both a plant and a בן"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנה",
+      "rationale": "כנה appears only here in the Tanakh — 'the planted thing'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wain diwai",
+      "rationale": "כנה is 'the plant\/stock' — vine supplied from context of verse 15"
+    }
+  ],
+  "translation": "Na dispela wain diwai we han kais bilong yu i plandim, na dispela pikinini man we yu mekim strong bilong yu yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/13-16.1792358590437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "Na dispela wain diwai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "i plandim"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "han kais bilong yu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "yu mekim strong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.438282523Z",
+  "model": "glm-5.3"
+}

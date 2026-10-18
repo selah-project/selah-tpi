@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי…קולי",
+      "rationale": "repetition bilong 'blok bilong mi' — chiasm man i no inap lostim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "blok bilong mi",
+      "rationale": "קול i tok blok\/singaut — Tok Pisin 'blok' em klostu"
+    }
+  ],
+  "translation": "Blok bilong mi i go long Yahwe, mi singaut kwiktime; blok bilong mi i go long Yahwe, mi askim marimari.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/142\/1-4.1792359254094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "blok bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "mi singaut kwiktime"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "blok bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mi askim marimari"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:14.095018232Z",
+  "model": "glm-5.3"
+}

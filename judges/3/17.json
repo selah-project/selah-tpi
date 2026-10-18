@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה i stap olsem minkha — i no presen o takis"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hibru i no gat kopula long 'Eglon man poro'"
+    }
+  ],
+  "translation": "Na em i bringim ⟨את⟩ ol minkha i kam long Eglon, king bilong Moab; na Eglon em i man poro bikpela tumas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "71105052039f5f09c8f4fea6619bb997cd589300cf39f24fafeffb46cf0cb815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/3\/17-20.1792351048115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "i bringim i kam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ol minkha"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "long Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "bilong Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "na Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "poro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bikpela tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T19:17:28.115964546Z",
+  "model": "glm-5.3"
+}

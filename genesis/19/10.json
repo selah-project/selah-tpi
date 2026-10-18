@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ידם",
+      "rationale": "Hebrew says only 'their hand' — singular, one hand each; Tok Pisin keeps it plain."
+    }
+  ],
+  "translation": "Na ol man i stretim ⟨את⟩ han bilong ol, na ol I bringim ⟨את⟩ Lot i kam long olgeta, i go insait long haus, na ol i clostim ⟨את⟩ dua.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/19\/9-12.1792346514166.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "na ol i stretim"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong ol"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "han bilong ol"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na ol I bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "i kam long olgeta"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "i go insait long haus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dua"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dua"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ol i clostim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:54.167336681Z",
+  "model": "glm-5.3"
+}

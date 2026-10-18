@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המערכת",
+      "rationale": "Literally 'the arrangement (pile of loaves)' — rendered 'stakim bret' to keep the concrete picture of stacked showbread."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשלחן ושלחן",
+      "rationale": "Distributive repetition 'table and table' — every table weighed; kept as 'wanwan tebol na tebol'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gold for tables",
+      "rationale": "Weights assigned per table — continuation of the weighed temple inventory."
+    }
+  ],
+  "translation": "Na ⟨את⟩ gol bilong skelim long ol tebol bilong stakim bret — long wanwan tebol na tebol; na silva long ol tebol bilong silva.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9618b62f233265ffe12f4dec4698e2faefc1363636d9a5cccf09305250c7ebeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/28\/13-16.1792362234026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gol"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "bilong skelim"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "long ol tebol"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "bilong stakim bret"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "long wanwan tebol"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "na tebol"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na silva"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "long ol tebol"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bilong silva"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:54.027355180Z",
+  "model": "glm-5.3"
+}

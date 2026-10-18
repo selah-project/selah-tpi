@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמן ראש אל יני ראשי",
+      "rationale": "Oil for the head that my head must not refuse — some read 'it shall not injure\/wound my head' (KJV 'break'), others 'my head does not refuse it' (JPS, YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד rendered as the fixed term khesed, not as generic kindness."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי עוד ותפלתי",
+      "rationale": "'for still my prayer continues' (ASV) vs 'my prayer is against\/over their evil deeds' — Hebrew syntax is compressed."
+    }
+  ],
+  "translation": "Man stretpela i ken paitim mi — em i khesed; na i ken skelim mi stret — em i ol bilong hed; no ken ring, hed bilong mi i no ken rifusim ⟨em⟩; bilong yet, pregare bilong mi i stap yet long ol samting nogut bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/141\/5-8.1792359285258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "i ken paitim mi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stretpela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "na i ken skelim mi stret"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ol bilong"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יני",
+      "gloss": "i no ken rifusim"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hed bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "pregare bilong mi"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "long ol samting nogut bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:45.258804209Z",
+  "model": "glm-5.3"
+}

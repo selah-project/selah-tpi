@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i wanpela tok — ruak bilong Elohim, i no 'spirit' tasol"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ruak bilong Elohim i kamap long em",
+      "rationale": "Hebrew i tok 'ruak bilong Elohim i bin stap antap long em' — היתה עליו"
+    }
+  ],
+  "translation": "Na ruak bilong Elohim i kamap long Azarya, pikinini bilong Oded.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/15\/1-4.1792362514628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Na Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Oded"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bilong Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:28:34.628660825Z",
+  "model": "glm-5.3"
+}

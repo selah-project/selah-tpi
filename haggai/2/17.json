@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואין אתכם אלי",
+      "rationale": "Literal: 'and there is none of you with me' (YLT); KJV\/JPS read 'yet ye turned not to me' — a smoother but less literal rendering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sik bilong lip \/ sik yelopela",
+      "rationale": "שדפון blight and ירקון mildew\/paleness are crop diseases; Tok Pisin needs descriptive phrases for these rare agricultural terms."
+    },
+    {
+      "kind": "you",
+      "subject": "ol yupela",
+      "rationale": "Direct address to the returned exiles in Yehud through the prophet."
+    }
+  ],
+  "translation": "Mi paitim ⟨את⟩ ol yupela long sik bilong lip, na long sik yelopela, na long hail — ⟨את⟩ olgeta wok bilong han bilong yupela; na i no gat ⟨את⟩ wanpela bilong yupela i kam long mi — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/2\/17-20.1792357609260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Mi paitim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ol yupela"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "long sik bilong lip"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "na long sik yelopela"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "na long hail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta wok bilong han bilong yupela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "bilong han bilong yupela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wanpela bilong yupela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i kam long mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:49.263277540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "pronoun bilong klia pasin — Hebrew i no gat em"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש em i win\/breth\/lain bilong laik, i no 'soul' olsem Inglis"
+    }
+  ],
+  "translation": "Nefes bilong mi i mas liv, na ⟨em⟩ i bai singingautim nem bilong yu, na ol kot bilong yu i mas helpim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/173-176.1792359119813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "i mas liv"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes bilong mi"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "na i bai singautim nem bilong yu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na ol kot bilong yu"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "i mas helpim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:59.814673510Z",
+  "model": "glm-5.3"
+}

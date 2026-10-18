@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צרוע",
+      "rationale": "'Leprosy' vs general skin disease; Hebrew tsara'at covers various skin conditions, not Hansen's disease."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנפש",
+      "rationale": "nephesh here = dead body\/person, not 'soul'; rendered 'bodi bilong man i dai'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זב",
+      "gloss-note": "zav = bodily discharge; rendered descriptively."
+    }
+  ],
+  "translation": "Tokim ⟨את⟩ ol pikinini bilong Yisrael, olken senisim olgeta i go ausait long kemp: olgeta man i gat sik bilong skin (tarangau i kaikaim), na olgeta man i gat wara i klostu nogut, na olgeta i no holi long wanpela bodi bilong man i dai pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8d19404fce15ea6a1645e5d2b0ea82eab1d68ba94b1f3f3e650dd85be2092961",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/5\/1-4.1792349025839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "olken senisim i go"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ausait long"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "man i gat sik bilong skin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "זב",
+      "gloss": "man i gat wara i klostu nogut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "i no holi"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "long wanpela bodi bilong man i dai pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:43:45.840366419Z",
+  "model": "glm-5.3"
+}

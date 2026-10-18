@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 33:21",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושפי",
+      "rationale": "Rare word from bareness: 'his once-hidden bones are laid bare' (KJV 'stick out') vs 'corrode' (JPS) vs 'are high' (YLT)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ושפי",
+      "rationale": "Form occurs only here in the Tanakh; root שפה means bareness, a bare hill."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מראי \/ ראו",
+      "rationale": "Root ראה (see) used twice — flesh unseen, bones not seen — chiasm lost in Tok Pisin."
+    }
+  ],
+  "translation": "Mit bilong em i pinis olgeta, ol i no inap lukim ⟨em⟩; na ol bun bilong em, we bipo ol i no lukim, ol i kamap bare olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/33\/21-24.1792360296094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכל",
+      "gloss": "i pinis olgeta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mit bilong em"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "ol i no inap lukim ⟨em⟩"
+    },
+    {
+      "surface": "ושפי",
+      "gloss": "ol i kamap bare"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ol bun bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ol i lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:36.094784329Z",
+  "model": "glm-5.3"
+}

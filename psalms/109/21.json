@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Prayer turns from the enemies (v.20) to direct address of Yahwe Adonai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rausim mi long senara",
+      "rationale": "הצילני is literally 'snatch me away'; Tok Pisin renders the rescue outcome."
+    }
+  ],
+  "translation": "Tasol yu, Yahwe Adonai, wokim gut ⟨את⟩ ⟨wantaim⟩ mi bilong nem bilong yu, bilong olsem khesed bilong yu i gutpela, rausim mi long senara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/21-24.1792359023856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tasol yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim gut"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wantaim",
+      "marks": "mi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong nem bilong"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rausim mi long senara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:23.857058401Z",
+  "model": "glm-5.3"
+}

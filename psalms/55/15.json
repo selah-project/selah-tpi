@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "sod",
+      "rationale": "סוד em i tok hait \/ komsed bilong ol man wantaim — mipela holim tok Hibru 'sod'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wantaim planti man",
+      "rationale": "ברגש i tok 'plantiman i wokabaut wantaim olsem kain' — Tok Pisin i no gat wanpela tok"
+    }
+  ],
+  "translation": "Olsem yumi switim ⟨את⟩ sod wantaim, na yumi wokabaut wantaim planti man long haus bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b253a0c41a131a291ebed9375d1be76fb6f6ff443e2b826b67ddc7f0eea2f34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/13-16.1792358335358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "yumi switim"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "yumi wokabaut"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "wantaim planti man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:55.359009913Z",
+  "model": "glm-5.3"
+}

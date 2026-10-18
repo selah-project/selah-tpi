@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok tenkyu",
+      "rationale": "תודה long stat tru em i pasin bilong stretim han — tensen i kamap tok tenkyu long Tora"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol bikpela samting",
+      "rationale": "נפלאות olgeta em ol wok i winim save bilong man — samting i wow"
+    }
+  ],
+  "translation": "Bai mi mekim ol man i harim ⟨i⟩ singsing bilong tok tenkyu, na bai mi stori long olgeta ol bikpela samting bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/26\/5-8.1792358053303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ol man i harim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "singsing\/gol bilong"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tok tenkyu"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "na bai mi stori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ol bikpela samting bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:13.304532546Z",
+  "model": "glm-5.3"
+}

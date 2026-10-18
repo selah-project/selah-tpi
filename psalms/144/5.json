@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Direct address to Yahwe, prayer asking him to come down and act."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעשנו",
+      "rationale": "Root עשן: 'smoke' (KJV\/JPS) vs 'be shaken\/quake' (some read from Aramaic sense); smoke kept as literal shape."
+    }
+  ],
+  "translation": "Yahwe, bentim ⟨את⟩ ol heven bilong yu i kam daun; tokim ⟨את⟩ ol maunten, na ol bai smok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/144\/5-8.1792359314586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "bentim"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ol heven bilong yu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "na i kam daun"
+    },
+    {
+      "surface": "גע",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "na ol bai smok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:14.586821613Z",
+  "model": "glm-5.3"
+}

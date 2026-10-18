@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושחרתני",
+      "rationale": "root שחר 'to seek early\/diligently' — KJV 'seek me in the morning' vs JPS 'seek me diligently'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "das",
+      "rationale": "עפר rendered 'das' per D4; 'graun' also possible"
+    },
+    {
+      "kind": "addition",
+      "subject": "moning",
+      "rationale": "שחר literally 'dawn\/early' — supplied 'moning' to keep the morning-seeking picture"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Hebrew כי absorbed into 'long dispela taim' with עתה; no separate Tok Pisin word"
+    }
+  ],
+  "translation": "Na bilong wanem yu no ken kirapim ⟨את⟩ sot bilong mi, na yu no ken rausim ⟨את⟩ rou bilong mi? Long dispela taim, bai mi slip long das, na yu bai painim mi long moning, tasol mi no stap moa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "229a8f79207f463e03495fdfde791c55c65d023fdeaa083af382fa18be1ab479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/7\/21-21.1792359895680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "sot bilong mi"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rou bilong mi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "rou bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long dispela taim"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "long das"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "mi slip"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "yu bai painim mi long moning"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mi no stap moa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:55.681317402Z",
+  "model": "glm-5.3"
+}

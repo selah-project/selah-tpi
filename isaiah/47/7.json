@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב איז 'bel' long Tok Pisin — ples bilong tingting na laik, i no 'hat'."
+    },
+    {
+      "kind": "elision",
+      "subject": "עד",
+      "rationale": "עד לא i tok 'i go inap long taim we ol i no bin...'; Tok Pisin i no gat wanpela tok klostu, mi rausim."
+    }
+  ],
+  "translation": "Na yu tok: Mi bai stap olsem bikmeri olgeta taim; yu no putim ol dispela samting long bel bilong yu, yu no tingim laspela taim bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "907573ff3d314b66abf3ee49a641c6fed5d20e777e0aa95f7a67dea234ff0132",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/47\/5-8.1792354607239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "Na yu tok"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mi bai stap"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "olsem bikmeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "yu tingim"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "laspela taim bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:47.240190797Z",
+  "model": "glm-5.3"
+}

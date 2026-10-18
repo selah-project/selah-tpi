@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושבח",
+      "rationale": "Piel of שבח read as 'praise' (JPS) vs some read as 'esteem\/judge happy' — here rendered as giving good words to."
+    }
+  ],
+  "translation": "Na mi givim gudpela tok long ⟨את⟩ ol man i dai pinis, olsem ol i dai pinis, moa long ol man i stap yet, we olgeta ol i stap i go yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/4\/1-4.1792360760750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Na mi givim gudpela tok long"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i dai pinis"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ol man i dai"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "olsem ol i dai pinis"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "i dai pinis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "moa long"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ol man i stap yet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "i go yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:20.750957334Z",
+  "model": "glm-5.3"
+}

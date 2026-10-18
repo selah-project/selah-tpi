@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחר",
+      "rationale": "'Aher' as proper name vs common noun 'narapela man' — JPS reads 'son of another'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אחר as name",
+      "rationale": "Acher as personal name appears only here in the Tanakh"
+    }
+  ],
+  "translation": "Na Shupim na Hupim, ol pikinini man bilong Ir; Hushim, ol pikinini man bilong Aher.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/7\/9-12.1792361891150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "na Shupim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "na Hupim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Aher"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:11.152174379Z",
+  "model": "glm-5.3"
+}

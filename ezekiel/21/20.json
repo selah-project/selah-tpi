@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 21:20",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' — D4 discipline: bel covers tingting na laik, not physical heart."
+    },
+    {
+      "kind": "crux",
+      "subject": "אבחת",
+      "rationale": "Rare word — 'brandishing\/point of the sword' vs 'slaughter-sword'; rendered 'sap bilong bainat'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "המכשלים",
+      "rationale": "Rendered 'stumblings' (plural abstract); some read concrete 'ruins' heaped at the gates."
+    }
+  ],
+  "translation": "Bilong bel bilong ol i malumalu, na bilong planti ting i kamap long olgeta; long olgeta dua bilong ol mi putim sap bilong bainat; a, ol i wokim em long stat bilong sai, em sarp olgeta bilong kasim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "83ba2eedc9bed15e4e15df4906c6c21660dc2b51137016e33515024d7ca4316b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/21\/17-20.1792356377568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "למוג",
+      "gloss": "i malumalu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "na planti i kamap"
+    },
+    {
+      "surface": "המכשלים",
+      "gloss": "ting bilong painim rot"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שעריהם",
+      "gloss": "dua bilong ol"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "אבחת",
+      "gloss": "sap bilong bainat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "אח",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשויה",
+      "gloss": "ol i wokim em"
+    },
+    {
+      "surface": "לברק",
+      "gloss": "long stat bilong sai"
+    },
+    {
+      "surface": "מעטה",
+      "gloss": "sarp"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "bilong kasim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:46:17.570062538Z",
+  "model": "glm-5.3"
+}

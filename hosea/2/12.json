@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem nogut bilong en",
+      "rationale": "נבלתה is her disgraceful nakedness (pudenda); rendered as shameful exposure."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁוּב repetition",
+      "rationale": "Hosea 2 rings on שׁוב (return): she returns (v9), he returns (v11) — the same verb for both."
+    }
+  ],
+  "translation": "Na nau mi bai soim ⟨את⟩ sem nogut bilong en long ai bilong ol man i laikim em, na olgeta man i no bai inap pulim em ausait long han bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/2\/9-12.1792356984928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "mi bai soim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sem nogut bilong en"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "sem nogut bilong en"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "ol man i laikim em"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na olgeta man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "bai inap pulim em ausait"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "long han bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:24.929877115Z",
+  "model": "glm-5.3"
+}

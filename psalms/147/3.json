@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per glossary — seat of feeling and thinking, not the body organ 'hat'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעצבותם",
+      "rationale": "עצב means both 'pain\/sorrow' and 'idol'; the pain reading is kept, the idol echo (grief caused by idols) is a known wordplay lost here."
+    }
+  ],
+  "translation": "Em i wokim ol i gat bel i bruk, na em i wrapim stret olgeta pen bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/1-4.1792359336465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ol i gat bel i bruk"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "na em i wrapim stret"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "olgeta pen bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:36.467449985Z",
+  "model": "glm-5.3"
+}

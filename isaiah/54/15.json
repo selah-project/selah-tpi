@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור \/ גר",
+      "rationale": "Rut wankain גור i kamap tripela taim — infinitif absolut bilong strongim, na Tok Pisin i no inap holim dispela lon"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי גר אתך",
+      "rationale": "KJV\/ASV: 'man i sanap nogut long yu bai pundaun'; YLT: 'husat i sanap klostu long yu? Long yu em i pundaun' — אתך i save tok 'wantaim yu' o 'i stap klostu long yu'"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Tok i go stret long Sion"
+    }
+  ],
+  "translation": "Lukim: sapos ol i sanap Wantaim, ⟨את⟩ em i no long mi; husat i sanap wantaim yu, long yu em bai i pundaun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/54\/13-16.1792354652893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "גור",
+      "gloss": "sapos ol i sanap wantaim"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ol i sanap wantaim tru"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "em i no"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "husat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "גר",
+      "gloss": "i sanap wantaim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wantaim yu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "em bai i pundaun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:32.894625208Z",
+  "model": "glm-5.3"
+}

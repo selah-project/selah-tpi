@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושקי רומי קשת",
+      "rationale": "Root נשק can mean 'kiss' or (as here, a second root) 'to equip with weapons'; rendered 'equipped with bows', not 'kissers of bows'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol banis bilong sut",
+      "rationale": "רומי קשת is literally 'hurlers of the bow' (those who shoot arrows); one phrase split across two tokens."
+    }
+  ],
+  "translation": "Ol pikinini bilong Efraim, ol i redim wantaim ol banis bilong sut, tasol ol i tanim bek long dei bilong pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/9-12.1792358547101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "ol i redim wantaim"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ol banis bilong sut"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "banis bilong sut"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "tanim bek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "pait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:27.101725119Z",
+  "model": "glm-5.3"
+}

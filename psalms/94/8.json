@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tingting stret",
+      "rationale": "Imperative summons addressed to the senseless among the people"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Direct second-person address to the brutish and foolish"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man olgeta i no gat tingting",
+      "rationale": "בערים literally 'burnt\/beast-like' (בער), brutish; rendered descriptively since Tok Pisin lacks one word"
+    }
+  ],
+  "translation": "Tingting stret, ol man olgeta i no gat tingting long ol lain, na ol man no gat tingting — klia o, long wanem taim bai yu save tingting stret?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/94\/5-8.1792358825164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Tingting stret"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ol man olgeta i no gat tingting"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "long ol lain"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "na ol man no gat tingting"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "long wanem taim"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "bai yu save tingting stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:05.172152141Z",
+  "model": "glm-5.3"
+}

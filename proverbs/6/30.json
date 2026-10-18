@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב\/יגנוב",
+      "rationale": "Noun 'thief' and verb 'steals' share root; kept as 'man i stil' \/ 'i stilim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש here is appetite\/life-force; rendered 'bel' per D4, not 'soul'"
+    }
+  ],
+  "translation": "Ol i no ken luksave nogut long man i stil, sapos em i stilim bilong pulapim bel bilong ⟨em⟩, sapos em i hangre.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/6\/29-32.1792359470199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ol i no ken"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "luksave nogut"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "long man i stil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "em i stilim"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "bilong pulapim"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong ⟨em⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "em i hangre"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:50.200816069Z",
+  "model": "glm-5.3"
+}

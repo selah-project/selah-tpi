@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחטאני",
+      "rationale": "Verb from root חטא (sin) used as 'de-sin me' — same root as the sin being purged; Tok Pisin 'kliaim mi' loses the pun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wasim mi",
+      "rationale": "כבס is washing by trampling\/stamping with the feet, not ordinary washing."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kliaim mi",
+      "rationale": "Second reading: 'yu paketim mi long tewel' — some take חטא here as 'purge of sin' specifically, as in hyssop ritual of Num 19."
+    }
+  ],
+  "translation": "Kliaim mi wantaim aisop na bai mi klin; wasim mi na bai mi kamap wait moa long snek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/9-12.1792358316075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "kliaim mi"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "wantaim aisop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "na bai mi klin"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "wasim mi"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "na long snek"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "bai mi kamap wait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:36.076420396Z",
+  "model": "glm-5.3"
+}

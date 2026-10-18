@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative pronoun folded into 'samting bilong en', no standalone Tok Pisin word"
+    }
+  ],
+  "translation": "Na Avraham i givim ⟨את⟩ olgeta samting bilong en long Yitsak.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e12dea066e8fe59b0bde57fe9ee3c476792aea9d9a32cff1812983ed5dc937de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/25\/5-8.1792346673570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting bilong en"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "long Yitsak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:33.570533055Z",
+  "model": "glm-5.3"
+}

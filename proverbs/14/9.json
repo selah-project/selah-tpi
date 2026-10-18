@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "Gloss-ol i sugerim: 'asua' (rong), 'ofa bilong asua' (ofa bilong rong), o 'ol i tok bikhet long ofa' — tpi makim ofa bilong asua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רצון",
+      "rationale": "רצון em i 'laik tru \/ pasin bilong laikim', i no jis 'fava'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יליץ",
+      "rationale": "לוץ i save min 'open maut na kastomim', tpi makim pasin bilong kastom olsem wanpela piksa."
+    }
+  ],
+  "translation": "Ol man nogut i bihainim ⟨את⟩ ofa bilong asua wantaim pasin bilong kastom; tasol namel long ol man stretpela i stap laik tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/14\/9-12.1792359491772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "i bihainim wantaim pasin bilong kastom"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "⟨את⟩ ofa bilong asua",
+      "marks": "ofa bilong asua"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "tasol namel long"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ol man stretpela"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "i stap laik tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:11.773421488Z",
+  "model": "glm-5.3"
+}

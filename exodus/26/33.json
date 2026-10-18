@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 26:33",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "insait bihain long",
+      "rationale": "מבית lit. 'from the house of', rendered as 'on the inside behind' to keep the spatial picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "paroket",
+      "rationale": "פרכת is the sacred screen; Hebrew sound kept rather than a descriptive phrase"
+    },
+    {
+      "kind": "measurement",
+      "subject": "holi bilong ol holi",
+      "rationale": "קדש הקדשים is a superlative construct — 'holi of holis' — describing the innermost space"
+    }
+  ],
+  "translation": "Na yu putim ⟨את⟩ paroket ananit long ol huk, na yu karim i go long hap, long hap insait bihain long paroket, ⟨את⟩ bokis bilong testimon, na paroket i separatem ⟨long⟩ yu, namel long holi ples na namel long holi bilong ol holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/26\/33-36.1792347871024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paroket"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ol huk"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na yu karim i go"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long hap insait bihain long"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis bilong testimon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "bilong testimon"
+    },
+    {
+      "surface": "והבדילה",
+      "gloss": "na i separatem"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holi ples"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bilong ol holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:31.025575985Z",
+  "model": "glm-5.3"
+}

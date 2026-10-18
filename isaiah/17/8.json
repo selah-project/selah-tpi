@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האשרים",
+      "gloss note—": "kept as proper name Aséra rather than 'ol garen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "word order",
+      "rationale": "Hebrew fronts the Asherim and sun-pillars after the verb for climax; Tok Pisin keeps them before the negated verb to preserve the list."
+    }
+  ],
+  "translation": "Na em bai i no lukluk long ol altar, ol wok bilong han bilong en; na samting pinga bilong en i wokim — ol Aséra na ol ston bilong san — em bai i no lukim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/17\/5-8.1792354116674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ... i no"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "bai i lukluk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ol altar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ol wok"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "bilong han bilong en"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "pinga bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bai i lukim"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "na ol Aséra"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "na ol ston bilong san"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:36.676063265Z",
+  "model": "glm-5.3"
+}

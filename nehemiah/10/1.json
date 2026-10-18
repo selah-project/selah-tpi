@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "katim kontrak",
+      "rationale": "כרת אמנה em i idiom Hibru — 'katim kontrak', no gat senis long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "pronoun ⟨em⟩ i kamapim long Tok Pisin bilong tok 'ol bilong sealim'"
+    }
+  ],
+  "translation": "Na long olgeta dispela samting, yumi ⟨i⟩ katim kontrak na yumi raitim; na ol bilong sealim en ⟨em⟩ i ol ol bikman bilong yumi, ol Levi bilong yumi, ol pris bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/10\/1-4.1792361683054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yumi"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "katim kontrak"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "rairim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long ol bilong sealim"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "sealim en"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "ol bikman bilong yumi"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "ol Levi bilong yumi"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "ol pris bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:14:43.055274428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem tok Hibru yet, i no tanim long marimari tasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "refren",
+      "rationale": "כי לעולם חסדו i kamap olgeta taim long olgeta ves bilong salm olsem rit"
+    }
+  ],
+  "translation": "⟨את⟩ mun na ol sta bilong ol i bosim long nait, bilong khesed bilong en i stap olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/136\/9-12.1792359233641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mun"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "mun"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na ol sta"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "bilong bosim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i stap olgeta taim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:53.641689647Z",
+  "model": "glm-5.3"
+}

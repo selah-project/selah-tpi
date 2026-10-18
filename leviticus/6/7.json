@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin needs the copula 'em i' where Hebrew has bare nominal clause."
+    }
+  ],
+  "translation": "Na dispela em i Tora bilong minkha ofering: ol pikinini bilong Aharon i bringim ⟨את⟩ em i go pastaim long Yahwe, klostu long pes bilong altar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "09948912d678dc7719a3898ae0514df3c1a3028af954ab4c04eb7c613fe11924",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/6\/5-8.1792348294107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na dispela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora bilong"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha ofering"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "i bringim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em (minkha ofering)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "i go pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:34.107960315Z",
+  "model": "glm-5.3"
+}

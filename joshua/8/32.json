@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'mishneh' = duplicate\/copy\/double — could also mean 'second [giving of the] Torah' (Deut = Mishneh Torah); most render 'copy'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ויכתב",
+      "rationale": "Public inscribing of the Torah duplicate — a written, countable text act before witnesses."
+    }
+  ],
+  "translation": "Na em i raitim de long ol ston ⟨את⟩ kopi bilong Tora bilong Mose, we em i raitim long pes bilong ol pikinini bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/8\/29-32.1792350644882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "na em i raitim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ol ston"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopi bilong Tora bilong Mose"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "bilong Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "bilong Mose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "i raitim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:10:44.884038358Z",
+  "model": "glm-5.3"
+}

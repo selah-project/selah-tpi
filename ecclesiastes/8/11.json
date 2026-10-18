@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פתגם",
+      "rationale": "Persian loanword 'sentence\/decree', rare in Tanakh; rendered 'kot'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per D4 — seat of feeling and will, no 'hat'"
+    }
+  ],
+  "translation": "Bihainim kot long wok bilong ol man nogut i no tanim kwiktaim, olsem na bel bilong ol pikinini man i fulap long dispela, na ol i wokim olgeta samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/9-12.1792360822355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tanim"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "kot"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kwiktaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long dispela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na ol i wokim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "olgeta samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:22.356650696Z",
+  "model": "glm-5.3"
+}

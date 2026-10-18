@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "tok bilong Kayin",
+      "rationale": "MT i no raitim wanem Kayin i tok; Samaren na LXX i gat 'Yumi go long gaden'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i dai",
+      "rationale": "kilim em i dai — Tok Pisin i pinisim tok, הרג i min dai yet"
+    }
+  ],
+  "translation": "Na Kayin i tok long Hevel, brata bilong en; na taim ol i stap long gaden, Kayin i kirap long Hevel, brata bilong en, na kilim em i dai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/4\/5-8.1792346319992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "taim ol i stap"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "na kilim em i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:39.993682043Z",
+  "model": "glm-5.3"
+}

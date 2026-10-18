@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "praunim long",
+      "rationale": "Hebrew השתחוה is one verb; Tok Pisin needs the direction word 'long'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rot bilong tru",
+      "rationale": "אמת 'emet' is firmness\/faithfulness; 'way of emet' rendered 'road of truth', keeping the abstract noun."
+    }
+  ],
+  "translation": "Na mi bentim bodi na mi praunim long Yahwe, na mi blessingim ⟨את⟩ Yahwe, Elohim bilong masta bilong mi Avraham, we em i salim mi long rot bilong tru, long painim ⟨את⟩ pikinini meri bilong brata bilong masta bilong mi, bilong pikinini man bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5dd6995fa0e5a1a7336a1533818fe224003c2e2e80cca0b24ee344674360afee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/45-48.1792346729114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "na mi bentim bodi"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "na mi praunim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "na mi blessingim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "em i salim mi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tru"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "long painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini meri bilong brata bilong masta bilong mi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bilong brata bilong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "bilong pikinini man bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:05:29.116183708Z",
+  "model": "glm-5.3"
+}

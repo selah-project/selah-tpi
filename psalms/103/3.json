@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "partisipel hifil (הסלח, הרפא) i nidim nem long Tok Pisin; Hibru i no gat em"
+    }
+  ],
+  "translation": "Em ⟨i⟩ salim olgeta rong bilong yu, em ⟨i⟩ oraitim olgeta sik bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/1-4.1792358920446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Em i salim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "rong bilong yu"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "em i oraitim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "sik bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:40.447989846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Verb-subject marker 'em' required by Tok Pisin, Hebrew lacks it"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Harim",
+      "rationale": "Opening imperative summoning the house of Israel to listen"
+    },
+    {
+      "kind": "you",
+      "subject": "haus bilong Yisrael",
+      "rationale": "Direct address to the house of Israel"
+    }
+  ],
+  "translation": "Harim ⟨em⟩, haus bilong Yisrael: harim ⟨את⟩ tok we Yahwe i tokim long yu ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/10\/1-4.1792355059969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:19.970216001Z",
+  "model": "glm-5.3"
+}

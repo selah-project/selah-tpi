@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wasman",
+      "rationale": "רעים em i ol man i wasim sipsip; piksa bilong wasman i stap, olsem Hebriu i tok."
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם",
+      "rationale": "Hap tok bilong orakol i join wantaim nem: 'Yahwe i tok' (D3)."
+    },
+    {
+      "kind": "you",
+      "subject": "ol wasman bilong sipsip",
+      "rationale": "Tok i go long ol lidа bilong lain; kolsap long vese 2 em i tokim ol diret."
+    }
+  ],
+  "translation": "Hoi! Ol wasman bilong sipsip i bagarapim na sklirim ⟨את⟩ ol sipsip na meme bilong gaden bilong mi — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d2e90f6b9d8caa26d81b7ea4847707972dc7915f35fa0d89d5558ff0da9083d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/23\/1-4.1792355302452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi!"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ol wasman bilong sipsip"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "na i sklirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol sipsip na meme"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "bilong gaden bilong mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:22.453165720Z",
+  "model": "glm-5.3"
+}

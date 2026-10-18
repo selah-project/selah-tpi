@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוכח תוכיח",
+      "rationale": "Infinitive absolute doubling — 'stretim tok stretim tok' — emphasis lost in single-verb renderings."
+    },
+    {
+      "kind": "crux",
+      "subject": "karim he long em",
+      "rationale": "תשא עליו חטא: 'bear sin because of him' (ASV\/JPS) vs 'suffer sin upon him' (KJV) — whose guilt is carried."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person commands to each Israelite."
+    }
+  ],
+  "translation": "Yu no ken birua long ⟨את⟩ brata bilong yu long bel bilong yu; stretim tok stretim tok yu mas long ⟨את⟩ poro man bilong yu, na yu no ken karim he long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/19\/17-20.1792348682525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "birua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata bilong yu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata bilong yu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "stretim tok"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "stretim tok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poro man bilong yu"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "poro man bilong yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "karim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "he"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:02.525782069Z",
+  "model": "glm-5.3"
+}

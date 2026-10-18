@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 37:33",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav i stap long Hibru; mi luksave long en tasol, Tok Pisin i no gat ples bilong ⟨את⟩ namel long luksave"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיה",
+      "rationale": "Hibru i tok 'ol kaikai bilong bus' (animal i stap olgeta olsem lain) — em i tok bilong ol binatang bilong bus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרף טרף",
+      "rationale": "Infinitive absolute — tupela tok wankain, olsem 'sua bilas bilas' — strongpela tok, Yosef i dai olgeta"
+    }
+  ],
+  "translation": "Na em i luksave long ⟨את⟩ en, na em i tok: Kolos bilong pikinini man bilong mi! Ol binatang bilong bus i nogut i kai kai pinis em. Yosef — ol i sua bilas bilas em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be1d4d5d3700bc936be44162a1aa39872b77920fbc4019c02973a462a571cb4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/37\/33-34.1792362904453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכירה",
+      "gloss": "em i luksave long"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kolos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bilong pikinini man bilong mi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "binatang bilong bus"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "i nogut"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "i kai kai pinis em"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sua bilas"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "bilas"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:04.453698337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thanda",
+      "rationale": "וירעם is literally 'he crashed\/tossed them' — thunder rendering follows the idiom of the crash of thunder"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker required before 'vois', Hebrew has no copula-like particle"
+    }
+  ],
+  "translation": "Yahwe i wokim thanda long heven, na Elyon i givim ⟨i⟩ vois bilong en; ol ston bilong ais na ol kolan bilong paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/18\/13-16.1792357996616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "i wokim thanda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "na Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "vois bilong en"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ol ston bilong ais"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na ol kolan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "bilong paia"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:16.617092053Z",
+  "model": "glm-5.3"
+}

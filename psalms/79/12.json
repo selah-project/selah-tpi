@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skurap",
+      "rationale": "חיק em i bos bilong bodi — Tok Pisin i no gat gutpela tok, olsem na mi usim 'skurap' (lap) olsem pasin bilong Inglis 'into their bosom'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתם\/חרפוך",
+      "rationale": "Wanpela as חרפ i kamap tupela taim — sen na senim — kain repitesen i no kamap gut long tanim tok"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "Tok i go stret long Adonai — pes bilong psalm i toktok long em"
+    }
+  ],
+  "translation": "Na yu givim bek long ol man i stap klostu long yumi, sevenpela taim long skurap bilong ol, olsem sen bilong ol we ol i senim yu, Adonai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26c63f02d9ad4985bb30f00f2762454e90432c21824bec2069727f3a7766036e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/12-12.1792363388258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "givim bek"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "long ol man i stap klostu long yumi"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sevenpela taim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "skurap bilong ol"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "sen bilong ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ol i senim yu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:08.258958737Z",
+  "model": "glm-5.3"
+}

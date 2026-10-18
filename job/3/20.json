@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong ol",
+      "rationale": "נפש is throat\/breath\/life-force, rendered 'bel' (seat of feeling in Tok Pisin), not 'soul'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Long wanem",
+      "rational": "Rhetorical 'why' question draws the hearer into Job's complaint."
+    }
+  ],
+  "translation": "Long wanem ol i givim ⟨את⟩ lait long man i wok pen, na laip long ol man we bel bilong ol i nogut tru?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/3\/17-20.1792359855012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "long man i wok pen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lait"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "na laip"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "long ol we bel i nogut tru"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:15.013516256Z",
+  "model": "glm-5.3"
+}

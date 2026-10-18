@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח em i ruak — wanpela tok: win, ruak bilong man, bel; 'longpela ruak' i min pas bilong holim, 'hevenpela ruak' i min arogans"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארך רוח \/ גבה רוח",
+      "rationale": "Hibru i putim ruak tupela taim — longpela ruak vs hevenpela ruak; picture i stap: ruak i daun o i antap"
+    }
+  ],
+  "translation": "Gutpela bihain bilong tok moa long stat bilong en; gutpela longpela ruak, moa long hevenpela ruak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/5-8.1792360776809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bihain bilong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "moa long stat bilong en"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longpela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "moa long hevenpela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:36.810516245Z",
+  "model": "glm-5.3"
+}

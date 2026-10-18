@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bus graun",
+      "rationale": "מדבר em i ples i opim, graun i nogat kaikai — 'bus graun' i klostu, tasol Tok Pisin i nogat tok street"
+    },
+    {
+      "kind": "substitution",
+      "subject": "man bilong papa bilong meri bilong en",
+      "rationale": "חתן em i lain bilong wan meri i marit — Tok Pisin i spanim long ol tok"
+    },
+    {
+      "kind": "elision",
+      "subject": "bek bilong bus graun",
+      "rationale": "אחר המדבר oraet 'bihain long bus graun' — 'bek bilong' i tok bilong ples we ol i no lukim yet"
+    }
+  ],
+  "translation": "Na Mose i wok long lukautim ⟨את⟩ ol sipsip na meme bilong Yitro, man bilong papa bilong meri bilong en, pris bilong Midian; na em i bringautim ⟨את⟩ ol sipsip na meme i go long bek bilong bus graun, na em i kamap long maunten bilong Elohim, long Horeb.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/3\/1-4.1792347367408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Na Mose"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i wok"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "long lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol sipsip na meme"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "bilong Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "man bilong papa bilong meri bilong en"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "bilong Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "na em i bringautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol sipsip na meme"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "i go long bek bilong"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bus graun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "long Horeb"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:07.408652903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה\/יריבי · לחם\/לחמי",
+      "rationale": "Verbs echo their objects (contend\/my contenders, fight\/my fighters); Tok Pisin repeats the phrase but loses the root-echo."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct plea addressed to Yahwe from the psalmist."
+    }
+  ],
+  "translation": "Bilong David. Yahwe, yu kotim ⟨את⟩ ol i trabelim mi long kot; yu pait ⟨את⟩ ol i pait long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/1-4.1792358145835.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bilong David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "yu kotim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol i trabelim mi long kot"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ol i trabelim mi long kot"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yu pait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol i pait long mi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ol i pait long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:45.836848275Z",
+  "model": "glm-5.3"
+}

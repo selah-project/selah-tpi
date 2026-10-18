@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pret",
+      "rationale": "ירא covers both dread and reverence; Tok Pisin 'pret' leans to fear, so 'save long pret' marks habitual reverence."
+    },
+    {
+      "kind": "addition",
+      "subject": "yupela",
+      "rationale": "Vocative pronoun added — Hebrew imperative plus קדשיו addresses the saints directly."
+    },
+    {
+      "kind": "you",
+      "subject": "to the saints",
+      "rationale": "Direct address to Yahwe's holy ones."
+    }
+  ],
+  "translation": "Save long pret long ⟨את⟩ Yahwe, yupela ol holi man bilong em, bilong i no gat wanpela samting i lus long ol man i pret long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/9-12.1792358115214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Save long pret long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ol holi man bilong em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "wanpela samting i lus"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "long ol man i pret long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:15.215232862Z",
+  "model": "glm-5.3"
+}

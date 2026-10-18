@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב literal em i 'hat', tasol D4 i tok bel — tingting na laik"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "לו (long em) i stap, tasol Tok Pisin i nidim ⟨את⟩ merken long em"
+    }
+  ],
+  "translation": "Laik bilong bel bilong em yu givim long ⟨את⟩ em, na askim bilong maus bilong em yu no holim bek. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/21\/1-4.1792358009291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "laik"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bilong bel bilong em"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "yu givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "na askim"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bilong maus bilong em"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "yu holim bek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:29.291948164Z",
+  "model": "glm-5.3"
+}

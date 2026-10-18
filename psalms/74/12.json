@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i nidim predicate marker na em long klos bilong king, Hibru i no gat"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "ישועות em i plural — Tok Pisin i putim ol, ⟨ol⟩ bilong soim senis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekbek",
+      "rationale": "ישועות em i 'ol sesave \/ ol deliva' — Tok Pisin i no gat wanpela tok klia, sekbek em i klostu"
+    }
+  ],
+  "translation": "Na Elohim em i king bilong mi bilong taim bipo, em i wokim ⟨ol⟩ sekbek long namel bilong graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f14f5f83151a470e144381592d2c14b1b5532eeb0326ef74a1b36b593081ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/12-12.1792363391292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "king bilong mi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bilong taim bipo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "⟨ol⟩ sekbek"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:11.293306835Z",
+  "model": "glm-5.3"
+}

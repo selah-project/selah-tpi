@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 46:11",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "D2 keeps the Hebrew term minkha (grain offering), not 'kaikai ofa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dia",
+      "rationale": "D4b: איל is deer (dia), not 'ram' — the KJV 'ram' reading is a crux; LXX and others vary."
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa and hin",
+      "rationale": "The verse gives fixed measures: an ephah of grain per animal, a hin of oil per ephah."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מתת ידו",
+      "rationale": "'Gift of his hand' = as much as his hand can give, an idiom for a freewill amount."
+    }
+  ],
+  "translation": "Na long ol hag na long ol moed, minkha i stap: wan efa long wanpela bulmakau man, na wan efa long wanpela dia, na long ol pikinini sipsip — olsem han bilong em i givim; na oil — wan hin long wanpela efa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0ef378194119b8d14c87528035384b8ff9cc523a99d2fbdba2230ef33ca3c00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/46\/10-11.1792363239309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחגים",
+      "gloss": "Na long ol hag"
+    },
+    {
+      "surface": "ובמועדים",
+      "gloss": "na long ol moed"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "wan efa"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "long wanpela bulmakau man"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "na wan efa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "long wanpela dia"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "na long ol pikinini sipsip"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "olsem olsem"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em i givim"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na oil"
+    },
+    {
+      "surface": "הין",
+      "gloss": "wan hin"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "long wanpela efa"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:39.310207171Z",
+  "model": "glm-5.3"
+}

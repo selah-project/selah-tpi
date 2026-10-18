@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "אֹתָם long pointing bilong ves em i pronoun (ol), i no aleph-tav marker; mi tanim olsem pronoun."
+    },
+    {
+      "kind": "crux",
+      "subject": "חוקה\/משפט",
+      "rationale": "חקות (ol lo ol i wokim) na משפטים (ol kot\/pasin bilong skelim) — planti tanim tok i lumpim ol tupela long 'commandments'."
+    }
+  ],
+  "translation": "Na yupela ol i ken lukautim gut ⟨את⟩ olgeta lo bilong mi na ⟨את⟩ olgeta kot bilong mi, na yupela i ken wokim ol; mi Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/19\/37-37.1792348635538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "yupela ol i ken lukautim gut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta lo bilong mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lo bilong mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta kot bilong mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kot bilong mi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na yupela i ken wokim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:15.539233883Z",
+  "model": "glm-5.3"
+}

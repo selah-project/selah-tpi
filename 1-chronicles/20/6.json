@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "six and six, twenty and four",
+      "rationale": "Verse counts the giant's digits: six per hand and foot, twenty-four total."
+    },
+    {
+      "kind": "crux",
+      "subject": "מדה",
+      "rationale": "'a man of measure' — understood as great stature; alternatives: measured size vs. merely tall."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i stap⟩",
+      "rationale": "Hebrew uses ויהי 'and it was' existential; Tok Pisin needs predicate marker to carry 'there was'."
+    }
+  ],
+  "translation": "Na i kamap gen wanpela pait long Gat, na i stap wanpela man longpela size, na ol beng bilong em i sikis na sikis — tupela ten na fo — na em tu i bon long Rapa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e80d92271030ebf927a43209760f57d93ee932d2fb216fdd1a8b3d02e93a2c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/20\/5-6.1792363499486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wanpela pait"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "long Gat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i stap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "longpela size"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "na ol beng bilong em"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sikis"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tupela ten"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na fo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na em tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "i bon"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "long Rapa"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:59.487217046Z",
+  "model": "glm-5.3"
+}

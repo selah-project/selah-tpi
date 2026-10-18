@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעל פני",
+      "rationale": "'from upon my face' = out of my presence; Tok Pisin keeps the literal body part 'pes bilong mi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע 'seed' rendered 'pikinini' (offspring) per D4; the seed-picture is lost."
+    }
+  ],
+  "translation": "Na bai mi tromoi yupela i go we long pes bilong mi, olsem we mi tromoi ⟨את⟩ olgeta ol brata bilong yupela, ⟨את⟩ olgeta pikinini bilong Epraim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/7\/13-16.1792355009603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "na bai mi tromoi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "i go we long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem we"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "mi tromoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol brata bilong yupela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ol brata bilong yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta pikinini bilong Epraim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Epraim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:29.604213126Z",
+  "model": "glm-5.3"
+}

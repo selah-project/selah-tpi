@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim bikpela",
+      "rationale": "הגמולה em i 'olsem wok bilong tanim tok bek' — givim bikpela long wanpela man long pasin bilong paiim bek"
+    },
+    {
+      "kind": "crux",
+      "subject": "wantaim",
+      "rationale": "את עם המלך: tupela rit — 'go antap long Yarden wantaim king' (JPS) o 'go antap long Yarden, olsem king i wokim'"
+    }
+  ],
+  "translation": "Liklik tasol, man i wokim bilong yu i ken go antap long ⟨את⟩ Yarden wantaim ⟨את⟩ king; na bilong wanem king i mas givim mi dispela kain givim bikpela?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/37-40.1792352507580.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "liklik tasol"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "i ken go antap long"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "man i wokim bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "i mas givim mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "givim bikpela"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela kain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:47.581512972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "Nem מן (Man) i kam long tok 'Man hu?' — 'Wanem samting?' — long Stat 16:15; pes bilong tok i no save kamap long Tok Pisin"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צפיחת",
+      "rationale": "flata ket — dispela tok i stap long Tanakh klostu wanpela taim tasol (wantaim Stat 16:31 na Sam 24 tap)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim pronoun נ long 'na em i olsem', Hibru i no gat longples pronoun"
+    }
+  ],
+  "translation": "Na haus bilong Yisrael i senisim ⟨את⟩ nem bilong en Man, na ⟨em⟩ i olsem kaikai pikinini bilong diwai gad, waitpela, na swit bilong ⟨em⟩ i olsem ket wantaim hani.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/29-32.1792347684066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "i senisim nem bilong en"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong en (Man)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "olsem kaikai pikinini bilong diwai"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "waitpela"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "na swit bilong em"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "olsem ket"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "wantaim hani"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:24.067786494Z",
+  "model": "glm-5.3"
+}

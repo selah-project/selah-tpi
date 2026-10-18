@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 14:2",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goral",
+      "rationale": "גורל em i smol ston bilong skelim; Tok Pisin 'stri' em i pasin bilong skelim, ston i lus."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nainpela matat na hap",
+      "rationale": "Ves i kaunim ol matat — nain na hap."
+    }
+  ],
+  "translation": "Long stri bilong ol, ol i skelim graun bilong ol, olsem Yahwe i tokim long han bilong Mose, long nainpela matat na hap bilong matat.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dea73aa7e88ebb3cdb9da0a77ba1ce83d433ee8b37ecf020501d173728d622d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/14\/1-4.1792350745759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגורל",
+      "gloss": "long stri bilong"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ol i skelim graun bilong ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "long nainpela"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "matat"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na hap bilong"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "matat"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:25.760002012Z",
+  "model": "glm-5.3"
+}

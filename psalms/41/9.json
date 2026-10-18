@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצוק",
+      "rationale": "'i karamapim' (pour out) — KJV 'cleaveth fast' i narapela skul; Hebrew i tok 'poured out'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew i no tok husat i tok dispela — ⟨ol⟩ i kamap long Tok Pisin bilong klia"
+    }
+  ],
+  "translation": "Tok bilong Belial ol i karamapim long em, na wanem em i slip pinis, em i no ken kirap gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/41\/9-12.1792358239608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bilong Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "i slip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ken ⟨gen⟩"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kirap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:19.609118078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תועבת",
+      "rationale": "Rendered as 'samting we Yahwe i hatim bel long en' rather than loanword 'abomination'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל עשה ... כל עשה",
+      "rationale": "Repetition of 'all who do' kept, rhetorical doubling."
+    }
+  ],
+  "translation": "Long wanem, olgeta man i wokim ol dispela samting, olgeta man i wokim olgeta nogut pasin, em i samting we Yahwe Elohim bilong yu i hatim bel long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5b7e9f571d5089c7dfde532e86a96fdf45aa99d72df71c6af646362df46534ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/25\/13-16.1792350163951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "samting i hatim bel long en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "עול",
+      "gloss": "olgeta nogut pasin"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:43.952441810Z",
+  "model": "glm-5.3"
+}

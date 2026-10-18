@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפר",
+      "rationale": "כפר: ol man i tanim 'hena' (diwai ol i usim long pes bilong smel), KJV i tok 'camphire' — hena em i stret long Tanakh."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשכל",
+      "rationale": "אשכל i save tok 'bang bilong reisin', tasol hia wantaim hena em i bang bilong flawa hena."
+    }
+  ],
+  "translation": "Bang bilong ol flawa hena, man bilong laikim bilong mi, em i bilong mi, long ol gaden reisin bilong Ein-Gedi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/13-16.1792360432202.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "bang bilong ol flawa"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "man bilong laikim bilong mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "em i bilong mi"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "long ol gaden reisin bilong"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:52.202855447Z",
+  "model": "glm-5.3"
+}

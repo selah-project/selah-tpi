@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גלעד \/ גלגל \/ גלים",
+      "rationale": "Chain of gil- sounds: Gilad, Gilgal, galim (heaps) — sonic linkage lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם גלעד און",
+      "rationale": "Read as question 'Is Gilad iniquity?' (KJV) or conditional 'If Gilad is vanity' (JPS) or affirmative 'Surely Gilad is iniquity' (YLT); rendered as conditional after JPS."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "און",
+      "rationale": "Same root-sound as v.9 אוֹן (wealth) — wealth becomes אָוֶן (nothingness) in Gilad."
+    }
+  ],
+  "translation": "Sapos Gilad em i olgeta samting nating — olsem, ol i bin nating: long Gilgal ol i kilim ol bulmakau man long ofa; na ol altar bilong ol i olsem ol heap ston long ol furu bilong gaden.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/12\/9-12.1792357051876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "און",
+      "gloss": "samting nating"
+    },
+    {
+      "surface": "אך",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "nating"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i bin"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "long Gilgal"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "ol bulmakau man"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ol i kilim long ofa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ol altar bilong ol"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "olsem ol heap ston"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "ol furu bilong"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "gaden"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:31.877697315Z",
+  "model": "glm-5.3"
+}

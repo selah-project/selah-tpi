@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "planim nogut",
+      "rationale": "יחשב i tok bilong weivim \/ tingting paspas; 'planim' i holim pasin bilong tingting long wanpela samting"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hibru i no gat pronaun; Tok Pisin i nidim em"
+    }
+  ],
+  "translation": "Em i planim nogut long bet bilong en; em i sanap long rot i no gutpela; em i no sekim nogut tru long ol samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/36\/5-8.1792358142385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "planim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "bet bilong en"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "sekim nogut tru long"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:42.385874788Z",
+  "model": "glm-5.3"
+}

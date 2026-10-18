@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "plural subject 'they' implied by verb suffixes, supplied in Tok Pisin"
+    }
+  ],
+  "translation": "Long wanem long ol man i wokim wok, ol i givim ⟨em⟩; na ol i strongim wantaim ⟨em⟩ ⟨את⟩ haus bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/13-16.1792353527978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "long ol man i wokim"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ol i givim em"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "na ol i strongim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:47.979976924Z",
+  "model": "glm-5.3"
+}

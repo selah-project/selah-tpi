@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel he",
+      "rationale": "אף literally 'nose\/nostril' — anger flares through the nostrils in Hebrew idiom."
+    },
+    {
+      "kind": "idiom",
+      "subject": "olsem bikpela wara i kamap namal",
+      "rationale": "שטף is a flood\/overflow, rendered as flood-of-water image."
+    },
+    {
+      "kind": "invitation",
+      "subject": "husat i inap sanap",
+      "rationale": "Rhetorical question draws the reader in: who can stand before jealousy?"
+    }
+  ],
+  "translation": "Kros i strok tru, na bel he i olsem bikpela wara i kamap namal, tasol husat i inap sanap pastaim long man i gat pul long bel?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/1-4.1792359780746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "i strok tru"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "Kros"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "na olsem bikpela wara i kamap namal"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bel he"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "tasol husat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i inap sanap pastaim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "man i gat pul long bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:00.747620599Z",
+  "model": "glm-5.3"
+}

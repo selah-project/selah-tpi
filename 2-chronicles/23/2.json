@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added throughout; Hebrew has no copula or predicate marker."
+    }
+  ],
+  "translation": "Na ol i go raun long Yehuda, na ol i sanapim ⟨את⟩ ol Levi long olgeta siti bilong Yehuda, na ol hetman bilong ol papa bilong Yisrael, na ol i kam insait long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2c2f576b859a6eef1bd8812308375201bc5536d80524786384d6499f2931619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/23\/1-4.1792362595695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "na ol i go raun"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "long Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "na ol i sanapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Levi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "siti bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na ol hetman bilong"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ol papa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na ol i kam insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:55.696483069Z",
+  "model": "glm-5.3"
+}

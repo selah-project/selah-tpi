@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש em i 'man\/sol', Tok Pisin i no gat wanpela tok; 'man' i stap klostu long pasin bilong Lo"
+    },
+    {
+      "kind": "crux",
+      "subject": "lais bilong swea",
+      "rationale": "קול אלה: 'harim lais bilong swea' o 'harim tok bilong kastim' — ol tanim tok i no wankain"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim objek long 'autim'"
+    }
+  ],
+  "translation": "Na sapos wanpela man i mekim sin, na em i harim lais bilong swea, na em i wanpela witnes, o em i lukim, o em i save long em, sapos em i no autim ⟨em⟩, em bai karim rong bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/1-4.1792348342769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Na sapos wanpela man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "i mekim sin"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "na em i harim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lais"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bilong swea"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em i"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wanpela witnes"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "em i lukim"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "em i save long em"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "i autim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "em bai karim"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "rong bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:22.770247807Z",
+  "model": "glm-5.3"
+}

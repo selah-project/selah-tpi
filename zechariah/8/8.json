@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והיו…ואני אהיה",
+      "rationale": "Mirror structure: 'they will be to Me a people \/ I will be to them Elohim' — covenant formula with matched clauses, kept in parallel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה rendered tsedek per discipline, not 'stretpela pasin'."
+    }
+  ],
+  "translation": "Na mi bringim ⟨את⟩ ol i kam, na ol i stop long namel bilong Yerusalayim; na ol i kamap bilong mi olsem manmeri, na mi bai kamap bilong ol olsem Elohim, long tru na long tsedek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/8\/5-8.1792357682701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Na mi bringim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol i kam"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "na ol i stop"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na ol i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "olsem manmeri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bai kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "olsem Elohim"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "long tru"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "na long tsedek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:02.702785016Z",
+  "model": "glm-5.3"
+}

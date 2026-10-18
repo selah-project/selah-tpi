@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pen haus",
+      "rationale": "המטרה em i haus bilong wokim gadin, ol i usim olsem haus kalabus — Tok Pisin 'pen haus' i holim piksa bilong kalabus"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "wayyiqtol 'na i kamap' i smolsmol long tanim tok, tasol i no wanpela copula nating"
+    }
+  ],
+  "translation": "Na tok bilong Yahwe i kam long Yirmeyahu seken taim, we em i stap yet i pas long ua bilong pen haus, olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/33\/1-4.1792355543345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na … i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "seken taim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "i pas"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "long ua bilong"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "pen haus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T20:32:23.346144717Z",
+  "model": "glm-5.3"
+}

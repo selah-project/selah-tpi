@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעפלים",
+      "rationale": "Tumor o swelim vs 'emarod' long KJV; sampela i tokim 'ol bikpela bun' (fortress) long sapela ples"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "וישמם i tok 'em i mekim ol i no gat strong \/ i nupela ol', Tok Pisin 'bagarapim' i klostu"
+    }
+  ],
+  "translation": "Na han bilong Yahwe i kamap hevi long ol man bilong Asdod, na em i bagarapim ol, na em i paitim ⟨את⟩ ol long ol swelim — ⟨את⟩ Asdod na ⟨את⟩ ol boda bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/5\/5-8.1792351591778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "i kamap hevi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "ol man bilong Asdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "na em i bagarapim ol"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol (man bilong Asdod)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "long ol swelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol boda bilong en"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ol boda bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:31.779629165Z",
+  "model": "glm-5.3"
+}

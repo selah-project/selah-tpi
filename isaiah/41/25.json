@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאת",
+      "rationale": "Root debated: תוא 'arrive' (KJV 'he shall come') vs reading as את-related; Qere points to 'he arrived (and came)'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wanpela man⟩",
+      "rationale": "Hebrew has no explicit object of 'I stirred up'; Tok Pisin needs the man named."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר\/יוצר\/טיט",
+      "rationale": "Potter-clay imagery chains with v.24–25 idol-makers; the treader of mud is the same picture as the idol-maker's own material."
+    }
+  ],
+  "translation": "Mi kirapim ⟨wanpela man⟩ long hap nauth, na em i kam; long hap ist, we san i kirap, em i singautim nem bilong mi; na em i kam antap long ol bigman bilong kantri olsem graun bilong wokim haus, na olsem man i wokim pot i paitim graun wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/41\/25-28.1792354498649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "Mi kirapim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "long hap nauth"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "na em i kam"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "long hap ist"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "we san i kirap"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "em i singautim"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nem bilong mi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na em i kam antap"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "ol bigman bilong kantri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "graun bilong wokim haus"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "man i wokim pot"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "graun wara"
+    }
+  ],
+  "timestamp": "2026-10-18T20:14:58.650358401Z",
+  "model": "glm-5.3"
+}

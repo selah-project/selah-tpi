@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per glossary — seat of feeling and will, not the body organ 'hat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok tenkyu",
+      "rationale": "אהודנו from ידה, literally 'throw\/cast' → give thanks; Tok Pisin idiom 'tok tenkyu' used."
+    }
+  ],
+  "translation": "Yahwe em i strong bilong mi, na banis bilong mi; long em bel bilong mi i trastim, na em i helpim mi; olsem na bel bilong mi i amamas tru, na long singaut bilong mi mi bai tok tenkyu long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/28\/5-8.1792358076206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "na banis bilong mi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "trastim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "na em i helpim mi"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "na i amamas tru"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "na long singaut bilong mi"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "mi bai tok tenkyu long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:36.207613254Z",
+  "model": "glm-5.3"
+}

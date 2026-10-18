@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "leaders to their companions",
+      "rationale": "Direct quoted speech of the greedy leaders inviting one another to drink."
+    },
+    {
+      "kind": "elision",
+      "subject": "יום",
+      "rationale": "The second 'day' (כזה יום) folds into 'olsem tude'; 'this day' carries both."
+    },
+    {
+      "kind": "crux",
+      "subject": "אקחה singular amid plurals",
+      "rationale": "'I will fetch' — one speaker proposes, the group joins ('we will drink'); some render all as cohortative 'let us'."
+    }
+  ],
+  "translation": "Kam, mipela kisim wain, na mipela dring strongpela dring i kamap ful; na bai tumora i olsem tude, na moa tumas yet, tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/56\/9-12.1792354671449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתיו",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "אקחה",
+      "gloss": "mipela kisim"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "ונסבאה",
+      "gloss": "na mipela dring i kamap ful"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "strongpela dring"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "olsem tude"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tumora"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "moa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tumas yet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:51.451049167Z",
+  "model": "glm-5.3"
+}

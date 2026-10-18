@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "graun kaskas",
+      "rationale": "היבשה i tok graun kaskas (drai graun), i no graun tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "scare",
+      "rationale": "ירא: 'mi scare long en' o 'mi bilien long en' (reverent fear) — translators i disagree olsem fear vs worship (BSB 'worship')"
+    }
+  ],
+  "translation": "Na em i tok long ol: Hebrew man, em mi; na ⟨את⟩ Yahwe, Elohim bilong ol heven, em mi i scare long en — we em i mekim ⟨את⟩ solwara na ⟨את⟩ graun kaskas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/1\/9-12.1792357368687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrew man"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "em mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "אני",
+      "gloss": "em mi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i scare long en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solwara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "graun kaskas"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "graun kaskas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:48.687912507Z",
+  "model": "glm-5.3"
+}

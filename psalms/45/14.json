@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Copula\/predicate marker ⟨i⟩ supplied; Hebrew has no verb in first clause."
+    },
+    {
+      "kind": "crux",
+      "subject": "פנימה",
+      "rationale": "'inward\/within' — taken as 'inside the palace' by many versions vs 'inward character' by others; kept literal 'i stap insait'."
+    }
+  ],
+  "translation": "Olgeta biknem bilong en — pikinini meri bilong king — ⟨i⟩ stap insait; klos bilong en ol i wokim wantaim gol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/13-16.1792358264228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "biknem bilong en"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "i stap insait"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "klos ol i wokim wantaim patan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "klos bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:44.228816177Z",
+  "model": "glm-5.3"
+}

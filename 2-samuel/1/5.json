@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the young man",
+      "rationale": "David asks the young Amalekite directly: 'How do you know that Saul is dead?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Tok Pisin completive added for the Hebrew perfect 'died'."
+    }
+  ],
+  "translation": "Na David i tok long liklik man i rautim tok long em: Yu save long wanem pasin olsem Saul i dai pinis, na Yonatan, pikinini bilong em?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/1\/5-8.1792352108081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "liklik man"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "i rautim tok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "איך",
+      "gloss": "long wanem pasin"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i dai pinis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "na Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:08.082365265Z",
+  "model": "glm-5.3"
+}

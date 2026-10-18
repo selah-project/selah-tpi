@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדי",
+      "rationale": "paqad i gat tupela Mining: 'lukautim' o 'skelim\/rausim olgeta'; ol tanim tok i wok long 'visit' (KJV), 'remember' (JPS), 'attend' (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את הכשדים",
+      "rationale": "hait 'את' long hia em i preposisen 'wantaim', i no mak bilong direkt objekt, olsem na em i no ⟨את⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם יהוה",
+      "rationale": "orakl nem — mi tanim olsem 'Yahwe i tok' long pasin bilong Tok Pisin"
+    }
+  ],
+  "translation": "Babel bai karim ⟨את⟩ Tsidkiyahu, na longen em bai stap inap taim mi skelim ⟨את⟩ em — Yahwe i tok — long wanem, sapos yupela pait ⟨את⟩ wantaim ol Kasdim, yupela bai no inap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/32\/5-8.1792355559489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "bai karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na longen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em bai stap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "taim mi skelim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "yupela pait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ol Kasdim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "yupela bai inap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:32:39.490543884Z",
+  "model": "glm-5.3"
+}

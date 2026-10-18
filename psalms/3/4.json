@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "״ומרים״ em i participate — Tok Pisin i nidim man, bracketim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "klap",
+      "rationale": "כבוד em i 'we' \/ klap — i no 'glori' olsem Inglis"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Toktok stret long Yahwe, wanem em i wokim"
+    }
+  ],
+  "translation": "Tasol yu, Yahwe, yu ⟨i⟩ sekel bilong mi, klap bilong mi, na man ⟨i⟩ kirapim het bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/3\/1-4.1792357828482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tasol yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "klap bilong mi"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na man i kirapim"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "het bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:28.483547502Z",
+  "model": "glm-5.3"
+}

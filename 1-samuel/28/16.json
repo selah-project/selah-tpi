@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bilong⟩",
+      "rationale": "Tok Pisin i laikim 'bilong' bilong joinim — Hibru i no gat em."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ער",
+      "rationale": "'man i save lukluk bilong bagarapim' — tok bilong birua i stap wach."
+    },
+    {
+      "kind": "you",
+      "subject": "Shemuel i tokim Shaul",
+      "rationale": "Tok i go stret long Shaul — profet i dai pinis i skruim Shaul."
+    }
+  ],
+  "translation": "Na Shemuel i tok: Na bilong wanem yu askim mi, taim Yahwe i lusim yu, na i kamap ⟨bilong⟩ birua bilong yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ade02ef3a9ad94f441db98b89751d15262df2e16e71f91bdedad06bb1d9cf35f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/28\/13-16.1792352045942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Shemuel i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Na bilong wanem"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "yu askim mi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "i lusim"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "birua bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:05.944293429Z",
+  "model": "glm-5.3"
+}

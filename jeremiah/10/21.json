@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבערו",
+      "rationale": "Root בער 'burn\/kindle' vs 'become brutish': KJV\/ASV 'brutish', YLT same; fire sense 'consumed' possible."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "particle elided; means 'accordingly' or emphatic, no Tok Pisin equivalent."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרעיתם",
+      "rationale": "Literally 'pasturage', rendered 'flock' as concrete sense."
+    }
+  ],
+  "translation": "Long wanem, ol lukaautim sipsip i kamap olsem ol animal bilong pait ⟨i⟩ no save tingting, na ol i no painim ⟨את⟩ Yahwe; olsem na ol i no wokim gut, na olgeta ol sipsip bilong ol i skaterap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/10\/21-24.1792355020995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "i kamap olsem ol animal bilong pait"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ol lukaautim sipsip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "painim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "wokim gut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ol sipsip bilong ol"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "skaterap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:40.996470457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long giamanim yu",
+      "rationale": "לפתתך i tok 'long opim rot bilong yu \/ long trukim yu' — pasin bilong giaman em i klos kain"
+    },
+    {
+      "kind": "idiom",
+      "subject": "rot yu i go ausait na rot yu i kam insait",
+      "rationale": "מוצאך ומבואך — Hibru idiom bilong tok 'olgeta pasin bilong yu', mi tanim literal"
+    },
+    {
+      "kind": "you",
+      "subject": "Yu save",
+      "rationale": "Joab i toksave stret long David, wanpela toksave nogut"
+    }
+  ],
+  "translation": "Yu save ⟨את⟩ Avner pikinini bilong Ner, long em i kam long giamanim yu, na long save ⟨את⟩ rot bilong yu i go ausait, na ⟨את⟩ rot bilong yu i kam insait, na long save ⟨את⟩ olgeta samting we yu wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/25-28.1792352180238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "yu save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "long giamanim yu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na long save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rot bilong yu i go ausait"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "rot bilong yu i go ausait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rot bilong yu i kam insait"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "rot bilong yu i kam insait"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na long save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:20.239560094Z",
+  "model": "glm-5.3"
+}

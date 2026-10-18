@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 48:38",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kain samting ol i usim",
+      "rationale": "כלי is vessel\/implement generally; Tok Pisin has no single word for 'vessel'"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela man",
+      "rationale": "חפץ has no explicit subject 'anyone'; supplied for sense"
+    }
+  ],
+  "translation": "Long olgeta rup bilong ol haus bilong Moab, na long ol rot bilong en, olgeta i krai; long wanem, mi brukim ⟨את⟩ Moab olsem wanpela kain samting ol i usim we i no gat wanpela man i laikim em, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61e0f854671242ef005bd12ea553c13173121af00348f255f09ca200e2f3b2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/48\/37-40.1792355810009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "rup bilong ol haus"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "na long ol rot bilong en"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "krai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "mi brukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "olsem wanpela kain samting ol i usim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wanpela man i laikim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "em"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:36:50.009805983Z",
+  "model": "glm-5.3"
+}

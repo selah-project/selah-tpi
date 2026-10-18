@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יברך ×3",
+      "rationale": "Triple repetition of 'blesim' builds liturgical intensity, retained"
+    },
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "Hebrew suffix -נו is 'us'; rendered with inclusive pronoun"
+    },
+    {
+      "kind": "crux",
+      "subject": "first יברך",
+      "rationale": "Absolute infinitive-like bare form: 'he will indeed bless' vs KJV 'he will bless us'"
+    }
+  ],
+  "translation": "Yahwe i tingting long yumi; em i blesim, em i blesim ⟨את⟩ haus bilong Yisrael, em i blesim ⟨את⟩ haus bilong Aharon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/9-12.1792359066663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "i tingting long yumi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "em i blesim"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "em i blesim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "em i blesim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:06.664739014Z",
+  "model": "glm-5.3"
+}

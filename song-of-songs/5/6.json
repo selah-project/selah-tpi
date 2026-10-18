@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 5:6",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "predicate marker bilong Tok Pisin; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש em i win bilong bodi, laip — Inglis 'soul' i no stret; 'laip' i klostu"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמק עבר",
+      "rationale": "ol man i tanim tok: 'i tanim bek' o 'i go long hap narap'; klostu wankain mining"
+    }
+  ],
+  "translation": "Mi opim ⟨i⟩ long man bilong mi, tasol man bilong mi i tanim bek, i go pinis; laip bilong mi i lusim mi taim em i tok. Mi painim em, na mi no painim em; mi singautim em, na em i no tok bek long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/5-8.1792360484396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחתי",
+      "gloss": "mi opim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "long man bilong mi"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "na man bilong mi"
+    },
+    {
+      "surface": "חמק",
+      "gloss": "i tanim bek"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "i go pinis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "i lusim mi"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "taim em i tok"
+    },
+    {
+      "surface": "בקשתיהו",
+      "gloss": "mi painim em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no"
+    },
+    {
+      "surface": "מצאתיהו",
+      "gloss": "painim em"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "mi singautim em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tok bek long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:44.397450758Z",
+  "model": "glm-5.3"
+}

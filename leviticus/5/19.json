@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשם אשם אשם",
+      "rationale": "tripela tok wanwain אשם — nem bilong sakrifaes na tok bilong rong — praymari i lus long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם הוא",
+      "rationale": "samos 'em i sakrifaes' o 'em i man i gat salat' — tupela i save"
+    }
+  ],
+  "translation": "Em i sakrifaes bilong salat; em i wokim rong tru, em i wokim rong tru long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/17-20.1792348304926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "Em i sakrifaes bilong salat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "em i wokim rong tru"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "em i wokim rong tru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:44.927949730Z",
+  "model": "glm-5.3"
+}

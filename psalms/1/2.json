@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Tupela tok i wankain wanpela mining 'tasol\/nogat'; Tok Pisin i brukim olsem tupela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהגה",
+      "rationale": "Hibru i tok 'murmur' olsem man i tok liklik long maus — tok bilong rit Tora aut; 'tingting waswas' i holim narafela hap"
+    }
+  ],
+  "translation": "Tasol ⟨em i laikim⟩ long Tora bilong Yahwe, na long Tora bilong em em i tingting waswas de na nait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/1\/1-4.1792357862894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nogat⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "long Tora bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "laik bilong em"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na long Tora bilong em"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "tingting waswas"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na nait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:02.895344695Z",
+  "model": "glm-5.3"
+}

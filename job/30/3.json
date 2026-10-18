@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערקים",
+      "rationale": "שורש ערק i tok 'ranawe'; KJV 'ranawe i go long ples wail' vs ASV\/JPS 'ol i kaikai graun drau' — mi bihainim kaikai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה ומשאה",
+      "rationale": "Tupela tok i klostu wankain long nois — שואה (bagarap olgeta) na משאה (nogat mani) — mitupela tok i tanim klostu, tasol pilai bilong leta i lus long Tok Pisin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אמש",
+      "rationale": "Sampela i tanim 'long taim bipo' (KJV), mi bihainim mining stat 'asde nait'"
+    }
+  ],
+  "translation": "Long no gat samting na long hangre, ol i nogat man olgeta; ol i kaikai graun drau, long ples bilong asde nait i raunraum na nogat mani olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/30\/1-4.1792360274728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "long no gat samting"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "na long hangre"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ol i nogat man olgeta"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "graun drau"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "asde nait"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "i raunraum"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "na nogat mani olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:14.729592633Z",
+  "model": "glm-5.3"
+}

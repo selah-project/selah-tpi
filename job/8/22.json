@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "putim sem olsem klos",
+      "rationale": "Hebrew 'clothe with shame' — Tok Pisin keeps the garment picture with 'olsem klos'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "haus sel",
+      "rationale": "'Tent of the wicked' kept literal; some render 'ples bilong stap' (dwelling)"
+    }
+  ],
+  "translation": "Ol birua bilong yu bai ol i putim sem olsem klos, na haus sel bilong ol man nogut i no stap moa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/8\/21-22.1792359900648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "ol birua bilong yu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "bai ol i putim … olsem klos"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "na haus sel"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "i no stap moa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:00.649280803Z",
+  "model": "glm-5.3"
+}

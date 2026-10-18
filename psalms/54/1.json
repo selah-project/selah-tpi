@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "Strong's gloss 'to glitter from afar \/ be eminent' rendered functionally as the one supervising the music"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "glosses": "",
+      "rationale": "Hebrew 'to the preeminent one' has no single Tok Pisin equivalent; rendered as a descriptive phrase"
+    }
+  ],
+  "translation": "Bilong man i lukautim ol miusik, wantaim ol string instrument. Tok bilong skulim, bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/54\/1-4.1792358324776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lukautim ol miusik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "wantaim ol string instrument"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "tok bilong skulim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:44.776936648Z",
+  "model": "glm-5.3"
+}

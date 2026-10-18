@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "Literally 'broaden the ear (with the hand)'; rendered idiomatically 'kanim wara long' (incline ear toward)"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong mi",
+      "rationale": "Hebrew suffix on פי 'my mouth' carried as separate Tok Pisin words"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Direct petition addressed to Elohim"
+    }
+  ],
+  "translation": "Elohim, harim ⟨את⟩ praia bilong mi; kanim wara long ol tok bilong maus bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/54\/1-4.1792358324776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praia bilong mi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "praia bilong mi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kanim wara long"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:44.777422294Z",
+  "model": "glm-5.3"
+}

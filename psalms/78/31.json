@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel nogut bilong Elohim",
+      "rationale": "אף em i nus\/angri — Tok Pisin 'bel nogut' i holim pasin, piksa bilong nus i lus"
+    },
+    {
+      "kind": "crux",
+      "subject": "במשמניהם",
+      "rationale": "'Ol mipela i gat oli gut pinis' — stat o 'ol strongpela man'; KJV 'fattest', JPS 'lustieth'"
+    }
+  ],
+  "translation": "Na bel nogut bilong Elohim i go antap long ol, na i kilim ol strongpela man ol i kaikai gut pinis, na i paitim i daun ol yangpela man bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/29-32.1792358557657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Na bel nogut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "na i kilim"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ol strongpela man ol i kaikai gut pinis"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "na ol yangpela man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "i paitim i daun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:37.658441391Z",
+  "model": "glm-5.3"
+}

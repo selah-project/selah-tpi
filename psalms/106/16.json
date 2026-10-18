@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "קדוש is an adjective in apposition; Tok Pisin needs 'man' to make 'holi' a title"
+    }
+  ],
+  "translation": "Na ol i jelus long Mose long kemp, na long Aharon, man holi bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/13-16.1792358971599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "na ol i jelus"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "long Mose"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "long kemp"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na long Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "man holi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:31.600978738Z",
+  "model": "glm-5.3"
+}

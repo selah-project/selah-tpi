@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "we i bilong pret long yu",
+      "rationale": "ליראתך: KJV 'ol i devoted long pret bilong yu' vs YLT 'we i stap long pret bilong yu' — posin bilong relativ i no klia"
+    }
+  ],
+  "translation": "Kirapim tok bilong yu long wokman bilong yu, we i bilong pret long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/37-40.1792359091899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "long wokman bilong yu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "bilong pret long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:31.900417148Z",
+  "model": "glm-5.3"
+}

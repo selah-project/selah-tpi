@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nahum 3:18",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "king bilong Ashur",
+      "rationale": "Direct address to the Assyrian king."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישכנו",
+      "rationale": "'dwell\/rest' — KJV 'dwell in the dust' (emending), others 'lie at rest'; literal kept as 'stapdaun'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעיך",
+      "rationale": "Shepherd-metaphor for rulers kept literally as 'wasman sipsip', not 'leaders'."
+    }
+  ],
+  "translation": "Ol wasman sipsip bilong yu i slip long pena, king bilong Ashur; ol bikman bilong yu i stapdaun; ol manmeri bilong yu i skaterim i go long ol maunten, na i no gat man bilong olsemim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "295286b8265b52e6d645705d4560c8e77775675bc3f1fda32d20df6975bb6199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/3\/17-19.1792357449320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמו",
+      "gloss": "i slip long pena"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ol wasman sipsip bilong yu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "i stapdaun"
+    },
+    {
+      "surface": "אדיריך",
+      "gloss": "ol bikman bilong yu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "i skaterim i go"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ol manmeri bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "man bilong olsemim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:09.320825991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואפי",
+      "rationale": "'nus bilong mi' — Hebrew 'my nose\/nostril' stands for anger; literal nose kept, anger is the idiom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט מזער",
+      "rationale": "Hebrew piles 'a little' on 'littleness' — intensification by repetition"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבליתם",
+      "rationale": "'pinis bilong ol' — rare word: destruction of Assyria vs completion of the anger's work"
+    }
+  ],
+  "translation": "Long wanem, liklik moa, liklik tru tasol, na bel nogut i pinis, na nus bilong mi i long pinis bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/10\/25-28.1792353988998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "liklik moa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "liklik tru tasol"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na … i pinis"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bel nogut"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "na nus bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "pinis bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:28.999522597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המשתה",
+      "rationale": "'kaikai bilong dring wantaim' — tok Hibru i tok dring, tasol min em i kaikai bilong olgeta"
+    },
+    {
+      "kind": "you",
+      "subject": "Ester i tokim king",
+      "rationale": "Ester i tok dairet long king — em i askim king na Haman long kam"
+    }
+  ],
+  "translation": "Na Ester i tok: Sapos king i ting em i gutpela, bai king na Haman i kam long dispela de, long kaikai bilong ol i dring wantaim olgeta, we mi wokim bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/5\/1-4.1792360915077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na Ester i tok"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bai king i kam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "kaikai bilong ol i dring wantaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:55.078545254Z",
+  "model": "glm-5.3"
+}

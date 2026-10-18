@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש i makim laif\/spirit\/breth — Tok Pisin 'bel' i holim tingting na laik, i no savel bilong bodi tasol"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפשו",
+      "rationale": "Hibru i tok 'bel bilong em i sot' — em i pasin bilong no inap talim beten; Tok Pisin i tanim long 'no inap holim gut moa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "bel bilong em",
+      "rationale": "Sapos 'bel bilong em' em i bel bilong Yisrael (Am Israel) o bel bilong Yahwe — planti tanima i no wanbel"
+    }
+  ],
+  "translation": "Na ol i rausim ⟨את⟩ ol god bilong ol man bilong narapela hap i stap long namel bilong ol, na ol i wok long ⟨את⟩ Yahwe; na bel bilong em i no inap holim gut moa long hevi bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/10\/13-16.1792351158615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Na ol i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol god bilong ol man bilong narapela hap"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ol god bilong"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ol man bilong narapela hap"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "long namel bilong ol"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na ol i wok long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "na bel bilong em i no inap holim gut moa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "long hevi bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:18.616451596Z",
+  "model": "glm-5.3"
+}

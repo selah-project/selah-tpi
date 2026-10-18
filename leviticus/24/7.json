@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lem bilong redim ol samting switpela",
+      "rationale": "levonah is frankincense, gum of the Boswellia tree; descriptive gloss keeps the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "long rere",
+      "rationale": "Hebrew singular 'on the row' — each row vs one row; KJV 'each row', YLT 'the rank'"
+    }
+  ],
+  "translation": "Na yu ken putim long ⟨olgeta⟩ rere pure lem bilong redim ol samting switpela, na em bai i stap long bret olsem samting bilong tingim, ofa bilong paia long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/5-8.1792348739195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "yu ken putim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "rere"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lem bilong redim"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "pure"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "em bai i stap"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "long bret"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "samting bilong tingim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofa bilong paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:59.196439313Z",
+  "model": "glm-5.3"
+}

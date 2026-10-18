@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזו",
+      "rationale": "Samting i no klia: 'strong bilong en' (strong bilong birua) o 'strong bilong mi' (tok bilong Singaut long Yahwe); KJV 'his strength', BSB 'O my strength'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משגבי",
+      "rationale": "Hibru em i 'maunten antap we man i no inap go antap' — mi tanim long 'banis bilong mi', piksa i sot liklik."
+    }
+  ],
+  "translation": "Yu strong bilong mi, long yu mi save lukaut; bilong wanem Elohim em i banis bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/59\/9-12.1792358370735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "yu strong bilong mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "mi save lukaut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "banis bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:30.736251224Z",
+  "model": "glm-5.3"
+}

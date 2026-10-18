@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פעמיו",
+      "rationale": "tupela leg o ol step bilong em — tupela i wok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקם",
+      "rationale": "paitbek — pem\/pait bek, i no 'wanpela gutpela pasin'."
+    }
+  ],
+  "translation": "Man stret i hamamas, long wanem em i lukim paitbek; em i waskim tupela leg bilong em long blut bilong man nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/58\/9-12.1792358334693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "hamamas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "paitbek"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "tupela leg bilong em"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "waskim"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "long blut bilong"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "man nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:54.694749353Z",
+  "model": "glm-5.3"
+}

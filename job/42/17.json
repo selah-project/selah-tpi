@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ושבע ימים",
+      "rationale": "Hebrew idiom 'satisfied with days' rendered as 'bel i fulap long ol de' — fullness of life, not hunger."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "Pronoun phrase added for naturalness; Hebrew has only 'satisfied with days'."
+    }
+  ],
+  "translation": "Na Ayub i dai pinis, em i lapun tru, na bel bilong em i fulap long ol de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7bce2aec96f2c0cc28a4681788780d36df4860face8a1c0fdda33765aad5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/42\/17-17.1792360404096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i dai pinis"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "lapun tru"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "bel bilong em i fulap"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "long ol de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:24.097366583Z",
+  "model": "glm-5.3"
+}

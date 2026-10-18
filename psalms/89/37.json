@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "יהוה speaking in the first person: 'long hapsait bilong mi' — Yahwe is the speaker of the oracle."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oltaim",
+      "rationale": "לעולם is literally 'the vanishing point \/ concealed time', rendered as 'oltaim'."
+    }
+  ],
+  "translation": "Olgeta pikinini bilong en bai i stap oltaim, na thron bilong en olsem san, long hapsait bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/37-40.1792358777856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "na thron bilong en"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "olsem san"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "long hapsait bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:17.857283836Z",
+  "model": "glm-5.3"
+}

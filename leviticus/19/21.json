@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "asham",
+      "rationale": "אָשָׁם em i wanpela tok: guilt, rong, na olsem wanem ofa bilong rong — mi holim nem, mi no tanim."
+    }
+  ],
+  "translation": "Na em i bringim ⟨את⟩ asham bilong em i kam long Yahwe, long dua bilong haus sel bilong moed: wanpela dia bilong asham.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d5c3c03c5064853e2b978b3920e40615abbba0f2e52103a27c58f8a642cd3002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/19\/21-24.1792348654547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "na em i bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham bilong em"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "asham bilong em"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dua bilong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "איל",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "bilong asham"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:34.547975288Z",
+  "model": "glm-5.3"
+}

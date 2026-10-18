@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Shelomo (king)",
+      "rationale": "Huram's letter names the payment for the timber; indirect request to 'my lord'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bai em i",
+      "rationale": "Hebrew uses simple imperfect ישלח; Tok Pisin future marker added."
+    },
+    {
+      "kind": "substitution",
+      "subject": "adoni",
+      "rationale": "אדני of a human king rendered 'bikman bilong mi', per D1."
+    }
+  ],
+  "translation": "Na nau, ol grait bilong wiat, na ol grait bilong barley, ol oil, na ol wain, we bikman bilong mi i tokim long en, bai em i salim i kam long ol wokman bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/2\/13-16.1792362367984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ol grait bilong wiat"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "na ol grait bilong barley"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ol oil"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "na ol wain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tokim long en"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bai em i salim i kam"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "long ol wokman bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:26:07.985312464Z",
+  "model": "glm-5.3"
+}

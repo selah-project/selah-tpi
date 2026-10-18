@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על און פלט למו",
+      "rationale": "Famous crux: as question 'shall they escape by iniquity?' (kjv) or as imperative 'because of iniquity cast them out' (jps)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באף",
+      "rationale": "Hebrew af literally 'nose\/nostril', idiom for anger — rendered 'kros'."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Pronoun 'yu' supplied: Elohim is a vocative ('O God') at verse end, subject of 'cast down'."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Direct address to Elohim in prayer."
+    }
+  ],
+  "translation": "Long pasin nogut ⟨bai⟩ ol ⟨i⟩ kisim sans bilong ranawe, o? Long kros, Elohim, yu wokim ol manmeri i go daun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b7f0b6ae8b762d0df4ea15bbc420f7a3217bbc3d4a977d7d6e5b38f44577f803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/56\/7-8.1792363366590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "און",
+      "gloss": "pasin nogut"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ranawe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "באף",
+      "gloss": "long kros"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "wokim i go daun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:46.590777034Z",
+  "model": "glm-5.3"
+}

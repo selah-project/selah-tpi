@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foti yia",
+      "rationale": "namba bilong yia long wail graun i stap long vers"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples wail graun",
+      "rationale": "מדבר i ples wail we ol i wokabaut — 'desert' i no Tok Pisin gutpela"
+    }
+  ],
+  "translation": "Na mi bringim ⟨את⟩ yupela foti yia long ples wail graun; ol klos bilong yupela i no bagarap long bodi bilong yupela, na sip bilong yu i no bagarap long leg bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/29\/1-4.1792350313377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "na mi bringim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "foti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wail graun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "i bagarap"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ol klos bilong yupela"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "long bodi bilong yupela"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "na sip bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "i bagarap"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "leg bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:13.378390453Z",
+  "model": "glm-5.3"
+}

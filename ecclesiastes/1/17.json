@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעיון רוח",
+      "rationale": "'vexation of spirit' o 'striving after wind' — Tok Pisin: ren bilong ruak, pasin nating"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעיון",
+      "rationale": "Sumerian loan word ri-a; ol man i tingting: 'vexation' o 'pastaim\/pasin bilong kaikim man' (shepherd\/pasturing of wind)"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "gloss_never_mind": true,
+      "rationale": "emphatic pronoun, bracketed partially as 'tu em'"
+    }
+  ],
+  "translation": "Na mi givim bel bilong mi long save long olgeta save, na long save long pasin olgeta nogut na pasin longpela: mi save pinis se wanem, dispela tu em i ⟨i⟩ ren bilong ruak — pasin bilong paitim win.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/17-18.1792360693514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "na mi givim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "long save long"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "olgeta save"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na long save long"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "pasin olgeta nogut"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "na pasin longpela"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save pinis"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "se wanem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tu em"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ren"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:13.515390996Z",
+  "model": "glm-5.3"
+}

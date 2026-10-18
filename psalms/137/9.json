@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skelim ol i go",
+      "rationale": "ונפץ i tok 'bagarapim ol i go long smolsmol hap' — mi usim 'skelim ol i go' long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini bilong yu yet",
+      "rationale": "עלליך em i ol pikinini bilong klesim susu, tasol 'pikinini' i holim mining long Tok Pisin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ston bilong pait",
+      "rationale": "הסלע i save tok 'traipela ston \/ ples bilong hatwok'; long hia em i ston tasol"
+    }
+  ],
+  "translation": "Ol i gutpela tru, wanpela em i holim ⟨את⟩ ol pikinini bilong yu yet na i skelim ol i go long ston.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/137\/9-9.1792359229404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol i gutpela tru"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "em i holim"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "na i skelim ol i go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong yu yet"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ol pikinini bilong yu yet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ston"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:49.405334402Z",
+  "model": "glm-5.3"
+}

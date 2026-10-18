@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגדילו",
+      "rationale": "perfect tense 'they magnified themselves' rendered as present; KJV\/ASV\/JPS shift to present while YLT keeps past."
+    },
+    {
+      "kind": "substitution",
+      "subject": "strongim het",
+      "rationale": "הגדילו literally 'they made themselves large', rendered with Tok Pisin idiom for self-exaltation."
+    }
+  ],
+  "translation": "Long wanem mi tok: bilong ol i no ken amamas long mi; taim leg bilong mi i sut, ol i strongim het long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/17-20.1792358200840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bilong ol i no ken"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ol i ken amamas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "taim … i sut"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "leg bilong mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi yet"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ol i strongim het"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:40.840767017Z",
+  "model": "glm-5.3"
+}

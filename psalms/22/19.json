@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lot",
+      "rationale": "גורל is literally a pebble — small stones cast for divination; 'lot' keeps the custom but loses the stone."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יפילו גורל",
+      "rationale": "Hebrew idiom 'cause the lot to fall' = to draw lots; rendered as Tok Pisin troim lot."
+    }
+  ],
+  "translation": "Ol i dividim ol klos bilong mi long ol yet, na ol i troim lot long klos bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/17-20.1792358015149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "ol i dividim"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ol klos bilong mi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol yet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "klos bilong mi"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "ol i troim"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.150321897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 12:7",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משלח ידכם",
+      "rationale": "Hebrew 'every sending-forth of your hand' — what your hand puts out to work; rendered 'olgeta samting han bilong yupela i kirapim'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun supplied: Hebrew verb ברכך has the 'you' built into its suffix; Tok Pisin needs the object after the verb."
+    }
+  ],
+  "translation": "Na yupela i ken kaikai long en, long fes bilong Yahwe, Elohim bilong yupela, na yupela i amamas long olgeta samting han bilong yupela i kirapim — yupela wantaim ol haus bilong yupela — we Yahwe, Elohim bilong yu, i blessim ⟨em⟩ long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/12\/5-8.1792349997872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "na yupela i ken kaikai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "na yupela i amamas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "samting han i kirapim"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ובתיכם",
+      "gloss": "wantaim ol haus bilong yupela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "i blessim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:57.873292233Z",
+  "model": "glm-5.3"
+}

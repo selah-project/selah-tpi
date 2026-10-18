@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wet bilong mi",
+      "rationale": "תקוה i tok bilong rop (kord), na em i tok bilong wetim — picture bilong rop i lus long Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai Yahwe",
+      "rationale": "tok i go stret long Yahwe"
+    }
+  ],
+  "translation": "Long wanem, yu ⟨i⟩ wet bilong mi, Adonai Yahwe, yu ⟨i⟩ strongpela bel bilong mi stat yet long taim bilong yangpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/5-8.1792358444854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "wet bilong mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "strongpela bel bilong mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "stat yet long taim bilong yangpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:44.854882475Z",
+  "model": "glm-5.3"
+}

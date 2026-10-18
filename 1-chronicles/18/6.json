@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 18:6",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "object of וישם",
+      "rationale": "Hebrew i tok 'David i putim' tasol — i no tok wanem samting; 2 Sam 8:6 i gat 'ol wokman bilong lukautim' (נציבים), Kronikel i rausim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "minkha em i givim narapela man long pasin bilong respek — i no 'presa' o 'takis' olgeta"
+    }
+  ],
+  "translation": "Na David i putim ⟨samting⟩ long Aram bilong Damasek, na Aram i kamap ol save bilong David, ol i karim minkha; na Yahwe i save long David long olgeta samting we em i wokabaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/18\/5-8.1792362118936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i putim ⟨samting⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "long Aram"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "bilong Damasek"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ol save"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ol i karim"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "i save long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "em i wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:58.937347989Z",
+  "model": "glm-5.3"
+}

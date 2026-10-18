@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ol soret bilong mi",
+      "rationale": "Hibru i stat wantaim tupela verb; Tok Pisin i nidim subjek pastaim, tasol em i stap insait long חבורתי yet, olsem no ⟨…⟩ marker."
+    }
+  ],
+  "translation": "Ol soret bilong mi i smel nogut, ol i bruk nogut, bilong longlong pasin bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/5-8.1792358192029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "i smel nogut"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ol i bruk nogut"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ol soret bilong mi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "longlong pasin bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:32.030732114Z",
+  "model": "glm-5.3"
+}

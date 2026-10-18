@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאמרו\/ידברו",
+      "rationale": "Paired verbs of speaking in parallel halves — 'say' and 'speak'; Tok Pisin keeps the pair with tokim and stori long en."
+    },
+    {
+      "kind": "addition",
+      "subject": "long en",
+      "rationale": "Hebrew uses verb plus prepositional object directly; Tok Pisin needs long en to complete the speaking phrase."
+    }
+  ],
+  "translation": "Glori bilong kingdom bilong yu ol bai tokim, na strongpela wok bilong yu ol bai stori long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/9-12.1792359306722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kingdom bilong yu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bai tokim"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "na strongpela wok bilong yu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bai stori long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:06.723089115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarapim olgeta",
+      "rationale": "חרמתי again rendered 'destroyed utterly'; ban-sense of herem lost as in v18."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעתי \/ ותעש הרע",
+      "rationale": "Saul claims the very obedience (shamá‘ bəqol) Samuel just denied — direct echo of v19."
+    }
+  ],
+  "translation": "Na Saul i tok long Semuel: Tru, mi harim tok bilong Yahwe, na mi wokabaut long rot we Yahwe i salim mi long en, na mi bringim ⟨את⟩ Agag, king bilong Amalek, na ⟨את⟩ Amalek mi bagarapim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/17-20.1792351769238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Saul i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi harim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "na mi wokabaut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "i salim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "na mi bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "bilong Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "mi bagarapim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:29.239963107Z",
+  "model": "glm-5.3"
+}

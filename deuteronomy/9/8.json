@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קצף \/ אנף",
+      "rationale": "Tupela tok bilong bel i hat — קצף (pairapim, crack) na אנף (strongpela win i kamap) — olgeta i pairap klostu long Tok Pisin, tasol no wanpela leta wankain."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Tok i stret long ol man Yisrael, plural."
+    }
+  ],
+  "translation": "Na long Horeb yupela i mekim bel i hat long ⟨את⟩ Yahwe, na Yahwe i bel bikpela hat wantaim yupela — long bagarapim ⟨את⟩ yupela olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46863c6bc441592994da4fdf1f864742047b0fcf977a2fe33a4cb8209087dc3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/9\/5-8.1792349893935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Na long Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "yupela i mekim bel i hat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "na ... i bel bikpela hat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "wantaim yupela"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "long bagarapim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T18:58:13.937199446Z",
+  "model": "glm-5.3"
+}

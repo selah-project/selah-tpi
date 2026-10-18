@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "laip bilong mi",
+      "rationale": "Hebrew מאסתי 'I loathe' has no stated object; supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nating tasol",
+      "rationale": "הבל literally 'breath\/vapor', Ecclesiastes' key word, rendered 'nating tasol'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Imperative 'Lusim mi' — Job commands God to leave him alone"
+    }
+  ],
+  "translation": "Mi les long laip bilong mi; mi no ken slip long olgeta taim. Lusim mi, bikos olgeta dej bilong mi em nating tasol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/7\/13-16.1792359909596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "mi les long"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "long olgeta taim"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mi ken slip"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nating tasol"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "olgeta dej bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:09.596914630Z",
+  "model": "glm-5.3"
+}

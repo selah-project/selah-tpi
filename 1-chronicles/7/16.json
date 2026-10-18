@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 7:16",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותקרא",
+      "rationale": "Hebrew feminine singular 'she called' rendered with plural 'ol i givim nem' following Tok Pisin naming idiom."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Birth and naming list within Machir's line."
+    }
+  ],
+  "translation": "Na Maakha, meri bilong Makhir, i karim wanpela pikinini man, na ol i givim nem bilong en Peresh; na nem bilong brata bilong en ⟨i⟩ Sheresh; na ol pikinini bilong en: Ulam na Rakem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/7\/13-16.1792361909454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "na i karim"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wanpela pikinini man"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "na ol i givim nem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "Peresh"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "Sheresh"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ol pikinini bilong en"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Ulam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "na Rakem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:29.455571181Z",
+  "model": "glm-5.3"
+}

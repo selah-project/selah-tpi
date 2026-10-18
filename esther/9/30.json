@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb has no explicit subject; ⟨em⟩ (Mordekai) supplied from context."
+    },
+    {
+      "kind": "measurement",
+      "subject": "127 provinces",
+      "rationale": "Count of provinces of the kingdom repeated from Est 1:1."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shalom ve'emet",
+      "rationale": "Idiomatic pair 'peace and truth' — wholeness and reliability — rendered literally."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i salim ol leta i go long olgeta man bilong Yuda, long ol seven na teti na wan handet province bilong kingdom bilong Ahashverosh — ol tok bilong pis na tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/29-32.1792360996399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na ⟨em⟩ i salim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ol leta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "man bilong Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na teti"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na wan handet"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "province"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kingdom bilong"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:16.400888333Z",
+  "model": "glm-5.3"
+}

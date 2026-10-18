@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאות",
+      "rationale": "'pastures\/pleasant places' vs 'habitations\/dwellings' — bsb 'pastures' against kjv\/jps 'habitations'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples gaden",
+      "rationale": "נאות i tok bilong 'ples wail ol animal i kaikai', tasol tok wanwan i no stret long Tok Pisin."
+    }
+  ],
+  "translation": "Ol i tok: Larim mipela rausim ⟨את⟩ ol ples gaden bilong Elohim bilong mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/13-16.1792358603142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ol i"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "larim mipela rausim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong mipela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ples gaden"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ol ples gaden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:23.142871199Z",
+  "model": "glm-5.3"
+}

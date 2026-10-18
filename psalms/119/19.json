@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew lacks copula; Tok Pisin predicate marker supplied and bracketed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גר",
+      "rationale": "'guest, foreigner, sojourner' rendered 'wanpela man i no gat ples bilong en' — one Hebrew word expanded to keep the picture"
+    },
+    {
+      "kind": "you",
+      "subject": "prayer to Yahwe",
+      "rationale": "Direct plea addressed to Yahwe ('ol lo bilong yu')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "haitim",
+      "rationale": "סתר is 'cover over' — 'tanim klostu \/ karim samting antap long' would keep the literal covering picture"
+    }
+  ],
+  "translation": "Mi ⟨i⟩ wanpela man i no gat ples bilong en, mi stap long graun; no ken haitim long mi ol lo bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ffb4d22778297ce4b6a8d5ac2274c03ca4ecd9ecc5271911b314004b01176018",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/18-19.1792363401990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "wanpela man i no gat ples bilong en"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "haitim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol lo bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:21.991158299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yu bin tok bek long mi",
+      "rationale": "עניתני: pastaim 'yu bin tok bek' o komand 'tok bek long mi nau' (JPS\/Geneva) — KJV 'thou hast heard me'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol wail bulmakau",
+      "rationale": "רמים em i wail ox bilong ol kun — KJV 'unicorns' i no stret"
+    }
+  ],
+  "translation": "Salvim mi long maus bilong laion; na long ol kun bilong ol wail bulmakau, yu bin tok bek long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/21-24.1792358032434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "salvim mi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "long maus bilong"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "laion"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "na long ol kun bilong"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ol wail bulmakau"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "yu bin tok bek long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:52.434731951Z",
+  "model": "glm-5.3"
+}

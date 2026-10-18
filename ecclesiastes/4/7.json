@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל = win\/weiting — 'hevel' i stap, i no 'nating' tasol"
+    }
+  ],
+  "translation": "Na mi tanim bek, mi na mi lukim hevel aninit long san.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/4\/5-8.1792360760937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "na mi tanim bek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "na mi lukim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "long san"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:20.938674566Z",
+  "model": "glm-5.3"
+}

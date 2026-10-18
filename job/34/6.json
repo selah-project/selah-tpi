@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנוש חצי",
+      "rationale": "'my arrow\/wound is mortal-incurable' — KJV 'my wound is incurable' vs YLT 'mortal is mine arrow'; חץ i spia, tasol hia em i birua bilong spia"
+    },
+    {
+      "kind": "crux",
+      "subject": "על משפטי אכזב",
+      "rationale": "'Am I lying about my right?' (kwesten) vs 'despite my right I am counted a liar' (ASV\/JPS) — gramat i gat tupela lait"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "posessiv 'bilong mi' long birua — Hibru i gat em long חצי (mi), tasol Tok Pisin i lainim klia"
+    }
+  ],
+  "translation": "Long kot bilong mi ol tok mi giaman; birua bilong ⟨mi⟩ i no inap halivim, mi nogat rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/34\/5-8.1792360320524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kot bilong mi"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "ol tok mi giaman"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "i no inap halivim"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "birua bilong mi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:00.525791121Z",
+  "model": "glm-5.3"
+}

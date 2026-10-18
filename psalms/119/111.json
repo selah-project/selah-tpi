@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i bel\/tingting long D4, i no 'hat' — Tok Pisin 'bel bilong mi' i holim tingting na filing."
+    },
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "Tok Pisin i gat 'ol i' — em i pronoun bilong Tora, Tok Pisin i nidim en, olsem na i no lus."
+    }
+  ],
+  "translation": "Mi kisim ol testimenti bilong yu olsem pes bilong mi i go long taim olgeta, long wanem, ol i amamas bilong bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/109-112.1792359160864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mi kisim olsem pes"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ol testimenti bilong yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i go long taim olgeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "amamas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bilong bel bilong mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol i"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:40.866407575Z",
+  "model": "glm-5.3"
+}

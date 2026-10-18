@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהי הגוים long ples hia em i ol god bilong ol narapela lain — D1 orait long liklik leta"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ples",
+      "rationale": "Verse i listim tupela nem kantri na tupela ples: Gozan, Haran, Retsef, Eden, Telasar"
+    },
+    {
+      "kind": "elision",
+      "subject": "כהתצילו — tok bilong askim",
+      "rationale": "Hibru i no gat mak bilong askim; Tok Pisin i putim '?' olsem ol olgeta translesen"
+    }
+  ],
+  "translation": "Ol god bilong ol lain olgeta, ol we tumbuna bilong mi i bagarapim ⟨את⟩ ol — ol i wokim ris long ol? — ⟨את⟩ Gozan, na ⟨את⟩ Haran, na Retsef, na ol pikinini bilong Eden, we i stap long Telasar.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/37\/9-12.1792354363321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ol i wokim ris long ol?"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol lain olgeta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ol god bilong"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol lain olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol we"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "tumbuna bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "i stap long Telasar"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:43.322622041Z",
+  "model": "glm-5.3"
+}

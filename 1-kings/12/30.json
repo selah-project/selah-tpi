@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני האחד",
+      "rationale": "'before the one' — the one calf in Dan; KJV adds 'to worship' which Hebrew lacks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok",
+      "rationale": "הדבר is 'word\/matter\/thing' — 'dispela samting' also possible"
+    }
+  ],
+  "translation": "Na dispela tok i kamap long sin; na ol manmeri i wokabaut long fes bilong ⟨את⟩-wanpela i go inap long Dan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/12\/29-32.1792352990560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "long sin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-18T19:49:50.560972817Z",
+  "model": "glm-5.3"
+}

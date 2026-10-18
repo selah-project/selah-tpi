@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "banis strongpela",
+      "rationale": "מצרות em i rampart ol i wokim long banisim — 'stronghold' i no wanpela tok Tasol."
+    },
+    {
+      "kind": "measurement",
+      "subject": "liste bilong ol ples",
+      "rationale": "Nem bilong ol siti ol i wokim strongpela, ol i kaunim wanwan."
+    }
+  ],
+  "translation": "Na ⟨את⟩ Tsora, na ⟨את⟩ Ayalon, na ⟨את⟩ Hevron, ol i stap long Yehuda na long Binyamin — ol siti bilong banis strongpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d61eac73f0d9b36e15d62a28afb734e7e8c733e2a90a1038c8e538cb18acf4f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/11\/9-12.1792362396707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "long Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "na long Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ol siti"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "bilong banis strongpela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:26:36.707971387Z",
+  "model": "glm-5.3"
+}

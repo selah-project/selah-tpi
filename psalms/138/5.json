@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol king",
+      "rationale": "subyek bilong ves 4 i kosinuet i kam long ves 5, Tok Pisin i nidim subyek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד em i 'wevt\/traipela nem', 'glori' em klosu tumora"
+    }
+  ],
+  "translation": "Na ol king i bai singim singsing long ol rot bilong Yahwe, bilong wanem, glori bilong Yahwe i bikpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/138\/5-8.1792359268790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשירו",
+      "gloss": "i bai singim singsing"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "long ol rot bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i bikpela tru"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:28.791046191Z",
+  "model": "glm-5.3"
+}

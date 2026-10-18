@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin ianim olgeta prediket bilong ol namba bilong ol manmeri, Hibru i no gat prediket"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikai nogat",
+      "rationale": "צום em i pasim maun; Tok Pisin i tok 'kaikai nogat', wankain mining"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevenpela dei",
+      "rationale": "namba bilong taim — kaikai nogat sevenpela dei"
+    }
+  ],
+  "translation": "Na ol i kisim ⟨את⟩ ol bun bilong ol, na ol i planim ⟨i⟩ daunbilo tru long diwai tamarik, long Yabes, na ol i kaikai nogat sevenpela dei.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/31\/13-13.1792352098248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ol i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong ol"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ol bun bilong ol"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ol i planim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daunbilo tru"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "diwai tamarik"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "long Yabes"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ol i kaikai nogat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:58.249350356Z",
+  "model": "glm-5.3"
+}

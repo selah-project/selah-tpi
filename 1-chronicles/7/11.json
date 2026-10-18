@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 7:11",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew has no verb 'were'; apposition chain only"
+    },
+    {
+      "kind": "measurement",
+      "subject": "17,200",
+      "rationale": "census count of men fit for war"
+    }
+  ],
+  "translation": "Olgeta dispela ol pikinini man bilong Yediael, ol hetman bilong ol papa, ol man i strong long pait, seventeen tausen na tu handet, ol man i save go ausait long ami bilong pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/7\/9-12.1792361891150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ol hetman bilong"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ol papa"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ol man i strong"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tu handet"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ol man i save go ausait"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "long ami"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bilong pait"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:11.151961345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהנים",
+      "rationale": "Plural 'priests' with two names: 'Zadok and Abiathar were priests' vs 'were the (two) priests' of David's court."
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew has no verb 'to be'; Tok Pisin predicate marker i carries the link."
+    }
+  ],
+  "translation": "na Sjeva i sekretaris, na Tsadok na Abiatar ol pris.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/20\/25-26.1792352483934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "na Sjeva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sekretaris"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "na Abiatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ol pris"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:23.935057913Z",
+  "model": "glm-5.3"
+}

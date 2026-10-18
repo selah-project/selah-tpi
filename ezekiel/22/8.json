@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "senisim",
+      "rationale": "בזית em i ting samting i nating — senisim i klostu long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "חללת — brukim hol, mekim samting holi i kamap nating"
+    }
+  ],
+  "translation": "Ol samting holi bilong mi yu senisim ⟨את⟩, na ⟨את⟩ ol Sabat bilong mi yu bagarapim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/22\/5-8.1792356348643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ol samting holi bilong mi"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "yu senisim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol Sabat bilong mi"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ol Sabat bilong mi"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "yu bagarapim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:45:48.645206179Z",
+  "model": "glm-5.3"
+}

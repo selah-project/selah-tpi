@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lukautim",
+      "rationale": "גנן literally 'hedge about' — rendered as general 'ward\/protect'; the picture of a fence around the city is lost."
+    }
+  ],
+  "translation": "Na bai mi lukautim dispela siti, bilong helpim em — long nem bilong mi, na long nem bilong David, wokman bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "04d597f26110e61a0c292c0e2e4926de0c7072ac00c236b93f726f8de9015060",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/37\/33-36.1792354379985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "Na bai mi lukautim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "bilong helpim em"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "long nem bilong mi"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na long nem bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:59.986594796Z",
+  "model": "glm-5.3"
+}

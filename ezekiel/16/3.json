@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i laikim kopula; Hibru i no gat em long 'papa bilong yu Emorai'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rot bilong yu",
+      "rationale": "מכרתיך em i 'ples bilong kantri bilong yu' (olsem main); 'rot bilong yu' i holim piksa bilong stat."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yerusalayim",
+      "rationale": "Tok bilong kot i go stret long siti Yerusalayim."
+    }
+  ],
+  "translation": "Na yu tok olsem: Olsem Adonai Yahwe i tok long Yerusalayim: rot bilong yu na benebin bilong yu i stap long graun bilong Kenaan man; papa bilong yu ⟨em i⟩ Emorai, na mama bilong yu ⟨em i⟩ Hitai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/16\/1-4.1792356193334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na yu tok olsem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "rot bilong yu"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "na benebin bilong yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaan man"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorai"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "na mama bilong yu"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hitai"
+    }
+  ],
+  "timestamp": "2026-10-18T20:43:13.335015362Z",
+  "model": "glm-5.3"
+}

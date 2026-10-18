@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew קראת 'you called' lacks explicit object; Tok Pisin needs 'mi' and 'yu' for clarity"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קראת\/קראתי",
+      "rationale": "repetition of 'call' drives the scene; kept as singautim both times"
+    }
+  ],
+  "translation": "Em i ran i go long Eli, na i tok: Mi hia, bilong wanem yu bin singautim mi. Na Eli i tok: Mi no singautim yu; go bek, slip. Na em i go, na i slip.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/5-8.1792351541061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "em i ran i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mi hia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "yu bin singautim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi bin singautim"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "slip"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i go"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "na i slip"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:41.061825846Z",
+  "model": "glm-5.3"
+}

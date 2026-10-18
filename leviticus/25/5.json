@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ספיח",
+      "rationale": "Tok bilong kaikai i kamap bilong yet — em i stap long Tanakh hia tasol olsem tok bilong gaden (wantaim Stat 25:11)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נזירך",
+      "rationale": "Sipela skul: 'diwain grape yu no wokim long en' (nazar, yu no kotim) o 'grap yu no kisim pinis long before' — KJV 'undressed vine' vs ylt 'separated thing'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim possessiv 'em' long 'graun', Hibru i no gat en."
+    }
+  ],
+  "translation": "⟨את⟩ ol kaikai i kamap bilong yet long gaden bilong yu, yu no ken kotim; na ⟨את⟩ ol grap bilong diwain grape yu no wokim long en, yu no ken kisim — em bai i yia bilong Sabat-malolo bilong ⟨em⟩ graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/25\/5-8.1792348765242.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol kaikai i kamap bilong yet"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ol kaikai i kamap bilong yet"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "long gaden bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ken kotim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol grap bilong diwain grape"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ol grap bilong"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "diwain grape yu no wokim long en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ken kisim"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yia bilong"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabat-malolo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em bai i stap"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bilong graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:25.243208504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i tok",
+      "rationale": "לאמר em i opim tok bilong oath; Tok Pisin i nidim 'i tok' bilong linim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "belhat nogut",
+      "rationale": "ויקצף i minim 'burst out in rage' — Tok Pisin 'belhat nogut' i klostu, tasol piksa bilong 'kirap nogut' i lus liklik."
+    }
+  ],
+  "translation": "Na Yahwe i harim ⟨את⟩ nois bilong ol tok bilong yupela, na em i belhat nogut, na em i swer, i tok:",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/33-36.1792349727599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na Yahwe i harim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nois bilong ol tok bilong yupela"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois bilong"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ol tok bilong yupela"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "na em i belhat nogut"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "na em i swer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:27.600587677Z",
+  "model": "glm-5.3"
+}

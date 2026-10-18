@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laion",
+      "rationale": "ליש em i spesal tok bilong laion ('laion bilong paitim strong'), olsem na mi putim 'laion' tasol."
+    }
+  ],
+  "translation": "Laion — em i bikpela man long ol animal bilong lukautim, na em i no save go bek long pes bilong olgeta man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/29-32.1792359802753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "laion"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bikpela man"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "long ol animal bilong lukautim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "i save go bek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:22.754443366Z",
+  "model": "glm-5.3"
+}

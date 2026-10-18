@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ומתערה",
+      "rationale": "Lemma 6168 appears only here in the Tanakh; literal sense is 'make bare \/ pour out', hence 'spread itself wide'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומתערה",
+      "rationale": "Ancient versions and moderns divide: 'flourishing\/spreading like a native tree' vs literal 'baring itself'; KJV 'spreading himself', BSB 'flourishing'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עריץ",
+      "rationale": "'Traipela man nogut' renders the sense 'feared, tyrannical', not the literal 'man i bilong skerim ol man'."
+    }
+  ],
+  "translation": "Mi lukim wanpela man nogut, traipela man nogut, na em i spredim em yet olsem diwai bilong ples, grin na antap tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d31483af4c858ffdc38ab7d9242c2eb68dada047025f74ee7dd18aa94b287d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/35-36.1792363351332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wanpela man nogut"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "traipela man nogut"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "na em i spredim em yet"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "olsem diwai bilong ples"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "grin na gutpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:31.333066094Z",
+  "model": "glm-5.3"
+}

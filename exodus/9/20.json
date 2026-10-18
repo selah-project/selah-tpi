@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הניס",
+      "rationale": "Hifil bilong נוס — 'ol i wokim ol i ranawe'; Tok Pisin 'ranim i go' i holim pasin bilong kaikai wantaim."
+    }
+  ],
+  "translation": "Ol bilong ol wokman bilong Paroh we ol i scare long ⟨את⟩ tok bilong Yahwe, ol i ranim ⟨את⟩ ol wokman bilong ol na ⟨את⟩ ol bulmakau na sipsip bilong ol i go insait long ol haus.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/9\/17-20.1792347496116.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ol we ol i scare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "bilong ol wokman"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "ol i ranim i go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wokman bilong ol"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol bulmakau na sipsip bilong ol"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ol bulmakau na sipsip bilong ol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go insait long"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ol haus"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:16.117603943Z",
+  "model": "glm-5.3"
+}

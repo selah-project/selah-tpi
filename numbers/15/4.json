@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 15:4",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עשרון \/ ההין",
+      "rationale": "Verse measures grain (tenth of efa) and oil (quarter hin)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol",
+      "rationale": "שמן rendered as generic ol (oil), Hebrew does not specify olive here."
+    }
+  ],
+  "translation": "na man i bringim klostu ⟨את⟩ ofa bilong en i kam long Yahwe, em bai i bringim ⟨את⟩ minkha — flaua bilong olgeta gutpela kain, wanpela tenpat, i wokim wantaim ol — na foapela hap bilong wanpela hin bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4c264b61a77b9e6deab38c92b45e6b514f789197e38b6b0f92474c99d95e9dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/15\/1-4.1792349251478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "na man i bringim klostu"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "man i bringim ofa i kam"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofa bilong en"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flaua bilong olgeta gutpela kain"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "wanpela tenpat"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "i wokim wantaim ol"
+    },
+    {
+      "surface": "ברבעית",
+      "gloss": "foapela hap"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "bilong wanpela hin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:31.479573955Z",
+  "model": "glm-5.3"
+}

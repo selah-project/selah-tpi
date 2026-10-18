@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 28:13",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים ראיתי",
+      "rationale": "'ol god' (KJV 'gods') vs 'wanpela god' (ASV\/JPS 'a god\/godlike being') — plural form, singular referent, Samuel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהים hia em i tok bilong wanpela man i kamap antap, ol i no tok 'Elohim' bilong Nem — meri i tok long wanpela samting i lukim olsem god."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim objekt; Hibru i no gat pronaun."
+    }
+  ],
+  "translation": "Na king i tokim ⟨em⟩: Yu no ken pret, bilong wanem yu lukim wanem? Na meri i tokim Shaul: Mi lukim ol god i kamap antap, i kamap long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ade02ef3a9ad94f441db98b89751d15262df2e16e71f91bdedad06bb1d9cf35f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/28\/13-16.1792352045942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na king i tokim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "pret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "yu lukim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Na meri i tokim"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "i kamap antap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:05.943619962Z",
+  "model": "glm-5.3"
+}

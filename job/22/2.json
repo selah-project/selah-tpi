@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Eliphaz opens his third speech with a rhetorical question addressed to Job"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסכן",
+      "rationale": "'give benefit\/be useful': KJV\/ASV read the wise man benefits himself; JPS\/BSB read both clauses as benefit to God"
+    },
+    {
+      "kind": "elision",
+      "subject": "ה in הלאל",
+      "rationale": "Hebrew article on 'El'; Tok Pisin has no article and the ה is not rendered"
+    }
+  ],
+  "translation": "Inap man i ken givim win long El, o man i gat save i ken givim win long em yet?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/22\/1-4.1792360147480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "long El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "i ken givim win"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "i ken givim win"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "long em yet"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "man i gat save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:07.480877505Z",
+  "model": "glm-5.3"
+}

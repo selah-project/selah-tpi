@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silva",
+      "rationale": "כסף i silva tasol; mani i no tok long Hibru hia"
+    },
+    {
+      "kind": "elision",
+      "subject": "לכהנים יהיו",
+      "rationale": "Hibru i tok 'ol pris i stap' — Tok Pisin i mas tok 'bilong ol pris yet'"
+    }
+  ],
+  "translation": "Silva bilong ⟨את⟩ asam na silva bilong ol ketaut i no inap bring insait long haus bilong Yahwe — em i bilong ol pris yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f17456da6d2dacf4e97d07dbc6786d946bd400582601ffb685bc9a7cff5a31a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/17-20.1792353516525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silva bilong"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asam"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na silva bilong"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ol ketaut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "bring kamap insait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "bilong ol pris"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "em i bilong ol yet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:36.526578568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel hevi",
+      "rationale": "קדר i min 'kala bilong kaus', olsem man i karim hevi — Tok Pisin 'bel hevi' i klostu tumas"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Dairekt toktok long Elohim, ol askim bilong wanem"
+    }
+  ],
+  "translation": "Bilong wanem, yu Elohim bilong strongpela haus bilong mi; bilong wanem yu rausim mi? Bilong wanem mi wokabaut long bel hevi, long hevi bilong birua?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/43\/1-4.1792358222643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "strongpela haus bilong mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "yu rausim mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "long bel hevi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mi wokabaut"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "long hevi bilong"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "birua"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:02.645388923Z",
+  "model": "glm-5.3"
+}

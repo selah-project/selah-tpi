@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טעמו",
+      "rationale": "Literal 'taste' (sense of taste \/ perception); translators render 'behaviour' or 'taste\/demeanour' — Tok Pisin keeps 'pasin bilong en'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Avimelek",
+      "rationale": "Title names Avimelek but the story behind it (1 Sam 21) names Akhish, king of Gat — the Hebrew superscription as it stands."
+    }
+  ],
+  "translation": "Long David, taim i senisim ⟨את⟩ pasin bilong en long pes bilong Avimelek, na em i rausim em, na em i go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/1-4.1792358135314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Long David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "taim i senisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasin bilong en"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "pasin bilong en"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "na em i rausim em"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i go"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:35.315192484Z",
+  "model": "glm-5.3"
+}

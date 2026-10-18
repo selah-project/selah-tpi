@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 25:39",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i gat gutpela nem",
+      "rationale": "ברוך is 'blessed\/praised' — Tok Pisin lacks a passive benediction; rendered as an ascription of good name"
+    },
+    {
+      "kind": "idiom",
+      "subject": "i senisim nogut … i go long het bilong em",
+      "rationale": "השיב רעה בראשו 'returned the evil on his head' — kept literally, matching the Hebrew idiom of recompense"
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "וישלח has no stated object; 'man' supplied since Tok Pisin needs one for 'sent'"
+    }
+  ],
+  "translation": "Taim David i harim se Nabal i dai pinis, em i tok: Yahwe i gat gutpela nem, we em i kotim ⟨את⟩ kot bilong sem bilong mi long han bilong Nabal, na em i holim bak wokman bilong em long nogut; na Yahwe i senisim nogut bilong Nabal, i go long het bilong em yet. Na David i salim man, i toktok long Avigayil bilong kisim em bilong em, bilong kamap meri bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/37-40.1792352029132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "taim … i harim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i gat gutpela nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i kotim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kot bilong sem bilong mi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kot"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "sem bilong mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wokman bilong em"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "wokman bilong em"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "i holim bak"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "long nogut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nogut bilong Nabal"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "i senisim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "long het bilong em"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i salim man"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i toktok"
+    },
+    {
+      "surface": "באביגיל",
+      "gloss": "long Avigayil"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "bilong kisim em"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilong kamap meri bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:49.134026937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wan handet na fifti man",
+      "rationale": "namba bilong kaunim ol man"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Shekanya",
+      "rationale": "sam man i tingim Shekanya em i papa bilong Parosh, narapela i tingim em i wanpela lain longemspela — BSB i putim Hatuvush aninit long Shekanya"
+    }
+  ],
+  "translation": "Long ol pikinini bilong Shekanya; long ol pikinini bilong Parosh: Zekarja, na wantaim em ol i skelim ol nem long ol man — wan handet na fifti.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/8\/1-4.1792361509957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Shekanya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarja"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "na wantaim em"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "ol i skelim ol nem"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na fifti"
+    }
+  ],
+  "timestamp": "2026-10-18T22:11:49.958782126Z",
+  "model": "glm-5.3"
+}

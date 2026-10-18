@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim ⟨i stap⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "givim bekim",
+      "rationale": "שלם em i 'wokim pis \/ pekim olgeta'; hia em i min 'peim man long wok bilong en'"
+    }
+  ],
+  "translation": "Na long yu, Adonai, i stap khesed; bilong wanem yu bai yu givim bekim long wanpela man olsem wok bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/62\/13-13.1792358357828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Na long yu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "i stap khesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "bai yu givim bekim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "long wanpela man"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "olsem wok bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:17.828943881Z",
+  "model": "glm-5.3"
+}

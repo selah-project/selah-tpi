@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i nidim predikat bilong tok; Hibru i no gat kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין…ובין",
+      "rationale": "Hibru i ripim 'namel long' tupela taim; Tok Pisin i holim pasin bilong ripim tu."
+    }
+  ],
+  "translation": "Na bilong bosim long de na long nait, na bilong skelim namel long lait na namel long tudak; na Elohim i lukim olsem em i gutpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/1\/17-20.1792346249044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "na bilong bosim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na long nait"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "na bilong skelim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lait"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tudak"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na i lukim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "em i gutpela"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:29.045659113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stap oltaim",
+      "rationale": "איתן: 'i stap oltaim\/permanent' (olsem wara i no save pinis) o 'hat\/nogut' — KJV 'is hard', JPS 'is harsh'; Targum i tanim 'i rausim ol man i go we'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gutpela nem long ai bilong ol man",
+      "rationale": "חן em i 'grace\/favor' — Tok Pisin i no gat wanpela tok, olgeta tok i stuk"
+    }
+  ],
+  "translation": "Save gutpela i givim gutpela nem long ai bilong ol man; tasol rot bilong ol man i giaman — em i stap oltaim ⟨i no senis⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/13\/13-16.1792359534908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "save gutpela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gutpela nem long ai bilong ol man"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ol man i giaman"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "stap oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:54.909542996Z",
+  "model": "glm-5.3"
+}

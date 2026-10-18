@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ya",
+      "rationale": "Hebrew demonstrative force carried by 'dispela'; 'ya' added for emphasis"
+    },
+    {
+      "kind": "you",
+      "subject": "ol lain Yisrael",
+      "rationale": "Moses addresses the whole assembly directly, introducing commands"
+    }
+  ],
+  "translation": "Na Mose i bringim olgeta ⟨את⟩ wanlain bilong ol pikinini bilong Yisrael, na i tokim ol: Ol dispela tok ya, olsem Yahwe i bin givim tok bilong wokim ⟨את⟩ ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3ee2a9e4cca1fd80343ae4d632f3ff639d5321c656a912255bfad67b109229e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/35\/1-4.1792348081411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "i bringim olgeta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanlain bilong ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "wanlain"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i bin givim tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:01.412194359Z",
+  "model": "glm-5.3"
+}

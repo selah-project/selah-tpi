@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ruak bilong wara i strong tru",
+      "rationale": "Hebrew has only 'ruak storm' — Tok Pisin needs a phrase for סערה"
+    },
+    {
+      "kind": "addition",
+      "subject": "[tumbuna]",
+      "rationale": "Tok Pisin has no single word for גלים (waves); 'tumbuna bilong wara' is supplied to picture the rolling heaps"
+    }
+  ],
+  "translation": "Na Em i tok, na Em i sanapim 🜨 ruak bilong wara i strong tru, na em i singautim olge˦ta ol [tumbuna] bilong en i go antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/25-28.1792359003065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na Em i tok"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na Em i sanapim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wara i strong tru"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "na em i singautim i go antap"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "olge˦ta ol [tumbuna] bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:03.066165751Z",
+  "model": "glm-5.3"
+}

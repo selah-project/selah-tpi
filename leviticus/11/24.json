@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טמא",
+      "rationale": " ritual impurity rendered as kamap man nogut, the Tok Pisin idiom for becoming unclean"
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": " Hebrew כל (whoever) requires an explicit noun in Tok Pisin"
+    }
+  ],
+  "translation": "Long ol dispela bai yu olgeta i kamap ol man nogut: man i save tekim han long bodi bilong ol dai em i kamap man nogut inap long apinun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/21-24.1792348382873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "long ol dispela"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "bai yu olgeta i kamap ol man nogut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "man olgeta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "i save tekim han long"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bodi bilong ol dai"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "em i kamap man nogut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:02.874727280Z",
+  "model": "glm-5.3"
+}

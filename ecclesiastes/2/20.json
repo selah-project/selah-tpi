@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim ap",
+      "rationale": "ליאש — despond\/despair; 'givim ap' i tok Tok Pisin bilong lusim bel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i karim tingting na laik — Tok Pisin 'bel' (D4), i no 'hat'"
+    }
+  ],
+  "translation": "Na mi senisim tingting bilong mi long ⟨את⟩ bel bilong mi, bilong givim ap long olgeta wok hat we mi wokim hat ananit bilong sol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/2\/17-20.1792360739892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Na mi senisim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "bilong givim ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong mi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "wok hat"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "we mi wokim hat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit bilong"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:59.893973050Z",
+  "model": "glm-5.3"
+}

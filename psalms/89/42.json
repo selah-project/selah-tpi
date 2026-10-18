@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem",
+      "rationale": "חרפה em i tok i kavim man — sem tru, sori tru"
+    }
+  ],
+  "translation": "Olgeta man i wokabaut long rot ol stilim olgeta samting bilong en; em i kamap sem long ol man i stap klostu long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/41-44.1792358777330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ol stilim olgeta samting bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "man i wokabaut i go"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "long ol man i stap klostu long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:17.331724705Z",
+  "model": "glm-5.3"
+}

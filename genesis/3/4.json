@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמתון",
+      "rationale": "infinitive absolute דai-דai — 'dai tru, bai dai'; Tok Pisin 'dai tru' i holim pasin bilong infinitive absolute."
+    },
+    {
+      "kind": "you",
+      "subject": "to the woman",
+      "rationale": "snek i tok dairekta long meri, olgeta manmeri i stap long dispela tok."
+    }
+  ],
+  "translation": "Na snek i tok long meri: yu ol i no bai dai tru.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/1-4.1792346267651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na snek i tok"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai tru"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "yu ol bai dai"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:47.652529694Z",
+  "model": "glm-5.3"
+}

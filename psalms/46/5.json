@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Wanpela",
+      "rationale": "Hebrew has no indefinite article; Tok Pisin 'Wanpela' marks 'a river' supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "amamas",
+      "rationale": "ישמחו is causative 'make glad'; 'bringim amamas' keeps the causative shape"
+    }
+  ],
+  "translation": "Wanpela wara, ol stret bilong en i bringim amamas long siti bilong Elohim, ples holi bilong ol Miskan bilong Elyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/46\/5-8.1792358272663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "ol stret bilong en"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "i bringim amamas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ples holi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ol Miskan bilong"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:52.664287249Z",
+  "model": "glm-5.3"
+}

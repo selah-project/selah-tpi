@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "133 years",
+      "rationale": "Lifespan count: 100 + 30 + 3 years."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Tok Pisin needs a predicate marker; Hebrew verbless clause."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Kehat: Amram, na Yitsar, na Hevron, na Usiel; na ol yia bilong laip bilong Kehat i stap wan handet na teti-pela na tripela yia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/6\/17-20.1792347380550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "na Yitsar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "na Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "na Usiel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na ol yia"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bilong laip"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na teti-pela"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na wan handet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:20.551324521Z",
+  "model": "glm-5.3"
+}

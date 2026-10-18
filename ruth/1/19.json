@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 1:19",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Kopula — Tok Pisin i needim 'em' long kwesten 'Dispela em Noemi?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותאמרנה",
+      "rationale": "Hibru i tok 'ol (meri) i tok' — feminin-plural; Tok Pisin i no gat cist, mi putim 'meri'"
+    }
+  ],
+  "translation": "Na ol tupela i go i go inslong ol i kamap long Betlehem; na taim ol i kamap long Betlehem, olgeta manmeri bilong taun i kirap olgeta long ol, na ol meri i tok: Dispela ⟨em⟩ Noemi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/1\/17-20.1792360560806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלכנה",
+      "gloss": "na ol tupela i go"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inslong"
+    },
+    {
+      "surface": "באנה",
+      "gloss": "ol i kamap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "כבאנה",
+      "gloss": "taim ol i kamap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "olgeta manmeri i kirap olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "na ol meri i tok"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela ⟨em⟩"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:00.807265330Z",
+  "model": "glm-5.3"
+}

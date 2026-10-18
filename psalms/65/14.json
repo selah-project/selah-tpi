@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "'Rams' (man sipsip) vs 'pastures' (KJV 'flocks' vs some 'pastures') — consonants כרים read both ways."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לבשו",
+      "rationale": "'Put on a garment' as idiom for being covered; pastures clothed with flocks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתרועעו אף ישירו",
+      "rationale": "Climactic paired verbs 'shout, yea sing' — escalation of joy kept as 'singaut gutpela, olgeta sing'."
+    }
+  ],
+  "translation": "Ol pas i putim klos — ⟨em ol⟩ ol man sipsip bilong ol sipsip na meme; na ol vale i rapela olgeta wantaim grain; ol i singaut gutpela, olgeta ol i sing.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/65\/13-14.1792358370224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "i putim klos"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ol man sipsip"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "na ol vale"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "i rapela olgeta"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grain"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "ol i singaut gutpela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ol i sing"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:30.225245790Z",
+  "model": "glm-5.3"
+}

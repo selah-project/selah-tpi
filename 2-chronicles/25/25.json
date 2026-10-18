@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fiftinpela yia",
+      "rationale": "Reign-length reckoning: Amatsyahu survived Yoas of Yisrael by fifteen years."
+    },
+    {
+      "kind": "addition",
+      "subject": "fiftin",
+      "rationale": "Hebrew counts 'five ten' (חמש עשרה); Tok Pisin single word fiftin covers both tokens."
+    }
+  ],
+  "translation": "Na Amatsyahu, pikinini bilong Yoas, king bilong Yehuda, i stap laip bihain long dai bilong Yoas, pikinini bilong Yehoahats, king bilong Yisrael, fiftinpela yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c4252ae61e6c08868669c11211cb0eac4fa74e5a0a136d724eec78f9d9f1580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/25\/25-28.1792362662130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i stap laip"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahats"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fiftin"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "fiftin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:02.131362852Z",
+  "model": "glm-5.3"
+}

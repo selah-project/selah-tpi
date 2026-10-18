@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא נפל מכם",
+      "rationale": "Literal 'not fallen from you' = 'not inferior to you'; Tok Pisin keeps the falling picture."
+    },
+    {
+      "kind": "you",
+      "subject": "ol man i rausim pen bilong Jop",
+      "rationale": "Job addresses his three friends directly, claiming equal standing."
+    }
+  ],
+  "translation": "Tasol olsem save bilong yupela, mi save tu mi; mi no pundaun moa long yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/13\/1-4.1792360010604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "olsem save bilong yupela"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "pundaun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "moa long yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:50.605550992Z",
+  "model": "glm-5.3"
+}

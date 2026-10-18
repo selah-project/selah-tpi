@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 1:13",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Hebrew participle נוח read as future; Tok Pisin needs bai for the future sense."
+    },
+    {
+      "kind": "you",
+      "subject": "to Reuben, Gad, half-Manasseh",
+      "rationale": "Joshua addresses the two-and-a-half tribes directly, remembering Moses' command."
+    }
+  ],
+  "translation": "Tingim ⟨את⟩ tok we Mose, wokman bilong Yahwe, i givim komand long yupela, i tok olsem: Yahwe, Elohim bilong yupela, bai i givim malolo long yupela, na bai i givim ⟨את⟩ graun dispela long yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b00f3725aff8b8cb07455fd3574627ec5a02bc7597f46b8b1b1d790b975f1660",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/1\/13-16.1792350515798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tingim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i givim komand"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ long yupela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wokman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "i givim malolo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na bai i givim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:08:35.799352157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "הנפש em i laip\/breth bilong man, tasol Tok Pisin i no gat gutpela tok, olsem 'man'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long bun bilong dispela de",
+      "rationale": "בעצם היום em i pasin bilong Hibru, 'long bun bilong de' = long wanpela de yet"
+    },
+    {
+      "kind": "crux",
+      "subject": "troublem",
+      "rationale": "תענה: 'afflict' (pasim kaikai, tambaran bel) o 'answer'; long hia em i pasim kaikai long De bilong Kiamap Tasol"
+    }
+  ],
+  "translation": "Bikos wanwan man we i no troublem ⟨em⟩ long bun bilong dispela de yet, ol bai rausim ⟨em⟩ long ol man bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/29-32.1792348747225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanwan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "troublem"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "long bun bilong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ol bai rausim"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "long ol man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:07.226017346Z",
+  "model": "glm-5.3"
+}

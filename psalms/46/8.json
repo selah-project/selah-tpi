@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Misgab",
+      "rationale": "משגב is a 'high cliff\/height' kept as a name-place; KJV 'refuge', JPS 'high tower' paraphrase the picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "עמנו and לנו carry first-person plural suffixes rendered 'yumi' twice"
+    }
+  ],
+  "translation": "Yahwe Tsebaot i stap wantaim yumi; Misgab bilong yumi — Elohim bilong Yakov. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/46\/5-8.1792358272663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "i stap wantaim yumi"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "Misgab"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:52.664704025Z",
+  "model": "glm-5.3"
+}

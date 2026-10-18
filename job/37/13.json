@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shevet",
+      "rationale": "שבט em i stik bilong penti; Tok Pisin 'penti' i holim piksa bilong stik"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yemtsa'ehu",
+      "rationale": "יַמְצִיאֵהוּ: 'em i mekim i kamap' o 'em i painim ples bilong en'"
+    }
+  ],
+  "translation": "Sapos em i bilong penti long ol, sapos i bilong graun bilong en, sapos i bilong khesed — em i mekim ⟨את⟩ ol samting i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/37\/13-16.1792360334512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "bilong penti long ol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "bilong graun bilong en"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "bilong khesed"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "em i mekim ⟨את⟩ kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:14.513491307Z",
+  "model": "glm-5.3"
+}

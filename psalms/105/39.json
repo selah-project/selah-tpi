@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klaut",
+      "rationale": "ענן is the thunder-cloud \/ nimbus, not any cloud; Tok Pisin has one word for cloud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kavarim",
+      "rationale": "מסך is a veil\/screen (cloth image); 'kavarim' (covering) is the nearest picture."
+    }
+  ],
+  "translation": "Em i spredim klaut bilong kavarim, na paia bilong givim lait long nait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/37-40.1792358955711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "em i spredim"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "bilong kavarim"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na paia"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "bilong givim lait"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "long nait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:15.712432014Z",
+  "model": "glm-5.3"
+}

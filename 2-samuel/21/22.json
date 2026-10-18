@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרפה \/ ויחרף",
+      "rationale": "v21 root חרף (taunt) echoes הרפה (Rapha) in v22 — sound link lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "להרפה",
+      "rationale": "'to the Rapha' — proper name Rapha, family of giants, vs 'the giant' (single ancestor)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ארבעת אלה",
+      "rationale": "Counting: four giants born to Rapha, closing the list of 2 Sam 21."
+    }
+  ],
+  "translation": "Ol ⟨את⟩ tupela foa man ol i bonim long lain bilong Rapa long Gat, na ol i pundaun long han bilong David na long han long ol wokman bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/21\/21-22.1792352484090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupela foa man"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "tupela foa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "man"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ol i bonim"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "long lain bilong Rapa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "long Gat"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na long han long"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:24.091138164Z",
+  "model": "glm-5.3"
+}

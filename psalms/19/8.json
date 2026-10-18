@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong man",
+      "rationale": "נפש em i laip\/wind bilong bodi, i no 'sol' — Tok Pisin i no gat 'soul'"
+    },
+    {
+      "kind": "crux",
+      "subject": "bringim bek",
+      "rationale": "משיבת נפש: 'i bringim bek laip' o 'i kirapim bek bel' — KJV 'converting the soul' vs ASV 'restoring'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "man i no save tumas",
+      "rationale": "פתי em i man i no gat save, i ken givim long en olgeta tok"
+    }
+  ],
+  "translation": "Tora bilong Yahwe i stap stret olgeta, i bringim bek laip bilong man; tok witness bilong Yahwe i tru, i givim save long man i no save tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/5-8.1792358022211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "i stap stret olgeta"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "i bringim bek"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laip bilong man"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tok witness bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "i tru"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "i givim save long"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "man i no save tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:42.212445489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silva",
+      "rationale": "כסף is the metal silver, not money here, per D4"
+    },
+    {
+      "kind": "secret",
+      "subject": "מטמונים",
+      "rationale": "Hidden, buried treasures — concealed wealth sought out"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבקשנה\/תחפשנה",
+      "rationale": "Paired near-synonyms for seeking, feminine object suffix -נה on both verbs"
+    }
+  ],
+  "translation": "Sapos yu painim em olsem silva, na olsem ol gutpela samting ol i hilaidim insait long graun, yu lukluk trutru long em;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/2\/1-4.1792359405067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "yu painim em"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "olsem silva"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "olsem ol gutpela samting ol i hilaidim insait long graun"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "yu lukluk trutru long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:45.068405634Z",
+  "model": "glm-5.3"
+}

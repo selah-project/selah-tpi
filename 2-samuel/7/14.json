@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר בהעותו",
+      "rationale": "Rendered conditionally ('taim em i wokim rong'); some read it as a relative clause on the son who sins."
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "gloss-level": true,
+      "rationale": "Hebrew ל prefix ('to him for father') needs 'olsem' to read naturally in Tok Pisin."
+    }
+  ],
+  "translation": "Mi bai stap long em olsem papa, na em bai stap long mi olsem pikinini man; taim em i wokim rong, mi baitim em wantaim stik bilong ol man, na wantaim ol paiawut bilong ol pikinini man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/13-16.1792352209708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bai stap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "olsem papa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai stap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "olsem pikinini man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "em i wokim rong"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "mi bai skelim em"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "wantaim stik"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bilong ol man"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "na wantaim ol paiawut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bilong ol pikinini man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:49.709178788Z",
+  "model": "glm-5.3"
+}

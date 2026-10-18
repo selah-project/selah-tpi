@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Shaul musters and counts the people — about six hundred men."
+    },
+    {
+      "kind": "crux",
+      "subject": "כשש מאות",
+      "rationale": "the כ prefix: 'about six hundred' vs 'exactly six hundred'; most versions take 'about'."
+    }
+  ],
+  "translation": "Na Shemuel i kirap na i go antap long Gilgal, i go long Giva bilong Binyamin. Na Shaul i kaunim ⟨את⟩ ol manmeri we ol i stap wantaim em — klostu sikis handet man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/13-16.1792351656841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "bilong Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na i kaunim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri we ol i stap wantaim em"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "klostu sikis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.842503607Z",
+  "model": "glm-5.3"
+}

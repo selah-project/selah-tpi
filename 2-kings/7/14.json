@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 7:14",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Object pronoun added so Tok Pisin shows who the king sent."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רכב סוסים",
+      "rationale": "A bound construct 'chariot-of horses' — team of horse-drawn chariot — rendered as one phrase 'kare hos'."
+    }
+  ],
+  "translation": "Na ol kisim tupela kare hos, na king i salim ⟨ol⟩ i go bihain long kamp bilong Aram, i tok olsem: Go, na lukim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/7\/13-16.1792353453903.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "na ol kisim"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kare"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hos"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na i salim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "go"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:57:33.906335916Z",
+  "model": "glm-5.3"
+}

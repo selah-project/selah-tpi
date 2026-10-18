@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kam",
+      "rationale": "הבה is literally 'give!' used as a cohortative 'come!\/let us'; some read 'give help!'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ו עלה מן הארץ",
+      "rationale": "subject of 'go up from the land': Israel escaping, or (Niphal\/Samaritan) 'being made to go up' — even 'prevail over the land' in some readings"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol birua bilong yumi",
+      "rationale": "participle שנאינו 'those hating us' rendered as noun 'our enemies'"
+    }
+  ],
+  "translation": "Kam, yumi tingting gut long ol; lesol ol i kamap planti moa, na sapos pait i kamap, bai ol i joenim tu wantaim ol birua bilong yumi, na ol i pait long yumi, na ol i go aut long graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/9-12.1792347323227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "yumi tingting gut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long ⟨ol⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lesol"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ol i kamap planti moa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ⟨sapos⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨taim⟩"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "ol i joenim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "ol birua bilong yumi"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "na ol i pait"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "long"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "na ol i go"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aut long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:23.228884582Z",
+  "model": "glm-5.3"
+}

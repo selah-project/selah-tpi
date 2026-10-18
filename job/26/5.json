@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 26:5",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחוללו",
+      "rationale": "Root חול 'to twist\/whirl': read as 'tremble\/writhe' (JPS, ASV) vs 'are formed' (KJV, from חול as writhe in birth); tpi follows 'tremble'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol Refaim",
+      "rationale": "הרפאים literally 'the Rephaim' — the shades\/dead; kept as name, not 'ol man i dai pinis'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושכניהם",
+      "rationale": "Singular suffix 'its inhabitants' (the water's) rendered with plural 'ol'; ambiguity kept loose with 'long en'."
+    }
+  ],
+  "translation": "Ol Refaim i guria wantaim olgeta aninit long wara, na ol i save stap long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "152c63d6c621933ac89e1e3a17fb121e5eeb47d3b2b672f34f85d76c3ffae927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/26\/5-8.1792360185459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפאים",
+      "gloss": "ol Refaim"
+    },
+    {
+      "surface": "יחוללו",
+      "gloss": "i guria wantaim olgeta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ושכניהם",
+      "gloss": "na ol i save stap long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:45.459798204Z",
+  "model": "glm-5.3"
+}

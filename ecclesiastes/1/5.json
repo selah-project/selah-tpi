@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pulum win",
+      "rationale": "שואף em i tok bilong 'pulum win olsem dok'; ol tanim tok i putim 'harim' o 'streth' — piksa bilong san i pen na i go bek i lus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח ... זורח",
+      "rationale": "Wanem tok i kamap tupela taim (kirap bilong san long stat na long end) — olsem raun i kirap gen, i no gat stat pinis"
+    }
+  ],
+  "translation": "San i stap kirap, na san i stap go daun, na em i pulum win i go long ples bilong em; san i kirap, em i stap long hap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/5-8.1792360750229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "i stap kirap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i stap go daun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ples bilong em"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "pulum win"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "san i kirap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i stap long hap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:10.230396326Z",
+  "model": "glm-5.3"
+}

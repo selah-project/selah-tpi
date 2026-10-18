@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol mesenja",
+      "rationale": "מלאכיו i min 'ol man bilong kambim tok' — Tok Pisin i no gat tok 'enjel' bilong Tanakh-register, olsem 'ol mesenja'"
+    }
+  ],
+  "translation": "Bihainlong, long wanem em bai givim tok long ol mesenja bilong em bilong yu, bilong lukautim yu long olgeta rot bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/91\/9-12.1792358823404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong, long wanem"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ol mesenja bilong em"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "em bai givim tok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "bilong lukautim yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "rot bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:03.411547121Z",
+  "model": "glm-5.3"
+}

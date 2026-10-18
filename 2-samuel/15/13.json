@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i min bel\/tingting bilong man, Tok Pisin 'bel i go bihain' i makim bihainim man"
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong man i kam autim tok",
+      "rationale": "tok i go stret long David"
+    }
+  ],
+  "translation": "Na man i kam autim tok i kam long David, i tok: Olgeta bel bilong ol man bilong Yisrael i go bihain long Avshalom.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/15\/13-16.1792352389398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "man i kam autim tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-18T19:39:49.398995914Z",
+  "model": "glm-5.3"
+}

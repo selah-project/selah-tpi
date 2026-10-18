@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספר לאדני",
+      "rationale": "Sampela i tok \"ol bai stori long Adonai\", sampela i tok \"ol bai kountim ol pikinini bilong Adonai long wanpela generesen\""
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i gat verb plural tasol; Tok Pisin i nidim ⟨ol⟩ bilong skelim manmeri"
+    }
+  ],
+  "translation": "Pikinini bilong ol bai wokim bilong Adonai; ol bai stori long Adonai long ol lain bilong bihain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/29-32.1792358014939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "pikinini bilong ol"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "bai wokim bilong em"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ol bai stori"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "long Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "long ol lain bilong bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:34.940259800Z",
+  "model": "glm-5.3"
+}

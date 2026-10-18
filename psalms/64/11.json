@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (feelings\/will) per glossary — not physical heart"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וחסה",
+      "rationale": "'ran wantaim long em bilong kirap' = flee for protection; second reading 'trust\/stretpela long em'"
+    }
+  ],
+  "translation": "Man i stretpela bai i glad long Yahwe, na bai i ran wantaim long em bilong kirap; na olgeta man i stretpela bel bai i bautim nem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/64\/9-11.1792358369470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bai i glad"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man i stretpela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "bai i ran wantaim long em bilong kirap"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "bai i bautim nem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "i stretpela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:29.472918631Z",
+  "model": "glm-5.3"
+}

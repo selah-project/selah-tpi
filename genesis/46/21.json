@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 46:21",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "List of ten names of Benjamin's sons counted in the census of Jacob's household."
+    },
+    {
+      "kind": "crux",
+      "subject": "וארד",
+      "rationale": "Some Hebrew manuscripts and Gen 46:21 LXX count Ard and Naaman as sons of Benjamin's son Bela, not of Benjamin himself."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Binjamin: Bela, na Bekher, na Ashbel, Gera, na Naaman, Ekhi, na Rosh, Muppim, na Huppim, na Ard.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c7d1c1914f4478d08bee24db820d2aaadb2ee49748bcb3d94dae5b885648c9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/46\/21-24.1792347226254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ol pikinini bilong"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "na Bekher"
+    },
+    {
+      "surface": "ואשבל",
+      "gloss": "na Ashbel"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "Gera"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "na Naaman"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ekhi"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na Rosh"
+    },
+    {
+      "surface": "מפים",
+      "gloss": "Muppim"
+    },
+    {
+      "surface": "וחפים",
+      "gloss": "na Huppim"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "na Ard"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:46.254668924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tripela taun",
+      "rationale": "Counting summary of the three cities from Naphtali."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taun bilong lukautim man i kilim man",
+      "rationale": "עיר מקלט הרוצח is city-of-refuge for the killer; 'asylum' kept as shelter function."
+    },
+    {
+      "kind": "crux",
+      "subject": "Khamot-Dor",
+      "rationale": "חמת דאר vs 1 Chr 6:61 חמן; name of the place uncertain."
+    }
+  ],
+  "translation": "Na long lain bilong Naftali: ⟨את⟩ taun bilong lukautim man i kilim man — ⟨את⟩ Kedesh long Galil — wantaim ⟨את⟩ graun bilong en, ⟨את⟩ Khamot-Dor wantaim ⟨את⟩ graun bilong en, na ⟨את⟩ Kartan wantaim ⟨את⟩ graun bilong en — ol taun tripela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/21\/29-32.1792350935849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na long lain bilong"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taun bilong lukautim man i kilim man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "bilong lukautim"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "man i kilim man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh long Galil"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "long Galil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Kedesh"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "Khamot-Dor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamot"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Khamot-Dor"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kartan"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "Kartan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Kartan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ol taun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:35.850840598Z",
+  "model": "glm-5.3"
+}

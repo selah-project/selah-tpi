@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foapela taun",
+      "rationale": "Counting summary of cities given to the Levites."
+    },
+    {
+      "kind": "substitution",
+      "subject": "graun bilong en",
+      "rationale": "מגרש is open pastureland around a city, not a built-up suburb."
+    }
+  ],
+  "translation": "⟨את⟩ Yarmut wantaim ⟨את⟩ graun bilong en, ⟨את⟩ Ein-Ganim wantaim ⟨את⟩ graun bilong en — ol taun foapela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/21\/29-32.1792350935849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Yarmut"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ein-Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong Ein-Ganim"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ol taun"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foapela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:35.850235372Z",
+  "model": "glm-5.3"
+}

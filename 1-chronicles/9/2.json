@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנתינים",
+      "rationale": "Netinim — 'ol man ol i givim long wok bilong haus Elohim' — nem i stap olsem Netinim, no tanim."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Hibru 'asher' i makim klos — Tok Pisin i no nidim tok bilong en."
+    }
+  ],
+  "translation": "Na ol man i stap bilong en long taim bipo, ol i stap long graun bilong ol, long ol taun bilong ol: ol Yisrael, ol pris, ol Levi, na ol Netinim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/9\/1-4.1792361964492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "na ol man i stap bilong en"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "long taim bipo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "stap long graun bilong ol"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "long ol taun bilong ol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ol Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Levi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "na ol Netinim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:24.492756614Z",
+  "model": "glm-5.3"
+}

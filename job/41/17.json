@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 41:17",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משתו",
+      "rationale": "Crux: 'when he raises himself' (JPS, from שוה) vs KJV\/ASV 'they are joined one to another' (from שוה 'chain-row'); KJV follows different verse order."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתחטאו",
+      "rationale": "Hithpael of חטא: 'miss the mark \/ lose hope' (JPS 'beside themselves') vs 'purify themselves'; both senses live in the verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lusim tingting",
+      "rationale": "Rendered 'miss' figuratively as losing one's wits; literal Hebrew is 'miss\/sin'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew lacks object pronoun; added to mark whose breakers."
+    }
+  ],
+  "translation": "Taim em i stairap yet, ol man bilong strong ol i save frait; long ol bikpela breikwara ⟨em⟩ ol i lusim tingting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/41\/17-20.1792360418891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משתו",
+      "gloss": "stairap bilong em"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ol i save frait"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ol man bilong strong"
+    },
+    {
+      "surface": "משברים",
+      "gloss": "ol bikpela breikwara"
+    },
+    {
+      "surface": "יתחטאו",
+      "gloss": "ol i lusim tingting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:38.892215954Z",
+  "model": "glm-5.3"
+}

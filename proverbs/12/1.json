@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בער",
+      "rationale": "_LITERAL_ literally cattle\/brutish — 'olsem animal' keeps the picture of a beast"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב … אהב",
+      "rationale": "repetition of 'loves … loves' frames the parallel couplet"
+    }
+  ],
+  "translation": "Man i laikim skelim-save, em i laikim save; tasol man i les long tok bilong stretim, em i olsem animal.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/12\/1-4.1792359509727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "skelim-save"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "save"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tasol man i les long"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tok bilong stretim"
+    },
+    {
+      "surface": "בער",
+      "gloss": "em i olsem animal"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:29.727829151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "stret long ol ai bilong Yahwe",
+      "rationale": "Hebrew 'the straight in the eyes of YHWH' — idiomatic for divine approval."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר\/verb 'i wokim' at end",
+      "rationale": "Hebrew says 'like David his father'; the repeated verb is supplied for Tok Pisin flow."
+    }
+  ],
+  "translation": "Na Asa i wokim stret long ol ai bilong Yahwe, olsem David papa bilong en i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/15\/9-12.1792353050401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na Asa i wokim"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "stret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ol ai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "olsem David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:50.402863897Z",
+  "model": "glm-5.3"
+}

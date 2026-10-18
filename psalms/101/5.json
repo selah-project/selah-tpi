@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "stap wantaim",
+      "rationale": "אוכל 'mi no inap' i stap tasol; Tok Pisin i laikim wanpela tok moa bilong skelim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב i wankain olsem לב — bel bilong tingting, i no hat"
+    }
+  ],
+  "translation": "Man i tok tok nogut long hait long wantok bilong en — ⟨את⟩ em mi bai rausim olgeta; man i gat haipais ai na bel i planti — ⟨את⟩ em mi no inap ⟨stap wantaim⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/101\/5-8.1792358939300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "tok tok nogut"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "long hait"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wantok bilong en"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "man i tok tok nogut long hait"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "bai rausim olgeta"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "haipais"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na bel i planti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "man i gat haipais ai na bel i planti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "inap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:59.301260295Z",
+  "model": "glm-5.3"
+}

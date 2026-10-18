@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הודך",
+      "rationale": "הוד 'vigour\/grandeur': JPS\/BSB 'vigour' vs KJV 'honour' — Tok Pisin 'biknem' holim tupela."
+    },
+    {
+      "kind": "addition",
+      "subject": "את",
+      "rationale": "Hebrew lacks את before הודך; marker placed only where Hebrew has it."
+    }
+  ],
+  "translation": "Olsapos yu givim ⟨את⟩ biknem bilong yu long ol narapela man, na ol yia bilong yu long ol man i no save marimari;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/5\/9-12.1792359366705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "olsapos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yu givim"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "long ol narapela man"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "biknem bilong yu"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "na ol yia bilong yu"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "long ol man i no save marimari"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:06.706339116Z",
+  "model": "glm-5.3"
+}

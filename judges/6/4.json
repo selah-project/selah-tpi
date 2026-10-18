@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בואך עזה",
+      "rationale": "Hibru i tok 'inap yu kamap Gaza' — em i pasin bilong tokwe long nondetermining distans"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחיה",
+      "gloss": "kaikai bilong lipim laif — em i kaikai bilong lipim laif, no 'olgeta samting'"
+    }
+  ],
+  "translation": "Na ol i putim kamp lagi? — na ol i setim kamp nogut long ol, na ol i bagarapim ⟨את⟩ kaikai bilong graun i go inap yu kamap Gaza; na ol i no livim wanpela kaikai bilong lipim laif long Yisrael — no pikinini sipsip, no bulmakau man, no donki.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b25a7c3f9e68b3c26cc2d17be9b8bc43e871f47d852e70eaa94663850eedd2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/6\/1-4.1792351090610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "na ol i setim kamp"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nogut long ol"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "na ol i bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai bilong graun"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "yu kamap"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "livim"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "wanpela kaikai bilong lipim laif"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "no pikinini sipsip"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "no bulmakau man"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "no donki"
+    }
+  ],
+  "timestamp": "2026-10-18T19:18:10.611805299Z",
+  "model": "glm-5.3"
+}

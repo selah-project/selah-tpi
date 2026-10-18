@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 24:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא הם",
+      "rationale": "Hebrew rhetorical question 'are they not?' rendered as Tok Pisin question 'ol i no stap rit?'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלא",
+      "gloss-alignment": "Hebrew negative-of-affirmation rendered as part of question 'no' rather than 'truly'"
+    }
+  ],
+  "translation": "Na olgeta narapela stori bilong Yehoyakim, na olgeta samting em i wokim, ol i no stap rit long buk bilong ol stori bilong ol de bilong ol king bilong Yuda?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/24\/5-8.1792353824194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Na olgeta narapela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "bilong Yehoyakim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ol i no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "stap"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "rit"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "bilong ol stori"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "bilong ol de"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bilong ol king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:44.195302573Z",
+  "model": "glm-5.3"
+}

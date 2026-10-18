@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tingting bikhain",
+      "rationale": "אשיחה 'ponder, converse with oneself' → meditate; 'tok long bel bilong mi' wud bin..."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol tok bilong yu",
+      "rationale": "פקודים 'appointments\/mandates' — 'ol samting yu makim' i narapela ridin"
+    }
+  ],
+  "translation": "Long ol tok bilong yu mi tingting bikhain, na mi lukluk wantaim laik long ol rod bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/13-16.1792359089027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "long ol tok bilong yu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi tingting bikhain"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "na mi lukluk wantaim laik"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ol rod bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:29.029566779Z",
+  "model": "glm-5.3"
+}

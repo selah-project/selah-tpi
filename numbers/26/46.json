@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs a pronoun before the predicate name; Hebrew lacks a copula."
+    },
+    {
+      "kind": "crux",
+      "subject": "Serak",
+      "rationale": "KJV\/Gen 46:17 'Sarah' vs consonants שרח 'Serak'; Hebrew spelling kept."
+    }
+  ],
+  "translation": "Na nem bilong pikinini meri bilong Asher ⟨em⟩ Serak.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "36fc106033eeb60e15efad36217d1bfe0fa2a5297bcab6604bb3a7376ed06897",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/26\/45-48.1792349474001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Serak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:51:14.002248129Z",
+  "model": "glm-5.3"
+}

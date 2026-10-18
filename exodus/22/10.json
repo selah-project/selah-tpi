@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח ידו",
+      "rationale": "Hibru: 'sentim han bilong em' — em i minim 'putim han long, kisim nogut'; Tok Pisin i holim piksa bilong han."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולקח בעליו",
+      "rationale": "'bosman i tekim' — tekim wanem? Sapsua, o samting i dai; JPS 'accept it', KJV 'accept thereof'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no tokim wanem bosman i tekim; Tok Pisin i nidim ⟨em⟩."
+    }
+  ],
+  "translation": "Sapsua bilong Yahwe i stap namel long tupela, sapos em i no sentim han bilong em long wok bilong poro man bilong em; na bosman bilong em i tekim ⟨em⟩, na em i no ken peim bek.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/9-12.1792347752164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sapsua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i sentim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "long wok bilong"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poro man bilong em"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "na i tekim"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "bosman bilong em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "i peim bek"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:32.165810762Z",
+  "model": "glm-5.3"
+}

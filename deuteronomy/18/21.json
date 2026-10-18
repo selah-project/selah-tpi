@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yu",
+      "rationale": "לב em i bel — tingting na laik, i no hat"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩",
+      "rationale": "Hibru i gat 'bilong yu' tasol; Tok Pisin i no gat 'in thine heart' olsem Inglis"
+    },
+    {
+      "kind": "you",
+      "subject": "long Israel",
+      "rationale": "Lo i toktok wantaim ol Israel"
+    }
+  ],
+  "translation": "Na sapos yu tok insait long bel bilong yu: Bai yumi save long wanem pasin olsem long ⟨את⟩ tok we Yahwe i no tokim?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2cbf62c68367f8cd75fa413111d666e3bbe6dd9542c03acec4ea1b5ed457463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/18\/21-22.1792350075109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "yu tok"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "insait long bel bilong yu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "long wanem pasin olsem"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bai yumi save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:01:15.110145497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "em tru",
+      "rationale": "אמן em i tok bilong stretim tok — 'em tru' o 'tru tru' long pasin Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהעולם ועד העולם",
+      "rationale": "olam...olam — narapela tok i kamap tupela taim, doxologi bilong Buk II bilong Sam"
+    }
+  ],
+  "translation": "Blessed — Yahwe, Elohim bilong Yisrael, olsem taim bipo i go olgeta, na inap long taim olgeta. Em tru, em tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/41\/13-14.1792358179524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "olsem taim bipo i go olgeta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "taim olgeta"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "em tru"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na em tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:19.525006118Z",
+  "model": "glm-5.3"
+}

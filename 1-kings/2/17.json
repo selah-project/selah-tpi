@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישיב את פניך",
+      "rationale": "Hebrew idiom 'turn back your face' = refuse a request; rendered 'kirapim pes bek' with sense made explicit."
+    },
+    {
+      "kind": "you",
+      "subject": "Bat Seba",
+      "rationale": "Adoniya addresses Bat Seba directly with imperative 'Tok plis'."
+    }
+  ],
+  "translation": "Na em i tok: Tok plis long Selomo king, long wanem em i no ken kirapim ⟨את⟩ pes bilong yu bek, na em i bai givim ⟨את⟩ Abisag, meri bilong Sunem, long mi bilong kamap meri bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ded455c78e4c92c6b017b88a81b758facc2c54ecd5c15b1c65abbccbfdcd7aa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/17-20.1792352729151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Tok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "long Selomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ken kirapim … bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong yu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pes bilong yu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na em i bai givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abisag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abisag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "meri bilong Sunem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilong kamap meri bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:29.151911159Z",
+  "model": "glm-5.3"
+}

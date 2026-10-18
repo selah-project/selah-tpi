@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 23:36",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "predicate marker bilong Tok Pisin; Hibru i no gat kopula namel"
+    },
+    {
+      "kind": "crux",
+      "subject": "atseret",
+      "rationale": "עצרת — 'atseret' (stop \/ gatherim), sam lain tanim 'solemn assembly', 'Shemini Atseret' em i nem bilong dispela de"
+    },
+    {
+      "kind": "substitution",
+      "subject": "offa paia",
+      "rationale": "אשה em i 'samting ol i givim long paia' — offa bilong paia"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevenpela de · etpela de",
+      "rationale": "namba bilong de i stap long ves"
+    }
+  ],
+  "translation": "Sevenpela de yupela bringim klostu offa paia long Yahwe; long etpela de em ⟨i⟩ holi gathering bilong yupela, na yupela bringim klostu offa paia long Yahwe; em i atseret; olgeta wok bilong wok kain yupela no ken mekim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a4755544a3aef69c9be778ec04a4bf1ec4fed2bb3903010a442cdcec4be6e760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/33-36.1792348739513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "yupela bringim klostu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offa paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "etpela"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "holi gathering"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i stap bilong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "na yupela bringim klostu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offa paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "atseret"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wok"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "bilong wok kain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yupela ken mekim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:59.514931768Z",
+  "model": "glm-5.3"
+}

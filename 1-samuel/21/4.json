@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחת ידך",
+      "rationale": "'under your hand' = at your disposal, kept literal in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "Ahimelek",
+      "rationale": "David addresses the priest directly with his request"
+    }
+  ],
+  "translation": "Na nau, wanem i stap aninit long han bilong yu? Givim faipela bret long han bilong mi, o wanem samting i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/21\/1-4.1792351935431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "faipela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "givim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "long han bilong mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wanem samting i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:15.432653768Z",
+  "model": "glm-5.3"
+}

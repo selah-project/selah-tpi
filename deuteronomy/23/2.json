@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפכה",
+      "rationale": "tok paip — em i wanpela ples tasol long olgeta Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kopl",
+      "rationale": "בקהל em i kopl bilong ol man; sampela tanim olsem 'sanguma bilong Yahwe'"
+    }
+  ],
+  "translation": "Man ol i wundim naknaken o ol i brukim-brukim, o ol i katim paip bilong bodi, em i no ken kam insait long kopl bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/1-4.1792350204674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kam insait"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ol i wundim"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ol i brukim-brukim"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "o ol i katim"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "paip bilong bodi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "long kopl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:24.675600885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יועם",
+      "rationale": "Root עםם: 'become dark\/dim' (most versions) vs 'overshadowed'; rendered as kamap dakol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכתם הטוב",
+      "rationale": "Lit. 'the good gold-ore'; rendered with compound 'olgeta gutpela gol' to keep both words."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תנין in v.3 nearby; here הכתם",
+      "rationale": "הכתם (refined gold) is rare, appearing only in poetry (Lam 4:1, Job 28:19)."
+    }
+  ],
+  "translation": "Olsem wanem gol i kamap dakol? Olsem wanem olgeta gutpela gol i senis? Ol ston bilong ples holi i skelim i go daun long het bilong olgeta rod ausait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/1-4.1792360637342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "i kamap dakol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "i senis"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "olgeta gutpela gol"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "i skelim i go daun"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ol ston bilong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ples holi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "rod ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:17.343328261Z",
+  "model": "glm-5.3"
+}

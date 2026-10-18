@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 15:30",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skru",
+      "rationale": "קשר is literally 'binding' (alliance); Tok Pisin 'skru' (conspiracy) is the fixed idiom for unlawful political alliance."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew suffix pronouns on ויכהו\/וימיתהו appear as free pronouns in Tok Pisin, which lacks suffixing."
+    },
+    {
+      "kind": "measurement",
+      "subject": "yia tupela ten",
+      "rationale": "Reign synchronism — regnal year dating formula of the king lists."
+    }
+  ],
+  "translation": "Na Hoshea pikinini bilong Ela i mekim skru_against long Pekah pikinini bilong Remalyahu, na em i paitim ⟨em⟩, na kilim ⟨em⟩ i dai, na em i kamap king long ples bilong ⟨em⟩, long yia tupela ten bilong Yotam pikinini bilong Uziya.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf182c679f9fe47a9406b97e821457128be26e6ee48fffec8ee0b652ad850492",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/15\/29-32.1792353569327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושע",
+      "gloss": "Na Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "i mekim skru"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "na em i paitim em"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "na kilim em i dai"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na em i kamap king"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong em"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "long yia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tupela ten"
+    },
+    {
+      "surface": "ליותם",
+      "gloss": "bilong Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziya"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:29.328605090Z",
+  "model": "glm-5.3"
+}

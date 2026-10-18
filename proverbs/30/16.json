@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "Seol kept as name, not 'hel' or 'graun bilong ol dai man' — it is not a place of punishment"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצר רחם",
+      "rationale": "'closed womb' — barren (KJV\/JPS) vs restrained\/never-opened (YLT); shape kept as 'bel bilong mama i pas'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ves 16",
+      "rationale": "the four insatiable things completing the numerical list opened in v.15"
+    }
+  ],
+  "translation": "Seol, na bel bilong mama i pas i no inap karim pikinini, graun i no pulap long wara, na paia i no tok: Inap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/13-16.1792359807824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "i pas"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "bel bilong mama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "i no pulap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na paia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Inap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:27.825569948Z",
+  "model": "glm-5.3"
+}

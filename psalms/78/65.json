@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כישן כגבור מתרונן מיין",
+      "rationale": "Anthropomorphic idiom: Adonai 'wakes like a sleeper, like a warrior shouting from wine' — picture, not literal drinking."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "'Shouting from wine' vs JPS\/BSB 'recovering from wine \/ overcome by wine' — Hithpael of רנן usually joyful shout, but here battle cry."
+    }
+  ],
+  "translation": "Na Adonai i kirap olsem man i slip, olsem man bilong pait i singaut long win bilong wain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/65-68.1792358564990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "olsem man i slip"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "olsem man bilong pait"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "i singaut"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "long win bilong wain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:44.991136256Z",
+  "model": "glm-5.3"
+}

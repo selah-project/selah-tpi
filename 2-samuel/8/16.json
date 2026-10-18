@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man bilong makim olgeta samting",
+      "rationale": "מזכיר literally 'one who causes to remember' — the recorder\/chronicler of the court"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ \/ ⟨em i⟩",
+      "rationale": "Predicate markers and pronoun supplied; Hebrew verbless clauses name office only"
+    }
+  ],
+  "translation": "Na Yoab, pikinini bilong Tseruya, ⟨i⟩ long hed bilong ol soldia; na Yehoshafat, pikinini bilong Akilud, ⟨em i⟩ man bilong makim olgeta samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/8\/13-16.1792352208079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruya"
+    },
+    {
+      "surface": "על",
+      "gloss": "long hed bilong"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ol soldia"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Akilud"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "man bilong makim olgeta samting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:48.081116828Z",
+  "model": "glm-5.3"
+}

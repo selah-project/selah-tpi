@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "givim blessing",
+      "rationale": "לברכו can mean 'to bless him' or 'to greet\/salute him' — most versions read 'salute'"
+    },
+    {
+      "kind": "elision",
+      "subject": "lukluk",
+      "rationale": "והנה 'behold' interjection has no exact Tok Pisin particle; rendered as attention-call 'lukluk'"
+    }
+  ],
+  "translation": "Na bihain, taim em i pinis long salim karamap ⟨em⟩ sakrifais bilong karamapim, lukluk, Shemuel i kamap; na Shaol i go aut long wantaim em, bilong givim blessing long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/9-12.1792351619353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na bihain"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "taim em i pinis"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "long salim karamap"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifais bilong karamapim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lukluk"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na i go aut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "long wantaim em"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "bilong givim blessing long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:59.354186937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol han bilong Yu",
+      "rationale": "אצבעותיך i ol finga — 'wok bilong ol finga bilong Yu' i klostu; Tok Pisin i ken tok ol finga."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol heven, mun na ol sta",
+      "rationale": "Vers i luk olgeta heven na sta ol Yu bin setimapim — nain bilong kande."
+    }
+  ],
+  "translation": "Taim mi lukim ol heven bilong Yu, ol wok bilong ol han bilong Yu, mun na ol sta, we Yu bin setimapim —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/8\/1-4.1792357861505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ol heven bilong Yu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ol wok bilong"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ol finga bilong Yu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mun"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na ol sta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Yu bin setimapim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:01.507473676Z",
+  "model": "glm-5.3"
+}

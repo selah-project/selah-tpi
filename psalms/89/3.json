@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "בהם i stap long Hebrew, tasol Tok Pisin i laikim ⟨em⟩ bilong klia"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שמים תכן",
+      "rationale": "Sampela tanim: 'yu strongim stret bilong yu long ol heven' — ylt i lukluk שמים olsem tok bilong kalabim"
+    }
+  ],
+  "translation": "Bikos mi tok: khesed i wokim stap oltaim; long ol heven yu setim stret ⟨em⟩ stret bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/1-4.1792358804778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "i wokim stap"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "long ol heven"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "yu setim stret"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "stret bilong yu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:44.779409996Z",
+  "model": "glm-5.3"
+}

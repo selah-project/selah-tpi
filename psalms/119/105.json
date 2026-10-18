@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew has no copula; the nominal pair needs one in Tok Pisin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "rot",
+      "rationale": "נתיבה is a beaten track; 'rot' (path) is the nearest Tok Pisin picture"
+    }
+  ],
+  "translation": "Tok bilong yu ⟨em i⟩ lamp bilong fut bilong mi, na ⟨em i⟩ lait bilong rot bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/105-108.1792359115316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "bilong fut bilong mi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na lait"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "bilong rot bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:55.316964591Z",
+  "model": "glm-5.3"
+}

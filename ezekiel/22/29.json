@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 22:29",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשקו\/עשק · גזלו\/גזל",
+      "rationale": "Infinitive-verb doubling ('wokim brukim, brukim') — verb then its own noun — repeated twice, rhythm lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגר",
+      "rationale": "'man i kamap long narapela ples' renders guest\/foreigner; the Hebrew single word for resident-alien."
+    },
+    {
+      "kind": "elision",
+      "subject": "גזל",
+      "rationale": "Second noun of the verb+noun doubling rendered as 'samting bilong stil' rather than a bare abstract 'stiling'."
+    }
+  ],
+  "translation": "Ol man bilong graun i wokim ⟨את⟩ pasin bilong brukim ol man, na ol i stilim ⟨את⟩ samting; ol man no gat mani na ol man hangre, ol i bagarapim ol; na ol i brukim ⟨את⟩ man i kamap long narapela ples, long i no gat kot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a745521b10d02e13b6e53539280c786b31ac28f31c0491f002fed31f64aba619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/22\/29-31.1792356410616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "i wokim pasin bilong brukim ol man"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "pasin bilong brukim ol man"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "na ol i stilim"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "samting bilong stil"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na ol man no gat mani"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na ol man hangre"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "ol i bagarapim ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "man i kamap long narapela ples"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "man i kamap long narapela ples"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "ol i brukim"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "long i no gat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    }
+  ],
+  "timestamp": "2026-10-18T20:46:50.617067783Z",
+  "model": "glm-5.3"
+}

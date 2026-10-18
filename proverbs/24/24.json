@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tokmaut nogut",
+      "rationale": "יקבהו from נקב 'to pierure\/ designate' — here 'to curse' (piel); some read 'denounce' (BSB) vs 'curse' (KJV\/JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "עמים\/לאמים and the two verbs form a tight synonymous couplet: peoples curse, nations rage — peoples\/nations parallel kept as manmeri\/lain olgeta."
+    }
+  ],
+  "translation": "Man i tokim ⟨long⟩ man nogut: Yu stret man — ol manmeri bai tokmaut nogut long em, ol lain olgeta bai kros tru long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "edd8b690f09834782e52c185a11528794de93976100281d0a8aed5d997946ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/24\/21-24.1792359712525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "long man nogut"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "stret man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "bai tokmaut nogut long em"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "bai kros tru long em"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ol lain olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:52.526063939Z",
+  "model": "glm-5.3"
+}

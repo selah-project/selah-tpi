@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימלך עלינו",
+      "rationale": "Hebrew i tok nating 'Saul i king long mipela' — askim o statmen? KJV 'Shall Saul reign?', YLT em i statmen; not bilong.contex em i askim bilong rausim ol man i no laik Saul."
+    },
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "Tok Pisin i nidim 'no' long askim — Hebrew i no gat negesen, contex tasol i givim mining."
+    },
+    {
+      "kind": "you",
+      "subject": "ol man i tok long Samuel",
+      "rationale": "Tok i go stret long Samuel — askim bilong bekim ol man i no agri long Saul."
+    }
+  ],
+  "translation": "Na ol man i tokim Samuel: Husat i tok, Saul i no ken king long mipela? Givim ⟨em⟩ ol man, na mipela i kilim ol i dai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/9-12.1792351615551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "i ken king"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "givim"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "na mipela i kilim ol i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:55.552946223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (namba wan)",
+      "rationale": "Token 'et' long vese em i stap long notisen bilong token, tasol Hebrew i no gat wanpela 'et' long vese 9; em i hia long tokdata tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "save",
+      "rationale": "da'at — save\/knowledge, wanpela tok bilong save"
+    },
+    {
+      "kind": "you",
+      "subject": "to reader",
+      "rationale": "Vese i tokim ol man long han bilong olgeta samting"
+    }
+  ],
+  "translation": "Na Yahwe Elohim i wokim ⟨את⟩ olgeta diwai bilong kamap long graun — ol diwai i nais long lukim, na gutpela long kaikai; na diwai bilong laip i stap long namel bilong gaden, na diwai bilong save, olsem gutpela na olsem nogut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/2\/9-12.1792346250115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "i wokim bilong kamap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "i nais"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "long lukim"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na gutpela"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "long kaikai"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na diwai"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bilong laip"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long namel"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na diwai"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilong save"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "na nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:30.116012733Z",
+  "model": "glm-5.3"
+}

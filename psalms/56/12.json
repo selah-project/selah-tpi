@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ken",
+      "rationale": "לא אירא — Hibru i no gat 'bai', Tok Pisin i lainim ausait long klostu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elohim \/ man",
+      "rationale": "pait namel long Elohim na man — man inap wokim wanem long man bilong God?"
+    }
+  ],
+  "translation": "Long Elohim mi putim bel; mi no ken pret — wanem samting man inap mekim long mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/56\/9-12.1792358313746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi putim bel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mi ken pret"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "inap mekim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:33.747796441Z",
+  "model": "glm-5.3"
+}

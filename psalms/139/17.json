@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיך",
+      "rationale": "Lemma rea I 'thought' (association of ideas) vs rea 'friend': 'thy thoughts' (KJV\/JPS) vs 'thy friends'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצמו ראשיהם",
+      "rationale": "'how strong\/how numerous their heads' — 'sum of them' is interpretive; heads = counting units."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרו",
+      "rationale": "Root yqar means both 'heavy' and 'precious'; Tok Pisin 'i gat wel long en' keeps the weight picture."
+    }
+  ],
+  "translation": "Na long mi, olsem wanem ol tingting bilong yu i gat wel long en, Eloa! Olsem wanem namba bilong ol i bikpela tru!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/17-20.1792359295420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Na long mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "i gat wel long en"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ol tingting bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "namba bilong ol"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "i kamap planti tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:55.420959196Z",
+  "model": "glm-5.3"
+}

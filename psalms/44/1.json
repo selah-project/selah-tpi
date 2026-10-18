@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makskil",
+      "rationale": "משכיל i nem bilong kain singsing bilong skulim man — mi holim nem, mi no tanim"
+    }
+  ],
+  "translation": "Bilong man i lidaim ol sing, bilong ol pikinini bilong Korak — makskil.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/44\/1-4.1792358235107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lidaim ol sing"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bilong ol pikinini bilong"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "makskil"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:15.108171481Z",
+  "model": "glm-5.3"
+}

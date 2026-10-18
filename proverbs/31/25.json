@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lap",
+      "rationale": "שחק i lap — man i lap long samting i no ken wari long en, i no lap nating tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap klosap long en",
+      "rationale": "Hebrew i tok 'Strongpela pasin na swag — klos bilong em'; Tok Pisin i nidim smol tok bilong joining"
+    }
+  ],
+  "translation": "Strongpela pasin na swag i stap klosap long en olsem klos; na em i lap long de bilong bihain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/31\/25-28.1792359821887.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "strongpela pasin"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na swag"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "i stap klosap long en olsem klos"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "na em i lap"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:41.887767509Z",
+  "model": "glm-5.3"
+}

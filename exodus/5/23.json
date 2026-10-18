@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרע",
+      "rationale": "subject ambiguous: Pharaoh did evil or (KJV margin) 'thou hast dealt ill'; most read Parao"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והצל לא הצלת",
+      "rationale": "infinitive absolute repetition 'delivering you did not deliver' — emphasis lost"
+    }
+  ],
+  "translation": "Na stat long taim mi kam long Parao long tok long nem bilong yu, i bagarapim dispela lain ol man, na yu no skinim ⟨את⟩ lain bilong yumi olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/5\/21-23.1792347378303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "na stat long taim"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mi kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "long tok"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dispela lain ol man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "na skinim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "yu skinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lain bilong yumi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lain bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:18.304560861Z",
+  "model": "glm-5.3"
+}

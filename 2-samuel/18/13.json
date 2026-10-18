@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש em i win\/bilong dai, i no 'hat'; mi raitim 'nefes' bilong holim hap Hibru"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו",
+      "rationale": "KJV\/ASV: 'long nefes bilong mi' o 'long nefes bilong em (king)'; Hebrew no klia"
+    },
+    {
+      "kind": "alternative",
+      "subject": "או",
+      "rationale": "Sapos או i min 'laik' (olsem Stat 31:4 'laik bilong king'),Tok i senis: 'o sapos'"
+    }
+  ],
+  "translation": "O sapos mi wokim samting nogut long nefes bilong mi yet, na olgeta tok i no inap hait long king, na yu yet bai yu sanap olsem narapela hap long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/18\/13-16.1792352519998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "o sapos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "long nefes bilong mi yet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "inap hait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu yet"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "olsem narapela hap long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:59.998781182Z",
+  "model": "glm-5.3"
+}

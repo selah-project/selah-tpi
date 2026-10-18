@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh em i 'samting i got win\/laip', mi tanim olsem 'man\/em', no 'soul'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונכרתה",
+      "rationale": "lit. 'bai katim of' — Tok Pisin 'kapsaitim i go we long ol man bilong en'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "pronoun bilong nem i kamap klia, Hibru i no gat"
+    }
+  ],
+  "translation": "Long wanem, wanpela man i kaikaiim gris bilong ol animal bilong lukautim we man i ken bringim klostu wanpela kaikai bilong paia long Yahwe, em i tok: ol bai kapsaitim ⟨em⟩ i go we long ol man bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0e3b7765c7095dae7ae8ef85dafbd0ee8dd3a7463776a8467ba86f9a1f409aae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/25-28.1792348327620.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela man i"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaikaiim"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gris"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "i ken bringim klostu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kaikai bilong paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ol bai kapsaitim i go we"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "em"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "i kaikaiim"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "we long ol man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:07.621411463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 3:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "boda bilong graun",
+      "rationale": "Ves i makim boda: wantaim Aroer long wara Arnon, inap long hap bilong maunten Gilad."
+    },
+    {
+      "kind": "elision",
+      "subject": "wantaim Aroer",
+      "rationale": "Hebrew i tok 'wantaim Aroer' — min i olsem mipela tekim graun stat wantaim Aroer; Tok Pisin i putim 'wantaim' bilong klia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mipela tekim",
+      "rationale": "ירש em i kamapim olsem bilong yu — drivim ol man i stap bipo na holdim graun; 'tekim' em i klostu tasol."
+    }
+  ],
+  "translation": "Na ⟨את⟩ dispela graun mipela tekim long taim olsem, wantaim Aroer we i stap antap long wara Arnon, na hap bilong maunten Gilad na ol siti bilong en — mi givim long ol man Ruben na long ol man Gad.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e9b6ff2b0647be0d7c212e5b0f887e8fe3866d6bd41b37f7f29b330377850184",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/3\/9-12.1792349731816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dispela graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dispela graun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ירשנו",
+      "gloss": "mipela tekim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "wantaim Aroer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "i stap antap long"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na hap bilong"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "na ol siti bilong en"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi givim"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "long ol man Ruben"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "na long ol man Gad"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:31.818085232Z",
+  "model": "glm-5.3"
+}

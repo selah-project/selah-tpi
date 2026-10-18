@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel hevi",
+      "rationale": "סר is 'sullen\/peevish' — a rare adjective rendered with Tok Pisin idiom bel heavi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Somron",
+      "rationale": "Hebrew שמרונה with directional ה ending ('toward Shomron'); directionality not separable in Tok Pisin."
+    }
+  ],
+  "translation": "Na king bilong Yisrael i go long haus bilong em, bel hevi na bel nogut, na em i kamap long Somron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/20\/41-43.1792353118406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong em"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bel hevi"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "bel nogut"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Somron"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:58.407617332Z",
+  "model": "glm-5.3"
+}

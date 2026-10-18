@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "tripela tok i stat wantaim פח — pen, hol, net — ol i wok long nating long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim predicate marker; Hibru i no gat"
+    },
+    {
+      "kind": "you",
+      "subject": "man i stap long Moab",
+      "rationale": "Yahwe i tokim man i stap long Moab olgeta"
+    }
+  ],
+  "translation": "Tambu pen, na hol long graun, na net — olgeta ⟨i⟩ stap long yu, man i stap long Moab; Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0fe9c419ce9dfa805a91c5353bc7f0bb72cdfa1b9d90f6266f33806e627414a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/48\/41-44.1792355806051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "tambu pen"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "na hol long graun"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "na net"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "man i stap"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:36:46.052343690Z",
+  "model": "glm-5.3"
+}

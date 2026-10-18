@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הרחבת לי",
+      "rationale": "Literal: 'yu broadim long mi' — idiom bilong givim rum\/ fri long trabel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקי",
+      "rationale": "tsedek bilong mi: 'stretpela pasin bilong mi' bot i holim tok tsedek"
+    }
+  ],
+  "translation": "Long taim mi singautim nem, yu ken tok bek long mi, Elohim bilong tsedek bilong mi; long taim bilong trabel yu givim rum long mi; sori long mi, na harim tok prai bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/4\/1-4.1792357838621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "long taim mi singautim nem"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yu ken tok bek long mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedek bilong mi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "long taim bilong trabel"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "yu givim rum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "sori long mi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na harim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tok prai bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:38.622390518Z",
+  "model": "glm-5.3"
+}

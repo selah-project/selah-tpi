@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pulapim em",
+      "rationale": "שבע litelim 'bel i pulap \/ kaikai i tanim' — tanim tok: mi pulapim em wantaim longpela taim olgeta."
+    }
+  ],
+  "translation": "Wantaim ol longpela de mi bai pulapim em, na mi bai soim em ⟨את⟩ save bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/91\/13-16.1792358844896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ol longpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "mi bai pulapim em"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "na mi bai soim em"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "save bilong mi",
+      "marks": "save bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:24.909899944Z",
+  "model": "glm-5.3"
+}

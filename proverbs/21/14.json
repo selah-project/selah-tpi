@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel hevi",
+      "rationale": "אף literally 'nose\/nostril', Hebrew idiom for anger."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "Can be neutral 'gift' or venal 'bribe'; context of secrecy favors bribe, proverb states the fact without judging."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bos bilong man",
+      "gloss-sense": "חיק literally bosom\/lap, idiom for something concealed on the person."
+    }
+  ],
+  "translation": "Presen i stap long haidples i daunim bel hevi, na toktok-long-bel bilong bribery i stap long bos bilong man i daunim strongpela kros.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/13-16.1792359610912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "presen"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "long haidples"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "i daunim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bel hevi"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "na toktok-long-bel bilong bribery"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "long bos bilong man"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kros"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "strongpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:10.913247410Z",
+  "model": "glm-5.3"
+}

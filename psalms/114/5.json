@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "Hibru i tok 'wanem bilong yu?' — em i pasin bilong askim 'bilong wanem yu wokim dispela?'"
+    },
+    {
+      "kind": "you",
+      "subject": "solwara na Yarden",
+      "rationale": "Tok i toktok direk long solwara na long Yarden olsem man"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol askim",
+      "rationale": "Ves i askim olgeta man i rit olsem ol i ken tingim bek"
+    }
+  ],
+  "translation": "Bilong wanem, solwara, yu ranawe? Yarden, bilong wanem yu senis i go bek?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/114\/5-8.1792359029963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "yu ranawe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "yu kirap i go"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "bek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:29.963570110Z",
+  "model": "glm-5.3"
+}

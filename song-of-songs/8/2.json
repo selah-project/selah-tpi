@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעסיס",
+      "rationale": "hapax; 'must\/fresh grape-juice' vs some read 'spiced wine' with previous word — rendered 'swit wara' (new juice)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עסיס",
+      "rational": "word appears only rarely; here fresh-juice of pomegranate, kept literal"
+    }
+  ],
+  "translation": "Bai mi bringim yu, mi go long haus bilong mama bilong mi; yu mas skulim mi; bai mi givim yu dring wain wantaim spais, na swit wara bilong ol granapul bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/1-4.1792360530417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "bai mi bringim yu"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "mi go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "bilong mama bilong mi"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "yu mas skulim mi"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "bai mi givim yu dring"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "wantaim spais"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "swit wara"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "bilong ol granapul bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:30.418400805Z",
+  "model": "glm-5.3"
+}

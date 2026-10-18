@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'except\/only that' (KJV, Geneva) vs 'surely\/because' (ASV, JPS read אֶפֶס כִּי as emphatic 'howbeit, because' rather than exceptive)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך יברכך",
+      "rationale": "Infinitive absolute + verb doubling — 'blessing he will bless you' — rendered as single phrase 'blesim yu tru'; intensification lost in Tok Pisin as in English."
+    },
+    {
+      "kind": "substitution",
+      "subject": "man i no gat samting",
+      "rationale": "אביון is 'destitute\/needy one'; Tok Pisin phrase keeps the destitution picture rather than a generic 'poor'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩",
+      "rationale": "Object pronoun of the doubled verb supplied once, since Tok Pisin cannot keep the infinitive-absolute doubling."
+    }
+  ],
+  "translation": "Nogat tasol — i no bai i gat man i no gat samting long yu; bilong wanem Yahwe i blesim ⟨yu⟩ tru long graun we Yahwe Elohim bilong yu i givim long yu olsem hap graun bilong lukautim ⟨en⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8b50309ba7cd8b68a70b3e1d5bc2633845679b49e9d7bff092e8f0a6c63048e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/15\/4-4.1792362998867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "nogat tasol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "man i no gat samting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "blesim tru"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "blesim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "hap graun bilong lukautim"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "long yu bai lukautim ⟨en⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:38.868176495Z",
+  "model": "glm-5.3"
+}

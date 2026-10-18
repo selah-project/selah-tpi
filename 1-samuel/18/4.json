@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kot",
+      "rationale": "מעיל em i klos bilong luksave, klos bilong king na pikinini bilong king — Yonatan i givim maus bilong bosim long David"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol klos bilong em",
+      "rationale": "מדיו save tanim olsem 'ol klos bilong soja' o 'ol armi klos'; mi holim gutpela tok 'klos' tasol"
+    }
+  ],
+  "translation": "Na Yonatan i rausim ⟨את⟩ kot we i stap long em, na em i givim long David, na ol klos bilong em, inap long bainat bilong em, na inap long ben bilong arabus bilong em, na inap long belta bilong wes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/18\/1-4.1792351874925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Na i rausim"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kot"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "i stap long em"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "na em i givim em"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "long David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "na ol klos bilong em"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "bainat bilong em"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ben bilong arabus bilong em"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "belta bilong wes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:14.926732193Z",
+  "model": "glm-5.3"
+}

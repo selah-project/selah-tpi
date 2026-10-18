@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כסף",
+      "rationale": "'Silver' rendered 'mani' — here it is payment for buying, as the discipline table permits."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשברני",
+      "rationale": "Root שבר 'deal in grain' — rendered 'yu baim long mi' (you sell to me); the grain-trade sense is narrowed."
+    },
+    {
+      "kind": "you",
+      "subject": "long Sihon",
+      "rationale": "Direct request to Sihon: sell food and water for payment, only let Israel pass."
+    }
+  ],
+  "translation": "Kaikai — yu baim long mi long mani, na mi kaikai; na wara — yu givim long mi long mani, na mi dring; tasol mi ken wokabaut i go long leg bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "178bdde8ee6875d4d14ba4b3fa87ab88862c1bb49b28e4c71c37ff731cda0a6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/2\/25-28.1792349724574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "long mani"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "yu baim long mi"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "na mi kaikai"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na wara"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "long mani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yu givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "na mi dring"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "mi ken wokabaut i go"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "long leg bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:24.576038579Z",
+  "model": "glm-5.3"
+}

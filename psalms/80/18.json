@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "man bilong han rit bilong yu",
+      "rationale": "איש ימינך: king of the line chosen by Yahwe vs messianic reading; 'son of man' = ben adam, human figure, not title."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Petition addressed directly to Yahwe."
+    }
+  ],
+  "translation": "YuD bilong yu i stap antap long man bilong han rit bilong yu, antap long pikinini man yu strongim bilong yu yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/17-20.1792358603034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "han rit bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "yu strongim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:23.035841958Z",
+  "model": "glm-5.3"
+}

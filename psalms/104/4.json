@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol mesinja olsem ol ruak",
+      "rationale": "KJV 'maketh his angels spirits' vs YLT\/ASV\/BSB 'winds his messengers' — seim ol tok Hibru, ol i stanim olsem narapela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוחות — ol win o ol ruak; Tok Pisin 'ruak' i wanpela tok bilong olgeta"
+    }
+  ],
+  "translation": "Em i mekim ol mesinja bilong en olsem ol ruak, ol wokman bilong en olsem paia i bun long paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/1-4.1792358923284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "mekim"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ol mesinja bilong en"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ol ruak"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ol wokman bilong en"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "להט",
+      "gloss": "i bun long paia"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:43.286328063Z",
+  "model": "glm-5.3"
+}

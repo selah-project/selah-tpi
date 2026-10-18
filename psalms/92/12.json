@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשורי",
+      "rationale": "'Ol i stap haida (basket) bilong mi' i klostu long KJV 'my desire on'; JPS 'lie in wait' i stret long rots bilong wod (שור, wait long rod)."
+    },
+    {
+      "kind": "addition",
+      "subject": "tok bilong",
+      "rationale": "Hibru i tok 'ear i harim' tasol, no tok 'wanem'; Tok Pisin i nidim wanpela samting bilong harim."
+    }
+  ],
+  "translation": "Na ai bilong mi bin lukim ⟨i⟩ ol birua bilong mi i stap haida long mi; ear bilong mi bin harim ⟨i⟩ tok bilong ol man ol i wokim nogut, ol i kirap agen long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/9-12.1792358833623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "bin lukim gut"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai bilong mi"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ol birua bilong mi i stap haida"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ol i kirap agen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ol man ol i wokim nogut"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "bin harim"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ear bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:13.634977867Z",
+  "model": "glm-5.3"
+}

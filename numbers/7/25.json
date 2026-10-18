@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 7:25",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "130 shekels, 70 shekels",
+      "rationale": "Weights of the sanctuary shekel are counted exactly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה is kept as minkha per discipline, not rendered 'kaikai ofa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "holi ples",
+      "rationale": "הקדש is literally 'the holy (thing\/place)'; Tok Pisin needs a noun head."
+    }
+  ],
+  "translation": "Karban bilong en em i wanpela plata silva, we bilong en i wan handet na teti sekel; wanpela bakeni silva bilong seveti sekel, long sekel bilong ⟨holi ples⟩; tupela i fulap long flawa, karamapim wantaim oil, bilong minkha.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/7\/25-28.1792348973306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "karban bilong en"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "plata"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na wan handet"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "we bilong en"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "bakeni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seveti"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "long sekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fulap"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flawa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "karamapim wantaim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "long oil"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "bilong minkha"
+    }
+  ],
+  "timestamp": "2026-10-18T18:42:53.307132278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מתהלך",
+      "rationale": "hitpael of הלך, 'wokabaut i go i kam' — God walking about in tent and Miskan, not merely dwelling"
+    },
+    {
+      "kind": "measurement",
+      "subject": "time span",
+      "rationale": "the verse measures the span from the exodus to 'this day' during which no house was built"
+    }
+  ],
+  "translation": "Bikos mi no stap long haus, stat long taim mi kirapim ⟨את⟩ ol pikinini bilong Yisrael i kamap ausait long Mitsrayim, i go inap long dispela de; na mi wokabaut i go i kam long sel na long Miskan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/5-8.1792352266573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mi stap"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "stat long taim"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "mi kirapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "i kamap ausait long Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wokabaut i go i kam"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "long sel"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "na long Miskan"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:46.574933697Z",
+  "model": "glm-5.3"
+}

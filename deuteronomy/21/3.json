@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bulmakau meri yangpela",
+      "rationale": "עגלת בקר i bulmakau meri yangpela — pikinini bulmakau meri we i kamap bikpela liklik, i no 'heifer' bilong Inglis tasol"
+    },
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "gloss-empty rationale": "Hebrew has והיה 'and it shall be' as discourse opener; Tok Pisin renders as 'na'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yok",
+      "rationale": "על i rop bilong pulim — Tok Pisin i no gat wanpela tok, olsem 'yok' i kam long Tok Ples bilong wok gaden"
+    }
+  ],
+  "translation": "Na taun we i stap klostu long man ol i kilim, ol elder bilong taun dispela bai ol i kisim wanpela bulmakau meri yangpela we ol i no wokim long en, we em i no pulim yok",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/21\/1-4.1792350127389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "we i stap klostu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "man ol i kilim"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "bai ol i kisim"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ol elder bilong"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "wanpela bulmakau meri yangpela"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bilong ol bulmakau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "em i pulim"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "yok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:07.390132672Z",
+  "model": "glm-5.3"
+}

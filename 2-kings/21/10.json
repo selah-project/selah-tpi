@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'Through the hand of' — Hebrew idiom for agency, kept literally as 'long han bilong'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נביאים",
+      "rationale": "Rendered 'profet' per glossary; 'glasman' is forbidden."
+    }
+  ],
+  "translation": "Na Yahwe i tok long han bilong ol saveman bilong en, ol profet, i tok olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/21\/9-12.1792353685873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol saveman bilong en"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ol profet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T20:01:25.874081891Z",
+  "model": "glm-5.3"
+}

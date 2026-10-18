@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 4:12",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "Hebrew 4:12 is English 4:18; KJV 4:12 is the Jews' ten-times report."
+    },
+    {
+      "kind": "substitution",
+      "subject": "shofar",
+      "rationale": "שופר kept as 'shofar', the horn-trumpet, rather than a generic trumpet word."
+    }
+  ],
+  "translation": "Na ol bilong wokim, wanwan man i taiim bainat bilong en long hip bilong en, na i wokim; na man i baim shofar i stap klostu long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d13a46365d3cef062fc0eb16fbf866e5cbbd70ac1dfb37cd9db460725515fa9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/4\/9-12.1792361553822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבונים",
+      "gloss": "na ol bilong wokim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "bainat bilong en"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "i taiim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "hip bilong en"
+    },
+    {
+      "surface": "ובונים",
+      "gloss": "na i wokim"
+    },
+    {
+      "surface": "והתוקע",
+      "gloss": "na man i baim"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "klostu long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:33.823675645Z",
+  "model": "glm-5.3"
+}

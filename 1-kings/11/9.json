@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב i klostu long 'bel' — senta bilong tingting na laik, no 'hat'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתאנף",
+      "rationale": "Tok i bilong 'pulim win strong' — kros i lukluk olsem win i stap insait; Tok Pisin 'bel i stap kros' i holim piksa wantaim."
+    }
+  ],
+  "translation": "Na Yahwe i bel bilong em i stap kros long Shelomo, bilong wanem bel bilong em i go wei long Yahwe, Elohim bilong Yisrael, we i lukluk kamap long em tupela taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/11\/9-12.1792352968948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "i bel i stap kros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "long Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "i go wei"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "we i lukluk kamap"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tupela taim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:49:28.948706892Z",
+  "model": "glm-5.3"
+}

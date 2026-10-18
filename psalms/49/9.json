@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש i klosap long 'laip\/wind bilong bodi', tanim olsem nem bilong em, no 'soul'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדל לעולם",
+      "rationale": "KJV 'it ceaseth for ever' vs JPS 'must be let alone for ever' vs BSB 'never can payment suffice' — hua i stop: man o baim bek?"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim nem bilong samting i pinis, Hibru i no gat"
+    }
+  ],
+  "translation": "Na baim bek bilong nefes bilong ol i traipela praes, na ⟨em⟩ pinis — oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5308989276d20f2585f01c362a0b662ca0217fcd33688829843455312e8f9396",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/9-9.1792363337616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "i traipela praes"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "baim bek"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bilong nefes bilong ol"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "na ⟨em⟩ pinis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:17.617048255Z",
+  "model": "glm-5.3"
+}

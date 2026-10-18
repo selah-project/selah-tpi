@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "olgeta man bilong Yisrael",
+      "rationale": "Samuel i tokim olgeta man Yisrael olsem wanpela lain."
+    },
+    {
+      "kind": "addition",
+      "subject": "i kirap long lidim",
+      "rationale": "causative bilong מלך — 'mekim king i kirap' olsem Hiphil bilong מלך."
+    }
+  ],
+  "translation": "Na Samuel i tokim olgeta man bilong Yisrael: lukim, mi harim tok bilong yupela, long olgeta samting yupela tokim mi, na mi mekim king i kirap long lidim long sampela bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/12\/1-4.1792351689708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "man bilong Yisrael"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi harim"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "tok bilong yupela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "yupela tokim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "na mi mekim king i kirap"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "long sampela bilong yupela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:09.709457247Z",
+  "model": "glm-5.3"
+}

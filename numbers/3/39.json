@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 3:39",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "the verse totals the Levite count: 22,000 males from one month old and up"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta twenti na tu tausen",
+      "rationale": "redundant double rendering of the number to make 22,000 clear; Hebrew says only 'two and twenty thousand'"
+    }
+  ],
+  "translation": "Olgeta ol Livi ol i kauntim — Mose na Aharon, long tok bilong Yahwe, long ol lain bilong ol — olgeta man, pikinini man i gat wanpela mun o moa: tupela ten na tupela tausen, olgeta twenti na tu tausen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "95884421544a2635f37b39ac870ea963a43e6fc0584a9cd237495bbd81c4fa15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/3\/37-40.1792348953966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ol i kauntim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Livi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "i kauntim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פי",
+      "gloss": "tok bilong maus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "long ol lain bilong ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "man"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "pikinini man i gat"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wanpela mun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "o moa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na twenti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T18:42:33.967229899Z",
+  "model": "glm-5.3"
+}

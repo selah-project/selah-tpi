@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנחם",
+      "rationale": "נחם of foes: 'ease\/comfort myself' (KJV 'ease me') vs 'avenge myself'; Tok Pisin 'stretim bel' holds the relief sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרי",
+      "rationale": "Literally 'from my distressers\/those who tighten me'; rendered 'long ol birua bilong mi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרי\/מאויבי",
+      "rationale": "Parallelism of two near-synonym prepositional phrases ('from my foes \/ from my enemies'); the paired structure is kept with two distinct Tok Pisin phrases."
+    }
+  ],
+  "translation": "Olsem na, Yahwe Tsebaot i tok, Adonai, strongpela man bilong Yisrael: Hoi! Bai mi stretim bel bilong mi long ol birua bilong mi, na mi bekim olgeta man i les long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/21-24.1792353796508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem na"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "strongpela man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoi"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "mi stretim bel bilong mi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "long ol birua bilong mi"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "na mi bekim"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "olgeta man i les long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:16.509566781Z",
+  "model": "glm-5.3"
+}

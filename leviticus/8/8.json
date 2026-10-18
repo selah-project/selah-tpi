@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "Urim na Tumim",
+      "rationale": "Ol tok Urim na Tumim i stap, tasol Tanakh i no tokim klia olsem wanem ol i wok — olgeta man i stap let pasin long wanem em i min."
+    },
+    {
+      "kind": "hapax",
+      "subject": "התמים",
+      "rationale": "Tumim em i nem bilong ol samting insait long brestpes bilong bikpela pris tasol — Tok Pisin i holim nem, i no tanim."
+    }
+  ],
+  "translation": "Na em i putim long em ⟨את⟩ brestpes, na em i putim insait long brestpes ⟨את⟩ Urim na ⟨את⟩ Tumim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/5-8.1792348419197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brestpes"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brestpes"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na putim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "insait long"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brestpes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:39.198872770Z",
+  "model": "glm-5.3"
+}

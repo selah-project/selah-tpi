@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ועפר בעפר",
+      "rationale": "INF-ABS: 'dusting with dust' — infinitive of the noun repeated, Hebrew bangs the two together; Tok Pisin keeps 'trowa das wantaim das'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצלע",
+      "rationale": "tsela em i 'rib' (bikpela hap bilong bodi) — long hia em i hap bilong maunten, olsem 'saed bilong maunten'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוך",
+      "rationale": "infinitive bilong הלך i makim pasin i go yet na i go yet — 'i go i go i go' holim piktia bilong wokabaut nomo."
+    }
+  ],
+  "translation": "Na David i go wantaim ol man bilong en long rot, na Shimi i go long saed bilong maunten, klostu long em, i go i go i go, na em i tok kago, na em i trowa ston long em, na em i trowa das wantaim das.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/16\/13-16.1792352419974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "wantaim ol man bilong en"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Shimi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "long saed bilong"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "klostu long em"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "i go i go i go"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "na em i tok kago"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "na em i trowa ston"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "wantaim ston"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na em i trowa das"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "wantaim das"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:19.975398040Z",
+  "model": "glm-5.3"
+}

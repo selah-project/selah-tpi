@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol saveman bilong en",
+      "rationale": "king addresses his servants with a direct question"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol i save long dispela",
+      "rationale": "rhetorical question drawing the servants into the plan"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long han bilong",
+      "rationale": "מיד 'from the hand of' rendered as Tok Pisin idiom for from someone's power"
+    }
+  ],
+  "translation": "Na king bilong Yisrael i tokim ol saveman bilong en: Ol i save long dispela, Ramot bilong Gilad em i bilong yumi, tasol yumi stap kwait, yumi no kisim ⟨את⟩ em long han bilong king bilong Aram.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/1-4.1792353258776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol saveman bilong en"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long dispela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "em i bilong yumi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "bilong Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tasol yumi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "stap kwait"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "no kisim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em (Ramot bilong Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:18.776985926Z",
+  "model": "glm-5.3"
+}

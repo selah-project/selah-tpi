@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "Tok Pisin needs 'ol man' to show these are peoples; Hebrew has only the tribal name with article."
+    },
+    {
+      "kind": "measurement",
+      "subject": "list of nations",
+      "rationale": "Verse completes the ten-nation list of Genesis 15:19-21, a counting of peoples."
+    }
+  ],
+  "translation": "na ⟨את⟩ ol man Emori, na ⟨את⟩ ol man Kenani, na ⟨את⟩ ol man Girgasi, na ⟨את⟩ ol man Yevusi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "51b31410dc9120d1399cfbc9a3168eb0f74af90a917e80c5607a68c50ecf3241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/15\/21-21.1792346466838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ol man Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ol man Kenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Girgasi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ol man Girgasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ol man Yevusi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:06.838577455Z",
+  "model": "glm-5.3"
+}

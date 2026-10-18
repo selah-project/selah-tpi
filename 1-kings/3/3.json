@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "prediket marker bilong Tok Pisin, Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "swit smok bilong ofa",
+      "rationale": "מקטיר i tok long 'mekim smok' — Tok Pisin i tanim olsem kukim swit smok bilong ofa"
+    }
+  ],
+  "translation": "Na Selomo i luvim ⟨את⟩ Yahwe, long wokabaut long ol lo bilong David papa bilong en; tasol long ol ples antap em yet i save kilim ol animal bilong ofa na i save kukim ⟨i⟩ swit smok bilong ofa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/3\/1-4.1792352726958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "i luvim"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "long wokabaut"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "long ol lo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "long ol ples antap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i save kilim ol animal bilong ofa"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "na i save kukim ⟨i⟩ swit smok bilong ofa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:26.959801829Z",
+  "model": "glm-5.3"
+}

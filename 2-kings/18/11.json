@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i no tok ol, tasol Tok Pisin i nidim olsem wanem em i basketim ol man"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol ples bilong ekssail",
+      "rationale": "Ol nem bilong ples i stap long lista — Halak, Habor, Gozan, Midi"
+    }
+  ],
+  "translation": "Na king bilong Ashur i karim ⟨את⟩ Yisrael i go long Ashur, na em i basketim ol long Halak, na long Habor, wara bilong Gozan, na long ol taun bilong Midi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/9-12.1792353591561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "i karim i go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "i go long Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "na em i basketim ol"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "long Halak"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "na long Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "bilong Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "na long ol taun"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Midi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:51.562345833Z",
+  "model": "glm-5.3"
+}

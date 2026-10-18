@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בנפשו",
+      "rationale": "Lit. 'long nefes bilong en' — i min 'olsem em i laikim'; nefes em i bel\/laik, no 'soul'"
+    },
+    {
+      "kind": "addition",
+      "subject": "na … ol olpela man",
+      "rationale": "Tok Pisin i larim wanwan tok; 'na' i go long𐀀 olpela man"
+    }
+  ],
+  "translation": "Bilong holim pas ol bikman bilong en olsem bel bilong em i laikim, na bilong givim save long ol olpela man bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/21-24.1792358957595.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Bilong holim pas"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ol bikman bilong en"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "olsem bel bilong en i laikim"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "na … ol olpela man bilong en"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "givim save long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:17.596660101Z",
+  "model": "glm-5.3"
+}

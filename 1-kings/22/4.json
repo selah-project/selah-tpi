@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yehoshafat",
+      "rationale": "king of Israel addresses Jehoshaphat with a direct question"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוני כמוך כעמי כעמך כסוסי כסוסיך",
+      "rationale": "three parallel 'as I \/ as you' pairs, a rhythmic covenant formula; parallelism kept"
+    }
+  ],
+  "translation": "Na em i tokim Yehoshafat: Yu laik go ⟨את⟩ wantaim mi long pait long Ramot bilong Gilad? Na Yehoshafat i tokim king bilong Yisrael: Mi olsem yu, ol man bilong mi olsem ol man bilong yu, ol hos bilong mi olsem ol hos bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/1-4.1792353258776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "yu laik go"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wantaim mi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "bilong Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "mi olsem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "ol man bilong mi olsem"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "ol hos bilong mi olsem"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "ol hos bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:18.777375044Z",
+  "model": "glm-5.3"
+}

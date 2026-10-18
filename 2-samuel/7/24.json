@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tok bilong David long Yahwe",
+      "rationale": "Direct address to Yahwe closes the prayer section."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tutpastaim",
+      "rationale": "עד עולם rendered 'tutpastaim'; Hebrew literally 'until the vanishing-point of time'."
+    }
+  ],
+  "translation": "Na yu kirapim stret ⟨את⟩ manmeri bilong yu Yisrael long yu yet, bilong manmeri bilong yu tutpastaim, na yu, Yahwe, yu kamap Elohim bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1d174db72177a2b8a5363b0d9894050428bface4dfd08d88c6e3aa957ae350e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/21-24.1792352250503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "na yu kirapim stret"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manmeri bilong yu Yisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "manmeri bilong yu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bilong manmeri bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tutpastaim na olgeta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tutpastaim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "yu kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:30.504393936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bringim ol fes bilong king",
+      "rationale": "את פני 'ol fes bilong' — pasin bilong Hibru, i tok long go long pren bilong king, no olgeta fes bilong king yet"
+    },
+    {
+      "kind": "crux",
+      "subject": "במצודה",
+      "rationale": "Hibru i tok 'long strongpela banis ples' — wanpela strongpela ples o spela hol (Mitspe\/Adulam) — no klia"
+    }
+  ],
+  "translation": "Na em i bringim ⟨את⟩ ol fes bilong king bilong Moab, na ol i stap wantaim em olgeta taim David i stap long strongpela banis ples.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/22\/1-4.1792351970896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "em i bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol fes bilong king bilong Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ol fes bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "bilong Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "היות",
+      "gloss": "we em i stap"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "long strongpela banis ples"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:50.898324694Z",
+  "model": "glm-5.3"
+}

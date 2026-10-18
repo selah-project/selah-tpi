@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 42:22",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "the infinitive-absolute pair ידע תדעו already conveys certainty; 'כי' rendered as nothing to keep flow"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדעו",
+      "rationale": "infinitive absolute + finite verb doubling, 'knowing you shall know', collapsed to one clause in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "to the remnant in Judah",
+      "rationale": "direct pronouncement of judgment to those going to Egypt"
+    }
+  ],
+  "translation": "Na nau, yupela i save tumas: yupela bai dai long bainat, long hangre, na long sik nogut, long ples we yupela i laikim long go long stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "59922d913c0474355f59827384d0411eb2d3e8430a8f223cc8899b9933e4c7f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/42\/21-22.1792355702417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i save tumas"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "yupela bai save"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "long hangre"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "na long sik nogut"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "yupela bai dai"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "חפצתם",
+      "gloss": "yupela i laikim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "long go"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "long stap olsem stranger"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:02.418418044Z",
+  "model": "glm-5.3"
+}

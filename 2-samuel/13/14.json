@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "ענה i tok 'pundaunim, mekim nating' — hia em i tok long pasin bilong rap, Tok Pisin 'bagarapim' i holim piksa."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא\/meri",
+      "rationale": "'Meri' long 'tok bilong meri' — Tok Pisin i nidim tok bilong man, Hibru i no gat em."
+    }
+  ],
+  "translation": "Tasol em i no laik harim long tok bilong meri, na em i strongpela moa long em, na em i bagarapim en, na em i slip wantaim ⟨את⟩ en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/13\/13-16.1792352325258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tasol … no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "i no laik"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "long tok bilong meri"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "na em i strongpela"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "moa long em"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "na em i bagarapim en"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "na em i slip wantaim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "en (Tamar)"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:45.259578854Z",
+  "model": "glm-5.3"
+}

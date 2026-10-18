@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "Hebrew היש em i askim, Tok Pisin i nidim 'sapos i gat'"
+    }
+  ],
+  "translation": "Elohim i lukluk i kamdaun long heven long ol pikinini man Adam, bilong lukim sapos i gat wanpela i gat save, wanpela i painim ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/53\/1-4.1792358326135.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "i lukluk i kamdaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man Adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bilong lukim"
+    },
+    {
+      "surface": "היש",
+      "gloss": "sapos i gat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "i gat save"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:46.136493848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי הנה איביך ×2",
+      "rationale": "Fram bilong tupela 'ki hine oyveja' i tokim tupa taim — repitisen bilong poim, em i stap long Tok Pisin tasol no wankain strong."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי הנה איביך יהוה (paspela hap)",
+      "rationale": "Paspela 'ki hine oyveja' i no gat verb — em i peng bilong sentens; Tok Pisin i nidim wanpela fulsentens."
+    }
+  ],
+  "translation": "Long wanem, luk, ol birua bilong yu, Yahwe; long wanem, luk, ol birua bilong yu bai lus olgeta; ol man ol i wokim nogut bai skata olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/9-12.1792358833623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ol birua bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ol birua bilong yu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bai lus olgeta"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "bai skata olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ol man ol"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "און",
+      "gloss": "nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:13.630976109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 22:37",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרסלי",
+      "rationale": "'ankul' — lemma קרסל appears in Tanakh only here and in the parallel Psalm 18:37."
+    },
+    {
+      "kind": "substitution",
+      "subject": "feet",
+      "rationale": "Ol lain i tanim קרסלי (ankul) olsem ' ol leg' — Hebgru i save tok planti klostu long 'ankul'."
+    }
+  ],
+  "translation": "Yu kirapim spes bilong ol step bilong mi aninit long mi, na ol ankul bilong mi i no go bes.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "abe65d50f23095a10692a5a12f58212eca0c83f56f7c6c44ffc7d51e56b587f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/37-40.1792352597735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "yu kirapim spes bilong"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "ol step bilong mi"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "aninit long mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "go bes"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "ol ankul bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:17.735760940Z",
+  "model": "glm-5.3"
+}

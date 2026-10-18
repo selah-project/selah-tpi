@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אראנו",
+      "rationale": "Suffix is singular 'him\/it' while context implies the people; KJV 'unto him', ASV 'unto them' — rendered 'i' as neutral object marker."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin needs object marker ⟨i⟩ after 'soim'; Hebrew carries it inside the verb suffix."
+    }
+  ],
+  "translation": "Olsem long ol de bilong yu i lusim Mitsrayim, bai mi soim ⟨i⟩ olgeta ol bikpela samting i kamap nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/7\/13-16.1792357462039.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "olsem long ol de bilong"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "yu i lusim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "bai mi soim ⟨i⟩"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "olgeta ol bikpela samting i kamap nating"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:22.040570552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש em i laip\/breth, i no 'soul' long pasin bilong Inglis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "i putim ... long laip",
+      "rationale": "מוט tok stret em 'wokabaut i sot na pundaun', mi tanim olsem 'i no larim i surik'"
+    }
+  ],
+  "translation": "Em i putim nefesh bilong mipela long laip, na i no larim leg bilong mipela i surik.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/9-12.1792358378971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefesh bilong mipela"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "long surik"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "leg bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:38.972525913Z",
+  "model": "glm-5.3"
+}

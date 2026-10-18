@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש literal em i 'tambre \/ win bilong laip' — 'laip bilong mi' i tanim mining tasol, no 'soul'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ol man bilong taim bipo i dai pinis",
+      "rationale": "כמתי עולם literal 'olsem ol man dai bilong taim we i lus pinis' — tok bilong Seol i stap antap long en."
+    }
+  ],
+  "translation": "Bilong wanem birua i runsuim laip bilong mi; em i kraunim daun olgeta laip bilong mi i go long graun; em i putim mi long stap insait long tudak, olsem ol man bilong taim bipo i dai pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/143\/1-4.1792359272986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "i runsuim"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "birua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "i kraunim daun olgeta"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "i go long graun"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "em i putim mi long stap"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "insait long tudak"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "olsem ol man bilong taim bipo i dai pinis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taim bipo olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:32.987792607Z",
+  "model": "glm-5.3"
+}

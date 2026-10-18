@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai pikinini",
+      "rationale": "זרע bilong diwai — 'seed' i no ken, kaikai pikinini bilong diwai (D4)"
+    },
+    {
+      "kind": "elision",
+      "subject": "הַ in ההרים",
+      "rationale": "Tok Pisin i no gat article, ha- i no raitim"
+    }
+  ],
+  "translation": "Ol maunten na olgeta hil, ol diwai i gat kaikai pikinini, na olgeta seda diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/148\/9-12.1792359298245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hil"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ol diwai"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "i gat kaikai pikinini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seda diwai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:58.245831810Z",
+  "model": "glm-5.3"
+}

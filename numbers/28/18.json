@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Hebrew lacks copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מקרא",
+      "rationale": "'called-out assembly' rendered as coral bilong ol man i kalangim, holy gathering"
+    }
+  ],
+  "translation": "Long fes de ⟨em i⟩ coral bilong ol man i kalangim long holi ples; wok bilong witim olgeta ol i no ken wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "575a49fe91eaf36c2368c12bfdaaae61baab56121fdbe4122cf007e33e70c46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/28\/17-20.1792349524183.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Long fes de"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fes"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "coral bilong ol man i kalangim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wok bilong witim"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ol i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:52:04.184740398Z",
+  "model": "glm-5.3"
+}

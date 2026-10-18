@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דרש דמים",
+      "rationale": "Tok: 'painimaut ol blut' — Hibru em i 'tread\/seek blood', i min em i skelim long ol i kilim man"
+    },
+    {
+      "kind": "crux",
+      "subject": "אותם זכר",
+      "rationale": "KJV 'remembereth them' vs JPS 'hath remembered them' — pronom ol i sot, em i draiba"
+    }
+  ],
+  "translation": "Bikos em i painimaut ol blut, em i tingim ⟨את⟩ ol man ia; em i no lusim tingting ⟨i⟩ ol krai bilong ol man i pen yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/13-16.1792357930210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "painimaut"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ol blut"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol man ia"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tingim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "lusim tingting"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "krai"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ol man i pen yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:10.211344683Z",
+  "model": "glm-5.3"
+}

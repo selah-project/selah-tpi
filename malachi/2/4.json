@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את לוי",
+      "rationale": "This את is the preposition 'with' (H854), not the direct-object marker, so it is rendered 'wantaim' and not bracketed as ⟨את⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית rendered 'kontrak' per discipline, not the religious loan 'covenant'."
+    }
+  ],
+  "translation": "Na bai yupela i save long wanem mi bin salim i kam long yupela ⟨את⟩ dispela toksave, bilong kontrak bilong mi i stap ⟨את⟩ wantaim Levi — Yahwe Tsebaot i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/malachi\/2\/1-4.1792357778893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "na bai yupela i save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mi bin salim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "i kam long yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela toksave"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "toksave"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bilong … i stap"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:38.895316801Z",
+  "model": "glm-5.3"
+}

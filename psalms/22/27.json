@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאכלו",
+      "rationale": "imperfect can be jussive 'let the poor eat' (JPS) or statement 'the poor shall eat' (KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "bel bilong yupela",
+      "rationale": "sudden direct address to the hearers — the congregation seeking Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב is heart; Tok Pisin bel covers inner self, closest fit per D4"
+    }
+  ],
+  "translation": "Ol man soft bel bai kaikai na bel i pen gut olgeta; bai ol praisim Yahwe, ol man i painim En; bel bilong yupela bai stap laip oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/25-28.1792358006062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "bai ol kaikai"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ol man soft bel"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "na bel i pen gut olgeta"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bai ol praisim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "ol man i painim En"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "bai stap laip"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "bel bilong yupela"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "oltaim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:26.063162261Z",
+  "model": "glm-5.3"
+}

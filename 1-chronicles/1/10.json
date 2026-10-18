@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man strong",
+      "rationale": "גיבור rendered 'man strong' — Hebrew covers warrior\/tyrant, strong man."
+    },
+    {
+      "kind": "alternative",
+      "subject": "i stat",
+      "rationale": "החל literally 'he began' — could read 'he was first to become'."
+    }
+  ],
+  "translation": "Na Kus i karim ⟨את⟩ Nimrod; em i stat long kamap man strong long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/1\/9-12.1792361768700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Na Kus"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "החל",
+      "gloss": "i stat"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "long kamap"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "man strong"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:08.701073052Z",
+  "model": "glm-5.3"
+}

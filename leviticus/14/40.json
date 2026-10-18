@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ples nogut",
+      "rationale": "טמא em i 'nogat long ai bilong God' — 'ples nogut' i holim pasin tambu, i no 'ples bilong rong man'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "וחלצו em i plural — 'ol' i makim ol man i wok, Tok Pisin i nidim"
+    }
+  ],
+  "translation": "Na pris i tokim ol, na ol i rausim ⟨את⟩ ol ston we nega i stap long ol, na ol i tromoi ⟨את⟩ ol i go long autsait bilong taun, long ples nogut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/14\/37-40.1792348501295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "i tokim ol"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "na ol i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ston"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ol ston"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "na ol i tromoi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ol ston"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "autsait"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bilong taun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T18:35:01.296609712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Tok Pisin i nidim 'i gat' long 'to prist bilong Midjan i gat sevenpela meri pikinini'; Hibru i no gat rod 'gat'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevenpela meri pikinini",
+      "rationale": "Namba bilong ol meri pikinini bilong prist i makim olgeta"
+    }
+  ],
+  "translation": "Na prist bilong Midjan i gat sevenpela meri pikinini, na ol i kam, na ol i pulim wara, na ol i pulimapim ⟨את⟩ ol trak bilong wara, bilong givim dring long ol sipsip na meme bilong papa bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/2\/13-16.1792347342979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "na prist"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "meri pikinini"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "na ol i kam"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "na ol i pulim wara"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "na ol i pulimapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol trak bilong wara"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "ol trak bilong wara"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "bilong givim dring"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "papa bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:42.980888696Z",
+  "model": "glm-5.3"
+}

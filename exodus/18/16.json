@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "keso",
+      "rationale": "דבר literally 'tok\/samting'; here a legal matter — 'keso' keeps the court sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol Tora bilong en",
+      "rationale": "תורתיו is plural 'ol Tora'; Tora kept as name, not 'lo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "object of והודעתי has no stated audience; 'skirim ol' supplies the people from context"
+    }
+  ],
+  "translation": "Sapos wanpela keso i kamap long ol, em i kam long mi, na mi skelim kot namel long man na poro bilong en, na mi skirim ol long ⟨את⟩ ol lo bilong Elohim na ⟨את⟩ ol Tora bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/18\/13-16.1792347693669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanpela keso"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "na mi skelim kot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poro bilong en"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "na mi skirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol lo bilong Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ol lo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol Tora bilong en"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "ol Tora bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:33.670462063Z",
+  "model": "glm-5.3"
+}

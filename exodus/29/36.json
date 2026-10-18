@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/וחטאת",
+      "rationale": "Same root as noun 'sin-offering' and verb 'to sin\/purify' — repetition of חטא and כפר throughout, lost in Tok Pisin."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ליום",
+      "rationale": "Daily sacrifice cycle — one bull per day for seven days (cf. v.35)."
+    }
+  ],
+  "translation": "Na wanpela bulmakau man bilong sang yu bai wokim long wanpela de, long taim bilong ol kaporens; na yu bai mekim kaporens long altar, taim yu mekim kaporens long em; na yu bai kapsaitim oil long ⟨את⟩ em, bilong mekim em holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/33-36.1792347933822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "na wanpela bulmakau man"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bilong sang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu bai wokim"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long wanpela de"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "taim bilong ol kaporens"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "na yu bai mekim kaporens"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "taim yu mekim kaporens"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na yu bai kapsaitim oil long"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "bilong mekim em holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:33.823882565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "שלום em i 'gutpela pasin \/ pis', i no wanpela samting tasol — em i holim gutpela hap, спас na gutpela sindaun"
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "והיה i stap, tasol Tok Pisin i needim ⟨i⟩ na pasin bilong kamap"
+    },
+    {
+      "kind": "crux",
+      "subject": "לי לאלהים",
+      "rationale": "'long mi long Elohim' — ol tanima i tok 'Elohim bilong mi', jakim literal 'bilong' pasin tupela"
+    }
+  ],
+  "translation": "na mi save kam bek long gutpela pasin i go long haus bilong papa bilong mi, na Yahwe bai ⟨i⟩ kamap Elohim bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/28\/21-22.1792346834353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "mi save kam bek"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "long gutpela pasin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bilong papa bilong mi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:14.353807380Z",
+  "model": "glm-5.3"
+}

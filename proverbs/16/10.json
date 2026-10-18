@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kesem",
+      "rationale": "קסם: 'tok bilong skelim' (oracle bilong king) o 'divinessem' — ol tanima i no wankain"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ימעל",
+      "rationale": "מעל i min 'tok nogut long kontrak' — 'traytim' o 'giamanim'"
+    }
+  ],
+  "translation": "Kesem — tok bilong skelim — i stap long lip bilong king; long kot, maun bilong en i no ken traytim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/9-12.1792359558811.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "kesem, tok bilong skelim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lip bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "long kot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "traytim"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "maun bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:18.815029720Z",
+  "model": "glm-5.3"
+}

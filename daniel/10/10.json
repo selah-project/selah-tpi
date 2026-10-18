@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותניעני",
+      "rationale": "Root nua 'waver\/shake': 'set me up' (KJV) vs 'left me tottering' (JPS); Tok Pisin takes 'kirapim' with the trembling context of v.11."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Hebrew has no indefinite article; Tok Pisin 'wanpela' supplied to mark one hand."
+    }
+  ],
+  "translation": "Na luk, wanpela han i tekim mi, na em i kirapim mi long ol skru bilong lek bilong mi na long ol palm bilong ol han bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "587eabe128b1bd583d88dcf7b5ea24bd8595405efeb5594c1e293eb45fd001ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/10\/9-12.1792361236252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Na luk"
+    },
+    {
+      "surface": "יד",
+      "gloss": "wanpela han"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "i tekim mi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "na em i kirapim mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ol skru bilong lek bilong mi"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "na long ol palm"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bilong ol han bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:07:16.253179411Z",
+  "model": "glm-5.3"
+}

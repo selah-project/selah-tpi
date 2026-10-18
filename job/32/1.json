@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיניו",
+      "rationale": "'Long ai bilong em yet' — Hebrew idiom 'in his own eyes' for self-judgement."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק glossed 'stret' bilong tsedek; Tok Pisin i no gat narapela tok stret."
+    }
+  ],
+  "translation": "Ol tripela man dispela i pinis autim tok long ⟨את⟩ Iyob, bilong em i stret long ai bilong em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/32\/1-4.1792360275437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "i pinis autim tok"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:15.438200796Z",
+  "model": "glm-5.3"
+}

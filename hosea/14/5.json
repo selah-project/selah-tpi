@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim olgeta objek long kilok 'oraitsim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel nogut",
+      "rationale": "אפי em i nek\/nus bilong man; Tok Pisin 'bel nogut' i holim pasin bilong bel"
+    },
+    {
+      "kind": "crux",
+      "subject": "long en",
+      "rationale": "ממנו i tok long wanpela man (Yisrael), tasol ol tanim tok i save putim 'ol'"
+    }
+  ],
+  "translation": "Bai mi oraitsim ⟨em⟩ ol pasin bilong ol i tanim bek; bai mi luvsim ol long fri pasin, bilong bel nogut bilong mi i tanim bek i go longwe long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/14\/5-8.1792357075331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "bai mi oraitsim ⟨em⟩"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "ol pasin bilong ol i tanim bek"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "bai mi luvsim ol"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "long fri pasin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שב",
+      "gloss": "i tanim bek"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bel nogut bilong mi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "i go longwe long en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:55.332038791Z",
+  "model": "glm-5.3"
+}

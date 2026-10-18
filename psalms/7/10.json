@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nau⟩",
+      "rationale": "נא em i samting kolim, Tok Pisin i no gat wanpela tok liklik—— 'nau' i klostu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/צדיק",
+      "rationale": "Wanpela tok i kamap tupela taim long wanpela ves — man stret na Elohim i man stret"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol kidni",
+      "rationale": "כליות em i kidni — long Tanakh em i ples bilong tingting insait, Tok Pisin i no gat pasin olsem"
+    }
+  ],
+  "translation": "Pinisim ⟨nau⟩ ol samting nogut bilong ol man nogut, na yu ken sanapim olgeta man stret; Elohim we i skelim ol bel na ol kidni, em i man stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/7\/9-12.1792357823438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "Pinisim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nau⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "na yu ken sanapim olgeta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ol bel"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "na ol kidni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:23.438724497Z",
+  "model": "glm-5.3"
+}

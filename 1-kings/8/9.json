@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "adverb 'there' folded into 'long Horev'; Hebrew has both שם and בחרב"
+    },
+    {
+      "kind": "addition",
+      "subject": "kontrak",
+      "rationale": "Hebrew verb כרת (cut) alone carries 'cut a covenant'; Tok Pisin needs the noun kontrak named"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tupela tebol",
+      "rationale": "count of tablets inside the ark"
+    }
+  ],
+  "translation": "I no gat samting insait long bokis, tasol tupela tebol bilong ol ston, we Mose i putim long Horev, we Yahwe i cutim kontrak wantaim ol pikinini bilong Yisrael taim ol i kamap ausait long graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/9-12.1792352848298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "i no gat samting"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "insait long bokis"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "bilong ol ston"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long Horev (long en ples)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long Horev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "i cutim kontrak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "taim ol i kamap ausait"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:47:28.299334623Z",
+  "model": "glm-5.3"
+}

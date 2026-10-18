@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mama",
+      "rationale": "רחם em i bel bilong mama\/womb; olsem wanem tpi i no gat tok liklik, 'bel bilong mama' i holim piksa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדי\/שדים",
+      "rationale": "Sadai (nem bilong God) na shadayim (susu) — tok i wankain klostu; piksa i lus long tpi"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hibru i no gat copula; tpi i nidim predicate marker"
+    }
+  ],
+  "translation": "Bilong El bilong papa bilong yu, em i helpim yu, na ⟨את⟩ Sadai, em i barim yu: ol barim bilong heven i kam long antap, ol barim bilong dip wara i stap long daunbilo, ol barim bilong susu na bilong bel bilong mama.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "45a2df613e7481f28f920b62cfce61ee1061ef1e8ef0b85d8f57dea01516d529",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/49\/25-28.1792347323551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "bilong El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bilong papa bilong yu"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "em i helpim yu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sadai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sadai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "em i barim yu"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ol barim bilong"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "i kam long antap"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ol barim bilong"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dip wara"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "i stap long"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ol barim bilong"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "na bel bilong mama"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:23.552648664Z",
+  "model": "glm-5.3"
+}

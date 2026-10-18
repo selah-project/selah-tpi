@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "KJV\/ASV\/BSB give 'burning lamps from his mouth' here; Hebrew text as supplied reads 'he counts iron as straw' (JPS ordering)."
+    }
+  ],
+  "translation": "Em i lukim ⟨את⟩ ainen olsem gras kaikai, na diwai i rot olgeta olsem kopa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/41\/17-20.1792360418891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "em i lukim olsem"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "gras kaikai"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ainen"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "i rot olgeta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kopa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:38.892534596Z",
+  "model": "glm-5.3"
+}

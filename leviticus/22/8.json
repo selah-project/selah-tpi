@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew has no explicit subject for יאכל; the priest from vv.4-7 is supplied."
+    }
+  ],
+  "translation": "Olgeta animal we i dai long en yet, o we narapela animal i kaikai pinis, em i no ken kaikai, bilong no mekim em yet tambu long en; mi Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/22\/5-8.1792348660940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "olgeta animal we i dai long en yet"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "o we narapela animal i kaikai pinis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "em i no ken"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "bilong no mekim em yet tambu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:40.941643139Z",
+  "model": "glm-5.3"
+}

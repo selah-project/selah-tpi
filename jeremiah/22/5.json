@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בי",
+      "rationale": "Oath particle 'by me\/myself', rendered 'long mi' — Hebrew oath formula, not ordinary preposition."
+    },
+    {
+      "kind": "crux",
+      "subject": "לחרבה",
+      "rationale": "'For a desolation\/ruin': literal 'for-drought-becoming' rendered as destination 'long ples i bruk olgeta'."
+    }
+  ],
+  "translation": "Tasol sapos yupela i no harim ⟨את⟩ ol dispela tok, long mi mi swor, Yahwe i tok, olsem haus dispela bai i kamap long ples i bruk olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7659308ea3c4c45316df6ee9f47188b8e136340c2c1f6690740a94f93200b579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/22\/5-8.1792355231641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "yupela i harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol dispela tok"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi swor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "long ples i bruk olgeta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:27:11.642538287Z",
+  "model": "glm-5.3"
+}

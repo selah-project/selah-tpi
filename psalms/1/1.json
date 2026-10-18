@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol was",
+      "rationale": "לצים i tok olsem man i waswas maus long ol narapela; 'was' i holim piksa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "walk-stanap-sidaun",
+      "rationale": "Tripela pasin i go daun bipo bipo: wokabaut → sanap → sidaun; Tok Pisin i holim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalm 1:1",
+      "rationale": "Stat bilong psalm i singaut long ridim man long gutpela rot"
+    }
+  ],
+  "translation": "O, gutpela tru long man em i no wokabaut long tok bilong ol man rong, na long rot bilong ol man i rongim lo i no sanap, na long ples bilong ol was i no sidaun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/1\/1-4.1792357862894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "o, gutpela tru long"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wokabaut"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "long tok bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man rong"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "na long rot bilong"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ol man i rongim lo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na long ples bilong"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ol was"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sidaun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:02.895144374Z",
+  "model": "glm-5.3"
+}

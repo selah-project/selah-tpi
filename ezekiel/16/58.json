@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karim olgeta",
+      "rationale": "נשאת 'you bore\/carried' rendered 'you carried them' — the burden idiom kept literally."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את ... את ... את",
+      "rationale": "Threefold את: two direct-object markers plus אתה 'you' — sound repetition in Hebrew, flattened in Tok Pisin."
+    }
+  ],
+  "translation": "⟨את⟩ Ol plan nogut bilong yu na ⟨את⟩ ol pasin nogut tru bilong yu — yu karim olgeta — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/16\/57-60.1792356251400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol plan nogut bilong yu"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ol plan nogut bilong yu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol pasin nogut tru bilong yu"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "ol pasin nogut tru bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "yu karim olgeta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:44:11.401725983Z",
+  "model": "glm-5.3"
+}

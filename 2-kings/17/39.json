@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Hibru i gat tupela tok כי אם we i makim 'tasol' — wanpela tok Tok Pisin i holim tupela."
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Yahwe long yupela",
+      "rationale": "Tok i stap long yupela — Nem Yahwe i kamap long ked bilong tok."
+    }
+  ],
+  "translation": "Tasol ⟨את⟩ Yahwe, Elohim bilong yupela, yupela i ken scare long em; na em bai rausim ⟨את⟩ yupela long han bilong olgeta birua bilong yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/37-40.1792353593767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim bilong yupela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "yupela i ken scare long em"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "bai rausim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "birua bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:53.768525722Z",
+  "model": "glm-5.3"
+}

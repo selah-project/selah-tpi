@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גמל",
+      "rationale": "גמל i tok bilong 'wokim gutpela o rong pasin long man'; 'payim bek' i holim tupela sait"
+    }
+  ],
+  "translation": "Em i no wokim long yumi olsem ol hevel bilong yumi, na em i no payim bek long yumi olsem ol rong bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/9-12.1792358882338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "olsem ol hevel bilong yumi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "olsem ol rong bilong yumi"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "payim bek"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:02.338801334Z",
+  "model": "glm-5.3"
+}

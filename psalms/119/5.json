@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i ken",
+      "rationale": "Hebrew wish-form has no copula; wish supplied by sapos-clause"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "psalmist prays directly to God"
+    }
+  ],
+  "translation": "Sapos ol rot bilong mi i ken staples gut, bai mi lukautim ⟨את⟩ ol appointment bilong yu!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/5-8.1792359080101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "sapos …!"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "i ken staples gut"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ol rot bilong mi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bai mi lukautim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ol appointment bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:20.102015751Z",
+  "model": "glm-5.3"
+}

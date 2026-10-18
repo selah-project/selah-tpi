@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "האלהים read as 'God' (JPS, YLT) or as human 'judges' (KJV, Geneva); kept as Elohim per discipline."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלח ידו",
+      "rationale": "Literally 'stretch out his hand', i.e. lay claim to \/ take; rendered 'putim han bilong en'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong soim",
+      "rationale": "Purpose clause added; Hebrew states the approach to Elohim without naming the purpose."
+    }
+  ],
+  "translation": "Sapos ol i no painim ⟨את⟩ stilman, bos bilong haus i mas kam klosap long Elohim, ⟨bilong soim⟩ sapos em i no putim han bilong en long wok bilong poroman bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/5-8.1792347820167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "stilman"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "i mas kam klosap"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bos"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "long wok bilong"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poroman bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:40.168530674Z",
+  "model": "glm-5.3"
+}

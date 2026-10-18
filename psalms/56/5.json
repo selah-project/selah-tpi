@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bodi",
+      "rationale": "בשר em i bodi\/man long mit — 'bodi' i holim mining bilong man i no gat strong"
+    },
+    {
+      "kind": "crux",
+      "subject": "tok bilong en",
+      "rationale": "דברו: 'tok bilong Elohim' o 'tok bilong mi (singaut bilong mi)' — KJV 'his word', JPS tu; samba ol i tingting em i singaut bilong man yet"
+    },
+    {
+      "kind": "you",
+      "subject": "long ol man we i traitem em",
+      "rationale": "Tok bilong man i save long ol birua bilong en — queson bilong Apsum"
+    }
+  ],
+  "translation": "Long Elohim mi singaut gudpela tok bilong en; long Elohim mi salim ⟨bel⟩; bai mi no pret — wanem samting bodi i ken wokim long mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae95ccc88746d5c2921173c31e8b0415f8256af64d16cf42d08fc5b0a0e51c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/56\/5-6.1792363352112.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "mi singaut gudpela tok"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tok bilong en"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi salim bel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mi pret"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i ken wokim"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:32.113167611Z",
+  "model": "glm-5.3"
+}

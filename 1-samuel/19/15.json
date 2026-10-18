@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gen",
+      "rationale": "Hebrew lacks 'again' but this is the second sending; supplied for narrative flow."
+    },
+    {
+      "kind": "you",
+      "subject": "ol mesinja",
+      "rationale": "Saul addresses the messengers directly with plural imperative העלו."
+    }
+  ],
+  "translation": "Na Saul i salim ⟨את⟩ ol mesinja gen long lukim ⟨את⟩ David, i tok: Yupela kirapim ⟨את⟩ em long bet i kam long mi, bilong kilim em i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/19\/13-16.1792351835126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol mesinja"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ol mesinja"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "long lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "yupela kirapim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (David)"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "long bet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i kam long mi"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "bilong kilim em i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:35.127295176Z",
+  "model": "glm-5.3"
+}

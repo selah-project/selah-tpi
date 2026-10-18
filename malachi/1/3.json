@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting bilong em",
+      "rationale": "נחלתו i min 'ol samting ol i gat bihain long papa' — erit; Tok Pisin i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנות",
+      "rationale": "'ol wilddok' (jakal) o 'ol dragen' — KJV 'dragons', JPS\/ASV 'jackals'; jakal i stret long Ekijip"
+    }
+  ],
+  "translation": "na ⟨את⟩ Esau mi les long ⟨em⟩; na mi putim ⟨את⟩ ol maunten bilong em i kamap ples i bagarap, na ⟨את⟩ ol samting bilong em i go long ol wilddok bilong gaten bus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/malachi\/1\/1-4.1792357765945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi les long ⟨em⟩"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "na mi putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol maunten bilong em"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "ol maunten bilong em"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ples i bagarap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol samting bilong em"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ol samting bilong em"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "long ol wilddok"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bilong gaten bus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:25.946903869Z",
+  "model": "glm-5.3"
+}

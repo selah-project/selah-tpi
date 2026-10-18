@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maritim",
+      "rationale": "בעל i min 'kamap masta bilong' — tok bilong marit long Tok Pisin i lusim as bilong 'bos'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "KJV\/ASV 'thy sons' vs YLT 'thy Builders' (בניך leta leta bilong בנה)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבעל\/יבעלוך · ישיש\/משוש",
+      "rationale": "Repitisen bilong tok בעל tupela taim na rut שוש\/ישיש — smel i lus long Tok Pisin"
+    }
+  ],
+  "translation": "Olsem yangpela man i maritim meri i no yet kisim man, olsem na ol pikinini bilong yu bai maritim yu; na olsem man koplai i amamas long meri koplai, olsem na Elohim bilong yu bai amamas long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3b03ad39445de22f7af6a26e7badd6b2ccbc55373114397fd9f31073ccd950c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/62\/5-8.1792354809641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "i maritim"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "yangpela man"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "meri i no yet kisim man"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "bai maritim yu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ol pikinini bilong yu"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "na amamas"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "man koplai"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "meri koplai"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:20:09.641927345Z",
+  "model": "glm-5.3"
+}

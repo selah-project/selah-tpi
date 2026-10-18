@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "graun bilong ol man insait",
+      "rationale": "תבל i graun we ol man i stap long en (olsem wanpela wörld), narapela tok long ארץ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותחולל",
+      "rationale": "summa i tok 'yu foemim' — tasol wanem i mekim dispela wok? Em i 'twistim olgeta samting i kamapdaun' — hia mi ritim olsem God i no bin kirapim yet (i go wantaim בטרם), narapela ritim i 'wantaim yu kirapim'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oltaim i go inap long oltaim",
+      "rationale": "םעולם עד עולם i makim taim — long past tru i go long Future tru"
+    }
+  ],
+  "translation": "Bihain yet ol maunten i no kamap, na yu no bin kirapim ⟨את⟩ graun na ⟨את⟩ graun bilong ol man insait yet, olsem na ating oltaim, i go inap long oltaim, yu El.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/90\/1-4.1792358841926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "bihain yet"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "i no kamap"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "na yu no bin kirapim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "graun bilong ol man insait"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "olsem na ating oltaim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:21.938598619Z",
+  "model": "glm-5.3"
+}

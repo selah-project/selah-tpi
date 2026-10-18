@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i bel\/lif, i no 'soul' — Tok Pisin 'bel' i klostu long mining bilong en"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Hebru הנפש i no gat pronaun — Tok Pisin i nidim 'bilong en' bilong tok klia"
+    }
+  ],
+  "translation": "Olgeta wok kong bilong man em i bilong maus bilong en, tasol bel bilong en i no ken fulap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/6\/5-8.1792360816031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wok kong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "long maus bilong en"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ken fulap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:16.032798282Z",
+  "model": "glm-5.3"
+}

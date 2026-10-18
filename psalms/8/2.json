@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדנינו bilong God em i Adonai, i no 'Bikpela' o 'Masta'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i nidim predicate marker; Hibru i no gat."
+    },
+    {
+      "kind": "crux",
+      "subject": "תנה הודך",
+      "rationale": "'Yu givim kovim bilong Yu': sampe ol i rit 'Yu putim'; JPS 'rehearsed' — pasin bilong givim\/glaim kovim."
+    }
+  ],
+  "translation": "Yahwe, Adonai bilong yumi, nem bilong Yu i stret olgeta long graun olgeta! Yu putim kovim bilong Yu antap long ol heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/8\/1-4.1792357861505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai bilong yumi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "i stret olgeta"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "i bikpela tru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong Yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long graun olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Yu"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "putim"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kovim bilong Yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:01.506940813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 30:17",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foapela handet man",
+      "rationale": "Count of survivors and span of the battle (dusk to next evening) — the verse measures the victory."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנשף",
+      "rationale": "lit. 'the-breeze' (dusk when the evening breeze rises), rendered descriptively as time the wind starts in the afternoon."
+    },
+    {
+      "kind": "addition",
+      "subject": "Tasol",
+      "rationale": "The pair כי אם is one limiting expression 'except', rendered with one Tok Pisin word repeated across two tokens."
+    }
+  ],
+  "translation": "Na David i paitim ol, stat long taim win i stat long apinun i go inap long apinun bilong narapela de; i no gat wanpela man i lus long olgeta, Tasol foapela handet yangpela man, ol i ridim long ol kamel, na ol i ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/17-20.1792352056101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "i paitim ol"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהנשף",
+      "gloss": "stat long taim win i stat long apinun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "למחרתם",
+      "gloss": "bilong narapela de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "i lus"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Tasol"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yangpela man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "i ridim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ol kamel"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "na ol i ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:16.102013414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol nem",
+      "rationale": "List bilong ol nem — kaunim ol pikinini man bilong Shimon."
+    },
+    {
+      "kind": "crux",
+      "subject": "meri bilong Kenakan",
+      "rationale": "הכנענית: manmeri i tok — meri Kenakan o meri i selsel (pedlar); Samari Pentatyuk na Josephus i tok 'meri bilong Shukhem'."
+    }
+  ],
+  "translation": "Na ol pikinini man bilong Shimon: Yemuwel, na Yamin, na Ohad, na Yakhin, na Tsokhar, na Shaul, pikinini man bilong meri bilong Kenakan.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b8ad68d471919e34fb12ef81943c718af819bc9ffcd759b4704d33250955c465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/46\/9-12.1792347228256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini man bilong"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuwel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Tsokhar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "meri bilong Kenakan"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:48.257161317Z",
+  "model": "glm-5.3"
+}

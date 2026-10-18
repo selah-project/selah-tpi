@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "han bilong mi",
+      "rationale": "כפי em i palmä\/han bilong mi; Tok Pisin i no gat tok bilong 'palm', olsem 'han' i holim mining"
+    },
+    {
+      "kind": "crux",
+      "subject": "bilong mi bihain",
+      "rationale": "אחרי: 'bihain bilong mi' o 'ol samting bilong mi i kamap bihain' — Yahwe i tok Mose i ken lukim Bihain tasol, no Pes"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i no gat"
+    }
+  ],
+  "translation": "Na bai mi rausim ⟨את⟩ han bilong mi, na yu bai lukim ⟨את⟩ bilong mi bihain, tasol pes bilong mi em i no ken lukim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fe11322b83267a19baf5c434bf1aeff82b3dcc38b0e555bed7ea658e14243487",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/23-23.1792362942855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Na bai mi rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong mi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "na yu bai lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilong mi bihain"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bilong mi bihain"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "tasol pes bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ken lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:42.855531619Z",
+  "model": "glm-5.3"
+}

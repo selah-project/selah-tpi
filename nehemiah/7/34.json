@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wan tausen tupela handet faivpela ten na foa",
+      "rationale": "Census count 1,254 for the other Elam."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Tok Pisin predicate marker needed; Hebrew juxtaposes appositional אחר without verb."
+    }
+  ],
+  "translation": "Ol pikinini bilong Elam, ⟨em i⟩ narapela hap, wan tausen, tupela handet, faivpela ten na foa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5059384fe87875d7e622d2937ea03d90a7bf69241f9a3de7709ac87cfc9a6e1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/7\/33-36.1792361637041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "narapela hap"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "wan tausen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tupela handet"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faivpela ten"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na foa"
+    }
+  ],
+  "timestamp": "2026-10-18T22:13:57.042317546Z",
+  "model": "glm-5.3"
+}

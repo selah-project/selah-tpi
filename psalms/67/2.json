@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "H854 preposition 'with us' (YLT 'shine with us') vs H853 DO marker rendered 'upon us' (KJV); kept 'wantaim mipela'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "musical pause mark, transliterated not translated"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך",
+      "rationale": "root means kneel — blessing as bending the knee, lost in 'barum'"
+    }
+  ],
+  "translation": "Elohim, mekim marimari wantaim mipela, na barum mipela, na mekim pes bilong en i shin wantaim ⟨את⟩ mipela. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/67\/1-4.1792358398642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "mekim marimari wantaim mipela"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "na barum mipela"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "mekim i shin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong en"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wantaim mipela",
+      "marks": "wantaim mipela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:58.643192047Z",
+  "model": "glm-5.3"
+}

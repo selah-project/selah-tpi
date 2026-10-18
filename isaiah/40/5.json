@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew has no object pronoun; Tok Pisin requires it before 'wantaim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mit",
+      "rationale": "בשר i mit\/bodi bilong man, i no 'ol manmeri' olsem sampela tanim tok i raitim"
+    }
+  ],
+  "translation": "Na glori bilong Yahwe bai i kamap klia, na olgeta mit bai lukim ⟨em⟩ wantaim, long wanem hanau bilong Yahwe i tok pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/40\/5-8.1792354463775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "bai i kamap klia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na … bai lukim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פי",
+      "gloss": "hanau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:14:23.776358342Z",
+  "model": "glm-5.3"
+}

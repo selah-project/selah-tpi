@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela nem",
+      "rationale": "חן em i gat mining 'gutpela lukluk \/ welkim long ai bilong man'; Tok Pisin i no gat wanpela tok stret, olsem 'gutpela nem long ai bilong'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nating",
+      "rationale": "ריקם — 'nating long han'; 'go nating' em i pasin bilong Tok Pisin long tok dispela"
+    }
+  ],
+  "translation": "Na bai mi givim ⟨את⟩ gutpela nem bilong dispela manmeri long ai bilong ol man Mitsrayim, na bihain, taim yupela i go, yupela i no ken go nating.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/3\/21-22.1792347375638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "na bai mi givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gutpela nem"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gutpela nem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dispela manmeri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ol man Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "yupela i go"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yupela i go"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nating"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:15.639326742Z",
+  "model": "glm-5.3"
+}

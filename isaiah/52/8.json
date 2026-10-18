@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ai wantaim ai",
+      "rationale": "Hebrew 'eye to eye' means direct, face-to-face sight; rendered 'ai wantaim ai' keeps the literal picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול…קול",
+      "rationale": "Repetition of 'voice' frames the verse; kept as repeated 'vois'."
+    }
+  ],
+  "translation": "Vois bilong ol man i lukluk bilong yu! Ol i singaut, wantaim ol i singsing long bel bilong amamas, bilong ol bai i lukim ai wantaim ai, taim Yahwe i kam bek long Taion.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/52\/5-8.1792354683642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Vois"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "ol man i lukluk bilong yu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ol i singaut"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vois"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ol i singsing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "wantaim ai"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ol bai i lukim"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "taim ... i kam bek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Taion"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:03.643079915Z",
+  "model": "glm-5.3"
+}

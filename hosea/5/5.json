@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וענה",
+      "rationale": "Root ענה can mean 'answer' or 'testify': 'the pride answers to his face' vs 'testifies against him'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכשלו\/כשל",
+      "rationale": "Root כשל repeated twice in one verse — totter\/stumble — echoes in 'pundaun' twice in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "Pronoun ⟨en⟩ supplied: Hebrew has only 'in his face' with no explicit subject."
+    }
+  ],
+  "translation": "Na pasin praud bilong Yisrael i bekim tok long pes bilong ⟨en⟩; na Yisrael na Efrayim bai pundaun long pasin nogut bilong ol; Yuda tu bai pundaun wantaim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/5\/5-8.1792357012523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "i bekim tok"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pasin praud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "long pes bilong en"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bai pundaun"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "long pasin nogut bilong ol"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "pundaun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wantaim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:52.523768238Z",
+  "model": "glm-5.3"
+}

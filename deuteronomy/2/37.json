@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 2:37",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sait",
+      "rationale": "יד em i han; long hia em i minim 'sait\/ken bilong' wara Yabok — ol tanim tok i usim 'side'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צוה",
+      "rationale": "KJV\/ASV\/JPS ritim 'forbad' (no tokim = tambu), tasol hem i min 'tokim\/bekim tok'; YLT ritim 'hath not commanded'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yumi⟩",
+      "rationale": "Tok Pisin i laikim objekt bilong tok, Hibru i no gat"
+    }
+  ],
+  "translation": "Tasol long graun bilong ol pikinini bilong Amon, yu no klostu long en — olgeta sait bilong wara Yabok, na ol taun bilong maunten, na olgeta samting we Yahwe Elohim bilong yumi no tokim ⟨yumi⟩ long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "13ad7458f275b8ad4a0186845bf907525349d2aab6d24a08d5d7dc4dc229c297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/2\/37-37.1792349676704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "klostu long en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sait"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "na ol taun"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bilong maunten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:54:36.704993034Z",
+  "model": "glm-5.3"
+}

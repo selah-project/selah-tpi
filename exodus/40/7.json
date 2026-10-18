@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bason",
+      "gloss": "כיר i min 'samting raunlong' bilong wasim — tupela tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "gloss": " שם 'long ples ia' — Tok Pisin i no save tok 'ples' wanpela taim moa"
+    }
+  ],
+  "translation": "Na yu putim ⟨את⟩ bason namel long Ohel Moed na long oltaun, na yu putim wara long ⟨en⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/40\/5-8.1792348211430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bason"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bason"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltaun"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long ⟨en⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:11.431300696Z",
+  "model": "glm-5.3"
+}

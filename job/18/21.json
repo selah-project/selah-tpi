@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא ידע אל",
+      "rationale": "Subject ambiguity: 'man El i no save long em' (one whom El does not know) vs 'man i no save long El' (one who does not know El); most versions take man as subject, YLT takes El as subject."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Tok Pisin needs 'man' (relative clause head) that Hebrew leaves implicit in the verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol Miskan",
+      "rationale": "משכנות kept as Miskan per discipline, not 'haus' alone."
+    }
+  ],
+  "translation": "Tru, ol dispela em ol Miskan bilong man nogut, na dispela em ples bilong man ⟨את⟩ El i no save long ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "924f3a2efc525b5d3e5b0f6af4a75bb198b929e33c229cacdd6e36ae489b88f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/18\/21-21.1792360027625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ol Miskan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bilong man nogut"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na dispela"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "save"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:07.625624562Z",
+  "model": "glm-5.3"
+}

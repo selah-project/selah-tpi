@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sabat",
+      "rationale": "שבת raitim olsem nem — Sabat, i no 'de bilong malolo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Tok Pisin i laikim 'bilong en' long holim olgeta samting; Hebreset i gat -הּ tasol."
+    }
+  ],
+  "translation": "Na bai mi stopim olgeta kikim gutpela bilong en — ol festivel bilong en, mun nupela bilong en, na Sabat bilong en, na olgeta taim bilong kanaka ol i makim bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8409e26cb5687f7845a7be93c8657ef5993e23252f2ca8236104b7bd69a42b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/2\/13-16.1792356991082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "na bai mi stopim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "kikim gutpela bilong en"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "festivel bilong en"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "mun nupela bilong en"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "na Sabat bilong en"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "taim bilong kanaka ol i makim bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:31.083332255Z",
+  "model": "glm-5.3"
+}

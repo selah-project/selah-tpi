@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 6:7",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרגשו",
+      "rationale": "Aramaic hargishu from regash — 'to gather tumultuously', not just 'assemble'; JPS keeps 'came tumultuously'."
+    },
+    {
+      "kind": "you",
+      "subject": "King Darivush",
+      "rationale": "Direct royal address — the flattery formula that opens the deception."
+    }
+  ],
+  "translation": "Bihain long ol dispela samting, ol sarkai na ol akasdarpana ol dispela i kamap wantaim, ol i go long king, na olsem ol i tok long en: King Darivush, long ol taim olgeta yu ken stap liv.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e3173850f06657441f0037510d87059bdc210fb6d2033ed1e6a7d4b734a516b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/6\/5-8.1792361200989.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "bihain long ol dispela samting"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "ol sarkai"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "na ol akasdarpana"
+    },
+    {
+      "surface": "אלן",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הרגשו",
+      "gloss": "i kamap wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darivush"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "long ol taim olgeta"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yu ken stap liv"
+    }
+  ],
+  "timestamp": "2026-10-18T22:06:40.990303141Z",
+  "model": "glm-5.3"
+}

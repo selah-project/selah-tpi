@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i tok tasol 'na i tok'; Tok Pisin i nidim man i tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "‘ol pes’ (dual) long Tok Pisin i kamap ‘pes’ — namba dual i lus"
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Pes bilong mi bai i wokabaut i go, na bai mi givim malolo long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/13-16.1792348067837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bai i wokabaut i go"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "na bai mi givim malolo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:47.838632314Z",
+  "model": "glm-5.3"
+}

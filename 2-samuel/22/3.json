@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמס",
+      "rationale": "Rendered 'pasin bagarapim' (violence); Hebrew hamas covers violence, wrong, unjust gain."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישע\/משעי\/תשעני",
+      "rationale": "Root y-sh-ʿ three times in one verse (yesha, moshia, toshiaeni); salvation-wordplay flattened in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "קרן ישעי",
+      "rationale": "'Horn of my salvation' — literal horn kept; some render 'strength\/power of salvation'."
+    }
+  ],
+  "translation": "Elohim, ston bilong mi — mi ran i go long em; silta bilong mi, na bun bilong sevim mi, ples hai bilong mi, na ples bilong ranaway bilong mi; man i sevim mi — long olgeta pasin bagarapim yu sevim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/1-4.1792352568335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ston bilong mi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mi ran i go long"
+    },
+    {
+      "surface": "בו",
+      "gloss": "em"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "silta bilong mi"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "na bun"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "bilong sevim mi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ples hai bilong mi"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "na ples bilong ranaway bilong mi"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "man i sevim mi"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "long olgeta pasin bagarapim"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "yu sevim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:48.337353180Z",
+  "model": "glm-5.3"
+}

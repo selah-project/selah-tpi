@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 31:9",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel long Tok Pisin — tingting na laik, i no hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשה",
+      "rationale": "meri o meri bilong narapela man? BSB i putim 'meri bilong wantok', Hibru i tok 'meri' tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "Hibru i no gat pronom bilong mi long ארבתי, tok i tok liklik tasol"
+    }
+  ],
+  "translation": "Sapos bel bilong mi i pulim long meri, na sapos mi haitim na wet long dua bilong wantok bilong mi —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/31\/9-12.1792360224306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "נפתה",
+      "gloss": "i pulim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dua"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "wantok bilong mi"
+    },
+    {
+      "surface": "ארבתי",
+      "gloss": "mi haitim na wet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:24.306763355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נא",
+      "rationale": "Entreaty particle attached to verb, rendered 'plis' rather than KJV 'go to'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבער",
+      "rationale": "'Kindle\/consume' — grazing animals eat the hedge vs fire consumes it; rendered 'kaikai olgeta'."
+    },
+    {
+      "kind": "you",
+      "subject": "yumi",
+      "rationale": "Yahwe addresses the Jerusalemites\/Judah directly ('bae mi laraitim yumi save')."
+    }
+  ],
+  "translation": "Na nau, plis, bai mi laraitim yumi save ⟨את⟩ ol samting we mi wokim long gaden wain bilong mi: rausim banis lip bilong en, na bai i kamap long kaikai olgeta; brukim banis bilong en, na bai i kamap long trampel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/5\/5-8.1792353949743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "bai mi laraitim save"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "long gaden wain bilong mi"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "banis lip bilong en"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "long kaikai olgeta"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "brukim"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "banis bilong en"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "long trampel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:49.744746930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai yu kilim",
+      "rationale": "Hebrew i gat askim wantaim he interrogative tasol, Tok Pisin i nidim 'bai' na askim long dot."
+    },
+    {
+      "kind": "crux",
+      "subject": "lain stret",
+      "rationale": "Avimelek i tok bilong ol man bilong en olgeta (הגוי), no long em wanpela — 'yu bai kilim olgeta lain stret tu?'"
+    },
+    {
+      "kind": "you",
+      "subject": "askim bilong Avimelek i go long Adonai",
+      "rationale": "Avimelek i kotim tok wantaim Adonai direk."
+    }
+  ],
+  "translation": "Na Avimelek i no klostu long em yet, na i tok: Adonai, bai yu kilim ⟨tu⟩ lain stret?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5eb0d7258e0d3c6a2d1dc74ed4994fb77b73bd538b0eb80a4edc0345f63d741f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/20\/1-4.1792346626964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Na Avimelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "lain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "stret"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "yu kilim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:46.965715973Z",
+  "model": "glm-5.3"
+}

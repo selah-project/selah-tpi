@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yu",
+      "rationale": "נפשך em i klostu long 'wail bilong bel \/ laik bilong kaikai', no 'bel' tasol"
+    },
+    {
+      "kind": "you",
+      "subject": "long Yisrael",
+      "rationale": "Lo i tok stret long yu — man bilong Yisrael"
+    },
+    {
+      "kind": "idiom",
+      "subject": "i kamap fulap",
+      "rationale": "שבעך em i 'swalp bilong yu'; mi tanim olsem 'i fulap'"
+    }
+  ],
+  "translation": "Taim yu kamap long gaden wain bilong poro bilong yu, yu ken kaikai ol reisin olsem bel bilong yu i laik, i kamap fulap; tasol long kago bilong yu yu no ken putim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/25-26.1792350170804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "yu kamap"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "long gaden wain"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "bilong poro bilong yu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "yu ken kaikai"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ol reisin"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "olsem bel bilong yu i laik"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "i kamap fulap"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tasol long"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "kago bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yu putim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:50.804733487Z",
+  "model": "glm-5.3"
+}

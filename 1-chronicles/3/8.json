@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "nainpela",
+      "rationale": "verse totals the count of sons born in Jerusalem"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elisama · Elifelet",
+      "rationale": "names repeated from vv.6–7; some manuscripts of 3:6 read Elishua to avoid the doublet"
+    }
+  ],
+  "translation": "na Elisama, na Elyada, na Elifelet — nainpela olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/3\/5-8.1792361819673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "na Elisama"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "na Elyada"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "na Elifelet"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nainpela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:59.673944334Z",
+  "model": "glm-5.3"
+}

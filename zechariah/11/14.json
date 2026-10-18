@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החבלים",
+      "rationale": "Nem bilong stik: 'ol Rop' — rop i holim ol man wantaim, na tu i min ol hap graun bilong ol lain."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החבלים",
+      "rationale": "Hibil = rop i olsem tupela min: rop bilong ting na hap graun — brukim i brukim tupela."
+    }
+  ],
+  "translation": "Na mi katim ⟨את⟩ stik bilong mi, namba tu wan, ⟨את⟩ ol Rop, bilong brukim ⟨את⟩ brata-pasin namel long Yehuda na namel long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2886a7b213736362669544b3af6a64ebd646d3c1ef50fc2775606f9d026cb78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/11\/13-16.1792357729192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "Na mi katim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stik bilong mi"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "stik bilong mi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "namba tu wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Rop"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "ol Rop"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "bilong brukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata-pasin"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "brata-pasin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:49.193748187Z",
+  "model": "glm-5.3"
+}

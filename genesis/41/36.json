@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 41:36",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarap",
+      "rationale": "כרת is literally 'cut off'; idiom of destruction rendered as 'ruined'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פקדון",
+      "rationale": "'deposit\/store' — rare word, related to the פקד root used in v. 34"
+    }
+  ],
+  "translation": "Na dispela kaikai bai i stap olsem kaikai bilong spes bilong graun, long seven yia bilong hangre we i bai kamap long graun bilong Mitsrayim, na graun i no ken bagarap long hangre.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "245db51fcb53d8a8f52559ad11388765297324ad42137efdba8179a50ff34ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/33-36.1792347176852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na bai i stap"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "dispela kaikai"
+    },
+    {
+      "surface": "לפקדון",
+      "gloss": "olsem kaikai bilong spes"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "long seven"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yia"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bilong hangre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "i bai kamap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "bagarap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "long hangre"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:56.853839702Z",
+  "model": "glm-5.3"
+}

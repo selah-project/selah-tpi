@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 3:14",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכל",
+      "rationale": "'from\/among all' (JPS) vs 'more than all' (KJV); Tok Pisin 'winim olgeta' follows the comparative reading"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krosman",
+      "rationale": "ארור 'cursed' rendered as 'krosman' (one under a curse), the Tanakh-register Tok Pisin curse word"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גחנך",
+      "rationale": "גחון 'belly' appears only here and in Lev 11:42 in the Tanakh"
+    }
+  ],
+  "translation": "Na Yahwe Elohim i tok long snek: Bilong yu wokim dispela samting, yu i krosman olgeta winim olgeta ol animal bilong lukautim na olgeta ol animal bilong bus; long bel bilong yu bai yu wokabaut, na das bai yu kaikai, olgeta de bilong laip bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/13-16.1792346292393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bilong"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "krosman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "olgeta winim"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na olgeta winim"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ol animal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bilong bus"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "גחנך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "bai yu wokabaut"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na das"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bai yu kaikai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "bilong laip bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:12.394044240Z",
+  "model": "glm-5.3"
+}

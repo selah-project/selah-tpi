@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעם",
+      "gloss": "karaut",
+      "rationale": "Root means thunder-crash; rendered as roar\/shout, the sound of the sea praising."
+    },
+    {
+      "kind": "invitation",
+      "subject": "creation summoned",
+      "rationale": "Jussive: sea, world and inhabitants called to join the praise."
+    }
+  ],
+  "translation": "Solwara bai karaut na olgeta samting insait long em, graun na ol man i stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/98\/5-8.1792358898985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "bai karaut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na olgeta samting insait long em"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "graun"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ol man i stap"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:18.986304943Z",
+  "model": "glm-5.3"
+}

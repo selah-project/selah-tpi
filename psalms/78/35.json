@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Copula supplied twice; Hebrew juxtaposes nouns without verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאלם",
+      "rationale": "Goel is kinsman-redeemer by kinship law; 'man bilong baim bek' keeps the redemption picture"
+    }
+  ],
+  "translation": "Na ol i tingim olsem Elohim em i ston bilong ol, na El Elyon em i man bilong baim bek ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/33-36.1792358576243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Na ol i tingim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "ston bilong ol"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "man bilong baim bek ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:56.244061113Z",
+  "model": "glm-5.3"
+}

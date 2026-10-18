@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "king list",
+      "rationale": "Continuing the tally of conquered kings."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לכרמל",
+      "gloss_note": "",
+      "rationale": "Lamed-prefix rendered as Tok Pisin preposition 'long' (locative), matching 'of\/in Carmel' tradition."
+    }
+  ],
+  "translation": "King bilong Kedesh, wanpela; king bilong Yokneam long Karmel, wanpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "025c60b6156ea063a9dbefc0cf26a8a35ecc42cfc317cb3bcfc5bb3da6053b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/12\/21-24.1792350697594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "long Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:11:37.594884898Z",
+  "model": "glm-5.3"
+}

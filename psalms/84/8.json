@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחיל אל חיל",
+      "rationale": "Tok חיל i ritim tupela taim — 'long strong i kamap long strong' — paton i lus long tanim tok."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨olgeta man⟩",
+      "rationale": "Hibru i no gat tok bilong man — יראה em i wanpela man tasol, KJV 'every one of them' i putim 'olgeta man'."
+    }
+  ],
+  "translation": "Ol i wokabaut i go long strong i kamap long strong, ⟨olgeta man⟩ bai i kamap stalim long Elohim long Tsiyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/84\/5-8.1792358776461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ol i wokabaut i go"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "long strong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strong"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bai i kamap stalim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:16.466941792Z",
+  "model": "glm-5.3"
+}

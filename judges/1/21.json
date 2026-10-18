@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 1:21",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Tok Pisin i needim olgeta bilong tok klia olsem Jebusi em i objekt bilong rausim"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפנים-type toktok i stap long Benyamin yet",
+      "rationale": "verse i tokim tok bilong Jud 1:8 (ol i rausim Jebusi) tasol long riti long em Binyamin i no inap — tanim tok tasol"
+    }
+  ],
+  "translation": "Na ⟨את⟩ ol man Jebusi, ol i save stap long Yerusalayim, ol pikinini bilong Binyamin i no rausim ⟨את⟩ olgeta; na ol man Jebusi i stop wantaim ol pikinini bilong Binyamin long Yerusalayim, inap long dispela de.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/1\/21-24.1792350933054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol man Jebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ol man Jebusi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "save stap"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "rausim olgeta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i stop wantaim"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ol man Jebusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:33.055578240Z",
+  "model": "glm-5.3"
+}

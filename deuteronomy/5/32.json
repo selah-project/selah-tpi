@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ימין ושמאל",
+      "rationale": "'Right and left' = turning aside from the path in any direction, kept literally as 'han sut na han kais'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Direct plural address: Israel commanded to keep and do all Yahwe commanded"
+    }
+  ],
+  "translation": "Na yupela i ken lukautim bilong wokim olsem Yahwe Elohim bilong yupela i salim tok long ⟨את⟩ yupela; yupela i no ken senisim — han sut na han kais.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/29-32.1792349792588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "yupela ken lukautim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i salim tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ken senisim"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "han sut"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "na han kais"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:32.589704041Z",
+  "model": "glm-5.3"
+}

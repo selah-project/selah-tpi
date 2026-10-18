@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 1:13",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Hebrew has no object pronoun attached to אשיבנו in the target language; marker for the added pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבולם",
+      "rationale": "גבול is literally 'boundary\/territory line', rendered as graun baundri"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשיבנו",
+      "rationale": "'I will not reverse it' vs 'I will not turn away its punishment' — the Hebrew verb שוב with suffix is ambiguous"
+    },
+    {
+      "kind": "you",
+      "subject": "to Amon",
+      "rationale": "divine judgment oracle addressed against a named nation"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok: Long tripela pasin nogut bilong ol pikinini bilong Amon, na long foapela, mi no ken tanim bek ⟨i⟩: bilong ol i katim op ol meri karim pikinini long Gilad, bilong widentim ⟨את⟩ olgeta graun baundri bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/13-15.1792357153341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pasin nogut bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ken tanim bek"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בקעם",
+      "gloss": "ol i katim op"
+    },
+    {
+      "surface": "הרות",
+      "gloss": "ol meri karim pikinini"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "long Gilad"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הרחיב",
+      "gloss": "widentim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta graun baundri bilong ol"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "olgeta graun baundri bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:13.342384585Z",
+  "model": "glm-5.3"
+}

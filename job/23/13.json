@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 23:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באחד",
+      "rationale": "'long wanpela' — ol tanim tok i stap long 'wanpela tingting' (KJV), 'wanpela man tasol' (Wycliffe), o 'em i wan wantaim em yet' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "נפש em i laif\/breth, no 'bel' bilong tingting tasol; hia em i tok bilong laik bilong Yahwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tingting⟩",
+      "rationale": "Hibru i tok 'long wanpela' tasol; Tok Pisin i nidim tok 'tingting' long kliaim mining."
+    }
+  ],
+  "translation": "Na em i stap long wanpela ⟨tingting⟩, na husat inap kivim em i go bek? Na bel bilong em i laikim, na em i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/23\/13-16.1792360167726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Na em"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "long wanpela"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "inap kivim em i go bek"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na em i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:27.727306384Z",
+  "model": "glm-5.3"
+}

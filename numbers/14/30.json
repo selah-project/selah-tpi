@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם ... כי אם",
+      "rationale": "Hebrew double particle 'if ... but if' is an oath formula of exclusion: 'you shall certainly not ... except'; rendered 'bai no ... tasol'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "raise the hand",
+      "rationale": "נשאתי את ידי, literally 'I lifted my hand', is an oath gesture; many versions render 'I sware', kept literal here."
+    },
+    {
+      "kind": "typo",
+      "subject": "bilang Nun",
+      "rationale": "Corrected to 'bilong Nun' in final text; alignment gloss below reflects intent."
+    }
+  ],
+  "translation": "Yupela olgeta bai no go insait long graun we mi bin raisen ⟨את⟩ han bilong mi bilong mekim ⟨את⟩ yupela stop long em — tasol Kalev, pikinini bilong Yefune, na Yehoshua, pikinini bilang Nun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "474f565aa147f798bd87e05b6faacc44175317148103c0c2d9d6069dde0f95f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/14\/29-32.1792349168694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "bai go insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi bin raisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "bilong mekim yupela stop"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "na Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:46:08.694960032Z",
+  "model": "glm-5.3"
+}

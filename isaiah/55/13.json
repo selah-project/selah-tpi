@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 55:13",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saidapres",
+      "rationale": "ברוש em i diwai we man i no保存 olgeta — 'saidapres' em i klostu, sam man i tok 'dikail'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה...יעלה",
+      "rationale": "Hibru i ritim olsem 'ol i ken kolim nem bilong man i no stap long hia' — rop bilong Saias i pulap long wokim nupela ofa"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i nidim predicate marker 'i', Hibru i nogat"
+    }
+  ],
+  "translation": "Long ples bilong ol nil, saidapres bai kamap; long ples bilong gras nil, matul bai kamap; na bai i kamap bilong Yahwe, long nem, long mak oltaim, em bai no ken katim i go ausait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e6052375b8369706000f17193e587bfbc1889eb7f6039818c8513d77b0828ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/55\/13-13.1792354632162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "הנעצוץ",
+      "gloss": "ol nil"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bai kamap"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "saidapres"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "הסרפד",
+      "gloss": "gras nil"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bai kamap"
+    },
+    {
+      "surface": "הדס",
+      "gloss": "matul"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "long nem"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "long mak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ken katim i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:12.162903693Z",
+  "model": "glm-5.3"
+}

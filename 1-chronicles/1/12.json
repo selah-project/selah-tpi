@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "from whence came the Philistines",
+      "rationale": "Ambiguous whether Philistines and Caphtorim came FROM Casluchim, or the list continues; Amos 9:7 says Philistines came from Caphtor."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relative particle rendered as dash — Tok Pisin carries the relation by clause order."
+    }
+  ],
+  "translation": "Na ⟨את⟩ ol man Pathrusim, na ⟨את⟩ ol man Kasluhim — ol man Pilisti na ⟨את⟩ ol man Kaftor i kamap ausait long ol —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/1\/9-12.1792361768700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ol man Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol man Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ol man Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "i kamap ausait"
+    },
+    {
+      "surface": "משם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol man Pilisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ol man Kaftor"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:08.701572389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחדתי",
+      "rationale": "Root repetition: 'fear' (noun) and 'I feared' — the same Hebrew root twice in two words, kept as frighten in both."
+    },
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hebrew יגרתי is a different fear-verb (יגר) than פחדתי; gloss marks the second verb with wantaim to show two parallel verbs, not one repeated."
+    }
+  ],
+  "translation": "Bihain, wanpela bikpela frighten em i kamap long mi, na wanpela samting mi frighten long em wantaim, em i kam long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/3\/25-26.1792359828161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "wanpela bikpela frighten"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "mi frighten long"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "em i kamap long mi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "mi frighten long em wantaim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "em i kam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:48.161553651Z",
+  "model": "glm-5.3"
+}

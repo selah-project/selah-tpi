@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela ting",
+      "rationale": "נחם is 'sigh\/comfort' — Tok Pisin gutpela ting renders the comfort sense"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "petition addressed to God about his servant (the speaker)"
+    }
+  ],
+  "translation": "Plis, khesed bilong yu i kamapim gutpela ting long mi, olsem tok bilong yu long wokman bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/73-76.1792359130998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "i kamapim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "gutpela ting long mi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "olsem tok bilong yu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "long wokman bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:11.000904280Z",
+  "model": "glm-5.3"
+}

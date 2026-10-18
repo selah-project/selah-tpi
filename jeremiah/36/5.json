@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור",
+      "rationale": "'mi pas' (shut up\/restricted) — sampela i ting em i bilong long haus kalabus, narapela i ting em i tambu long go."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pas",
+      "rationale": "עצור i min 'ol i holim pas \/ banisim' — Tok Pisin 'pas' i klostu tru."
+    }
+  ],
+  "translation": "Na Yirmeyahu i givim gutpela tok long ⟨את⟩ Baruk, i tok olsem: Mi pas ⟨i⟩ no inap long go insait long haus bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "467a08531437612b166bedf3e71e57e7dc1f1721d59e49139254c1adea436bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/36\/5-8.1792355580892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "i givim gutpela tok long"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "inap"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "long go insait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:33:00.893528744Z",
+  "model": "glm-5.3"
+}

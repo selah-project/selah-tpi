@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronon bilong 'tent', Tok Pisin i nidim."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fifti huk",
+      "rationale": "Kaunim ol huk bilong jekim tent."
+    }
+  ],
+  "translation": "Na em i wokim fifti huk bilong kopa, bilong jekim ⟨את⟩ tent, bilong ⟨em⟩ i kamap wanpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f4a8ee3bb2ca2d4526e8b1bad67127ce23de151594a97d4d9586baff294c7f4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/36\/17-20.1792348171746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "huk"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifti"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "bilong jekim wantaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "להית",
+      "gloss": "bilong i kamap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:31.747542755Z",
+  "model": "glm-5.3"
+}

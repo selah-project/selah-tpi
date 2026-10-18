@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "presen bilong paia",
+      "rationale": "אִשֶּׁה i min olgeta presen bilong paia, i no wankain olsem banis presen"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wok bilong savis",
+      "rationale": "מלאכת עבדה i min 'wok bilong savis\/wok bilong kukim' — ol tanim tok i togat 'servile work'"
+    }
+  ],
+  "translation": "Olgeta wok bilong savis yu no ken mekim, na yu bringim i kam presen bilong paia long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/25-28.1792348794719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wok"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "bilong savis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ken mekim"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "na yu bringim i kam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "presen bilong paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:54.719597377Z",
+  "model": "glm-5.3"
+}

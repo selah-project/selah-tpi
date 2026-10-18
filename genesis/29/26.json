@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Copula\/predicate marker required by Tok Pisin grammar; Hebrew lacks it"
+    },
+    {
+      "kind": "irony",
+      "subject": "younger before firstborn",
+      "rationale": "Laban invokes the custom of the firstborn while himself displacing the birthright theme running through Genesis"
+    }
+  ],
+  "translation": "Na Laban i tok: Long ples bilong yumi, ol i no mekim olsem — givim ⟨i⟩ liklik meri pastaim long bikpela pikinini meri bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/29\/25-28.1792346851893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ייעשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "long ples bilong yumi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "givim"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "liklik meri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "bikpela pikinini meri"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:31.895299183Z",
+  "model": "glm-5.3"
+}

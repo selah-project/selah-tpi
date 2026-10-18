@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפרש",
+      "rationale": "Femus krus: 'ol i tokim klia' (skelim tok), o 'ol i tanim tok' (Targum i ritim 'targum'), o 'ol i ritim liklik bihain liklik'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim tok 'i' long 'putim i', Hibru i no gat tok namel"
+    },
+    {
+      "kind": "alternative",
+      "subject": "במקרא",
+      "rationale": "Mikra inap min 'ol man i kamap long bung' o 'olgeta tok ol i ritim' — mi usim 'rit'"
+    }
+  ],
+  "translation": "Ol i ritim long buk, long Tora bilong Elohim, ol i tokim klia; na ol i putim ⟨i⟩ tingting save, na ol manmeri i save long rit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7215b9969b34f57d83d0ce51b3750da45096746e7806714168ae3dbd187c66dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/8\/5-8.1792361686471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Ol i ritim"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "long buk"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "long Tora bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "ol i tokim klia"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "na ol i putim"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "tingting save"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "na ol manmeri i save"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "long rit"
+    }
+  ],
+  "timestamp": "2026-10-18T22:14:46.472725601Z",
+  "model": "glm-5.3"
+}

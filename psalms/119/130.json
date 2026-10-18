@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/פתיים",
+      "rationale": "Hibru i wokim tokפתח (opim) wantaim פתיים (ol man i no save) — wanpela nois, Tok Pisin i no inap holim"
+    },
+    {
+      "kind": "crux",
+      "subject": "פתח",
+      "rationale": "'opim' o 'tok i kamap klia' — KJV 'entrance', narapela 'unfolding'"
+    }
+  ],
+  "translation": "Taim yu opim ol tok bilong yu, i givim lait; i givim save long ol man i no save tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/129-132.1792359140096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "opim"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ol tok bilong yu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "i givim lait"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "i givim save"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "ol man i no save tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:20.097083497Z",
+  "model": "glm-5.3"
+}

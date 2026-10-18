@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחי … אתם \/ עצמי ובשרי אתם",
+      "rationale": "Chiasm-like repetition of 'ye' on both sides of 'bone and my flesh', the kinship formula also used of Adam (Stat 2:23) and of David's tribe."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yuda\/Juda",
+      "rationale": "David's direct rhetorical question to the men of Judah, appealing to blood kinship."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "Hebrew 19:13 = JPS 13 but KJV 12; the Amasa verses are offset by one between Hebrew and English chapter numbering."
+    }
+  ],
+  "translation": "Ol brata bilong mi, yupela — bun bilong mi na mit bilong mi yupela; na bilong wanem yupela i kamap ol laspela long bringim bek ⟨את⟩ king?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/13-16.1792352525899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ol brata bilong mi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "bun bilong mi"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "na mit bilong mi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "yupela i kamap"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ol laspela"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "long bringim bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:05.900594618Z",
+  "model": "glm-5.3"
+}

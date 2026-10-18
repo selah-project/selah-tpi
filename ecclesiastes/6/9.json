@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש em i laip\/breth, i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "idiom",
+      "subject": "biruan bilong ruak",
+      "rationale": "רעות רוח — literal 'kaikai bilong ruak'; ol tanima i tok 'vexation of spirit' o 'striving after wind'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wokabaut bilong laip",
+      "rationale": "מהלך נפש i save tok olsem 'wokabaut bilong laip' (longing bilong laip), KJV 'wandering of desire'"
+    }
+  ],
+  "translation": "Gutpela long ol ai i lukim, moa long wokabaut bilong laip; dispela tu em i hebel, na biruan bilong ruak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/6\/9-12.1792360807862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Gutpela"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ol ai"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "wokabaut"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laip"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na biruan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:07.863332058Z",
+  "model": "glm-5.3"
+}

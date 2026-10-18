@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רְתֵת",
+      "rationale": "Trem — dispela tok i stap long Tanakh long dispela ves tasol."
+    },
+    {
+      "kind": "crux",
+      "subject": "נָשָׂא",
+      "rationale": "Ol man i tanim: 'em i antap \/ ol i scare long em' o 'em i kamap bikpela' — נשא i tok 'kirap long antap'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויאשם",
+      "rationale": "Hibru i tok 'em i kamap man i wokim rong na bai penal', Tok Pisin 'wokim tingting nogut'.",
+      "note": "elision"
+    }
+  ],
+  "translation": "Taim Efrayim i tok, trem i kamap; em i antap long Yisrael, tasol em i wokim tingting nogut long Baal, na em i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/13\/1-4.1792357113808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "taim … i tok"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "trem"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "i antap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "i wokim tingting nogut"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "long Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:33.809165524Z",
+  "model": "glm-5.3"
+}

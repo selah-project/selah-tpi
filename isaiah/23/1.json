@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבית מבוא",
+      "rationale": "Hard bit: 'shudad mi-bayit mi-vo' — KJV 'no house, no entering in' vs BSB 'without house or harbor'; mi-vo could mean harbor\/port"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object 'em' (Tsor) that Hebrew leaves implied"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הילילו",
+      "rationale": "Command addressed directly to the ships of Tarshish: howl"
+    }
+  ],
+  "translation": "Hevi bilong Tsor. Ol sip bilong Tarshis, singaut olgeta long pen, bilong ⟨em⟩ i bagarap pinis, i no gat haus, i no gat ples bilong kam insait; long graun bilong ol man Kitim dispela tok i kamap klia long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/23\/1-4.1792354215537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "hevi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "singaut olgeta long pen"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ol sip"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "bilong Tarshis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "i bagarap pinis"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "i no gat haus"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "i no gat ples bilong kam insait"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ol man Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "i kamap klia"
+    },
+    {
+      "surface": "למו",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:15.538242086Z",
+  "model": "glm-5.3"
+}

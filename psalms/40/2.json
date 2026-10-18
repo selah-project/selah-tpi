@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוה קויתי",
+      "rationale": "Root קוה repeated as infinitive absolute plus finite verb: 'waiting, I waited' — intensification lost in Tok Pisin single gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kenim kam long mi",
+      "rationale": "ויט literally 'he bent\/stretched himself' — posture verb for inclining, rendered as motion."
+    }
+  ],
+  "translation": "Kavue, mi kavue gut long Yahwe, na em i kenim ⟨i⟩ kam long mi, na em i harim krai bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5c6e1c471cf32b0ed0a5fccc1ef05051784718a0c20256d7d3d5ba60e223e790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/40\/2-3.1792363371223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "kavue"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mi kavue gut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "na em i kenim ⟨i⟩ kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na em i harim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "krai bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:51.223992312Z",
+  "model": "glm-5.3"
+}

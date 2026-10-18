@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "דלים",
+      "rationale": "את marker absent in Hebrew here; ⟨את⟩ supplied per project convention marking the direct object 'ol man i no gat strong'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man i no gat strong",
+      "rationale": "דלים literally 'dangling, thin, weak' — the frail poor, not just economically poor."
+    }
+  ],
+  "translation": "King i skelim ⟨את⟩ ol man i no gat strong long tru, jula bilong en bai i sanap pinis olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db27470f4c8c4dd5b7471d268b8ad75521a2ed46c6eae8e54540cef840e0289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/13-16.1792359766750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "long tru"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ol man i no gat strong"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jula bilong en"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "bai i sanap pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:46.750839040Z",
+  "model": "glm-5.3"
+}

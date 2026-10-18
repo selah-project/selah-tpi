@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והמתי",
+      "rationale": "Hiphil 1cs 'mi bai kilim' vs 'it (famine) will kill' — Hebrew subject explicit, actor is God."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "rot",
+      "rationale": "שרשך picks up משֹׁרֶשׁ from v29: the serpent's root is now starved."
+    }
+  ],
+  "translation": "Na ol pikinini bilong ol poa man bai kaikai, na ol man i no gat samting bai slip daun long sef; tasol mi bai kilim rot bilong yu wantaim hangre, na bai ol kilim i dai ol man i stap liklik bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/14\/29-32.1792354080048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "bai kaikai"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ol poa man"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "na ol man i no gat samting"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "long sef"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "bai slip daun"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "tasol mi bai kilim"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "wantaim hangre"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "rot bilong yu"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "na ol man i stap liklik bilong yu"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "bai ol kilim i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:00.049269377Z",
+  "model": "glm-5.3"
+}

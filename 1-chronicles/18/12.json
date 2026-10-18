@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "גויא — namba 'etten tausen' em i min man; Tok Pisin i nidim tok 'man' bilong klarim, Hebrew i no tok."
+    },
+    {
+      "kind": "measurement",
+      "subject": "etten tausen",
+      "rationale": "Namba bilong man i dai long pait — שמנה עשר אלף (18,000)."
+    }
+  ],
+  "translation": "Na Abisai, pikinini bilong Tseruia, i paitim ⟨את⟩ Edom long gorgia bilong solwara-salt — etten tausen na et tausen man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/18\/9-12.1792362106003.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Na Abisai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruia"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "long gorgia"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "bilong solwara-salt"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "etten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "etten"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:46.004778205Z",
+  "model": "glm-5.3"
+}

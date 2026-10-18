@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 21:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע literally 'seed'; Tok Pisin uses pikinini for human offspring per glossary"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניהם",
+      "rationale": "Literally 'before their face', rendered klostu long ol (in their presence)"
+    }
+  ],
+  "translation": "Ol pikinini bilong ol i sanap gut, klostu long ol yet, na ol pikinini bilong ol pikinini bilong ol i stap olsem tu long ai bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/21\/5-8.1792360103907.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעם",
+      "gloss": "ol pikinini bilong ol"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "i sanap gut"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "klostu long ol yet"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "na ol pikinini bilong ol pikinini bilong ol"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "long ai bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:48:23.908358266Z",
+  "model": "glm-5.3"
+}

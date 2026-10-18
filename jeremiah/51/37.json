@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "Jackals (ASV\/JPS) vs sea-monsters\/dragons (KJV); snek nogut keeps the monster picture open."
+    },
+    {
+      "kind": "elision",
+      "subject": "לגלים",
+      "rationale": "Hebrew 'heaps' with no verb; Tok Pisin needs 'i kamap' supplied from והיתה."
+    }
+  ],
+  "translation": "Na Babel bai i kamap ol ston i bung wantaim, ples bilong ol snek nogut, samting i bagarap pinis na samting bilong krosim ol, i no gat man i save stop.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "340178e33f88e9fc9f8f7e9205bbbf2d1f4ff7abcb92e0872fbf72540ae06bf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/37-40.1792355909300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Na bai i kamap"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "ol ston i bung wantaim"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ples bilong"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ol snek nogut"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "samting i bagarap pinis"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "na samting bilong krosim ol"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "man i save stop"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:29.301008130Z",
+  "model": "glm-5.3"
+}

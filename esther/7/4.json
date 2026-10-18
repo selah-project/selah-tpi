@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 7:4",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mipela⟩",
+      "rationale": "Tok Pisin needs the object before the apposition 'mi na ol manmeri bilong mi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוה בנזק",
+      "rationale": "'the adversary is not equal to \/ cannot compensate the king's loss' — versions split between 'not worth the damage' (JPS) and 'could not recompense' (KJV)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להשמיד להרוג ולאבד",
+      "rationale": "three-verb pile-up echoing Esth 3:13 decree, repetition of destruction terms kept as three phrases"
+    }
+  ],
+  "translation": "Bikos ol i salim ⟨mipela⟩ — mi na ol manmeri bilong mi — bilong ol i rausim olgeta, bilong kilim i dai, na bilong lus olgeta. Tasol sapos ol i salim mipela long wokboi man na meri, mi no ken tok, bilong wanem man i mekim trabel em i no wankain olsem lus bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/7\/1-4.1792360967315.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "ol i salim mipela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "na ol manmeri bilong mi"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "bilong rausim olgeta"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "bilong kilim i dai"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "na bilong lus olgeta"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "long wokboi man"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "na meri"
+    },
+    {
+      "surface": "נמכרנו",
+      "gloss": "ol i salim mipela"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "mi no ken tok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "man i mekim trabel"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "wankain olsem"
+    },
+    {
+      "surface": "בנזק",
+      "gloss": "lus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:47.316211591Z",
+  "model": "glm-5.3"
+}

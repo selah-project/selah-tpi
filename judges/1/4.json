@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ten tausen man",
+      "rationale": "Namba bilong ol man i dai long Bezek — ten tausen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכום",
+      "rationale": "Hebrew 'ol i paitim ol' (nakim); samting tasol 'ol i kilim ol' — mi holim pasin bilong pait."
+    }
+  ],
+  "translation": "Na Yehuda i go antap, na Yahwe i givim ⟨את⟩ ol man Kenan na ol Periz long han bilong ol, na ol i paitim ol long Bezek — ten tausen man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/1\/1-4.1792350974866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man Kenan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ol man Kenan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na ol Periz"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "long han bilong ol"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ol i paitim ol"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "long Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:16:14.867615127Z",
+  "model": "glm-5.3"
+}

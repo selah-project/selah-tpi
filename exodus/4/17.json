@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol sakem",
+      "rationale": "האתת em i mak o sakem, i no mirakel wankain ol i tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "ken",
+      "rationale": "Hibru i no gat `ken`, em i kamap long glosim Future"
+    }
+  ],
+  "translation": "Na yu ken kisim ⟨את⟩ dispela stik long han bilong yu, we yu ken wokim ⟨את⟩ ol sakem holim wantaim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/17-20.1792347396257.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dispela stik"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "dispela stik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol sakem"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ol sakem"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:36.258049169Z",
+  "model": "glm-5.3"
+}

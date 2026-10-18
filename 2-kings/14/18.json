@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 14:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ספר דברי הימים",
+      "rationale": "'Buk bilong ol stori bilong ol de' — the official court annals, not a modern 'chronicle' book."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כתובים",
+      "gloss": "ritim",
+      "rationale": "Rendered 'ritim' (written\/read); Tok Pisin uses the same verb for writing and reading."
+    }
+  ],
+  "translation": "Na ol narapela stori bilong Amatsyahu — long bet i no? — ol i ritim olgeta long buk bilong ol stori bilong ol de bilong ol king bilong Yehudah.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/17-20.1792353538472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ol narapela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori bilong"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "long bet i no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ol i ritim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori bilong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bilong ol king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:58.472895012Z",
+  "model": "glm-5.3"
+}

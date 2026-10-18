@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "D2: צדקה oltaim 'tsedek', i no 'stretpela pasin' tasol."
+    }
+  ],
+  "translation": "Yahwe i wokim tsedek na ol kot bilong olgeta man ol i sitimim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/5-8.1792358892310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na ol kot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "man ol i sitimim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:12.311046502Z",
+  "model": "glm-5.3"
+}

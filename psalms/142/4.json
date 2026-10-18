@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "net bilong skelim",
+      "rationale": "פח i net — 'bilong skelim' em addition bilong Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהתעטף",
+      "rationale": "'pulap\/wrapim long hambak' — o 'wrappingim olsem klos' (root עטף i wrapim)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "tok i go stret long Yahwe — 'yu save long rot bilong mi'"
+    }
+  ],
+  "translation": "Taim ruak bilong mi i pulap long hambak long mi, yu save long rot bilong mi — long rot dispela mi wokabaut, ol i haitim net bilong skelim long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/142\/1-4.1792359254094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "taim … i pulap long hambak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "save"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "rot bilong mi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "mi wokabaut"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ol i haitim"
+    },
+    {
+      "surface": "פח",
+      "gloss": "net bilong skelim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:14.095316130Z",
+  "model": "glm-5.3"
+}

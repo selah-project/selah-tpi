@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tree names",
+      "rationale": "ברוש, תדהר, תאשור species uncertain — cypress\/pine\/juniper\/box\/larch debated in every version."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאשור",
+      "gloss": "Only here in the Tanakh; kept as Hebrew-sounding name tasur."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Copula-like pronoun supplied before each listed tree; Hebrew asyndetic list."
+    }
+  ],
+  "translation": "Bai mi givim sedar long ples nogut, ⟨i⟩ akasia, ⟨i⟩ matal, na ⟨i⟩ diwai bilong oil; bai mi putim long Arava ⟨i⟩ saipres, ⟨i⟩ tidar, na ⟨i⟩ tasur, olgeta wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/41\/17-20.1792354513716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Bai mi givim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples nogut"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "na matal"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na diwai"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "bilong oil"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "bai mi putim"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "long Arava"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "saipres"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "na tasur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "olgeta wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:13.717948515Z",
+  "model": "glm-5.3"
+}

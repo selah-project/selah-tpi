@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Copula added; Hebrew stacks the titles without a verb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i wok long skerim manmeri",
+      "rationale": "נורא is a participle of ירא 'fear' — 'fearful\/awesome'; rendered as 'one who frightens people' to keep the verbal shape."
+    }
+  ],
+  "translation": "Bihainim: Yahwe Elyon, em i bikpela tru na i wok long skerim manmeri, king bikpela long olgeta graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/47\/1-4.1792358279976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i wok long skerim manmeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:59.977216465Z",
+  "model": "glm-5.3"
+}

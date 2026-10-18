@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 9:9",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנוע",
+      "rationale": "literally 'to waver\/sway'; KJV 'be promoted' vs JPS 'hold sway' vs ASV 'wave to and fro' — the mockery of the king swaying above the trees is the point."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "'gods' (YLT) vs 'God' — context is pagan trees speaking, but Tanakh-register keeps Elohim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דשני",
+      "rationale": "'my fatness' rendered as 'ol oil gutpela' — the olive's richness is its oil."
+    }
+  ],
+  "translation": "Na oliv tri i tokim ol: Inap bai mi lusim ⟨את⟩ ol oil gutpela bilong mi, we long en ol i givim nem gut long Elohim na long ol man, na mi go long susa-susa antap long ol tri?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/9\/9-12.1792351145389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "oliv tri"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "Inap bai mi lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol oil gutpela bilong mi"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ol oil gutpela bilong mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long en"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "ol i givim nem gut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "na mi go"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "long susa-susa"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ol tri"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:05.390085637Z",
+  "model": "glm-5.3"
+}

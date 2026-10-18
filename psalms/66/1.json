@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to all the earth",
+      "rationale": "Imperative summons to shout to Elohim addressed to all the earth."
+    },
+    {
+      "kind": "elision",
+      "subject": "superscription",
+      "rationale": "למנצח שיר מזמור is a technical superscription, rendered as a heading line."
+    }
+  ],
+  "translation": "Bilong man i lidim miusik. Sigat, psalm. Singaut olgeta long Elohim, olgeta graun!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/1-4.1792358388507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lidim miusik"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sigat"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "singaut olgeta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:48.508389189Z",
+  "model": "glm-5.3"
+}

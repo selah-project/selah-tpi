@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירהו\/ייראו",
+      "rationale": "Root pun: yiruhu (they shoot him) against yeira'u (they fear) — shooting without fearing; the sound-echo is lost."
+    },
+    {
+      "kind": "elision",
+      "subject": "לירות",
+      "rationale": "Infinitive 'to shoot' continues v.4 without subject; subject 'they' supplied from context."
+    }
+  ],
+  "translation": "Long sutim long haid ples ol i makim ⟨את⟩ man i stret; saposen ol i sutim em, na ol i no pret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/64\/5-8.1792358423738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "long sutim"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "long haid ples"
+    },
+    {
+      "surface": "תם",
+      "gloss": "man i stret"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "saposen"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ol i sutim em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "pret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:23.738851229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 17:21",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tupela",
+      "rationale": "Hebrew uses verbs only; Tok Pisin needs the subject named — Ahimaaz and Jonathan from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבאר",
+      "rationale": "הַבְּאֵר here is the well the men hid in; rendered 'hul wara' keeping the shape"
+    }
+  ],
+  "translation": "Na bihain ol i go pinis, tupela i kirap i kamap ⟨i go ausait⟩ long hul wara, na tupela i wokabaut go, na tupela i tokim king David, na tupela i tok long David: Kirap, na yupela crossim kwiktru ⟨את⟩ wara, long wanem olsem Ahitofel i wokim tok bilong en long yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7ecdda80f8bfca4f13817209edcb061966a2b15561bea0ab5b6517c19d8cbc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/17\/21-24.1792352451394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "לכתם",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "tupela i kirap i go antap"
+    },
+    {
+      "surface": "מהבאר",
+      "gloss": "ausait long hul wara"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na tupela i wokabaut go"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "tupela i tokim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na tupela i tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "na yupela crossim"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kwiktru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "i wokim tok bilong en"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofel"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:51.395068899Z",
+  "model": "glm-5.3"
+}

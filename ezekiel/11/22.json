@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 11:22",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "האופנים verb",
+      "rationale": "Hebrew gives no verb for the wheels — 'the wheels beside them' — English versions supply 'were\/lifted'; Tok Pisin supplies 'i stap'."
+    }
+  ],
+  "translation": "Na ol kerub i liftim ⟨את⟩ ol wing bilong ol, na ol wil i stap klostu long ol; na glori bilong Elohim bilong Yisrael i stap antap long ol, long antap tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2c634b922fcb9e86a00c1aa2660204833374a4630d1a8aa2f54cb9412e37acd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/11\/21-24.1792356095409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "i liftim"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ol kerub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wing bilong ol"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ol wing bilong ol"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "na ol wil"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "klostu long ol"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na glori"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "antap long ol"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "long antap tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:41:35.410489831Z",
+  "model": "glm-5.3"
+}

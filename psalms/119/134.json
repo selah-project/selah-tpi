@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bekim mi bilong senis",
+      "rationale": "פדה em i \"baim bek\" man longasket — tanim tok long pasin bilong baim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol tok bilong yu",
+      "rationale": "פקודיך em i \"ol samting yu bilainim\" — ol save bilong God"
+    }
+  ],
+  "translation": "Bekim mi bilong senis long pasin bilong ol man i bagarapim narapela man, na bai mi lukautim ol tok bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/133-136.1792359145240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "bekim mi bilong senis"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "pasin bilong bagarapim narapela man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "na bai mi lukautim"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ol tok bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:25.242171922Z",
+  "model": "glm-5.3"
+}

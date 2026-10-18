@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זר",
+      "rationale": "'strange\/foreign' — Tok Pisin 'bilong ol narapela lain' keeps the foreignness picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Tok Pisin needs 'o' to mark the second half of the conditional pair"
+    }
+  ],
+  "translation": "Sapos yumi no ken lusim nem bilong Elohim bilong yumi, o spredim ⟨את⟩ ol han bilong yumi i go long wanpela El bilong ol narapela lain,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/44\/21-24.1792358234598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "yumi no ken lusim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "o spredim ⟨את⟩"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "ol han bilong yumi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i go long wanpela El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bilong ol narapela lain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:14.598608784Z",
+  "model": "glm-5.3"
+}

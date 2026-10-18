@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "Kept as tsedek per discipline, not reduced to 'stretpela pasin'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפתל ועקש",
+      "rationale": "Twin terms for twisted speech: entwined\/tortuous and crooked; the twining picture is lost."
+    }
+  ],
+  "translation": "Long tsedek olgeta tok bilong maus bilong mi i stap; i no gat wanpela i tanim o i gowata long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/8\/5-8.1792359432735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "Long tsedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tok"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bilong maus bilong mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat wanpela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "i tanim"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "o i gowata"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:12.737016633Z",
+  "model": "glm-5.3"
+}

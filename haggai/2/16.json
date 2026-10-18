@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twenti\/ten, faifti\/twenti",
+      "rationale": "Verse measures diminished harvests — twenty becomes ten, fifty becomes twenty."
+    },
+    {
+      "kind": "crux",
+      "subject": "פורה",
+      "rationale": "'pora' kept as measure of the winepress; renderings differ: 'vessels' (KJV), 'press-measures' (JPS), 'baths' (BSB), or fifty pressings."
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew implies stark reduction ('there were but ten'); 'tasol' supplied to convey it."
+    }
+  ],
+  "translation": "Long ol taim ol i bin i go long wanpela hip bilong twenti, i kamap ten tasol; long taim ol i go long wel bilong wain bilong pulim faifti pora, i kamap twenti tasol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1bfc0ce336d6f149818ce3ca53488f01e4fd01c02eaab2b6bcefb88d4c4588b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/2\/16-16.1792363336380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "long ol taim ol i bin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "hip bilong"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenti"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten tasol"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "wel bilong wain"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "bilong pulim"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "pora"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenti tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:16.380776018Z",
+  "model": "glm-5.3"
+}

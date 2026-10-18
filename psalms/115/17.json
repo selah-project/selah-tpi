@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dumah",
+      "rationale": "דומה em i 'ples i no gat tok' — ples bilong ol matmat, ol i no inap tok"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hal'lu Ya \/ hallelu Yah",
+      "rationale": "singautim nem bilong Ya — root bilong 'aleluya'"
+    }
+  ],
+  "translation": "Ol man i dai pinis, ol i no save singautim nem bilong Ya, na olgeta man i go daunbilo long ples i no gat tok i no save mekim olsem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/17-18.1792359063346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ol man i dai pinis"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ol i save singautim nem bilong"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "i go daunbilo"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ples i no gat tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:03.347314845Z",
+  "model": "glm-5.3"
+}

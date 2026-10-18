@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב is heart\/inner self; Tok Pisin 'bel' carries thinking and wanting, per discipline D4"
+    },
+    {
+      "kind": "idiom",
+      "subject": "makim arë",
+      "rationale": "להקשיב literally 'prick up the ears'; rendered as bending the ear close to wisdom"
+    }
+  ],
+  "translation": "Bilong makim arë bilong yu klostu long save, na yu bænim bel bilong yu long gutpela tingting save;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/2\/1-4.1792359405067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "bilong makim arë klostu long"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "save"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "arë bilong yu"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "yu bænim"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "gutpela tingting save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:45.068089576Z",
+  "model": "glm-5.3"
+}

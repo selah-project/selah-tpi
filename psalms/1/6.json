@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "'save long' o 'lukautim' (JPS 'regardeth', BSB 'guards'): save long em i prefek taim, lukautim em i mining bilong gutpela pasin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lus olgeta",
+      "rationale": "אבד i min 'wokabaut i lus, dai': mi usim 'lus olgeta' bilong holim piksa bilong wokabaut i lus"
+    }
+  ],
+  "translation": "Bihain Yahwe i save long rot bilong ol man stretpela, tasol rot bilong ol man bilong pait nogut bai i lus olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/1\/5-6.1792357810742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot bilong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man stretpela"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tasol rot bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man bilong pait nogut"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bai i lus olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:10.742899872Z",
+  "model": "glm-5.3"
+}

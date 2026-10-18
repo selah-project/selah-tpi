@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yahwe",
+      "rationale": "הכעיס i no gat objek long Hibru — KJV 'provoked him', objek i bracket"
+    },
+    {
+      "kind": "crux",
+      "subject": "יטוש",
+      "rationale": "'stap antap' (KJV 'leave') o 'skelim aut' (JPS 'cast') — נטש i tok 'pundim\/ rausim'; mi bihainim KJV\/ASV"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adonai bilong en",
+      "rationale": "אדניו em i nem bilong God hia, olsem na 'Adonai bilong en' — i no 'bikman' bilong man"
+    }
+  ],
+  "translation": "Epraim i krosim ⟨Yahwe⟩ tru olgeta long ol pen bilong ol, na blut bilong en bai i stap antap long em yet, na Adonai bilong en bai i salim bek sot bilong en long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/12\/13-15.1792357110328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "i krosim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Epraim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "tru olgeta long ol pen"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "na blut bilong en"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "antap long em yet"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "na sot bilong en"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bai i salim bek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:30.329371527Z",
+  "model": "glm-5.3"
+}

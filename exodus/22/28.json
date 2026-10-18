@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דמעך",
+      "rationale": "Literally 'your tear\/juice' — liquid that weeps from the press or from fruit; rendered 'joes bilong pres'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person command to Israel in the covenant law"
+    },
+    {
+      "kind": "elision",
+      "subject": "בניך",
+      "gloss": "",
+      "rationale": "Bound construct בכור בניך is one phrase 'firstborn of your sons'; gloss merged into בכור token"
+    }
+  ],
+  "translation": "Ol ful korp bilong yu na joes bilong pres bilong yu — yu no ken holim ⟨em⟩ bek; na pikinini man bilong yu longstat yu mas givim long mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/25-28.1792347746745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "ol ful korp bilong yu"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "joes bilong pres bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "holim ⟨em⟩ bek"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pikinini man bilong yu longstat"
+    },
+    {
+      "surface": "בניך",
+      "gloss": ""
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yu mas givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:26.746843301Z",
+  "model": "glm-5.3"
+}

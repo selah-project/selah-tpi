@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim pronoun bilong tekewe, Hibru i gat suffix -ו tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem 'khesed' — D2 i tambuim 'marimari' long ples bilong Nem-tok"
+    }
+  ],
+  "translation": "Khesed bilong ⟨em⟩ i pinis olgeta long oltaim? Tok bilong ⟨em⟩ i pinis long ol lain bilong taim, na ol lain bilong taim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/9-12.1792358522555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "i pinis olgeta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "long oltaim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong ⟨em⟩"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "i pinis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tok bilong ⟨em⟩"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "long ol lain bilong taim"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ol lain bilong taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:02.556466131Z",
+  "model": "glm-5.3"
+}

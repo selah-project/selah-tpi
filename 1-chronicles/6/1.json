@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol pikinini bilong Levi",
+      "rationale": "Stori bilong ol nem — lista bilong ol lain Levai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini bilong",
+      "rationale": "בני i tok 'ol pikinini bilong', i no gat kopula — Tok Pisin i no nidim 'em i stap'."
+    }
+  ],
+  "translation": "Ol pikinini bilong Levi: Gershom, Kehat, na Merari.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/6\/1-4.1792361861615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "na Merari"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:41.615934391Z",
+  "model": "glm-5.3"
+}

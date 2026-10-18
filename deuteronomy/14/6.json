@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai bek",
+      "rationale": "גרה (gera) em i kaikai i go daunbilo na i kam bek long maun — 'cud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em ol",
+      "rationale": "אתה em aleph-tav wantaim pronaun — Tok Pisin i nidim 'em' bilong stretim"
+    }
+  ],
+  "translation": "Na olgeta animal bilong lukautim i kirapim klau, i pere ⟨את⟩ klau long tupela klau, na i karamapim kaikai bek — em ol ⟨את⟩ ken kaikai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/5-8.1792350032630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal bilong lukautim"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klau"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "i pere"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "pere"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "klau"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kaikai bek"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "long animal bilong lukautim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ em",
+      "marks": "ol ken kaikai"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ol ken kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:00:32.631911574Z",
+  "model": "glm-5.3"
+}

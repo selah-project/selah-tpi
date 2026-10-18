@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "לב is 'heart'; D4 fixes 'bel' (seat of feeling and will), not 'hat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "plaiim ol string",
+      "rationale": "זמר literally 'to touch\/pluck strings', not a generic 'praise'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכון לבי",
+      "rationale": "Exact repetition of the clause — resolve\/vow formula, kept verbatim."
+    }
+  ],
+  "translation": "Bel bilong mi i stap redi, Elohim; bel bilong mi i stap redi; bai mi singim singsing na bai mi plaiim ol string bilong miusik.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/5-8.1792358358231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "i stap redi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "i stap redi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "bai mi singim singsing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na bai mi plaiim ol string bilong miusik"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:18.233533078Z",
+  "model": "glm-5.3"
+}

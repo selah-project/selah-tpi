@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "karai",
+      "rationale": "כושל literally 'to totter through weak legs'; JPS\/BSB 'stumbled', KJV\/ASV 'feeble' — 'karai' (stumble) keeps the leg-picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol lain bilong en",
+      "rationale": "שבט is 'staff\/tribe'; rendered as 'lain' (tribe), the stick-sense lost."
+    }
+  ],
+  "translation": "Em i bringautim ol wantaim silva na gol, na i no gat wanpela man i karai long ol lain bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/37-40.1792358955711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "em i bringautim ol"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "wantaim silva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na gol"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "long ol lain bilong en"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "wanpela man i karai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:15.711988065Z",
+  "model": "glm-5.3"
+}

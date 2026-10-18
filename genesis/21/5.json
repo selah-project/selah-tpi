@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ben me'at shanah",
+      "rationale": "'Pikinini bilong wan handet yia' — Hebri idiom bilong tok 'em i gat wan handet yia'; mi holim pes bilong idiom."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun long ⟨em⟩ bilong kliaim husat i karimaut, Hebri i no gat."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wan handet yia",
+      "rationale": "Namba bilong yia bilong Avraham taim Yitsak i kamap."
+    }
+  ],
+  "translation": "Na Avraham i stap pikinini bilong wan handet yia taim ⟨em⟩ i karimaut ⟨את⟩ Yitsak, pikinini bilong en, long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fcb4755e35b3a5f80e01c27ca0340d12c0ee9d92909efbdad38133cd7ba76b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/21\/5-8.1792346570724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Na Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "taim em i karimaut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:50.724894406Z",
+  "model": "glm-5.3"
+}

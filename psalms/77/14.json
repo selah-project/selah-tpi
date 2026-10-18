@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדש",
+      "rationale": "Samting holi (ples holi) o pasin holi — 'rot bilong yu i stap long ples holi' o 'rot bilong yu em i holi'."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tok i go stret long Elohim, olsem tok bilong pre."
+    }
+  ],
+  "translation": "Elohim, long pasin holi i stap ⟨long⟩ rot bilong yu; husat El i bikpela olsem Elohim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/13-16.1792358523456.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "long pasin holi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rot bilong yu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i bikpela"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "olsem Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:03.458039436Z",
+  "model": "glm-5.3"
+}

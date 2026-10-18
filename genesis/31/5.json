@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כתמל שלשם",
+      "rationale": "Hebrew pair 'yesterday and the day-before-yesterday' is an idiom for 'as formerly'; Tok Pisin keeps the literal pair 'asde na toasde'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tupela",
+      "rationale": "Tok Pisin needs the dual addressee (Rachel and Leah) made explicit; Hebrew להן marks plural only."
+    }
+  ],
+  "translation": "Na em i tok long ol tupela: Mi lukim ⟨את⟩ pes bilong papa bilong yupela, wanem em i no stap klostu long mi olsem asde na toasde; tasol Elohim bilong papa bilong mi i stap wantaim mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/5-8.1792346971959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "להן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong papa bilong yupela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "papa bilong yupela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "i no stap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "olsem asde"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "na toasde"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "tasol Elohim bilong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wantaim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:31.960526416Z",
+  "model": "glm-5.3"
+}

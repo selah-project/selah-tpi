@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 26:21",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew nominal clause lacks copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחיאלי",
+      "rationale": "KJV\/ASV read singular 'Jehieli'; form may be collective\/gentilitive 'the Jehielites'"
+    }
+  ],
+  "translation": "Ol pikinini bilong Laadan, ol pikinini bilong ol Gershoni, bilong Laadan: ol hetman bilong ol papa bilong Laadan ol Gershoni ⟨em⟩ ol Yekhieli.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/26\/21-24.1792362209637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Laadan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ol Gershoni"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "bilong Laadan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol hetman bilong"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ol papa"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "bilong Laadan"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ol Gershoni"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "ol Yekhieli"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:29.637801865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מעוג",
+      "rationale": "מעוג i stap wantaim hia tasol long Tanakh — i min 'wanpela kai bret' o 'man i kaikai long kai bilong narapela man (parasait)'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחנפי לעגי מעוג",
+      "rationale": "Tupela pasin: 'ol man nogat i maski long ol kai' (KJV\/BSB) o 'ol man nogat i maski long tok bagarap' (JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kotim tut",
+      "rationale": "חרק שנים i piksa bilong 'gritim tut' — Tok Pisin i holim piksa wantaim 'kotim tut'"
+    }
+  ],
+  "translation": "Long ol man nogat, ol man i maski long kai bilong narapela man, ol i kotim tut bilong ol long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/13-16.1792358130797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "long ol man nogat"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ol man i maski"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "kai bilong narapela man"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ol i kotim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "tut bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:30.799146817Z",
+  "model": "glm-5.3"
+}

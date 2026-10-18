@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פשר",
+      "rationale": "פשר (interpretation) appears here only in the Hebrew Tanakh; elsewhere it is Aramaic (Genesis 40–41)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועז פניו ישנא",
+      "rationale": "'Strength\/boldness of his face will be changed' — readings split between 'changed (softened)' and 'he changes it (defies)'. KJV 'boldness' vs YLT 'hardness'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs pronoun 'em' where Hebrew has suffix on 'face'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "husat",
+      "rationale": "Double rhetorical question draws the reader in."
+    }
+  ],
+  "translation": "Husat i olsem man i save, na husat i save autim tok bilong skelim wanpela tok? Save bilong man i laitim pes bilong ⟨em⟩, na strong bilong pes bilong ⟨em⟩ bai senis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/1-4.1792360795221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "i olsem man i save"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "autim tok bilong skelim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanpela tok"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "save bilong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "i laitim"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong ⟨em⟩"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na strong bilong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong ⟨em⟩"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "bai senis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:55.222486561Z",
+  "model": "glm-5.3"
+}

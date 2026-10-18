@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 8:1",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dispela⟩",
+      "rationale": "Hebrew uses article on participle הנראה; Tok Pisin marks it with dispela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "long yia tripela",
+      "rationale": "verse dates the vision by regnal year of Belshatzar"
+    },
+    {
+      "kind": "mystery",
+      "subject": "hologrua",
+      "rationale": "a vision appears; its content is withheld until the following verses"
+    }
+  ],
+  "translation": "Long yia tripela bilong king bilong Belshatsar, wanpela hologrua i kamap long mi — mi Daniyel — bihain long dispela i kamap long mi pastaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4b390c126b9535d7d900cbb846e7bdda8a37adcb9c03d7bcaa6efbb120c83107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/8\/1-4.1792361207027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "long yia"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "bilong king bilong"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "hologrua"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "dispela i kamap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pastaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:06:47.028143033Z",
+  "model": "glm-5.3"
+}

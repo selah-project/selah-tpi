@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הצלצל",
+      "rationale": "צלצל i kamap liklik tumas long Tanakh; em i tok bilong sikadi o olsem olgeta insect i noise — JPS 'locust', KJV 'locust'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bai kisim olgeta bilong em",
+      "rationale": "ירש i min 'drivim raus na kisim ples' — possession, no tasol kaikai"
+    }
+  ],
+  "translation": "Olgeta diwai bilong yu na ol kaikai bilong graun bilong yu, sikadi bai kisim olgeta bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/41-44.1792350262885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "diwai bilong yu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na ol kaikai"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "bilong graun bilong yu"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bai kisim olgeta bilong em"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "sikadi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:22.886153850Z",
+  "model": "glm-5.3"
+}

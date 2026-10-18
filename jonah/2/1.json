@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Tok Pisin i no gat article, olsem na mak h- bilong Hibru i no tanim; dispela i kamap long tellim wanpela pis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela de na tripela nait",
+      "rationale": "Namba bilong taim Yona i stap long bel bilong pis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "במעי em i ol bel insait (intestines), tasol bel i klin long Tok Pisin"
+    }
+  ],
+  "translation": "Na Yahwe i makim wanpela bikpela pis long kapolim ⟨את⟩ Yona, na Yona i stap long bel bilong dispela pis tripela de na tripelarait nait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/2\/1-4.1792357362439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "i makim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "pis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "long kapolim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i stap"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "dispela pis"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na tripela"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:42.440510654Z",
+  "model": "glm-5.3"
+}

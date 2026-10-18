@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחמי אחי גלית",
+      "rationale": "2 Sam 21:19 reads Elhanan killed Goliath himself; Chronicles repoints as 'Lahmi brother of Goliath' — famous harmony crux."
+    },
+    {
+      "kind": "substitution",
+      "subject": "weva",
+      "rationale": "ארגים is a participle 'ones weaving'; Tok Pisin uses noun 'ol weva' to keep the loom picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן יעור",
+      "rationale": "2 Sam 21:19 has 'בית הלחמי' (Bethlehemite); Chronicles' Yair\/יעור echoes the divergence, lost in Tok Pisin."
+    }
+  ],
+  "translation": "Na i kamap gen wanpela pait ⟨את⟩ wantaim ol Pelisti, na Elkana pikinini bilong Yair i kilim ⟨את⟩ Lami, brata bilong Goliat man bilong Gat, na diwai bilong spia bilong em i olsem beam bilong ol weva.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e80d92271030ebf927a43209760f57d93ee932d2fb216fdd1a8b3d02e93a2c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/20\/5-6.1792363499486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wanpela pait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "i kilim"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lami"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lami"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "man bilong Gat"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na diwai"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "bilong spia bilong em"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "olsem beam bilong"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ol weva"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:59.487011766Z",
+  "model": "glm-5.3"
+}

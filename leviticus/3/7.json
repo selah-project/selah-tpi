@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fes bilong",
+      "rationale": "לפני i tok 'long fes bilong' — Tok Pisin i no gat gutpela narapela pasin"
+    }
+  ],
+  "translation": "Sapos em i bringim ⟨את⟩ ofa bilong em olsem pikinini sipsip, em i bringim ⟨את⟩ em i go long fes bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/3\/5-8.1792348253140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "i bringim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofa bilong em"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofa bilong em"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "em i bringim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (pikinini sipsip)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:53.141480912Z",
+  "model": "glm-5.3"
+}

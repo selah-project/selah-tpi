@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חכמת\/חכמת",
+      "rationale": "Same verb repeated: 'if you are wise, you are wise' — kept by repeating 'yu kamap man i save'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשא",
+      "rationale": "'You will bear\/carry it' — object unstated in Hebrew; rendered 'kisim em' with ⟨em⟩ supplied for the unstated burden."
+    }
+  ],
+  "translation": "Sapos yu kamap man i save, save em i bilong yu yet; na sapos yu raunim tok nogut, yu wanwan bai kisim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/9\/9-12.1792359421409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yu kamap man i save"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yu kamap man i save"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu yet"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "na sapos yu raunim tok nogut"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yu wanwan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bai kisim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:01.410793850Z",
+  "model": "glm-5.3"
+}

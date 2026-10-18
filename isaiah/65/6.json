@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלמתי ושלמתי",
+      "rationale": "Repetition of 'I will repay... and repay' — the doubling intensifies, kept by repeating 'baim bek'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "Read as 'until I have repaid' (JPS, YLT perfects) or 'but I will repay' (KJV futures)."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew has no copula."
+    }
+  ],
+  "translation": "Luk, em ⟨i⟩ raitim pinis long pes bilong mi; mi no ken talu — inap mi baim bek pinis, na mi baim bek long bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/65\/5-8.1792354873259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "⟨i⟩ raitim pinis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "ken talu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inap"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨pinis⟩"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "mi baim bek"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "na mi baim bek"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:13.260353705Z",
+  "model": "glm-5.3"
+}

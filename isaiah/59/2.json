@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i tok 'pes' tasol — ‘bilong em’ i stap insait long form הסתירו"
+    },
+    {
+      "kind": "you",
+      "subject": "long Yisrael",
+      "rationale": "Ol tok 'yupela' — tok i go stret long ol man"
+    }
+  ],
+  "translation": "Tasol, long wanem: ol rong bilong yupela i kamap ol i separetim namel long yupela na namel long Elohim bilong yupela, na ol samting nogut bilong yupela i haitim pes bilong ⟨em⟩ long yupela, long no ken harim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/59\/1-4.1792354776004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ol rong bilong yupela"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "ol i separetim"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "namel long yupela"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "na ol samting nogut bilong yupela"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "i haitim"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pes bilong ⟨em⟩"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "long harim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:36.005236215Z",
+  "model": "glm-5.3"
+}

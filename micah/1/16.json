@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 1:16",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": " imperative verbs",
+      "rationale": "Direct address — imperatives to the personified town (Zion) to shave her head in mourning."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרחי \/ קרחתך",
+      "rationale": "Verb 'make bald' and noun 'your baldness' share the root קרח, repetition heightening the mourning gesture."
+    },
+    {
+      "kind": "idiom",
+      "subject": "קרחי וגזי",
+      "rationale": "Shaving the head is the Hebrew mourning rite, rendered literally; Tok Pisin readers may miss the funerary custom."
+    }
+  ],
+  "translation": "Katim hea bilong yu na save gut, long ol pikinini bilong switpela laip bilong yu; mekim olgeta narapela sain bilong pen long kalabos — olsem tarangau i go long ples bilong kalabos, long wanem ol i go ausait long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/1\/13-16.1792357349077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרחי",
+      "gloss": "katim hea bilong yu na"
+    },
+    {
+      "surface": "וגגזי",
+      "gloss": "save gut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "תענוגיך",
+      "gloss": "switpela laip bilong yu"
+    },
+    {
+      "surface": "הרחבי",
+      "gloss": "mekim olgeta narapela sain bilong pen long kalabos — olsem"
+    },
+    {
+      "surface": "קרחתך",
+      "gloss": "hea bilong yu i no stap"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "tarangau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "ol i go long ples bilong kalabos"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ausait long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:29.079135024Z",
+  "model": "glm-5.3"
+}

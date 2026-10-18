@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Tok Pisin i nidim tok 'se' long hap bilong אשר, Hebtru i no gat em."
+    },
+    {
+      "kind": "secret",
+      "subject": "mak",
+      "rationale": "האות em i mak\/sain — samting i hait na bai i kamap klia bihain."
+    }
+  ],
+  "translation": "Na dispela em i mak bilong yu, long ⟨את⟩ Yahwe, se Yahwe bai i wokim ⟨את⟩ dispela tok, wanem tok em i tokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/38\/5-8.1792354369637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na dispela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "האות",
+      "gloss": "mak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "long ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bai i wokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok em i tokim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:49.638237867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long han sut",
+      "rationale": "Hibru i tok han sut tasol; Tok Pisin i nidim 'han' long kantri bilong em"
+    }
+  ],
+  "translation": "Na em i trowim ⟨את⟩ ol ston long David na ⟨את⟩ olgeta wokman bilong king David; na olgeta manmeri na olgeta traipela man i stap long han sut bilong em na long han kais bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/16\/5-8.1792352415154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "em i trowim"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ol ston"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta wokman bilong king David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "traipela man"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "long han sut bilong em"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "na long han kais bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:15.155814656Z",
+  "model": "glm-5.3"
+}

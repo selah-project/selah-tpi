@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 2:13",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i needim subjek; Hibru i no gat pronom em i stap"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובזה",
+      "rationale": "Demonstrativ 'long dispela pasin' — as i save tanim olsem 'na wantaim dispela'"
+    }
+  ],
+  "translation": "Na long dispela pasin ⟨em⟩ gel i go long king: olgeta samting em i tokim ⟨את⟩ long em, ol i givim long em long kisim wantaim em, i kamap long em i go ausait long haus bilong ol meri i go insait long haus bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/2\/13-16.1792360922481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "long dispela pasin"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "gel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "long kisim wantaim em i go"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "i go ausait long haus bilong"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go insait long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:02.481854925Z",
+  "model": "glm-5.3"
+}

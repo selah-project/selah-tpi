@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 15:41",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני יהוה",
+      "rationale": "Inclusio: 'Ani Yahwe' at start and end frames the verse; Tok Pisin keeps the repetition 'mi Yahwe'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוצאתי",
+      "rationale": "Hebrew 'I brought you out'; Tok Pisin 'kukim i kamap' (bring out) keeps the causative shape of yatsa."
+    }
+  ],
+  "translation": "Mi yupela God Yahwe, mi bilong kukim olgeta ⟨את⟩ yupela i kamap long graun bilong Mitsrayim, bilong mi kamap Elohim bilong yupela. Mi Yahwe, God bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4dd234dcaa93ce6b406c03126acb48d8b0d7b7a75fb794a397aff657e12ec762",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/15\/41-41.1792349214947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "God bilong yupela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mi bilong kukim i kamap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bilong kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "God bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:46:54.948084301Z",
+  "model": "glm-5.3"
+}

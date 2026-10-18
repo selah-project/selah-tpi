@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 2:9",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "את",
+      "rationale": "Hebrew has no direct-object marker here; suffixes on verbs mark the object, so ⟨את⟩ marks 'glori bilong mi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הדרי",
+      "rationale": "'Hadari — My splendor': renderings split between 'my glory' (KJV) and 'my blessing\/finery' (BSB)"
+    }
+  ],
+  "translation": "Ol meri bilong lain bilong mi, yupela i rausim ol long haus swit bilong ol; long ol liklik pikinini bilong ol yupela kisim ⟨את⟩ glori bilong mi oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/2\/9-12.1792357350392.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשי",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bilong lain bilong mi"
+    },
+    {
+      "surface": "תגרשון",
+      "gloss": "yupela i rausim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "תענגיה",
+      "gloss": "swit bilong en"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עלליה",
+      "gloss": "liklik pikinini bilong en"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "yupela kisim"
+    },
+    {
+      "surface": "הדרי",
+      "gloss": "⟨את⟩ glori bilong mi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:30.392654714Z",
+  "model": "glm-5.3"
+}

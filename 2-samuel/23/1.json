@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 23:1",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Masiak",
+      "rationale": "משיח הוצג כ'man ol i kapsaitim oil long em' לפי כלל השפה: מלך\/כהן שנמשח, לא 'Mesaia' או 'Krais'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגבר הקם על",
+      "rationale": "מתורגם כ-bikman ol i kirapim long anting; חלופות: 'הוקם עליון' או 'הוקם על ידי (אלהי יעקב)'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ישי",
+      "rationale": "השם נשמר בצורת ישי\/Yishi לפי צליל העברית, לא 'Jesse'"
+    }
+  ],
+  "translation": "Na ol dispela bilong tok bilong David, ol tok bilong bihain tru: tok bilong David, pikinini bilong Yishi, na tok bilong bikman ol i kirapim ⟨em⟩ long anting, man ol i kapsaitim oil long em bilong Elohim bilong Yakov, na man i swit long ol singaut bilong Yisrael:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/23\/1-4.1792352627958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol dispela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "ol tok bilong bihain tru"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "na tok bilong"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "ol i kirapim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long anting"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "man ol i kapsaitim oil long em"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "na man i swit"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "ol singaut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:47.959253073Z",
+  "model": "glm-5.3"
+}

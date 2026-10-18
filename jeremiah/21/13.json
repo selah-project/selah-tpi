@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 21:13",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור המישור",
+      "rationale": "rok bilong level graun — 'the rock of the plain' — is a mocking epithet for Jerusalem; some read it as a place-name."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקד \/ הנני אליך",
+      "rationale": "'הנני אליך' is literally 'behold me unto you' — an attack formula: 'mi stap liklik long yu' \/ 'mi i kam long yu' — rendered as 'lukim yu'."
+    },
+    {
+      "kind": "you",
+      "subject": "jerusalem",
+      "rationale": "Direct address ('lukim yu, yu i stap long-valu') — Yahwe speaks against Jerusalem personified as female dweller."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew has no copula."
+    }
+  ],
+  "translation": " lukim yu, yu ⟨i⟩ stap long-valu, rok bilong level graun — Yahwe i tok. Ol i tok: Husat i ken kamdaun long olgeta bilong yumi? Na husat i ken kamap insait long ol haus bilong yumi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8da9f4f90fc9529e13a11df371ade0dbfcc531f6a67c5857d6187853851b5f5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/21\/13-14.1792355194398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "lukim yu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "yu ⟨i⟩ stap"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "long-valu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rok"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "bilong level graun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "Ol i tok"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Husat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ken kamdaun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long olgeta bilong yumi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Na husat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ken kamap insait"
+    },
+    {
+      "surface": "במעונותינו",
+      "gloss": "long ol haus bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:26:34.399124707Z",
+  "model": "glm-5.3"
+}

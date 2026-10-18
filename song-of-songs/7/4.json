@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tupela pikinini i tanim wantaim",
+      "rationale": "תאמי 'twins' expanded to make the twin-relation explicit in Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shulamit",
+      "rationale": "Continuing direct address to the woman."
+    }
+  ],
+  "translation": "Tupela susu bilong yu olsem tupela yangpela dia, tupela pikinini i孪 olsem pikinini bilong wanpela gasel meri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/1-4.1792360517511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "susu bilong yu"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "olsem tupela"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "yangpela dia"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "tupela pikinini i tanim wantaim"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "pikinini bilong gasel meri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:17.512645588Z",
+  "model": "glm-5.3"
+}

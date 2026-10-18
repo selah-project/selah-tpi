@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "Root להט means 'to lick \/ to blaze': 'flames' (ylt) vs 'those aflame' vs 'that devour' — KJV 'set on fire' follows the blazing sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laiones",
+      "rationale": "לבאים is lioness\/lion; plural used figuratively for fierce enemies."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok bilong ol",
+      "rationale": "לשון is literally 'tongue', rendered as 'speech'."
+    }
+  ],
+  "translation": "Laip bilong mi i stap long namel bilong ol laiones; mi slip long namel bilong ol man i save bruning paia — ol pikinini bilong man, ol tut bilong ol spia na ol aro, na tok bilong ol em i traipela bainat i sap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/5-8.1792358358231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ol laiones"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mi slip"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ol man i save bruning paia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ol tut bilong ol"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spia"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na ol aro"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "na tok bilong ol"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "traipela bainat"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "i sap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:18.232713913Z",
+  "model": "glm-5.3"
+}

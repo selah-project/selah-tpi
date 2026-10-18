@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 31:28",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "larim mi",
+      "rationale": "נטש הסכל literal 'yu paitim\/bebim mi'; hia i min 'yu no givim mi sans' — mi tanim long 'larim'"
+    },
+    {
+      "kind": "you",
+      "subject": "Lavan i bagarapim Yakov",
+      "rationale": "Lavan i tok dairek long Yakov"
+    }
+  ],
+  "translation": "Na yu no larim mi long kismap ol pikinini man bilong mi na ol pikinini meri bilong mi; nau yu mekim longlong long pasin yu wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/25-28.1792346933827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na yu no"
+    },
+    {
+      "surface": "נטשתני",
+      "gloss": "larim mi"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "long kismap"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ol pikinini man bilong mi"
+    },
+    {
+      "surface": "ולבנתי",
+      "gloss": "na ol pikinini meri bilong mi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "הסכלת",
+      "gloss": "yu mekim longlong"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "long pasin yu wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:53.829121675Z",
+  "model": "glm-5.3"
+}

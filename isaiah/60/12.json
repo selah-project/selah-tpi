@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב יחרבו",
+      "rationale": "infinitive absolute doubling: 'desolate they shall be desolated' — intensity kept by 'bai bruk i spak olgeta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "root is drought\/parch imagery; Tok Pisin keeps the dry-land picture with 'olsem graun we drai'."
+    }
+  ],
+  "translation": "Long wanem, olman graun na kingdom we i no wokim sevet long yu, ol bai lus olgeta; na ol olman graun ol bai bruk i spak olgeta, olsem graun we drai olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/60\/9-12.1792354743313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "olman graun"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "na kingdom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "wokim sevet long yu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bai lus olgeta"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "na ol olman graun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bruk i spak, olsem graun we drai"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "bai bruk i spak olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:03.314423396Z",
+  "model": "glm-5.3"
+}

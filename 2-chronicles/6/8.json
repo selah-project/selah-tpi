@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss-equals": "",
+      "rationale": "relative particle after יען has no Tok Pisin equivalent, folded into 'bikos'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "היה עם לבבך",
+      "rationale": "literally 'it was with your heart' — rendered 'i bin stap long bel bilong yu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה עם לבבך",
+      "rationale": "phrase repeated verbatim at start and end, a framing echo kept in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe i tok long David",
+      "rationale": "Yahwe addresses David directly in quoted speech: 'bel bilong yu'"
+    }
+  ],
+  "translation": "Na Yahwe i tokim David, papa bilong mi: Bikos i bin stap long bel bilong yu long wokim haus bilong Nem bilong mi, yu mekim gutpela, bikos i bin stap long bel bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a24b8c18f5212b601a082fc279d04c5e309091375145823c8d6f21b76a81f16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/5-8.1792362311406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "senis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i bin stap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "bilong Nem bilong mi"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "yu mekim gutpela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i bin stap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:11.407302830Z",
+  "model": "glm-5.3"
+}

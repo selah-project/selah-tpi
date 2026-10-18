@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חבב",
+      "rationale": "tok bilong holim nating long bel — em wanpela ples long Tanakh (Sain 22:20 i narapela rut)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "'kisim' (tok) o 'Gat strong long' (ol lain i strongim man) — KJV\/JPS 'receive' vs YLT 'lifteth up'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכו",
+      "rationale": "rut תכה 'strew\/encamp' — 'sindaun long lek' o 'ol i klostu long lek'"
+    }
+  ],
+  "translation": "I stret, em i holim ol manmeri olgem long bel; olgeta holi man bilong em i stap long han bilong yu, na ol i sindaun long lek bilong yu, olgeta i kisim ⟨ol⟩ tok bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "39e85ab2e9b07d420b4f3a56b08668d0b1e10b096e72a843cea554185d4ea437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/33\/1-4.1792350400047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "holim long bel"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "holi man bilong em"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na ol"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "i sindaun klostu"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "long lek bilong yu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "tok bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:40.048298287Z",
+  "model": "glm-5.3"
+}

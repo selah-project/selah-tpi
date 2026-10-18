@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "feminine pronoun 'you', not the direct-object marker, so no ⟨את⟩ glyph."
+    },
+    {
+      "kind": "invitation",
+      "subject": "trees to the vine",
+      "rationale": "third repetition of the trees' summons to reign."
+    }
+  ],
+  "translation": "Na ol tri i tokim vain bilong grape: Kam, yu kamap king long yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/9\/9-12.1792351145389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ol tri"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "vain bilong grape"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "yu kamap king"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:05.390624089Z",
+  "model": "glm-5.3"
+}

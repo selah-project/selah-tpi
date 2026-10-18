@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "Famously obscure: 'chariots of my princely people' (ASV\/JPS) vs 'chariots of Amminadib' as a proper name (KJV) vs 'my people-Nadib' (YLT); name reading kept here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש is throat\/breath\/life-force, rendered bel per discipline D4."
+    },
+    {
+      "kind": "mystery",
+      "subject": "whole verse",
+      "rationale": "Deliberately opaque — the speaker does not know what came over him; most opaque verse of the song."
+    }
+  ],
+  "translation": "Mi no save; bel bilong mi i putim mi olsem long ol karet bilong ol man bilong mi, bilong bikman Nadib.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/6\/9-12.1792360453244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "i putim mi"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "ol karet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bilong ol man bilong mi"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "bikman Nadib"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:13.245455029Z",
+  "model": "glm-5.3"
+}

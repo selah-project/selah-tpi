@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "king i tokim Ester",
+      "rationale": "Direct address of the king to Esther at the banquet"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Impersonal plural supplied; Hebrew passive 'it shall be given\/done'"
+    }
+  ],
+  "translation": "Na king i tokim Ester long miskan bilong kaikai bilong wain: Wanem askim bilong yu, bai ol i givim long yu? Na wanem tingting bilong yu, kassem long haf bilong kingdom, bai ol i wokim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/5\/5-8.1792360895324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "long Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "long miskan bilong kaikai"
+    },
+    {
+      "surface": "היין",
+      "gloss": "bilong wain"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "askim bilong yu"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "bai ol i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "tingting bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kassem long"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "haf"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "bilong kingdom"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "bai ol i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:35.325475961Z",
+  "model": "glm-5.3"
+}

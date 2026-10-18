@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong man",
+      "rationale": "הוי construction: 'woe to the one who' — Tok Pisin needs 'bilong man i' to carry the relative"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר\/קריה",
+      "rationale": "parallel city words in both halves, mirrored by בדמים\/בעולה — kept as siti\/taun parallel"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בעולה",
+      "rationale": "could be 'long ol pasin crooked' — עול is moral wrong\/injustice"
+    }
+  ],
+  "translation": "Oh! bilong man i wokim siti wantaim blut, na i kirapim taun long ol pasin nogut!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c028feb7899d8c937498083c012f84d26a1cc305974081d538ea4f01edd51f30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/2\/12-12.1792363280506.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oh! bilong"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "wantaim blut"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "na i kirapim"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "long ol pasin nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:20.506927277Z",
+  "model": "glm-5.3"
+}

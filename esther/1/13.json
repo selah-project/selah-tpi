@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר המלך",
+      "rationale": "'tok bilong king' (word of the king) vs 'pasin bilong king' (king's manner\/custom) — KJV\/ASV 'manner', YLT literal 'word'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידעי ... ידעי",
+      "rationale": "repeat bilong 'save' long stat na long daien — rap tok bilong Hibru i lus long Tok Pisin."
+    }
+  ],
+  "translation": "Na king i tokim ol man save, ol i save ol taim — long wanem, olsem ia tok bilong king i stap long pes bilong olgeta man i save lo na kot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/1\/13-16.1792360888425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "long ol man save"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "ol taim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "man i save"
+    },
+    {
+      "surface": "דת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "na kot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:28.425859325Z",
+  "model": "glm-5.3"
+}

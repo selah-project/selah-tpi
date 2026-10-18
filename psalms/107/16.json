@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kapa",
+      "rationale": "נחשת em i kapa\/brass — no 'gol' o 'silva'"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "Hebrew i no gat aleph-tav hia; ⟨את⟩ mak i kam long tok Inglis translator, em i no long teks — mi rausim olgeta ⟨את⟩ long Tok Pisin translation bilong ves 16"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kotim",
+      "rationale": "גדע em i 'katim daun (diwai) \/ brukim olgeta' — mi usim 'kotim olgeta' bilong strong bilong tok"
+    }
+  ],
+  "translation": "Bihainem i brukim ⟨את⟩ ol dua bilong kapa, na ⟨את⟩ ol banis ain em i kotim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/13-16.1792358994597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ol dua"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bilong kapa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "na ol banis"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ain"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "em i kotim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:54.601585674Z",
+  "model": "glm-5.3"
+}

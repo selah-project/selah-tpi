@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem 'khesed' — marimari tasol i no minim gutpela (D2)"
+    },
+    {
+      "kind": "crux",
+      "subject": "בימינך",
+      "rationale": "Sam tanim (KJV, ASV) i putim 'han sut' olsem instrumen bilong sevim; sam (YLT, JPS) olsem ples we ol birua i stap — Hebrew i lef i op"
+    }
+  ],
+  "translation": "Mekim ol khesed bilong yu i sanap gutpela tru, yu bilong pulapim ol man i save ran long yu long han sut bilong yu, olsem ol i kirap long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/17\/5-8.1792357933509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "mekim i sanap gutpela tru"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ol khesed bilong yu"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "yu bilong pulapim (helpim)"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ol man i save ran long yu"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "olsem ol i kirap long ol"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "long han sut bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:13.510692933Z",
+  "model": "glm-5.3"
+}

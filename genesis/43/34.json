@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישכרו",
+      "rationale": "'They drank and became drunk\/tipsy' vs softened 'were merry' (KJV\/JPS); Hebrew verb literally means to become intoxicated."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משאת",
+      "rationale": "Hebrew massot is literally 'portions lifted\/served' — a raising-up; rendered as hap bilong kaikai, losing the lifting image."
+    },
+    {
+      "kind": "measurement",
+      "subject": "חמש ידות",
+      "rationale": "Five hand-measures: Benjamin's portion five times the others — explicit counting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאת פניו",
+      "gloss": "'from before his face' rendered as 'from his hand', losing the face\/presence idiom."
+    }
+  ],
+  "translation": "Na em i karamapim ol kaikai bilong ⟨את⟩ han bilong em, i givim long ol; na hap bilong Binyamin i kamap moa long olgeta hap bilong ol, faiv hap moa; na ol i dring, na ol i dring tumas wantaim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "01d6fa1745fece849ce750ffe78d7ec93126aace953cb752294d15420147a5a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/43\/33-34.1792347155620.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Na em i karamapim"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ol kaikai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong em"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "bilong han bilong em"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "i givim long ol"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "i kamap moa"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "hap"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "bilong Binyamin"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "long olgeta hap"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faiv"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "hap moa"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "na ol i dring"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "na ol i dring tumas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:35.622183917Z",
+  "model": "glm-5.3"
+}

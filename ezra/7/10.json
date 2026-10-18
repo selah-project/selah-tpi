@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבב",
+      "rationale": "Hibru 'levav' — bel bilong tingting na laik, no hat."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "בישראל i tok 'long Yisrael' tasol; Tok Pisin i nidim ol man bilong skulim."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Skul bilong Tora i go long ol man Yisrael — tok i tokim ol man."
+    }
+  ],
+  "translation": "From Ezira i redim bel bilong en bilong painim ⟨את⟩ Tora bilong Yahwe, na bilong wokim, na bilong skulim ol man long Yisrael lo na kot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/7\/9-12.1792361387659.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "From"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "i redim"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "bilong painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora bilong Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "na bilong wokim"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "na bilong skulim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ol man long Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na kot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:09:47.660789715Z",
+  "model": "glm-5.3"
+}

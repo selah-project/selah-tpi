@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foatenpela de bilong mun",
+      "rationale": "Passover dated by calendar count: fourteenth day of the month, at evening."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בערב \/ בערבות",
+      "rationale": "Hebrew repeats the sound erev ('apinun') against aravot ('ples laplap') — near-identical consonants, a sonic link lost in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yisrael i setap kemp long Gilgal, na ol i mekim ⟨את⟩ Pesak long foatenpela de bilong mun, long apinun, long ples laplap bilong Yeriko.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/5\/9-12.1792350472095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "na ol i setap kemp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "long Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na ol i mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesak"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesak"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "foatenpela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "de"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bilong mun"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "long apinun"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "long ples laplap bilong"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    }
+  ],
+  "timestamp": "2026-10-18T19:07:52.096989687Z",
+  "model": "glm-5.3"
+}

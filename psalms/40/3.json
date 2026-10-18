@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאון",
+      "rationale": "'Uproar\/rushing' — KJV 'horrible' pit (from LXX), JPS 'tumultuous' pit; rendered here as pit of loud noise."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשורי",
+      "rationale": "Rare word: 'my steps' vs some read 'my path\/going'; here 'steps of my walking'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "matmat bilong graun wara",
+      "rationale": "מטיט היון 'mire of dregs\/mud' — two near-synonymous mud words, split into Tok Pisin 'mud of watery ground'."
+    }
+  ],
+  "translation": "Na em i bringim mi antap long hul bilong bikpela noiz, long matmat bilong graun wara, na em i sanapim ol leg bilong mi antap long ston, em i strongim ol hap bilong wokabaut bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5c6e1c471cf32b0ed0a5fccc1ef05051784718a0c20256d7d3d5ba60e223e790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/40\/2-3.1792363371223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלני",
+      "gloss": "na em i bringim mi antap"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "long hul"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "bilong bikpela noiz"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "long matmat"
+    },
+    {
+      "surface": "היון",
+      "gloss": "bilong graun wara"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "na em i sanapim"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ston"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ol leg bilong mi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "em i strongim"
+    },
+    {
+      "surface": "אשורי",
+      "gloss": "ol hap bilong wokabaut bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:51.224189839Z",
+  "model": "glm-5.3"
+}

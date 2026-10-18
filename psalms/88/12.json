@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "D2: khesed i stap olsem tok Hibru, no 'marimari' tasol"
+    },
+    {
+      "kind": "mystery",
+      "subject": "grav na Abadon",
+      "rationale": "askim i tok: i no gat man long Seol i ken tokautim gutpela pasin bilong Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Abadon",
+      "rationale": "em i nem bilong ples, no 'destruction' — Tok Pisin i givim tupela"
+    }
+  ],
+  "translation": "Bai ol tokautim ⟨i⟩ khesed bilong yu long grav? O stret pasin bilong yu long Abadon, ples bilong lus olgeta?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/88\/9-12.1792358766174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "bai ol tokautim"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "long grav"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "stret pasin bilong yu"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "long Abadon, ples bilong lus olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:06.175569485Z",
+  "model": "glm-5.3"
+}

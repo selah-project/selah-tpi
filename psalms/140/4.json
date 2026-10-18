@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עכשוב",
+      "rationale": "'Asp\/adder' — rare word appearing only here and in Ps 58:5 in this form."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמת",
+      "rationale": "Literally 'heat\/anger', here poison — rendered 'bilas nogut' (painim bilas) for venom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שננו\/לשונם",
+      "rationale": "Sharpen\/whet the tongue — weapon image; 'soim spia long tok' keeps spear picture."
+    }
+  ],
+  "translation": "Ol i soim spia long tok bilong ol, olsem snek; bilas nogut bilong snek i stap aninit long lap bilong ol. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/140\/1-4.1792359262396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ol i soim spia long"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tok bilong ol"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bilas nogut"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "bilong snek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lap bilong ol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:22.397446230Z",
+  "model": "glm-5.3"
+}

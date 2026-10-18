@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "walk in my statutes",
+      "rationale": "Hebrew 'walk in' = live according to; Tok Pisin 'wokabaut long ol lo' keeps the walking picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "plural pronoun added for the object of 'do them', supplied by context"
+    }
+  ],
+  "translation": "Sapos yu ol i wokabaut long ol lo bilong mi, na ⟨את⟩ ol tok bilong mi i bilong bosim yu ol i lukautim gut, na yu ol i wokim olgeta ⟨את⟩ ⟨ol⟩;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/1-4.1792348799224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "long ol lo bilong mi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yu ol i wokabaut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ol tok bilong mi i bilong bosim"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "yu ol i lukautim gut"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "yu ol i wokim olgeta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ol⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:59.225744226Z",
+  "model": "glm-5.3"
+}

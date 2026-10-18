@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר יסרני",
+      "rationale": "infinitiv absolut bilong יסר i ripitim verba — 'skelim i skelim mi strongpela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skelim",
+      "rationale": "יסר i mean skelim\/traim wantaim pen; 'chasten' long Inglis i narapela kain tok"
+    }
+  ],
+  "translation": "Ya i skelim mi strongpela, tasol long dai em i no givim mi ⟨ long en ⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/17-20.1792359081192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "mi strongpela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "tasol long dai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "givim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:21.193173666Z",
+  "model": "glm-5.3"
+}

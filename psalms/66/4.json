@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויזמרו\/יזמרו",
+      "rationale": "Triple repetition of root זמר (play strings\/sing praise) frames the verse with echo."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker kept as name Sela, untranslatable."
+    }
+  ],
+  "translation": "Graun olgeta bai go daunbilo long ⟨yu⟩, na bai ol strinim sing long ⟨yu⟩; ol bai strinim sing long nem bilong ⟨yu⟩. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/1-4.1792358388507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bai go daunbilo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long ⟨yu⟩"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "na bai strinim sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long ⟨yu⟩"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bai strinim sing"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong ⟨yu⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:48.508967173Z",
+  "model": "glm-5.3"
+}

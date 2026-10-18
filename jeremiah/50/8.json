@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel in exile",
+      "rationale": "plural imperatives summon the people to flee Babylon"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew plural imperative has no pronoun; Tok Pisin needs yu for the addressee"
+    }
+  ],
+  "translation": "Yumeranawe long namel bilong Babel, na long graun bilong ol man Kasdim yu kamaut, na yu kamap olsem ol meme man bilong go pastaim long flok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/50\/5-8.1792355852652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "yu ranawe"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "na long graun bilong"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ol man Kasdim"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yu kamaut"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na yu kamap"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "olsem ol meme man"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bilong go pastaim long"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "flok"
+    }
+  ],
+  "timestamp": "2026-10-18T20:37:32.654006696Z",
+  "model": "glm-5.3"
+}

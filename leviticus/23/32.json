@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Sabat Sabat tru ... holim Sabat",
+      "rationale": "שבת שבתון ... תשבתו שבתכם — olsem tupela tok Sabat i sanap strong; Tok Pisin i holim wanpela kain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol bel bilong yupela",
+      "rationale": "נפש = laip\/breth; Tok Pisin i tok 'bel' bilong tingting na laik"
+    },
+    {
+      "kind": "idiom",
+      "subject": "troublem",
+      "rationale": "ענה את נפש = pasim kaikai long de bilong Kiamap Tasol; 'troublem' em i litiral"
+    }
+  ],
+  "translation": "Sabat, Sabat tru, em i bilong yupela; na yupela i ken troublem ⟨את⟩ ol bel bilong yupela; long nainpela de bilong mun, long apinun, haptaim long apinun i go inap long apinun, yupela i ken holim Sabat bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/29-32.1792348747225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabat tru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "yupela i ken troublem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bel bilong yupela"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ol bel bilong yupela"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "long nainpela"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "de bilong mun"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "long apinun"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "haptaim long apinun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "yupela i ken holim"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Sabat bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:07.226542818Z",
+  "model": "glm-5.3"
+}

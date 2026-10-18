@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שמוע תשמעו",
+      "rationale": "Infinitive-absolute plus finite verb: 'harim gut olsem yupela harim' — strong intensification, rendered as 'harim gut olsem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סגלה",
+      "rationale": "Literal 'wealth as closely shut up' — personal treasure kept locked; rendered 'gutpela samting i klostu' to keep the picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכל העמים",
+      "rationale": "'out of all peoples' (selected from among) vs 'above all peoples' (more than) — KJV 'above', JPS 'from among'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Direct address of YHWH's conditional offer to the whole people through Moses."
+    }
+  ],
+  "translation": "Na nau, sapos yupela harim gut olsem long tok bilong mi, na yupela lukautim ⟨את⟩ kontrak bilong mi, orait yupela bai kamap gutpela samting bilong mi long olgeta ol lain olgeta, long wanem graun olgeta em i bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2eb98da1e9f54c1edc73e95c989f3d9bf47ee1e364314572207e33da10a30031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/19\/5-8.1792347668886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "harim gut olsem"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "yupela harim"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "long tok bilong mi"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "na yupela lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontrak bilong mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "bai yupela kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "gutpela samting i klostu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:08.887372700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבל\/בהלה",
+      "rationale": "Alliteration of hevel (vanity) and behalah (terror), parallel sounds lost in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויכל",
+      "rationale": "Intransitive 'their days ended' (JPS) vs transitive 'He ended their days' (KJV); subject supplied as 'em'"
+    }
+  ],
+  "translation": "Na em i pinisim ol de bilong ol long samting nating, na ol yia bilong ol long bikpela pret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/33-36.1792358576243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "i pinisim"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "long samting nating"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ol de bilong ol"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "na ol yia bilong ol"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "long bikpela pret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:56.243760001Z",
+  "model": "glm-5.3"
+}

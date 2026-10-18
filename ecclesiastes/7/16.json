@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשומם",
+      "rationale": "hitpael of שום\/שמם: 'why should you destroy yourself' vs 'why be astounded\/desolate'; rendered bagarapim yu yet"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "direct address to the reader\/hearer in imperative and question"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩ yet",
+      "rationale": "reflexive object supplied; Hebrew verb form carries it implicitly"
+    }
+  ],
+  "translation": "No ken kamap man stret tumas, na no ken mekim save tumas — bilong wanem yu ken bagarapim ⟨yu⟩ yet?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/13-16.1792360798375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "No ken"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "mekim save"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "yu ken bagarapim yu yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:58.376802993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מעוף",
+      "rationale": "rare darkness word appearing here and echoed in 8:23; kept as 'mauf' to preserve the link"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרה\/צוקה",
+      "rationale": "chained near-rhyming distress words, partly lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na long ⟨ol⟩ graun ol i lukluk, na luk: trabel na tudak, mauf bilong pen tru, na tudak bikpela ol i singautim ol i go we.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/8\/21-23.1792353899261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ol i lukluk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trabel"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "na tudak"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "mauf — tudak bilong trabel"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "pen tru"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "na tudak bikpela"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "ol i singautim ol i go we"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:59.262674356Z",
+  "model": "glm-5.3"
+}

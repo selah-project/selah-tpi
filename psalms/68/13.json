@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידדון ידדון",
+      "rationale": "Verb doubled for intensification — flight upon flight; Tok Pisin repeats 'i tru ol i ranawe' to keep the doubling."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידדון",
+      "rationale": "Root read as נוד 'flee' by most, but consonants spell ידד 'love' — ancient copy doubling debated."
+    }
+  ],
+  "translation": "Ol king bilong ol ami i ranawe, i tru ol i ranawe, na meri i save stap long haus i skelim ol booti.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/13-16.1792358446449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ol king bilong"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ol ami"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "i ranawe"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "i tru ol i ranawe"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "na meri i save stap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ol booti"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:46.450075779Z",
+  "model": "glm-5.3"
+}

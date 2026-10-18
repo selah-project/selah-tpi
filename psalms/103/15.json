@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "Hibru i usim wankain leta: plaua (ציץ) na wok bilong plaua (יציץ) — pun i stap, Tok Pisin i holim klostu wantaim 'plaua'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "אנוש em i 'man i ken dai', narapela tok long אדם; Tok Pisin i gat wanpela tok 'man' tasol."
+    }
+  ],
+  "translation": "Man, ol dei bilong em i olsem gras klia; olsem plaua bilong gaden, olsem na em i plaua.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/13-16.1792358902804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "olsem gras klia"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ol dei bilong em"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "olsem plaua"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "i plaua"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:22.805798931Z",
+  "model": "glm-5.3"
+}

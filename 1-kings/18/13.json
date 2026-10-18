@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew הלא הגד lacks an explicit object; Tok Pisin needs ⟨em⟩ for the reported thing"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wan handet man, faifti-na-fafti man",
+      "rationale": "count of hidden prophets, grouped by fifty"
+    },
+    {
+      "kind": "crux",
+      "subject": "במערה",
+      "rationale": "singular 'cave' with hundred men; BSB pluralizes 'caves', Hebrew says one cave"
+    }
+  ],
+  "translation": "Ol i no bin tokim ⟨em⟩ long masta bilong mi, ⟨את⟩ wanem samting mi bin mekim taim Izebel i bin kilim ⟨את⟩ ol profet bilong Yahwe, na mi bin hidim sampela profet bilong Yahwe — wan handet man, faifti-na-fafti man — long wanpela hol ston, na mi givim kaikai long ol, bret na wara?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/18\/13-16.1792353120516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ol i tokim"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "long masta bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanem samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi bin mekim"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "taim … i bin kilim"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol profet"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "ol profet bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "na mi bin hidim"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "sampela profet bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "long wanpela hol ston"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "na mi givim kaikai long ol"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na wara"
+    }
+  ],
+  "timestamp": "2026-10-18T19:52:00.517077998Z",
+  "model": "glm-5.3"
+}

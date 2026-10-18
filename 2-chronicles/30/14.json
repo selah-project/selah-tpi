@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wara bilong Kidron",
+      "rationale": "נחל em i wara bilong taim ren; Tok Pisin 'wara bilong Kidron' i holim piksa bilong en."
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Sepa bilong strongim verb 'rausim', Hebtru i no gat en."
+    }
+  ],
+  "translation": "Na ol i kirap, na ol i rausim ⟨את⟩ ol altar ol i stap long Yerusalayim; na olgeta ⟨את⟩ ol altar bilong kukim swel ol i rausim olgeta, na ol i trowwe i go long wara bilong Kidron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/30\/13-16.1792362757010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ol i kirap"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "na ol i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol altar"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ol altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap long"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta ol altar bilong kukim swel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "ol altar bilong kukim swel"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ol i rausim olgeta"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "na ol i trowwe i go"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "long wara bilong"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-10-18T22:32:37.010959715Z",
+  "model": "glm-5.3"
+}

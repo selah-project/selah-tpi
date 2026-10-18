@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אדון לנו",
+      "rationale": "'mi bikman bilong mipela' — Tok Pisin i tok long pasin bilong man, Hebrew i tok 'adon' (bikman bilong man), i no Nem bilong God"
+    },
+    {
+      "kind": "you",
+      "subject": "ol man i tok nogut",
+      "rationale": "Tupela tok long vers 4–5 em i wanpela tok bilong ol man wantang: ol i akskim 'husat i bikman bilong mipela?'"
+    }
+  ],
+  "translation": "Ol i tok: Bilong tang bilong mipela bai mipela winim; ol lip bilong mipela i stap ⟨את⟩ wantaim mipela; husat i bikman bilong mipela?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/12\/5-8.1792357940633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "bilong tang bilong mipela"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "bai mipela winim"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ol lip bilong mipela"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wantaim mipela",
+      "marks": "ol lip bilong mipela"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:20.633924088Z",
+  "model": "glm-5.3"
+}

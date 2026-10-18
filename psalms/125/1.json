@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבטחים\/בטח",
+      "rationale": "root betach — trust\/refuge; 'strong bel' holds the sense of confident trust"
+    },
+    {
+      "kind": "elision",
+      "subject": "המעלות",
+      "rationale": "superscript 'song of ascents' rendered as 'singsing bilong ol long go antap'"
+    }
+  ],
+  "translation": "Singsing bilong ol long go antap. Ol i strong bel long Yahwe, olsem maunten Tsiyon — em i no ken surik, em i stap oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/125\/1-4.1792359206192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong ol long go antap"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ol i strong bel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "olsem maunten"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "surik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "em i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:26.193756512Z",
+  "model": "glm-5.3"
+}

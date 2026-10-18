@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחדלת מעזב לו",
+      "rationale": "Raitim olsem: 'yu wantim lusim' o 'yu stap na no lukim' — KJV\/JPS skelim olsem kwestin o pasin; inf. abs. עזב תעזב i mekim strongpela: 'yu mas helpim tru'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עזב תעזב",
+      "rationale": "Infinitive absolute + yusim-im futa — 'helpim tru'; Tok Pisin i no gat wankain inf. abs., mi usim 'mas … tru' pasin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עזב",
+      "rationale": "Hibru עזב i tok 'laisim\/lesimim' tok i go; long konteks em i mining 'helpim kirapim' — KJV 'help', ASV 'release'."
+    }
+  ],
+  "translation": "Sapos yu lukim donki bilong man i biruarim long yu, em i daun long graun ananit long kago bilong em, na yu laik lusim ⟨em⟩, no — yu mas helpim em wantaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/5-8.1792347739496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yu lukim"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "donki"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "bilong man i biruarim long yu"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "em i daun long graun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "kago bilong em"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "na yu laik pinis"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "helpim"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "yu mas helpim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:19.497336785Z",
+  "model": "glm-5.3"
+}

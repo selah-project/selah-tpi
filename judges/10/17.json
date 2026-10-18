@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 10:17",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחנו ... ויחנו",
+      "rationale": "Verb 'encamp' repeats in parallel halves — Ammon camps in Gilad, Yisrael camps in Mitspa — mirrored structure, kept by repetition in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i setim sel",
+      "rationale": "חנה literally 'to incline\/bend down', here encamp; Tok Pisin 'setim sel' keeps the camp picture."
+    }
+  ],
+  "translation": "Ol pikinini bilong Amon i singaut olgeta wantaim, na ol i setim sel long Gilad; na ol pikinini bilong Yisrael i kam olgeta wantaim, na ol i setim sel long Mitspa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "50699b77182f5b791147db9fdb6f6d64388729b316dbbcf29e96190c8f38322e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/10\/17-18.1792351227280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "i singaut olgeta wantaim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i setim sel"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "long Gilad"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "i kam olgeta wantaim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "i setim sel"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "long Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:20:27.281443749Z",
+  "model": "glm-5.3"
+}

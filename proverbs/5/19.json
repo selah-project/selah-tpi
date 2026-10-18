@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 5:19",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lostu",
+      "rationale": "שגה literally 'stray\/wander'; KJV 'ravished', YLT 'magnify thyself' — intoxication vs erring senses"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשגה",
+      "rationale": "same verb שגה repeated in v20 — wandering after the stranger echoes being intoxicated with the wife; link lost in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "susu",
+      "rationale": "דדים is breasts as seat of love; plural of intensity in Hebrew"
+    }
+  ],
+  "translation": "Em i olsem mama dia bilong ol laip, na dia bilong gutpela kaiap; susu bilong em i ken mekim yu orait long olgeta taim, na long laip bilong em yu ken lostu olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/5\/17-20.1792359401900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אילת",
+      "gloss": "mama dia"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "bilong ol laip"
+    },
+    {
+      "surface": "ויעלת",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "חן",
+      "gloss": "bilong gutpela kaiap"
+    },
+    {
+      "surface": "דדיה",
+      "gloss": "susu bilong em"
+    },
+    {
+      "surface": "ירוך",
+      "gloss": "i ken mekim yu orait"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "באהבתה",
+      "gloss": "long laip bilong em"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "yu ken lostu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:41.901160554Z",
+  "model": "glm-5.3"
+}

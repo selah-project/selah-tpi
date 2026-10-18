@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nep bilong yu",
+      "rationale": "אף is literally 'nose\/nostril', idiom for anger; kept 'nep' to preserve the picture"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "direct address: the prophet questions Yahwe in a series of rhetorical questions"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol askim",
+      "rationale": "three rhetorical questions draw the hearer into the theophany"
+    },
+    {
+      "kind": "crux",
+      "subject": "bilong sevim",
+      "rationale": "ישועה read as attribute of the chariots ('chariots of salvation') vs verbal 'thy chariots brought salvation'"
+    }
+  ],
+  "translation": "Yahwe, yu belhat long ol wara? O nep bilong yu i belhat long ol wara? O strongpela kros bilong yu i go long solwara, bilong yu ridim wantaim ol hos bilong yu, ol kariot bilong yu bilong sevim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "417fd8e50425c43fd9f021029791fb4104dee7da052b0a4dfdef955fd9df0a22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/3\/7-8.1792363310499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבנהרים",
+      "gloss": "long ol wara"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "yu belhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "בנהרים",
+      "gloss": "long ol wara"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nep bilong yu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "בים",
+      "gloss": "long solwara"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "strongpela kros bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תרכב",
+      "gloss": "yu ridim wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ol hos bilong yu"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "ol kariot bilong yu"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "bilong sevim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:50.500027562Z",
+  "model": "glm-5.3"
+}

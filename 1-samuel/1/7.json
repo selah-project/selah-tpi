@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעשה (he did)",
+      "rationale": "Verb is masculine — Elkanah gave the portion yearly (Geneva) — vs KJV tradition reading the rival provoking yearly; masculine subject kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תכעסנה",
+      "rationale": "Form is feminine 'she provoked her (f.)', rendered with the same rival sense as v.6."
+    }
+  ],
+  "translation": "Na olsem em i wokim yia bilong yia, taim em i go antap long haus bilong Yahwe, olsem tu meri birua i krosim em, na em i krai na em i no kaikai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/1\/5-8.1792351454152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "bilong yia"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "em i go antap"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "i krosim em"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "na em i krai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:14.154259966Z",
+  "model": "glm-5.3"
+}

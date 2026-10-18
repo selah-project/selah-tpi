@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 13:1",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זקן בא בימים ×2",
+      "rationale": "Hebrew repeats the phrase 'old, advanced in days' exactly — YHWH echoes the narrator word for word; the echo is kept but the idiom 'come into days' rendered as 'go het long ol de'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Literally 'come into days'; rendered 'go het long ol de' (advanced in days)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehoshua",
+      "rationale": "Yahwe directly addresses Joshua about his old age and the remaining land."
+    },
+    {
+      "kind": "measurement",
+      "subject": "land remaining",
+      "rationale": "Verse opens an inventory of unconquered territory that runs to v.7 — a territorial census."
+    }
+  ],
+  "translation": "Na Yehoshua i olpela pinis, i go het long ol de; na Yahwe i tokim em: Yu olpela pinis, yu go het long ol de, na graun i stap yet planti tumas bilong rausim ⟨em⟩ ol arapela na kisim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b86304349793cb19cedbe55c63c850175c0c099a8f605a78d7f8ce281cc0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/1-4.1792350725079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Na Yehoshua"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "i olpela pinis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i go het"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "long ol de"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "yu olpela pinis"
+    },
+    {
+      "surface": "באת",
+      "gloss": "yu go het"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "long ol de"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "planti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "bilong rausim ⟨em⟩ ol arapela na kisim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:05.079885461Z",
+  "model": "glm-5.3"
+}

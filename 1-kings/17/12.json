@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 17:12",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrew pair 'ki im' = 'only\/nothing but', rendered as single Tok Pisin 'tasol'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Oath formula 'as Yahwe lives'; second אם of the conditional oath elided into the oath sense."
+    },
+    {
+      "kind": "elision",
+      "subject": "אם (second)",
+      "gloss rationale placeholder": true,
+      "rationale": "Second אם absorbed into the 'ki im' idiom; gloss left empty."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun added (bracketed ⟨…⟩ convention applies to supplied words) to mark the object of 'kaikai ⟨את⟩'."
+    }
+  ],
+  "translation": "Na em i tok: Yahwe, Elohim bilong yu, i stap yet — mi no gat kek, tasol wanpela hanful plawo long kad, na liklik oil long sapahat; na lukim, mi sanapim tupela diwai, na bai mi go insait na wokim ⟨את⟩ kaikai bilong mi na bilong pikinini man bilong mi, na bai mipela kaikai ⟨את⟩ em, na mipela dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f2e9d5117c9416844ebfceb291693b202e246105c1ae93d56092c98b6e6d1458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/17\/12-12.1792363154627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "kek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wanpela hanful"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hanful"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "plawo"
+    },
+    {
+      "surface": "בכד",
+      "gloss": "long kad"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "na liklik"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "בצפחת",
+      "gloss": "long sapahat"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "na lukim mi"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "mi sanapim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "na bai mi go insait"
+    },
+    {
+      "surface": "ועשיתיהו",
+      "gloss": "na wokim ⟨את⟩ kaikai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "na bilong pikinini man bilong mi"
+    },
+    {
+      "surface": "ואכלנהו",
+      "gloss": "na bai mipela kaikai ⟨את⟩ em"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "na mipela dai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:14.627905623Z",
+  "model": "glm-5.3"
+}

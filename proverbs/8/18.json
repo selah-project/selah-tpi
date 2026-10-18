@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew has no verb; Tok Pisin predicate marker supplied for 'are with me'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "'antique, old, valued' — rendered 'durable riches' (KJV) vs 'lasting wealth'; the 'old\/treasured' picture kept as 'ol i holim i go long taim'"
+    }
+  ],
+  "translation": "Ol gutpela samting na nem gutpela i stap wantaim ⟨את⟩ mi; ol samting bilong gat tumora na tsedek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/8\/17-20.1792359455868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ol gutpela samting"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na nem gutpela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ol samting bilong gat"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "tumora (ol i holim i go long taim)"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:35.869180623Z",
+  "model": "glm-5.3"
+}

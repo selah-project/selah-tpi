@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i gat suffix -ה long ויצילה (em i sekim en), Tok Pisin i putim pronoun klia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעש יהוה תשועה גדולה",
+      "rationale": "Wanpela sentens i kamap bek olsem v.10 — repit bilong holi stori, i strongim wanwan man strong"
+    }
+  ],
+  "translation": "Na em i sanap strong long namel bilong hap gaden, na em i sekim ⟨em⟩, na i paitim ⟨את⟩ ol Filisti; na Yahwe i wokim bikpela sekim tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97216f84ccf8b96dca44beebc9892ae3b5f24136f3a4535b2bbe1ab52fdb96a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/23\/9-12.1792352642256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "na em i sanap strong"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "hap gaden"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "na em i sekim ⟨em⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Filisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Filisti"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na i wokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "bikpela sekim"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tru"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:02.257687257Z",
+  "model": "glm-5.3"
+}

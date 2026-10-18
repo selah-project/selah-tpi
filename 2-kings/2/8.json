@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הנה והנה",
+      "rationale": "'Hither and thither' — the two halves of the water; rendered 'long hia na long hia' to keep the doubled deictic."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kot bilong em",
+      "rationale": "אדרתו is a wide ample garment (mantle); 'kot' keeps the garment shape."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחצו",
+      "rationale": "The root חצה 'to halve' echoes the split waters — one verb for a two-part miracle."
+    }
+  ],
+  "translation": "Na Eliya i kisim ⟨את⟩ kot bilong em, na em i folodem olgeta, na em i paitim ⟨את⟩ wara, na wara i bruk i go long hia na long hia, na tupela i wokabaut i go antap long graun drai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/2\/5-8.1792353234094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na i kisim"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kot bilong em"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "kot bilong em"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "na em i folodem olgeta"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "na i bruk i go long tu hap"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "long hia"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na long hia"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "na tupela i wokabaut i go"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "antap long graun drai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:54.095851124Z",
+  "model": "glm-5.3"
+}

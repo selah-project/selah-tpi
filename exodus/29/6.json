@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tarara",
+      "rationale": "המצנפת — ofisel hetklos bilong hai pris; 'tarara' em i klos bilong het"
+    },
+    {
+      "kind": "crux",
+      "subject": "nezer",
+      "rationale": "נזר הקדש: 'kraun holi' o 'plen holi' — samting ol i setapim na ol i kapsaitim oil"
+    }
+  ],
+  "translation": "Na yu ken putim tarara long het bilong em, na yu ken putim ⟨את⟩ nezer holi long tarara.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/5-8.1792347908931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na yu ken putim"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tarara"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "het bilong em"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na yu ken putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer holi"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tarara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:08.931901223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעיר",
+      "rationale": "בעיר (qal participle) — 'taim yu kirap' (God i kirap, olsem kjv) o 'i kirapim' (olsem geneva 'raisest vs up'); tupela i stret long gramar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "piksa bilong ol",
+      "rationale": "צלם hia em i 'draem-piksa, samting i no stap tru', olsem jps 'semblance' — no pigi bilong ples."
+    }
+  ],
+  "translation": "Olsem draem taim man i kirap, Adonai, taim yu kirap, yu ken luk ol sem long piksa bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/17-20.1792358511954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "olsem draem"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "taim man i kirap"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "taim yu kirap"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "piksa bilong ol"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "yu ken luk ol sem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:51.955675160Z",
+  "model": "glm-5.3"
+}

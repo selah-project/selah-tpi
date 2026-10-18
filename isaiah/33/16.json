@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 33:16",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Hebrew participle ישכן has no future marker; Tok Pisin 'bai' supplied for the ongoing\/future dwelling."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples bilong salad",
+      "rationale": "משגב is 'high refuge\/lofty stronghold'; Tok Pisin 'ples bilong salad' (place of refuge) carries the function."
+    }
+  ],
+  "translation": "Em bai i stap antap long ol hai ples; ol banis bilong ston i stap olsem ples bilong salad long em; bret bilong em i givim, wara bilong em ol i stap tru oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f12debade60b3e698ef77330a54d88771ead2332aab941fe0fe3b3ca018757d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/33\/13-16.1792354261104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Em"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "antap long ol hai ples"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "מצדות",
+      "gloss": "ol banis"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "bilong ston"
+    },
+    {
+      "surface": "משגבו",
+      "gloss": "i stap olsem ples bilong salad long em"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "bret bilong em"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "wara bilong em"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ol i stap tru oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:01.105937998Z",
+  "model": "glm-5.3"
+}

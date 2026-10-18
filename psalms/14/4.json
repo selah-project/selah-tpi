@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "literally 'nothingness\/vanity'; rendered 'nating samting' to keep the emptiness rather than generic 'wickedness'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object pronoun after 'kaikai' to mark eating my people as bread."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא ידעו",
+      "rationale": "rhetorical question 'Do they not know?' vs statement 'They do not know'; rendered as rhetorical question."
+    }
+  ],
+  "translation": "Ol i no save olgeta, ol man i wokim nating samting? Ol kaikai bilong ol manmeri bilong mi, ol i kaikai ⟨em⟩ olsem bret; Yahwe ol i no singautim nem bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/14\/1-4.1792357926109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ol i no save olgeta"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ol man i wokim"
+    },
+    {
+      "surface": "און",
+      "gloss": "nating samting"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ol kaikai bilong"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol manmeri bilong mi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ol i no"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "singautim nem bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:06.111120590Z",
+  "model": "glm-5.3"
+}

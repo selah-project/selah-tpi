@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לשתות",
+      "rationale": "Hebrew says only 'to drink'; versions expand to 'banquet', which is implied not stated"
+    }
+  ],
+  "translation": "Na king na Haman i kam insait bilong dring wantaim Ester kwin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/7\/1-4.1792360967315.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i kam insait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "bilong dring"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kwin"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:47.315645688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Suffix -ו long כחו na ימי; Tok Pisin i nidim 'bilong mi' bilong min"
+    },
+    {
+      "kind": "crux",
+      "subject": "כחו",
+      "rationale": "Ol man i save rit olsem 'strong bilong mi' o 'strong bilong em'; mi bihainim KJV na JPS olsem 'bilong mi'"
+    }
+  ],
+  "translation": "Em i brukim strongpela bilong mi long rot, em i kotim olgeta de bilong laif bilong mi",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/102\/21-24.1792358886341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Em i brukim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "strongpela bilong mi"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "em i kotim"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "olgeta de bilong laif bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:06.342675891Z",
+  "model": "glm-5.3"
+}

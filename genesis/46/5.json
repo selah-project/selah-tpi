@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karia i wokabaut long roda",
+      "rationale": "עגלה em i wanpela karia we i gat ol roda — 'wagon'"
+    },
+    {
+      "kind": "elision",
+      "subject": "טף",
+      "rationale": "טף em i ol liklik pikinini bilong ol — mi tanim olsem 'ol pikinini bilong ol'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישאו\/לשאת",
+      "rationale": "tupela i wankain pasin bilong karim — ol i karim em long wanem Farao i salim long karim em"
+    }
+  ],
+  "translation": "Na Yakov i kirap long Beer-Seba, na ol pikinini bilong Yisrael i karim ⟨את⟩ Yakov papa bilong ol, wantaim ⟨את⟩ ol pikinini bilong ol na ⟨את⟩ ol meri bilong ol, long ol karia i wokabaut long roda we Farao i salim long bilong karim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e47c983c4eb51d7640ef212c3c15776fb3e06057dd58c066bcc033948f96da77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/46\/5-8.1792347244552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "long Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ol i karim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov papa bilong ol"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol pikinini bilong ol"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ol pikinini bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol meri bilong ol"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ol meri bilong ol"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "long ol karia i wokabaut long roda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "long bilong karim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:04.553150485Z",
+  "model": "glm-5.3"
+}

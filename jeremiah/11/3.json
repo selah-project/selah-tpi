@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 11:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ארור",
+      "rationale": "pasiv kors 'ol i krosim em \/ krus i stap long em'; Tok Pisin i no gat pasiv pasin stret, olsem mi usim 'krus bilong em i stap'"
+    },
+    {
+      "kind": "you",
+      "subject": "yu tokim ol",
+      "rationale": "tok i go long Yirmeyahu, na em i go long ol man bilong Yuda"
+    }
+  ],
+  "translation": "Na yu tokim ol: Olsem Yahwe, Elohim bilong Yisrael, i tok: Man i no harim ⟨את⟩ ol tok bilong dispela kontrak — krus bilong em i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/11\/1-4.1792355087864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na yu tokim"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "krus bilong em i stap"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok bilong dispela kontrak"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "bilong kontrak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:47.866170361Z",
+  "model": "glm-5.3"
+}

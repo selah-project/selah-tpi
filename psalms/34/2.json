@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברך",
+      "rationale": "Literal 'kneel\/bless' — Tok Pisin uses 'sakim gutpela tok long', an act of praes, kneeling lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hebrew cohortative singular implies 'I' without pronoun; Tok Pisin needs 'mi'."
+    }
+  ],
+  "translation": "Bai mi sakim gutpela tok long ⟨את⟩ Yahwe long olgeta taim; oltaim praes bilong em i stap long maun bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/1-4.1792358135314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Bai mi sakim gutpela tok long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "praes bilong em"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "long maun bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:35.315461534Z",
+  "model": "glm-5.3"
+}

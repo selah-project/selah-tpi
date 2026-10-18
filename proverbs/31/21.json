@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנים",
+      "rationale": "šanim 'kala rat \/ skarlet' vs šenayim 'tupela klos' (Wycliffe 'double clothis') — ol man i tantanim tok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "snou",
+      "rationale": "משלג — snou i mak bilong kol; hap tok 'bilong' i ken tok 'long taim bilong snou'."
+    }
+  ],
+  "translation": "Em i no pret long snou bilong haus bilong en, bilong olgeta man long haus bilong en i putim klos kala rat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/31\/21-24.1792359825531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pret"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "bilong haus bilong en"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "snou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man long"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "haus bilong en"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "putim klos"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kala rat"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:45.531859780Z",
+  "model": "glm-5.3"
+}

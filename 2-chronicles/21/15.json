@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yehoram",
+      "rationale": "Direct address continues: 'and you yourself'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלי\/מחלה",
+      "rationale": "Root חלה (sickness) three times in one verse; repetition kept with one Tok Pisin word sik."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ימים על ימים",
+      "rationale": "'days upon days' = day after day; rendered de wantaim de."
+    }
+  ],
+  "translation": "Na yu yet, yu gat planti sik — sik bilong bel insait bilong yu — inap long bel insait bilong yu i kamap ausait bilong dispela sik, de wantaim de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/21\/13-16.1792362592986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na yu yet"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "long sik"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "long sik bilong"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "bel insait bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "i kamap ausait"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "bel insait bilong yu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "sik"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:52.987222451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yea",
+      "rationale": "היאר em i nem bilong wanpela wara — wara Bilong Mitsrayim; Tok Pisin i no gat narapela nem, olsem 'yea' i go stap"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "i stap bilong wasim 'ol pis i stap long yea'"
+    }
+  ],
+  "translation": "Na ol pis i stap long wara bilong yea i dai, na wara bilong yea i smel nogut, na ol man Mitsrayim i no inap dringim wara long yea; na blut i stap long graun bilong Mitsrayim olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/7\/21-24.1792347382457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "Na ol pis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "long wara bilong yea"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "na i smel nogut"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wara bilong yea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "inap"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ol man Mitsrayim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "dringim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "yea"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:22.458277631Z",
+  "model": "glm-5.3"
+}

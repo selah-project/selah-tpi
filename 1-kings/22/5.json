@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Askim",
+      "rationale": "דרש i tok bilong 'tredim\/salim long', Tok Pisin i usim 'askim' long pasin bilong salim tok long God"
+    },
+    {
+      "kind": "addition",
+      "subject": "mi askim yu",
+      "rationale": "נא em i mak bilong polite; Tok Pisin i nidim tok 'mi askim yu'"
+    }
+  ],
+  "translation": "Na Yehoshafat i tok long king bilong Yisrael: Askim, mi askim yu, olsem tude, ⟨את⟩ tok bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/5-8.1792353273844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Askim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi askim yu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "olsem tude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:33.844739435Z",
+  "model": "glm-5.3"
+}

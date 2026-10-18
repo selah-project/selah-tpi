@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol wok bilong yu",
+      "rationale": "מעשיך 'ol wok' long hia em i ol kaikai bilong gaden; Tok Pisin i no gat narapela tok klia"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "בצאת השנה 'taim yia i lusim' — mi tok 'taim yia i pinis', pasin bilong Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalenda bilong fest",
+      "rationale": "ves i makim taim bilong tripela fest i go long kalendar bilong yia"
+    }
+  ],
+  "translation": "Na fest bilong kausilim: ol fes kaikai bilong wok bilong yu, we yu planim long gaden; na fest bilong olgem i go long hap, taim yia i pinis, taim yu gem ⟨את⟩ ol wok bilong yu long gaden.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/13-16.1792347777421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "na fest"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "bilong kausilim"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ol fes kaikai"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "bilong wok bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "yu planim"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "na fest"
+    },
+    {
+      "surface": "האסיף",
+      "gloss": "bilong olgem i go long hap"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "taim ... i pinis"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "taim yu gem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wok bilong yu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ol wok bilong yu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gaden"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:57.422512652Z",
+  "model": "glm-5.3"
+}

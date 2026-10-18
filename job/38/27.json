@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 38:27",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object pronoun; Hebrew leaves the land implicit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאה \/ משאה",
+      "rationale": "near-identical roots שואה\/משאה (devastation\/desolation) form a sound-pair, lost in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דשא",
+      "rationale": "tender grass\/sprout — rendered 'nupela gras', young grass"
+    }
+  ],
+  "translation": "Bihain em i fulimapim ⟨em⟩ long taim bilong bagarapim na ples i no gat wanpela man, na mekim ol nupela gras i kamap long ples ol i save pulum ⟨טל⟩ olgeta olgeta?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7281e1f309072947cac7d9bdbd53886bcd2fe9c3d4000d153391c349aee14226",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/38\/25-28.1792360372842.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשביע",
+      "gloss": "fulimapim gut"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "ples bilong wara i go we"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "na ples i bagarap olgeta"
+    },
+    {
+      "surface": "ולהצמיח",
+      "gloss": "na mekim i kamap"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ples we olgeta i kamap"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gras i nogat yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:52.843654719Z",
+  "model": "glm-5.3"
+}

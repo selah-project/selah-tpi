@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mak bilong miusik i stap — em i no tok, mi raitim 'Sela' tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oltaim",
+      "rationale": "עוד em i 'bihain tu \/ oltaim'; KJV 'still' na JPS 'ever' ol i no wankain."
+    }
+  ],
+  "translation": "Ol i gutpela tru, ol i stap long haus bilong yu; ol bai singsing praisim yu oltaim. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/84\/5-8.1792358776461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol i gutpela tru"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "long haus bilong yu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ol bai singsing praisim yu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:16.464166411Z",
+  "model": "glm-5.3"
+}

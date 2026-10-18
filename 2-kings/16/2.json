@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 16:2",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twentipela yia … tenpela yia",
+      "rationale": "Accession age and reign length, standard regnal formula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stret samting",
+      "rationale": "הישר is 'the straight (thing)'; Tok Pisin renders shape as 'stret'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "gloss note": "Hebrew 'son of twenty years' idiom expanded with possessive verb."
+    }
+  ],
+  "translation": "Akas i gat twentipela yia taim em i kamap king, na em i king raunetripela yia i go sikispela na tenpela yia long Yerusalayim; na em i no mekim ⟨את⟩ stret samting long ai bilong Yahwe, Elohim bilong en, olsem David papa bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/1-4.1792353627871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "i gat … yia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akas"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "taim em i kamap king"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sikis"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mekim"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨את⟩ stret samting"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim bilong en"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "olsem David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:27.872216689Z",
+  "model": "glm-5.3"
+}

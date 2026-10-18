@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "Hebrew demonstrative 'that' folded into 'dispela de'; rendered as nothing separately."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ananit bilong waindiwai na fig",
+      "rationale": "Hebrew 'under vine and fig tree' is an idiom for peace and security; rendered literally."
+    }
+  ],
+  "translation": "Long dispela de, Yahwe Tsebaot i tok, bai yupela ol i singautim wanwan man, poro bilong em, long ananit bilong waindiwai na long ananit bilong fig.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a48b11ca5fa10cdb704e4b4438d4a9de2af6df72587436249cb80321982d0faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/3\/9-10.1792357628794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "bai yupela ol i singautim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "poro bilong em"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit bilong"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "waindiwai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit bilong"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fig"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:08.795828669Z",
+  "model": "glm-5.3"
+}

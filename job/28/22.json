@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 28:22",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ai bilong",
+      "rationale": "long ples bilong אזנינו — Heb i tok 'long klaia bilong mifela miplitela harim'; Tok Pisin 'harim' i no nidim 'klaia', tasol ai (ai bilong hariap) em i gutpela klostu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ai bilong mifela",
+      "rationale": "אזנינו em i 'klaia' — Tok Pisin 'ai' i min ai tasol; klaia i 'ear'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Abadon na Dai",
+      "rationale": "Dai na Seol olgeta i no save husat ples sapra wisdim i stap — tok i hait"
+    }
+  ],
+  "translation": "Abadon na Dai ol i tok: Miplitela harim tok bilong en long ai bilong mifela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/28\/21-24.1792360166977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבדון",
+      "gloss": "Abadon"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "na Dai"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "long ai bilong mifela"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "miplitela harim"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tok bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:26.978444366Z",
+  "model": "glm-5.3"
+}

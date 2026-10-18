@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצונך",
+      "rationale": "'in thy good pleasure' vs 'for thy good pleasure' — Hebrew preposition ב ambiguous"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu ken",
+      "rationale": "Hebrew imperative lacks pronoun; Tok Pisin supplies yu ken"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Imperative prayer continuing direct address to God"
+    }
+  ],
+  "translation": "Yu ken mekim gutpela long ⟨את⟩ Tsiyon olsem laik bilong yu; yu ken bilim ol banis bilong Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/17-20.1792358312875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yu ken mekim gutpela"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "olsem laik bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "yu ken bilim"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ol banis"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:32.876847623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכפר בו",
+      "rationale": "'makes atonement with\/bymeans-of it' — rendered functionally as 'uses it to settle sin'; alternatives: 'covers' (literal kaphar)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "welim pekino",
+      "rationale": "Hebrew kafar 'cover\/expiate' has no single Tok Pisin equivalent; 'settle sin' chosen"
+    }
+  ],
+  "translation": "Olsem hatat ofring, olsem asam ofring — wanpela Tora bilong ol; pris we i usim ⟨em⟩ bilong welim pekino, em i bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/5-8.1792348276626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "Olsem hatat ofring"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "olsem asam ofring"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "wanpela Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "i usim bilong welim pekino"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wantaim ⟨em⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:16.626950620Z",
+  "model": "glm-5.3"
+}

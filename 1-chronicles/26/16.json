@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 26:16",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משמר לעמת משמר",
+      "rationale": "Hebrew repeats 'watch opposite watch' — the doubling is kept in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "במסלה העולה",
+      "gloss-paren": null,
+      "rationale": "'by the causeway of the ascent' — some read one paved road, others 'highway that goes up' to the palace; rendered 'long rot bilong go antap'."
+    }
+  ],
+  "translation": "Long Supim na long Hosa long sait bilong san i go daun, wantaim dua bilong Salleket, long rot bilong go antap — wok bilong lukaut i stap long sait bilong narapela wok bilong lukaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/26\/13-16.1792362184150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפים",
+      "gloss": "long Supim"
+    },
+    {
+      "surface": "ולחסה",
+      "gloss": "na long Hosa"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "long sait bilong san i go daun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dua bilong"
+    },
+    {
+      "surface": "שלכת",
+      "gloss": "Salleket"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "long rot bilong go antap"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "wok bilong lukaut"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "long sait bilong"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "narapela wok bilong lukaut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:04.151685159Z",
+  "model": "glm-5.3"
+}

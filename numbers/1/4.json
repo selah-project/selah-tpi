@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש ... איש",
+      "rationale": "Tupela-tupela 'man' i tanim tok — wanwan man, tok i ripitim pinis long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למטה",
+      "gloss": "mata — 'brans' bilong diwai, Tok Pisin 'lain', i no lost long klan tasol"
+    }
+  ],
+  "translation": "Na wantaim ⟨את⟩ yupela, ol i stap: wanwan man bilong wanwan lain, wanwan man i het bilong haus bilong papa bilong em — em yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/1\/1-4.1792348886481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "wantaim ⟨את⟩ yupela"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bilong wanwan lain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "i het bilong"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:41:26.482264048Z",
+  "model": "glm-5.3"
+}

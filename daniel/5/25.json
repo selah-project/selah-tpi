@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "writing on wall",
+      "rationale": "Sealed, unexplained words revealed only through interpretation in vv. 26–28."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנא\/תקל\/פרסין",
+      "rationale": "Each word is double-meaning: numbered\/weighed\/divided vs mina\/shekel\/peres (half-mina and 'Persia'), lost if transliterated."
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "gloss rationale": "Aramaic relative particle rendered by Tok Pisin predicate marker only."
+    }
+  ],
+  "translation": "Na dispela em i tok i raitim: MENE, MENE, TEKEL, UPARSIN.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/5\/25-28.1792361052919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "na dispela"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "tok i raitim"
+    },
+    {
+      "surface": "די",
+      "gloss": "i"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "raitim"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "na UPARSIN"
+    }
+  ],
+  "timestamp": "2026-10-18T22:04:12.920262241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i tanim olsem khesed, i no marimari tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stret bilong yu",
+      "rationale": "אמונה em i strongpela pasin bilong holim tok, mi usim 'stret bilong yu'"
+    }
+  ],
+  "translation": "Ol khesed bilong Yahwe, oltaim bai mi singaut; long wanwan grup bilong ol man na long olgeta mi autim ⟨i⟩ kamap stret bilong yu long maus bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/1-4.1792358804778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ol khesed bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi singaut"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "long wanwan grup bilong ol man"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na long olgeta grup"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "mi autim i kamap save"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "stret bilong yu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "long maus bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:44.779218615Z",
+  "model": "glm-5.3"
+}

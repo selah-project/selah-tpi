@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "sampela ol man i tok se ⟨את⟩ i stap namel long רצית יהוה, tasol mi putim ⟨את⟩ long graun bilong yu olsem wanpela mak bilong wanem samting i kisim wok"
+    },
+    {
+      "kind": "crux",
+      "subject": "shevut",
+      "rationale": "shavut i min olgeta exil o stat bilong bipo we i kamap bek; 'kalabus i kam bek' o 'ol i go bek long ples bilong bipo'"
+    }
+  ],
+  "translation": "Yahwe, yu save laikim ⟨את⟩ graun bilong yu, yu senisim ⟨את⟩ ol we i go long kalabus bilong Yakov i kam bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/85\/1-4.1792358758338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "yu save laikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "graun bilong yu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yu senisim i kam bek"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ol we i go long kalabus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T21:25:58.341666403Z",
+  "model": "glm-5.3"
+}

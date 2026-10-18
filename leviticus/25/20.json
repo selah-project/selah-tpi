@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "rhetorical question",
+      "rationale": "The anticipated question of the people, drawing the hearer into the Sabbatical-year dilemma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Luk",
+      "rationale": "הן is particle 'lo\/behold', Tok Pisin 'Luk'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "yia bilong seven",
+      "rationale": "Counting of the sabbatical year cycle"
+    }
+  ],
+  "translation": "Na sapos yupela i tok: Bai mipela i kaikai wanem long yia bilong seven? Luk, mipela i no ken plantim, na mipela i no ken kisim ⟨את⟩ kaikai bilong mipela!",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/25\/17-20.1792348785888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "yupela i tok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mipela i kaikai"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "long yia bilong"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Luk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "plantim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai bilong mipela"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "kaikai bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:45.889942222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sindaun",
+      "rationale": "ישבו 'to sit' rendered as continuing at rest; some versions say 'they continued'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela yia",
+      "rationale": "counting of three years without war"
+    }
+  ],
+  "translation": "Na ol i sindaun tripela yia, i no gat pait namel long Aram na namel long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/1-4.1792353258776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ol i sindaun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:18.776560767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 14:2",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Mose and Aharon",
+      "rationale": "Direct speech of the congregation addressed to Mose and Aharon."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לו מתנו",
+      "rationale": "Hebrew wish-form 'would that we had died'; rendered 'Lu, sapos mipela i dai'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לו ... לו מתנו",
+      "rationale": "Repeated wish-frame frames the double complaint; repetition kept."
+    }
+  ],
+  "translation": "Na kotpela pikinini bilong Yisrael i kotim tok long Mose na long Aharon, na olgeta lain i tok olsem long ol: Lu, sapos mipela i dai long graun bilong Mitsrayim, o long dispela wailbus! Lu, sapos mipela i dai!",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dedcc3676921b5bc0bcf2a59f83cbbebef32b168255c34a6199336aeeb9d4dfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/14\/1-4.1792349168672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "i kotim tok"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kotpela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Lu, sapos"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "mipela i dai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long wailbus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Lu, sapos"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "mipela i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T18:46:08.673108215Z",
+  "model": "glm-5.3"
+}

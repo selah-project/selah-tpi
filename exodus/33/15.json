@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim olgeta long ples bilong 'long em'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Mose i tok stret long Yahwe"
+    }
+  ],
+  "translation": "Na i tok long ⟨em⟩: Sapos pes bilong yu i no wokabaut i go, no ken kirapim mifela i go long hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/13-16.1792348067837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no stap"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pes bilong yu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "i wokabaut i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "kirapim mifela i go"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long hia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:47.838842691Z",
+  "model": "glm-5.3"
+}

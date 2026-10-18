@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "Doubled שלום — Hebrew intensifies by repetition ('peace, peace'); Tok Pisin keeps the doubling"
+    },
+    {
+      "kind": "crux",
+      "subject": "whose mind stayed on Thee",
+      "rationale": "יצר סמוך can be singular ('the mind supported') or construct plural ('those of steadfast purpose'); KJV singular vs YLT 'an imagination supported'"
+    }
+  ],
+  "translation": "Tingting i stap strong long yu — yu lukautim pis, pis — long wanem, ol i trust long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/1-4.1792354203826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "tingting"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "i stap strong"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "yu lukautim"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "trust"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:03.827201120Z",
+  "model": "glm-5.3"
+}

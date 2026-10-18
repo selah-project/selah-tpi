@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Hebrew suffix -ו on סוסו and רכבו supplies possession; Tok Pisin needs the phrase"
+    },
+    {
+      "kind": "addition",
+      "subject": "long",
+      "rationale": "preposition supplied for location, Hebrew construct פתח הבית binds directly"
+    }
+  ],
+  "translation": "Na Naaman i kamap wantaim ol hos bilong en na ol karia bilong en, na em i sanap long dua bilong haus bilong Elisa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0846c5869772eccb54377734627142943180bc7bc08afe99ab0c9e48f712baff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/5\/9-12.1792353330989.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "wantaim ol hos bilong en"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "na ol karia bilong en"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na em i sanap"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "long dua"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "bilong Elisa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:30.990361849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bulaitim",
+      "rationale": "השיאני (נשא) is literally 'caused-me-to-go-astray'; 'bulai' (deceive) is the nearest Tok Pisin idiom"
+    },
+    {
+      "kind": "you",
+      "subject": "to the woman",
+      "rationale": "Yahwe questions the woman directly"
+    }
+  ],
+  "translation": "Na Yahwe Elohim i tokim ⟨את⟩ meri: Wanem samting yu wokim? Na meri i tok: Snek i bulaitim mi, na mi kaikai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/13-16.1792346292393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "long meri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wanem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "samting"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "i bulaitim mi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na mi kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:12.393826186Z",
+  "model": "glm-5.3"
+}

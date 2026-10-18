@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ples wara",
+      "rationale": "עין em i 'ai', tasol long dispela konteks em i ples wara i kamap — 'fountain' o 'spring' long Inglis."
+    },
+    {
+      "kind": "addition",
+      "subject": "ples",
+      "rationale": "Tok Pisin i laikim wanpela tok bilong skelim 'ples wara'; Hibru i tok 'ai' tasol."
+    }
+  ],
+  "translation": "Na ol Pelishti ol i bungim ⟨את⟩ olgeta kami bilong ol long Apek, na Yisrael ol i kamp long ples wara we i stap long Yizreel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/29\/1-4.1792352057043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "bungim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kami bilong ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kami bilong ol"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "long Apek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "long ples wara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "long Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:17.043947505Z",
+  "model": "glm-5.3"
+}

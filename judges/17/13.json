@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלוי לכהן",
+      "rationale": "Micah assumes a Levite priest guarantees blessing — the narrative (Judges 17–18) presents this as syncretism, not endorsement."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Direct-object marker before הלוי; Tok Pisin needs no object marker so it appears only as ⟨את⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "save tumas",
+      "rationale": "ידעתי is simple 'I know'; 'save tumas' adds emphatic certainty the Hebrew carries only via עתה 'now'."
+    }
+  ],
+  "translation": "Na Mika i tok: Na nau mi save tumas bilong sef Yahwe bai i mekim gut long mi, bilong wanem ⟨את⟩ man Levai i kamap long mi long wok bilong pris.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8c22017b420d189d6425421c4bb4f22af68c9d2c1825a073287868a8a2776cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/17\/13-13.1792351328862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save tumas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "bai i mekim gut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "man Levai"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "long wok bilong pris"
+    }
+  ],
+  "timestamp": "2026-10-18T19:22:08.863578933Z",
+  "model": "glm-5.3"
+}

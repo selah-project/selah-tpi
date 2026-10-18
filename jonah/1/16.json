@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וייראו יראה",
+      "rationale": "Verb 'ירא' na nem 'יראה' i ritim wankain — pasin bilong repeatim, Tok Pisin i holim wantaim 'scare ... scare'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "scare",
+      "rationale": "יראה i min scare na bihainim respek wantaim — Tok Pisin 'scare gut tru' i holim tupela samting"
+    }
+  ],
+  "translation": "Na ol man i scare gut tru long Yahwe — traipela scare — na ol i kilim animal bilong ofa long Yahwe, na ol i givim ol promis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/1\/13-16.1792357364217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "na ol i scare gut tru"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "scare"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "traipela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "na ol i kilim animal bilong ofa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofa bilong kilim animal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "na ol i givim ol promis"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ol promis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:44.218657828Z",
+  "model": "glm-5.3"
+}

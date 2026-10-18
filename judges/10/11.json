@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i kamapim yu long",
+      "rationale": "Verb 'deliver' not in Hebrew text of this verse; supplied from context (spelled out in v.12)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Yahwe's rhetorical question addressed directly to the children of Israel"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "Negative rhetorical particle: 'Did I not...?' — question form must carry the entire verb"
+    }
+  ],
+  "translation": "Na Yahwe i tok long ol pikinini bilong Yisrael: Ol i no kamapim yu long ⟨em⟩ bilong Mitsrayim, na bilong ol Amori, na bilong ol pikinini bilong Amon, na bilong ol Pilisiti?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/10\/9-12.1792351140551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na bilong"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ol Amori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na bilong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pilisiti"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:00.552258692Z",
+  "model": "glm-5.3"
+}

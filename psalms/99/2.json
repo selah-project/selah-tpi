@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i larim prediket marker, Hebrew i no gat kopula."
+    }
+  ],
+  "translation": "Yahwe i bikpela man long Tsiyon, na em i antap long olgeta manmeri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/99\/1-4.1792358893404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "i bikpela man"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "na em i antap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:13.405254185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kilim man",
+      "rationale": "להרוג is 'slay with deadly intent'; 'kilim man' names the object English leaves implicit"
+    }
+  ],
+  "translation": "Taim long kilim man, na taim long mekim orait; taim long brukim daun, na taim long bilip.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/3\/1-4.1792360723488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "long kilim man"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "long mekim orait"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "long brukim daun"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long bilip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:43.489336649Z",
+  "model": "glm-5.3"
+}

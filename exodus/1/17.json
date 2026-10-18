@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הילדים",
+      "rationale": "Hebrew 'the lads\/children' — KJV adds 'men-children'; rendering as ol pikinini bulmakau"
+    },
+    {
+      "kind": "addition",
+      "subject": "i go lip",
+      "rationale": "Hebrew causative 'keep alive' expanded with Tok Pisin idiom"
+    },
+    {
+      "kind": "you",
+      "subject": "king bilong Mitsrayim",
+      "rationale": "king's command addressed to the midwives indirect here via אליהן"
+    }
+  ],
+  "translation": "Na ol meri bilong helpim karim pikinini ol i bikpela long ⟨את⟩ Elohim, na ol i no wokim olsem king bilong Mitsrayim i tokim ⟨ol⟩, tasol ol i livim ⟨את⟩ ol pikinini bulmakau i go lip.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/17-20.1792347340814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "ol i bikpela long"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ol meri bilong helpim karim pikinini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "long ⟨ol⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "tasol ol i livim ol pikinini bulmakau i go lip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bulmakau"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ol pikinini bulmakau"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:40.815193012Z",
+  "model": "glm-5.3"
+}

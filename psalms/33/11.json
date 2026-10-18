@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב long Tok Pisin i kamap bel — tingting na laik, i no hat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "Repitisen bilong wanpela tok — gesnesen i go wantaim gesnesen — strong tok bilong taim i no pinis."
+    }
+  ],
+  "translation": "Plan bilong Yahwe i sanap oltaim; ol tingting bilong bel bilong en, i go long ol gesnesen na gesnesen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/9-12.1792358107551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Plan bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ol tingting bilong"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i go long ol gesnesen"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na gesnesen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:07.552334767Z",
+  "model": "glm-5.3"
+}

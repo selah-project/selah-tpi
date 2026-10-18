@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tebol",
+      "rationale": "לוח is a polished tablet; 'tebol' (table\/board) is nearest TPI shape for a flat inscribed slab."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "subject pronoun supplied — Hebrew verb only implies the giver (Yahwe from context)."
+    },
+    {
+      "kind": "crux",
+      "subject": "pinga bilong Elohim",
+      "rationale": "'finger of God' — literal body part vs idiom for divine power; kept literal."
+    }
+  ],
+  "translation": "Na taim em i pinisim tok long ⟨את⟩ Mose long maunten Sinay, em i givim long Mose tupela tebol bilong tesimoni, tebol bilong ston, ol i raitsim wantaim pinga bilong Elohim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0f8ad6a11f7c2f987950f19a3404b0a212673d186b2dd5fde73572986c11d585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/17-18.1792348013494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na em i givim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "taim em i pinisim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "long ⟨את⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bilong tesimoni"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bilong ston"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ol i raitsim"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "wantaim pinga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bilong Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:53.495752291Z",
+  "model": "glm-5.3"
+}

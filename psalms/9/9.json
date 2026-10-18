@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק i stap olsem tok Hibru; Tok Pisin i no gat wanpela tok — mi holim nem tsedek olsem D2 i tok."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישפט\/ידין",
+      "rationale": "Tupela tok bilong skelim i kam wanem taim — liklik paralelizim, i lus liklik long Tok Pisin."
+    }
+  ],
+  "translation": "Na em i save skelim ⟨את⟩ graun long tsedek, em i kot long ol manmeri long pasin stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/9-12.1792357898585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "save skelim"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "graun"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "long tsedek"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "kot"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "long ol manmeri"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "long pasin stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:38.587386282Z",
+  "model": "glm-5.3"
+}

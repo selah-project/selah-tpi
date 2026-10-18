@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Second-person address continues Eliphaz's rhetorical questions"
+    },
+    {
+      "kind": "crux",
+      "subject": "החפץ",
+      "rationale": "'delight\/pleasure' (KJV, YLT) vs 'advantage' (JPS) — whether God takes pleasure in or gains from Job's righteousness"
+    }
+  ],
+  "translation": "Olsem wanem Sadai i gat hamamas, sapos yu stret? O em i kisim win, sapos yu wokim ol rot bilong yu i kamap olgeta stret?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/22\/1-4.1792360147480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "i gat hamamas"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "long Sadai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "yu stret"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kisim win"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "yu wokim … i kamap olgeta stret"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ol rot bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:07.481014755Z",
+  "model": "glm-5.3"
+}

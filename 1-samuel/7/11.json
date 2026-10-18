@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתחת לבית כר",
+      "rationale": "'below Bet-Kar' (KJV\/ASV\/JPS) vs 'the place of Beth-Car' (YLT reads מתחת differently)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית כר",
+      "rationale": "Bet-Kar kept as place-name; literally 'haus bilong kar' (house of the lamb\/pasture)."
+    }
+  ],
+  "translation": "Na ol man bilong Yisrael i go aut long Mitzpa, na ol i bihainim ⟨את⟩ ol Filisti, na ol i paitim ol i go inhit i kamap daunbilo long Bet-Kar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/7\/9-12.1792351536303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "i go aut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "i bihainim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Filisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Filisti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "i paitim ol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inhit"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "i kamap daunbilo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:36.305200046Z",
+  "model": "glm-5.3"
+}

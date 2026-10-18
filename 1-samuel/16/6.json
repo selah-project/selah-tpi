@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hibru i no gat copula; tpi i needim"
+    },
+    {
+      "kind": "crux",
+      "subject": "Masiak bilong en i stap long ai bilong Yahwe",
+      "rationale": "נגד יהוה משיחו: 'Masiak bilong en i stap long ai bilong Yahwe' o 'bilumbilum, long ai bilong Yahwe i stap Masiak bilong en' — wok long mak"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משיחו",
+      "rationale": "משיח long ples bilong king: 'man ol i kapsaitim oil long em' — tok 'Masiak' i holim nois bilong Hibru"
+    }
+  ],
+  "translation": "Na taim ol i kamap insait, em i lukim ⟨את⟩ Eliab, na em i tok: Tru, Masiak bilong en i stap long ai bilong Yahwe ⟨i stap⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/16\/5-8.1792351724080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "taim ol i kamap insait"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "em i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiak bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:44.081650285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף\/לכד",
+      "rationale": "Prey and capture paired across the two questions; chain of cause-and-effect riddles, lost in Tok Pisin."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בלתי אם",
+      "rationale": "Double negative rendered as single 'sapos … no' conditional."
+    }
+  ],
+  "translation": "Bai laion i singaut nogut long bus, taim em i no gat kaikai? Bai yangpela laion i givim singaut bilong em long haus bilong en, sapos em i no kelim samting?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/3\/1-4.1792357191273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "bai i singaut nogut"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "laion"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "long bus"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "na kaikai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "bai i givim"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "yangpela laion"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "singaut bilong en"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "long haus bilong en"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i no"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "kelim samting"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:51.274355346Z",
+  "model": "glm-5.3"
+}

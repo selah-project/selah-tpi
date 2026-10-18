@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קרב אליך",
+      "rationale": "Hebrew idiom 'come near to yourself' = 'stand apart, keep away'; rendered 'kam klostu long yu yet'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדשתיך",
+      "rationale": "'I have pronounced\/sanctified you' — KJV takes it as 'I am holier than thou', YLT as 'I have declared thee unholy'; literal pi'el is 'I have set-you-apart-as-holy (for myself)'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Literally 'nose\/nostril', idiom for anger; rendered literally 'nek bilong mi' to keep the picture."
+    }
+  ],
+  "translation": "Ol i tok: Kam klostu long yu yet, no ken kam nau long mi, bilong mi bin mekim yu holi. Ol dispela i smok long nek bilong mi, paia i kukim olgeta DE.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/65\/5-8.1792354873259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kam klostu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "kam nau"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "mi bin mekim yu holi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "smok"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "long nek bilong mi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "יקדת",
+      "gloss": "i kukim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "DE"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:13.260152128Z",
+  "model": "glm-5.3"
+}

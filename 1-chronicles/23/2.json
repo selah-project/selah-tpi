@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hebrew lists with simple waw; Tok Pisin joins with 'wantaim' to avoid repeating 'na'."
+    }
+  ],
+  "translation": "Na em i kolektem ⟨את⟩ olgeta ol bikman bilong Yisrael, wantaim ol pris na ol man Levi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/23\/1-4.1792362176824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Na em i kolektem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol bikman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol bikman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "wantaim ol pris"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ol man Levi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:56.825422887Z",
+  "model": "glm-5.3"
+}

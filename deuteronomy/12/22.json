@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i needim objekt pronoun; Hibru i stap long ending -נו long tok kaikai"
+    },
+    {
+      "kind": "you",
+      "subject": "long Yisrael",
+      "rationale": "Lo i tok stret long man Yisrael"
+    }
+  ],
+  "translation": "Tasol olsem ol i kaikai ⟨את⟩ dia na ⟨את⟩ wail dia olsem na yu ken kaikai ⟨em⟩; man i no klia na man i klia, tupela i ken kaikai ⟨em⟩ wantaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/12\/21-24.1792349981476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "wail dia"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wail dia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "yu ken kaikai"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "man i no klia"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "na man i klia"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tupela i wantaim"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "i ken kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:41.477413815Z",
+  "model": "glm-5.3"
+}

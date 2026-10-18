@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela",
+      "rationale": "שלום em i tok bilong peis — 'olgeta i stap gutpela', i no wanpela tok tasol long tpi"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "em i preposen 'wantaim', tpi i gat ⟨את⟩ wantaim em bilong holim pasin"
+    }
+  ],
+  "translation": "Na em i tok: Olgeta i stap gutpela; mi kam bilong givim ofa long Yahwe; yupela i ken mekim holipela, na yupela i kam wantaim ⟨את⟩ mi long ofa. Na em i mekim holi ⟨את⟩ Yisai na ⟨את⟩ ol pikinini bilong em, na em i singautim ol i kam long ofa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/16\/5-8.1792351724080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "olgeta i stap gutpela"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "bilong ofa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mi kam"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "yupela i ken mekim holi"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "na yupela i kam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "long ofa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "na em i mekim holi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol pikinini bilong em"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini bilong em"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na em i singautim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "long ofa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:44.081459952Z",
+  "model": "glm-5.3"
+}

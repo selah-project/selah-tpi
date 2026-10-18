@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Hibru i no gat sabjek long תצמיח — graun (v17) em i wokim kamap ol nil; Tok Pisin i nidim sabjek."
+    },
+    {
+      "kind": "crux",
+      "subject": "דרדר",
+      "rationale": "Dardar — ol man i tambuim long mining: 'dadeljon', 'spiki gras', o 'ol kain ol nil'."
+    }
+  ],
+  "translation": "Em bai wokim kamap nil na spiki gras long yu, na yu bai kaikai ⟨את⟩ ol gras bilong gaden.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/17-20.1792346284285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Na nil"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "na spiki gras"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "bai wokim kamap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "na yu bai kaikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol gras bilong gaden"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ol gras"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bilong gaden"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:04.286641161Z",
+  "model": "glm-5.3"
+}

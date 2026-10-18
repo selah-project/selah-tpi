@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nois",
+      "rationale": "קול is 'voice\/sound'; versions specify 'bleating\/lowing' — Hebrew keeps the bare word"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin progressive needs pronoun; Hebrew participle שֹׁמֵעַ carries it alone"
+    }
+  ],
+  "translation": "Na Shemuel i tok: Na wanem dispela nois bilong ol sipsip na meme long ai bilong mi, na nois bilong ol bulmakau, we mi ⟨em⟩ save harim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/13-16.1792351757291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "long ai bilong mi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na nois"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ol bulmakau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "save harim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:17.292147019Z",
+  "model": "glm-5.3"
+}

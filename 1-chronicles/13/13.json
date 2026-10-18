@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i salim ⟨i⟩ go",
+      "rationale": "Tok Pisin i nidim help tok bilong salim man i go, Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokis",
+      "rationale": "ארון em i bokis — ol i tanim olsem 'ark' tasol wan bilong lo i holim mak bilong bokis"
+    }
+  ],
+  "translation": "Na David i no karim ⟨את⟩ bokis i go long em, long taun bilong David, tasol em i salim ⟨i⟩ go long haus bilong Oved-Edom, man bilong Gat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/13\/13-14.1792361985219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ... i no"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "karim i go"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokis"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "tasol em i salim i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "man bilong Gat"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:45.219642490Z",
+  "model": "glm-5.3"
+}

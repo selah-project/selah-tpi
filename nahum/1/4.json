@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמלל ... אמלל",
+      "rationale": "Inklusio: 'i malula' i opim na i pasim ves — repitisen i strongim tok."
+    },
+    {
+      "kind": "elision",
+      "subject": "וכרמל",
+      "rationale": "Verb 'i malula' i no rapit long Karmel long Hebru; Tok Pisin i pilim em long ves."
+    }
+  ],
+  "translation": "Em i tok strong long solwara, na em i draim ⟨את⟩ em, na em i draim olgeta ol wara: Bashan i malula, na Karmel, na plawa bilong Lebanon i malula tu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/1\/1-4.1792357508753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "i tok strong long"
+    },
+    {
+      "surface": "בים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "na em i draim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ol wara"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "i draim olgeta"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "i malula"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "na plawa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "bilong Lebanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "i malula tu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:08.754654681Z",
+  "model": "glm-5.3"
+}

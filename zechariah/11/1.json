@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Lebanon",
+      "rationale": "Verse opens with direct imperative address to Lebanon personified."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikaiim",
+      "rationale": "תאכל 'eat' rendered as kaikaiim; fire 'eats' the cedars, same picture kept."
+    }
+  ],
+  "translation": "Libanon, opim ol dua bilong yu, na paia bai kaikaiim ol sedar bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/11\/1-4.1792357719382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "opim"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ol dua bilong yu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na bai kaikaiim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ol sedar bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:39.383001613Z",
+  "model": "glm-5.3"
+}

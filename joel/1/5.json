@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the drunkards",
+      "rationale": "Verse opens with imperatives kirap\/krai\/singaut addressing wine-drinkers directly."
+    },
+    {
+      "kind": "crux",
+      "subject": "עסיס",
+      "rationale": "'New\/sweet wine (fresh must)' vs 'juice'; rendered literally as fresh-pressed grape wine."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נכרת",
+      "rationale": "Literally 'cut off' (כרת), kept as katim i go ausait rather than 'destroyed'."
+    }
+  ],
+  "translation": "Kirap, ol man i dring, na krai, na singaut olgeta man i save dring wain, long swit wain bilong brein grap, bikos em i katim i go ausait long maus bilong yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/1\/5-8.1792357094319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "ol man i dring"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "na krai"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "na singaut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "man i save dring"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "swit wain bilong brein grap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "i katim i go ausait"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "long maus bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:14.320677151Z",
+  "model": "glm-5.3"
+}

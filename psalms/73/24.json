@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "kabod — 'glori\/traipela nem' o 'ol man i lukim yu gutpela'; ol tanim tok i tok 'receive me to glory'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "soim rot long mi",
+      "rationale": "נחה em i ritim man i go long rot — 'guide'; Tok Pisin 'soim rot'"
+    }
+  ],
+  "translation": "Witim tok bilong yu yu soim rot long mi, na bihain yu kisim mi long kabod.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/21-24.1792358507039.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "witim tok bilong yu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yu soim rot long mi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na bihain"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "yu kisim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:47.040739978Z",
+  "model": "glm-5.3"
+}

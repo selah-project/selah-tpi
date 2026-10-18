@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי כבוד \/ גלה כבוד",
+      "rationale": "Nem Ikavod (ai = nogat, kavod = glori) i pairap long tok bilong em yet: 'glori i lus' — tok i pairap namel long nem na tok, em i lus long Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד em i 'wetpela\/hevi bilong nem', mi usim 'glori' — wanpela tok bilong Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Hibru i no tok umi bilong הלקח; Tok Pisin i mas gat man i wokim wok."
+    }
+  ],
+  "translation": "Na em i singautim liklik boi, Ikavod, i tok: Glori i lus long Yisrael, bilong ol i tekim ⟨את⟩ bokis bilong Elohim, na bilong hamablona bilong em na bilong man bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/4\/21-22.1792351514904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "em i singautim"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "liklik boi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "i lus"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "ol i tekim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na bilong"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "hamablona bilong em"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "na bilong man bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:14.904836718Z",
+  "model": "glm-5.3"
+}

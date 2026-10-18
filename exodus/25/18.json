@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kerub",
+      "rationale": "כרוב i wanpela samting bilong heven, hap tok 'kerub' i holim nois bilong Hibru."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מקשה",
+      "rationale": "Miksha — wok bilong betim gol — i tok insait long Tora tasol, hia long stori bilong Tabernakel."
+    }
+  ],
+  "translation": "Na yu wokim tupela kerub bilong gol; wok bilong betim ⟨את⟩ ol sapos yu wokim, long tupela hapsait bilong ⟨את⟩ Kaporot.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/17-20.1792347885369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "wok bilong betim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "משני",
+      "gloss": "long tupela"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "hapsait"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporot"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:45.370523244Z",
+  "model": "glm-5.3"
+}

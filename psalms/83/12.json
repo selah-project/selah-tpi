@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Orev\/Ze'ev",
+      "rationale": "Orev = 'blakpela pisin kotkot', Ze'ev = 'wail dok' — nem bilong ol enem i olsem ol animal; piksa i lost long Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "ol lida",
+      "rationale": "נסיך bilong 'ol i kapsaitim' (wail ol \/ ofa) — 'prince' vs 'ol man ol i smelim olgeta'; mi usim 'lida' long ples bilong prince."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Imperativ 'Putim' i sans i go stret long God."
+    }
+  ],
+  "translation": "Putim ol bikman bilong ol olsem Orev na olsem Ze'ev, na olsem Zevak na olsem Tsalmona — olgeta ol lida bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/9-12.1792358586753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Putim"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ol bikman bilong ol"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "olsem Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "na olsem Ze'ev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "na olsem Zevak"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "na olsem Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "ol lida bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:06.754904071Z",
+  "model": "glm-5.3"
+}

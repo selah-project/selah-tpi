@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mesinja",
+      "rationale": "מלאך em i 'man i karim tok'; 'enjel' i tok bilong Nupela Testamen tradisen"
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Tok Pisin i makim as bilong wok; Hibru i no gat"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mesinja",
+      "rationale": "wanem man em i — ves 21 i tok Nem bilong Yahwe i stap long em — teks i no klia"
+    }
+  ],
+  "translation": "Lukim, mi salim wanpela mesinja i go pastaim long yu, bilong lukautim yu long rot, na bilong bringim yu i kamap long ples we mi bin redim pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/17-20.1792347787207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "wanpela mesinja"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i go pastaim long yu"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "bilong lukautim yu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "na bilong bringim yu i kamap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "mi bin redim pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:07.208563846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל בני",
+      "rationale": "Deprecative 'not, my sons' — rendered 'Sotpela' (stop it) as Tok Pisin appeal."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעברים",
+      "rationale": "Participle 'making cross over \/ causing to transgress' — KJV 'ye make transgress' vs JPS reading the report spreads among the people."
+    },
+    {
+      "kind": "you",
+      "subject": "Eli i tokim ol pikinini man bilong en",
+      "rationale": "Direct address continues from v23."
+    }
+  ],
+  "translation": "Sotpela, ol pikinini man bilong mi; long wanem, tok i no gutpela we mi harim — yu ol i makim ol man bilong Yahwe i go long senis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/21-24.1792351482089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Sotpela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "tok i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "i makim i go long senis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:42.091789663Z",
+  "model": "glm-5.3"
+}

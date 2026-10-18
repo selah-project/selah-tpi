@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Tok Pisin needs possessive pronoun; Hebrew has suffix on אביו\/אמו"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol bai kamap wanpela mit",
+      "rationale": "והיו לבשר אחד: 'they shall become one flesh' vs 'they are one flesh' — Hebrew perfect\/yiqtol nuance debated"
+    }
+  ],
+  "translation": "Olsem, man i ken lusim ⟨את⟩ papa bilong en na ⟨את⟩ mama bilong en, na em i ken glas wantaim meri bilong en, na ol bai kamap wanpela mit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "524e277092e370b5583c2848126361d10107473a0ee369d0ba0d2dc81547063a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/2\/24-24.1792362890904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "i ken lusim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa bilong en"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mama bilong en"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong en"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "na i ken holim strong"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "long meri bilong en"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na ol bai kamap"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "wanpela mit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:50.905410664Z",
+  "model": "glm-5.3"
+}

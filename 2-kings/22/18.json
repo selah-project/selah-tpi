@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "השלח i relative clause; Tok Pisin i nidim 'man i salim yupela'"
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Yahwe i tokim ol man i go (Hilkia na ol) long king Yoshia"
+    }
+  ],
+  "translation": "Na long king bilong Yuda, man i salim yupela long go painimaut long ⟨את⟩ Yahwe, olsem yupela tokim em: Olsem Yahwe i tok, Elohim bilong Yisrael: Long ol tok yu bin harim —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca5f028645c9c6ffd15751090d2719cc9c6f1b2ae52bafec4a1b908ceb659e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/22\/17-20.1792353756856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "man i salim yupela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "long go painimaut long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "yupela tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "em"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yu bin harim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:02:36.858133720Z",
+  "model": "glm-5.3"
+}

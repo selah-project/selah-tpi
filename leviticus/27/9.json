@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "korban",
+      "rationale": "קרבן i tapim 'samting ol i bringim klostu long altar' — mi holim nem Hibru long ples bilong senisim"
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hebrew i no gat man i givim; TPI i nidim man bilong givim"
+    }
+  ],
+  "translation": "Na sapos em i wanpela bilong ol animal bilong lukautim, we ol i ken bringim korban long Yahwe, olgeta samting we man i givim long Yahwe, em i kamap holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/27\/9-12.1792348868062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "wanpela bilong ol animal bilong lukautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ol i ken bringim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "man i givim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:41:08.062846923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אבירי",
+      "rationale": "Strong's gloss range angel\/chief\/mighty one; context of bulls points to strong bulls, not 'ol strongpela man'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כתרוני",
+      "rationale": "כתר can mean crown (friendly) or besiege (hostile); hostile sense chosen here"
+    }
+  ],
+  "translation": "Planti bulmakau man ol i pasim mi raun; ol strongpela bulmakau man bilong Bashan ol i pasim mi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/13-16.1792358001427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "ol i pasim mi raun"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ol bulmakau man"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ol strongpela bulmakau man"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bilong Bashan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "ol i pasim mi olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:21.428197728Z",
+  "model": "glm-5.3"
+}

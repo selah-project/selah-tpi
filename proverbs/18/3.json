@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבוא ... בא",
+      "rationale": "Repetition of the verb 'come' — when the wicked comes, contempt comes; the echo is kept with 'i kam insait \/ i kam'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tok bilong bagarapim nem",
+      "rationale": "חרפה is a single noun (taunt\/reproach); Tok Pisin needs a phrase."
+    }
+  ],
+  "translation": "Taim man nogut i kam insait, lukdaun i kam tu; wantaim sem, tok bilong bagarapim nem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/18\/1-4.1792359614918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "taim ... i kam insait"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "lukdaun"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sem"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tok bilong bagarapim nem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:14.919021753Z",
+  "model": "glm-5.3"
+}

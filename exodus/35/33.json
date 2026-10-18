@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למלאת",
+      "rationale": "Strong's gloss 'to fill\/set' → 'pasim i go insait' (setting stones); KJV 'to set them'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew omits object pronoun; added to clarify what is set in"
+    }
+  ],
+  "translation": "Na long wok bilong katim ston bilong pasim ⟨em⟩ i go insait, na long wok bilong katim diwai, bilong wokim olgeta kain wok bilong tingting i stret.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bb4a99d5954529826d07146f45b3b90841895a8d76874d64a185a3cd67146b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/35\/33-35.1792348121652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "long wok bilong katim"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "bilong pasim ⟨em⟩ i go insait"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "long wok bilong katim"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "olgeta kain"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wok"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "bilong tingting i stret"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:41.653051453Z",
+  "model": "glm-5.3"
+}

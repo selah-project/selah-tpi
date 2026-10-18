@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרעם \/ ולזרותם",
+      "rationale": "seed (zera) and scatter (zarah) share the z-r root, a paronomasia lost in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bilong ol",
+      "rationale": "זרע seed, rendered as descendants per the glossary's 'pikinini' for human seed"
+    }
+  ],
+  "translation": "Na bilong pundaunim ol pikinini bilong ol namel long ol lain bilong ol araman, na bilong skreim ol olgeta long ol graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/25-28.1792358989721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "Na bilong pundaunim"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ol pikinini bilong ol"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "namel long ol lain bilong ol araman"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "Na bilong skreim ol olgeta"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "long ol graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:49.724664252Z",
+  "model": "glm-5.3"
+}

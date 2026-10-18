@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Em⟩",
+      "rationale": "Participle המשלח i no gat subjek; Em i point long Elohim long ves 104:2–3"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wokabaut",
+      "rationale": "הלך 'wokabaut' i tok long wata — Tok Pisin 'flou' o 'ran' i gutpela moa, tasol wokabaut i holim sipela piksa"
+    }
+  ],
+  "translation": "⟨Em⟩ i salim ol spring wata long ol vali; ol i wokabaut namel long ol maunten.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/9-12.1792358892333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ol spring wata"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "long ol vali"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ol i wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:12.334842613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "karim away",
+      "rationale": "נשא עון literally 'lift\/carry iniquity' = to forgive; Tok Pisin keeps the carrying picture"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker rendered as the name Sela, not translated"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי...חטאתי",
+      "rationale": "The verse opens and closes on the same word 'my sin', an envelope structure"
+    }
+  ],
+  "translation": "Senis bilong mi mi tokim yu long en, na pela fes bilong mi mi no haitim. Mi tok: Bai mi autim pela fes bilong mi long Yahwe; na yu — yu karim away pela fes bilong senis bilong mi. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/32\/5-8.1792358154751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "senis bilong mi"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "mi tokim yu long en"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "na pela fes bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "mi haitim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "bai mi autim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pela fes bilong mi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "yu karim away"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pela fes"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bilong senis bilong mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:54.752550058Z",
+  "model": "glm-5.3"
+}

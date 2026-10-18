@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בענני",
+      "rationale": "lemma i tok 'practise magic' tasol long hia em i min 'taim mi salim\/bringim klaut' — mak bilong klaut (ענן) wantaim pronom-suffix"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Niphal (ונראתה) em i passive — 'ana i lukim', Tok Pisin i nidim 'ol bai lukim'"
+    }
+  ],
+  "translation": "Na taim mi bringim klaut antap long graun, ana bai i kamap long klaut na ol bai lukim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/9\/13-16.1792346364750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na taim i kamap"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "taim mi bringim"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "na ol bai lukim"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "long klaut"
+    }
+  ],
+  "timestamp": "2026-10-18T17:59:24.751749134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i no gat wanpela",
+      "rationale": "Hibru i gat אין tasol; Tok Pisin i nidim wanpela samting bilong tupela hap."
+    },
+    {
+      "kind": "you",
+      "subject": "David i tokim Yahwe",
+      "rationale": "Tok bilong praiz i go stret long Nem bilong God."
+    }
+  ],
+  "translation": "Yahwe, i no gat wanpela olsem yu, na i no gat narapela Elohim skru long yu, long olgeta samting mipela i harim long au bilong mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/17\/17-20.1792362098923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat wanpela"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "olsem yu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "skru long yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "mipela i harim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "long au bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:38.924231087Z",
+  "model": "glm-5.3"
+}

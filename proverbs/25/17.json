@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mekim hat bilong kisim",
+      "rationale": "הוקר em i 'mekim i gat wel' — ol tanim i 'rausim leg' o 'i hat long kisim'; piksa em i namba, i no wokabaut"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ful long lukim yu",
+      "rationale": "ישבעך em i 'fulim yu antap' — wankain olsem hani long ves 16, man i pilim olgeta antap long yu"
+    }
+  ],
+  "translation": "Mekim ⟨i⟩ hat bilong kisim leg bilong yu long haus bilong wantok bilong yu, less em i ful long lukim yu na kamap birua long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/17-20.1792359730745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "mekim hat bilong kisim"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "leg bilong yu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wantok bilong yu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "less"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "ful long lukim yu"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "kamap birua long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:10.745699494Z",
+  "model": "glm-5.3"
+}

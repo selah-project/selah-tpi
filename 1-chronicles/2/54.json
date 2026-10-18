@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני",
+      "gloss": "pikinini",
+      "rationale": "bene here means 'descendants\/clans of', not literal sons"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחצי המנחתי",
+      "rationale": "'half of the Manahathites' vs 'Half-Manahathite' as a clan name; KJV reads 'half of the Manahethites'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המנחתי",
+      "rationale": "gentilic form occurs only here in the Tanakh"
+    }
+  ],
+  "translation": "Ol pikinini bilong Salma: Betlekem, na ol Netofati, Atrot Bet Yoav, na hap bilong ol Manati, ol Tsorei.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ea9bac74114d342872eeb0e2dcf90e220b9d4e212f7fac5ee18a9d9d87c986cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/2\/53-55.1792361822965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekem"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "na ol Netofati"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na hap bilong"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "ol Manati"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "ol Tsorei"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:02.966244084Z",
+  "model": "glm-5.3"
+}

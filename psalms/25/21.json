@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stret pasin olgeta",
+      "rationale": "תם em i 'olgeta i stap, no gat samting i lus o i rong' — Tok Pisin i no gat wanpela tok stret, olsem mi usim tupela tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "תם וישר i tupela samting, olsem na Tok Pisin i lainim ol — Hibru i no gat namba plural"
+    }
+  ],
+  "translation": "Stret pasin olgeta na stret ol i lukautim mi, bilong mi wet long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/25\/21-22.1792358036797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "stret pasin olgeta"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "stret"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ol i lukautim mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "mi wet long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:56.798241135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדוך",
+      "rationale": "'Visited\/sought you' (KJV) vs 'missed you' (ylt reads פקד as fail); this rendering takes the 'sought' reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prea long voes liklik",
+      "rationale": "לחש is literally a whisper or murmur; 'quiet prayer' keeps the hushed sound."
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Poetic particle with no standalone meaning; elided."
+    }
+  ],
+  "translation": "Yahwe, long taim bilong trabl, ol i painim yu; taim yu skelim ol, ol i was save tokim yu prea long voes liklik ⟨long taim bilong pen⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c8512c49ee02a185f656082b6bd9cee00fcfe6d5fc685c08d9e8e727d2d1a8cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/15-16.1792363202725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "long taim bilong trabl"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ol i painim yu"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "ol i was save tokim yu"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "prea long voes liklik"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "taim yu skelim ol ⟨long taim bilong pen⟩"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:02.725601380Z",
+  "model": "glm-5.3"
+}

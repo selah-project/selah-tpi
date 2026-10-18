@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "birua",
+      "rationale": "שנא em i tok bilong les long\/birua; birua i holim strongpela tingting nogut"
+    },
+    {
+      "kind": "addition",
+      "subject": "save",
+      "rationale": "Tok Pisin i laikim save long pasin i wok long taim olgeta, Hibru i no gat em"
+    }
+  ],
+  "translation": "Mi birua long ol kalabalim bilong ol man i wokim bagarap, na mi no save sidaun wantaim ol man nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/26\/5-8.1792358053303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mi birua long"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ol kalabalim"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ol man i wokim bagarap"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "save sidaun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:13.304187711Z",
+  "model": "glm-5.3"
+}

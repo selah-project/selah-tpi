@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sapos … inap",
+      "rationale": "Tok Pisin i nidim ⟨sapos⟩ long askim; Hibru i stap wantaim het bilong askim tasol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכח ... שכחנה ... אשכחך",
+      "rationale": "Wanem as bilong lusim tingting i kamap tripla taun, na contrast namel ol meri na Anokhi."
+    },
+    {
+      "kind": "you",
+      "subject": "Tsaion",
+      "rationale": "Yahwe i tokim Tsaion stret: mi no inap lusim tingting long yu."
+    }
+  ],
+  "translation": "Sapos meri inap lusim tingting long ⟨את⟩ pikinini bilong susu bilong en, long pikinini man i stap long bel bilong en? Olgeta sampela inap lusim tingting, tasol mi — mi no inap lusim tingting long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/49\/13-16.1792354577289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "sapos inap lusim tingting"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pikinini bilong susu bilong en"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "long pikinini man"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olgeta sampela"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela ol"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "inap lusim tingting"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "tasol mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "inap lusim tingting long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:17.290129044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "graun olgeta we yu lukim",
+      "rationale": "the land grant is measured by sight — what Avram sees, he receives"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עד עולם",
+      "rationale": "lit. 'unto the concealed\/vanishing point' — rendered 'olgeta taim i no pinis' (forever)"
+    }
+  ],
+  "translation": "Bilong wanem, ⟨את⟩ graun olgeta we yu lukim, bai mi givim long yu, na long pikinini bilong yu, olgeta taim i no pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/13\/13-16.1792346437466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "bai mi givim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "na long pikinini bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i no pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:37.467199614Z",
+  "model": "glm-5.3"
+}

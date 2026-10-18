@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karim kot",
+      "rationale": "כפר i min 'karim sap \/ polim'; Tok Pisin i no gat wanpela tok, olsem na mi usim 'karim kot bilong'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker i long Hebila i no stap"
+    }
+  ],
+  "translation": "Na pris bai i karim kot bilong em namel long Yahwe, na bai i polysap long em, long wanpela long olgeta samting em i wokim ⟨i⟩ kamap asot long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/25-26.1792348243992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "karim kot bilong"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "polysap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "kamap asot"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:43.993390207Z",
+  "model": "glm-5.3"
+}

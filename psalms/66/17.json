@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ורומם",
+      "rationale": "Hebrew noun 'exaltation\/praise', rendered as 'tok bilong prais' rather than a verb 'he was praised'."
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hebrew has no pronoun; Tok Pisin needs subject marker mi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קראתי ... תחת לשוני",
+      "rationale": "call with mouth above, praise under tongue — vertical imagery of speech, kept literally."
+    }
+  ],
+  "translation": "Long en yet mi singautim wantaim maus bilong mi, na tok bilong prais i stap aninit long tong bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/17-20.1792358382787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong mi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi singautim"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "na tok bilong prais"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "long tong bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:42.787951675Z",
+  "model": "glm-5.3"
+}

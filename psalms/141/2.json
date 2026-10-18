@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha bilong apinun",
+      "rationale": "מנחת ערב em i ofa bilong apinun long haus bilong ofa — Tok Pisin i no gat tok bilong wok pris, be 'minkha' i stap olsem nem"
+    },
+    {
+      "kind": "alternative",
+      "subject": "i sanap",
+      "rationale": "תכון i ken min 'stap redi' o 'sanap stret' — mi usim 'sanap' bilong lukim picture bilong insens i sanap antap"
+    }
+  ],
+  "translation": "Sapos prea bilong mi i sanap olsem insens long pes bilong yu; ol han bilong mi taim mi rausim ol i go antap, olsem minkha bilong apinun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/141\/1-4.1792359274859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "i sanap stret"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "prea bilong mi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insens"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "long pes bilong yu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "rausim i go antap"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ol han bilong mi"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:34.860674239Z",
+  "model": "glm-5.3"
+}

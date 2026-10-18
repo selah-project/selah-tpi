@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרשיעי",
+      "rationale": "Hifil of רשע: 'yu bai skelim em i nogut' (declare guilty, KJV\/JPS) vs 'yu bai stretim tok' (refute, BSB)."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך \/ מאתי",
+      "rationale": "Preposition את (H854, 'wantaim\/long'), no relation to DOM את H853; ⟨את⟩ marker kept per alignment rule though no direct object is present."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion\/Yisrael",
+      "rationale": "Verse addresses the female addressee of Isaiah 54 (Zion) directly: 'long yu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתם rendered as 'tsedek' per discipline; JPS 'due reward' and BSB 'vindication' show the semantic range."
+    }
+  ],
+  "translation": "Olgeta samting bilong pait ol i wokim i kirap long yu, em i no ken sanap gutpela; na olgeta tok i kirap wantaim ⟨את⟩ yu long kot, yu bai skelim em i nogut. Dispela i neres bilong ol wokman bilong Yahwe, na ol tsedek bilong ol i kam ⟨את⟩ long mi — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/54\/17-17.1792354637009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "samting bilong pait"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "i kirap long yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "sanap gutpela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tok"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "wantaim ⟨את⟩ yu",
+      "marks": "tok i kirap"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "long kot"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "yu bai skelim em i nogut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "neres"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bilong ol wokman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "na ol tsedek bilong ol"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "i kam ⟨את⟩ long mi",
+      "marks": "ol tsedek bilong ol"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:17.009887295Z",
+  "model": "glm-5.3"
+}

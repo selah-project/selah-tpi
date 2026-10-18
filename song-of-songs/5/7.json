@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "predicate marker; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vel bilong kalapim fes",
+      "rationale": "רדיד em i klos bilong kalapim fes; ol tanim i tok 'mantle' o 'cloak' — no stret"
+    }
+  ],
+  "translation": "Ol man i lukautim taun, ol i wokabaut raun long taun, ol i painim mi; ol i paitim mi, ol i bagarapim mi; ol man i lukautim banis ol i tekwe ⟨את⟩ vel bilong kalapim fes bilong mi, i go long hai bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/5-8.1792360484396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "ol i painim mi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ol man i lukautim"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "ol i wokabaut raun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "ol i paitim mi"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "ol i bagarapim mi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ol i tekwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vel bilong kalapim fes bilong mi"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "vel bilong kalapim fes bilong mi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "i go long hai bilong mi"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ol man i lukautim"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "banis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:44.397631733Z",
+  "model": "glm-5.3"
+}

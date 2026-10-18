@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 8:14",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "chiasm",
+      "rationale": "Verse mirrors itself: righteous→work of wicked, wicked→work of righteous — inverted parallelism, kept in order."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל literally breath\/vapor; kept as hevel per discipline rather than 'nating' or 'vain'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "injustice under the sun",
+      "rationale": "Qohelet names the moral disorder as unsolvable hevel — withheld, no resolution given."
+    }
+  ],
+  "translation": "I stap wanpela hevel i wokim long graun: i gat ol man stretpela, ol i kisim olsem wok bilong ol man nogut; na i gat ol man nogut, ol i kisim olsem wok bilong ol man stretpela. Mi tok olsem dispela tu em i hevel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/13-16.1792360840897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "wanpela hevel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ol man stretpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "olsem wok"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "na i gat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "שמגיע",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "olsem wok"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "bilong ol man stretpela"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok olsem"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "em i hevel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:40.898225443Z",
+  "model": "glm-5.3"
+}

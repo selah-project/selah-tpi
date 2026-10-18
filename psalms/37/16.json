@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "Hibru i no gat tok bilong compare, Tok Pisin i nidim 'olsem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט\/רבים",
+      "rationale": "Liklik vs planti — cancel namel long ves, Tok Pisin i holim tuside"
+    }
+  ],
+  "translation": "Sampela samting i gutpela long man stret, olsem olgeta kago bilong planti man nogut",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/13-16.1792358145961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sampela samting"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "long man stret"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "olgeta kago"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong planti man nogut"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:45.963016545Z",
+  "model": "glm-5.3"
+}

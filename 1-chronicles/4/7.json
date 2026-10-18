@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em ol",
+      "rationale": "Hebrew verbless list; Tok Pisin predicate marker 'em ol' added for the clause"
+    }
+  ],
+  "translation": "Na ol pikinini man bilong Kela em ol Tseref, Yitskar, na Etunan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/4\/5-8.1792361826013.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ol pikinini man bilong"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Tseref"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Yitskar"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "na Etunan"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:06.014796350Z",
+  "model": "glm-5.3"
+}

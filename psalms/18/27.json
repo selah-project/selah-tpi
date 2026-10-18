@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נבר",
+      "rationale": "Tok dispela i stap long Tanakh long hia tasol (o klostu hia tasol); em i olsem ברר — man klia"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתפתל",
+      "rationale": "Hibru 'yu tanim yuselp \/ yu pentimap': KJV 'froward', YLT 'wrestler', JPS 'subtle' — ol i no wankain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתברר · עקש\/תתפתל",
+      "rationale": "Wankain rot bilong tok i kamap tupela taim; pasin i lus long Tok Pisin"
+    }
+  ],
+  "translation": "Wantaim man klia, yu soim yuselp klia; na wantaim man i tanim bel, yu tanim pasin bilong yuselp olsem em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/18\/25-28.1792357990553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "man klia"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "yu soim yuselp klia"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "man i tanim bel"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "yu tanim pasin bilong yuselp"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:10.553978430Z",
+  "model": "glm-5.3"
+}

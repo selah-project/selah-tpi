@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronoun; Tok Pisin i nidim long dispela ples"
+    },
+    {
+      "kind": "substitution",
+      "subject": "war krus",
+      "rationale": "סער em i bikpela win wantaim wara i krus; 'bikpela wara krus' i holim piksa, tasol hap win i lus liklik"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשבה להשבר",
+      "rationale": "'sip i tingting bai bruk' — namba tu skelim: 'sip i olsem em bai bruk'; pasin bilong חשב נפש em i 'tingting long bel' (Jona 1:8-9)"
+    }
+  ],
+  "translation": "Na Yahwe i trautim wanpela bikpela ruak i go long solwara, na wanpela bikpela wara krus long solwara i kamap, na sip i tingting ⟨em⟩ bai bruk.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "436300302e5fe6d552698976207e70a3a7aed52d43d5917fe715b40f43d8a046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/1\/4-4.1792363286823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "i trautim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "סער",
+      "gloss": "bikpela wara krus"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "בים",
+      "gloss": "long solwara"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "na sip"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "i tingting"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "bai bruk"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:26.823443040Z",
+  "model": "glm-5.3"
+}

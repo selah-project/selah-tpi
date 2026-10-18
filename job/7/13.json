@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "Majority read 'my couch lifts\/eases my complaint', but YLT reads God as subject: 'He taketh away my couch in my talking'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערשי \/ משכבי",
+      "rationale": "Parallel pair 'couch\/bed' in chiastic position, flattened to repetition of 'bet bilong mi'"
+    }
+  ],
+  "translation": "Bikos mi tok: bet bilong mi bai trutim mi, bet bilong mi bai rausim tingting bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/7\/13-16.1792359909596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "bai trutim mi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "bet bilong mi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bai rausim"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "tingting bilong mi"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "bet bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:09.596468517Z",
+  "model": "glm-5.3"
+}

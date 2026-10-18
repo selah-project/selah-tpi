@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim 'em' bilong joinim ol dispela tok."
+    },
+    {
+      "kind": "crux",
+      "subject": "Gershom vs Gersion",
+      "rationale": "1 Kron 6:1 i raitim גרשׁם (Gershom), tasol Lo 3:17 (BHS) i raitim Gersion; Septuajinta i geht 'Gersam'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lista bilong ol nem",
+      "rationale": "Nem bilong ol pikinini bilong Gershom — lista bilong lain."
+    }
+  ],
+  "translation": "Na ol dispela ⟨em⟩ ol nem bilong ol pikinini bilong Gershom: Livni na Simi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/6\/1-4.1792361861615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol dispela"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ol nem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Simi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:41.616072479Z",
+  "model": "glm-5.3"
+}

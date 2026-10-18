@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אתם em i mak bilong olgeta man — ⟨את⟩ i stap, 'olgeta' i tokim em."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפץ \/ פוץ",
+      "rationale": "פוץ 'skatam' i gen long Stat 11:4,9 — insistens i stap, Tok Pisin i holim gut."
+    }
+  ],
+  "translation": "Na Yahwe i skatam ⟨את⟩ olgeta i go long hap, long pes bilong olgeta graun; na ol i lusim wok bilong wokim siti.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/11\/5-8.1792346445124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "i skatam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ol i lusim wok"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siti"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:45.126030768Z",
+  "model": "glm-5.3"
+}

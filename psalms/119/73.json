@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew infinitive למד with no object pronoun; Tok Pisin needs a pronoun before the object"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "verse addresses God directly: 'give me understanding'"
+    }
+  ],
+  "translation": "Ol han bilong yu ol i wokim mi, na ol i stadimapim mi; givim mi save, na bai mi save ⟨em⟩ ol koman bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/73-76.1792359130998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "ol han bilong yu"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "ol i wokim mi"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "na ol i stadimapim mi"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "givim mi save"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "na bai mi save ⟨em⟩"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol koman bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:10.999739369Z",
+  "model": "glm-5.3"
+}

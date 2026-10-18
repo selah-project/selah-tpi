@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedar",
+      "rationale": "Tok Pisin i no gat tok bilong cedar; raitim 'cedar' olsem nem bilong diwai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oak",
+      "rationale": "rare word אלון; 'diwai oak' — Tok Pisin i no gat tok bilong en"
+    }
+  ],
+  "translation": "Na long olgeta cedar bilong Lebnon, ol i tall yet na ol i antap long olgeta, na long olgeta diwai oak bilong Basan,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13bb5e7dd5f6cb11d1d2df0886f8ced0277d3961499d5f13d6d3bfac28274311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/2\/13-16.1792353780187.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "bilong Lebnon"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ol i tall"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "na ol i antap long olgeta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "diwai oak"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "bilong Basan"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:00.187802866Z",
+  "model": "glm-5.3"
+}

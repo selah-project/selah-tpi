@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 24:11",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew ואמר lacks an explicit subject; 'some bade me kill thee' — Tok Pisin needs a subject."
+    },
+    {
+      "kind": "addition",
+      "subject": "bel bilong mi",
+      "rationale": "וְתָחָס עָלֶיךָ has no explicit subject (traditionally 'mine eye spared thee'); supplied in brackets."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sori",
+      "rationale": "חוּס is 'to have compassion\/spare'; rendered 'i sori long' in Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "David speaks directly to Saul, his lord the anointed king."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היום הזה … היום",
+      "rationale": "'this day … this day' repetition frames the verse; kept in Tok Pisin."
+    }
+  ],
+  "translation": "Lukluk, dispela de olgeta ol ai bilong yu i lukim ⟨את⟩ olsem Yahwe i givim yu long dispela de insait long han bilong mi, long spela, na ⟨ol⟩ i tokim mi bilong kilim yu, tasol ⟨bel bilong mi⟩ i sori long yu, na mi tok: Bai mi no stretim han bilong mi long bikman bilong mi, bilong wanem em i Masiak bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b2e8df2e2deec963dfc5d57c9b07f2f64ac0e3645725a995aabff277555c8d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/24\/10-11.1792363054054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lukluk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ol ai bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olsem Yahwe i givim yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "i givim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "insait long han bilong mi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "long spela"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na ⟨ol⟩ i tokim mi"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "bilong kilim yu"
+    },
+    {
+      "surface": "ותחס",
+      "gloss": "tasol ⟨bel bilong mi⟩ i sori"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mi tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mi stretim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "long bikman bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Masiak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:34.055638881Z",
+  "model": "glm-5.3"
+}

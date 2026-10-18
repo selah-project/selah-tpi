@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tu tausen",
+      "rationale": "Hebrew אלפים is dual 'two thousand', Tok Pisin says 'tu tausen' with number supplied."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Counting of returnees, number 2056."
+    }
+  ],
+  "translation": "Ol pikinini bilong Bigvai, tu tausen na fifti na sikis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/2\/13-16.1792361307978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Bigvai"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tu tausen"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifti"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "na sikis"
+    }
+  ],
+  "timestamp": "2026-10-18T22:08:27.979529578Z",
+  "model": "glm-5.3"
+}

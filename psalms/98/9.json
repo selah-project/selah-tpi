@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "graun olgeta",
+      "rationale": "תבל em i graun olgeta (olgeta graun we man i stap long en); mi usim tupela tok bilong skelimim תבל na הארץ"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai em i",
+      "rationale": "Hibru i no gat tok bilong taim bilong bihain; Tok Pisin i needim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשפט \/ ישפט",
+      "rationale": "Tupela tok wankain as שׁפט — em i sanap tupela taim, pasin bilong ol profet"
+    }
+  ],
+  "translation": "Long fes bilong Yahwe, bilong em i kamap bilong skelim ⟨את⟩ graun; bai em i skelim ⟨את⟩ graun olgeta long tsedek, na ol lain manmeri long pasin stretpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e797c9f279e53fd4058f59d6fad8424791762f76385941241fc44906669385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/98\/9-9.1792358874765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "bilong skelim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bai em i skelim"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "graun olgeta"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "long tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na ol lain manmeri"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "long pasin stretpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:54.766247542Z",
+  "model": "glm-5.3"
+}

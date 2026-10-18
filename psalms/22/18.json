@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaunim ol bun",
+      "rationale": "Verse is explicitly an act of counting — bones tallied one by one."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lukluk",
+      "rationale": "יביטו is an intense staring (often gloating); Tok Pisin lukluk keeps the looking but loses the gloating overtone carried by context."
+    }
+  ],
+  "translation": "Mi ken kaunim olgeta ol bun bilong mi; ol ⟨i⟩ lukluk na ol i lukim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/17-20.1792358015149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "mi ken kaunim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ol bun bilong mi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ol i lukim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.150189746Z",
+  "model": "glm-5.3"
+}

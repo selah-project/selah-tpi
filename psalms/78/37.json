@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel — tingting na laik, i no hat"
+    }
+  ],
+  "translation": "Na bel bilong ol i no stanap stret wantaim Em, na ol i no strong long kontrak bilong Em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/37-40.1792358564241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "na bel bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "stanap stret"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim Em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "strong"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "long kontrak bilong Em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:44.241737638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em yet",
+      "rationale": "Tok Pisin i nidim tok bilong soim — man i pundaun long hol bilong em yet"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשחת",
+      "rationale": "tok i minin 'hol bilong tekewe' (trap) na tu 'bagarap' — tupela minin i stap long wanpela tok"
+    }
+  ],
+  "translation": "Em i dikim hol, na em i dikim em i go dauneb olgeta; na em i pundaun long hol bilong bagarap ⟨em yet⟩ i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/7\/13-16.1792357833071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "hol"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "dikim"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "dikim em i go dauneb olgeta"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "pundaun"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "long hol bilong bagarap"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:33.072504219Z",
+  "model": "glm-5.3"
+}

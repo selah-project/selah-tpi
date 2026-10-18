@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol han",
+      "rationale": "קרן literal em i 'han bilong animal'; ol i wokim ol han hia long ol foa kona bilong altar"
+    },
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "ממנו 'bilong em yet' — Tok Pisin i nidim 'wantaim long em' bilong tokim wanpela pies"
+    }
+  ],
+  "translation": "Na yu wokim ol han bilong em long ol foa kona bilong em; ol han bilong em i save kamap wantaim long em; na yu karamapim ⟨את⟩ em wantaim kopa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/27\/1-4.1792347888770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ol han bilong em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ol foa"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "kona bilong em"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wantaim long em"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "i save kamap"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ol han bilong em"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "yu karamapim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopa"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:48.771141232Z",
+  "model": "glm-5.3"
+}

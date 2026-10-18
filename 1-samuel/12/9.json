@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וימכר אתם",
+      "rationale": "'salim ol' — Hebrew 'he sold them', idiom for giving over to enemies, kept literally."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew wayyiqtol carries the subject Yahwe without pronoun; Tok Pisin needs 'em'."
+    }
+  ],
+  "translation": "Na ol i lusim tingting long ⟨את⟩ Yahwe Elohim bilong ol, na em i salim ⟨את⟩ ol long han bilong Sisera, kapten bilong ol ami bilong Hatsor, na long han bilong ol Pilisti, na long han bilong king bilong Moab, na ol i pait long ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/12\/9-12.1792351633539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ol i lusim tingting long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim bilong ol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim bilong ol"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "na em i salim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol (long han bilong Sisera)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapten"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bilong ol ami"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pilisti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "na ol i pait"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:13.540302220Z",
+  "model": "glm-5.3"
+}

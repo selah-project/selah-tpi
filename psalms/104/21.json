@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טרף",
+      "rationale": "Hebrew טרף is prey torn by violence; Tok Pisin 'samting bilong kaikai' loses the picture of tearing."
+    }
+  ],
+  "translation": "Ol yangpela laion i singaut nogut tru bilong kisim samting bilong kaikai, na ol i lukluk bilong kisim kaikai bilong ol i kam long El.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/21-24.1792358890658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "ol yangpela laion"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "i singaut nogut tru"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "bilong kisim samting bilong kaikai"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "na ol i lukluk bilong kisim"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "i kam long El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kaikai bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:10.659051936Z",
+  "model": "glm-5.3"
+}

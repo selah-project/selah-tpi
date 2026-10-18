@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel hea",
+      "rationale": "אף literal em i nek\/nus, tasol bigbel i min strongpela kros"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכיראתך",
+      "rationale": "'olsem pret bilong yu' — ol tanim tok i no gat wanpela klia pasin: bel hea i save olsem scare bilong yu"
+    }
+  ],
+  "translation": "Husat i save strong bilong bel hea bilong yu, na bel hea bilong yu olsem pret bilong yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/90\/9-12.1792358828443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Husat"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong bilong"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "bel hea bilong yu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "olsem pret bilong yu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "bel hea bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:08.450421990Z",
+  "model": "glm-5.3"
+}

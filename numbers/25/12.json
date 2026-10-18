@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tokim em",
+      "rationale": "Yahwe i tokim Mose bilong givim tok long Pinhas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בריתי שלום",
+      "rationale": "'kontrak bilong pis' — שלום i mean gutpela sindaun, olgeta i orait, no war."
+    }
+  ],
+  "translation": "Olsem na, tokim em: Lukim, mi istap givim long em ⟨את⟩ kontrak bilong mi, pis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/25\/9-12.1792349407925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lukim, mi istap"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontrak bilong mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:07.926315842Z",
+  "model": "glm-5.3"
+}

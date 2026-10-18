@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה זה שבתם",
+      "rationale": "Hebrew exclamation 'What this — you have turned back!', rendered as Tok Pisin question 'Wanem samting — yupela i go bek?'"
+    },
+    {
+      "kind": "you",
+      "subject": "ol mesinja",
+      "rationale": "King directly addresses his messengers with a rebuke question."
+    }
+  ],
+  "translation": "Na ol mesinja i go bek long em, na em i tok long ol: Wanem samting — yupela i go bek?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/5-8.1792353277786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ol i go bek"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ol mesinja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "em"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "yupela i go bek"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:37.787508334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זכרם",
+      "rationale": "'their memory\/memorial' — in Hebrew a name's living trace; Tok Pisin 'tingting bilong ol' shifts to the act of remembering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכרת",
+      "rationale": "'cut off' again as in v.13 (כרת); Tok Pisin 'katim olgeta' keeps the cutting but not the cut-OFF-from-kin sense."
+    }
+  ],
+  "translation": "Ol i ken stap oltaim long fes bilong Yahwe, na em i ken katim olgeta tingting bilong ol i go ausait long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/13-16.1792359055822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ol i ken stap"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "na em i ken katim olgeta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "i go ausait long graun"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "tingting bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:55.823027519Z",
+  "model": "glm-5.3"
+}

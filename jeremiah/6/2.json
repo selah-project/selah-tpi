@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mi bagarapim pinis",
+      "rationale": "דמיתי: 'I have cut off\/destroyed' (ASV\/JPS) vs 'I have likened' (KJV, from דמה II)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object pronoun added; Hebrew verb carries the object"
+    }
+  ],
+  "translation": "Dispela gutpela lukluk na softpela meri, bat Tsiyon, mi bagarapim pinis ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/6\/1-4.1792354994393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "gutpela lukluk"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "na softpela meri"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "mi bagarapim pinis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:14.394308186Z",
+  "model": "glm-5.3"
+}

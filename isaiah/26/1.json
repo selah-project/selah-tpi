@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Hebrew verb ישית has no expressed subject; Tok Pisin needs ⟨Em⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר עז",
+      "rationale": "'strong city' echoes the name of the place Gibeon–like fortress idiom; the poem's city-of-strength image sits against the 'lofty city' felled in v5"
+    }
+  ],
+  "translation": "Long dispela de, bai ol salim dispela singsing long graun bilong Yehuda: Taun strongpela bilong yumi; ⟨Em⟩ i setim help olsem ol banis na bipa bilong banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/1-4.1792354203826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "bai ol salim"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "dispela singsing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yehuda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strongpela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "help"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "i setim"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "olsem ol banis"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "na bipa bilong banis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:03.826815285Z",
+  "model": "glm-5.3"
+}

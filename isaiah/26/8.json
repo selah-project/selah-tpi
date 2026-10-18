@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mipela",
+      "rationale": "Verb's 1cp suffix ('we') supplied as bracketed pronoun — Hebrew omits it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש is throat\/breath\/life-force, rendered 'bel' (seat of desire) not 'soul'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct second-person address to Yahwe in the middle of the verse."
+    }
+  ],
+  "translation": "Olsem na, long rot bilong ol pas bilong skelim bilong yu, Yahwe, ⟨mipela⟩ i wetim yu; long nem bilong yu na long tingting bilong yu — em i laik bilong bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/5-8.1792354182809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Olsem na"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ol pas bilong skelim bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "⟨mipela⟩ i wetim yu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "na long tingting bilong yu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "laik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:42.810535220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok tru bilong yu",
+      "rationale": "אמונה em i strongpela pasin — 'tok tru' i holim pasin bilong strongpela bel."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בקהל קדשים",
+      "rationale": "Sapos 'ol kibung bilong ol man holi' o 'ol man holi ol i sanap wantaim' — mi usim kibung."
+    }
+  ],
+  "translation": "Na ol heven bai presem ol wok gutpela tru bilong yu, Yahwe; tu, tok tru bilong yu i stap long ol kibung bilong ol man holi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/5-8.1792358792253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזיודו",
+      "gloss": "na bai ol presem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ol wok gutpela tru bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tok tru bilong yu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "long ol kibung bilong"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ol man holi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:32.254610298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרו וישרצו וירבו ויעצמו",
+      "rationale": "fofela verb i kakatim long olgeta — tasol Tok Pisin i no inap holim olgeta narapela kain 'kamap planti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olsem binatang",
+      "rationale": "וישרצו em i tok bilong ol binatang i olgem — mi holim piksa, no bagarapim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במאד מאד",
+      "rationale": "Hibru i ritim 'tumia tumia' — tupela tok wanpela mining, mi holim tumia tumia"
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yisrael i kamap planti, ol i olgem olsem ol binatang, ol i kamap moa moa, ol i strong tumia tumia; na graun i pulap wantaim ⟨את⟩ ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/5-8.1792347316198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "i kamap planti"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "ol i olgem olsem binatang"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ol i kamap moa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ol i strong"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "tumia"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumia"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na i pulap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (pikinini bilong Yisrael)"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:16.199885955Z",
+  "model": "glm-5.3"
+}

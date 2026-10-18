@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעמי \/ מרא",
+      "rationale": "Nem-plei: Noemi (swit) vs Mara (kros nogut) — sanap wantaim המר (mekim kros) long wanem ves"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המר",
+      "rationale": "Hibru 'mekim kaikai i no swit \/ bittaim' — Tok Pisin 'mekim kros nogut' i holim filing, tasol piksa bilong kaikai i lus"
+    }
+  ],
+  "translation": "Na em i tok long ol: Unaira ol i no ken kolim mi Noemi; kolim mi Mara, long wanem Sadai i mekim planti kros nogut long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/1\/17-20.1792360560806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unaira ol i no ken"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "kolim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "kolim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mekim planti kros nogut"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sadai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "planti"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:00.807428354Z",
+  "model": "glm-5.3"
+}

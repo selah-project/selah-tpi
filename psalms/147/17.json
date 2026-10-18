@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "Rare word, understood as 'little pieces\/bits'; rendered as liklik hap."
+    },
+    {
+      "kind": "crux",
+      "subject": "לפני קרתו",
+      "rationale": "'Before his cold' — idiom for 'in the face of his cold', rendered long kold bilong en."
+    },
+    {
+      "kind": "alternative",
+      "subject": "קרחו",
+      "rationale": "BDB allows 'hail' as well as 'ice'; ays chosen."
+    }
+  ],
+  "translation": "Em i trowaautim ays bilong en olsem liklik hap ⟨את⟩ — long kold bilong en, husat i ken sanap?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/17-20.1792359335878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Em i trowaautim"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ays bilong en"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "olsem liklik hap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kold bilong en"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i ken sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:35.879942048Z",
+  "model": "glm-5.3"
+}

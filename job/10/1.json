@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naf",
+      "rationale": "נפש em i naf\/breth bilong laip, i no 'soul' long pasin bilong Inglis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "birua",
+      "rationale": "מר em i 'birua' (bitter), ol tanim tok ol i tok 'bitterness'"
+    }
+  ],
+  "translation": "Naf bilong mi i les long laip bilong mi; bai mi larim tok bilong mi long ⟨em⟩ mi yet; bai mi tokim long birua bilong naf bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/1-4.1792360014499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "les long"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naf bilong mi"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "long laip bilong mi"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "bai mi larim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi yet"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "bai mi tokim"
+    },
+    {
+      "surface": "במר",
+      "gloss": "long birua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bilong naf bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:54.500495978Z",
+  "model": "glm-5.3"
+}

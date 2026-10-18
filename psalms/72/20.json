@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolofon",
+      "rationale": "Editorial colophon marking the end of David's prayers and the close of Psalter Book II — a counting\/closure marker, not part of the psalm's prayer."
+    },
+    {
+      "kind": "you",
+      "subject": "long ol man i rit",
+      "rationale": "The colophon addresses the reader\/collector of the scroll, not God."
+    }
+  ],
+  "translation": "Ol prea bilong David, pikinini bilong Yesai, ol i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/17-20.1792358485125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ol i pinis"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ol prea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yesai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:25.126478922Z",
+  "model": "glm-5.3"
+}

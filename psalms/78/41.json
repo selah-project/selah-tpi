@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "התוו",
+      "rationale": "Root תוה occurs only here in the Tanakh; meaning debated between 'set a mark\/limit to' and 'grieve'."
+    },
+    {
+      "kind": "crux",
+      "subject": "putim wanwara long",
+      "rationale": "התוו read as 'limited\/set bounds to' (KJV, Geneva, JPS) vs 'provoked\/grieved' (ASV, BSB); I follow the 'limit' line."
+    }
+  ],
+  "translation": "Ol i kirap bek na traim ⟨את⟩ El, na ol i putim wanwara long Holi Man bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/41-44.1792358567937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ol i kirap bek"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "traim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "Holi Man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "ol i putim wanwara long"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:47.937734508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגל",
+      "rationale": "רגל על לשון: 'tok nogut long taks' (KJV 'backbiteth') o 'spailim tok bilong narapela man' — root רגל i tok long taks bilong leg, wokabaut bilong spai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעהו\/רעה",
+      "rationale": "רֵעֵהוּ (poro man) na רָעָה (samting nogut) — wankain leta, narapela mining; Tok Pisin i no save holim dispela pilai"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i needim predicate marker ⟨i⟩, Hibru i nogat"
+    }
+  ],
+  "translation": "Em i no tok nogut wantaim taks bilong em, i no wokim olgeta samting nogut long poro man bilong em, na i no karim ⟨i⟩ tok bilong sem long klostu man bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5d3325bf0322064e40fc98fdabf00f771a699f362363c69c8695392f949720b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/15\/2-3.1792363355704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tok nogut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "taks bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "long poro man bilong em"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "na tok bilong sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "karim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "klostu man bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:35.705358450Z",
+  "model": "glm-5.3"
+}

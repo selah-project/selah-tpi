@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew juxtaposes without adversative; contrast supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered as ruak per discipline — wind here, not spirit"
+    }
+  ],
+  "translation": "Bihain Yahwe i tok olsem: Yupela i no ken lukim ruak, na yupela i no ken lukim ren, tasol dispela gorgon bai i pulap long wara, na yupela inap dring — yupela, ol animal pikinini bilong yupela, na ol animal bilong lukautim bilong yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/3\/17-20.1792353306590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "yupela i ken lukim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "yupela i ken lukim"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ren"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "na dispela gorgon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bai i pulap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "na yupela inap dring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "ol animal pikinini bilong yupela"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "na ol animal bilong lukautim bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:06.591053041Z",
+  "model": "glm-5.3"
+}

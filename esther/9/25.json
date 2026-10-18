@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על ראשו",
+      "rationale": "Hebrew has no verb 'return upon his head'; Tok Pisin repeats 'bai i kam bek' from ישוב to carry both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ans",
+      "rationale": "לפני literally 'long fes bilong' (before the face); 'long ans long' is the Tok Pisin idiom for appearing before a superior."
+    }
+  ],
+  "translation": "Na taim em i kam Stap long ans long king, em i tok wantaim ⟨את⟩ buk: tingting nogut we em i tingting long ol Yud, bai i kam bek long het bilong em yet, na ol i hangamapim ⟨את⟩ em na ⟨את⟩ ol pikinini bilong em long diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/25-28.1792361012443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "na taim em i kam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long ans long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "buk"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bai i kam bek"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "tingting bilong em"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "em i tingting"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ol Yud"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "het bilong em"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "na ol i hangamapim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol pikinini bilong em"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini bilong em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "diwai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:32.444397807Z",
+  "model": "glm-5.3"
+}

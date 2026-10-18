@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשמרם \/ תצרנו",
+      "rationale": "Pronoun i no klia: 'ol' (ol man poa o ol tok), 'em' (wanpela man), o 'yumi' (JPS: yumi long dispela jeneresen)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Tok i go stret long Yahwe: 'yu, Yahwe, bai yu lukautim ol'"
+    }
+  ],
+  "translation": "Yu, Yahwe, bai yu lukautim ol; bai yu lukautim ⟨את⟩ em i go ausait long dispela jeneresen, oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/12\/5-8.1792357940633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "bai yu lukautim ol"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "bai yu lukautim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i go ausait long"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dispela jeneresen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:20.634748701Z",
+  "model": "glm-5.3"
+}

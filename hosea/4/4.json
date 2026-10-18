@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועמך",
+      "rationale": "'Thy people' — addressee is the priest (or Moses-like prophet), not the laity; some read עמי 'my people'."
+    },
+    {
+      "kind": "you",
+      "subject": "pris",
+      "rationale": "Direct second-person address, most likely to the priestly leadership."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יריב ... מריבי",
+      "rationale": "Root ריב from v.1 repeated: the people's quarrels mirror Yahwe's own lawsuit."
+    }
+  ],
+  "translation": "Tasol ol man, no ken paitim kot, na no ken skelim man; bilong ol man bilong yu ol i olsem ol i paitim kot wantaim pris.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/4\/1-4.1792357024209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tasol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "paitim kot"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "skelim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "olsem ol i paitim kot wantaim"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pris"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:04.210780014Z",
+  "model": "glm-5.3"
+}

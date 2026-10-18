@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה אח מאחד מאלה",
+      "rationale": "KJV 'doeth the like to any one'; JPS 'doeth to a brother any of these'; YLT 'hath made a brother of one of these' — mi bihainim JPS."
+    },
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "Hebrew i no gat tok 'sapos'; lo long ves 10–13 i bilong pikinini man, kontekst i askim 'sapos' long Tok Pisin."
+    }
+  ],
+  "translation": "Na sapos em i karim wanpela pikinini man, man i strongpela nogut, man i kapsaitim blut, na em i wokim long wanpela brata wanpela long ol dispela samting —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/18\/9-12.1792356224750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "na em i karim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "man i strongpela nogut"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "man i kapsaitim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "אח",
+      "gloss": "long wanpela brata"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "long ol dispela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T20:43:44.751557730Z",
+  "model": "glm-5.3"
+}

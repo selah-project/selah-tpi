@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i laikim predicate marker 'i' long 'sindaun', Hebrew i no gat em."
+    },
+    {
+      "kind": "measurement",
+      "subject": "das",
+      "rationale": "Sindaun long das i mak bilong man i hat tru o i tanim bel — ples bilong skrasol na pinis."
+    }
+  ],
+  "translation": "Na em i tekim ⟨long em⟩ wanpela hap pot bilong skrapim em wantaim, na em ⟨i⟩ sindaun namel long ol das.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/2\/5-8.1792359863649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na em i tekim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨long em⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "wanpela hap pot"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "bilong skrapim em"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨i⟩ sindaun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "ol das"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:23.650831111Z",
+  "model": "glm-5.3"
+}

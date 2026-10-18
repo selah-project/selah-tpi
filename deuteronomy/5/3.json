@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא את ... כרת יהוה את",
+      "rationale": "Two different את in one verse: the preposition 'with' (with our fathers) and the direct-object marker pointing at the covenant; the echo is deliberate and kept visible."
+    },
+    {
+      "kind": "crux",
+      "subject": "Nogat ... tru",
+      "rationale": "Hebrew puts לא first for emphasis; some read כי as 'but with us' (adversative), others as emphatic 'indeed with us'."
+    }
+  ],
+  "translation": "Nogat, wantaim ⟨את⟩ ol papa bilong yumi Yahwe i no katim ⟨את⟩ dispela kontrak; wantaim ⟨את⟩ mipela em i katim — mipela, ol dispela, long hia, long dispela de, olgeta bilong mipela i laip yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/1-4.1792349813777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nogat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ol papa bilong yumi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "i katim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela kontrak"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "dispela kontrak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tru"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "wantaim ⟨את⟩ mipela"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mipela"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "פה",
+      "gloss": "long hia"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "olgeta bilong mipela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i laip yet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:53.778081281Z",
+  "model": "glm-5.3"
+}

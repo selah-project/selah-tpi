@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karim sori",
+      "rationale": "קדר i min 'kirap kala \/ blakpela bilong karim sori' — Tok Pisin i no gat tok bilong kala bilong sori"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mi wokabaut",
+      "rationale": "התהלכתי hitpael: 'mi wokabaut olsem wantok' o 'mi pasim pasin olsem wantok'"
+    }
+  ],
+  "translation": "Olsem wanpela wantok, olsem brata bilong mi, mi wokabaut; olsem man i karim sori long mama bilong en, mi pundaun na karim sori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/13-16.1792358130797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "olsem wanpela wantok"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "olsem brata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mi wokabaut"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "olsem man i karim sori"
+    },
+    {
+      "surface": "אם",
+      "gloss": "long mama"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mi karim sori"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "mi pundaun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:30.798684710Z",
+  "model": "glm-5.3"
+}

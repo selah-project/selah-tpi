@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "shemoa\/lehaqshiv",
+      "rationale": "Tupela tok 'harim' (שמע) i kamap tupela taim; Tok Pisin mi usim 'harim gut' na 'harim aten' bilong lukim olsem."
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Semuel i toktok stret long Saul, olsem wanpela tok bilong skelim."
+    },
+    {
+      "kind": "elision",
+      "subject": "hebrew question",
+      "rationale": "Ebra i no gat mak bilong askim; Tok Pisin mi putim 'o' bilong klarim."
+    }
+  ],
+  "translation": "Na Semuel i tok: Ol ofa bilong kukim olgeta na ol ofa bilong kilim ol animal — Yahwe i laikim olsem olgeta, o em i laikim man i harim gut long tok bilong em? Lukluk: harim gut i gutpela moa long ofa, harim aten i gutpela moa long gris bilong ol dia man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/21-24.1792351732205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na Semuel i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ol ofa bilong kukim olgeta"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "na ol ofa bilong kilim ol animal"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "olsem man i harim gut"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "long tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukluk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim gut"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "moa long ofa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "harim aten"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "moa long gris"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "bilong ol dia man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:52.206905341Z",
+  "model": "glm-5.3"
+}

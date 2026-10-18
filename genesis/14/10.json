@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 14:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בארת בארת",
+      "rationale": "Hebrew repeats 'pit pit' for 'full of pits'; rendered 'hol na hol' to keep the doubling"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמה",
+      "rationale": "'there' rendered as 'long ⟨hol⟩ ol' — Hebrew only says 'there', the pit is inferred"
+    }
+  ],
+  "translation": "Na vale bilong Sidim i gat hol na hol bilong tar; na king bilong Sodom na king bilong Gomora i ranawe, na ol i pundaun long ⟨hol⟩ ol; na ol i stap behain i ranawe i go long maunten.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/14\/9-12.1792346428138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמק",
+      "gloss": "na vale"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "bilong Sidim"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "hol"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "hol"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "tar"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "i ranawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "na Gomora"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long ⟨hol⟩ ol"
+    },
+    {
+      "surface": "והנשארים",
+      "gloss": "na ol i stap behain"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "i go long maunten"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "i ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:28.139177302Z",
+  "model": "glm-5.3"
+}

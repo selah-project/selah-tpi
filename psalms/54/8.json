@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tru",
+      "rationale": "Hibru i tok 'טוב' tasol; 'tru' i strongim liklik"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "tok bilong tanim bel na givim tenkyu long Yahwe"
+    }
+  ],
+  "translation": "Long laik bilong bel bilong mi yet, bai mi kilim ofa bilong yu; bai mi givim tenkyu long nem bilong yu, Yahwe, long wanem yu gutpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/54\/5-8.1792358344326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "Long laik bilong bel bilong mi yet"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "bai mi kilim ofa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "bai mi givim tenkyu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yu gutpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:04.326921641Z",
+  "model": "glm-5.3"
+}

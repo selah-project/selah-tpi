@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol pisin",
+      "rationale": "צפור em i wanpela tok bilong olgeta pisin, olsem kol kollectiv"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta samting",
+      "rationale": "עבר ארחות i no tok em i wanem samting; KJV i putim 'whatsoever'"
+    }
+  ],
+  "translation": "Ol pisin bilong skai, na ol pis bilong solwara, olgeta samting i wokabaut i go long ol rot bilong ol solwara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/8\/9-10.1792357891483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ol pisin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "bilong skai"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "na ol pis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bilong solwara"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "i wokabaut i go"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "long ol rot"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bilong ol solwara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:31.485266108Z",
+  "model": "glm-5.3"
+}

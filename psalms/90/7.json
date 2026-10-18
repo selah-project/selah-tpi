@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפך",
+      "rationale": "אַף em i nek\/nus, tasol i min kros — 'bel he bilong yu' long Tok Pisin"
+    }
+  ],
+  "translation": "Long wanem, yu pinisim olgeta long bel he bilong yu, na long kros bilong yu mipela i tremble.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/90\/5-8.1792358836733.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "yu pinisim olgeta"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "long bel he bilong yu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "na long kros bilong yu"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "mipela i tremble"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:16.742024478Z",
+  "model": "glm-5.3"
+}

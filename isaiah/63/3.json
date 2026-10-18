@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נצח",
+      "rationale": "'ju bilong graep' (blood-red grape juice) — literal image kept; KJV\/ASV render 'their blood'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי \/ חמתי",
+      "rationale": "'nose\/heat' = anger; Tok Pisin uses 'kros' and 'hat kros' for the two Hebrew anger words."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "H854 preposition 'with me', not the H853 object marker — but same spelling את; gloss carries ⟨את⟩ per prompt rule."
+    }
+  ],
+  "translation": "Long pem bilong wain mi pundaunim graep, mi wanpelas tasol, na long ol lain man i no gat man wantaim ⟨את⟩ mi; na mi pundaunim ol long kros bilong mi, na mi putim fut long ol long hat kros bilong mi; na ju bilong graep bilong ol i skwim aut long olgeta klos bilong mi, na mi bagarapim kala bilong olgeta klos bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/63\/1-4.1792354754821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "pem bilong wain"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "mi pundaunim graep"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mi wanpelas tasol"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "na long ol lain man"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "na mi pundaunim ol"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "long kros bilong mi"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "na mi putim fut long ol"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "long hat kros bilong mi"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "na i skwim aut"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ju bilong graep bilong ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "olgeta klos bilong mi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "klos bilong mi"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "mi bagarapim kala bilong"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:14.822451438Z",
+  "model": "glm-5.3"
+}

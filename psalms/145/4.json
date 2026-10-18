@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "דור is collective singular; Tok Pisin requires plural marking"
+    },
+    {
+      "kind": "measurement",
+      "subject": "דור לדור",
+      "rationale": "generation-to-generation reckoning of time"
+    }
+  ],
+  "translation": "Ol pikinini bilong wanpela taim i salim ol wok bilong yu long ol pikinini bilong narapela taim, na ol i storiim ol strongpela wok bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/1-4.1792359313849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ol pikinini bilong wanpela taim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "long ol pikinini bilong narapela taim"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "i salim ol wok"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ol wok bilong yu"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ol strongpela wok bilong yu"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ol i storiim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.849976549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "יום שני",
+      "rationale": "Kaunim bilong de tu — apinun na moning."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heven",
+      "rationale": "שמים em i dual (tupela) long Hibru; Tok Pisin i no save makim dual, olsem na wanpela tok 'heven' tasol."
+    }
+  ],
+  "translation": "Na Elohim i kalim rokia heven. Na apinun i kamap, na moning i kamap — de tu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/1\/5-8.1792346299640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i kalim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rokia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:19.642037737Z",
+  "model": "glm-5.3"
+}

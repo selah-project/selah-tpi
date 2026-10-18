@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנה חכמה קנה בינה",
+      "rationale": "Repetition of קנה frames the pair; parallel imperative rhythm lost without repeating 'kisim' twice"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Father's direct summons to the son to acquire wisdom and hold to his words"
+    }
+  ],
+  "translation": "Kisim ██ ██, kisim ██; no ken lusim, na no ken stanapewe long ol tok bilong maus ⟨bilong mi⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/4\/5-8.1792359378210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakaim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "hadin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תט",
+      "gloss": "stanapewe"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "long ol tok"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bilong maus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:18.214806894Z",
+  "model": "glm-5.3"
+}

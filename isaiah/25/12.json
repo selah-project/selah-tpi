@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השח השפיל הגיע",
+      "rationale": "Three stacked verbs of bringing low, a descending cascade — kept as three verbs in Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "Second-person suffix 'thy walls' — the verse addresses Moab directly."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד עפר",
+      "rationale": "Descent measured down to earth, even to the dust."
+    }
+  ],
+  "translation": "Na banis strong bilong strongpela ples ai, ol banis bilong yu — em i brukim i go daun, i mekim i kamap daun, i bringim i kam long graun, inap long das.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61954c91746a6d090d42579eafc2a9cd0bbc5359b221e5ee1ca03f41cd888df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/25\/9-12.1792354177248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "Na banis strong"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "strongpela ples ai"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ol banis bilong yu"
+    },
+    {
+      "surface": "השח",
+      "gloss": "i brukim i go daun"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "i mekim i kamap daun"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "i bringim i kam"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:37.249884241Z",
+  "model": "glm-5.3"
+}

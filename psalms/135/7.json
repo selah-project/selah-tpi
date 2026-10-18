@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאים",
+      "rationale": "'rising mists\/vapours' vs 'clouds' (KJV vapours, BSB clouds); same word as 'princes\/exalted ones'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered ruak always — one word covering wind, breath, and Spirit"
+    }
+  ],
+  "translation": "Em i bringapim ol steam i go antap long ol kona bilong graun, em i mekim ol laitneng bilong ren, em i bringautim ruak long ol stohaus bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/5-8.1792359222868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "em i bringapim"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ol steam i go antap"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "long ol kona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ol laitneng"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "bilong ren"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i mekim"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "em i bringautim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "long ol stohaus bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:42.869653824Z",
+  "model": "glm-5.3"
+}

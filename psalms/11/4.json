@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ... יהוה",
+      "rationale": "Nem Yahwe i kamap tupela taim long stat bilong ves — paralelis: Yahwe long graun (haus holi) na Yahwe long heven"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ai-kapsait",
+      "gloss": "עפעפיו em i 'olgeta klosu olgeta' — Tok Pisin 'ai-kapsait' i piksa bilong ai i klinim"
+    }
+  ],
+  "translation": "Yahwe i stap long haus holi bilong en; Yahwe, thron bilong en i stap long heven. Ol ai bilong en i lukluk, ol ai-kapsait bilong en i skelim ol pikinini man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/11\/1-4.1792357947310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "long haus holi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "thron bilong en"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ol ai bilong en"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ol ai-kapsait bilong en"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:27.313556692Z",
+  "model": "glm-5.3"
+}

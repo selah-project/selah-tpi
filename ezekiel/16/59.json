@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "ezekiel 16:59",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol i⟩",
+      "gloss": "",
+      "rationale": "אשר relative pronoun supplied as bracketed connector; Hebrew particle has no standalone Tok Pisin word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית rendered 'kontrak' per discipline — covenant-specific church vocabulary avoided."
+    }
+  ],
+  "translation": "Bilong wanem Adonai Yahwe i tok olsem: bai mi wokim ⟨את⟩ long yu olsem yu bin wokim — yu leklesim tok sapos, long brukim kontrak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/16\/57-60.1792356251400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "bai mi wokim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "yu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu bin wokim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ol i⟩"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "yu leklesim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tok sapos"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "long brukim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    }
+  ],
+  "timestamp": "2026-10-18T20:44:11.401888935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדש קדששים",
+      "rationale": "Holipela bilong ol holi — Hebrew superlative plural of holiness, rendered as a phrase."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevenpela de",
+      "rationale": "Verse counts the seven days of consecration."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaporim",
+      "rationale": "כפר is literally 'cover' — expiation rendered phonetically to keep the root."
+    }
+  ],
+  "translation": "Sevenpela de yu mas kaporim long alta, na yu mekim holi ⟨את⟩ em; na alta bai i kamap holi bilong ol holi samting; olgeta samting i tekim alta bai i kamap holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8f2ade9cc84d5d849a73c1eeb78a2ab0c7a4c20d363915170559baaff15ec461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/37-40.1792347953707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "yu mas kaporim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na yu mekim holi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi bilong"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ol holi samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "long alta"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bai i kamap holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:53.708122529Z",
+  "model": "glm-5.3"
+}

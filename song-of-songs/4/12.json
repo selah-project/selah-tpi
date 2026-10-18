@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verbless clause 'a locked garden (is) my sister'; copula bracketed in Tok Pisin."
+    },
+    {
+      "kind": "mystery",
+      "subject": "gaden i lok \/ spring i sealim",
+      "rationale": "Verse is deliberately sealed and locked imagery — withheld, exclusive abundance."
+    },
+    {
+      "kind": "secret",
+      "subject": "חתום",
+      "rationale": "'Sealed' — the fountain is concealed knowledge, opened only in 4:16–5:1."
+    }
+  ],
+  "translation": "Gaden bilong lokim, sista bilong mi, meri bilong marit; pul bilong wara i lok, spring i sealim pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/4\/9-12.1792360433441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "bilong lokim"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sista bilong mi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "meri bilong marit"
+    },
+    {
+      "surface": "גל",
+      "gloss": "pul bilong wara"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "i lok"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "spring"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "i sealim pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:53.442832915Z",
+  "model": "glm-5.3"
+}

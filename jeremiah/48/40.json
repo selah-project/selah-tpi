@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tarangau",
+      "rationale": "נשר: eagle vs vulture (JPS 'vulture'); Tok Pisin tarangau covers large bird of prey"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew omits the subject of 'flies'; supplied to name the swooping enemy"
+    }
+  ],
+  "translation": "Long wanem, Yahwe i tok olsem: Lukim, em i flai olsem tarangau, i kam daun, na em i spredim ol wing bilong en i go long Moab.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61e0f854671242ef005bd12ea553c13173121af00348f255f09ca200e2f3b2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/48\/37-40.1792355810009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "olsem tarangau"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "i flai i kam daun"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "na em i spredim"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ol wing bilong en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-18T20:36:50.010126301Z",
+  "model": "glm-5.3"
+}

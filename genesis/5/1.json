@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew uses suffix אתו; final pronoun supplied in Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "buk bilong stori",
+      "rationale": "opening of the toledot genealogy, a record of generations"
+    }
+  ],
+  "translation": "Dispela em i buk bilong stori bilong ol pikinini bilong Adam. Long dei we Elohim i wokim ⟨את⟩ man, olsem piksa bilong Elohim em i wokim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/5\/1-4.1792346295938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "stori bilong ol pikinini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "olsem piksa bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:15.939513064Z",
+  "model": "glm-5.3"
+}

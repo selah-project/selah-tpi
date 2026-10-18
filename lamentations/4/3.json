@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תנין",
+      "rationale": "This form (lemma תנה) is a female jackal, appearing only here; KJV 'sea monsters' follows a different reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענים",
+      "rationale": "Ostriches, proverbial for cruelty to their young (Job 39:16); rendered as 'bikpela pisin gutpela' rather than an imported bird name."
+    },
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "'Jackals' (JPS, ASV) vs 'sea monsters' (KJV) vs 'wolves' — the root is debated."
+    }
+  ],
+  "translation": "Sampela olmama bilong ol waildok i givim susu, ol i karim susu bilong ol pikinini bilong ol; tasol pikinini meri bilong ol man bilong mi i kamap man nogut, olsem ol bikpela pisin gutpela long ples wail.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/1-4.1792360637342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sampela"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "olmama bilong ol waildok"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "i givim susu"
+    },
+    {
+      "surface": "שד",
+      "gloss": "susu"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "ol i karim susu"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "ol pikinini bilong ol"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol man bilong mi"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "i kamap man nogut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ol bikpela pisin gutpela"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wail"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:17.343709278Z",
+  "model": "glm-5.3"
+}

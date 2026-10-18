@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "harim",
+      "rationale": "שא נא הוא literally 'lift\/bear, I pray' — 'bear my sin' (forgive) vs 'lift it away'; 'harim' keeps the lifting picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dai",
+      "rationale": "המות 'this death' means the deadly plague of locusts, not death itself."
+    }
+  ],
+  "translation": "Na nau, plis, harim ⟨את⟩ sin bilong mi — dispela taim tasol — na yupela askim Yahwe, Elohim bilong yupela, bilong em i rausim ⟨i⟩ long mi ⟨i⟩ dispela dai tasol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/10\/17-20.1792347527229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "שא",
+      "gloss": "harim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sin bilong mi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "dispela taim"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "na yupela askim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "bilong em i rausim"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela dai"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:47.230240344Z",
+  "model": "glm-5.3"
+}

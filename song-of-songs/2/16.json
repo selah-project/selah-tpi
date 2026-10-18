@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לי \/ לו",
+      "rationale": "Mirror structure 'to-me \/ to-him' — chiastic mutual possession, kept in parallel."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרעה בשושנים",
+      "rationale": "'Shepherding among the lilies' — literal flock-tending vs grazing\/browsing imagery; Hebrew participle with definite article kept as 'the one shepherding'."
+    }
+  ],
+  "translation": "Man bilong laikim mi, em i bilong mi, na mi bilong en; em i man i lukautim ol sipsip long ol lili flawa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/2\/13-16.1792360444831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "man bilong laikim mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i bilong mi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "man i lukautim ol sipsip"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "long ol lili flawa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:04.832747417Z",
+  "model": "glm-5.3"
+}

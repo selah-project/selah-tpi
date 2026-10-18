@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wok toktok nupela",
+      "rationale": "מתלחשים is 'whispering', from the same root as incantation\/magic-whisper; Tok Pisin 'toktok nupela' (whisper) keeps the sound-picture without the magic sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מת ... המת ... מת",
+      "rationale": "The root 'die' strikes three times in one verse — the report, the question, the answer — a drumbeat lost in paraphrase."
+    }
+  ],
+  "translation": "Na David i lukim ol wokman bilong em i wok toktok nupela long tupela, na David i save stret se pikinini i dai pinis, na David i tokim ol wokman bilong em: Pikinini i dai pinis a? Ol i tok: Em i dai pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/17-20.1792352321556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong em"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "i wok toktok nupela long tupela"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "i save stret"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong em"
+    },
+    {
+      "surface": "המת",
+      "gloss": "i dai pinis a?"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "מת",
+      "gloss": "em i dai pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:41.558280811Z",
+  "model": "glm-5.3"
+}

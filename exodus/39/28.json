@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משזר",
+      "rationale": "משזר em i pasin bilong tanim rop wantaim — Tok Pisin 'tanim nogut tru' i holim piksa bilong en."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משזר",
+      "rationale": "Pasin bilong tanim rop — tok i no kamap planti long Tanakh."
+    }
+  ],
+  "translation": "Na ⟨את⟩ ban bilong het bilong linen, na ⟨את⟩ ol kapsait bilong het bilong linen, na ⟨את⟩ ol trusel bilong bodi bilong linen — linen ol i bin tanim nogut tru.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bd19736a70012c6ccba8d4a438b365778c09f5766ce8a77fc062916ec704424b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/39\/25-28.1792348199127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ban bilong het bilong linen"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ban bilong het"
+    },
+    {
+      "surface": "שש",
+      "gloss": "bilong linen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol kapsait bilong het"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ol kapsait bilong het"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ol kap bilong het"
+    },
+    {
+      "surface": "שש",
+      "gloss": "bilong linen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol trusel bilong bodi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "ol trusel bilong bodi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "bilong linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ol i bin tanim nogut tru"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:59.128654220Z",
+  "model": "glm-5.3"
+}

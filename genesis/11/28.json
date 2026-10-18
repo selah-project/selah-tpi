@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "Hebrew idiom 'upon the face of' = 'in the presence of \/ before'; rendered 'long nupela bilong' (before)."
+    },
+    {
+      "kind": "crux",
+      "subject": "Ur of the Chaldees",
+      "rationale": "Whether Ur Kasdim is the southern Sumerian Ur or a northern location; also whether Gen 11:31 implies birth in Ur."
+    }
+  ],
+  "translation": "Na Haran i dai long nupela bilong papa bilong em, Terak, long graun bilong ples em i karap long en, long Ur bilong ol lain Kasdim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e6e58dbd47d6d75fa1270b773da5781955ca23492279f81ade5a20207a1b728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/11\/25-28.1792346419590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "long nupela bilong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "bilong ples em i karap long en"
+    },
+    {
+      "surface": "באור",
+      "gloss": "long Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "bilong ol lain Kasdim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:19.591827200Z",
+  "model": "glm-5.3"
+}

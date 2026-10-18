@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמת",
+      "rationale": "חמה i min 'hatpela bel\/traipela bel', tasol long hia em i poison — ol tanima i tok 'poison\/venom'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנינם",
+      "rationale": "תנין i save min 'bikpela pis nogut bilong solwara' o 'ol kotkot' — ol tanima i tanim 'dragon' o 'serpent'"
+    }
+  ],
+  "translation": "Poison bilong ol bikpela pis nogut bilong solwara, em i wel bilong ol, na bel bilong ol snek nogut, i traipela nogut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5cd132a49a5f455e0cd9e36b7c39cf6119d576ae15d496afa4af00ba5eb55fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/32\/33-36.1792350390417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "poison"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "bilong ol bikpela pis nogut bilong solwara"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "em i wel bilong ol"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na bel"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "bilong ol snek nogut"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "i traipela nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:30.417883952Z",
+  "model": "glm-5.3"
+}

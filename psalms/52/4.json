@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "planim",
+      "rationale": "תחשב literally 'weaves\/devices' — planning like weaving; 'planim' (plot) keeps the devised-work sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוות \/ דואג",
+      "rationale": "Doeg (דואג) who 'worries' is answered with הוות (havvot, destruction) — the psalm names his nature; lost in Tok Pisin."
+    }
+  ],
+  "translation": "Tong bilong yu i planim ol samting nogut bilong bagarapim, olsem wanpela barba-naip i hat na sotim gut, belong man i wokim giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/52\/1-4.1792358346226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ol samting nogut bilong bagarapim"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "i planim"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "tong bilong yu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "olsem wanpela barba-naip"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "i hat na sotim gut"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "man i wokim"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:06.227281053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim predicate marker i, tasol Hibru i no gat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol toledot",
+      "rationale": "toked-head bilong stori bilong ol pikinini — nem bilong man i stap long lista"
+    }
+  ],
+  "translation": "Na ol dispela i ol toledot bilong Esav — em ⟨i⟩ Edom.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9ec784d8dedcbc1b5a62ee6a7275df76a185bb4ae4f7978d1350e81f2fd7e1d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/36\/1-4.1792347018969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol dispela"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ol toledot"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-18T18:10:18.970331119Z",
+  "model": "glm-5.3"
+}

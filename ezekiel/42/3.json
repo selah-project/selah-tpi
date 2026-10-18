@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "galari",
+      "rationale": "אתיק is a rare word, a ledge\/colonnaded gallery; 'galari' keeps the built structure, literal 'ledge over-against ledge'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלשים",
+      "rationale": "'in the third (story)' vs 'in three rows\/stories' — KJV 'three stories', ASV 'third story'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kibit",
+      "rationale": "Unit supplied — Hebrew says only 'the twenty', cubits implied from context"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol twenti kibit",
+      "rationale": "Twenty-cubit strip opposite the inner court referenced as a measure"
+    }
+  ],
+  "translation": "⟨I⟩ stap long frant bilong ol twenti ⟨kibit⟩ we i bilong holsaia bilong insait, na long frant bilong gron bilong ston we i bilong holsaia bilong ausait — galari i stap long frant bilong galari, long tripela stan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/42\/1-4.1792356818320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "long frant bilong"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ol twenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "bilong holsaia"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "bilong insait"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "na long frant bilong"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "gron bilong ston"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "bilong holsaia"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "bilong ausait"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "galari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frant"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "galari"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "long tripela stan"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:38.322124831Z",
+  "model": "glm-5.3"
+}

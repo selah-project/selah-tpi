@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 3:9",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb יקרא has no explicit subject; supplied pronoun for the caller"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר יהוה word order",
+      "rationale": "Hebrew places the name first: 'Yahwe, speak' — Samuel does not yet know the caller as his master"
+    }
+  ],
+  "translation": "Na Eli i tokim Samuel: Go, slip. Na sapos em i singautim yu, yu mas tok: Yahwe, tokim tok, bilong wanem, wokman bilong yu i harim. Na Samuel i go na slip long ples bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/9-12.1792351524992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "long Samuel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "slip"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "em i singautim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "yu mas tok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tokim tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wokman bilong yu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "i slip"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "long ples bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:24.992815442Z",
+  "model": "glm-5.3"
+}

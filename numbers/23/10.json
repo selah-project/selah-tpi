@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaunim das bilong Yakov",
+      "rationale": "ves em i tok long kaunim olgeta samting — das, namba, hap — ol i no inap kaunim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש em i win\/laip i stap long bodi, i no `soul` long pasin bilong Grik"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "`hap (fopa)` we KJV\/JPS i tok; sampela (JPS) i tanim olsem `ol pikinini bilong Yisrael` — `rova` i gat tupela mining"
+    }
+  ],
+  "translation": "Husat inap kaunim ⟨את⟩ das bilong Yakov, o kaunim namba bilong ⟨את⟩ hap bilong Yisrael? Laip bilong mi inap dai olsem ⟨את⟩ dai bilong ol man stret, na bihain bilong mi i ken kamap olsem olgeta!",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/23\/9-12.1792349417547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "inap kaunim"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "o namba bilong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hap bilong Yisrael"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "hap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "inap dai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "bilong ol man stret"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na i ken kamap"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "bihain bilong mi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "olsem olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:17.548822747Z",
+  "model": "glm-5.3"
+}

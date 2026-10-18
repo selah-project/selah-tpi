@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kopa",
+      "rationale": "נחשת is copper\/bronze; 'kopa' is nearest Tok Pisin metal"
+    }
+  ],
+  "translation": "Long tingim ol plan bilong wok, long mekim ol long gol, na long silva, na long kopa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/1-4.1792347897371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "long tingim"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ol plan bilong wok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "long mekim ol"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "long gol"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "na long silva"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "na long kopa"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:57.371986040Z",
+  "model": "glm-5.3"
+}

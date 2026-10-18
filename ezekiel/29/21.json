@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 29:21",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker needed for the verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kamb",
+      "rationale": "קרן literally 'horn'; 'kamb' (shoot) keeps the sprouting picture but loses the horn\/strength image"
+    },
+    {
+      "kind": "crux",
+      "subject": "פתחון פה",
+      "rationale": "'opening of the mouth' — freedom to speak after silence (Ezekiel's dumbness lifted) vs literal mouth opening"
+    },
+    {
+      "kind": "you",
+      "subject": "long yu",
+      "rationale": "Yahwe addresses Ezekiel directly"
+    }
+  ],
+  "translation": "Long dispela de, bai mi kamapim wanpela kamb long haus bilong Yisrael, na long yu bai mi givim ⟨i⟩ opim maus namel long ol, na ol bai save olsem mi Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "87089beb71f1968a9670266d03cbe0bbb3bb93d8ceb5722157e4122b999f7a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/29\/21-21.1792356484184.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "bai mi kamapim ⟨i⟩ gro"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kamb"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na long yu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bai mi givim"
+    },
+    {
+      "surface": "פתחון",
+      "gloss": "opim"
+    },
+    {
+      "surface": "פה",
+      "gloss": "maus"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "namel long ol"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na ol bai save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:48:04.184766320Z",
+  "model": "glm-5.3"
+}

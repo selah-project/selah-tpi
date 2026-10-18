@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker required; Hebrew has no copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "היא העיר הגדולה",
+      "rationale": "which is the great city — Resen, Calah, or Nineveh? translators disagree"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בין...ובין",
+      "rationale": "double 'between' rendered with 'namel long...na namel long' to keep the repeated structure"
+    }
+  ],
+  "translation": "Na ⟨את⟩ Resen namel long Ninve na namel long Kalakh — em i ⟨i⟩ bikpela siti.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/10\/9-12.1792346412829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bikpela siti"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "bikpela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:12.830415789Z",
+  "model": "glm-5.3"
+}

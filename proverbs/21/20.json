@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tru",
+      "rationale": "נחמד i save mean 'ol i laikim em' (pasif kaikai wantaim), no 'gutpela tru' tasol"
+    },
+    {
+      "kind": "idiom",
+      "subject": "i swarim olgeta",
+      "rationale": "בלע = swarim — piksa bilong kaikai i go olgeta; KJV 'spendeth it up' i lusim piksa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Sapra noun bilong swarim — suffix נו long Hibru i stap, tasol Tok Pisin i nidim ⟨em⟩"
+    }
+  ],
+  "translation": "Ol samting gutpela tru na oil i stap insait long haus bilong man save, tasol man longlong i swarim ⟨em⟩ olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/17-20.1792359657836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "ol samting gutpela"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "tru"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na oil"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "insait long haus"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bilong man save"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tasol man longlong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "i swarim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:57.837888734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "Hebrew cohortative 'we will build' carries the pronoun in the verb ending; Tok Pisin needs yumi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלו\/נבנה · גדעו\/נחליף",
+      "rationale": "Paired verbs fall\/build, cut\/exchange form a boastful antithesis in four short clauses"
+    }
+  ],
+  "translation": "Ol brik i pundaun, tasol yumi wokim long ol ston ol i katim; ol sikon diwai i katim pinis, tasol yumi senisim ol long ol seda diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/9\/9-12.1792353998531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "ol brik"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "long ol ston ol i katim"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "yumi wokim"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "ol sikon diwai"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "i katim pinis"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "long ol seda diwai"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "yumi senisim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:38.532684949Z",
+  "model": "glm-5.3"
+}

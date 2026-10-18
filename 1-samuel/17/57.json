@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וכשוב",
+      "rationale": "infinitive construct with temporal sense rendered as 'taim … i kam bek'; verbless clause 'na het … i stap' supplies copula Tok Pisin requires"
+    }
+  ],
+  "translation": "Na taim David i kam bek long paitim ⟨את⟩ man Pelishti, Avner i tekim ⟨את⟩ em na i bringim em i go pastaim long Shaol, na het bilong man Pelishti i stap long han bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/57-58.1792351806734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "taim … i kam bek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "long paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man Pelishti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "man Pelishti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (David)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "i bringim em"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na het"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "bilong man Pelishti"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "long han bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:06.734990714Z",
+  "model": "glm-5.3"
+}

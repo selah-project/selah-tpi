@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok krai",
+      "rationale": "רנה em i nois i save krai strong (shout bilong pen o corage), no wanpela krai nomo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sanapim yau",
+      "rationale": "הקשיב tok bilong 'prick up the ears' — sanapim yau bilong harim."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "David i toktok street long Elohim."
+    },
+    {
+      "kind": "invitation",
+      "subject": "harim",
+      "rationale": "Ol imperative — krai bilong man i askim God long harim."
+    }
+  ],
+  "translation": "Elohim, harim ⟨tok krai bilong mi⟩; sanapim yau bilong yu long ⟨prayer bilong mi⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/61\/1-4.1792358414844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "tok krai bilong mi"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "sanapim yau bilong yu long"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "prayer bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:14.845660777Z",
+  "model": "glm-5.3"
+}

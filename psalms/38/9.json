@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i bel — tingting na laik, i no hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "singaut nogut",
+      "rationale": "שאגתי i min olsem laion i singaut (roar) o man i krai hangre — planti tanim tok i tok 'groan'"
+    }
+  ],
+  "translation": "Mi kamap nupela na ol i bagarapim mi tru; mi singaut nogut olsem laion bilong pen bilong bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/9-12.1792358187846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "mi kamap nupela"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "na ol i bagarapim mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mi singaut nogut olsem laion"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "bilong pen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:27.846875974Z",
+  "model": "glm-5.3"
+}

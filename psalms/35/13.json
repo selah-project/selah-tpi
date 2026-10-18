@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש i klosu long 'gorila\/laip\/breth' — mi usim bel (tingting na laik) long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "pre i kamap bek long bel bilong mi",
+      "rationale": "תפלתי על חיקי תשוב: sampela i tok 'pre i no kisim bek tok' (BSB), sampela i tok 'pre i go bek long bel bilong mi yet' (KJV\/JPS)"
+    },
+    {
+      "kind": "elision",
+      "subject": "בחלותם",
+      "rationale": "Hibru i tok 'taim ol i sik' olsem wanpela tok, Tok Pisin i laikim klostu sentens"
+    }
+  ],
+  "translation": "Na mi, taim ol ⟨i⟩ sik, klos bilong mi em i sak; mi penim bel bilong mi wantaim fastin; na pre bilong mi i kamap bek ⟨long⟩ bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/13-16.1792358130797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "taim ol i sik"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "klos bilong mi"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "mi penim"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "wantaim fastin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "na pre bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "i kamap bek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:30.798412935Z",
+  "model": "glm-5.3"
+}

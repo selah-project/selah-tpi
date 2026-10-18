@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפיר",
+      "rationale": "KJV 'no kambek olgeta rausim', JPS 'no brukim of' — sajis 'פור' (praunim) o 'פאר' (kena klostu): 'praunim' o 'rausim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i tanim olsem 'khesed' long tpi, i no 'marimari' tasol"
+    }
+  ],
+  "translation": "Tasol khesed bilong mi bai mi no rausim ⟨em⟩ long em, na bai mi no tok giaman long strongpela bilip bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "66a31631c25911240f69df8a51dad56adad3076ac67ace5d2790e23ecf8f6193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/33-36.1792358791643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Tasol khesed bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "bai mi rausim"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "tok giaman"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "long strongpela bilip bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:31.643879671Z",
+  "model": "glm-5.3"
+}

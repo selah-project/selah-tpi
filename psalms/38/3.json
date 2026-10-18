@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחתו\/ותנחת",
+      "rationale": "Wanpela raet נחת i kamap tupela taim — aro i daunap na han i putim daun; wantaim mining i stap"
+    }
+  ],
+  "translation": "Bikos ol aro bilong yu i daun na i stap long mi, na yu putim han bilong yu antap long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/1-4.1792358197927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ol aro bilong yu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "i daun na i stap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "yu putim daun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "antap long mi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:37.928980779Z",
+  "model": "glm-5.3"
+}

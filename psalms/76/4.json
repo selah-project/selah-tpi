@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Subject Yahwe\/Elohim supplied; Hebrew verb שבר has no explicit subject"
+    },
+    {
+      "kind": "crux",
+      "subject": "רשפי",
+      "rationale": "'flashing arrows\/firebrands' — literal 'coals\/lightning' of the bow; rendered as arrows like fire"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker transliterated as Sela, meaning unknown"
+    }
+  ],
+  "translation": "Long sanapela ples ⟨em⟩ i brukim olgeta ol ara bilong banis olsem paia, ol sipel, na bainat, na pait. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/76\/1-4.1792358524239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "long sanapela ples"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "i brukim olgeta"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ol ara ... olsem paia"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bilong banis"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ol sipel"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na bainat"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "na pait"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:04.241043481Z",
+  "model": "glm-5.3"
+}

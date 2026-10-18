@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "dik i go antap",
+      "rationale": "עלה i min 'i go antap' — i ken min dik i sot long han, o dik i wokabaut i go antap olsem long han bilong man i no save tingting"
+    },
+    {
+      "kind": "elision",
+      "subject": "olsem na",
+      "rationale": "Hebrew i no gat tok 'olsem' namel long tupela hap — Tok Pisin i nidim em long skelim tok"
+    }
+  ],
+  "translation": "Dik i go antap long han bilong man i dring strong — olsem na tok pasin long maus bilong ol man long tingting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/26\/9-12.1792359740697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "dik"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "bilong man i dring strong"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na tok pasin"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "long maus"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bilong ol man long tingting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:20.697583718Z",
+  "model": "glm-5.3"
+}

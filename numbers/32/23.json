@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 32:23",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Hibru i gat אשר namel long 'rong' na 'bai i painim'; Tok Pisin i no nidim em."
+    },
+    {
+      "kind": "you",
+      "subject": "bilong man Gad na man Reuben",
+      "rationale": "Mose i warnim ol daunbilo olsem rong bai i painim ol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rong",
+      "rationale": "חטאה i tok bilong narakim rot — stat long 'misim'; 'rong' i klostu tasol piksa bilong target i lus."
+    }
+  ],
+  "translation": "Tasol sapos yupela i no mekim olsem, lukim, yupela i mekim rong long Yahwe; na save gut: rong bilong yupela bai i painim yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eebff812b60964f951c488ced241115918d885ce053226b71eb3ecd21a5e4acc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/32\/21-24.1792349592980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yupela i mekim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "yupela i mekim rong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "na save gut"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "rong bilong yupela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bai i painim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:53:12.981493145Z",
+  "model": "glm-5.3"
+}

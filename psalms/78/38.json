@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel heit bilong Em",
+      "rationale": "אף em i nua bilongwinis bilong pes — Tok Pisin i no gat narapela tok, bel hei i klostu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "het bilong Em",
+      "rationale": "חמה em i hat — kalsa bilong bel, no het bilong bodi tasol"
+    },
+    {
+      "kind": "elision",
+      "subject": "ol",
+      "rationale": "כפר i tok long rong bilong ol man (ves 37), Tok Pisin i nidim ol"
+    }
+  ],
+  "translation": "Tasol Em, man bilong marimari, i kavarim ⟨את⟩ rong bilong ol na i no rausim olgeta ol; planti taim Em i turnim bek bel heit bilong Em, na i no kirapim olgeta het bilong Em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/37-40.1792358564241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "tasol Em"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "man bilong marimari"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kavarim"
+    },
+    {
+      "surface": "עון",
+      "gloss": "rong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "rausim olgeta"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "planti taim"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "turnim bek"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bel heit bilong Em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "het bilong Em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:44.241909602Z",
+  "model": "glm-5.3"
+}

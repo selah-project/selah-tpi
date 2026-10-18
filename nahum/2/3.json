@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bringim bek o givim nating",
+      "rationale": "שב read as 'restore' (JPS\/ASV) or 'turn away' (KJV\/Geneva) — context of restoration chosen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום\/בקקים",
+      "rationale": "Infinitive-absolute pun 'the emptiers have emptied them', kept by repeating the same Tok Pisin root."
+    }
+  ],
+  "translation": "Bilong wanem Yahwe i bringim bek ⟨את⟩ praet bilong Yakov, olsem praet bilong Yisrael; bilong wanem ol man i waswasim olgeta i waswasim ol, na ol kona bilong ol diwai raisin ol i bagarapim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/2\/1-4.1792357524359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "שב",
+      "gloss": "i bringim bek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praet bilong Yakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "praet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "olsem praet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ol man i waswasim olgeta"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "i waswasim ol"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "na ol kona bilong ol diwai raisin"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ol i bagarapim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:24.360933250Z",
+  "model": "glm-5.3"
+}

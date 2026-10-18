@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 10:16",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no tok husat i kirapim het — KJV i putim 'it', JPS 'my head' — ⟨em⟩ i makim dispela hap."
+    },
+    {
+      "kind": "crux",
+      "subject": "כשחל",
+      "gloss": null,
+      "rationale": "שחל — tok bilong laion (roar bilong en), sampela i tanim 'laion wol'; hia em i 'laion'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתפלא בי",
+      "rationale": "פלא — wokim samting man i no inap save: Yahwe i soim strong bilong en ananait long Job yet."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i kirapim het — olsem laion yu salim mi; na yu kam bek, yu wokim samting man i no inap save long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/13-16.1792360003570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגאה",
+      "gloss": "na ⟨em⟩ i kirapim het"
+    },
+    {
+      "surface": "כשחל",
+      "gloss": "olsem laion"
+    },
+    {
+      "surface": "תצודני",
+      "gloss": "yu salim mi"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "na yu kam bek"
+    },
+    {
+      "surface": "תתפלא",
+      "gloss": "yu wokim samting man i no inap save"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:43.571771594Z",
+  "model": "glm-5.3"
+}

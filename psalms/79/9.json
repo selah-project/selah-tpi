@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tauim",
+      "rationale": "כפר i tok 'karim antap \/ kouv', na Tok Pisin 'tauim' i klostu; 'sori sori' o 'luskim' i narapela pasin."
+    },
+    {
+      "kind": "addition",
+      "subject": "go ausait",
+      "rationale": "הציל i tok 'pulin rausim', olsem 'sevim go ausait' — 'go ausait' i wanpela mak bilong wok."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "ves i toktok stret long Elohim — helpim, sevim, tauim — na bai i askim bilong Nem bilong en."
+    }
+  ],
+  "translation": "Helpim mipela, Elohim bilong sevim bilong mipela, bilong tok bilong kaun bilong nem bilong yu; na sevim mipela go ausait, na tauim ol sin bilong mipela, bilong nem bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/9-12.1792358600705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Helpim mipela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sevim bilong mipela"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "na sevim mipela go ausait"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na tauim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨long antap bilong⟩"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "ol sin bilong mipela"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:20.705741868Z",
+  "model": "glm-5.3"
+}

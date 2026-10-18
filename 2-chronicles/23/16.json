@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew 'cut a covenant' (from passing between cut pieces); Tok Pisin keeps the cutting 'katim kontrak'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בינו ... ובין ... ובין",
+      "rationale": "Triple repetition of 'between' structuring the covenant parties; repetition preserved with 'namel long'"
+    }
+  ],
+  "translation": "Na Yehoyada i katim kontrak namel long em, na namel long olgeta man, na namel long king, bilong ol i kamap ol man bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/23\/13-16.1792362623450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "i katim"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "namel long em"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bilong ol i kamap"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:23.452661790Z",
+  "model": "glm-5.3"
+}

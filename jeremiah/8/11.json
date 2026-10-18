@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום ואין שלום",
+      "rationale": "Triple repetition of shalom — the doubled promise collapses into the denial; kept as repeated 'pis'."
+    },
+    {
+      "kind": "crux",
+      "subject": "על נקלה",
+      "rationale": "'lightly\/disgracefully' — JPS 'lightly' vs others 'shamefully'; rendered as treating the wound as a small thing."
+    }
+  ],
+  "translation": "Na ol i marimarik ⟨את⟩ bruk bilong pikinini meri bilong manmeri bilong mi, ol i wokim wantaim pasin bilong tingting smol tasol, ol i tok: Pis, pis — tasol i no gat pis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/8\/9-12.1792355031589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "na ol i marimarik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bruk bilong pikinini meri"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bruk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bilong manmeri bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pasin bilong tingting smol tasol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol i no gat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:51.590753545Z",
+  "model": "glm-5.3"
+}

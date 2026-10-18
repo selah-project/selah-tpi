@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diu bilong ol klostu kapsaitim olgeta",
+      "rationale": "איל המלאים, literally 'ram of the fillings\/setting-installs', the ordination ram."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Second-person singular instruction addressed to Moshe."
+    }
+  ],
+  "translation": "Na yu ken kisim ⟨את⟩ diu bilong ol klostu kapsaitim olgeta, na yu kukim ⟨את⟩ mit bilong en long wanpela ples holi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb09ae0152a6171245f7863f39ddcc7fff1c2c2c89073d5cebacda4e30c6b870",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/30-31.1792362947957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diu bilong ol klostu kapsaitim olgeta"
+    },
+    {
+      "surface": "איל",
+      "gloss": "diu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "bilong ol klostu kapsaitim olgeta"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "yu ken kisim"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "na yu kukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit bilong en"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mit bilong en"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "long wanpela ples"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:47.957752987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "KJV 'when thou saidst… my heart said unto thee' vs JPS 'in Thy behalf my heart hath said' — husat i tokim husat: bel bilong man i tok long Yahwe, o Yahwe i tok stat."
+    },
+    {
+      "kind": "addition",
+      "subject": "«…»",
+      "rationale": "Mark bilong tok — Hibru i no gat mak bilong tok, Tok Pisin i putim long we tok i stat."
+    }
+  ],
+  "translation": "Long yu bel bilong mi i tok: «Painim ⟨את⟩ pes bilong mi»; pes bilong yu, Yahwe, mi bai painim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/27\/5-8.1792358081764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Long yu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Painim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong yu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pes bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mi bai painim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:41.766253279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tok bilong David",
+      "rationale": "Hebrew has first-person עשיתי (mi mekim) with no speaker named; the attribution to David is inferred from context."
+    },
+    {
+      "kind": "measurement",
+      "subject": "foa tausen",
+      "rationale": "Verse counts the Levite divisions: 4,000 gatekeepers and 4,000 praisers."
+    },
+    {
+      "kind": "crux",
+      "subject": "עשיתי",
+      "rationale": "'Which I made' vs 'which David made' — first person implies direct speech of David embedded without introduction."
+    }
+  ],
+  "translation": "Na foa tausen ol man bilong lukautim dua bilong banis, na foa tausen ol man bilong singautim nem bilong Yahwe, wantaim ol kain kain samting we mi mekim bilong singautim nem — tok bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/23\/5-8.1792362146423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "na foa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ol man bilong lukautim dua bilong banis"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "na foa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "ol man bilong singautim nem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "wantaim ol kain kain samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi mekim"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "bilong singautim nem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:26.424340044Z",
+  "model": "glm-5.3"
+}

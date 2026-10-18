@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ol i",
+      "rationale": "Subject supplied from v.9 — Hebrew participle 'building' carries no pronoun."
+    },
+    {
+      "kind": "idiom",
+      "subject": "build with blood",
+      "rationale": "Hebrew idiom: leaders' violent injustices are the 'mortar' of their building; kept literal."
+    }
+  ],
+  "translation": "Ol i wokim Zion wantaim blut, na Yerusalayim wantaim nogut pasin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/3\/9-12.1792357345485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Ol i wokim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "wantaim blut"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerusalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "wantaim nogut pasin"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:25.486233673Z",
+  "model": "glm-5.3"
+}

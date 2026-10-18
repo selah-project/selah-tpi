@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ובניכם לבניהם ובניהם",
+      "rationale": "Threefold repetition of 'sons' chains the generations; the ladder structure is kept but Hebrew's terse repetition is expanded."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ספרו",
+      "rationale": "Could be 'autim stori' (recount aloud); 'storim' chosen to keep the oral-telling picture."
+    }
+  ],
+  "translation": "Long dispela samting, storim long ol pikinini bilong yupela, na ol pikinini bilong yupela bai storim long ol pikinini bilong ol, na ol pikinini bilong ol long narapela ol man bilong taim bilong bihain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ccaab6ecf0c2ec7cbec9f6388b619678d029be0bc6bd527957ab7dec0e226cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/1\/2-3.1792363312016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Long dispela samting"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "long ol pikinini bilong yupela"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "storim"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "na ol pikinini bilong yupela"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "long ol pikinini bilong ol"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na ol pikinini bilong ol"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "long ol man bilong taim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bilong bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:52.017610016Z",
+  "model": "glm-5.3"
+}

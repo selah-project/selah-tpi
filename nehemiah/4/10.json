@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 4:10",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "This verse in the Hebrew (half working, half armed) is English 4:16; KJV 4:10 instead has Judah's complaint — a numbering divergence."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית יהודה",
+      "rationale": "'House of Yehuda' rendered 'haus bilong Yehuda', family-tribe sense, not a building."
+    }
+  ],
+  "translation": "Na i kamap long olgeta de bilong bihain, hap bilong ol yangpela man bilong mi i wok long wok, na hap bilong ol i holim ol spia, ol silda, ol bon, na ol kot bilong pait; na ol lidaman i stap bihain long olgeta haus bilong Yehuda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d13a46365d3cef062fc0eb16fbf866e5cbbd70ac1dfb37cd9db460725515fa9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/4\/9-12.1792361553822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hap bilong"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ol yangpela man bilong mi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "i wok long"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na hap bilong ol"
+    },
+    {
+      "surface": "מחזיקים",
+      "gloss": "i holim"
+    },
+    {
+      "surface": "והרמחים",
+      "gloss": "ol spia"
+    },
+    {
+      "surface": "המגנים",
+      "gloss": "ol silda"
+    },
+    {
+      "surface": "והקשתות",
+      "gloss": "na ol bon"
+    },
+    {
+      "surface": "והשרינים",
+      "gloss": "na ol kot bilong pait"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "na ol lidaman"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:33.823370693Z",
+  "model": "glm-5.3"
+}

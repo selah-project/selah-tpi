@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש em i singsing\/wind bilong laip, i no 'sol' — 'laip' long Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "laip bilong ol",
+      "rationale": "הסגיר i no gat objekt insait; ⟨laip bilong ol⟩ i kamap long Tok Pisin bilong klia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר",
+      "rationale": "דבר i min sik nogut, klostu olsem דבור (tok) — tok i luk wankain"
+    }
+  ],
+  "translation": "Em i stretim rot bilong bel bilong en; em i no holim bek laip bilong ol long dai, na em i givim ⟨laip bilong ol⟩ long sik nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/49-52.1792358582155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "i stretim"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "rot"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "bilong bel bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "i holim bek"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "long dai"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "laip bilong ol"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "na laip bilong ol"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "long sik nogut"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "i givim ol i go long"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:02.156144999Z",
+  "model": "glm-5.3"
+}

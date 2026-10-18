@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu no",
+      "rationale": "Tok Pisin i laikim narapela 'no' long wanwan verb; Hibru i gat wanpela לא long stat tasol."
+    }
+  ],
+  "translation": "Na ol i tokim: nogat, yu no bagarapim mipela, na yu no brukim mipela, na yu no tekim wanpela samting long han bilong man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/12\/1-4.1792351689708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tokim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "yu no bagarapim mipela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yu no"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "brukim mipela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yu no"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "tekim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "wanpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:09.710085592Z",
+  "model": "glm-5.3"
+}

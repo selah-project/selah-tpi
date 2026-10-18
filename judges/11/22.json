@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "baundri",
+      "rationale": "Ves i makim ol baundri: Arnon inap Yabok, graun wail inap Yarden"
+    },
+    {
+      "kind": "substitution",
+      "subject": "graun wail",
+      "rationale": "מדבר i save tanim 'wailenes' tasol em i graun i no gat ol man i save stap, ol i draivim ol animal i go long en"
+    }
+  ],
+  "translation": "Na ol i kamap askim long ⟨את⟩ olgeta baundri bilong ol Amori, wantaim long Arnon inap long Yabok, na long ol graun wail inap long Yarden.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "392848abc3df1bcd4c2519dad73afc454bcf86b689baa7463272e55eacac7c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/11\/21-24.1792351247578.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "ol i kamap askim long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baundri bilong ol Amori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "baundri"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "bilong ol Amori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "wantaim long Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ol graun wail"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-18T19:20:47.579508796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק i stap olsem tok Hibru — i no tanim long 'stretpela pasin' tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man khesed",
+      "rationale": "חסידיך i ol man ol i gat khesed — 'saints' bilong Inglis i no holim olgeta mining"
+    }
+  ],
+  "translation": "Ol pris bilong yu bai putim tsedek long skin bilong ol, na ol man khesed bilong yu bai singaut long amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/9-12.1792359188153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ol pris bilong yu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "bai putim long skin bilong ol"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na ol man khesed bilong yu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bai singaut long amamas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:08.153938632Z",
+  "model": "glm-5.3"
+}

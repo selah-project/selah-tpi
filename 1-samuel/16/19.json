@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mesinja",
+      "rationale": "מלאכים here is human messengers, same word used for angels."
+    }
+  ],
+  "translation": "Na Saul i salim ol mesinja i go long Yishai, i tok: Salim ⟨את⟩ David, pikinini bilong yu, we i stap wantaim ol sipsip na meme, i kam long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/16\/17-20.1792351753936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ol mesinja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "salim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i kam long mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "i stap wantaim ol sipsip na meme"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:13.937400332Z",
+  "model": "glm-5.3"
+}

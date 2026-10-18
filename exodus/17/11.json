@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וגבר … וגבר",
+      "rationale": "Wanpela tok i kamap tupela taim — Yisrael i strong, Amalek i strong — pasin bilong hirahira; Tok Pisin i holim daun dispela repitisen."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Sapos Tok Pisin i no putim 'em', man i no save han bilong husat."
+    }
+  ],
+  "translation": "Na i kamap: taim Mose i raisim han bilong ⟨em⟩, Yisrael i strong; na taim i putim han bilong ⟨em⟩ daun, Amalek i strong.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2eb452592a36d362c8de659b16418de2646d7a3f6f7dfc59484f8e9f07e870eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/17\/9-12.1792347688890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "i raisim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "i strong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "i putim daun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "i strong"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:28.892049853Z",
+  "model": "glm-5.3"
+}

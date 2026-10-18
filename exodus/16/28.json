@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel (through Mose)",
+      "rationale": "Yahwe asks the people a direct rhetorical question via Mose."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lusim",
+      "rationale": "מאנתם literally 'refuse' — rendered 'lusim' (forsake); Tok Pisin 'refus' also possible."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Bai yupela no ken bihainim",
+      "rationale": "Read the infinitive לשמר as purpose: 'refuse in order to keep' → 'refuse to keep'; rendered as negative keeping."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Mose: Bai yupela lusim ol komandmen bilong mi na ol Tora bilong mi inap long taim wanem?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4742fc3cf0544e804fb32bbf97d96b0ac56f482034e1cd4d948f5a569c65becb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/28-28.1792362937359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long taim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "yupela lusim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bilong bihainim"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ol komandmen bilong mi"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na ol Tora bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:37.359769893Z",
+  "model": "glm-5.3"
+}

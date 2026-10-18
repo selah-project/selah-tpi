@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתנה",
+      "rationale": "'else would I give it' (KJV) vs 'or I would give it' (BSB) — conditional sense supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "Rendered as 'ofa ol i kukim olgeta' per D4c, not a single word for burnt offering"
+    }
+  ],
+  "translation": "Bilong wanem, yu no laikim ⟨את⟩ ofa bilong slaia — sapos i no olsem, mi ken givim; yu no inap laikim ⟨את⟩ ofa ol i kukim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/17-20.1792358312875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "yu laikim"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofa bilong slaia"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "sapos i no olsem, mi ken givim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "yu inap laikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:32.876482672Z",
+  "model": "glm-5.3"
+}

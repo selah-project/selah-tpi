@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "Hiphil of שאל: 'they lent to them' (KJV) vs 'they let them have what they asked' (JPS\/ASV) vs 'caused them to ask' (YLT)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וינצלו",
+      "rationale": "Same verb can mean 'plunder\/despoil' or 'rescue\/deliver' — here 'they stripped\/plundered Mitsrayim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חן",
+      "rationale": "'grace\/favor in the eyes of' rendered with Tok Pisin pesnais 'good face' idiom."
+    }
+  ],
+  "translation": "Na Yahwe i givim ⟨את⟩ pesnais bilong ol man long ai bilong ol man Mitsrayim, na ol i givim olgeta samting ol i askim; na olsem ol i tekewe olgeta ⟨את⟩ Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/33-36.1792347581726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesnais bilong ol man"
+    },
+    {
+      "surface": "חן",
+      "gloss": "pesnais"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bilong ol man"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ol man Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "na ol i givim olgeta samting ol i askim"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "na ol i tekewe olgeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:41.727836406Z",
+  "model": "glm-5.3"
+}

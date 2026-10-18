@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 16:14",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Hebrew oath formula 'Yahwe lives' — TPI keeps literal 'Yahwe i stap yet' as the quoted oath."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "Hebrew has impersonal 'it will not be said'; TPI needs a subject 'ol man'."
+    }
+  ],
+  "translation": "Olsem, lukluk, ol de i kamap yet, Yahwe i tok: ol man bai no tokim olgeta: 'Yahwe i stap yet, em i bringim ⟨את⟩ ol pikinini bilong Yisrael i kamap ausait long graun bilong Mitsrayim.'",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/16\/13-16.1792355185416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukluk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "באים",
+      "gloss": "i kamap yet"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na … no"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em i … bringim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bringim i kamap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ausait long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:26:25.417798473Z",
+  "model": "glm-5.3"
+}

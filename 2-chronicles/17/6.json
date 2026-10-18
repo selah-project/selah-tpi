@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i bel\/tingting na laik long Tok Pisin, i no hat"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong ol ofa",
+      "rationale": "hai ples (bamot) — tok i klin long Hibru; mi addim wanpela tok bilong kliaim wanem kain hae ples"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol piksa Ashera",
+      "rationale": "האשרים: 'ol piksa bilong goddess Ashera' o 'ol diwai bilongAshera' — ol tanima i no wankain"
+    }
+  ],
+  "translation": "Na bel bilong en i kamap antap long ol rot bilong Yahwe, na bihain em i rausim ⟨את⟩ ol hae ples bilong ol ofa, na ⟨את⟩ ol piksa Ashera, bilong Yehuda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "87f9be36a02957273aebb0648096e8dd06a29e34d1ef6e86ffeb0cd6d72a893f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/17\/6-7.1792363475559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "i kamap antap"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "long ol rot bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na bihain"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "em i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol hae ples bilong ol ofa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ol hae ples bilong ol ofa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol piksa Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ol piksa Ashera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "bilong Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:35.560205659Z",
+  "model": "glm-5.3"
+}

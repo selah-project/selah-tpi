@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai mi",
+      "rationale": "Hebrew verb ארגיז first person; Tok Pisin future and pronoun supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel nogut",
+      "rationale": "עברה is outburst of hot anger; 'bel nogut' is the Tok Pisin idiom for wrath"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרון אפו",
+      "rationale": "literally 'burning of his nose\/nostrils' — anger pictured as flaring nostrils, picture lost"
+    }
+  ],
+  "translation": "Long dispela, bai mi mekim ol heven bilong goret, na graun bai guria i lusum ples bilong en, long bel nogut bilong Yahwe Tsebaot, na long de bilong paia bel bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/13\/13-16.1792354003640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "bai mi mekim bilong goret"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "na bai guria"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "i lusum ples bilong en"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "long bel nogut bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na long de bilong"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "paia bel"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:43.641506668Z",
+  "model": "glm-5.3"
+}

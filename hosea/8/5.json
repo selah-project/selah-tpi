@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong paia",
+      "rationale": "אף em i nek\/nus, tasol long Tok Pisin bel bilong paia i holim piksa bilong kol; חרה i tok bilong paia i kamap"
+    },
+    {
+      "kind": "crux",
+      "subject": "rausim",
+      "rationale": "זנח: Yahwe i rausim kalabus (ASV\/BSB) o pikinini bulmakau i rausim Samaria (KJV\/Geneva) — hu rausim hu, i no klia"
+    },
+    {
+      "kind": "you",
+      "subject": "to Samaria",
+      "rationale": "Yahwe i tokim Samaria stret long nem"
+    }
+  ],
+  "translation": "Yahwe i rausim ⟨את⟩ pikinini bulmakau bilong Samaria; bel bilong paia bilong mi i bagarapim ol. Olsem wanem taim nau? Ol i no inap kamap ol man klia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/8\/5-8.1792357089018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "pikinini bulmakau bilong yu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bel bilong paia bilong mi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanem taim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "i inap"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "kamap ol man klia"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:09.019001878Z",
+  "model": "glm-5.3"
+}

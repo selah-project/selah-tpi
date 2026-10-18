@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מהמרות",
+      "rationale": "Rare word, 'deep pits \/ torrents of destruction' — appears only in plural here."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימיטו … יפלם",
+      "rationale": "Jussive 'let them be made to fall' vs YLT's indicative 'they cause to fall on themselves'."
+    }
+  ],
+  "translation": "Mekim ol kol bilong paia i pundaun antap long ol; mekim paia i trowim ol i go long ol bikpela hol bilong pundaun — bai ol i no kirap gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/140\/9-12.1792359247002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "mekim … i pundaun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "antap long ol"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ol kol bilong paia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "i trowim ol i go daun"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "long ol bikpela hol bilong pundaun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ol i kirap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:07.003693754Z",
+  "model": "glm-5.3"
+}

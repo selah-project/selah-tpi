@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השמים",
+      "rationale": "Hivrit i dual — 'tupela heven' — Tasol Tok Pisin i gat wanpela heven nomo."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעפלים",
+      "rationale": "Wankain sare olsem ves 9: 'ol sweling' o 'emergis'."
+    }
+  ],
+  "translation": "Na ol man we ol i no bin dai, ol i bin paitim wantaim ol sweling, na krai bilong taun i go antap long heven.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/5\/9-12.1792351550306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "na ol man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bin dai"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ol i bin paitim"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "wantaim ol sweling"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "krai bilong"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:50.309348102Z",
+  "model": "glm-5.3"
+}

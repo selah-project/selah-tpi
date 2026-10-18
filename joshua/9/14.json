@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "maus bilong Yahwe",
+      "rationale": "פי יהוה — 'maus bilong Yahwe' em i pasin bilong tok: askim long Tok bilong Yahwe, olsem profet i tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olgeta kaikai bilong ol",
+      "rationale": "מצידם i tok 'ol kaikai ol i bringim', no wok long tanim tok"
+    }
+  ],
+  "translation": "Na ol man i tekim olgeta kaikai bilong ol, tasol ol i no askim long ⟨את⟩ maus bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6e7daa4ee37735a371b6d43300e557172430840b51ca950c09d6be133a1df191",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/9\/13-16.1792350570815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "na ol man i tekim"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "olgeta kaikai bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maus bilong Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "askim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:09:30.816411892Z",
+  "model": "glm-5.3"
+}

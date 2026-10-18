@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הברית",
+      "rationale": "'graun bilong kontrak' — ol i stret long olsem: graun i wokim kontrak, o ol man bilong graun i stap long kontrak."
+    },
+    {
+      "kind": "hapax",
+      "subject": "וכוב",
+      "rationale": "Kub — tok i stap long Tanakh long hia tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הערב",
+      "rationale": "Tok i tok long 'ol i mix wantaim' (mixture), i no nem bilong wanpela lain."
+    }
+  ],
+  "translation": "Kush, na Put, na Lud, na olgeta ol man i mix wantaim, na Kub, na ol pikinini bilong graun bilong kontrak — ol bai pundaun wantaim ⟨את⟩ ol bilong en, long bainat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/30\/5-8.1792356561649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "na Put"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "na Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ol man i mix wantaim"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "na Kub"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "bilong kontrak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wantaim ⟨את⟩ ol",
+      "marks": "ol bilong en (Mitsrayim)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bai pundaun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:49:21.649927556Z",
+  "model": "glm-5.3"
+}

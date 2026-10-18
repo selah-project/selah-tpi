@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yerusalayim na Tsiyon",
+      "rationale": "ves i toktok stret long tupela taun olsem man"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives שבחי\/הללי",
+      "rationale": "tok bilong singaut: 'saitim nem, singautim nem' — em i kolim ol"
+    }
+  ],
+  "translation": "Yerusalayim, yu saitim nem bilong Yahwe ⟨את⟩; Tsiyon, yu singautim nem bilong Elohim bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/9-12.1792359309360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "yu saitim nem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yu singautim nem bilong"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:09.362377740Z",
+  "model": "glm-5.3"
+}

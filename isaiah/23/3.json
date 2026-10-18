@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "Zera is seed; rendered 'kaikai pikinini' (grain) per grain-of-Shihor sense, not offspring"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סחר",
+      "rationale": "Same root as v2 'traders' — Tarshish the trader becomes the traded-goods mart; wordplay lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na long ol bikpela wara, kaikai pikinini bilong Shikor, kalem bilong wara Yaor, em i kaikai bilong em; na em i kamap maket bilong ol lain olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/23\/1-4.1792354215537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "Na long ol wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaikai pikinini"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "bilong Shikor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kalem"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "bilong wara Yaor"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "em i kaikai bilong em"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "maket bilong salim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol lain olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:15.538599703Z",
+  "model": "glm-5.3"
+}

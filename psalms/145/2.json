@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "fixed pair repeated from v.1, refrain structure across the psalm"
+    }
+  ],
+  "translation": "Long olgeta de bai mi blesim yu, na bai mi praisim nem bilong yu long oltaim oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/1-4.1792359313849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "bai mi blesim yu"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "na bai mi praisim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "long oltaim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "oltaim tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.849683889Z",
+  "model": "glm-5.3"
+}

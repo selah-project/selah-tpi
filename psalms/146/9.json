@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יעודד",
+      "rationale": "Strong bilong em i tok 'repeat\/testify', tasol ol tanim tok i ridim 'uphold' — mi usim 'sanapim'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעות",
+      "rationale": "'em i bagarapim rod' o 'em i mekim rod i go kwik' — JPS 'maketh crooked', KJV 'turneth upside down'"
+    },
+    {
+      "kind": "elision",
+      "subject": "יעודד",
+      "rationale": "ol man nogut i no gat ⟨את⟩ long Hibru — olgeta i direct object wantaim rod tasol"
+    }
+  ],
+  "translation": "Yahwe i lukautim ⟨את⟩ ol man i kam long narapela ples, papai bilong papa i dai na man i dai husat em i larim meri bilong en — Yahwe i sanapim ol; tasol rod bilong ol man nogut em i bagarapim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/146\/9-10.1792359291243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "i lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i kam long narapela ples"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ol man i kam long narapela ples"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "papai bilong papa i dai"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na man i dai husat em i larim meri bilong en"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "i sanapim"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tasol rod bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "em i bagarapim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:51.243954556Z",
+  "model": "glm-5.3"
+}

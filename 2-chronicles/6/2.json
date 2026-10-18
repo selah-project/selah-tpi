@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Solomon to Yahwe",
+      "rationale": "Direct address to God in prayer."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשבתך",
+      "rationale": "Literally 'for your sitting'; rendered as dwelling\/resting since sitting = enthroned abiding."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבול",
+      "rationale": "Rare word 'exalted residence', also the name Zebulun; rendered 'bilong stop' (to dwell)."
+    }
+  ],
+  "translation": "Na mi, mi wokim ⟨את⟩ haus bilong stop bilong yu, na ples bilong yu long slip long oltaim oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/1-4.1792362345750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na mi"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "bilong stop"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "na ples bilong yu"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "long slip long yu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "oltaim oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:45.751519071Z",
+  "model": "glm-5.3"
+}

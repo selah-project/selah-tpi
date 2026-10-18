@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "prayer to Yahwe",
+      "rationale": "Verse is direct address to Yahwe with deprecative imperatives."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירומו",
+      "rationale": "'they be\/exalt themselves high' — KJV\/ASV read purpose ('lest'), YLT reads simple statement ('they are high')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה is a musical pause marker, rendered as name not meaning."
+    }
+  ],
+  "translation": "No givim, Yahwe, ol laik bilong man nogut; no mekim i kamap plan bilong en, olsem ol i ken go antap. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/140\/9-12.1792359247002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ol laik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "plan bilong en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "mekim i kamap"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ol i go antap"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:07.003247431Z",
+  "model": "glm-5.3"
+}

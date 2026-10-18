@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרת",
+      "rationale": "Same verb כרת as v.15 — 'cut a covenant' is built on 'cut'; Tok Pisin 'katim kontrak' keeps the root."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew omits the object of ובקש; pronoun added so Tok Pisin sentence is complete."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובקש יהוה",
+      "rationale": "Perfect 'Yahwe will require it' vs jussive 'let Yahwe require it' — KJV jussive, ASV future."
+    }
+  ],
+  "translation": "Na Yonatan i katim kontrak wantaim haus bilong David, na Yahwe i mas painim ⟨em⟩ long han bilong ol birua bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/13-16.1792351890558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "i katim kontrak"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "na i mas painim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ol birua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:30.561152106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol Midian vs ol Ismael",
+      "rationale": "Stat 37:25 i tok 'ol Ismael', ves 36 i tok 'ol Midian' — tupela i tok long wanpela lain o ol lain i wankain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סריס",
+      "rationale": "'saris' — man i wok long haus bilong ol meri bilong king; KJV 'ofisa' i lusim piksa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הטבחים",
+      "rationale": "ol man bilong kotim — 'tabach' em i man bilong katim; 'bikman bilong ol soldia' i tok bilong KJV tasol"
+    }
+  ],
+  "translation": "Na ol Midian ol i selim ⟨את⟩ em i go long Mitsrayim, long Potifar, man bilong wok long haus bilong Paro, king bilong Mitsrayim, na bikman bilong ol man i save katim ol man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "614268ff7881f3d9da19d285577d3b29230ce98e1c0d18a6f9b1f51f2d59fb02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/37\/35-36.1792362923193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְהַ֨מְּדָנִ֔ים",
+      "gloss": "na ol Midian"
+    },
+    {
+      "surface": "מָכְר֥וּ",
+      "gloss": "ol i selim"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לְפֽוֹטִיפַר֙",
+      "gloss": "long Potifar"
+    },
+    {
+      "surface": "סְרִ֣יס",
+      "gloss": "man bilong wok long haus bilong king"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שַׂ֖ר",
+      "gloss": "bikman bilong"
+    },
+    {
+      "surface": "הַטַּבָּחִֽים",
+      "gloss": "ol man i save katim ol man"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:23.194185777Z",
+  "model": "glm-5.3"
+}

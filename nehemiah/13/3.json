@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערב",
+      "rationale": "'ol man i kamap wantaim narapela lain' — 'mixed multitude' (KJV) vs 'alien mixture' (JPS); Tok Pisin i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "Ol tanim tok i no wankain: lain i miksim wantaim Yisrael, o ol man bilong ol narapela kantri olgeta"
+    }
+  ],
+  "translation": "Na i kamap, taim ol i harim ⟨את⟩ Tora, ol i skruwim ausait olgeta man i kamap wantaim narapela lain long graun, ol i raunim wantaim Yisrael, i go ausait long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9f442d1ef6c74315472823dd3a63ecdcc6ea4d95b5771684218ee8a172327d75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/13\/2-3.1792363500119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "taim ol i harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ol i skruwim ausait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "man i kamap wantaim narapela lain"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "i go ausait long Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:45:00.120423495Z",
+  "model": "glm-5.3"
+}

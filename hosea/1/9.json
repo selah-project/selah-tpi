@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Ehyeh",
+      "rationale": "אֶהְיֶה לָכֶם (\"I will not be to you\") lacks a stated predicate; KJV adds \"your God\" from context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לֹא עַמִי",
+      "rationale": "the name Lo-Ammi (\"No-People-of-mine\") puns on the negation לֹא and עַם \"people\", echoing Ex 3:14 אהיה"
+    }
+  ],
+  "translation": "Na em i tok: Kliaim nem bilong en: Lo-Ami, bilong olgeta yu no ol manmeri bilong mi, na mi bai no kamap bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/1\/9-9.1792356943083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kliaim"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol manmeri bilong mi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bai no kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:55:43.083755152Z",
+  "model": "glm-5.3"
+}

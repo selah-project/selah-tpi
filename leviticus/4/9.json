@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela kidni",
+      "rationale": "counting of body parts: two kidneys specified"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wantaim \/ long",
+      "rationale": "על הכליות literally 'upon the kidneys', rendered as accompaniment 'with the kidneys'"
+    },
+    {
+      "kind": "crux",
+      "subject": "hap bilong lewa",
+      "rationale": "היתרת: 'lobe\/flap of the liver' vs traditional 'caul'; literal shape kept"
+    }
+  ],
+  "translation": "Na ⟨את⟩ tupela kidni, na ⟨את⟩ gris we i stap long olgeta, we i stap antap long ol hip, na ⟨את⟩ hap bilong lewa i stap antap long lewa, long ol kidni — em i rausim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/4\/9-12.1792348298438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tupela kidni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gris"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ol hip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hap bilong lewa"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "hap bilong lewa"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lewa"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ol kidni"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "em i rausim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:38.439438460Z",
+  "model": "glm-5.3"
+}

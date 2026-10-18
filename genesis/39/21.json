@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim ⟨את⟩",
+      "rationale": "את long ves 21 em i preposition H854 'wantaim', i no DOM-marker; em i wankain olsem Stat 39:2"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grin",
+      "rationale": "חנו em i 'grin\/favar'; 'grin' i Tok Pisin bilong favar"
+    }
+  ],
+  "translation": "Na Yahwe i stap wantaim ⟨את⟩ Yosef, na em i soim khesed long em, na em i givim grin long ai bilong bikman bilong haus kalabus.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/39\/21-23.1792347096617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wantaim Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i soim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na em i givim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "grin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kalabus"
+    }
+  ],
+  "timestamp": "2026-10-18T18:11:36.617805463Z",
+  "model": "glm-5.3"
+}

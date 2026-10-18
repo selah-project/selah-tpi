@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "slip wantaim ol papa bilong em",
+      "rationale": "euphemism for death, rendered literally"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "passive 'was buried' requires agent 'ol i' in Tok Pisin"
+    }
+  ],
+  "translation": "Na Omri i slip wantaim ol papa bilong em, na ol i putim em long graun long Shomron; na Ahav pikinini bilong em i kamap king long ples bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "939bd009f89512b3d7e7075ff247f72c6a1905eb4b5f64115c937143d4b38774",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/16\/25-28.1792353102215.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "i slip"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong em"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ol i putim em long graun"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "long Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i kamap king"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong em"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:42.216158797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wokim pasin bilong brata i dai",
+      "rationale": "ויבם is the levirate verb: KJV 'marry her', JPS\/ASV 'perform the duty of a husband's brother', BSB 'perform your duty as brother-in-law'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע is literally 'seed', a farming picture Tok Pisin must paraphrase with 'pikinini'"
+    },
+    {
+      "kind": "you",
+      "subject": "Onan",
+      "rationale": "Judah's direct imperative address to Onan"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Go",
+      "rationale": "Imperatives summon Onan to act"
+    }
+  ],
+  "translation": "Na Yehuda i tok long Onan: Go long meri bilong brata bilong yu, na wokim pasin bilong brata i dai long ⟨את⟩ em, na kirapim pikinini bilong brata bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/38\/5-8.1792347078938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "long Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata bilong yu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "wokim pasin bilong brata i dai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bilong brata bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:11:18.939631575Z",
+  "model": "glm-5.3"
+}

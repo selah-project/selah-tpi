@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lip i no kotim",
+      "rationale": "ערל שפתים literal 'uncircumcised (foreskinned) of lips' — idiom for impaired speech; BSB 'unskilled in speech'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew participle needs no copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו \/ ישמעני",
+      "rationale": "root שמע repeated — 'they did not hear' vs 'how will he hear me', a fortiori argument"
+    }
+  ],
+  "translation": "Na Mose i tok long pes bilong Yahwe, i tok olsem: Lukluk, ol pikinini bilong Yisrael i no harim tok bilong mi, na olsem wanem Faro bai i harim tok bilong mi, long wanem, mi man i gat lip ⟨i⟩ no kotim?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "545ea1f4a6602fa0bfabb86682381dc1b161d19c993465e9cb173a8b7fe77780",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/6\/9-12.1792347374919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Lukluk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "harim tok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na olsem wanem"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "bai i harim tok bilong mi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na long wanem mi"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "i no kotim"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lip"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:14.920975409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Hibru i tok long wanpela man (לו) tasol Tok Pisin i needs ol."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ratim nem long laip",
+      "rationale": "Nem bilong ol man i ratim — lista bilong ol i gat laip."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנשאר \/ הנותר",
+      "rationale": "Tupela tok bilong 'stap yet' i kantri klostu — repetisen bilong Hibru, Tok Pisin i lukluk wankain tasol."
+    }
+  ],
+  "translation": "Na bai i kamap: ol i stap yet long Tsiyon, na ol i stap long Yerusalayim, ol bai tokim ⟨ol⟩ se ol i holi — olgeta man ol i ratim nem bilong ⟨ol⟩ long laip long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/4\/1-4.1792353918990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "ol i stap yet"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "na ol i stap"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bai tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "i ratim"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:18.991658347Z",
+  "model": "glm-5.3"
+}

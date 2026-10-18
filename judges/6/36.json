@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 6:36",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu yet i stap",
+      "rationale": "ישך (yesh + 2ms suffix) i tok 'yu gat' — Tok Pisin i needim 'i stap' bilong kliaim."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav i stap long Hedru, gloss em i mak ⟨את⟩ tasol, em i no gat tok Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Gideon i tok stret long Elohim — askim bilong em i go direkt long God."
+    },
+    {
+      "kind": "secret",
+      "subject": "fleece test",
+      "rationale": "Gideon i askim token bilong Nim, samting i hait — em i laik luksave sapos tok i tru (lukim v.37)."
+    }
+  ],
+  "translation": "Na Gideon i tokim Elohim: sapos yu yet i save Yisrael long han bilong mi, olsem ⟨tok⟩ yu bin tokim ⟨את⟩ Yisrael ⟨olsem ya⟩, — olsem tok yu bin tok.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/6\/33-36.1792351089893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Gideon i tokim"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yu yet i stap"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "long han bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem tok"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "yu bin tokim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:18:09.895181478Z",
+  "model": "glm-5.3"
+}

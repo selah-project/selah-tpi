@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "samting ia",
+      "rationale": "Aramaic כלא (all) needs a noun; Tok Pisin supplies 'samting ia'"
+    }
+  ],
+  "translation": "Olgeta samting ia i kamap long Nevukadnetsar, king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9badc238cb2b893dbecbe21cfa65c9cad05f21409d89d8c63b6d99029dce2b7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/4\/25-28.1792361082727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "olgeta samting ia"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:04:42.727958605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן שמונה שנים",
+      "rationale": "Hebrew: 'son of eight years'; Tok Pisin uses 'pikinini man' shape lost, rendered 'i gat etpela yia'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "etpela yia · teti wantaim wan yia",
+      "rationale": "Ages and reign-length counted"
+    }
+  ],
+  "translation": "Yoshiyahu i gat etpela yia taim em i kamap king, na em i king long Yerusalayim teti wantaim wan yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7227a620b3ac4aaa2186d939491d925e1f8b8b3743d2795286ebbf51ce384ad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/34\/1-2.1792363468983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "et"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "taim em i kamap king"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na teti"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "wantaim wan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:28.983589765Z",
+  "model": "glm-5.3"
+}

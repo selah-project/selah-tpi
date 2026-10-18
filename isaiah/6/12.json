@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורבה העזובה",
+      "rationale": "'The forsaking becomes great' — KJV 'great forsaking'; readings vary between 'forsaken places be many' and 'great is the forsaken part'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בקרב 'in the midst'",
+      "rationale": "Rendered 'long bel bilong graun' — center\/heart of the land."
+    }
+  ],
+  "translation": "Na Yahwe i rausim ⟨את⟩ ol man i go longwe, na ol ples ol i lusim i kamap planti, long bel bilong graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/6\/9-12.1792353938874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "na rausim i go longwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "i kamap planti"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ol ples ol i lusim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:38.875789318Z",
+  "model": "glm-5.3"
+}

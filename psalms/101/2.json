@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב em i bel bilong tingting, i no hat"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Tok i go stret long Yahwe: 'sapos wanem taim yu bai kam long mi?'"
+    }
+  ],
+  "translation": "Bai mi tingting gut long rot bilong man i orait tru. Sapos wanem taim yu bai kam long mi? Bai mi wokabaut long bel stret, long namel bilong haus bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/101\/1-4.1792358908919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "bai mi tingting gut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bilong man i orait tru"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "sapos wanem taim"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yu bai kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "bai mi wokabaut"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "long bel stret"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "bilong bel bilong mi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "long namel"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "bilong haus bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:28.920851202Z",
+  "model": "glm-5.3"
+}

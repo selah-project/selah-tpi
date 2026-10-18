@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "Pointed as 'Egypt' (Mitsrayim) but consonants can read 'besieged places\/forted' (KJV 'rivers of besieged places')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרים",
+      "rationale": "Literally 'strange\/foreign waters' — waters from outside one's own land."
+    }
+  ],
+  "translation": "Mi harim hol na dringim ⟨ol⟩ wara bilong ol narapela lain, na mi ken mekima drai long sol bilong tupela lek bilong mi olgeta wara bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae3696727f4a4e40ae520358119b4ab3d68c5252949e0ba2c15e4d643d892830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/19\/21-24.1792353707038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "mi harim hol"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "na mi dringim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bilong ol narapela lain"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "na mi ken mekima drai"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "long sol bilong"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "tupela lek bilong mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "wara bilong"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:01:47.039978507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "long Ben-Hadad",
+      "rationale": "Asa i toktok dairek long Ben-Hadad, king bilong Aram."
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩ before silva na gol",
+      "rationale": "Sors long vers 3 i no gat aleph-tav long silva na gol — rausim ol bracket ia long tanim tok."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לך",
+      "rationale": "Hibru 'wokabaut' long pasin bilong tok i min 'go' — makim komand, i no wokabaut literal."
+    }
+  ],
+  "translation": "Kontrak i stap namel bilong mi na yu, na namel bilong papa bilong mi na papa bilong yu. Lukim, mi bin salim ⟨את⟩ silva na ⟨את⟩ gol long yu; go, scrusum kontrak bilong yu wantaim ⟨את⟩ Baasa, king bilong Yisrael, bilong em i go ausait long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d3831cefd66f3f17cac39da0ac006a5c564b300585b67c230e9a06c21a5c166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/16\/1-4.1792362550218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "namel bilong mi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na namel bilong yu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel bilong"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel bilong"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mi bin salim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na gol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "scrusem"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "kontrak bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "bilong em i go ausait"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:10.220076152Z",
+  "model": "glm-5.3"
+}

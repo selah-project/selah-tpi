@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tingim nogut",
+      "rationale": "וימאסו — 'ol i kaitim graun i go astret', Tok Pisin 'tingim nogut' em i klostu mining"
+    }
+  ],
+  "translation": "Na ol i tingim nogut graun gutpela tru bilong hamamas, ol i no bilip tok bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/21-24.1792358959047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "na ol i tingim nogut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "gutpela tru bilong hamamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ol i bilip"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "tok bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:19.048939823Z",
+  "model": "glm-5.3"
+}

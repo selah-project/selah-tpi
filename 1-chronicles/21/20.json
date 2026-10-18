@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew says only 'his four sons with him hid themselves'; the bracketed pronoun marks that 'him' = Ornan."
+    },
+    {
+      "kind": "alternative",
+      "subject": "i tulait wheet",
+      "rationale": "Some render the last clause as background ('Ornan was threshing wheat') rather than narrative sequence; the Hebrew wayyiqtol allows both."
+    }
+  ],
+  "translation": "Na Ornan i tanim bek, i lukim ⟨את⟩ messenja; na forpela pikinini bilong en wantaim ⟨em⟩ i hait olgeta. Na Ornan i tulait wheet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/21\/17-20.1792362123056.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i tanim bek"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "messenja"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "messenja"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "na forpela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "i hait olgeta"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "na Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "i tulait"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wheet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:03.057205595Z",
+  "model": "glm-5.3"
+}

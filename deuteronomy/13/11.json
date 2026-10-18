@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pushim yu bek",
+      "rationale": "הדיח is 'wash away\/push off' — driven away like water carrying something; 'puspim bek' keeps the physical push, loses the washing image."
+    },
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "Relative connector 'we' added before המוציאך; Hebrew uses the participle directly."
+    }
+  ],
+  "translation": "Na yu ken trowim ston long em wantaim ol ston, na em i dai, long wanem em i traim bilong puspim yu bek long Yahwe, Elohim bilong yu, we em i bringautim yu long graun bilong Mitsrayim, long haus bilong ol wokman.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/13\/9-12.1792349980193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "na yu ken trowim ston long em"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "wantaim ol ston"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na em i dai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "em i traim"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "bilong puspim yu bek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "long hap bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "em i bringautim yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bilong ol wokman"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:40.194865793Z",
+  "model": "glm-5.3"
+}

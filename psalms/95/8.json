@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב i 'bel' long Tok Pisin tingting — no 'hat' (D4)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Meriba \/ Masa",
+      "rationale": "tupela nem i wok long Stat 17:7 — 'pait' na 'traim' — nem bilong ples i stap, mining i stap long nem yet"
+    },
+    {
+      "kind": "invitation",
+      "subject": "No ken mekim bel i hat",
+      "rationale": "tok i sangaut long ol man long senisim pasin"
+    }
+  ],
+  "translation": "No ken mekim bel bilong yupela i kamap hat, olsem long Meriba, olsem long de bilong Masa, long ples wailbus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/95\/5-8.1792358855766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "mekim i kamap hat"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "bel bilong yupela"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "olsem long Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "olsem long de bilong"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wailbus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:35.776557730Z",
+  "model": "glm-5.3"
+}

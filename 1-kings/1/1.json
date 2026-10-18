@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Hebrew idiom 'he came in days' = grown very old; rendered as 'i kamap i go insait long ol de'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied, Hebrew lacks it"
+    }
+  ],
+  "translation": "Na King David i kamap olpela, i kamap ⟨i⟩ go insait long ol de; na ol i kalapim em long ol klos, tasol em i no kisim hat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/1-4.1792352652975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "i kamap olpela"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap ⟨i⟩ go"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "insait long ol de"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ol i kalapim em"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "long ol klos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol ... i no"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "kisim hat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:12.976330868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוריש \/ ירשתם",
+      "rationale": "Same root ירש twice — God dispossesses, you possess; the root-play is lost in Tok Pisin ('rausim' \/ 'kisim')."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מלפניכם",
+      "rationale": "Literally 'from your face', rendered 'long ai bilong yumi' (before your eyes)."
+    }
+  ],
+  "translation": "Na Yahwe bai rausim ⟨את⟩ olgeta dispela ol kantri long ai bilong yumi, na yumi bai kisim ol kantri we ol i moa bikpela na moa strong long yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "38e60c66f2c16f61d3068c29f686f3d6233eae9a43f14a39c4871d377fcdadd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/11\/21-24.1792349943337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "bai rausim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta dispela ol kantri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol kantri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "long ai bilong yumi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "na yumi bai kisim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol kantri"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "na strong"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "long yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:03.338512585Z",
+  "model": "glm-5.3"
+}

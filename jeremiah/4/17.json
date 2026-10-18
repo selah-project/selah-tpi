@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kiap bilong gaden",
+      "rationale": "כשמרי שדי — ol man i lukautim gaden; simile: ol birua i stap olsem ol kiap bilong gaden ol i waitim ol pikinini bodi bilong gaden"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta sait",
+      "rationale": "מסביב — Tok Pisin i laikim wanpela tok bilong olgeta sait"
+    }
+  ],
+  "translation": "Olsem ol kiap bilong gaden, oltaim ol i stap klostu long em, olgeta sait; long wanem ⟨את⟩ em i birua long mi, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/4\/17-20.1792354964733.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "olsem ol kiap bilong gaden"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "klostu long em"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "olgeta sait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "em i birua long mi"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "em i birua"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:22:44.734568777Z",
+  "model": "glm-5.3"
+}

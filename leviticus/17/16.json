@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol klos",
+      "rationale": "Hibru i tok 'sapos em i no wasim' tasol — klos i stap long ves 15; ⟨ol klos⟩ i kamap bilong klia"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא עונו",
+      "rationale": "'karim pek bilong en' — pasin Hibru 'karim', Tok Pisin i holim lek"
+    },
+    {
+      "kind": "elision",
+      "subject": "בגדיו",
+      "rationale": "ves 16 i no ritim 'klos' gen; em i sun long ves bilong bihain"
+    }
+  ],
+  "translation": "Na sapos em i no wasim ⟨ol klos⟩, na bodi bilong em i no wasim, em bai karim pek bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/17\/13-16.1792348608093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wasim"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "bodi bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "wasim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "em bai karim"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "pek bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:48.094416262Z",
+  "model": "glm-5.3"
+}

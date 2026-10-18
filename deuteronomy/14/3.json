@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תועבה",
+      "rationale": "Literally 'disgusting thing, abhorrence'; rendered descriptively since Tok Pisin lacks a single abstract term."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Prohibition addressed directly to Israel."
+    }
+  ],
+  "translation": "Yu i no ken kaikai olgeta samting i no gutpela long ai bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/1-4.1792349967295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ken kaikai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "samting i no gutpela long ai bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:27.296364912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחלת",
+      "gloss": "",
+      "rationale": "naḥalah i min 'samting man i kisim bihain long papa' — Tok Pisin i no gat wanpela tok, olsem 'kago'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Hibru i no gat kopula — 'pikinini i kago bilong Yahwe'"
+    }
+  ],
+  "translation": "Lukim, ol pikinini ol i kago bilong Yahwe; pei — frut bilong bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/127\/1-4.1792359210167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "kago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pei"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frut"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "bilong bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:30.168950090Z",
+  "model": "glm-5.3"
+}

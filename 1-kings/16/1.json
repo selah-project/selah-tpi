@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על",
+      "rationale": "'long pes bilong' renders 'against' — Hebrew על upon\/against Baasa."
+    }
+  ],
+  "translation": "Na tok bilong Yahwe i kamap long Yehu, pikinini bilong Hanani, long pes bilong Baasa, olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "649cb9efe163ae281cf525e2068d4e20a29567394a874796b7d4d7b273f8b217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/16\/1-4.1792353076954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:16.955417301Z",
+  "model": "glm-5.3"
+}

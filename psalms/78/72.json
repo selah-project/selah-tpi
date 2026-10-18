@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב em i 'bel bilong tingting' — Tok Pisin 'bel' i holim tingting na laik, wankain olsem Hibru."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירעם \/ לרעות",
+      "rationale": "Stap.wantaim wasman long 70–71 i kamap gen long 72 — piksa bilong David olsem wasman i go het wantaim ol manmeri."
+    }
+  ],
+  "translation": "Na em i lukautim ol olsem wasman wantaim bel i stret tru bilong em, na wantaim save bilong ol han bilong em em i soim rot long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25a17ec22a3581843e01c64f78089144b19a6c6669c883c1d7c8d3140f0fea70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/69-72.1792358567947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "na em i lukautim ol olsem wasman"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "i stret tru"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "na wantaim save bilong"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ol han bilong em"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "em i soim rot long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:47.948698665Z",
+  "model": "glm-5.3"
+}

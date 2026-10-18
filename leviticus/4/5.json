@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Miskan",
+      "rationale": "אהל מועד — 'haus sel bilong ol i makim taim', Tok Pisin i no gat wanpela tok bilong Tora nem Miskan hia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hamasiak",
+      "rationale": "המשיח long pris: 'man ol i kapsaitim oil long em', i no Masiak bilong bihain."
+    }
+  ],
+  "translation": "Na pris bilong ol i kapsaitim oil long em i ken kisim samting bilong blut bilong ⟨em⟩ bulmakau man, na em i ken bringim ⟨את⟩ ⟨i⟩ go insait long haus sel bilong ol i makim taim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/4\/5-8.1792348350969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "i ken kisim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris bilong ol i kapsaitim oil long em"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ol i kapsaitim oil long em"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "samting bilong blut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bilong bulmakau man"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "em i ken bringim i go insait"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨i⟩",
+      "marks": "blut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bilong ol i makim taim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:30.970192973Z",
+  "model": "glm-5.3"
+}

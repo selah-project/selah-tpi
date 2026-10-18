@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלק",
+      "rationale": "'apportion\/allot' (YLT 'apportioned') vs 'give' (KJV 'given'); I follow 'givim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bentru",
+      "rationale": "וישתחוו literally 'prostrate themselves'; Tok Pisin 'bentru' keeps the bodily picture."
+    }
+  ],
+  "translation": "Na ol i go, na ol i wokim ol narapela Elohim, na ol i bentru long ol — ol Elohim ol i no save long ol, na ⟨em⟩ i no givim ol long ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/29\/25-28.1792350316798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "na ol i go"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na ol i wokim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol narapela Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na ol i bentru long"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ol i save long ol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:16.799021700Z",
+  "model": "glm-5.3"
+}

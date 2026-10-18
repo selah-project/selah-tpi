@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 9:15",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bipo long yu",
+      "rationale": "לפניך is literally 'to your face'; Tok Pisin idiom 'bipo long yu' loses the body part."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פליטה\/שארית repetition",
+      "rationale": "פליטה repeats from v13–14, tying the confession's end to its middle."
+    },
+    {
+      "kind": "you",
+      "subject": "closing confession to Yahwe",
+      "rationale": "Direct address naming Yahwe, Elohim of Yisrael."
+    }
+  ],
+  "translation": "Yahwe, Elohim bilong Yisrael, yu tsedek; bilong wanem mipela i stap yet ol man i sot, olsem dispela de. Lukim, mipela i stap bipo long yu long ol rong bilong mipela; bilong wanem i no gat man inap sanap bipo long yu long dispela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a889e84c06f88f367b634d32b9846642d8d206b7cdc118be7e529970ed922b61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/9\/13-15.1792361499542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "נשארנו",
+      "gloss": "mipela i stap yet"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "ol man i sot"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "olsem dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "lukim, mipela i stap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "bipo long yu"
+    },
+    {
+      "surface": "באשמתינו",
+      "gloss": "long ol rong bilong mipela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "man inap sanap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "bipo long yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:11:39.543896473Z",
+  "model": "glm-5.3"
+}

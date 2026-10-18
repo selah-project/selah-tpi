@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Masiak",
+      "rationale": "משיח — man ol i kapsaitim oil long em (king o pris); i no 'Mesaia' o 'Krais'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronaun bilong klearem se Masiak i bilong Yahwe; Tok Pisin i nidim en"
+    }
+  ],
+  "translation": "Ol king bilong graun i sanap strong, na ol bikman i bung wantaim, ol i againstim Yahwe na againstim Masiak bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/2\/1-4.1792357823226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "i sanap strong"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ol king bilong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na ol bikman"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "i bung wantaim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long agenst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long agenst"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiak bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:23.226957688Z",
+  "model": "glm-5.3"
+}

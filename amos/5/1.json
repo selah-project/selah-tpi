@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "harimim",
+      "rationale": "Verse opens with imperative summons to hear, addressing Israel directly."
+    },
+    {
+      "kind": "you",
+      "subject": "haus bilong Yisrael",
+      "rationale": "Direct address to the house of Israel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sang sori",
+      "rationale": "קינה is a dirge sung with breast-beating or instruments; 'sang sori' keeps the mourning-song shape."
+    }
+  ],
+  "translation": "Harimim dispela ⟨את⟩ tok, we mi kirapim ⟨long⟩ yupela, wanpela sang sori, long haus bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/1-4.1792357311579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "harimim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "sang sori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:51.580365053Z",
+  "model": "glm-5.3"
+}

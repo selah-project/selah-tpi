@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר תחת שבר \/ עין תחת עין \/ שן תחת שן",
+      "rationale": "tripela mak — tok i kam bek tupela taim; Tok Pisin i holim pasin olsem tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bruk",
+      "rationale": "שבר em i bruk\/fracture long bun — i no wund"
+    }
+  ],
+  "translation": "Bruk long ples bilong bruk, ai long ples bilong ai, tit long ples bilong tit; olsem em i putim sen long man, olsem tu ol i givim long ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/17-20.1792348737386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Bruk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bruk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "em i putim"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "long man"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:57.387363445Z",
+  "model": "glm-5.3"
+}

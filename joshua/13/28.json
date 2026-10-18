@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "olgeta bilong ol pikinini bilong Gad",
+      "rationale": "Formulaic summary closing a tribal inheritance list."
+    },
+    {
+      "kind": "substitution",
+      "subject": "olgeta bilong",
+      "rationale": "נחלת is 'inheritance' — rendered as 'olgeta bilong ol' (what belongs to them), Tok Pisin lacks a single inheritance word here."
+    }
+  ],
+  "translation": "Dispela em i olgeta bilong ol pikinini bilong Gad, long olgeta famili bilong ol — olgeta siti na olgeta ples bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aa81e4bc1f6ed07e7f0f47dbaea13e1af424f658a7ea6cafa4a119ac84d2ba6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/25-28.1792350736401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dispela"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "olgeta bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "long famili bilong ol"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "olgeta siti"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "na olgeta ples bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:16.402690034Z",
+  "model": "glm-5.3"
+}

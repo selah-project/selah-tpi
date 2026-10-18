@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אונים",
+      "rationale": "און em i strong\/mani; 'stat tru bilong strong' — KJV 'chief of their strength'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חם",
+      "gloss": "Kham em i pikinini bilong Noa; Mitsrayim em i lain bilong en."
+    }
+  ],
+  "translation": "Na em i paitim olgeta pikinini bikpela long Mitsrayim, stat tru bilong strong bilong ol, long ol haus sel bilong Kham.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/49-52.1792358582155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pikinini bikpela"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "stat tru"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "bilong strong bilong ol"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "long ol haus sel"
+    },
+    {
+      "surface": "חם",
+      "gloss": "bilong Kham"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:02.156310188Z",
+  "model": "glm-5.3"
+}

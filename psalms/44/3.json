@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותטעם \/ ותשלחם",
+      "rationale": "Safiks -ם i min ol lain bilong Isrel (BSB: 'our fathers') o ol olman lain yet (YLT)? Mipela makim ol lain bilong Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הורשת",
+      "rationale": "יורש em i 'rausim ol i stap bipo na holim graun', mipla ridim 'rausim' tasol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותטעם ... ותשלחם",
+      "rationale": "Planim na salim i go — tupela tok i daunim narapela; plant vs send away pasel i no kamap klaus long Tok Pisin."
+    }
+  ],
+  "translation": "Yu, wantaim ⟨את⟩ han bilong yu yu rausim ol olman lain, na yu planim ⟨ol lain bilong yu⟩; yu bagarapim ol lain manmeri, na yu salim ol ⟨i⟩ go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d81b34b2fe27c73d336ae0b6513a78bcce3ba43b1f8a7c8ced15d5436171424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/44\/2-3.1792363359482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol olman lain"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "yu rausim"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "na yu planim ol"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "yu bagarapim"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ol lain manmeri"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "na yu salim ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:39.482966022Z",
+  "model": "glm-5.3"
+}

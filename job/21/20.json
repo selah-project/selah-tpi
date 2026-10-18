@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 21:20",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ומחמת",
+      "rationale": "tok i min 'hat \/ kros'; Hibru i tok 'em i dringim kros' — pasin bilong tok, Tok Pisin i holim"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כיד",
+      "rationale": "tok bilong 'bagarap \/ kalanti' i no kamap planti long Tanakh"
+    }
+  ],
+  "translation": "Ol ai bilong em yet i lukim ⟨את⟩ bagarap bilong em, na em i dringim ⟨⟩ kros bilong Sadai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e4ec48aff828a92e00a6ede866ee161b968ba5bf2e1d4652bf9ddd7d68ab7197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/21\/17-20.1792360135241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ol ai bilong em yet"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "bagarap bilong em"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "kros bilong"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sadai"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "em i dringim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:48:55.242758043Z",
+  "model": "glm-5.3"
+}

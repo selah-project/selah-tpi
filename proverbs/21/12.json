@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיל צדיק",
+      "rationale": "'man stretpela i save lukluk gut' (KJV, ASV) o 'Man Stretpela' = God bilong olgeta (JPS, YLT) — hap tok i ambiguos"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebru i no gat man i mekim 'overthrow' — stem i active; Tok Pisin i nidim ol"
+    }
+  ],
+  "translation": "Man stretpela i save lukluk gut long haus bilong man nogut; ol i bagarapim olgeta ol man nogut long olsem nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/9-12.1792359618211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "i save lukluk gut"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stretpela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bilong man nogut"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ol i bagarapim olgeta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "long olsem nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:18.212876438Z",
+  "model": "glm-5.3"
+}

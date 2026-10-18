@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הברו\/צדקתינו",
+      "rationale": "n\/a"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נגע ... ונשא",
+      "rationale": "Hebrew idiom of 'touching heaven and being lifted to clouds' = judgment is boundless; rendered literally with klaus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mipela i traim",
+      "rationale": "רפאנו is plain 'we healed'; the conative 'tried to' comes from context (ולא נרפתה)."
+    },
+    {
+      "kind": "elision",
+      "subject": "השמים",
+      "rationale": "Hebrew dual 'two hevens' flattened to singular heven, Tok Pisin lacks dual."
+    }
+  ],
+  "translation": "Mipela i traim mekim orait ⟨את⟩ Babel, tasol em i no kamap orait; lusim em, na yumi go, wanwan man i go long graun bilong en; bilong kot bilong em i go antap i kamp long heven, na em i antap olgeta i go inap long ol klaus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/9-12.1792355965970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "mipela i traim mekim orait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babel"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol ... i no"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "i kamap orait"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "lusim em"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "na yumi go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "i go long graun bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "i go antap i kamp long"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "kot bilong em"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na em i antap olgeta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ol klaus"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:25.971125160Z",
+  "model": "glm-5.3"
+}

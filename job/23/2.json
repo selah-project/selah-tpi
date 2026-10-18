@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i needim em"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hatpela",
+      "rationale": "מרי em i narapela kain — 'bitter' na 'rebelius' tupela; KJV 'bitter', ASV 'rebellious'"
+    },
+    {
+      "kind": "crux",
+      "subject": "han bilong mi i heavymo",
+      "rationale": "ידי כבדה על אנחתי: 'han bilong mi i heavymo long singaut pen' o 'han i heavymoa singaut pen yet' — tupela lain ol man i tantim tok i no putim wanem"
+    }
+  ],
+  "translation": "Tasol long dispela de, tok bilong bel hevi bilong mi ⟨em⟩ i hatpela; han bilong mi i heavymo long singaut pen bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "22611f0377ce044819b85aa507b1352c908304232dfc0ce76a089988cc97b6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/23\/1-4.1792360150925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "hatpela"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "tok bilong bel hevi bilong mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "i heavymo"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "singaut pen bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:10.926647024Z",
+  "model": "glm-5.3"
+}

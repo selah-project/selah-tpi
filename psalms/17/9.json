@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש em i laip\/breth, i no 'soul' olsem Inglis."
+    },
+    {
+      "kind": "elision",
+      "subject": "זו",
+      "rationale": "Tok marksam, no wok Tok Pisin; gloss bracket tasol."
+    }
+  ],
+  "translation": "Long pes bilong ol man i wokim rong, ol i bagarapim mi; ol birua bilong mi long laip ol i wokabaut raun long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/17\/9-12.1792357912133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man i wokim rong"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨ol i⟩"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "bagarapim mi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "ol i wokabaut raun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:52.134420945Z",
+  "model": "glm-5.3"
+}

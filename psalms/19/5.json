@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rop",
+      "rationale": "קו em i rop bilong skelim; Septuagint i tanim olsem 'ol singaut' (φθόγγος), tasol Hibru i tok 'rop'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronom bilong SUBJEKT; Tok Pisin i needim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olgeta graun",
+      "rationale": "תבל i tok olsem 'graun we ol man i stap long en', narapela tok long הארץ"
+    }
+  ],
+  "translation": "Long olgeta graun, rop bilong ol i go ausait, na long hangre bilong olgeta graun, ol tok bilong ol; long san ⟨em⟩ i wokim haus sel long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/5-8.1792358022211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rop bilong ol"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "na long hangre"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olgeta graun"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ol tok bilong ol"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "long san"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:42.211985338Z",
+  "model": "glm-5.3"
+}

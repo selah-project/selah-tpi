@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Avraham",
+      "rationale": "Servant speaks directly to his master, quoting his earlier question."
+    },
+    {
+      "kind": "substitution",
+      "subject": "masta bilong mi",
+      "rationale": "אדני of a human master rendered 'masta bilong mi' per D1, not Adonai."
+    }
+  ],
+  "translation": "Na mi tok long masta bilong mi: Sapos meri i no ken kam bihain long mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d6f960781708889f7d454d227cb80b1fa2b24a84b560edc1690137285a38b1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/39-40.1792362908275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na mi tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:08.276679386Z",
+  "model": "glm-5.3"
+}

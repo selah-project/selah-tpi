@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok 'em' long bilong vol; Hibru i no gat tok bilong em."
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Shaul i toktok dairekt long David, pikinini bilong en."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shaul",
+      "rationale": "David i bekim toktok dairekt long king, 'bikman bilong mi, king'."
+    }
+  ],
+  "translation": "Na Shaul i kirap long, i save gen ⟨את⟩ vol bilong David, na i tok: Dispela vol ⟨em⟩ i vol bilong yu, pikinini bilong mi David? Na David i tok: Em i vol bilong mi, bikman bilong mi, king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/26\/17-20.1792352087666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "i save gen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vol bilong David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vol"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "vol bilong yu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini bilong mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "vol bilong mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:47.667115399Z",
+  "model": "glm-5.3"
+}

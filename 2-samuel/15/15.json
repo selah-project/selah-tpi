@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "Relative clause marker supplied — Tok Pisin needs 'we' where Hebrew uses אשר with fronted object."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבדיך",
+      "rationale": "Hebrew gives no verb — 'behold, your servants'; versions supply 'are ready to do' (KJV) or leave as statement of standing (ylt, BSB)."
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Servants directly address David: 'bikman bilong mipela king' — direct second-person response."
+    }
+  ],
+  "translation": "Na ol wokboi bilong king i tokim king: Olsem olgeta samting we bikman bilong mipela king i laik makim — lukim, olgeta wokboi bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "50204b90d698d1e388e5548e71f77fac0c7fd25cb80c2a755fbcaf9102bc519d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/15\/14-15.1792363122587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokboi bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "i laik makim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mipela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "olgeta wokboi bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:42.588182253Z",
+  "model": "glm-5.3"
+}

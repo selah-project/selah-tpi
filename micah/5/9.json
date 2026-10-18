@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 5:9",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נאם יהוה",
+      "rationale": "Hebrew oracle formula 'an utterance of YHWH' rendered as 'Yahwe i tok' per D3."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והכרתי",
+      "rationale": "kat (cut off) repeats in vv.9–12 four times — anaphora on judgment verbs, kept as wanpela tok 'katim'."
+    }
+  ],
+  "translation": "Na long dispela de, Yahwe i tok: bai mi katim ol hos bilong yu i go ausait long namel bilong yu, na bai mi bagarapim ol kari bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "061f9eb75352d907fb4f3b7870342027448b4e79d5f0d882d110e2b5204329a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/5\/9-12.1792357332687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "bai mi katim"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ol hos bilong yu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "i go ausait long namel bilong yu"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "na bai mi bagarapim"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "ol kari bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:12.687852026Z",
+  "model": "glm-5.3"
+}

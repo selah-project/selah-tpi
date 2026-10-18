@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצב",
+      "rationale": "קצב i min olsem 'senis ol i katim — fasin\/shape', mi tanim olsem 'kain fasin'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ten kubit",
+      "rationale": "Ves i skelim ol kerub long kubit — pasin bilong skelim"
+    }
+  ],
+  "translation": "Na ten kubit ol i skelim ⟨את⟩ kerub namba tu: wanpela ol i skelim, na wanpela kain fasin i kamap long ol tupela kerub.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4633545c37b0a04167a7ccd457c9d717a8be1bf00477161130ed3f60ff976bf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/25-28.1792352803713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "ten kubit"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ol i skelim long kubit"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "namba tu"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "wanpela ol i skelim"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "wanpela kain fasin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "long ol tupela"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ol kerub"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:43.714046800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker required; Hebrew has no copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bilong yu olgeta",
+      "rationale": "זרעך is literally 'your seed', rendered 'pikinini' (descendants) per word-shape table"
+    }
+  ],
+  "translation": "Bihainem, olsem ol nupela heven na ⟨i⟩ nupela graun bilong mi wokim i sanap pastaim long mi, Yahwe i tok olgeta, olsem tu pikinini bilong yu olgeta na nem bilong yu olgeta bai i sanap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/66\/21-24.1792354860406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihainem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol nupela heven"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "nupela"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na ⟨i⟩ nupela graun"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nupela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "i sanap pastaim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok olgeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bai i sanap"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "pikinini bilong yu olgeta"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "na nem bilong yu olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:00.406859603Z",
+  "model": "glm-5.3"
+}

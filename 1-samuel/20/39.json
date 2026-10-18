@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "hidden matter",
+      "rationale": "The narrator states outright that the matter (הדבר) was known only to the two — the essence of the secret signal scene."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok",
+      "rationale": "הדבר is 'the word\/matter'; rendered 'tok' — the agreed arrangement between Jonathan and David."
+    }
+  ],
+  "translation": "Na boi i no save long wanpela samting; tasol Yonatan na David, olgeta tupela i save ⟨את⟩ tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/37-40.1792351915173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "na boi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "wanpela samting"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:55.174755847Z",
+  "model": "glm-5.3"
+}

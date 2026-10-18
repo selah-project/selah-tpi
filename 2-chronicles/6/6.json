@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long en",
+      "rationale": "Hebrew 'sham' (there) needs the Tok Pisin locutive 'long en'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואבחר … ואבחר",
+      "rationale": "repetition of 'and I chose' frames city and man in parallel, kept as 'mi bin makim' twice"
+    }
+  ],
+  "translation": "Tasol nau mi bin makim Yerusalayim bilong Nem bilong mi i stap long en, na mi bin makim David bilong i stap olsem king long ol man bilong mi Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a24b8c18f5212b601a082fc279d04c5e309091375145823c8d6f21b76a81f16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/5-8.1792362311406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "tasol nau mi bin makim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bilong i stap"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Nem bilong mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "na mi bin makim"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bilong i stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "olsem king long"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol man bilong mi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:11.406994805Z",
+  "model": "glm-5.3"
+}

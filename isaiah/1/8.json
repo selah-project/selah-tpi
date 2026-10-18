@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pikinini meri bilong Tsiyon",
+      "rationale": "בת ציון — 'pikinini meri bilong Tsiyon', Tok Pisin i no gat klostu shaip bilong construct"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצורה",
+      "rationale": "נצר hitim tupela mining: 'ol i holimpas' (taun bilong pait) o 'ol i lukautim' (Yerusalayim i stap yet)"
+    }
+  ],
+  "translation": "Na pikinini meri bilong Tsiyon i stap olsem wanpela haus sel long gaden wain, olsem wanpela haus bilong slip long gaden konkara, olsem wanpela taun ol birua i holimpas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/5-8.1792353804904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "na i stap olsem"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "wanpela haus sel"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "long gaden wain"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "olsem wanpela haus bilong slip"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "long gaden konkara"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "olsem wanpela taun"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ol birua i holimpas"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:24.905370823Z",
+  "model": "glm-5.3"
+}

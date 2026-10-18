@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סופה",
+      "rationale": "סופה 'sotwin \/ hurricane' — tok i no kamap planti long Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף \/ חמה",
+      "rationale": "tupela tok — 'nús' na 'hat' — em i minim kros; Tok Pisin i makim olsem kros na hotpela bel."
+    }
+  ],
+  "translation": "Long wanem, lukim, Yahwe i kam wantaim paia, na ol kariot bilong en olsemwin bikpela win; bai givim bek kros bilong en long hotpela bel, na tok skrukim bilong en long paia i sot i go antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c59325694b7fc9ac7eac29ad56b9dce6a17603bf8a0bbfe0398de6306fe5afed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/66\/13-16.1792354859088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wantaim paia"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "ol kariot bilong en"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "bikpela win"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "bai givim bek"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "long hotpela bel"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kros bilong en"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "na tok skrukim bilong en"
+    },
+    {
+      "surface": "בלהבי אש",
+      "gloss": "long paia i sot i go antap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:20:59.090091771Z",
+  "model": "glm-5.3"
+}

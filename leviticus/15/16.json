@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שכבת זרע",
+      "rationale": "lit. 'slep bilong sit' — Tok Pisin 'sit i lus' em i pasin bilong tok long bodi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וטמא",
+      "gloss note": "'tambu' long ples bilong 'no klip' — tambu em i tok bilong Lo bilong Mose long Tok Pisin Baibel"
+    },
+    {
+      "kind": "measurement",
+      "subject": "inap apinun",
+      "rationale": "taim bilong tambu i skelim inap apinun tasol"
+    }
+  ],
+  "translation": "Na sapos man i gat sit i lus long em, em i wasim long wara ⟨את⟩ olgeta bodi bilong em, na em i stap tambu inap apinun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/15\/13-16.1792348606354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na sapos man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "i lus i go aut"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "slep bilong"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "em i wasim"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta bodi bilong em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bodi bilong em"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "na em i stap tambu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:46.355920135Z",
+  "model": "glm-5.3"
+}

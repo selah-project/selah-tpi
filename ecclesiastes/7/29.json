@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skelim-tok",
+      "rationale": "חשבנות i min ol tingting-bikhet, ol mekemsamting long hulim narapela man — 'inventions' long Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela samting tasol",
+      "rationale": "לבד זה — 'tasol dispela' mi putim 'wanpela samting' bilong klia Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישר \/ חשבנות",
+      "rationale": "Hebrew i stackim 'stret' wantaim 'ol hevi-tok' — tupela i faitem long wanpela ves"
+    }
+  ],
+  "translation": "Tasol lukim: dispela wanpela samting tasol mi painim, se Elohim i mekim ⟨את⟩ man i stret, tasol ol i painimaut planti kain skelim-tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d3dbfea87bdae45d5f239c61b62fa7b348305a3efad2cff969acf5f81b9968d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/29-29.1792360757615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mi painim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tasol ol"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "i painimaut"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "planti kain skelim-tok"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:17.616081925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ran long aninit",
+      "rationale": "חָסָה we 'ran i go long ples bilong sait' — Tok Pisin 'ran long aninit long yu' i holim pic bilong skelim"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותסך",
+      "rationale": "KJV 'defendest', JPS 'shelter', ylt 'coverest' — סָכַךְ we 'tanim ol, kalapim ol'; 'tanim ol' em i wanpela as bilong tanim tok bilong Setin"
+    }
+  ],
+  "translation": "Na olgeta i ran long aninit long yu bai amamas; oltaim ol bai singaut long amamas, na yu tanim ol; na ol i luvsim nem bilong yu bai hamamas long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/9-12.1792357833364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bai amamas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "i ran long aninit long yu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ol bai singaut long amamas"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "yu tanim ol"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "bai hamapas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ol i luvsim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:33.365821490Z",
+  "model": "glm-5.3"
+}

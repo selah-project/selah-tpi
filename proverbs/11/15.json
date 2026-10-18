@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקעים",
+      "rationale": "Hebrew 'striking hands' = sealing a pledge; rendered literally with the custom named."
+    },
+    {
+      "kind": "crux",
+      "subject": "רע ירוע",
+      "rationale": "Wordplay: root רעע repeated — 'the bad shall be badly hurt'; most versions lose the pun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רע\/ירוע",
+      "rationale": "Paronomasia of the same root, lost in Tok Pisin."
+    }
+  ],
+  "translation": "Man nogut bai i kim na i pen yet, long wanem em i wanem go long man bilong narapela lain; tasol man i les long ol pasin bilong pasim han wantaim, em i stap isi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/11\/13-16.1792359513529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bai i kim na i pen yet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "i wanem go"
+    },
+    {
+      "surface": "זר",
+      "gloss": "long man bilong narapela lain"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tasol man i les long"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "ol pasin bilong pasim han wantaim"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "em i stap isi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:33.530151476Z",
+  "model": "glm-5.3"
+}

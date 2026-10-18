@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Rapa",
+      "rationale": "להרפא with article: 'to the Rapha' — ancestor's name, or 'to the giant(s)'; versions split between 'the giant' and the name Raphah"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i pundaun",
+      "rationale": "ויפלו 'they fell' is the standard Hebrew idiom for dying in battle, kept literal here"
+    }
+  ],
+  "translation": "Olgeta ⟨em⟩ ol i kamap pikinini bilong Rapa long Gat, na ol i pundaun long han bilong David na long han bilong ol wokman bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec9db1456fca7ad1f12e8cde3afd9fe908604017e581be5d4f1dbc3983260dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/20\/7-8.1792363490946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Olgeta ⟨em⟩"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ol i kamap pikinini"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "bilong Rapa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "long Gat"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:50.946640340Z",
+  "model": "glm-5.3"
+}

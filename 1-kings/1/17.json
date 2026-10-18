@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 1:17",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim predikit mak i, Hibru i no gat em"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol meri wok bilong yu",
+      "rationale": "אמה em i wanpela meri wok, TPI i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "bihain long mi",
+      "rationale": "אחרי i save min 'bihain long mi' o 'bihain bilong king'; Batsheba i tok long David yet"
+    }
+  ],
+  "translation": "Na em i tokim ⟨i⟩: Bikman bilong mi, yu yet yu swerim long Yahwe Elohim bilong yu long ol meri wok bilong yu, se Sholomo pikinini bilong yu bai i king bihain long mi, na em bai i sindaun long thron bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/17-20.1792352654583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na em i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Bikman bilong mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "yu swerim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "long ol meri wok bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sholomo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bai i king"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long mi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bai i sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "thron bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:14.584492916Z",
+  "model": "glm-5.3"
+}

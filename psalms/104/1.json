@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש em i laif\/breth, Tok Pisin 'bel bilong mi' i holim tingting na laik, klostu tumas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bilongim",
+      "rationale": "ברכי em i 'ninim', tasol man i ninim bilong givim nem gutpela long God"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "ves i toktok stret long Yahwe, 'Yahwe Elohim bilong mi, yu bikpela tumas'"
+    }
+  ],
+  "translation": "Bilongim bel bilong mi, ⟨את⟩ Yahwe. Yahwe, Elohim bilong mi, yu bikpela tumas; yu save putim olsem slok bilong yu strongpela nem na kerekere.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/1-4.1792358923284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "bilongim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "yu bikpela tumas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "strongpela nem"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na kerekere"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "yu save putim olsem slok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:43.285600604Z",
+  "model": "glm-5.3"
+}

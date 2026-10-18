@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחשקים",
+      "rationale": "Root חשק 'to cling\/join'; rendered as silver bands\/sheathing — KJV 'filleted', BSB 'bands', YLT reads as pegs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "koper",
+      "rationale": "נחושת is copper\/bronze, not 'brass' as older versions have it."
+    }
+  ],
+  "translation": "Olgeta pol bilong banis long ol arere, ol i binim silva long ol; ol huk bilong ol i silva, na ol stap bilong ol i koper.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/27\/17-20.1792347886394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "pol bilong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "banis"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "long ol arere"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "binim silva long ol"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ol huk bilong ol"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na ol stap bilong ol"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:46.395149071Z",
+  "model": "glm-5.3"
+}

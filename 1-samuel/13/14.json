@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 13:14",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבבו",
+      "rationale": "לב is 'bel' (inner self, will), rendered as bel not literal body heart."
+    },
+    {
+      "kind": "addition",
+      "subject": "gen",
+      "rationale": "'bai i no sanap gen' — Hebrew says only 'shall not stand'; 'gen' supplied for natural Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shaul",
+      "rationale": "continued direct second-person address closing Shemuel's judgment."
+    },
+    {
+      "kind": "mystery",
+      "subject": "man wankain bel bilong em",
+      "rationale": "the identity of the sought man is withheld — no name given, first readers do not yet know."
+    }
+  ],
+  "translation": "Na nau, kingdom bilong yu bai i no sanap gen. Yahwe i bin painimaut bilong em man wankain bel bilong em, na Yahwe i givim tok long em bilong i kamap lida long ol manmeri bilong em, bilong wanem yu no bin holim gut ⟨את⟩ olgeta we Yahwe i givim tok long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/13-16.1792351656841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "kingdom bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bai i sanap"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "i bin painimaut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "wankain bel bilong em"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "na i givim tok long em"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "bilong i kamap lida"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "yu bin holim gut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta we Yahwe i givim tok long yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olgeta we"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "em i givim tok long yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.842288059Z",
+  "model": "glm-5.3"
+}

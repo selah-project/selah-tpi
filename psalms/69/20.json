@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tok",
+      "rationale": "חרפה em i tok bilong bagarapim man — 'tok' i go insait long ⟨…⟩ bilong klia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתי · ובשתי · וכלמתי",
+      "rationale": "Tripela tok bilong sem i ran tok wantaim — tripela klos, ol birua i stap,"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Tok i go stret long Yahwe — 'yu save'."
+    }
+  ],
+  "translation": "Yu save olgeta ⟨tok⟩ bilong bagarapim mi, na sem bilong mi, na tok bilong beltel mi; olgeta ol birua bilong mi i stap han bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/17-20.1792358468338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save olgeta"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "⟨tok⟩ bilong bagarapim mi"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "na sem bilong mi"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "na tok bilong beltel mi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "i stap han bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ol birua bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:08.339044957Z",
+  "model": "glm-5.3"
+}

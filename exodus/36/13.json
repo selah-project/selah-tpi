@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "huk",
+      "rationale": "קרסי em i knob\/huk bilong holdim, olsemo 'taches\/clasps' long Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i needim predicate marker; המשכן אחד i no gat copula long Hibru"
+    }
+  ],
+  "translation": "Na em i wokim faiftipela huk bilong gol, na em i joinim ⟨את⟩ ol katen, wan long wan, wantaim ol huk; na Miskan i kamap ⟨i⟩ wanpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b46bd315484deba74de6d1fc9234a8bc94a5ae719a16fd824c31004095fc5754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/36\/13-16.1792348159986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faiftipela"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "huk bilong"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "na em i joinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol katen"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ol katen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "wantaim ol huk"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:19.987397625Z",
+  "model": "glm-5.3"
+}

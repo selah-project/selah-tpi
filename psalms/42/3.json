@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש i klostu long 'breth \/ laip bilong man'"
+    },
+    {
+      "kind": "you",
+      "subject": "long Elohim",
+      "rationale": "tok i go stret long Elohim — askim 'wanem taim bai mi kamap'"
+    }
+  ],
+  "translation": "Bel bilong mi i wantaim wara long Elohim, long El i gat laip — wanem taim bai mi kamap, na mi lukim pes bilong Elohim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/42\/1-4.1792358225806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "i wantaim wara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "long El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gat laip"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanem taim"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi kamap"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "na mi lukim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:05.808654224Z",
+  "model": "glm-5.3"
+}

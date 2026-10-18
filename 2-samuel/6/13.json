@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 6:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sikispela step",
+      "rationale": "counted steps pacing the sacrifice at the ark's ascent"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעדו \/ צעדים",
+      "rationale": "verb 'they stepped' echoed in noun 'steps' — same root repetition"
+    },
+    {
+      "kind": "crux",
+      "subject": "bulmakau man na bulmakau",
+      "rationale": "Hebrew is singular 'ox and fatling' (one of each); KJV reads plural 'oxen and fatlings'"
+    }
+  ],
+  "translation": "Na i kamap, taim ol man i karim bokis bilong Yahwe i wokabaut sikispela step, em i wokim ofa bilong wanpela bulmakau man na wanpela bulmakau.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1409a58f740d1dff55b3d65531a57408289bcf8de4e59c4e11a0fcc5f20f0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/6\/13-16.1792352249616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ol man i karim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "bokis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sikispela"
+    },
+    {
+      "surface": "צעדים",
+      "gloss": "step"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "em i wokim ofa bilong"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wanpela bulmakau man"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "na wanpela bulmakau"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:29.616666483Z",
+  "model": "glm-5.3"
+}

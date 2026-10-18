@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela",
+      "rationale": "Fixed double restitution — counting built into the law."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וגנב",
+      "rationale": "Hebrew verb 'and-it-was-stolen' (passive) rendered with active agent 'stilman i stilim'; Tok Pisin lacks a neat passive here."
+    }
+  ],
+  "translation": "Sapos man i givim silva o ol samting long poroman bilong en bilong lukautim, na stilman i stilim olgeta long haus bilong ⟨dispela⟩ man — sapos ol i painim ⟨את⟩ stilman, em bai peim tupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/5-8.1792347820167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poroman bilong en"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ol samting"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bilong lukautim"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "na stilman i stilim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "stilman"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "em bai peim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:40.168359340Z",
+  "model": "glm-5.3"
+}

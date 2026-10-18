@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mekim i no holi",
+      "rationale": "טמא 'defile\/desecrate' rendered descriptively; Tok Pisin lacks one-word equivalent."
+    },
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "לַמֹּלֶךְ with article: 'to Molek' (the deity) vs 'to the king'; Molek is the standard reading."
+    },
+    {
+      "kind": "elision",
+      "subject": "להעביר",
+      "rationale": "'make pass through' — rendered as salim i go 'send into', literal 'pass through fire' is the crux image."
+    }
+  ],
+  "translation": "Na em i mekim i no holi ⟨את⟩ Tofet, we i stap long vali bilong ol pikinini bilong Hinom, bilong olsem ol man i no inap salim pikinini man bilong en ⟨את⟩ na ⟨את⟩ pikinini meri bilong en long paia long Molek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/23\/9-12.1792353733333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Na em i mekim i no holi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "long vali bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bilong olsem … i no inap"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "salim i go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini man bilong en"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "pikinini meri bilong en"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pikinini meri bilong en"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long Molek"
+    }
+  ],
+  "timestamp": "2026-10-18T20:02:13.334371620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Pahat-Moav",
+      "rationale": "פחת מואב i stap wantaim nem: 'Pahat bilong Moav' — nem bilong wanpela lain, i no tok bilong graun Moav."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nem bilong ol het bilong ol man",
+      "rationale": "Lis bilong ol nem — hap bilong kontrak bilong ol het bilong ol man."
+    }
+  ],
+  "translation": "Ol het bilong ol man: Parosh, Pahat-Moav, Elam, Zatu, Bani.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2746760698a3a5d19696e44d5f80e244858eba04a56d3b0ef17fa1de179e6a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/10\/13-16.1792361701677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ol het"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bilong ol man"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pahat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-10-18T22:15:01.677684821Z",
+  "model": "glm-5.3"
+}

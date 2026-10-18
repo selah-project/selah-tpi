@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 10:22",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Copula supplied; Hebrew juxtaposes without a verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "מראיהם ואותם",
+      "rationale": "'their appearances and themselves' — KJV keeps the abrupt pairing; BSB collapses it; the Hebrew doubles appositionally."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אל־עבר פניו ילכו",
+      "rationale": "Literal 'each man toward the side of his face he went' — idiom for straight forward, kept semi-literal here."
+    }
+  ],
+  "translation": "Na olsem piksa bilong ol pes bilong ol — ⟨em⟩ ol dispela pes mi lukim long wara Kevaram; olsem olgeta ol i luk olsem, na ⟨את⟩ ol yet: wanwan man i wokabaut long hap bilong pes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ee605fa4b2f751bdfb109021403256714545ba008008bb45c84891222eebf6cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/10\/21-22.1792356087788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "na olsem piksa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "bilong ol pes bilong ol"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "dispela ol pes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kevaram"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "olsem ol i luk olsem"
+    },
+    {
+      "surface": "ואותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol yet (wanwan man i wokabaut)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hap"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "bilong pes bilong em"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "i wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T20:41:27.788940625Z",
+  "model": "glm-5.3"
+}

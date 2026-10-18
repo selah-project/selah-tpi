@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 12:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "putim pes bilong en",
+      "rationale": "Hebrew שים פניו 'set his face' = resolve firmly to go; Tok Pisin keeps the body-part picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew suffix -הּ on וילכדה marks the object Gat; Tok Pisin needs a free pronoun"
+    }
+  ],
+  "translation": "Long taim ia, Hazael king bilong Aram i go antap, na i pait long Gat, na i kisim ⟨em⟩; na Hazael i putim pes bilong en bilong go antap long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "60960f44efbf26e71851314d4b46c19eba74ec3419dc86e3867f2dd813702cbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/18-19.1792363174081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "long taim ia"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "na i pait"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "na i kisim ⟨em⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong en"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "bilong go antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:34.081735574Z",
+  "model": "glm-5.3"
+}

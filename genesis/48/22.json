@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 48:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Shekem",
+      "rationale": "שכם read as city name Shekem vs 'one portion\/shoulder' (KJV 'portion', LXX 'Sikima'); kept as name"
+    },
+    {
+      "kind": "crux",
+      "subject": "sword and bow",
+      "rationale": "Genesis records no such battle by Jacob; read literally, or as reference to Jacob's sons' act (Gen 34), or idiom for wealth\/worth"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun em added after tekim, Hebrew object implicit in אשר clause"
+    }
+  ],
+  "translation": "Na mi, mi givim long yu wanpela Shekem, long ol brata bilong yu, we mi tekim em long han bilong man Emori, wantaim bainat bilong mi na wantaim bo bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2f7f14e19c5d99270e7996802eeeba59c91f96179d4c6f09c42c597fd6b43bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/21-22.1792347295747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na mi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ol brata bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mi tekim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "man Emori"
+    },
+    {
+      "surface": "בחרבי",
+      "gloss": "wantaim bainat bilong mi"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "na wantaim bo bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:55.748568276Z",
+  "model": "glm-5.3"
+}

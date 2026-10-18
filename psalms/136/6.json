@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spanim",
+      "rationale": "רקע i tok 'poundim kamaut' o 'hamarim olgeta stat' — mi usim 'spanim' olsem KJV 'stretched out'"
+    }
+  ],
+  "translation": "Long wan i spanim graun antap long ol wara, bilong en khesed bilong en i stap olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "317ed6efc2cc6391c7b393cb0d0b3920f14e995d7e9830f3330c6771da69377e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/136\/5-8.1792359233232.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Long wan i spanim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ol wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong en i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:53.233587231Z",
+  "model": "glm-5.3"
+}

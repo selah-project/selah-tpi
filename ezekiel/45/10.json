@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol skelim",
+      "rationale": "מאזני i dual — 'tupela skelim', Tok Pisin i no gat dual, olsem 'ol skelim'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa na bat",
+      "rationale": "Ves i tok olsem long ol mak bilong skelim — skelim, efa, bat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tsedek ×3",
+      "rationale": "Tripela krai bilong צדק i kamap wanwan taim long wanwan mak — repitisen i strongpela, em i stap long Tok Pisin"
+    }
+  ],
+  "translation": "Ol skelim bilong tsedek, na efa bilong tsedek, na bat bilong tsedek, ol i stap ⟨long⟩ yu olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2bfd99b1ef8a248cadfc9b99980f8ba44fa1e598b8d03588ebc97bbf37a772cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/45\/10-11.1792363229102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ol skelim bilong tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "na efa bilong tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "na bat bilong tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:29.103034630Z",
+  "model": "glm-5.3"
+}

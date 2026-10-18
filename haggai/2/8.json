@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Copula supplied: Hebrew is a bare possessive clause 'to-me the silver'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי … ולי",
+      "rationale": "Fronted 'to me … and to me' frames a two-beat declaration; the parallelism carries into 'bilong mi … na bilong mi'."
+    }
+  ],
+  "translation": "Silva ⟨em⟩ i bilong mi, na gol ⟨em⟩ i bilong mi — Yahwe Tsebaot i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/2\/5-8.1792357578533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na bilong mi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:18.534756267Z",
+  "model": "glm-5.3"
+}

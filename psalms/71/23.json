@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש em i 'breath\/warapela laip bilong man', i no 'soul' — Tok Pisin 'bel bilong mi' i klostu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "baim bek",
+      "rationale": "פדה em i 'baim bek, rausim long paterol bilong narapela'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "אשר (we, olsem) — Tok Pisin i no gat wanpela stret tok, mi bin putim 'em'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפתי\/אזמרה",
+      "rationale": "Tut bilong man i singaut, na em yet i singim singsing — wanpela voice i wok long tupela pasin"
+    }
+  ],
+  "translation": "Bai tut bilong mi singaut olgeta long amamas, bilong mi singim singsing long yu, na bel bilong mi — ⟨em⟩ ol i bin baim bek long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/21-24.1792358455550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "bai singaut olgeta long amamas"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "tut bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi singim singsing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "na bel bilong mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ol i bin baim bek long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:55.551895164Z",
+  "model": "glm-5.3"
+}

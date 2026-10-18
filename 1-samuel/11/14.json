@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tingim olgeta moa",
+      "rationale": "חדש 'mekim nupela' — 'renew' king wok; Tok Pisin i tokim olsem yumi kukim dispela wok olgeta moa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Shemuel i singautim ol man: 'Kam, yumi go' — imperativ long ol man bilong ples"
+    }
+  ],
+  "translation": "Na Shemuel i tok long ol man bilong ples: Kam, yumi go long Gilgal, na yumi tingim olgeta moa long dispela king wok long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f1f1fde0d5ec174f8f34a4e78def9087bb04d624561bf242bc8d9900a2f01eb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/13-15.1792351611102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Shemuel i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man bilong ples"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "yumi go"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "long Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "na yumi tingim olgeta moa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long dispela ples"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "dispela king wok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:51.103119914Z",
+  "model": "glm-5.3"
+}

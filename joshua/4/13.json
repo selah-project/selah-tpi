@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 4:13",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "כ approximate comparative, Tok Pisin needs 'olsem'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלוצי",
+      "rational": "rare participle 'equipped\/withdrawn ones'; rendered hyphenated shape 'hlutzim-samting' to keep literal picture"
+    }
+  ],
+  "translation": "Olsem foti tausen man bilong ol hlutzim-samting, ol man bilong pait bilong ami, ol i go pas long Yahwe long pait, i go daun long Aravot bilong Yeriho.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "19fcd643dd2c99e5a14445762e0d9bbd97023cf95eb7c589e7cc815feef9f167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/4\/13-16.1792350460961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כארבעים",
+      "gloss": "olsem foti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "man bilong ol hlutzim-samting"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ol man bilong pait bilong ami"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long hedsait bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go daun long"
+    },
+    {
+      "surface": "ערבות",
+      "gloss": "Aravot"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "bilong Yeriho"
+    }
+  ],
+  "timestamp": "2026-10-18T19:07:40.962070083Z",
+  "model": "glm-5.3"
+}

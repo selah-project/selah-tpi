@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "'Second sort' (lesser quality, KJV) vs 'matching\/double' (BSB 'matching') — rendered 'bilong namba tu kain'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "inventory list",
+      "rationale": "Continuation of the counted inventory of vessels."
+    }
+  ],
+  "translation": "Ol bol bilong gol — thirti; ol bol bilong silva bilong namba tu kain — foa handet na ten; ol narapela samting — wan tausen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/1\/9-11.1792361298388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "ol bol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirti"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "ol bol"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "bilong namba tu kain"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "na ten"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ol samting"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "wan tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:08:18.389820200Z",
+  "model": "glm-5.3"
+}

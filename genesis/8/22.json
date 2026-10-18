@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ניחח\/ישבתו",
+      "rationale": "םשבת (שבת) i wok long Stat 8:22 — wanpela as wantaim nem bilong Sabat; Tok Pisin 'Sabat' i holim nem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "זרע long ples hia em i taim bilong planim, no pikinini — 'kaikai pikinini' bilong gaden."
+    },
+    {
+      "kind": "crux",
+      "subject": "קיץ\/חרף",
+      "rationale": "קיץ em i kain punpun (taim bilong het), חרפ em i taim kol; ol tanim tok i tok 'sama\/winta'."
+    }
+  ],
+  "translation": "Olgeta taim bilong graun i stap yet: taim bilong planim kaikai pikinini na taim bilong kukim, kol na het, kain punpun na taim bilong ren na kol, de na nait — ol i no ken Sabat, ol i no ken stop.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/8\/21-22.1792346321975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "taim bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taim bilong planim kaikai pikinini"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "na taim bilong kukim"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "kol"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "na het"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "kain punpun"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "na taim bilong ren na kol"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na nait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "ken Sabat, ol i no ken stop"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:41.976774935Z",
+  "model": "glm-5.3"
+}

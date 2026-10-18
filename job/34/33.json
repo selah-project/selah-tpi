@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 34:33",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעמך ישלמנה",
+      "rationale": "Wanpela ves ol man i no wankain long en: 'Em i ken skruim en olsem bel bilong yu?' o 'Em i skruim en bilong yu yet, bilong yu mausim?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat subjek long ישלמנה; Tok Pisin i nidim em"
+    }
+  ],
+  "translation": "Long wanem yu yet, bai ⟨em⟩ i skruim en? Bilong yu mausim; bilong yu yet i makim, na no mi; olsem na, wanem yu save, yu tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/34\/33-36.1792360326965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעמך",
+      "gloss": "long wanem yu yet"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "bai ⟨em⟩ i skruim en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "yu mausim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu yet"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "i makim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "olsem na, wanem"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yu tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:06.966531485Z",
+  "model": "glm-5.3"
+}

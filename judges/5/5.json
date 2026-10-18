@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מפני יהוה … מפני יהוה",
+      "rationale": "Repetition of 'from before Yahwe' frames the verse; kept both occurrences in TPI."
+    },
+    {
+      "kind": "crux",
+      "subject": "זה סיני",
+      "rationale": "'This — Sinai': apposition marking Sinai as the example; KJV 'even that Sinai', YLT 'This one — Sinai'."
+    }
+  ],
+  "translation": "Ol maunten i ron olsem wara long pes bilong Yahwe — dispela wanpela, Sinai — long pes bilong Yahwe, Elohim bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/5\/5-8.1792351048756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "i ron olsem wara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela wanpela"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:17:28.756874323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 4:18",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תהלה",
+      "rationale": "word normally means 'praise' but here lexicon and versions give 'folly'; YLT keeps ironic 'praise'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mesinja",
+      "rationale": "מלאכים can be angels or messengers; 'mesinja' keeps the literal shape"
+    }
+  ],
+  "translation": "Lukim: em i no strong bel long ol sevet bilong en, na long ol mesinja bilong en em i putim pasin bilong man no save long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/4\/17-20.1792359852659.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "long ol sevet bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "i strong bel"
+    },
+    {
+      "surface": "ובמלאכיו",
+      "gloss": "na long ol mesinja bilong en"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "em i putim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pasin bilong man no save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:12.660395383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i fulap tru",
+      "rationale": "רויה i min 'orait tumas, fulap' — planti tanim tok i tok 'i ranawe i go', tasol Hibru i tok 'kap i fulap'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Tok Pisin i nidim 'mi' long 'het bilong mi', Hebrew i gat suffix -i tasol long ראשי"
+    }
+  ],
+  "translation": "Yu wokim tebol i stap het long mi, bihain long ol birua bilong mi; yu wetim het bilong mi long oil; kap bilong mi i fulap tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/23\/5-6.1792358035152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "i stap het long mi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "yu wetim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "long oil"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "het bilong mi"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kap bilong mi"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "i fulap tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:55.153309962Z",
+  "model": "glm-5.3"
+}

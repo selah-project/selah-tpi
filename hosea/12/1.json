@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סבבני",
+      "rationale": "' surround me' (JPS, first person suffix) vs KJV 'feedeth on wind' (reading with 12:2); Hebrew verse numbering differs from English here."
+    },
+    {
+      "kind": "crux",
+      "subject": "רד עם אל",
+      "rationale": "JPS 'wayward towards God' vs 'rules with God'; רוּד is rare — 'ramble\/restless'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew verb נאמן has no expressed subject; Tok Pisin needs pronoun."
+    }
+  ],
+  "translation": "Efrayim i pasim mi raun long tok giaman, na haus bilong Yisrael long pasin bilong thrik; na Yehuda yet i wokabaut i go wantaim El, na wantaim ol holi man ⟨em⟩ i stap tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/12\/1-4.1792357089775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "pasim mi raun"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "long tok giaman"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "na long pasin bilong thrik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "רד",
+      "gloss": "wokabaut i go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "ol holi man"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "stap tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:09.775990048Z",
+  "model": "glm-5.3"
+}

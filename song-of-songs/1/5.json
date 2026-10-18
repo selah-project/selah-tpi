@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונאוה",
+      "rationale": "יחד 'but comely' (KJV\/ASV) o 'and comely' (YLT) — Hibru waw i ken senis miniming."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחורה\/שחרחרת",
+      "rationale": "Rod bilong ol tok blak (1:5, 1:6) — daunim tok i go antap, Tok Pisin i holim liklik."
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hibru i no gat pronom long ונאוה; Tok Pisin i nidim ⟨mi⟩."
+    }
+  ],
+  "translation": "Mi blak, tasol mi gutpela long lukluk, ol pikinini meri bilong Yerusalayim, olsem ol sel bilong Kedar, olsem ol katen bilong Shelomo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/5-8.1792360492342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "blak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "tasol mi gutpela long lukluk"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ol pikinini meri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "olsem ol sel"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "olsem ol katen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:52.343545175Z",
+  "model": "glm-5.3"
+}

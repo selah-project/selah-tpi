@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "aninit trabel",
+      "rationale": "תחת און: 'under iniquity\/affliction' (KJV) vs 'I saw under affliction' vs emendation 'the tents of Cushan trembled'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Kushan",
+      "rationale": "כושן appears only here in the Tanakh, likely = Cush\/Ethiopia or Midianite Arabia"
+    }
+  ],
+  "translation": "Aninit trabel mi lukim ol haus sel bilong Kushan; ol tabel bilong graun bilong Midian i guria.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "417fd8e50425c43fd9f021029791fb4104dee7da052b0a4dfdef955fd9df0a22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/3\/7-8.1792363310499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "aninit"
+    },
+    {
+      "surface": "און",
+      "gloss": "trabel"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ol haus sel bilong"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "ol tabel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:50.499810338Z",
+  "model": "glm-5.3"
+}

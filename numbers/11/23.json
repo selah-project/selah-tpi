@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "han bilong Yahwe i sot",
+      "rationale": "היד תקצר — idiom bilong strong i no inap; Tok Pisin 'han i sot' holim piksha."
+    },
+    {
+      "kind": "crux",
+      "subject": "היקרך דברי",
+      "rationale": "Mak קרה 'pundaun\/kirap long' — KJV 'come to pass'; Tok Pisin 'tok i kirap long yu'."
+    },
+    {
+      "kind": "you",
+      "subject": "yu bai lukim",
+      "rationale": "Yahwe i toktok stret long Mose."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ה + תקצר \/ ה + יקרך",
+      "rationale": "Tupela askim stat long ה — pasin bilong askim long Tok Hibru."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Mose: han bilong Yahwe i sot o nogat? Na nau yu bai lukim, tok bilong mi i kirap long yu o nogat.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/11\/21-24.1792349138446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "היד",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "i sot"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yu bai lukim"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "i kirap long yu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:38.448122269Z",
+  "model": "glm-5.3"
+}

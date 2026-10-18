@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yitsak i tok long Avimelek",
+      "rationale": "Isaac directly addresses Abimelech and his men with a reproachful question"
+    },
+    {
+      "kind": "substitution",
+      "subject": "les long mi",
+      "rationale": "שנא 'hate' rendered 'les long' per fixed gloss; personal hostility kept"
+    }
+  ],
+  "translation": "Na Yitsak i tok long ol: Bilong wanem yu ol i kam long mi, na yu ol i les long ⟨את⟩ mi, na yu ol i salim mi go long ⟨את⟩ yu olgeta?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c07e2991204a2de8b4f8dfcbfdd5664da0752ddd3fc7a0775943dd0604c5a35d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/26\/25-28.1792346695473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "yu ol i kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na yu ol"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "yu ol i les long"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "yu ol i salim mi go"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ long yu olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:55.474846227Z",
+  "model": "glm-5.3"
+}

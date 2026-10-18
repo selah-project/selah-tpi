@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Bihainem",
+      "rationale": "כי hia em i tok bilong statim tok, Hebrew i tok 'long wanem', 'Bihainem' i stap klostu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Tok Pisin i nidim 'ol' long ol nem bilong ol manmeri"
+    }
+  ],
+  "translation": "Bihainem, long ol pikinini man na ol pikinini meri we ol i karim long dispela ples, na long ol mama bilong ol we ol i karim ⟨את⟩ ol, na long ol papa bilong ol we ol i karim ⟨את⟩ ol long dispela graun — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6dfecd209b945013c712a7ff4af2832eee7655f4a68c49cd494e32a95c1148be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/16\/1-4.1792355150224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihainem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ol pikinini man"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ol pikinini meri"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "we ol i karim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "ol mama bilong ol"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "we ol i karim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (pikinini)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ol papa bilong ol"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "we ol i karim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (pikinini)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:25:50.225065570Z",
+  "model": "glm-5.3"
+}

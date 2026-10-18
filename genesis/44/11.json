@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש ... איש",
+      "rationale": "Olsem Hebru i ritim 'wanwan man i daunim ... na wanwan man i opim' — ol i ritim wanwan man."
+    },
+    {
+      "kind": "elision",
+      "subject": "החל\/כלה",
+      "rationale": "No long dispela ves; ol i daunim bag, Tok Pisin i no gat samting we i lus."
+    }
+  ],
+  "translation": "Na ol i hariap, na olgeta man i daunim ⟨את⟩ bikpela bag bilong en i go daun long graun, na wanwan man i opim bag bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/44\/9-12.1792347177437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ol i hariap"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ol i daunim i go daun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikpela bag bilong en"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "bag bilong en"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ol i opim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "bag bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:57.438283674Z",
+  "model": "glm-5.3"
+}

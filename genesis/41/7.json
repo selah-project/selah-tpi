@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai insait",
+      "rationale": "בלע em i 'salim insait wantri' — ol hap kaikai i salim ol narapela, olsem kaikai"
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew i tok 'na luk, drim' — Tok Pisin i nidim 'tasol' long pinis bilong sentens"
+    }
+  ],
+  "translation": "Na ol hap kaikai bilong garen i tin i kaikai insait ⟨את⟩ sevenpela hap kaikai bilong garen i pulap na fulpela. Na Paroh i kirap, na luk — em i drim tasol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/5-8.1792347140626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "i kaikai insait"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ol hap kaikai bilong garen"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "i tin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevenpela hap kaikai bilong garen i pulap na fulpela"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "hap kaikai bilong garen"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "i pulap"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "na fulpela"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "em i drim tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:20.626948335Z",
+  "model": "glm-5.3"
+}

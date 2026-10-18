@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trupela pasin",
+      "rationale": "אמונה — strongpela\/sekipas, trupela; 'fethfulnes' i Inglis tok"
+    },
+    {
+      "kind": "crux",
+      "subject": "nes bilong nes i go long nes",
+      "rationale": "לדור ודור — 'long nes wantaim nes' o 'long olgeta nes'; dobanol 'nes i go long nes'"
+    }
+  ],
+  "translation": "Long nes bilong nes i go long nes, trupela pasin bilong yu; yu bin kirapim ⟨את⟩ graun, na em i sanap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/89-92.1792359133730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדור",
+      "gloss": "long nes"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na nes"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "trupela pasin bilong yu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "yu bin kirapim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "na em i sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:13.731081407Z",
+  "model": "glm-5.3"
+}

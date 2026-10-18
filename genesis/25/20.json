@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 25:20",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Hebrew 'son of forty years' idiom needs Tok Pisin verb 'have' for age"
+    },
+    {
+      "kind": "measurement",
+      "subject": "forty years",
+      "rationale": "Isaac's age at marriage is precisely counted"
+    }
+  ],
+  "translation": "Na Yitsak i gat foti yia taim em i kisim ⟨את⟩ Rivka, pikinini meri bilong Betuel, man bilong Aram, bilong Padan-Aram, sista bilong Laban, man bilong Aram, bilong em bilong kamap meri bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "65f578f379afddde7ad876c5069ff795069c8e374a4511d924ea63424a66fb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/25\/17-20.1792346713581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "foti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "בקחתו",
+      "gloss": "taim em i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "man bilong Aram"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "bilong Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sista bilong"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "man bilong Aram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilong kamap meri bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:05:13.582615951Z",
+  "model": "glm-5.3"
+}

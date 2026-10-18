@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "putim kesen olsem klos",
+      "rationale": "קללה כמדו — kersen i kamap olsem klos; piksa bilong pasin ol man i usim long tanim tok"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כמדו",
+      "rationale": "Sampela i tanim olsem 'olsem klos bilong em', narapela 'olsem hetbel bilong em' — mad i min 'mak bilong klos'"
+    }
+  ],
+  "translation": "Na em i putim kesen olsem klos bilong em, na ⟨ksen⟩ i go insait olsem wara long bel bilong em, na olsem oil long ol bun bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/17-20.1792359049667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ksen"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "olsem klos bilong em"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i go insait"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "olsem wara"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "long bel bilong em"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "na olsem oil"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "long ol bun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:49.668027202Z",
+  "model": "glm-5.3"
+}

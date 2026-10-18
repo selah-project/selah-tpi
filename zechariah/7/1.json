@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 7:1",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dating",
+      "rationale": "Full royal dating formula: year four of Darius, day four of the ninth month, Chislev."
+    },
+    {
+      "kind": "crux",
+      "subject": "בארבעה",
+      "rationale": "Hebrew lacks 'day' — most versions supply 'fourth day'; possibly 'on the fourth [day]' of the month."
+    },
+    {
+      "kind": "addition",
+      "subject": "de",
+      "rationale": "Tok Pisin needs 'de' (day) which the Hebrew leaves implicit."
+    }
+  ],
+  "translation": "Na i kamap long yia foa bilong Daryaus, king, tok bilong Yahwe i bin kamap long Zekarya, long de foa bilong mun nain, long Kislev.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7b0edd3675cb954dffea531ba275f6a4a73589086cc58cb26e4c70cfb108852",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/7\/1-4.1792357699725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "long yia"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foa"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "bilong Daryaus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i bin kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarya"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "de foa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bilong mun"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "nain"
+    },
+    {
+      "surface": "בכסלו",
+      "gloss": "long Kislev"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:19.726462323Z",
+  "model": "glm-5.3"
+}

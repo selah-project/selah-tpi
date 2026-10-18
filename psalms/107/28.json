@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "[taim]",
+      "rationale": "בצר (narrow place, distress) and ממצוקות (straits) need Tok Pisin phrases with supplied head-noun"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "The sailors' cry addresses Yahwe directly in their distress"
+    }
+  ],
+  "translation": "Na ol i singaut krai long Yahwe long [taim] hebel bilong ol, na Em i bringim ol i kamaut long ol [taim] losta˦ bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/25-28.1792359003065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "na ol i singaut krai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "long [taim] hebel bilong ol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "long ol [taim] losta˦ bilong ol"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "Em i bringim ol i kamaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:03.067182795Z",
+  "model": "glm-5.3"
+}

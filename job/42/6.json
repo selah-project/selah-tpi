@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמאס",
+      "rationale": "Hebrew states no object: 'I abhor myself' (KJV\/ASV) vs 'I retract my words' (JPS\/BSB) vs intransitive 'I am loathed\/repent' (YLT)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object marker supplied because Tok Pisin needs an object after 'mi les long'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/אפר",
+      "rationale": "dust\/ashes — near-rhyme pair, kept as das\/aks to hold the sound"
+    }
+  ],
+  "translation": "Long dispela as mi les long ⟨em⟩, na mi sori pinis long das na aks.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f31d6cad4dadde2974af808e4652ade4c77497beae02aa8efcc0c8c59f1ec699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/42\/6-7.1792363443660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dispela as"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "mi les long"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "na mi sori pinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na aks"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:03.661061469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא דומיה לי",
+      "rationale": "Sam i rit 'stil i no stap long mi' (mi no save holim pas — KJV), sam i rit 'yu no givim stil long mi' (YLT); Tok Pisin i holim pas long het syntax: 'i no gat stil long mi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "bekim",
+      "rationale": "ענה em i 'wantainim tok'; 'bekim' em i Tok Pisin pasin bilong wantainim."
+    }
+  ],
+  "translation": "Elohim bilong mi, mi singaut long dei, tasol yu no bekim; na long nait, tasol i no gat stil long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/1-4.1792358015346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi singaut"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol … no"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yu bekim"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na long nait"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol … no"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "gat stil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.347145898Z",
+  "model": "glm-5.3"
+}

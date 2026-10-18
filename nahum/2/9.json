@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 2:9",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמדו עמדו",
+      "rationale": "Doubled imperative 'Stand! Stand!' — urgent repetition, kept doubled in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "מימי היא",
+      "rationale": "'from her days of old' vs 'the waters of her' (metathesis of מימיה); rendered as 'from her days of old'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i singaut⟩",
+      "rationale": "Hebrew lacks the verb of crying; supplied from context"
+    }
+  ],
+  "translation": "Na Ninive i olsem pul bilong wara, bilong olgeta de bilong em bipo yet, tasol nau ol man i ranawe. Sanap! Sanap! ol i singaut, tasol i no gat wanpela i lukluk bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/2\/9-12.1792357438485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונינוה",
+      "gloss": "Na Ninive"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "olsem pul bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "bilong olgeta de bilong em"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tasol ol man"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "i ranawe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Sanap!"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Sanap!"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol i no gat wanpela"
+    },
+    {
+      "surface": "מפנה",
+      "gloss": "i lukluk bek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:58.486130833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun added after 'raitim' — Hebrew leaves the thing written implicit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanguma long",
+      "rationale": "לפני literally 'before the face of' the king; rendered as 'in the presence of' the king"
+    }
+  ],
+  "translation": "Na ol i skelim stori, na ol i painim em i tru, na ol i hangamapim tupela long diwai; na ol i raitim ⟨em⟩ long buk bilong ol stori bilong ol de, sanguma long king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/2\/21-23.1792360854017.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "na ol i skelim"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "stori"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "na ol i painim em i tru"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "na ol i hangamapim"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "na ol i raitim"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "long buk bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol stori bilong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sanguma long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:54.018409743Z",
+  "model": "glm-5.3"
+}

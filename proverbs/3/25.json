@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מפחד פתאם",
+      "rationale": "pachad pit'om — sudden-terror suddenly, alliteration lost in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשאת",
+      "rationale": "sho'ah as storm\/devastation vs ruin; 'bagarapim' keeps the destruction sense"
+    }
+  ],
+  "translation": "No ken pret long sapraiz pret, na no ken pret long bagarapim i kamap bilong ol man nogut, taim em i kam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/25-28.1792359393742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pret"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sapraiz pret"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sapraiz"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "na bagarapim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:33.743472402Z",
+  "model": "glm-5.3"
+}

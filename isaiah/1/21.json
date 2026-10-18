@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 1:21",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלאתי",
+      "rationale": "Rare form of מְלֵאָה 'fullness\/abundance'; rendered as 'fulap' with supplied subject 'em'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew ends with bare participle מרצחים 'murderers'; predicate particle added for Tok Pisin grammar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "Lament-cry 'How!' opening a dirge over the city; the funeral-lament force is flattened in Tok Pisin."
+    }
+  ],
+  "translation": "Olsem wanem? Siti bilong strongpela bilip i kamap ⟨em⟩ meri raun! Em i fulap long kot, tsedek i slip long em, tasol nau ol man i kilim man i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/21-24.1792353796508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Olsem wanem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "meri raun"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bilong strongpela bilip"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "em i fulap"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "i slip"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tasol nau"
+    },
+    {
+      "surface": "מרצחים",
+      "gloss": "ol man i kilim man"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:16.508862513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סומך\/זוקף",
+      "rationale": "tupela tok i stanap wantaim: holim daun vs kirapim ap — piksa bilong pasin i senis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכפופים → ol i boe daun",
+      "rationale": "tok i tok 'ol i krukim\/karbim' — piksa bilong bodi i boe, i no nating tok bilong tingting"
+    }
+  ],
+  "translation": "Yahwe i holim olgeta ol i pundaun, na i kirapim olgeta ol i boe daun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/13-16.1792359313206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "i holim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ol i pundaun"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "na i kirapim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ol i boe daun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.207296907Z",
+  "model": "glm-5.3"
+}

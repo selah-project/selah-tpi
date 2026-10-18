@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 preposition 'with him' merged with ⟨את⟩ marker per token data"
+    }
+  ],
+  "translation": "Na king Yahojakim i salim ol man i go long Mitsrayim, ⟨את⟩ Elnatan pikinini bilong Akbor, wantaim ol man wantaim em, i go long Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/26\/21-24.1792355331783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yahojakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnatan pikinini bilong Akbor"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "wantaim ol man"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:51.784353028Z",
+  "model": "glm-5.3"
+}

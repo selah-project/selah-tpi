@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Wok חלכא i kamap long Tanakh hia tasol (plenty-fom) — man i tambu tru, ol man poroman."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "Tupela ridin: 'strongpela paw\/han bilong en' (laion) o 'ol man strong bilong en' (ol man); konteks bilong laion i sanapim 'strongpela han'."
+    }
+  ],
+  "translation": "Em i pairap daun, em i bel daun, na ol man poroman i pundaun aninit long strongpela han bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/10\/9-12.1792357909258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "pairap daun"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "bel daun"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "na pundaun"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "aninit long strongpela han bilong en"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ol man poroman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:49.259634667Z",
+  "model": "glm-5.3"
+}

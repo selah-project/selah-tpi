@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goel",
+      "rationale": "גֹּאֵל i man wantok i gat wok bilong baim bek — mi holim nem 'goel', i no rol wantaim nem"
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "גאלו ובא i tok 'goel bilong em i kamap' — Tok Pisin i nidim prediket"
+    }
+  ],
+  "translation": "Sapos brata bilong yu i sot long mani, na em i selim graun bilong en, na goel bilong em, man i klostu long em, i kamap, na em i baim bek ⟨את⟩ sel bilong brata bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/25\/25-28.1792348800372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "i sot long mani"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "brata bilong yu"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "na i selim"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "goel bilong en"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "na i baim bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sel bilong brata bilong en"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "sel bilong"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:00.373022923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse addresses Israel directly as 'children of Yahwe your Elohim'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Hebrew participle למת (for the dead) rendered with Tok Pisin completive to mark the dead as already dead."
+    },
+    {
+      "kind": "crux",
+      "subject": "תתגדדו",
+      "rationale": "Root גדד means 'gash'; some read 'cut yourselves', others link it to pagan mourning rites — kotim bodi keeps the cutting picture."
+    }
+  ],
+  "translation": "Ol pikinini bilong yumi ⟨i⟩ pikinini bilong Yahwe, Elohim bilong yupela; yupela i no ken kotim bodi bilong yupela, na i no ken wokim kalap long namel bilong ol ai bilong yupela long man i dai pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/1-4.1792349967295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "ken kotim bodi bilong yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ken wokim"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kalap"
+    },
+    {
+      "surface": "בין",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ol ai bilong yupela"
+    },
+    {
+      "surface": "למת",
+      "gloss": "long man i dai pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:27.296008412Z",
+  "model": "glm-5.3"
+}

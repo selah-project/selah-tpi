@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tokyet bilong man i wokim, tasol Hibru i no gat nem namel long ויתן"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע em i 'pikinini\/kaikai pikinini' long D4 — i no 'sidin'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol ples yu save stap nating",
+      "rationale": "מגוריך em i wokabaut ples, man i no man bilong graun — i no 'kantri bilong yu' gutpela"
+    }
+  ],
+  "translation": "Na ⟨em⟩ i givim long yu ⟨את⟩ blesin bilong Avraham, long yu na long pikinini bilong yu ⟨את⟩ wantaim yu, bilong yu kasim ⟨את⟩ graun bilong ol ples yu save stap nating, we Elohim i givim long Avraham.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ee13c35ee2c7edeb1eac2cb5695306b4df08fdd7df8deae78d67fcd1d8de8ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/28\/1-4.1792346901947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na ⟨em⟩ i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blesin bilong Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blesin bilong"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "na long pikinini bilong yu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wantaim yu"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "bilong yu kasim olsem ples bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מגוריך",
+      "gloss": "bilong ol ples yu save stap nating"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "long Avraham"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:21.949286812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative pronoun with no Tok Pisin equivalent, rendered by juxtaposition"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "list of names — lineage counted from Khetson"
+    }
+  ],
+  "translation": "Na ol pikinini bilong Khetson, ol i bonim long en: ⟨את⟩ Yerakmeel, na ⟨את⟩ Ram, na ⟨את⟩ Kelubai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/2\/9-12.1792361776439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetson"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "i bonim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:16.439720903Z",
+  "model": "glm-5.3"
+}

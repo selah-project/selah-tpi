@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i berim em",
+      "rationale": "Hebrew passiv נקבר i tok 'em i gat berim'; Tok Pisin i nidim ol man i wokim."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אבי העזרי",
+      "rationale": "Tok 'Abi-ha-Ezri' i stap long Judges tasol, em i nem bilong klan bilong Avi-Ezer."
+    }
+  ],
+  "translation": "Na Gideon, pikinini bilong Yoas, i dai long gutpela taim bilong olpela, na ol i berim em long berema bilong Yoas, papa bilong em, long Opra, long ples bilong ol man bilong Avi-Ezeri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0139d5c9cc4c23b57bf3fc392488cc79c3e758a7fd1b1bd645c5aa3def62af55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/8\/29-32.1792351170662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "long taim bilong olpela"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ol i berim em"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "long berema bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "long Opra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bilong ol man bilong Avi"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "Ezeri"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:30.663294274Z",
+  "model": "glm-5.3"
+}

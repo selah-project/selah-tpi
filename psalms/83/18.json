@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עדי עד",
+      "rationale": "Hebrew 'terminus upon terminus' = forever and ever; rendered as one intensifier 'oltaim tru'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו",
+      "rationale": "Four near-synonymous shame verbs pile up in chain; Tok Pisin keeps the chain with sem\/pret\/sem nogut."
+    }
+  ],
+  "translation": "Bai ol sem, na bai ol pret olgeta, oltaim tru; na bai ol sem nogut na lus i go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/17-19.1792358590208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bai ol sem"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "na bai ol pret olgeta"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tru"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na bai ol sem nogut"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "na lus i go"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.209699945Z",
+  "model": "glm-5.3"
+}

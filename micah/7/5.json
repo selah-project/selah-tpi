@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Verse opens with two negative commands (אל תאמינו \/ אל תבטחו) addressed to the community."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨meri⟩",
+      "rationale": "משכבת is a participle 'she who lies (in your bosom)'; Tok Pisin needs a noun head supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waswasim\/wasim",
+      "rationale": "שׁמר is 'guard\/hedge about'; rendered 'wasim' (protect\/keep) — the guarding-your-mouth idiom kept literal."
+    }
+  ],
+  "translation": "No ken bilip long wantok, no ken strong bel long pren; ⟨meri⟩ we i slip long bel bilong yu — wasim ol dua bilong maus bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/7\/5-8.1792357481593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "bilip"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "long wantok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "strong bel"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "long pren"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "we i slip"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wasim"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ol dua"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "bilong maus bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:41.593624140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין אמר ואין דברים",
+      "rationale": "Famous crux: 'there is no speech nor words' (KJV, ylt) vs 'without speech or language' (bsc) — taken as the heavens' voice going out to all, or as no audible words at all."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "בלי נשמע is passive 'without being heard'; Tok Pisin needs an agent phrase 'no one hears'."
+    }
+  ],
+  "translation": "I no gat tok, na i no gat olgeta tok; i no gat wanpela i harim vois bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/1-4.1792358007669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "olgeta tok"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "i no gat wanpela"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "vois bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:27.670832198Z",
+  "model": "glm-5.3"
+}

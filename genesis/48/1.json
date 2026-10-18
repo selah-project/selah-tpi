@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Hebrew leaves the speaker of ויאמר unspecified; Tok Pisin needs a subject"
+    },
+    {
+      "kind": "you",
+      "subject": "Lukim, papa bilong yu i sik",
+      "rationale": "direct address to Yosef"
+    }
+  ],
+  "translation": "Na bihain long ol dispela tok, ⟨ol i⟩ tokim Yosef: Lukim, papa bilong yu i sik. Na em i kisim ⟨את⟩ tupela pikinini man bilong en wantaim em, ⟨את⟩ Menashe na ⟨את⟩ Efrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2f42d7c4c02da72b0a3ff8d74d42a768e81d27161043102e3cb1f3cb94549c9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/1-4.1792347284355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ol i tokim"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "i sik"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na em i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupela pikinini man"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pikinini man bilong en"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:44.356115423Z",
+  "model": "glm-5.3"
+}

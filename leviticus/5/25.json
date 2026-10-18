@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i no gat bagarap",
+      "rationale": "תמים em i 'wan wan samting i klostu', Tok Pisin ilusim piksa, olsem na mi tanim olsem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diua",
+      "rationale": "איל i min 'strongpela samting'; long ples dispela em i bulmakau man bilong sakrifaes, D4b i makim diua"
+    }
+  ],
+  "translation": "Na em bai bringim ⟨את⟩ asot bilong en i go long Yahwe: wanpela diua i no gat bagarap, long ol sipsip na meme, long skelim bilong yu, long asot, i go long pris.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/25-26.1792348243992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asot bilong en"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "asot bilong en"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "bringim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "diua"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "i no gat bagarap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "long skelim bilong yu"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "long asot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:43.993060649Z",
+  "model": "glm-5.3"
+}

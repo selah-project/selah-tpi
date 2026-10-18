@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בש — em i sem",
+      "rationale": "hu i sem? Hazael (KJV\/JPS) o Elisa yet (sikstim ritim 'inap em yet i senisim pes') — leta i no tokim klia"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויעמד את פניו",
+      "rationale": "Sikspela ritim: Elisa i sanap na i lukluk stret long Hazael — 'i setim pes bilong em i go stret'"
+    }
+  ],
+  "translation": "Na em i setim ⟨את⟩ pes bilong em i go stret, i holim i go inap em i sem, na man bilong Elohim i kraunat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/8\/9-12.1792353453653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na i setim i go stret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong em"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong em"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "i holim i go"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "בש",
+      "gloss": "em i sem"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "na i kraunat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:57:33.655970146Z",
+  "model": "glm-5.3"
+}

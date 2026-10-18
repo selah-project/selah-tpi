@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needim objekt pronoun; Hibru i no gat em long יטנו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלגי מים",
+      "rationale": "Stori bilong klaus wara man i usim long gaden — bel bilong king i olsem wara Yahwe i turnim"
+    },
+    {
+      "kind": "you",
+      "subject": "king",
+      "rationale": "Tok i tok long king, tasol em i stori bilong olgeta man bilong pawa"
+    }
+  ],
+  "translation": "Olgeta klaus bilong wara — bel bilong king i stap long han bilong Yahwe; olsem wanem em i laikim, em i turnim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/1-4.1792359658738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "olgeta klaus bilong wara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "em i laikim"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "em i turnim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:58.739532506Z",
+  "model": "glm-5.3"
+}

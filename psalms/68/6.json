@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨is⟩-taim copula",
+      "rationale": "Tok Pisin i no gat kopula long singaut — nem Elohim i kamap namel, bracket i no stap"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ודין",
+      "rationale": "'wanpela i skelim kot' — em i man-skelim, no 'wasim' (defender)"
+    }
+  ],
+  "translation": "Papa bilong ol pikinini i no gat papa, na wanpela i skelim kot bilong ol meri i lusim man — Elohim — long haus holi bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/5-8.1792358438247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ol pikinini i no gat papa"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "na wanpela i skelim kot bilong"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ol meri i lusim man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:38.248337184Z",
+  "model": "glm-5.3"
+}

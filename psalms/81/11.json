@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mipela i",
+      "rationale": "anokhi rendered 'Mipela i' for first-person emphatic 'I myself'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "brumaus bilong yu",
+      "rationale": "'Open your mouth wide' — idiom of asking boldly; kept literal with brumaus olgeta."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun 'em' added where Hebrew has suffix -ehu on the verb."
+    }
+  ],
+  "translation": "Mipela i Yahwe, Elohim bilong yu, man i kirapim yu long graun bilong Mitsrayim: brumaus bilong yu olgeta, na bai mi pulapim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/9-12.1792358579426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mipela i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "man i kirapim yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "brumaus olgeta"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "maus bilong yu"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "na bai mi pulapim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:59.427197225Z",
+  "model": "glm-5.3"
+}

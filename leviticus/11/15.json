@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blakpela pisin kotkot",
+      "rationale": "עֹרֵב = olgeta kain blakpela pisin kotkot (raven) — 'olgeta' i holim כל"
+    }
+  ],
+  "translation": "Na ⟨את⟩ olgeta blakpela pisin kotkot, wantaim ol kain kain bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/13-16.1792348388479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta blakpela pisin kotkot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "blakpela pisin kotkot"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "wantaim ol kain kain bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:08.480850553Z",
+  "model": "glm-5.3"
+}

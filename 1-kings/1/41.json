@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trompet sel bilong ram",
+      "rationale": "שופר em i sel bilong ram; Tok Pisin i no gat wanpela tok, olsem mi joinim tupela tok"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כלו לאכל",
+      "rationale": "Hebrev 'ol i pinis kaikai' — wanpela pasin bilong kaikai, Tok Pisin 'i pinis pinis long kaikai'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 preposition 'long en', i no wankain long H853, tasol gloss i holim ⟨את⟩ long per-token data"
+    }
+  ],
+  "translation": "Na Adoniahu i harim, wantaim olgeta ol man ol i singautim ⟨em⟩ ⟨את⟩ long en, ol i pinis pinis long kaikai; na Yoab i harim ⟨את⟩ nois bilong trompet sel bilong ram, na em i tok: Bilong wanem nois bilong taun i kamap olgeta?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "252859e9213e1475525a611e23e4958b2ccac063232ecb565f040b652b8c603b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/41-42.1792363118282.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na i harim"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniahu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "ol man ol i singautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "long en ⟨את⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "i pinis pinis"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "long kaikai"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na i harim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nois"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "trompet sel bilong ram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "bilong taun"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "i kamap olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:38.283471727Z",
+  "model": "glm-5.3"
+}

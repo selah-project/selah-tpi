@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 42:15",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ ×2",
+      "rationale": "Translation accidently inserted aleph-tav markers; Hebrew verse 15 has none — corrected reading: 'Na ol i no painim ol meri bilipela olsem ol pikinini meri bilong Iyob long olgeta graun, na papa bilong ol i givim long ol ol samting bilong papa i givim long taim dai, namel long ol brata bilong ol.'"
+    },
+    {
+      "kind": "crux",
+      "subject": "inheritance for daughters",
+      "rationale": "Daughters inheriting alongside brothers is exceptional in Torah custom (cf. Num 27) — some read it as sign of Job's restored extraordinary blessing."
+    }
+  ],
+  "translation": "Na ol i no painim ol meri olsem bilipela olsem ol pikinini meri bilong Iyob long olgeta graun, na papa bilong ol i givim ⟨את⟩ olgeta ⟨את⟩ ol samting bilong ol papa i givim long taim dai, namel long ol brata bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4123a94f2e834c0f1e78180901017d69c5eb5a288970270bde1dd52431863bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/42\/13-16.1792360436281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "יפות",
+      "gloss": "bilipela ol"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "olsem ol pikinini meri bilong"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na i givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa bilong ol"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ol samting bilong papa i givim long taim dai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ol brata bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:56.282680442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הדר כבוד הודך",
+      "rationale": "Tripla tok bilong spanda — hadar, kavod, hod — ol i sanap wantaim; Tok Pisin iwasim ol nem klostu long nois Hibru bilong holim wanem i lus."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשיחה",
+      "rationale": "Sapos 'tingting bodi' o 'autim tok' — שיח i min tingting wantaim tok wantaim; KJV 'speak', ASV 'meditate'."
+    }
+  ],
+  "translation": "Hadar bilong kavod bilong hod bilong yu, na ol tok bilong ol wondakain wok bilong yu — mi bai tingting bodi na autim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/5-8.1792359326009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "hadar bilong"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hod bilong yu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "na ol tok bilong"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ol wondakain wok bilong yu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi bai tingting bodi na autim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:26.009590051Z",
+  "model": "glm-5.3"
+}

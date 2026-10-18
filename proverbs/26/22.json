@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמתלהמים",
+      "rationale": "Pointed as 'to rankle\/burn in' but consonants near מתלעות 'dainty morsels' (LXX, ASV, JPS); KJV reads 'wounds' — I follow the morsels reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "חדרי בטן 'rooms of the belly' rendered as inner rooms of the belly; בטן also means womb\/bosom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירדו חדרי בטן",
+      "rationale": "Same verse as 18:8 verbatim — refrain-like repetition marking the slander theme."
+    }
+  ],
+  "translation": "Ol tok bilong man i waswasaut i olsem kaikai swip, na ⟨i⟩ go daun long ol rum insait bilong bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/26\/21-24.1792359755121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "bilong man i waswasaut"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "olsem kaikai swip"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na ol"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "long ol rum insait"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "bilong bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:35.122578257Z",
+  "model": "glm-5.3"
+}

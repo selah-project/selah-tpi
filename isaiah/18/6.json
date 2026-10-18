@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 18:6",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וקץ \/ תחרף",
+      "rationale": "verbs 'to summer' and 'to winter' rendered as full phrases 'stap long en long taim bilong kaikai' and 'stap long en long taim kol'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun supplied — Hebrew verb יעזבו is passive 'they shall be left' with no expressed object."
+    }
+  ],
+  "translation": "Ol bai lusim ⟨em⟩ wantaim, long ol pisin bilong pait bilong maunten, na long ol animal bilong graun; na ol pisin bilong pait bai kaikai long en olgeta taim bilong kaikai, na olgeta animal bilong graun bai stap long en long taim kol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "845e90fd0fe0e4ca67aaf26c4b5f4ee3c0f2494cc19f87e6d6ed1e5703721f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/18\/5-7.1792354116488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעזבו",
+      "gloss": "ol bai lusim"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "long ol pisin bilong pait"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bilong maunten"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "na long ol animal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "וקץ",
+      "gloss": "na ol i stap long en olgeta taim bilong kaikai"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "ol pisin bilong pait"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "animal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "תחרף",
+      "gloss": "stap long en long taim kol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:36.488881807Z",
+  "model": "glm-5.3"
+}

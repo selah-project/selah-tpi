@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משחק\/ישחק",
+      "rationale": "Same root שחק twice — laughing-stock and laugh — repetition kept with lap."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun supplied; Hebrew suffix on verb marks 'it' (the fortress)."
+    }
+  ],
+  "translation": "Na em i mokim ol king, na ol bikman i kamap samting bilong lap long em; em i lap long olgeta banis strong, na em i beltapim das, na em i kisim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/1\/9-12.1792357429577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "long ol king"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "i mokim"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "na ol bikman"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "i kamap samting bilong lap long em"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "banis strong"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "i lap"
+    },
+    {
+      "surface": "ויצבור",
+      "gloss": "na em i beltapim"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "na em i kisim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:49.578213453Z",
+  "model": "glm-5.3"
+}

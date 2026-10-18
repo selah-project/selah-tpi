@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלץ",
+      "rationale": "Root חלץ read as 'withdraw himself' (KJV\/JPS) or 'tear away\/strip' — Tok Pisin 'i go ausait long ol' takes the first."
+    },
+    {
+      "kind": "secret",
+      "subject": "ol i no ken painim",
+      "rationale": "Yahwe makes himself unfindable — hiddenness as judgment."
+    }
+  ],
+  "translation": "Wantaim ol sipsip na meme bilong ol na wantaim ol bulmakau bilong ol ol i go painim ⟨את⟩ Yahwe, tasol ol i no ken painim ⟨em⟩; em i go ausait long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/5\/5-8.1792357012523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "wantaim ol sipsip na meme bilong ol"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "na wantaim ol bulmakau bilong ol"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol ol i no"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ken painim"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:52.524004531Z",
+  "model": "glm-5.3"
+}

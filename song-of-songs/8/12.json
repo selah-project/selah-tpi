@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרמי שלי",
+      "rationale": "Dobel tok 'bilong mi, bilong mi yet' — Hibru i putim כרמי wantaim שלי, repitim bilong strongim."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wan tausen \/ tupela handet",
+      "rationale": "Namba bilong skelim: 1000 bilong Shelomo, 200 bilong ol man i lukautim."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shelomo",
+      "rationale": "Meri i tokim Shelomo stret: 'em i bilong yu, Shelomo'."
+    }
+  ],
+  "translation": "Gaden grap bilong mi, bilong mi yet, em i stap long ai bilong mi; wan tausen em i bilong yu, Shelomo, na tupela handet bilong ol man i lukautim ⟨את⟩ frut bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/9-12.1792360519419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Gaden grap bilong mi"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "bilong mi yet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "i stap long ai bilong mi"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "wan tausen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tupela handet"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "bilong ol man i lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frut bilong em"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "frut bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:19.420472374Z",
+  "model": "glm-5.3"
+}

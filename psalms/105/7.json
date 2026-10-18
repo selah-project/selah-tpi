@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Predicate marker supplied; Hebrew fronts הוא without a verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew is verbless noun phrase; location verb supplied."
+    }
+  ],
+  "translation": "Em ⟨i⟩ Yahwe, Elohim bilong yumi; ol kot bilong em i stap long olgeta graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/5-8.1792358968892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Em"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ol kot bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:28.894060071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim 'i' long namel bilong 'givim' na 'long han bilong yu'; Hibru i no gat"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehosua",
+      "rationale": "Yahwe i tok stret long Yehosua"
+    }
+  ],
+  "translation": "Na Yahwe i tok long Yehosua: Lukim, mi don givim ⟨i⟩ long han bilong yu ⟨את⟩ Yeriko, ⟨את⟩ king bilong en, na ol man strong bilong pait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/6\/1-4.1792350537209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi don givim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "king bilong en"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "king bilong en"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ol man strong"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "bilong pait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:08:57.210578499Z",
+  "model": "glm-5.3"
+}

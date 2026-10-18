@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 42:9",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "להפיל תחנה",
+      "rationale": "Hebrew idiom 'cause your supplication to fall before him' = present entreaty; Tok Pisin keeps the literal picture 'mekim … i pundaun long pes bilong em'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle has no separate Tok Pisin word; the clause 'yupela i salim mi' carries it."
+    }
+  ],
+  "translation": "Na em i tokim ol: Olsem Yahwe, Elohim bilong Yisrael, i tok — yupela i salim ⟨את⟩ mi long em, bilong mekim ol pela bilong yupela i pundaun long pes bilong em:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/42\/9-12.1792355756982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tokim"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "yupela i salim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi (Jeremaya)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "bilong mekim … i pundaun"
+    },
+    {
+      "surface": "תחנתכם",
+      "gloss": "ol pela bilong yupela"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long pes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:56.983866790Z",
+  "model": "glm-5.3"
+}

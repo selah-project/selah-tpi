@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vois",
+      "rationale": "י שא 'lift up' has no stated object; 'vois' supplied from context (קולו at verse end)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tripla לא",
+      "rationale": "Triple negation לא...ולא...ולא builds rhythm; Tok Pisin 'na i no' repeats the pattern."
+    }
+  ],
+  "translation": "Em i no bai singaut tutulong, na i no bai haitapim, na i no bai mekim ol i harim vois bilong em long hapsait bilong rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/42\/1-4.1792354523424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "bai singaut tutulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bai haitapim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "bai mekim ol i harim"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "long hapsait bilong rot"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vois bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:23.425678330Z",
+  "model": "glm-5.3"
+}

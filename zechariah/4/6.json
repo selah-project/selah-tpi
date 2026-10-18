@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 4:6",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered 'ruak' (wind\/breath\/Spirit), not 'Spirit' alone, per discipline"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrew 'ki im' = 'but rather', rendered 'tasol' with bracketed particle"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "כי...אם pair needs a supplied element in Tok Pisin"
+    }
+  ],
+  "translation": "Na em i tanim tok na i tokim mi, i tok olsem: Dispela em i tok bilong Yahwe long Serubabel, i tok olsem: Nogat long strong bilong planti manmeri, na nogat long strong, tasol long ruak bilong mi, Yahwe Tsebaot i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/4\/5-8.1792357664360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i tanim tok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dispela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Serubabel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nogat"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "long strong bilong planti manmeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nogat"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "long strong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "ברוחי",
+      "gloss": "long ruak bilong mi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:44.361056520Z",
+  "model": "glm-5.3"
+}

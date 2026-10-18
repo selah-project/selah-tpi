@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עדנה",
+      "rationale": "Edna — tok i stap long Dispela ves tasol long olgeta Tanakh; min 'swit' o 'sua bilong laifem'."
+    },
+    {
+      "kind": "crux",
+      "subject": "lap",
+      "rationale": "צחק: lap long bel (gutpela) o lap bilong lego (Stat 18:15, Sara i traitem); narapela min i stap."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחק\/יצחק",
+      "rationale": "Tok 'lap' (tsakak) i wankain rot bilong nem Yitsak — piksa i no lus long Tok Pisin 'lap'."
+    }
+  ],
+  "translation": "Na Sara i lap long bel bilong ⟨em⟩, i tok: Bihain long mi lapun pinis, bai mi gat swit, na bikman bilong mi tu i lapun?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/18\/9-12.1792346490470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "Na Sara i lap"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "long bel bilong ⟨em⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Bihain long"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mi lapun pinis"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "swit"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na bikman bilong mi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tu i lapun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:30.471896508Z",
+  "model": "glm-5.3"
+}

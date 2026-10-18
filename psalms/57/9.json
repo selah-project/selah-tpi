@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה … עורה … אעירה",
+      "rationale": "Triple repetition of the same root 'wake' — poet wakes himself with the same verb he casts at his instruments."
+    },
+    {
+      "kind": "crux",
+      "subject": "אעירה שחר",
+      "rationale": "'I will awaken the dawn' (dawn as object) vs traditional 'I will awake early'; JPS\/BSB keep the object reading, KJV\/ASV read it adverbially."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kirap, glori bilong mi",
+      "rationale": "String of imperatives summoning the poet's own glory and his instruments to wake."
+    }
+  ],
+  "translation": "Kirap, glori bilong mi; kirap, nevel na kinor; bai mi kirapim ⟨i⟩ taim san i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/9-12.1792358325841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Kirap"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "glori bilong mi"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "bai mi kirapim"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "taim san i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:45.841579458Z",
+  "model": "glm-5.3"
+}

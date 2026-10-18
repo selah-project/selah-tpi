@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hibru i no gat 'tasol', mi putim bilong soim senis namel long Esau na Yakov"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nem bilong ol man",
+      "rationale": "Ves 2-4 i minus ol nem: Tera, Avraham, Nakor, Yitsak, Yakov, Esau — stori bilong ol Papa"
+    }
+  ],
+  "translation": "Na mi givim long Yitsak ⟨את⟩ Yakov na ⟨את⟩ Esau, na mi givim long Esau ⟨את⟩ maunten Seir bilong ol i holim ⟨את⟩ em, tasol Yakov na ol pikinini bilong em ol i go daun long Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e3d9ff1efbd5f28d725eab50719fd25482f0db45813c596f84c9a8d7b072f801",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/24\/1-4.1792350991959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "na mi givim"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "long Yitsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "na mi givim"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "long Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maunten Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "bilong holim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ em"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "tasol Yakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ol pikinini bilong em"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ol i go daun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "long Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:16:31.960809264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסר\/אסרה",
+      "rationale": "nem 'isar' na pasin 'taitim' (asar) i wankain raft — 'olgeta isar we em i asar', olsem Stat 30:11; Tok Pisin i holim liklik long hap tok 'isar'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "aleph-tav i makim 'em', em i stap long ⟨את⟩ tasol"
+    }
+  ],
+  "translation": "na man bilong en i harim, na em i stil long em, em i no septim ⟨את⟩ em — olgeta neder bilong en i sanap, na olgeta isar we em i taitim long nefes bilong en, em bai i sanap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/30\/9-12.1792349587511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "na man bilong en i harim"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "man bilong en"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "na em i stil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "septim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "neder bilong en"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "isar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "taitim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nefes bilong en"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "em bai i sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:53:07.513078457Z",
+  "model": "glm-5.3"
+}

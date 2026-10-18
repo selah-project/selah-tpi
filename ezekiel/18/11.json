@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "טמא em i 'mekim no klin' — stat bilong ceremoni na moral; 'bagarapim' i kamap long pasin bilong nogut olgeta."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i gat predicate marker ⟨i⟩, Hebrew i no gat."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "'tru' long ples bilong גם ('even\/olsem tu') — em i mak bilong strong, no tok bilong namba."
+    }
+  ],
+  "translation": "na em ⟨i⟩ no wokim ⟨את⟩ olgeta dispela samting, bikos em i kaikai long ol maunten, na em i bagarapim ⟨את⟩ meri bilong wantok bilong en —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/18\/9-12.1792356224750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta dispela samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "em i kaikai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meri bilong wantok bilong en"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wantok bilong en"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "em i bagarapim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:43:44.751745758Z",
+  "model": "glm-5.3"
+}

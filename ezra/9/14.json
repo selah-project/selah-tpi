@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 9:14",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rhetorical question framing",
+      "rationale": "Hebrew infinitive הנשוב plus הלוא builds a double rhetorical question; Tok Pisin marks it with 'Bai…?' and 'Yu no bai…?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "belhet",
+      "rationale": "אנף literally 'to breathe hard (through nostrils)', i.e. flare with anger."
+    },
+    {
+      "kind": "you",
+      "subject": "prayer of Ezra to Yahwe",
+      "rationale": "Verse continues direct address to Yahwe."
+    }
+  ],
+  "translation": "Bai yumi go bek long brokim ol lo bilong yu, na long maritim wantaim ol manmeri bilong dispela ol pasin nogut tru? Yu no bai belhet long yumi, inap yu pinisim olgeta — nogat wanpela man i stap yet, nogat wanpela i sot?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a889e84c06f88f367b634d32b9846642d8d206b7cdc118be7e529970ed922b61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/9\/13-15.1792361499542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשוב",
+      "gloss": "bai yumi go bek"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "long brokim"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol lo bilong yu"
+    },
+    {
+      "surface": "ולהתחתן",
+      "gloss": "na long maritim wantaim"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "long ol manmeri bilong"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "ol pasin nogut tru"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela ol"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "yu bai belhet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yu pinisim olgeta"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "wanpela man i stap yet"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "wanpela i sot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:11:39.543727582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i laikim prediket; Hibru i no gat kopula namel olgeta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמינו \/ תאמנו",
+      "rationale": "Wanpela leta nomo senis (א\/נ) namel long 'bilip' (amin) na 'stanap sap' (amen) — daun bilong tok i lus long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "תאמנו",
+      "rationale": "Sumi ol i tanim 'yupela i no stanap'; narapela skol i tok 'bai yupela i no stap gut \/ i lus hap'"
+    }
+  ],
+  "translation": "Na het bilong Efraim ⟨em i⟩ Shomron, na het bilong Shomron ⟨em i⟩ pikinini man bilong Remaljahu. Sapos yupela i no bilip, bai yupela i no stanap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/7\/9-12.1792353889672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "na het"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "bilong Efraim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na het"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "bilong Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "bilong Remaljahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "yupela i bilip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "yupela i stanap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:49.673030744Z",
+  "model": "glm-5.3"
+}

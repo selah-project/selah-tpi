@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "Root mashal (liken) and damah (be dumb\/perish) echo each other — likened and silenced in one breath, lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol i lus tong na ol i pinis",
+      "rationale": "נדמו means both 'be dumb\/silent' and 'perish'; both senses kept."
+    }
+  ],
+  "translation": "Na man long welth em i no ken stap nait; ol i putim em olsem ol animal bilong lukautim, ol i lus tong na ol i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/13-16.1792358272556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "na man"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "long welth"
+    },
+    {
+      "surface": "בל",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "stap nait"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ol i putim em olsem"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "olsem ol animal bilong lukautim"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ol i lus tong na ol i pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:52.557461354Z",
+  "model": "glm-5.3"
+}

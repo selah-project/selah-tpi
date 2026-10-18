@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "singautim",
+      "rationale": "זמר i min kasim string bilong ol samting singsing — pasin bilong mekim miusik, no tok tasol."
+    },
+    {
+      "kind": "you",
+      "subject": "Elyon",
+      "rationale": "Psalm i toktok dairek long Yahwe, na givim nem Elyon (Bikpela Antap) long em."
+    }
+  ],
+  "translation": "Bai mi amamas na bai mi salap long yu; bai mi singautim nem bilong yu, yu Elyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/1-4.1792357944083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "bai mi amamas"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "na bai mi salap"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bai mi singautim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:24.084086172Z",
+  "model": "glm-5.3"
+}

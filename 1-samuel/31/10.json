@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "haus Ashtarot",
+      "rationale": "עשתרות i ken min nem bilong goddess (Ashtarot) o nem bilong ples; mi holim nem bilong goddess"
+    }
+  ],
+  "translation": "Ol i putim ⟨את⟩ ol samting bilong pait bilong en long haus Ashtarot, na ol i pasim ⟨את⟩ bodi bilong en long banis bilong Bet-San.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/31\/9-12.1792352110126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ol i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting bilong pait bilong en"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ol samting bilong pait bilong en"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bodi bilong en"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "bodi bilong en"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ol i pasim"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "long banis bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "San"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:10.127471426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lait",
+      "rationale": "Hebrew i tok 'nait' tasol; Tok Pisin i tok 'lait nait'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואשמרה",
+      "rationale": "'holim pastik' long שמר — save tok i tok 'lukautim, ken lusim'"
+    }
+  ],
+  "translation": "Long lait nait mi tingim nem bilong yu, Yahwe, na mi holim pastik Tora bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "176cec35e043bf4318c6c710b4bbb3087b8df62e40749fdbc4784933616f6eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/54-55.1792363394451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mi tingim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long lait nait"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "na mi holim pastik"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:14.451795138Z",
+  "model": "glm-5.3"
+}

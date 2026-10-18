@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וירד",
+      "gloss": "רדה em i 'taitim lek long aninit' — bosim; Tok Pisin i holim mining, piksa bilong taitim lek i lus."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנהר",
+      "rationale": "'wara' — ol i tingting em i Yufrates (BSB 'Euphrates') o wanpela bigpela wara; Hibru i no tokim nem."
+    }
+  ],
+  "translation": "Na em bai bosim i go long wanpela solwara inap long narapela solwara, na long wara i go inap long ol hapsait bilong graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/5-8.1792358487273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "na bai bosim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "long wanpela solwara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "ים",
+      "gloss": "long narapela solwara"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "na long wara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ol hapsait"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bilong graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:27.274589580Z",
+  "model": "glm-5.3"
+}

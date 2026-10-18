@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apinun",
+      "rationale": "הצהרים em i dual bilong 'rait\/moning'; tok i min 'taim bilong dua de' — apinun"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Ol pronoun bilong objekt — Hibru i holim long ending -הו"
+    }
+  ],
+  "translation": "Na em i kisim ⟨em⟩ i go, na em i bringim ⟨em⟩ i kam long mama bilong ⟨em⟩; na em i sindaun long skru bilong ⟨em⟩ inap apinun, na em i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca253677765070efbb50609183ae5d92d520e264bdfd970bd6e912c26a057b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/4\/17-20.1792353328581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "em i kisim em i go"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "em i bringim em i kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong em"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na em i sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "skru bilong em"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:28.582239339Z",
+  "model": "glm-5.3"
+}

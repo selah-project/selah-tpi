@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "איל",
+      "rationale": "Rare word for 'strength' (אֱיָל), appearing only here; KJV\/ASV split as 'strength' vs 'help'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אין איל",
+      "rationale": "'no strength' (KJV, YLT) vs 'no help' (ASV, JPS) — same consonants, different pointing tradition."
+    }
+  ],
+  "translation": "Ol i skelim mi wantaim ⟨את⟩ ol i go daunbilo long hol; mi kamap olsem man i no gat strong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/88\/5-8.1792358790774.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ol i skelim mi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ol i go daunbilo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "long hol"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi kamap"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "olsem man"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "איל",
+      "gloss": "strong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:30.774953229Z",
+  "model": "glm-5.3"
+}

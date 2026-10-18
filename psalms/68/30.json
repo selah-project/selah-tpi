@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "את",
+      "rationale": "⟨את⟩ i makim 'presen' — em i olgeta samting ol king i brim i kam"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהיכלך על ירושלם",
+      "rationale": "'Longen' o 'Bihainen' — KJV 'longen', JPS 'i go long'; gramar bilong Hibru i opim tupela rot"
+    }
+  ],
+  "translation": "Longen ol king bai brim ⟨את⟩ presen i kam long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/29-32.1792358486753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Longen"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bai brim i kam"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ol king"
+    },
+    {
+      "surface": "שי",
+      "gloss": "presen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:26.754064173Z",
+  "model": "glm-5.3"
+}

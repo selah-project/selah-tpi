@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נסכתי",
+      "rationale": "נסך i min kapsaitim (wara\/oil) o pokaim metal — KJV 'set', YLT 'anointed'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mi bin statim",
+      "rationale": "Sapos נסך i pokaim metal, tok inap olsem 'mi bin statim king bilong mi'"
+    }
+  ],
+  "translation": "Tasol mi, mi bin kapsaitim oil long king bilong mi, long Tsiyon, maunten holi bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/2\/5-8.1792357822611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tasol mi"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "mi bin kapsaitim oil long"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "king bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "holi bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:22.612052857Z",
+  "model": "glm-5.3"
+}

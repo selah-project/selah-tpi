@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 28:9",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i no gat"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנביא (namba tu)",
+      "rationale": "construct chain דבר הנביא — 'tok bilong profet', wanpela hap"
+    }
+  ],
+  "translation": "Profet i autim tok profet long pis — taim tok bilong ⟨i⟩ profet i kamap, profet bai ⟨i⟩ save, profet we Yahwe i salim em long tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cc92d4f8c11316879be70ab7196a06c9f684551270e3c52148a27d0b6ca40e32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/28\/9-12.1792355405827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "i autim tok profet"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "taim … i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "bilong profet"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "i salim em"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "long tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:30:05.828483345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pulapim han wantaim ban",
+      "rationale": "מלא ידו בקשת: 'pulapim han wantaim ban' — KJV 'drew with full strength'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב long D4: 'bel' (tingting), i no 'hat'"
+    }
+  ],
+  "translation": "Na Yehu i pulapim han bilong en wantaim ban, na i paitim ⟨את⟩ Yehoram namel long tupela han bilong en, na spia bilong ban i go ausait long bel bilong en, na em i pundaun long karia bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/21-24.1792353409632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Na Yehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i pulapim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "wantaim ban"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "tupela han bilong en"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "spia bilong ban"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "long bel bilong en"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "na em i pundaun"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "long karia bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:56:49.633502002Z",
+  "model": "glm-5.3"
+}

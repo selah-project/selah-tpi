@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "long Simi",
+      "rationale": "Askim direk long Simi — kot bilong king."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבועת",
+      "rationale": "Hibru i gat hap-nem 'sware' wantaim 'Yahwe' i stap klostu — Tok Pisin 'sware bilong Yahwe' i holim pasin bilong construct."
+    }
+  ],
+  "translation": "Na bilong wanem yu no holim ⟨את⟩ sware bilong Yahwe, na ⟨את⟩ komand we mi givim long yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/41-44.1792352725253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "yu holim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sware bilong Yahwe"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sware bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "komand we mi givim long yu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "komand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi givim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:25.254380254Z",
+  "model": "glm-5.3"
+}

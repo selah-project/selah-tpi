@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tupela",
+      "rationale": "Hebrew בני (sons) has no number; Tok Pisin needs tupela because two sons are named."
+    },
+    {
+      "kind": "hapax",
+      "subject": "המחוים",
+      "rationale": "Mahavite — gentilic of unknown place, occurring only here."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nem list",
+      "rationale": "List of names counting David's mighty men."
+    }
+  ],
+  "translation": "Eliel, man bilong Mahavim, na Yiribai na Yoshavja, tupela pikinini bilong Elnaam, na Yitma, man bilong Moab;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8cee44a677e6c38c6be43ff1bef7da4b74087e988bae6690cc8beec7157967dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/11\/45-47.1792361969839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Eliel"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "man bilong Mahavim"
+    },
+    {
+      "surface": "ויריבי",
+      "gloss": "na Yiribai"
+    },
+    {
+      "surface": "ויושויה",
+      "gloss": "na Yoshavja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tupela pikinini bilong"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "Elnaam"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "na Yitma"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "man bilong Moab"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:29.839949379Z",
+  "model": "glm-5.3"
+}

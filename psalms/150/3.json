@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shofar · nevel · kinor",
+      "rationale": "Ol nem bilong ol instrument — mi holim nois bilong Hibru, i no 'trumpet' o 'harp' bilong Inglis"
+    }
+  ],
+  "translation": "Praisim ⟨em⟩ long blast bilong shofar; praisim ⟨em⟩ long nevel wantaim kinor.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/150\/1-4.1792359299068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "praisim ⟨em⟩"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "long blast"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "bilong shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praisim ⟨em⟩"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "long nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "wantaim kinor"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:59.069705564Z",
+  "model": "glm-5.3"
+}

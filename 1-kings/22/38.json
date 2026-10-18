@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והזנות רחצו",
+      "rationale": "harlots washed (themselves there) vs KJV 'they washed his armour' (repainting זונות as זנים); Hebrew says the harlots bathed in the pool"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטף\/רחץ\/לקץ",
+      "rationale": "three washing-verbs cluster (rinse, lick, bathe) around blood and water, a rhetorical knot partly lost"
+    }
+  ],
+  "translation": "Na ol i wasim ⟨את⟩ karet long ples wara bilong Shomeron, na ol dok i laikim ⟨את⟩ blut bilong en, na ol meri rausim man i wasim olgeta long en; olsem tok bilong Yahwe we em i tokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7d52a1fb407d901162ce45b9057c31b6a465ddeef8348beb04e4ca27b657cd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/37-40.1792353245745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "ol i wasim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karet"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karet"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ples wara"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "ol i laikim"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ol dok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blut bilong en"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blut bilong en"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "ol meri rausim man"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "i wasim olgeta"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "olsem tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:05.746890989Z",
+  "model": "glm-5.3"
+}

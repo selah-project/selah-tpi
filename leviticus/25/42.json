@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol i stap",
+      "rationale": "Hibru i no gat copula; 'הם' wanpela tok tasol — Tok Pisin i nidim 'i stap'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממכרת עבד",
+      "rationale": "'sel bilong wokman' — hibru i usim narapela tin tok ימכרו\/ממכרת (wankain rot); Tok Pisin i holim narapela 'selim\/sel'."
+    }
+  ],
+  "translation": "Bilong wanem, ol wokman bilong mi ol i stap — ol weh mi bin bringim aut ⟨את⟩ olgeta long graun bilong Mitsrayim; ol i no ken selim ol, olsem sel bilong wokman.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/25\/41-44.1792348766720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong mi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "weh"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mi bin bringim aut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ken selim ol"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "olsem sel bilong"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wokman"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:26.721127835Z",
+  "model": "glm-5.3"
+}

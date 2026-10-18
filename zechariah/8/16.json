@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim",
+      "rationale": "את before רעהו is the preposition 'with' (H854), not the DOM marker"
+    },
+    {
+      "kind": "invitation",
+      "subject": "un mas mekim",
+      "rationale": "imperative instruction to the community"
+    }
+  ],
+  "translation": "Ol dispela tok em ol samting un mas mekim: tokim tok tru, man wantaim ⟨את⟩ keda bilong en, tok tru, na kot bilong pis, skelim long ol dua bilong banis bilong un.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/8\/13-16.1792357690973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "em"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "un mas mekim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tok tru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "keda bilong en"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "keda bilong en"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tok tru"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na kot bilong"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "skelim"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "long ol dua bilong banis bilong un"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:10.979047363Z",
+  "model": "glm-5.3"
+}

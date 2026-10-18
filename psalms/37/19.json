@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem",
+      "rationale": "בושש em i 'bel i kol, sen' — Tok Pisin 'sem' i klostu tumas"
+    },
+    {
+      "kind": "addition",
+      "subject": "trophy",
+      "rationale": "שבע em i 'bel i fulap kaikai' — 'kaikai trophy' i holim piksa bilong fulap"
+    }
+  ],
+  "translation": "Ol i no ken sem long taim bilong samting nogut, na long ol de bilong hangre ol i bai kaikai trophy.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/17-20.1792358176644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "i ken sem"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bilong samting nogut"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "na long ol de"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "bilong hangre"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ol i bai kaikai trophy"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:16.646163176Z",
+  "model": "glm-5.3"
+}

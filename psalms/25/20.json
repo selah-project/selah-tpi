@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש em i laip\/wind bilong body — i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sot long bel",
+      "rationale": "בושׁ — 'pale\/sot long bel'; Tok Pisin 'sot long bel' i holim piksa bilong sem"
+    }
+  ],
+  "translation": "Lukautim ⟨em⟩ — laip bilong mi, na pulim mi Pinis; mi no inap sot long bel, long wanem mi ran i san long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/25\/17-20.1792358037585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Lukautim ⟨em⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na pulim mi Pinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mi no inap"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "sot long bel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi ran i san"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:57.586360628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok nogut",
+      "rationale": "חרף i min: tok bilong beltren i daun — klosap long bagarapim nem"
+    },
+    {
+      "kind": "idiom",
+      "subject": "man we i laik kaikai mi",
+      "rationale": "שאפי — 'em i hangre long mi', olsem dok i opim maus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלח...ישלח",
+      "rationale": "wankain tok, tupela taim — Elohim i salim, na Sela i stap namel"
+    }
+  ],
+  "translation": "Em bai salim ⟨i⟩ i kam daun long heven na sevim mi; em i tok nogut long man we i laik kaikai mi. Sela. Elohim bai salim ⟨את⟩ khesed bilong en na ⟨את⟩ tru pasin bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/1-4.1792358357882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "em bai salim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "i kam daun long heven"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "na sevim mi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "em i tok nogut"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "long man we i laik kaikai mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bai salim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong en"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "na tru pasin bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:17.883851971Z",
+  "model": "glm-5.3"
+}

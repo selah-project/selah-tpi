@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טבחתי ... טבחתי",
+      "rationale": "Wanpela tok i kamap tupela taim — 'mit bilong kilim' na 'kilim' — klostu olsem Heb ru, Tok Pisin no inap holim"
+    },
+    {
+      "kind": "crux",
+      "subject": "טבחתי",
+      "rationale": "Tupela ridin: 'ol animal mi kilim' (mit) o 'pasin bilong kilim' — KJV 'flesh that I have killed'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לגזזי",
+      "rationale": "'ol man i sulim' — Tok Pisin 'taim bilong sulimgut ol sipsip' i tokim taim, man i lus"
+    }
+  ],
+  "translation": "Bai mi kisim ⟨את⟩ bret bilong mi, na ⟨את⟩ wara bilong mi, na ⟨את⟩ mit bilong ol animal mi kilim pinis long taim bilong sulimgut ol sipsip bilong mi, na givim long ol man we mi no save olsem ol i kam long wanem hap?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5fe84fb81f1609adc588855048a6c4998fabca4d5b97802bc00e1477cc17361e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/10-11.1792363107497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו לקחתי",
+      "gloss": "bai mi kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bret bilong mi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bret bilong mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wara bilong mi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "wara bilong mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mit bilong ol animal mi kilim"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mit bilong ol animal mi kilim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mi kilim"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "long taim bilong sulimgut ol sipsip bilong mi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na givim"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "אי",
+      "gloss": "olsem ol i kam long wanem hap"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long wanem hap"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:27.498110068Z",
+  "model": "glm-5.3"
+}

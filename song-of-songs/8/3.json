@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew verbless clause; Tok Pisin predicate marker added"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמאלו\/וימינו",
+      "rationale": "left\/right hand parallelism, refrain repeated from 2:6"
+    }
+  ],
+  "translation": "Han kais bilong em i stap aninit long het bilong mi, na han gut bilong em i holim mi klostu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/1-4.1792360530417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "han kais bilong em"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "long het bilong mi"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "na han gut bilong em"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "i holim mi klostu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:30.418522968Z",
+  "model": "glm-5.3"
+}

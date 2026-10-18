@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בספר",
+      "rationale": "'in the book' — which book? The chronicle of the kings of Media and Persia (Est 10:2) or the scroll of Esther itself."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Passive 'it was written' has no subject; ⟨em⟩ supplied in Tok Pisin."
+    }
+  ],
+  "translation": "Na tok bilong Ester i beltim ol tok bilong dispela Purim, na ol i raitim ⟨em⟩ long buk.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/29-32.1792360996399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "na tok bilong"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "i beltim"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "na ol i raitim"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "long buk"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:16.401253635Z",
+  "model": "glm-5.3"
+}

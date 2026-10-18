@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pret",
+      "rationale": "פחד is sudden alarm\/dread — the object feared as much as the feeling; 'pret' covers both."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצאתם \/ pundaun",
+      "rationale": "their 'going-out' (exit) answered by dread 'falling' on Egypt — motion out, motion down."
+    }
+  ],
+  "translation": "Mitsrayim i amamas taim ol i go ausait, bilong pret bilong ol i pundaun antap long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/37-40.1792358955711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "taim ol i go ausait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "pret bilong ol"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "antap long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:15.712214440Z",
+  "model": "glm-5.3"
+}

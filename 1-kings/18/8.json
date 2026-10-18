@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ stap hia",
+      "rationale": "Tok Pisin i nidim predicate marker na ples-tok; Hebrew הנה i tanim 'lukim' tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "masta bilong yu",
+      "rationale": "אדניך long man — Akab, em i king, olsem 'masta bilong yu' bilong man, i no Nem bilong God."
+    }
+  ],
+  "translation": "Na em i tokim ⟨i⟩: Mi yet. Go, tokim masta bilong yu: Lukim, Eliyahu i stap hia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6c88113b5098a970a07713e3add1de52a5f7289c21b7f014a84c527a851cac37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/18\/5-8.1792353103323.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "masta bilong yu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:43.327020989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i bel long Tok Pisin — tingting na laik, i no 'hat'"
+    },
+    {
+      "kind": "crux",
+      "subject": "maus bilong harim",
+      "rationale": "אזנים i 'ear' — Tok Pisin i no gat gutpela tok; 'maus bilong harim' i spikim kaikai long ai"
+    }
+  ],
+  "translation": "Tasol Yahwe i no givim bel bilong save long yupela, na ai bilong lukim, na maus bilong harim, inap long dispela de.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/29\/1-4.1792350313377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel bilong save"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilong save"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "na ai"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bilong lukim"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "na maus bilong harim"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "bilong harim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:13.378221562Z",
+  "model": "glm-5.3"
+}

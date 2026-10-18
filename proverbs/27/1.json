@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תתהלל \/ ילד",
+      "rationale": "Hebrew plays on hillel (boast) and yalad (bring forth\/bear): do not boast of tomorrow, for you do not know what a day will give birth to."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Wisdom addresses the reader directly with imperatives."
+    },
+    {
+      "kind": "invitation",
+      "subject": "No ken praisim",
+      "rationale": "Imperative summons to the reader against boasting."
+    }
+  ],
+  "translation": "No ken praisim wanpela long de bilong tumora, long wanem yu no save wanem de bai karim i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/1-4.1792359780746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "No ken"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "praisim wanpela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bilong tumora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "save"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "karim i kamap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:00.747123079Z",
+  "model": "glm-5.3"
+}

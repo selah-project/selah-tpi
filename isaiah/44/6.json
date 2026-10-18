@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 44:6",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin predicate needs ⟨em⟩ where Hebrew has pronoun only"
+    },
+    {
+      "kind": "substitution",
+      "subject": "goel",
+      "rationale": "גואל is kinsman-redeemer under kinship law; 'man bilong baim bek' keeps the buy-back picture"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok, king bilong Yisrael, na man bilong baim bek bilong en, Yahwe Tsebaot: Mi em namba wan, na mi em namba las, na long autsait bilong mi i no gat Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3bf59ca5bf086dee7b94323cac2f2c1b0f193fae9112a49c689d8c3dc528bee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/44\/5-8.1792354526487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "na man bilong baim bek bilong en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "namba wan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "namba las"
+    },
+    {
+      "surface": "ומבלעדי",
+      "gloss": "na long autsait bilong mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:26.488260254Z",
+  "model": "glm-5.3"
+}

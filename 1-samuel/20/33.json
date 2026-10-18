@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כלה היא מעם אביו",
+      "rationale": "Hebrew literally 'it is complete from his father' — i.e. decided once for all; rendered as finished\/decided."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויטל",
+      "rationale": "Rare verb ṭual used of Saul's spear both here and in 18:11 and 19:10 — the same hurling gesture marks Saul's repeated rage."
+    }
+  ],
+  "translation": "Na Saul i troim ⟨את⟩ spia i go long em bilong paitim em, na Yehonatan i save olsem em i kolta pinis long papa bilong em bilong kilim ⟨את⟩ David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "87c2e699b1021beda4cf7eccdea89774c3abb6e67fd29e6b552a6a6796381392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/33-36.1792351849197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "i troim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spia"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "spia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "i go long em"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "bilong paitim em"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "na i save"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "i kolta pinis"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "bilong kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:49.198327136Z",
+  "model": "glm-5.3"
+}

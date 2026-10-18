@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i bosim",
+      "rationale": "Nominal clause again; Tok Pisin supplies the verb 'i bosim' for על."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המזכיר",
+      "rationale": "'Man i skruvim ol stori' (recorder\/rememberer) for the court title המזכיר."
+    }
+  ],
+  "translation": "Na Adoram i bosim ol wok takis; na Yehoshafat pikinini bilong Ahilud, man i skruvim ol stori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f23f03b26b43d6965d91580b567b05980f41a1d782a80f5b67c164994f2f107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/20\/21-24.1792352501001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "na Adoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ol wok takis"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "na Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "man i skruvim ol stori"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:41.003562088Z",
+  "model": "glm-5.3"
+}

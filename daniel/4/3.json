@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 4:3",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok bilong king",
+      "rationale": "טעם i min 'tes' — hia em i tok bilong man i gat autoriti, ol i ken no ken senis"
+    },
+    {
+      "kind": "elision",
+      "subject": "פשר",
+      "rationale": "Tok 'peshar' i stap — em i tok Aramaic bilong skelim driman, i no gat klostu tok long Tok Pisin"
+    }
+  ],
+  "translation": "Na long bilen bilong en mi putim wanpela tok bilong king: ol i mas bringim olgeta ol man save bilong Bavel i kam long pes bilong mi, bilong ol i ken tokim mi peshar bilong dispela driman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/4\/1-4.1792361143293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "na long bilen bilong en"
+    },
+    {
+      "surface": "שים",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tok bilong king"
+    },
+    {
+      "surface": "להנעלה",
+      "gloss": "ol i mas bringim i kam insait"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "long pes bilong mi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "ol man save"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "bilong Bavel"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "peshar"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "bilong dispela driman"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "ol i ken tokim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:05:43.294014540Z",
+  "model": "glm-5.3"
+}

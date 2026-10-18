@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i ritim prediket; Hibru i no gat kopula long nem-sentens"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Salm i toktok stret long wanpela man — ol geto long Yerusalayim i ritim"
+    }
+  ],
+  "translation": "Yahwe ⟨i⟩ lukautim yu; Yahwe ⟨i⟩ seda bilong yu, long han rait bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/121\/5-8.1792359184992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "lukautim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "seda bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rait bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:04.993528060Z",
+  "model": "glm-5.3"
+}

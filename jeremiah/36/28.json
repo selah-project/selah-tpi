@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 36:28",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הראשנים",
+      "rationale": "'first\/former' rendered 'bihain' (earlier, previous) — Tok Pisin direction idiom, opposite spatial metaphor."
+    },
+    {
+      "kind": "you",
+      "subject": "to Baruch",
+      "rationale": "imperative 'take again another roll' addressed to Baruch via Jeremiah's dictation."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun for the burned scroll added; Hebrew carries it in the verb suffix."
+    }
+  ],
+  "translation": "Go bek, kisim wanpela narapela rol bilong yu yet, na raunim long en ⟨את⟩ olgeta tok bihain — ol tok we i stap long rol bihain, we Yehoyakim, king bilong Yuda, i kukim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2bdfd49a9a3f91bedeb271c3ab0b6eb0d113e948052756f254edaa5b0cb96a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/36\/25-28.1792355624943.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוב",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu yet"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "rol"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "na raunim"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "rol"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "i kukim"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T20:33:44.944896544Z",
+  "model": "glm-5.3"
+}

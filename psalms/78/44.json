@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol riva",
+      "rationale": "יארים is the word for the Nile's channels; 'riva' loses the specific Nile reference."
+    }
+  ],
+  "translation": "Em i senisim ol riva bilong ol i kamap blut, na ol wara i rit rit — ol i no inap dring.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/41-44.1792358567937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "i senisim i kamap"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "ol riva bilong ol"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "ol wara i rit rit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no inap"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "dring"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:47.938353286Z",
+  "model": "glm-5.3"
+}

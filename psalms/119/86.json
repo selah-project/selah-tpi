@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩ \/ ⟨i⟩",
+      "rationale": "Tok Pisin i makim plenti wantaim ol, Hibru i no gat"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שקר רדפוני",
+      "rationale": "Hibru i tok 'ol i prend long mi wantaim tok nogut' — wanpela pasin, ol i traiim mi long tok nogut"
+    }
+  ],
+  "translation": "Olgeta ol toktok bilong yu ol i tru stap; ol man i-traiim-mi-long tok nogut i-prend long mi — hELPim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/85-88.1792359143065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol toktok bilong yu"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ol i tru stap"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tok nogut"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "i prend long mi"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "helpim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:23.066158229Z",
+  "model": "glm-5.3"
+}

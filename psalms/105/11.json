@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חבל",
+      "rationale": "חבל em i rop bilong skelim graun — long Tok Pisin 'rop bilong pes', pasin bilong pesim graun wantaim rop."
+    },
+    {
+      "kind": "you",
+      "subject": "לך",
+      "rationale": "God i toktok direk long Abraham: 'Long yu bai mi givim...'"
+    }
+  ],
+  "translation": "Em i tok olsem: Long yu bai mi givim ⟨את⟩ graun bilong Kenaan, em i rop bilong pes bilong ol manmeri bilong yumi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/9-12.1792358952496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Em i tok olsem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Long yu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bai mi givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "bilong Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "rop bilong pes"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ol manmeri bilong yumi olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:12.497702672Z",
+  "model": "glm-5.3"
+}

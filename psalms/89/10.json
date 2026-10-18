@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim wanpela tok namel, Hibru i ripitim אתה tasol"
+    }
+  ],
+  "translation": "Yu i bosim bikpela strong bilong solwara; taim ol wara bilong en i go antap, yu ⟨em⟩ yu stilim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/9-12.1792358775414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "bikpela strong bilong"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "taim … i go antap"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ol wara bilong en"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "yu stilim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:15.420243525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן הכפרת",
+      "rationale": "'Long Kaporot yet' — samting i bai wokim: kerub i stap wantaim gol bilong Kaporot (wankain pec), o i stap long Kaporot tasol; JPS\/ASV i tok 'wankain pec'."
+    },
+    {
+      "kind": "you",
+      "subject": "Mose",
+      "rationale": "Tok i go long Mose, pasin bilong givim wok."
+    }
+  ],
+  "translation": "Wokim wanpela kerub long hapsait hia, na wanpela kerub long hapsait hap narapela; long Kaporot yet ol bai wokim ⟨את⟩ ol kerub, long tupela hapsait bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/17-20.1792347885369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "wanpela kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hia"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "na wanpela kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hap narapela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporot"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ol bai wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ol kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "hapsait bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:45.370685986Z",
+  "model": "glm-5.3"
+}

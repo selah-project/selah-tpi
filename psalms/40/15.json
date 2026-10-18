@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש em i laip\/wind bilong man, i no 'soul' — mi usim 'laip bilong mi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronaun ⟨em⟩ bilong tokbilaut long 'laip bilong mi', long ples bilong sufiks -ה."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "Tupela-tripela tok bilong sem i bin olgeta — repitisen bilong pasin sem i strong long Hibru."
+    }
+  ],
+  "translation": "Ol i mas sem na ol i mas sem tru wantaim, ol i painim laip bilong mi bilong rausim ⟨em⟩; ol i mas go bek, na ol i mas sem olgeta, ol i amamas long nogut bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/40\/13-16.1792358214483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ol i mas sem"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na ol i mas sem tru"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "bilong rausim"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ol i mas go"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na ol i mas sem olgeta"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ol i amamas long"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "nogut bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:54.485205948Z",
+  "model": "glm-5.3"
+}

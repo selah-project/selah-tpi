@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kala bilong olgeta king",
+      "rationale": "ארגמן (purple) i kala bilong olgeta king — Tok Pisin i no gat wanpela tok bilong en."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברהטים",
+      "rationale": "Wanpela tok we i min 'ol chanel bilong wara' o 'ol ringlet hari' — planti tanim tok i usim 'hari', tasol as bilong tok i lukim ol chanel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דלת \/ אסור",
+      "rationale": "Ol hari i tanim daun (dangling) na king i holim pas — piksa bilong pas bilong klostu, em i strong long Hibru."
+    }
+  ],
+  "translation": "Hed bilong yu antap long yu i olsem Karmel, na ol hari bilong hed bilong yu i olsem kala bilong olgeta king; king i holim pas long ol ringlet hari.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/5-8.1792360525633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "hed bilong yu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "antap long yu"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "olsem Karmel"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "na ol hari i tanim daun"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "bilong hed bilong yu"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "olsem kala bilong olgeta king"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "i holim pas"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "long ol ringlet hari"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:25.634414637Z",
+  "model": "glm-5.3"
+}

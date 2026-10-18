@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezekiel 16:60",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית again rendered 'kontrak' consistently."
+    },
+    {
+      "kind": "addition",
+      "subject": "Tasol",
+      "rationale": "Hebrew has no 'nevertheless' word; the vav-contrast supplied as 'Tasol' to mark the pivot from judgment to promise."
+    }
+  ],
+  "translation": "Tasol mi bilong yet bai mi tingim ⟨את⟩ kontrak bilong mi wantaim ⟨את⟩ yu, long ol dei bilong taim bilong yangpela yu yet, na bai mi kirapim bilong yu wanpela kontrak bilong oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/16\/57-60.1792356251400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "na bai mi tingim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi bilong yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontrak bilong mi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "yu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "long ol dei bilong"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "taim bilong yangpela yu yet"
+    },
+    {
+      "surface": "והקמותי",
+      "gloss": "na bai mi kirapim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T20:44:11.402042738Z",
+  "model": "glm-5.3"
+}

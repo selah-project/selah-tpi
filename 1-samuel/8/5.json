@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 8:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלכו בדרכיך",
+      "rationale": "'walk in your ways' — Hebrew idiom for living according to someone's conduct; Tok Pisin 'wokabaut long ol rod bilong yu' keeps the picture."
+    },
+    {
+      "kind": "you",
+      "subject": "elders to Samuel",
+      "rationale": "Direct address: the elders of Israel speak to Samuel at Ramah."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Tok Pisin needs 'wanpela' before 'king'; Hebrew מלקך has no numeral."
+    }
+  ],
+  "translation": "Na ol i tokim em: Lukim, yu olman pinis, na ol pikinini bilong yu i no wokabaut long ol rod bilong yu; nau, wokim wanpela king bilong yumi, bilong skelim yumi, olsem olgeta narapela lain.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/5-8.1792351545086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "yu olman pinis"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "na ol pikinini bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "long ol rod bilong yu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wanpela king"
+    },
+    {
+      "surface": "לשפטנו",
+      "gloss": "bilong skelim yumi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "narapela lain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:45.087550818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כעש",
+      "rationale": "'vexation\/anger' (kaas); rendered 'kros' rather than 'vexation'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel hevi bilong painim man",
+      "rationale": "קנאה jealousy\/envy; Tok Pisin has no single word, so a phrase."
+    }
+  ],
+  "translation": "Long wanem, kros i kilim man ol i gat tingting nating, na bel hevi bilong painim man i kilim man studen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/5\/1-4.1792359947610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "man ol i gat tingting nating"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "i kilim"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kros"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "man studen"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "i kilim"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "bel hevi bilong painim man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:47.610943253Z",
+  "model": "glm-5.3"
+}

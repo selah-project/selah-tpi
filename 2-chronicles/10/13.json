@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim objek, Hibru i gat ol lon suffix -em long ויענם tasol"
+    }
+  ],
+  "translation": "Na king i bekim ⟨em⟩ ol wantaim strongpela tok, na king Rehavoam i lusim ⟨את⟩ advais bilong ol olpela man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/10\/13-16.1792362432410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "na i bekim ⟨em⟩ ol"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "wantaim strongpela tok"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "na i lusim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavoam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "advais bilong ol olpela man"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "advais bilong"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ol olpela man"
+    }
+  ],
+  "timestamp": "2026-10-18T22:27:12.410650320Z",
+  "model": "glm-5.3"
+}

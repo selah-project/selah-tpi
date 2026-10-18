@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pikinini man",
+      "rationale": "בן is plain 'pikinini\/son'; gender clear from context, 'man' supplied."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וברכתי\/וברכתיה",
+      "rationale": "Double blessing of Sarah frames the verse — repetition kept as 'mi bai barekim' twice."
+    }
+  ],
+  "translation": "Na mi bai barekim ⟨את⟩ em, na tu mi bai givim pikinini man long yu long en; na mi bai barekim em, na em bai kamap ol lain bilong ol kantri; ol king bilong ol man i kamap long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/17\/13-16.1792346514997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "na mi bai barekim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em (Sarah)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na tu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi bai givim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "na mi bai barekim em"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na em bai kamap"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ol lain bilong ol kantri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ol king"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bilong ol man"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:54.998541259Z",
+  "model": "glm-5.3"
+}

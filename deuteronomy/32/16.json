@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting nogut",
+      "rationale": "תועבות is stronger — 'ol samting we ol i bile long en', ritually disgusting; softened here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Two matched lines: provoke-jealous \/ provoke-anger — chiastic couplet structure kept."
+    }
+  ],
+  "translation": "Ol i mekim ⟨em⟩ jelos wantaim ol god bilong ol narapela lain; wantaim ol samting nogut ol i krosim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/32\/13-16.1792350389371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "mekim ⟨em⟩ jelos"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "wantaim ol god bilong ol narapela lain"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "wantaim ol samting nogut"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "ol i krosim ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:29.372330167Z",
+  "model": "glm-5.3"
+}

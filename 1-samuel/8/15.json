@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol bikman bilong en",
+      "rationale": "סריסים: literal em i ol man i no gat samting moa (eunuk), tasol ol tanim tok olsem 'ol ofisa bilong king' (KJV) — hia mipela holim pasin bilong bikman bilong haus king"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kisim ten pat long",
+      "rationale": "עשר literal em i 'tanim tok bilong ten' — kisim ten pat; Tok Pisin i no gat tok bilong taith"
+    }
+  ],
+  "translation": "Na bai em kisim ten pat long kaikai pikinini bilong yupela na long ol gaden wain bilong yupela, na givim long ol bikman bilong en na long ol wokman bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/13-16.1792351524542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "kaikai pikinini bilong yupela"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ol gaden wain bilong yupela"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "kisim ten pat long"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na givim"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "long ol bikman bilong en"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "na long ol wokman bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:24.543728499Z",
+  "model": "glm-5.3"
+}

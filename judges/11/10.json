@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יהוה יהיה שמע בינותינו",
+      "rationale": "'Yahwe be witness between us' — oath formula; rendered 'Yahwe em i save harim namel long yumi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "KJV 'if we do not' (conditional oath) vs JPS 'surely we will do' — negative particle inside oath formula"
+    }
+  ],
+  "translation": "Na ol olfela man bilong Gilat i tok long Yiftak: Yahwe em i save harim ⟨i⟩ namel long yumi; sapos yumi no wokim olsem tok bilong yu, olsem na yumi mekim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/11\/9-12.1792351268384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "olfela man"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i stap"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "save harim"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "namel long yumi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "olsem tok bilong yu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yumipela mekim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:21:08.385503983Z",
+  "model": "glm-5.3"
+}

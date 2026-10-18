@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הודיע",
+      "rationale": "Hiphil of ידע 'cause to know'; rendered 'skelim long saveman' (make known to)."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Tok Pisin needs 'man' as head noun for נבון וחכם, Hebrew uses bare adjectives."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yosef",
+      "rationale": "Pharaoh addresses Yosef directly."
+    }
+  ],
+  "translation": "Na Paroh i tok long Yosef: Bikos Elohim i skelim ⟨את⟩ yu long saveman long ⟨את⟩ olgeta dispela samting, i no gat man i gat tingting na save olsem yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2e5ef7d0768d01708b0df992f16de2d272e564f680e868186844fd7b6a0756f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/37-40.1792347157670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "i skelim long saveman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta dispela samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "man i gat tingting"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "na save"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "olsem yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:37.671152874Z",
+  "model": "glm-5.3"
+}

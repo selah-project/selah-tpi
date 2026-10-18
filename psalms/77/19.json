@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבל \/ הארץ",
+      "rationale": "Tupela tok i tanim 'graun' — תבל em i graun we man i stap long en"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגלגל",
+      "rationale": "'long welwint' (whirl) o 'long ol welwel bilong heven' (spheres, KJV) o 'long olgeta hap (round about)'"
+    }
+  ],
+  "translation": "Saut bilong tandet bilong yu i stap long welwint; ol laitenin i givim lait long graun; graun i guria na senis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/17-20.1792358527715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "saut"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "bilong tandet bilong yu"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "long welwint"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "i givim lait"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ol laitenin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "graun"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "na senis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:07.716223700Z",
+  "model": "glm-5.3"
+}

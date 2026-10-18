@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok hait",
+      "rationale": "חידה em i tok hait — riddle; KJV 'dark saying'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "tok hait bilong mi",
+      "rationale": "Singed bilong riddle — pes 49 em i pes bilong tok hait"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i nogat"
+    }
+  ],
+  "translation": "Mi boim daun ⟨i⟩ stap long stori bilong tok senis, ear bilong mi; mi opim tok hait bilong mi long kinora.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/5-8.1792358251239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "mi boim daun"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "long stori bilong tok senis"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ear bilong mi"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mi opim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "long kinora"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "tok hait bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:31.239850756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pis",
+      "rationale": "שלום i gat olgeta mining — gutpela sindaun, sef, gutpela hap; 'pis' tasol i holim wanpela pes bilong en"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבדד",
+      "rationale": "JPS ritim 'mekim mi stap wanem long sef' (לבדד = wanpela\/wanem); KJV\/BSB ritim 'yu wanpela' — mi bihainim KJV"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩ ⟨bai⟩",
+      "rationale": "Tok Pisin i nidim pronaun na bai long verb, Hibru i no gat"
+    }
+  ],
+  "translation": "Long pis yumi olgeta, mi bai slip daun na slip, bilong yu, Yahwe, yu wanpela, long gutpela sef, yu olsem mi stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1814adc919befac7216545885acbe320f7d614af3de7993ff831b253c13f3c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/4\/9-9.1792357809980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "olgeta wantaim"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mi bai slip daun"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "na slip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "yu wanpela"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "long gutpela sef"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "yu olsem mi stap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:09.980552609Z",
+  "model": "glm-5.3"
+}

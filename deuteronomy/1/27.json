@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "les long",
+      "rationale": "D3: שנא = 'les long'\/'birua'; 'les long' i holim strong bilong wantok tok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באהליכם",
+      "rationale": "Miskan i 'Miskan' (D2), tasol ol sel bilong ol man i 'haus sel'."
+    }
+  ],
+  "translation": "Na yupela i sotim tok long ol haus sel bilong yupela, na yupela i tok: Bilong les ⟨את⟩ long mipela i stap long bel bilong Yahwe, em i bringautim mipela long graun bilong Mitsrayim, bilong givim mipela ⟨את⟩ long han bilong ol Emori, bilong rausim mipela olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/25-28.1792349755057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "yupela i sotim tok"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "long ol haus sel bilong yupela"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "na yupela i tok"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "bilong les long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ long mipela"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "em i bringautim mipela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mipela",
+      "marks": "long han bilong ol Emori"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ol Emori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "bilong rausim mipela olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:55.058837267Z",
+  "model": "glm-5.3"
+}

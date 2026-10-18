@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol hau bilong ofa",
+      "rationale": "הבמות literally 'the high places', cultic elevated shrines; rendered descriptively."
+    },
+    {
+      "kind": "crux",
+      "subject": "bamot",
+      "rationale": "Standard formula 'the high places were not taken away' — some render as 'removed', Hebrew סרו 'turned aside'."
+    }
+  ],
+  "translation": "Tasol ol hau bilong ofa i no go ausait; yet ol manmeri i kilim animal bilong ofa na wokim smel swit long paia long ol hau bilong ofa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2118a771d23c9a05eace2d12e7b9db3b6054d3f2dc63ad781e6f9a6698ac1592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/1-4.1792353553690.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ol hau bilong ofa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "go ausait"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "i kilim animal bilong ofa"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na wokim smel swit long paia"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "long ol hau bilong ofa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:13.691827912Z",
+  "model": "glm-5.3"
+}

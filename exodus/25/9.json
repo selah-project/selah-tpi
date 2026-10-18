@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mak",
+      "rationale": "תבנית i mak\/patın bilong samting i stap antinge — ol i tanim olsem 'pattern'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Miskan",
+      "rationale": "D1: משכן oltaim Miskan, i no 'haus sel' tasol"
+    }
+  ],
+  "translation": "Olsem olgeta samting bilong mi soimim ⟨את⟩ yu — ⟨את⟩ mak bilong Miskan na ⟨את⟩ mak bilong olgeta samting bilong en — na olsem yu wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/9-12.1792347838724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "soimim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mak bilong Miskan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mak"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mak bilong olgeta samting bilong en"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "samting bilong en"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yu wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:58.725110391Z",
+  "model": "glm-5.3"
+}

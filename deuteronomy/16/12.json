@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wokman",
+      "rationale": "עבד em i man i wok long narapela man — 'wokman' long Tok Pisin i klostu; 'slev' i tupela wok"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i nidim predicate marker i, Hibru i no gat"
+    }
+  ],
+  "translation": "Na yu tingim, bilong yu i wokman long Mitsrayim; na yu lukautim na yu wokim ⟨את⟩ ol lo bilong stat bilong olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/16\/9-12.1792349986861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Na yu tingim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "i wokman"
+    },
+    {
+      "surface": "היית",
+      "gloss": "yu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "na yu lukautim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na yu wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol lo bilong stat bilong olgeta"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ol lo bilong stat bilong olgeta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:46.862838801Z",
+  "model": "glm-5.3"
+}

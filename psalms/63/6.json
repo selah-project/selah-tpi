@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפשי em i laif-wind \/ thro bilong man, i no 'soul'; hia em i kaikai bel bilong en i fulap."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebru i no tok 'yu' hia; Tok Pisin i nidim em bilong klia."
+    },
+    {
+      "kind": "crux",
+      "subject": "gris",
+      "rationale": "חלב: KJV 'marrow' vs YLT 'milk' (חלב\/חלב pun); hia 'gris bilong mit' olsem ofa bilong Wok Pris 3:16."
+    }
+  ],
+  "translation": "Olsem gris na stat bilong ol ofa bel bilong mi i fulap; na ol lips bilong ol gutpela singsing maot bilong mi i preisim ⟨yu⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/63\/5-8.1792358420305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gris"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "na stat bilong ol ofa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "na ol lips"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "bilong ol gutpela singsing"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "i preisim"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maot bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:20.306694935Z",
+  "model": "glm-5.3"
+}

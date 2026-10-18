@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלג כצמר \/ כפור כאפר",
+      "rationale": " tupela simile i pas-pas — wul i waitpela olsem snek, as iwaitpela smol olsem ais krinj."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ais krinj",
+      "rationale": "כפור em i hoarfrost — ais krinj i klostu piksa bilong en long Tok Pisin."
+    }
+  ],
+  "translation": "Em i givim snek olsem wul, na ais krinj olsem as em i skatim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/13-16.1792359315975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Em i givim"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snek"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "olsem wul"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ais krinj"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "olsem as"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "em i skatim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:15.976583176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש em i win bilong laip, no 'soul' olsem Inglis"
+    }
+  ],
+  "translation": "Em i bringim bek laip bilong mi; em i skirim mi long ol rot bilong tsedek, bilong nem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/23\/1-4.1792358025660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "em i bringim bek"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "em i skirim mi"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "long ol rot"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:45.662190565Z",
+  "model": "glm-5.3"
+}

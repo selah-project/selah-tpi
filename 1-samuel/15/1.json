@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kapsaitim oil long yu",
+      "rationale": "למשחך literal 'to anoint you'; Tok Pisin keeps the picture of oil poured out, as with kings and priests."
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Samuel directly addresses Saul, quoting Yahwe's command."
+    },
+    {
+      "kind": "invitation",
+      "subject": "harim long kol bilong ol tok",
+      "rationale": "imperative summons to hear and obey the voice of the words of Yahwe."
+    }
+  ],
+  "translation": "Na Shemuel i tokim Saul: Yahwe i salim ⟨את⟩ mi bilong kapsaitim oil long yu, bilong kamap king long ol manmeri bilong en, long Yisrael; na nau, harim ⟨i⟩ long kol bilong ol tok bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/1-4.1792351770535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "salim"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "bilong kapsaitim oil long yu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilong kamap king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "long kol bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:30.536184852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker rendered as name 'Sela'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאמים\/עמים",
+      "rationale": "Two near-synonyms for peoples alternating, chiastic frame of verse."
+    },
+    {
+      "kind": "crux",
+      "subject": "תנחם",
+      "rationale": "'Lead\/guide the nations' (JPS, BSB) vs 'govern' (KJV, Geneva); tpi follows 'giaidim'."
+    }
+  ],
+  "translation": "Ol lain i bai gori na singaut long amamas, bilong ol i save yupela lain i skelim ol manmeri long stret kot, na yupela i giaidim ol lain olgeta long graun. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/67\/5-8.1792358395269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "i bai gori"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "na singaut long amamas"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "yupela i skelim"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "long stret kot"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na ol lain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "yupela i giaidim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:55.269900887Z",
+  "model": "glm-5.3"
+}

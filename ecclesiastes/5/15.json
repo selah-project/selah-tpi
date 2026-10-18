@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered 'ruak' per D2 — wind\/breath\/Spirit one word; Qoheleth's labour is for wind."
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה חולה",
+      "rationale": "'grievous evil' (JPS, taking חולה as adj.) vs 'sick misfortune' (Geneva 'evil sickness') — the pointing suggests a sickening evil."
+    }
+  ],
+  "translation": "Na dispela tu em i sik nogut bilong olgeta: olsem em i kam, olsem na em i go; na wanem winim i stap long em, sapos em i wok long ruak?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/5\/13-16.1792360783925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na ... tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "em i kam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "em i go"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "winim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "sapos em i wok"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "long ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:43.926551330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sinus",
+      "rationale": "חטא em i ' lusim mak \/ tok nogut' — 'sin' em i tok bilong stat long Tok Pisin tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "snel bilong trapim",
+      "rationale": "מוקש em i snel\/rop bilong kaputim animal — 'snare', no 'banis'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "'lest' — tanim long 'bilong ol i no ken', pasin bilong Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Yahwe i tok stret long Yisrael long graun bilong ol"
+    }
+  ],
+  "translation": "Ol i no ken stap long graun bilong yu, bilong ol i no ken mekim yu sinus long ⟨את⟩ mi; bilong yu wok long ⟨את⟩ ol god bilong ol, bai em i kamap snel bilong trapim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/33-33.1792347728698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "long graun bilong yu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bilong ol i no ken"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ol i mekim yu sinus"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "yu wok long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol god bilong ol"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ol god bilong ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bai"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i kamap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "snel bilong trapim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:08.699122283Z",
+  "model": "glm-5.3"
+}

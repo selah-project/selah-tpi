@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ofra bilong paia i antap",
+      "rationale": "העלה min 'samting i go antap' — ofra we ol i burnim olgeta long paia"
+    },
+    {
+      "kind": "idiom",
+      "subject": "skaterim olgeta long ol kona",
+      "rationale": "יזרק סביב — kapsaitim blut, ranim olgeta long ol kona bilong alta"
+    }
+  ],
+  "translation": "Long ples we ol i kilim ⟨את⟩ ofra bilong paia i antap, ol bai kilim ⟨את⟩ ofra bilong rong, na ⟨את⟩ blut bilong em ol bai skaterim olgeta long ol kona bilong alta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/1-4.1792348320503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Long ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ol i kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofra bilong paia i antap"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofra bilong paia i antap"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ol bai kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofra bilong rong"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ofra bilong rong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "blut bilong em"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blut bilong em"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ol bai skaterim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long ol kona bilong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "olgata ol kona"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:00.504181988Z",
+  "model": "glm-5.3"
+}

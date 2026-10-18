@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel nogut",
+      "rationale": "תוגה em i hevi na spak long bel — bel nogut i holim piksa, no 'sorrow' abstrak"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבל",
+      "rationale": "נבל i min man no gat save wantaim man nogut; JPS 'churl', KJV 'fool'"
+    }
+  ],
+  "translation": "Man i kanapim man lus, em i bel nogut long em; na papa bilong man no gat save i no inap amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/17\/21-24.1792359581673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "i kanapim"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "man lus"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "bel nogut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no inap"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "amamas"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "man no gat save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:41.674194006Z",
+  "model": "glm-5.3"
+}

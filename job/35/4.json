@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "רעיך em i plural long Hibru; Tok Pisin i nidim ol"
+    }
+  ],
+  "translation": "Mi bai bekim ol tok long yu, na ⟨את⟩ ol wantok bilong yu wantaim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e04816e5d1a8957923456f5248ca98dffef2dba5d3f6ce0ef87a2b9cbcfb6711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/35\/1-4.1792360306480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "bai mi bekim ol tok long yu"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol wantok bilong yu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ol wantok bilong yu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wantaim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:46.481679192Z",
+  "model": "glm-5.3"
+}

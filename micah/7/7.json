@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 7:7",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tasol",
+      "rationale": "ו in ואני marks contrast with v5–6 (do not trust them — but I will watch); supplied as 'Tasol'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ \/ bai",
+      "rationale": "ישמעני is a simple imperfect 'my God hears me'; Tok Pisin predicate marker and future particle supplied."
+    }
+  ],
+  "translation": "Tasol mi, mi lukluk long Yahwe, mi wet long Elohim bilong helt bilong mi; Elohim bilong mi bai ⟨i⟩ harim tok bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/7\/5-8.1792357481593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tasol mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אצפה",
+      "gloss": "mi lukluk"
+    },
+    {
+      "surface": "אוחילה",
+      "gloss": "mi wet"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "long Elohim bilong"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "helt bilong mi"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "harim tok bilong mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:41.593970651Z",
+  "model": "glm-5.3"
+}

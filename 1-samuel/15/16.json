@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Staptok … Tok",
+      "rationale": "Samuel's summons and Saul's 'Tok' ('Speak') frame the confrontation as direct address"
+    },
+    {
+      "kind": "you",
+      "subject": "long Shaul",
+      "rationale": "Samuel addresses Saul directly, imperatives הרף and דבר"
+    }
+  ],
+  "translation": "Na Shemuel i tok long Shaul: Staptok, na bai mi tokim yu ⟨את⟩ samting we Yahwe i tokim mi long dispela nait. Na em i tokim em: Tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/13-16.1792351757291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Staptok"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "na bai mi tokim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samting we Yahwe i tokim mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "long dispela nait"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Tok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:17.292638673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויד",
+      "rationale": "Lit. 'a hand' — read as 'an assigned spot\/facility' (KJV 'a place') vs literal 'hand' or 'monument-marker'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wanpela ples⟩",
+      "rationale": "Tok Pisin requires a noun; Hebrew has only 'hand' standing for the facility."
+    }
+  ],
+  "translation": "Na ⟨wanpela ples⟩ i ken stap long yu long autsait bilong kamp, na yu bai go aut i go long-en, long autsait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/13-16.1792350205550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורא",
+      "gloss": "na ⟨wanpela ples⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i ken stap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "long autsait"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "bilong kamp"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "na yu bai go aut"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long-en"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "long autsait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:25.551566470Z",
+  "model": "glm-5.3"
+}

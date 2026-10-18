@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 22:49",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשר אניות תרשיש",
+      "rationale": "'ten Tarshish-ships' vs 'ships of Tarshish' (a ship-type); Hebrew counts ten."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew verb is singular 'it went not' with plural ships; Tok Pisin needs plural subject."
+    }
+  ],
+  "translation": "Yehoshafat i wokim ten sip bilong Tarshish bilong go long Ofira long baim gol, tasol ⟨ol⟩ i no go, long wanem ol sip i bruk long Etsion-Geber.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/49-52.1792353222911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ol sip"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "bilong Tarshish"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bilong go"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "long Ofira"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "long baim gol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "i bruk"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ol sip"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "long"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Etsion-Geber"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:42.912061660Z",
+  "model": "glm-5.3"
+}

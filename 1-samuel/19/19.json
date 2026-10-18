@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew passive 'it was told' has no agent; Tok Pisin needs a subject."
+    }
+  ],
+  "translation": "Na ol i stori long Shaul olsem: Luk, David i stap long Naiot long Rama.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b57c9e3ddc42367bb016a920bed103aee4c73931e2827e0a995ff34605d74eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/19\/17-20.1792351855463.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ol i stori"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Luk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "long Naiot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "long Rama"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:55.464577242Z",
+  "model": "glm-5.3"
+}

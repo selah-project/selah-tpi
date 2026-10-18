@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Predicate marker supplied by Tok Pisin grammar; Hebrew participle carries no copula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פצחו",
+      "gloss-as": "ol i brukim",
+      "rationale": "Rare verb, usually 'break out in joyful sound' — here violently 'split\/chop' bones; the ironic clash is lost in Tok Pisin."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קלחת",
+      "rationale": "Cooking-pot word paired with סיר; both rare terms intensify the cannibal-pot image."
+    }
+  ],
+  "translation": "Na ol i kaikai mit bilong manmeri bilong mi, na skin bilong ol long olgeta ol i tekwe, na ⟨את⟩ ol bun bilong ol ol i brukim, na ol i tambuim ⟨i⟩ olsem mit long pot, olsem mit long bel bilong kalas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/3\/1-4.1792357398693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "na ol"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "i kaikai"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bilong manmeri bilong mi"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "na skin bilong ol"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "long olgeta long ol"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "ol i tekwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong ol"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ol bun bilong ol"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ol i brukim"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na ol i tambuim ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "long pot"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "olsem mit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kalas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:18.694549993Z",
+  "model": "glm-5.3"
+}

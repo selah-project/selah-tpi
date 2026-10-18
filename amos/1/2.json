@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "singaut olsem laion",
+      "rationale": "שאג is the lion's roar\/rumble; Tok Pisin needs 'singaut olsem laion' to keep the picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "roar-mourn-wither",
+      "rationale": "Lion-roar of Yahwe cascades into mourning pastures and withered Carmel — sound of judgment hitting the land."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨autim⟩",
+      "rationale": "נתן קולו is literally 'give his voice'; 'autim' added to carry the sense of uttering."
+    }
+  ],
+  "translation": "Na Yahwe i tok: Long Tsaion bai em i singaut olsem laion, na long Yerusalayim bai em i givim ⟨autim⟩ vos bilong en; na ol ples gaden bilong ol man i lukautim sipsip bai i karai, na het bilong Karmel bai i drai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/1-4.1792357236771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Long Tsaion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "bai em i singaut olsem laion"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "na long Yerusalayim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bai em i givim"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "vos bilong en"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "bai i karai"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ol ples gaden"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "bilong ol man i lukautim sipsip"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "bai i drai"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het bilong"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:36.773793661Z",
+  "model": "glm-5.3"
+}

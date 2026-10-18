@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כהנדף \/ תנדף",
+      "rationale": "Wanpela as נדף i kamap tupela taim klostu — liklik kain smok i skerap, Tok Pisin i no inap holim dispela pasin."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨olsem na⟩",
+      "rationale": "Hibru i no gat tok bilong taim narapela — smok yet em i piksa bilong ol birua."
+    }
+  ],
+  "translation": "Olsem smok i skerap i go, ⟨olsem na⟩ i skerap; olsem donag i kamap olsem wara long pes bilong paia, ol man nogut i ken lus olgeta long pes bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/1-4.1792358428326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "olsem i skerap"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "smok"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "i skerap i go"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "olsem i kamap olsem wara"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "donag"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "i ken lus olgeta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:28.327742454Z",
+  "model": "glm-5.3"
+}

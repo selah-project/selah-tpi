@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol head bilong yupela",
+      "rationale": "עולם em i 'taim i go pinis, taim i stap klostu long save nogut' — 'taim bipo yet' i holim pasin bilong dispela tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "וליBO ויבא i stap yet long Tok Pisin; Hebtru i no gat mak bilong taim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol dua bilong banis",
+      "rationale": "Ol koman (imperative) i singautim ol dua long opim — singaut bilong ritual processhon"
+    }
+  ],
+  "translation": "Rausim ol head bilong yupela, ol dua bilong banis, na rausim olgeta, ol dua bilong taim bipo yet, bai King bilong glori i kamap insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/24\/9-10.1792358031602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ol dua bilong banis"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ol head bilong yupela"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "na rausim olgeta"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ol dua"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bilong taim bipo yet"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bai … i kamap insait"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "bilong glori"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:51.603152067Z",
+  "model": "glm-5.3"
+}

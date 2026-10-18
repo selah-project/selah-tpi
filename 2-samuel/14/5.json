@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "Hebrew idiom 'what to you?' = Tok Pisin 'yu gat wanem samting?', literal 'wanem long yu' bai no klia"
+    },
+    {
+      "kind": "you",
+      "subject": "king long meri",
+      "rationale": "King i askim meri bilong Tekoa direkt long em"
+    }
+  ],
+  "translation": "Na king i tok long em: Yu gat wanem samting? Na em i tok: Em tru, mi wanpela meri bilong man i dai pinis, na man bilong mi i dai pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/14\/5-8.1792352369097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na king i tok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "em tru"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "meri bilong man i dai pinis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai pinis"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "man bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:39:29.102919162Z",
+  "model": "glm-5.3"
+}

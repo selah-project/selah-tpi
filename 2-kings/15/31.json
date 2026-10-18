@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 15:31",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rit",
+      "rationale": "כתובים is 'written'; Tok Pisin 'rit' covers both read and written record — the archival-citation formula."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew verbless clause 'הנם כתובים' needs the Tok Pisin predicate marker."
+    }
+  ],
+  "translation": "Na ol narapela stori bilong Pekah, na olgeta samting em i wokim — hait, ol i rit long buk bilong ol stori bilong ol de bilong ol king bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf182c679f9fe47a9406b97e821457128be26e6ee48fffec8ee0b652ad850492",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/15\/29-32.1792353569327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Na ol narapela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori bilong"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "hait, ol"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "i rit"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori bilong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bilong ol king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:29.328754633Z",
+  "model": "glm-5.3"
+}

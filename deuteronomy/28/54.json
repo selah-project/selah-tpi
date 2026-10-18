@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "deuteronomy 28:54",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תרע עינו",
+      "rationale": "Literally 'his eye is evil' — Tok Pisin 'ai bilong em bai i nogut' keeps the body-part picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun supplied for the relative subject; Hebrew leaves it implicit."
+    }
+  ],
+  "translation": "Man i sot namel long yu, na man i lapunim bel tumas, ai bilong ⟨em⟩ bai i nogut long brata bilong em, na long meri bilong bos bilong em, na long ol liklik bilong em we i stap pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6a8f570ccf4f105af9ef5f71268a8659a6678ac49f797c601e71ed5bbd67ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/53-56.1792350312318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "i sot"
+    },
+    {
+      "surface": "בך",
+      "gloss": "namel long yu"
+    },
+    {
+      "surface": "והענג",
+      "gloss": "na man i lapunim bel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "bai i nogut"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ai bilong em"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "long brata bilong em"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "na long meri bilong"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "bos bilong em"
+    },
+    {
+      "surface": "וביתר",
+      "gloss": "na long ol liklik bilong em"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יותיר",
+      "gloss": "i stap pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:12.319628652Z",
+  "model": "glm-5.3"
+}

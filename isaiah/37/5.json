@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "save",
+      "rationale": "עבדי 'servants' rendered as 'ol save bilong' — Tok Pisin idiom for royal officials"
+    }
+  ],
+  "translation": "Ol save bilong king Hizkiya i go long Yeshayahu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/37\/5-8.1792354384952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "i go"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol save bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:13:04.953235524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'to move\/impel him at times' (KJV) vs 'to strengthen him' (Geneva); tap-beat sense kept as 'paitim em wantaim taim ol i makim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח is wind\/breath\/Spirit in one word; Tok Pisin 'ruak' holds all senses"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "predicate marker required by Tok Pisin grammar, absent in Hebrew"
+    }
+  ],
+  "translation": "Na ruak bilong Yahwe i stat long paitim em ⟨i⟩ wantaim taim ol i makim, long kemp bilong Dan, namel long Tsora na namel long Estael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/13\/25-25.1792363029654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "i stat long"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "long paitim em wantaim taim ol i makim"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "long kemp"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Estael"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:09.654483826Z",
+  "model": "glm-5.3"
+}

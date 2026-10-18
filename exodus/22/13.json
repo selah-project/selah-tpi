@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wanpela samting",
+      "rationale": "Hebrew has no explicit object noun; Tok Pisin needs one after 'salim'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Infinitive absolute doubling: 'pe i mas pe gut tru' — emphatic repayment"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישאל",
+      "rationale": "Verse numbering diverges: Hebrew 22:13 (borrowed animal) is KJV 22:14 — the 'torn in pieces' verse is Hebrew 22:12"
+    }
+  ],
+  "translation": "Na sapos man i salim ⟨את⟩ wanpela samting long poroman bilong en, na em i bruk o em i dai, na bos bilong ⟨em⟩ i no stap wantaim em, em i mas pe gut tru.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/13-16.1792347760009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "i salim long"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poroman bilong en"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "na em i bruk"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מת",
+      "gloss": "em i dai"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "bos bilong en"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "stap wantaim em"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "i mas pe gut tru"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:40.010160994Z",
+  "model": "glm-5.3"
+}

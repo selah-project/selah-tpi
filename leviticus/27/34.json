@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol mitsvot",
+      "rationale": "Closing colophon tallying the commandments — a count-summary of Leviticus."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol bung",
+      "rationale": "המצות is plural collective; Tok Pisin needs 'ol bung' to mark plurality."
+    }
+  ],
+  "translation": "Ol dispela ol i ol bung bilong ol toktok bilong bosim — olgeta we Yahwe i givim long ⟨את⟩ Mose bilong ol pikinini bilong Yisrael, long malo Sinay.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c3fce8cb71bd990fd235cbaa466bf251a5fcc5af8609747b14222a7368190708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/27\/33-34.1792348825225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ol dispela"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ol bung bilong ol toktok bilong bosim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olgeta we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long malo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:25.226376603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "ותכס על 'covered over' — Tok Pisin i laikim wanpela tok moa long pasin bilong karamapim olgeta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפתח\/ותבלע",
+      "rationale": "Hibru i gat strongpela piksa: graun i opim maus na i swarum man — Tok Pisin i holim piksa tasol"
+    }
+  ],
+  "translation": "Graun i opim draipela hol na i swarum ⟨את⟩ Datan, na i tapim olgeta ol man bilong Aviram.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/17-20.1792358984780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "na i swarum"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "⟨את⟩ Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "na i tapim olgeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:44.784027688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "Tok Hibru i tok 'tok i kamap strong' (khazaq); Tok Pisin i tok 'i winim' — piksa bilong strong i stap behain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "lifnei i minol 'long fes bilong' — Tok Pisin 'long stua bilong king' (ol i go ausait long presens bilong em)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kauntim ol manmeri",
+      "rationale": "Wok kaunsel i stat nau — namba bilong ol manmeri Yisrael em i as bilong stori."
+    }
+  ],
+  "translation": "Na tok bilong king i winim Yoab na ol bikman bilong ol ami, na Yoab na ol bikman bilong ol ami i go ausait long stua bilong king, bilong kauntim ⟨את⟩ ol manmeri — ⟨את⟩ Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/24\/1-4.1792352652104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i winim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol bikman bilong"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ol ami"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na i go ausait"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ol bikman bilong"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ol ami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long stua bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "bilong kauntim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:12.105578472Z",
+  "model": "glm-5.3"
+}

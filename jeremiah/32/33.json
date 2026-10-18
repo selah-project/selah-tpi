@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ולמד … ולמדד",
+      "rationale": "פעם ראשונה infinitive construct 'ללמד' — הכפלת 'למד' מדגישה הוראה חוזרת, בתרגום נשמרת רק פעם אחת כפולה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסר",
+      "rationale": "'מוסר' מוגש כ'skelim' (ייסור\/מוסר); 'מוסר' גם 'אזהרה\/הוראה' — היבט ההוראה אובד"
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "נושא 'אני' נוסף בבירור — עברית מסתפקת בנטיית הפועל"
+    }
+  ],
+  "translation": "Na ol i tanim ⟨i⟩ kamap long mi olgeta bilong bek, tasol ol i no tanim pes; na olsem mi skulim ⟨את⟩ ol, mi goap istap long moningtaim na skulim, tasol ol i no harim, bilong kisim skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cdb464c6ee91109fd18a116a063519d3c242de03ab1e86b1c9a3cf5c9b22451d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/32\/33-36.1792355546945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ol i tanim kamap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "bek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pes"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "na olsem mi skulim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "goap istap long moningtaim"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "na skulim"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "tasol ol i no"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "harim"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "bilong kisim"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:32:26.945846974Z",
+  "model": "glm-5.3"
+}

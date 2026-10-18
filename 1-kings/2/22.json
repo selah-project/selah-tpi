@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 2:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (you)",
+      "rationale": "first את is the pronoun 'you', not the object marker — rendered as yu without brackets since it is a real Hebrew word"
+    },
+    {
+      "kind": "you",
+      "subject": "to Bathsheba his mother",
+      "rationale": "Solomon directly addresses his mother with a rhetorical question"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולו",
+      "rationale": "'and for him' — KJV\/ASV keep it dangling ('even for him'); BSB folds it into the list; I attach it to the allies"
+    }
+  ],
+  "translation": "Na king Selomo i bekim tok na i tok long mama bilong en: Bilong wanem yu askim long ⟨את⟩ Avishag, meri bilong Shunem, bilong Adonaihu? Askim tu ⟨את⟩ king bilong en, long wanem em i brata bilong mi, na em i mora olgem; em i gat ⟨את⟩ Eviatar pris, na Yoab pikinini bilong Tseruia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/21-24.1792352713439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i bekim tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "long mama bilong en"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "askim long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "meri bilong Shunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "bilong Adonaihu"
+    },
+    {
+      "surface": "ושאלי",
+      "gloss": "Askim tu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "king"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong mi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "i mora olgem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "na long Eviatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "וליואב",
+      "gloss": "na long Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:13.440205790Z",
+  "model": "glm-5.3"
+}

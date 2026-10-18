@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "knek pasin",
+      "rationale": "תהפכות — ol i usim 'froward' o 'perverse'; 'knek pasin' i holim piksa bilong tok i kamap narapela"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'pren wantaim tru' (KJV 'chief friends') o 'ol bikman ol i save long ol' (Wycliffe 'princis') — em i man i save gut"
+    }
+  ],
+  "translation": "Man i gat knek pasin i salim ⟨את⟩ pait tupela, na man i toktok nogut long narapela i brukim ⟨את⟩ ol pren bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/25-28.1792359572783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "i gat knek pasin"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "⟨את⟩ pait tupela",
+      "marks": "pait tupela"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "na man i toktok nogut long narapela"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "⟨את⟩ ol pren bilong en",
+      "marks": "ol pren bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:32.784426330Z",
+  "model": "glm-5.3"
+}

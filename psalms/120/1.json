@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim pronoun bilong makim subjek; Hibru i no gat pronoun long ויענני"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיר המעלות",
+      "rationale": "Taitel bilong ol fiftin psalm — 'sin bilong ol go antap' (pilgrim sen long Jerusalem)"
+    }
+  ],
+  "translation": "Sin bilong ol go antap. Long Yahwe, long taim bilong trabel bilong mi, mi singaut, na ⟨em⟩ i bekim tok bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/120\/1-4.1792359158602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong ol go antap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "long taim bilong trabel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi singaut"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "na ⟨em⟩ i bekim tok bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:38.603975699Z",
+  "model": "glm-5.3"
+}

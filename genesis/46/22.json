@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש em i win bilong laip — 'olgeta man' i tanim namel long kaikai bilong wanwan."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i laikim save tok ⟨em⟩, Hibru i no gat em."
+    },
+    {
+      "kind": "measurement",
+      "subject": "foaten",
+      "rationale": "Namba bilong ol pikinini bilong Rahel — foa ten."
+    }
+  ],
+  "translation": "Ol dispela ⟨em⟩ ol pikinini bilong Rahel, ol i kamap long Yakov; olgeta man i wan ten foa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c7d1c1914f4478d08bee24db820d2aaadb2ee49748bcb3d94dae5b885648c9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/46\/21-24.1792347226254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ol dispela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foa ten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:46.254837043Z",
+  "model": "glm-5.3"
+}

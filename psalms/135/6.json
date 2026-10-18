@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle folded into 'samting'; no separate Tok Pisin word"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל ... וכל",
+      "rationale": " inclusio of 'all' framing the verse, kept as olgeta ... olgeta"
+    }
+  ],
+  "translation": "Olgeta samting Yahwe i laikim, em i mekim long heven na long graun, long ol solwara na long olgeta dip ples.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/5-8.1792359222868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i mekim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na long graun"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "long ol solwara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na long olgeta"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dip ples"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:42.869508541Z",
+  "model": "glm-5.3"
+}

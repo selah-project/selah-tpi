@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hangamapim",
+      "rationale": "צפן i tok bilong haitim olsem kre, i no tanim tok long wokim nating"
+    },
+    {
+      "kind": "secret",
+      "subject": "haitim tok insait long bel",
+      "rationale": "tok bilong God i hait — samting i stap tasol long insait"
+    }
+  ],
+  "translation": "Long bel bilong mi mi hangamapim tok bilong yu, bilong inap no ken wokim samting nogut long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/9-12.1792359102763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "long bel bilong mi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mi hangamapim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong inap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "wokim samting nogut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:42.765427710Z",
+  "model": "glm-5.3"
+}

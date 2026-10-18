@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרוב ... קרוב",
+      "rationale": "'Near ... near' repeated for urgency; repetition kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "מר צורח שם גיבור",
+      "rationale": "Word order debated: 'bitterly shrieks there the mighty' (KJV\/ASV) vs 'the cry of the mighty is bitter' (BSB); kept the literal word order sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מר",
+      "rationale": "'Bitter' rendered as em i nogut; Tok Pisin lacks a native word for bitter taste used figuratively here."
+    }
+  ],
+  "translation": "De bilong Yahwe, bikpela de, em i klostu; em i klostu na em i kamerap swift tru. Nuis bilong de bilong Yahwe em i nogut; long en man strong i bai singaut nogut tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zephaniah\/1\/13-16.1792357569524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "em i klostu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela de"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "em i klostu"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "na em i kamerap swift"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nuis bilong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מר",
+      "gloss": "em i nogut"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "singaut nogut tru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "man strong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:09.525159075Z",
+  "model": "glm-5.3"
+}

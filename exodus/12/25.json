@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Tok Pisin needs future marker, Hebrew aspect doesn't mark it"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yu ol",
+      "rationale": "instruction addressed directly to Israel"
+    }
+  ],
+  "translation": "Na taim yu ol lain i go insait long graun we Yahwe bai i givim long yu ol, olsem em i tokim pinis, bai yu ol lukautim ⟨את⟩ dispela wok;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/25-28.1792347590218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "yu ol i go insait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bai i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim pinis"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "bai yu ol lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela wok"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:50.219031105Z",
+  "model": "glm-5.3"
+}

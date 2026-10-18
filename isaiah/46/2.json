@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש em i win bilong laip, pasin bilong hungre — 'laip bilong ol' i klostu, 'soul' i no Tok Pisin bilong Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "Sumi i tok 'ol i no inap salim ol man i karim kago', narapela i tok 'kago i no inap ranawe' — Heb i tok 'ol i no inap mekim kago i lus'"
+    }
+  ],
+  "translation": "Ol i go daun, ol i kanu wantaim; ol i no inap rausim ⟨em⟩ kago, na laip bilong ol i go long kalabus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/46\/1-4.1792354564081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "ol i go daun"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ol i kanu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "inap"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "משא",
+      "gloss": "kago"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "na laip bilong ol"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "long kalabus"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "i go"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:04.082386535Z",
+  "model": "glm-5.3"
+}

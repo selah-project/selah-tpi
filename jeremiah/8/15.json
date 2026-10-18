@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "Hibru i gat 'בעתה' tasol (pret), Tok Pisin i nidim tok bilong stat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ בעתה",
+      "rationale": "Ol i wet long pis, tasol pret i kamap — pasin bilong tanim tok sowim."
+    }
+  ],
+  "translation": "Yumi wet long pis, tasol i no gat gutpela samting; long taim bilong hilaim, na lukluk — pret i kamap!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e19a54080b3db9253b4e2bfd8ff910e202404d625d7911012b33081568bad122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/8\/13-16.1792355073385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "yumi wet"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol i no gat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "long taim bilong"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "hilaim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukluk"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "pret i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:33.386524466Z",
+  "model": "glm-5.3"
+}

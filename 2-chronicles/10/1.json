@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "king",
+      "rationale": "להמליך olsem 'kirapim em i kamap king' — Tok Pisin i mas tokim 'king' long sentence bilong mekim king"
+    }
+  ],
+  "translation": "Na Rehabeam i go long Sekem, long wanem, olgeta man bilong Yisrael i kamap long Sekem bilong kirapim ⟨את⟩ em i kamap king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/10\/1-4.1792362444409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "long Sekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "bilong kirapim i kamap king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (Rehabeam)"
+    }
+  ],
+  "timestamp": "2026-10-18T22:27:24.409949190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol man i kilim",
+      "rationale": "חלליכם is 'your pierced ones' — slain men, not merely wounded"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמניכם",
+      "rationale": "חמן sun-pillar is rare; rendered literally as 'stones of the sun'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלול",
+      "rationale": "Hebrew pun: גלול from 'round log', contemptuous term for idols — kept as 'gilgul'"
+    }
+  ],
+  "translation": "Ol alter bilong yupela bai i bagarap, ol ston bilong san bilong yupela bai i bruk, na bai mi pundaunim ol man bilong yupela ol i bin kilim i go LONG TOK PISIN long pes bilong ol gilgul bilong yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1a898fa135980bbef3f6bdb96e49b8a46d39a3fb80f20968274f5274fbde664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/6\/1-4.1792356056375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "bai i bagarap"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ol alter bilong yupela"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "bai i bruk"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "ol ston bilong san bilong yupela"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "na bai mi pundaunim"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "ol man bilong yupela ol i bin kilim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "ol gilgul bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:40:56.376754580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונברכו",
+      "rationale": "Niphal bilong ברך: 'bai ol i gat barek long yu' o 'bai ol i yusim nem bilong yu long barek' (LXX 'en soi eneulogethēsontai') — ol tanim tok i no wankain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אאר",
+      "rationale": "ארר em i kalsim stret, narapela tok na מקלל (kalal, 'mekim nating') — Tupela tok Hibru, wanpela tok Tok Pisin."
+    }
+  ],
+  "translation": "Na mi bai blesim ol i blesim yu, na ol i kalsim yu, mi bai kalsim ol; na olgeta ol famili bilong graun bai i gat barek long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "48dae3107b717a84488cb1e3640694173b75f57bbc269dd139f107c20e0f6a0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/12\/1-4.1792346485764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Na mi bai blesim"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ol i blesim yu"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "na ol i kalsim yu"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "mi bai kalsim ol"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "na … bai i gat barek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ol famili"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bilong graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:25.765529981Z",
+  "model": "glm-5.3"
+}

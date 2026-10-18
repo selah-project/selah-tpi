@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i no bin stap",
+      "rationale": "Tok Pisin negation added to render Hebrew לולי 'if not'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Yisrael i tok nau",
+      "rationale": "Psalm summons Israel to speak the confession — a call to the community"
+    }
+  ],
+  "translation": "Singsing bilong ol go antap, bilong David. Sapos Yahwe i no bin stap bilong yumi, Yisrael i tok nau:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/124\/1-4.1792359200367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Singsing"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong ol go antap"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "sapos ⟨i no⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bin stap"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:20.367514987Z",
+  "model": "glm-5.3"
+}

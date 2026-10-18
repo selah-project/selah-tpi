@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eloa",
+      "rationale": "אלוה singular form; kept as Eloa per D1, not 'God'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "oltaim oltaim",
+      "rationale": "לעולם ועד double duration idiom; literally 'to the vanishing-point and (to) the terminus'"
+    }
+  ],
+  "translation": "Sin bilong tok save long David. Bai mi salim yu go antap, Eloa bilong mi, king, na bai mi blesim nem bilong yu long oltaim oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/1-4.1792359313849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "sin bilong tok save"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "long David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "bai mi salim yu go antap"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "na bai mi blesim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "long oltaim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "oltaim tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.849506198Z",
+  "model": "glm-5.3"
+}

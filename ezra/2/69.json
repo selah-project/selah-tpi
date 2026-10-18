@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "ezra 2:69",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "donation list",
+      "rationale": "Verse enumerates weights and counts: gold, silver minas, priestly garments."
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכמונים",
+      "rationale": "Darics (Persian coin) vs drachmas vs generic 'drams' in KJV."
+    },
+    {
+      "kind": "crux",
+      "subject": "61,000 darics",
+      "rationale": "Hebrew literally 'six myriads and a thousand' = 61,000; KJV 'threescore and one thousand' same total but hides the myriad structure."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנים",
+      "rationale": "Hebrew mina is a fixed weight, not 'pounds' (KJV) or generic money; rendered 'mani' with weight sense."
+    }
+  ],
+  "translation": "Long strong bilong ol yet, ol i givim long stua bilong wok: gol — draekma sikis ten tausen moa wan tausen, na silva — mani faiv tausen, na ol klos bilong ol pris — wan handet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/2\/69-70.1792361358376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככחם",
+      "gloss": "long strong bilong ol yet"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "long stua bilong wok"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "bilong wok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "draekma"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "ten tausen"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "moa wan tausen"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na silva"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mani"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "faiv"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "na ol klos"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "bilong ol pris"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:09:18.377138072Z",
+  "model": "glm-5.3"
+}

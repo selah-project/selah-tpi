@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object suffix on להמיתו rendered with bracketed pronoun em in Tok Pisin"
+    }
+  ],
+  "translation": "Man nogut i lukluk waitim man bilong tsedek, na i maski painim rot bilong kilim ⟨em⟩ gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/29-32.1792358174132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "i lukluk waitim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "man bilong tsedek"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "na i painim rot"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "bilong kilim em gut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:14.133910609Z",
+  "model": "glm-5.3"
+}

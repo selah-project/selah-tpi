@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasim em raunaut",
+      "rationale": "וצר em i 'mekem tanim', 'pasim olgeta' — Tok Pisin i no gat tok liklik bilong besiege, olsem 'pasim em raunaut'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela yia",
+      "rationale": "Namba bilong taim bilong pait i stap long ves."
+    }
+  ],
+  "translation": "Na king bilong Ashur i go antap long olgeta graun, na em i go antap long Someron, na em i pasim em raunaut tripela yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/5-8.1792353610795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "bilong Ashur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na em i go antap long"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Someron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "na em i pasim em raunaut"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:10.796611119Z",
+  "model": "glm-5.3"
+}

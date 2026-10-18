@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רצון",
+      "rationale": "KJV 'desire of every living thing' vs JPS 'satisfiest with favour' — רצון i tok 'laik\/gutpela pasin'; mi bihainim KJV"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פותח\/משביע",
+      "rationale": "han i op → bel i pulap: wanpela piksa i wok long tupela hap"
+    }
+  ],
+  "translation": "Yu opim ⟨את⟩ han bilong yu, na yu pulapim bel bilong olgeta ol samting i gat laip long olgeta samting ol i laikim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/13-16.1792359313206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "yu opim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong yu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "na yu pulapim bel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ol samting i gat laip"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "olgeta samting ol i laikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.207632383Z",
+  "model": "glm-5.3"
+}

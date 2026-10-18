@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tribute tally",
+      "rationale": "Verse counts the annual tribute in hundred-thousands of sheep."
+    },
+    {
+      "kind": "crux",
+      "subject": "צמר placement",
+      "rationale": "KJV reads 'with the wool' (appended to whole tribute); ASV\/JPS read 'the wool of' the lambs and rams as the tribute itself."
+    }
+  ],
+  "translation": "Na Mesa, king bilong Moab, em i man bilong lukautim ol sipsip; na em i givim bek long king bilong Yisrael wan handet tausen pikinini sipsip, na wan handet tausen sipsip man — wul bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/3\/1-4.1792353290329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Na Mesa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "em i"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "man bilong lukautim ol sipsip"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na em i givim bek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na wan handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "sipsip man"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wul bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:50.332425198Z",
+  "model": "glm-5.3"
+}

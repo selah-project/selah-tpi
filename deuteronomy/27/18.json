@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "salaibim",
+      "rationale": "משגה em i kausim man i lus rot — Tok Pisin salaibim i holim dispela piksa."
+    },
+    {
+      "kind": "you",
+      "subject": "ol manmeri bilong Yisrael",
+      "rationale": "Bansis i tokim olgeta manmeri long tok Amen."
+    }
+  ],
+  "translation": "Man i kers, man i salaibim ⟨את⟩ sai man long rot; na olgeta manmeri bilong ples bai i tok: Amen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/17-20.1792350262860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "i kers"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "man i salaibim"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sai man"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na bai i tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri bilong ples"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:22.861346853Z",
+  "model": "glm-5.3"
+}

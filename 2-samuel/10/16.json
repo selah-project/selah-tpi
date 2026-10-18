@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tok",
+      "rationale": "וישלח lacks an explicit object; 'salim tok' supplies the messenger implied by the verb."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניהם",
+      "rationale": "'before their face' rendered as 'i go long pes bilong ol' — Shobach leads at their front."
+    }
+  ],
+  "translation": "Na Hadadezer i salim tok, na i bringautim ⟨את⟩ ol Aram ol i stap narapela sait bilong wara, na ol i kamap long Helam; na Shovak, namba wan man bilong ol ami bilong Hadadezer, i go long pes bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0f2b8ccd64ff7a9f0e6f9a7e86df384251dd2ca390999e4ff7740b27a78ea942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/10\/13-16.1792352310565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim tok"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na i bringautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ol Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "i stap narapela sait bilong"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na ol i kamap long"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "na Shovak"
+    },
+    {
+      "surface": "שר",
+      "gloss": "namba wan man"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bilong ol ami"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "bilong Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "i go long pes bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:30.566779553Z",
+  "model": "glm-5.3"
+}

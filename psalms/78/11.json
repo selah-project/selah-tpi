@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol wok",
+      "rationale": "עלילותיו is 'his exploits' (deeds, of God); rendered 'ol wok bilong em'."
+    }
+  ],
+  "translation": "Na ol i lusim tingting long ol wok bilong em, na long ol samting nambaut bilong em, we em i soim ol long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/9-12.1792358547101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "na ol i lusim tingting long"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ol wok bilong em"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ol samting nambaut bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "em i soim ol long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:27.102323641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol samting",
+      "rationale": "יבין is transitive 'understand' without stated object; Tok Pisin supplies ⟨ol samting⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "ol i tok",
+      "rationale": "Reported speech of the wicked — a creed of practical atheism, quoted for refutation"
+    }
+  ],
+  "translation": "Na ol i tok: Ya i no ken lukim, na Elohim bilong Yakov i no ken save long ol samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/94\/5-8.1792358825164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na ol i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "save long ol samting"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:05.170901596Z",
+  "model": "glm-5.3"
+}

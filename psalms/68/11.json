@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חיתך",
+      "rationale": "חַיָּה 'your living ones \/ your flock' — rare plural form; versions: 'congregation' (KJV), 'flock' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעני",
+      "rationale": "'for the poor\/afflicted' — 'ol man i stap tantrai' keeps the literal condition, not alms-language."
+    }
+  ],
+  "translation": "Ol lain bilong yu i stap long en; yu, Elohim, yu redim long gutpela pasin bilong yu bilong ol man i stap tantrai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/9-12.1792358437719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ol lain bilong yu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "yu redim"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "long gutpela pasin bilong yu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bilong ol man i stap tantrai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:37.720537509Z",
+  "model": "glm-5.3"
+}

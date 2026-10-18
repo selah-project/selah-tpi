@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אתיכם",
+      "rationale": "Plural of אֵת (hoe\/digging implement) occurs only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "direction of the reversal",
+      "rationale": "Joel turns ploughs into weapons — the exact inverse of Isaiah 2:4\/Micah 4:3; translators must not harmonize the two."
+    }
+  ],
+  "translation": "Katim olgeta ol spet bilong yu bilong kamap bainat, na ol naip bilong kutim diwai bilong yu long kamap sulin; man i no gat strong i mas tok: Mi strongpela man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/4\/9-12.1792357158567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "Katim olgeta"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "ol spet bilong yu"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "bilong kamap bainat"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "na ol naip bilong kutim diwai bilong yu"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "bilong kamap sulin"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "man i no gat strong"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i mas tok"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "strongpela man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:18.568264001Z",
+  "model": "glm-5.3"
+}

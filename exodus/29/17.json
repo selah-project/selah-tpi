@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dia",
+      "rationale": "איל i dia (ram), i no 'wail dia' olsem ol narapela ples."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנתח\/לנתחיו\/נתחיו",
+      "rationale": "Wanem as bilong נתח i kamap tripela taim long ves — wanpela sein, olsem rituel ol i kotim dia."
+    }
+  ],
+  "translation": "Na yu kotim ⟨את⟩ dia long ol hap bilong en, na yu wasim insait bilong en na ol lek bilong en, na yu putim ol long ol hap bilong en, na long hed bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "726529bc76c5389857739c8463775b54626592956593f976d260c32766ab5dcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/29\/17-20.1792347998394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dia"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "kotim"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "long ol hap bilong en"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na yu wasim"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "insait bilong en"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "na ol lek bilong en"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na yu putim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "ol hap bilong en"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hed bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:38.418317825Z",
+  "model": "glm-5.3"
+}

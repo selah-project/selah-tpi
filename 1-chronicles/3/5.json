@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבת שוע",
+      "rationale": "Hebrew says 'to Bath-shua' (the mother); rendering adds 'ol mama bilong en' to make the relationship explicit"
+    },
+    {
+      "kind": "crux",
+      "subject": "Bath-shua",
+      "rationale": "2 Sam 11:3 calls her Bath-sheba; Chronicles writes Bath-shua, daughter of Ammiel vs Eliam"
+    }
+  ],
+  "translation": "Na ol dispela i bon long en long Yerusalayim: Simea, na Sobab, na Natan, na Selomo — foapela — na ol mama bilong en i Bilam-Sua, pikinini meri bilong Amiel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/3\/5-8.1792361819673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol dispela"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "i bon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Sobab"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Selomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "na ol mama bilong en i Bilam"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Sua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:59.673557939Z",
+  "model": "glm-5.3"
+}

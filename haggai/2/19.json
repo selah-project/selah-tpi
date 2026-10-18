@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "haggai 2:19",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol yupela⟩",
+      "rationale": "Hebrew אברך 'I will bless' omits the object; Tok Pisin requires it."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועד הגפן",
+      "rationale": "KJV reads 'and as yet the vine... hath not brought forth'; some take עד with the question — 'does the seed yet remain... even the vine...?' — punctuation disputed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bringaut",
+      "rationale": "נשא literally 'lift\/bear'; rendered 'bring out (fruit)' for the agricultural sense."
+    }
+  ],
+  "translation": "Kaikai pikinini i stap yet long haus bilong kaikai? Na i go yet, diwai wain, na diwai fig, na diwai granat, na diwai oliv — ol i no bringaut yet. Bilong dispela de bai mi blesim ⟨ol yupela⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/2\/17-20.1792357609260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העוד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "kaikai pikinini"
+    },
+    {
+      "surface": "במגורה",
+      "gloss": "long haus bilong kaikai"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na i go yet"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "diwai wain"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "na diwai fig"
+    },
+    {
+      "surface": "והרימון",
+      "gloss": "na diwai granat"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na diwai"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "i bringaut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bai mi blesim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:49.265253721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחאו כף",
+      "rationale": "'Strike the palm' = clap hands; personification kept literal in Tok Pisin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעם\/ירננו",
+      "rationale": "v.7 roar and v.8 ring-out share the yiqtol sound pattern across verses; partly lost."
+    }
+  ],
+  "translation": "Ol wara bilong ol nara bai klimap han bilong ol, ol maunten wantaim olgeta bai singsing hamamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/98\/5-8.1792358898985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ol wara bilong ol nara"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "bai klimap han bilong ol"
+    },
+    {
+      "surface": "כף",
+      "gloss": "han"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bai singsing hamamas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:18.986530829Z",
+  "model": "glm-5.3"
+}

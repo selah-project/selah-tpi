@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew הוא is pronoun only, no verb; Tok Pisin needs 'i stap' to carry 'he was among the three'."
+    }
+  ],
+  "translation": "Na bihain long em, Elazar, pikinini bilong Dodo, man Ahoi; em i stap long tripela man bilong pait bilong strong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/11\/9-12.1792361952383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Na bihain long em"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "man Ahoi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "long tripela"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "man bilong pait bilong strong"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:12.383994640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "מלא 'fulim' is transitive without a stated object in Hebrew; 'olgeta' supplies what was fulfilled."
+    },
+    {
+      "kind": "crux",
+      "subject": "את דוד",
+      "rationale": "This את is the preposition 'with\/near David' (H854), not the object marker; some read it as accusative 'spoke David', i.e. 'spoke concerning'."
+    }
+  ],
+  "translation": "Na em i tok: Barekim long Yahwe, Elohim bilong Yisrael, we em i tokim long maus bilong en ⟨את⟩ David papa bilong mi, na long han bilong em em i fulim olgeta, i tok olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/13-16.1792352887018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barekim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "long maus bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "David papa bilong mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "na long han bilong en"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "em i fulim olgeta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T19:48:07.020063203Z",
+  "model": "glm-5.3"
+}

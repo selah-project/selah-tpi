@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sampela manmeri",
+      "rationale": "Hebrew says 'some of the people went out' only via verb form; Tok Pisin needs explicit subject"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela samting",
+      "rationale": "Hebrew מצאו 'they found' has no stated object; Tok Pisin requires one"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "narrative 'and it came to pass' has no single Tok Pisin equivalent; rendered as 'Na … i kamap'"
+    }
+  ],
+  "translation": "Na long sebenpela de, sampela manmeri bilong ol i go ausait long lain bilong ol manmeri bilong kirapim, tasol ol i no painim wanpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a57093a0a1757c86e4cbd4b7ba1976796cb640491b8c550ec7fa68e8fec01691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/26-27.1792362950300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na … i kamap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sebenpela"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lain bilong ol manmeri"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "bilong kirapim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol ol i no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "painim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:50.301228229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (H854)",
+      "rationale": "Third את is preposition 'with', not the DOM — rendered 'wantaim', no marker."
+    },
+    {
+      "kind": "crux",
+      "subject": "הצבאות",
+      "rationale": "'Who massed\/served (as an army)' — the women who served at the tent entrance; some LXX manuscripts omit this clause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ohel Moed",
+      "rationale": "Name kept as Hebrew 'Ohel Moed' (Tent of Meeting) rather than a descriptive phrase."
+    }
+  ],
+  "translation": "Na Eli i kulukulu tumas, na em i harim ⟨את⟩ olgeta samting ol pikinini man bilong en i wok long long olgeta man bilong Yisrael, na ⟨את⟩ ol samting ol i slip ⟨את⟩ wantaim ol meri i wok long dua bilong Ohel Moed.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/21-24.1792351482089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Na Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "i kulukulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "em i harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i wok long"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini man bilong en"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "man bilong Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol samting ol i slip wantaim ol meri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol samting"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ol i slip wantaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "i wok long"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dua bilong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:42.091004162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "אם here is emphatic assertion ('if... then indeed'), rendered as 'sapos' but the force is 'truly he scorns'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עניים",
+      "rationale": "'anawim: 'poor\/afflicted' vs 'humble in spirit' — Tok Pisin 'man i gat liklik bel' follows the humble reading"
+    }
+  ],
+  "translation": "Em i save mauswara long ol man i save mauswara, tasol em i givim gras long ol man i gat liklik bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/33-35.1792359382151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "long ol man i save mauswara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "em i save mauswara"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "tasol long ol man i gat liklik bel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:22.153825033Z",
+  "model": "glm-5.3"
+}

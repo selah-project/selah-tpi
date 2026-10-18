@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i mekim smus long em yet",
+      "rationale": "החליק: 'em i praism em yet' (flatter), o 'pas i smus long em' — em i tok long pas yet, i no man"
+    },
+    {
+      "kind": "crux",
+      "subject": "na ol i les long em",
+      "rationale": "לשנא: ol i les long pas bilong em, o man i no ken les long pas — ol tanima i no wankain"
+    }
+  ],
+  "translation": "Bikos em i mekim smus long em yet long ai bilong em, inap ol i painim ⟨את⟩ pas bilong em, na ol i les long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/36\/1-4.1792358130981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "i mekim smus long em yet"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "inap ol i painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pas bilong em"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "pas bilong em"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "na ol i les long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:30.983484197Z",
+  "model": "glm-5.3"
+}

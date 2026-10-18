@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin needs predicate marker before trem; Hebrew participle has no copula."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על הבית",
+      "rationale": "'Over the house' = steward in charge of the palace; rendered as 'stap antap long haus'."
+    }
+  ],
+  "translation": "Na Akhab i singautim Ovadyahu, man i stap antap long haus; na Ovadyahu i bilong ⟨i⟩ trem ⟨את⟩ Yahwe tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/18\/1-4.1792353092180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "man i"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "na Ovadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i bilong"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "trem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:32.182033374Z",
+  "model": "glm-5.3"
+}

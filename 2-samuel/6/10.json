@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "salim i go",
+      "rationale": "ויטהו 'turn aside\/bend away' — KJV 'carried it aside'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i Larim ⟨i⟩, Hibru i no gat"
+    }
+  ],
+  "translation": "Na David i no laikim long karim ⟨את⟩ sanduk bilong Yahwe i go long em, long taun bilong David; na David i salim ⟨i⟩ go long haus bilong Obed-Edom man bilong Gat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "73180d6e4ba2e99bd62c02eddde8fdfea63680e08826c8c90e58b16a47b5ef4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/6\/10-11.1792363096934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "laikim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "long karim i go"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduk bilong Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "na i salim i go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "man bilong Gat"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:16.934476992Z",
+  "model": "glm-5.3"
+}

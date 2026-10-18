@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kamap-raiz",
+      "rationale": "יחמץ 'become leavened\/sour'; Tok Pisin uses the bread-raising picture."
+    },
+    {
+      "kind": "alternative",
+      "subject": "צררת",
+      "rationale": "Verb 'bound up' describing the kneading-troughs; rendered as stative 'i rap'."
+    }
+  ],
+  "translation": "Na ol man i karim ⟨את⟩ fla bilong ol, pastaim em i no yet kamap-raiz, ol bin bilong wokim bret i rap wantaim ol klos bilong ol, long sop bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/33-36.1792347581726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fla bilong ol"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "fla bilong ol"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "pastaim"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "em i no yet kamap-raiz"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ol bin bilong wokim bret bilong ol"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "i rap"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "wantaim ol klos bilong ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "sop bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:41.727522726Z",
+  "model": "glm-5.3"
+}

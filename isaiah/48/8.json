@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 48:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגוד\/תבגוד",
+      "rationale": "Hibru i usim wankain leta בגד tupela taim — infol no stat na infol bilong man; Tok Pisin 'wokim giaman' i no ken givim bek dispela."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופשע מבטן קרא לך",
+      "rationale": "Summa i ritim 'ol i singautim yu man i brukim lo long bel yet'; arapela (Bible YLT) i ritim 'wanpela i singautim long yu' — pasin bilong tok i tanim."
+    },
+    {
+      "kind": "you",
+      "subject": "long Yisrael\/Yakov",
+      "rationale": "Yahwe i tok stret long Yakob — yu no harim, yu no save, yu man i brukim lo."
+    }
+  ],
+  "translation": "Tu, yu no bin harim; tu, yu no bin save; tu, long taim bipo ear bilong yu i no open — long wanem mi save: yu save wokim giaman tru, na ol i singautim yu \"man i brukim lo\" long bel yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/48\/5-8.1792354575792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yu bin harim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu bin save"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "long taim bipo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "open"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ear bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "wokim giaman"
+    },
+    {
+      "surface": "תבגוד",
+      "gloss": "yu wokim giaman tru"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "man i brukim lo"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "long bel"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "singautim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:15.793599643Z",
+  "model": "glm-5.3"
+}

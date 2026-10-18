@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 1:5",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "banis",
+      "rationale": "בריח em i ban (bolt) bilong dua, tasol Tok Pisin i no gat tok; 'banis' i holim piksa bilong strongpela pasin bilong holim",
+      "rationale2": ""
+    },
+    {
+      "kind": "substitution",
+      "subject": "sut",
+      "rationale": "שבט em i stik bilong bosim (sceptre); 'sut' i holim lek bilong diwai, role bilong king i stap long hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "Bikat-Aven \/ Bet-Eden",
+      "rationale": "Aven ('nogat') na Eden i tok bilong jea long ol ples bilong Aram (Bikat-Aven = vale bilong ol giaman god); ol tanim tok i usim nem ples olsem"
+    }
+  ],
+  "translation": "Na mi bai brukim banis bilong Damasek, na mi bai katim i go ausait man i stap long vale bilong Aven, na man i holim sut long haus bilong Eden; na bai ol kalaputim ol manmeri bilong Aram i go long Kir — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7868291165c5b9cc39cd0f08c517393fda9487837d1d1d36a0f9d4ab4d68f525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/5-8.1792357205255.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "na mi bai brukim"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "banis"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na mi bai katim i go ausait"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "man i stap"
+    },
+    {
+      "surface": "מבקעת",
+      "gloss": "long vale"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "ותומך",
+      "gloss": "na man i holim"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sut"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "וגלו",
+      "gloss": "na bai ol kalaputim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "long Kir"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:05.255784130Z",
+  "model": "glm-5.3"
+}

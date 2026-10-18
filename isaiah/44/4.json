@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבין חציר",
+      "rationale": "'among the grass' vs 'between the grass' — בין is 'between'; rendered 'namel long olgeta' (in the midst)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol bikpela wara",
+      "rationale": "יבלי מים is 'streams of water'; construct rendered with modifier since Tok Pisin lacks bound construct"
+    }
+  ],
+  "translation": "Na ol bai kamap olsem graun gras namel long olgeta, olsem ol diwai willow long saed bilong ol bikpela wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/44\/1-4.1792354518965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "na ol bai kamap"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "namel long olgeta"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "graun gras"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "olsem ol diwai willow"
+    },
+    {
+      "surface": "על",
+      "gloss": "long saed bilong"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ol bikpela wara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:18.967835538Z",
+  "model": "glm-5.3"
+}

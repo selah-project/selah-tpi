@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol pikinini bilong Yisrael",
+      "rationale": "Tok i go stret long ol manmeri — ol i mas tokim ol brata na ol susa bilong ol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ami · Rukama",
+      "rationale": "Nem Ami ('manmeri bilong mi') na Rukama ('meri bilong marimari') i flipim ol nem Lo-Ammi na Lo-Rukama long Stat 1:9."
+    },
+    {
+      "kind": "alternative",
+      "subject": "manmeri bilong mi · meri bilong marimari",
+      "rationale": "Sapos yu laikim mining i kamap klia, tanim ol nem: 'ol manmeri bilong mi' na 'meri bilong marimari' — tasol ol nem Hibru i winim."
+    }
+  ],
+  "translation": "Tokim ol brata bilong yu: Ami; na tokim ol susa bilong yu: Rukama.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/2\/1-4.1792357025804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Tokim"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "long ol brata bilong yu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "na long ol susa bilong yu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukama"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:05.805382439Z",
+  "model": "glm-5.3"
+}

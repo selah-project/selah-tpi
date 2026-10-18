@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taim",
+      "rationale": "Hebrew numbers 'one\/two' alone imply 'once\/twice'; Tok Pisin needs 'wanpela taim'\/'tupela taim'."
+    }
+  ],
+  "translation": "Wanpela taim mi tok, na mi no ken bekim; tupela taim, na mi no ken skruim moa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/40\/5-8.1792360347486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "wanpela taim"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no ken"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "bekim"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "tupela taim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no ken"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "skruim moa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:27.486694654Z",
+  "model": "glm-5.3"
+}

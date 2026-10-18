@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Tok Pisin i no gat article, tasol ⟨את⟩ bilong אתי i mas kisim wanpela tok"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "Lukim — tok bilong skautim, Hebrew הנה"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mose",
+      "rationale": "Yahwe i tok stret long Mose"
+    }
+  ],
+  "translation": "Na Yahwe i tok: Lukim, wanpela ples i stap klostu long mi, na yu bai sanap ⟨long⟩ ⟨את⟩ bikpela ston.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aedb5fd906472d2cb34ae56ddffa34d33b5bcdbc2e82d063a7fd296651a19055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/21-23.1792348006094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wanpela ples"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ klostu long mi"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "yu bai sanap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "bikpela ston"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:46.095429580Z",
+  "model": "glm-5.3"
+}

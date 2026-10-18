@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויגד",
+      "rationale": "Hebrew passive 'it was told' — Tok Pisin needs actor 'ol i stori'"
+    }
+  ],
+  "translation": "Na ol i stori long Yoab: Lukim, king i krai na i tangutangu bilong Avshalom.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d513da72c5397a4530d00c25306ee3f44094822f52953a061f0566f1fb22797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/1-4.1792352536599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ol i stori"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "long Yoab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "i krai"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "na i tangutangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:16.600533914Z",
+  "model": "glm-5.3"
+}

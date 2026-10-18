@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכים",
+      "rationale": "'roaming at large \/ lustful' (ASV, JPS, from שכה roam) vs 'in the morning' (KJV, from שכם early) — same consonants"
+    },
+    {
+      "kind": "substitution",
+      "subject": "singaut olsem hos",
+      "rationale": "יצהלו literally 'neigh', kept as horse-sound in Tok Pisin"
+    }
+  ],
+  "translation": "Ol i kamap olsem ol hos i kaikai gut pinis, ol i save wokabaut long laik bilong bel; wanpela man i singaut olsem hos long meri bilong pren bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/5\/5-8.1792354977028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "ol hos"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "i kaikai gut pinis"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "ol i save wokabaut long laik bilong bel"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "pren bilong en"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "i singaut olsem hos"
+    }
+  ],
+  "timestamp": "2026-10-18T20:22:57.029922741Z",
+  "model": "glm-5.3"
+}

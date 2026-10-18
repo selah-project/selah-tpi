@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 133,
+  "ref": "psalms 119:133",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim olsem long bosim long pasin nogut; Hibru i no gat em"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol liklik step bilong mi",
+      "rationale": "פעמי em i \"ol paia-manewe bilong mi\" — ol step bilong leg"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Tok bilong singaut i go long Yahwe, long man i rit"
+    }
+  ],
+  "translation": "Ol liklik step bilong mi — wanem ol i ken stap stret long tok bilong yu; na bai ino wanpela pasin nogut i bosim ⟨em⟩ long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/133-136.1792359145240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פעמי",
+      "gloss": "ol liklik step bilong mi"
+    },
+    {
+      "surface": "הכן",
+      "gloss": "i ken stap stret"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "long tok bilong yu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na bai ino"
+    },
+    {
+      "surface": "תשלט",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "און",
+      "gloss": "pasin nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:25.241739288Z",
+  "model": "glm-5.3"
+}

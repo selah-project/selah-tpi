@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 30:19",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew השיב 'brought back' takes no explicit object pronoun here; Tok Pisin supplies one for clarity."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועד ×3",
+      "rationale": "Three-fold 'and-unto' builds a mounting inclusio from small to great to all — the escalation is kept by repeating the connective."
+    }
+  ],
+  "translation": "I no gat wanpela samting i lus long ol — olsem liklik o bikpela, olsem pikinini man o pikinini meri, na ol bilas, i go inap long olgeta samting we ol i tekim long ol — David i bringoim ⟨em⟩ olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/17-20.1792352056101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i no gat wanpela samting"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "i lus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "o pikinini meri"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "na ol bilas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ol i tekim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "i bringoim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:16.102452054Z",
+  "model": "glm-5.3"
+}

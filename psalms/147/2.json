@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בונה … יכנס",
+      "rationale": "Word-initial sound pair boneh\/yekhannes frames the verse; the parallel build\/gather movement is kept but the alliteration is lost."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נדחי",
+      "rationale": "Lit. 'the pushed-away ones' (דחה, push down); 'ol i puspisim i go we' keeps the pushing picture, 'ol man i go we long ples bilong ol' (exiles) is the softer reading."
+    }
+  ],
+  "translation": "Yahwe i wokim bek ⟨את⟩ Yerusalayim, em i kolektem ol man bilong Yisrael ol i puspisim i go we.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/1-4.1792359336465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "i wokim bek"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ol man ol i puspisim i go we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "em i kolektem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:36.466944082Z",
+  "model": "glm-5.3"
+}

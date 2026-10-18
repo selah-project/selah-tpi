@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Em⟩",
+      "rationale": "Hebrew participle has no expressed subject; supplied from 5:8 (Yahwe)"
+    },
+    {
+      "kind": "crux",
+      "subject": "המבליג",
+      "rationale": "'flash\/brighten destruction' (JPS) vs 'strengthen the spoiled' (KJV reading שד as the weak) vs 'bring sudden destruction' (ASV)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד…שד",
+      "rationale": "same word 'violence\/ravage' repeated on strong and fortress — chiasm of destruction kept by repeating bagarap"
+    }
+  ],
+  "translation": "⟨Em⟩ i bringim kamap kwik tru ⟨את⟩ bagarap long strongpela man, na bagarap long fes banis bai i kam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/9-12.1792357271319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "i bringim kamap kwik tru"
+    },
+    {
+      "surface": "שד",
+      "gloss": "bagarap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strongpela man"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "na bagarap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fes banis"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bai i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:11.320201435Z",
+  "model": "glm-5.3"
+}

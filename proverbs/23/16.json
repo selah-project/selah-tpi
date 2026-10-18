@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol nil",
+      "rationale": "כליות literally kidneys, figuratively the inner self; shape kept rather than 'bel' or 'inmost being'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בדבר",
+      "rationale": "the b- prefix fused into 'taim ... tokim' construction rather than a separate word"
+    }
+  ],
+  "translation": "Na ol nil bilong mi bai holimap long amamas, taim ol lip bilong yu i tokim olgeta tok stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/13-16.1792359699629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "bai holimap long amamas"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ol nil bilong mi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "taim ... tokim"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ol lip bilong yu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "olgeta tok stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:39.630640962Z",
+  "model": "glm-5.3"
+}

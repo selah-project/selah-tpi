@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu ol i",
+      "rationale": "Tok Pisin i nidim yu ol i long tok bilong tokim ol man, Hibru i no gat em"
+    },
+    {
+      "kind": "substitution",
+      "subject": "singautim nem bilong",
+      "rationale": "הללו em i 'litimap olsem lait i sansim'; Tok Pisin i gat singautim nem bilong olsem pasin bilong praisim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Psalm 117:1",
+      "rationale": "Em i singautim olgeta ol kantri bilong praisim Yahwe — psalm liklik tru long olgeta"
+    }
+  ],
+  "translation": "Olgeta ol lain bilong ol narapela kantri, yu ol i singautim nem bilong ⟨את⟩ Yahwe; olgeta ol manmeri bilong ol kantri, yu ol i tok gutpela tok long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/117\/1-2.1792359065672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yu ol i singautim nem bilong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol lain bilong ol narapela kantri"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "yu ol i tok gutpela tok long em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ol manmeri bilong ol kantri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:05.683051655Z",
+  "model": "glm-5.3"
+}

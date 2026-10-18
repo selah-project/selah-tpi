@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוללים",
+      "rationale": "From הלל: 'boasters' (JPS\/ASV) vs 'foolish' (KJV\/Geneva) vs 'madmen'; Tok Pisin renders the boastful sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "les long",
+      "rationale": "שנא 'hate' rendered as Tok Pisin idiom 'les long' (be sick of), per discipline table D3."
+    }
+  ],
+  "translation": "Ol man i save hevi hevi long nem bilong ol i no inap sanap pastaim long ai bilong yu; yu les long olgeta man i wokim ⟨את⟩ ol samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/5-8.1792357849440.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ol man i save hevi hevi long nem"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ai bilong yu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "yu les long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "man i wokim"
+    },
+    {
+      "surface": "און",
+      "gloss": "ol samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:49.441218472Z",
+  "model": "glm-5.3"
+}

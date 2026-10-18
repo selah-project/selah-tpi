@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin transitive needs the object pronoun the Hebrew leaves implicit."
+    },
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "'For a little while' vs 'well-nigh \/ almost' (JPS); the adverb's scope is disputed."
+    }
+  ],
+  "translation": "Ol manmeri holi bilong yu i kasem ⟨em⟩ liklik taim tasol; ol birua bilong mipela i putim lek olgeta long ples holi bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/63\/17-19.1792354733362.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "liklik taim tasol"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ol i kasem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "holi bilong yu"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ol birua bilong mipela"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "ol i putim lek olgeta long"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ples holi bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:53.363279794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pes bilong Yahwe",
+      "rationale": "ופני יהוה חליתי literally 'I have not rubbed\/entreated the face of Yahwe' — idiom for seeking favor, rendered as asking favor"
+    },
+    {
+      "kind": "crux",
+      "subject": "holim strong bel bilong mi",
+      "rationale": "ואתאפק 'I forced myself \/ restrained myself' — KJV 'I forced myself', YLT 'I force myself'; reflexive of אפק 'to contain'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sakrifais bilong karamapim",
+      "rationale": "עלה is the 'ascending' offering; the going-up picture is kept with 'karamapim'"
+    }
+  ],
+  "translation": "na mi tok: Nau ol Pelisit bai i kamdaun long mi long Gilgal, na pes bilong Yahwe mi no bin askim gutpela yet; na mi holim strong bel bilong mi, na mi salim karamap sakrifais bilong karamapim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/9-12.1792351619353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na mi tok"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bai i kamdaun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "long Gilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "mi bin askim gutpela yet"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "na mi holim strong bel bilong mi"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "na mi salim karamap"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifais bilong karamapim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:59.354553495Z",
+  "model": "glm-5.3"
+}

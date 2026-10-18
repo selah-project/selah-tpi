@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol hay",
+      "rationale": "קצות — 'end\/ol hay' bilong graun; Tok Pisin 'hay' i min hia 'skru\/hangamtuk' bilong graun"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta samting",
+      "rationale": "Heb i no gat 'samting' — 'ananit long olgeta heven em i lukim' i nidim objekt"
+    }
+  ],
+  "translation": "Long wanem, em i lukluk i go daunbilo long ol hay bilong graun, em i lukim olgeta samting ananit long ol heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/28\/21-24.1792360166977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "i go daunbilo long ol hay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "em i lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:26.978704756Z",
+  "model": "glm-5.3"
+}

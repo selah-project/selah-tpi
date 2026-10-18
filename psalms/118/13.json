@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה\/דחיתני",
+      "rationale": "Root דוח repeated twice — 'push-push me' — intensification lost in Tok Pisin single verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew verb form carries the 'you' subject; Tok Pisin needs the pronoun."
+    }
+  ],
+  "translation": "⟨Yu⟩ pundaunim mi olsem mi ken pundaun, tasol Yahwe i helpim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/13-16.1792359080101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "pundaunim nogut tru"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "yu pundaunim mi"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "bilong pundaun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "tasol Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "i helpim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:20.101506635Z",
+  "model": "glm-5.3"
+}

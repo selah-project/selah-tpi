@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חכי",
+      "rationale": "Literally 'palate', rendered as mouth."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Truth in the mouth paired in chiasm with wickedness an abomination to the lips."
+    }
+  ],
+  "translation": "Bilong maus bilong mi tokim tru; na pasin rong em i samting nogut tru long maus bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/8\/5-8.1792359432735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tru"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "maus bilong mi"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "samting nogut tru"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "long maus bilong mi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pasin rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:12.736868348Z",
+  "model": "glm-5.3"
+}

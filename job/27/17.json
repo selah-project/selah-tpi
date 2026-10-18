@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 27:17",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man nupela",
+      "rationale": "נקי em i man i no gat sala — 'innocent' — mi usim 'man nupela' (man i cla \/ no gat rong)"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכין",
+      "rationale": "Em i redim (em i wokim planti), tasol ara bilong sentens i tok: man i no gat strong bai holim — dispela em i ironi long Job 27"
+    },
+    {
+      "kind": "elision",
+      "subject": "כסף",
+      "rationale": "silva — tebol D4 i tok silva i no mani, wanem em i samting"
+    }
+  ],
+  "translation": "Em i redim ⟨em⟩, tasol man bilong tsedek bai putim ⟨em⟩ long bodi, na man nupela bai skelim ⟨את⟩ olgeta silva.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "24fc5a709e77503ddc4f71ba9a6dd18a8a312680d14654d7ec564172bd51f070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/27\/17-20.1792360194808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכין",
+      "gloss": "em i redim"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tasol man bilong tsedek"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "bai putim long bodi"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na olgeta silva"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "man nupela"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "bai skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:54.809185191Z",
+  "model": "glm-5.3"
+}

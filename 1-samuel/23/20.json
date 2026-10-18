@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אות",
+      "rationale": "אַוָּה 'longing' appears only here in the Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש is throat\/breath\/life-force; Tok Pisin 'bel bilong yu' (inner desire) rather than 'soul'."
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "The Ziphites address King Saul directly with the invitation 'come down'."
+    }
+  ],
+  "translation": "Na nau, king, sapos bel bilong yu laikim yu kamap daunbilo, kamap daunbilo; na wok bilong mipela em bilong givim em i go long han bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/23\/17-20.1792351960787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "אות",
+      "gloss": "laik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "bilong kamap daunbilo"
+    },
+    {
+      "surface": "רד",
+      "gloss": "kamap daunbilo"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "na bilong mipela"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "em bilong givim em i go"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:40.788469130Z",
+  "model": "glm-5.3"
+}

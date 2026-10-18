@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hibru 'חגרו שק' i tok 'ol i bijim sak' nating; Tok Pisin i nidim 'wantaim' bilong tingim pasin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירד בבכי",
+      "rationale": "Hibru idiom 'i go daun long krai' — KJV 'weeping abundantly' JPS 'weeping profusely'; mi holim piksa bilong go daun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ייליל",
+      "rationale": "Taim wantaim wantaim long 15:2 na 15:3 — 'yalal' i kamap tupela taim, narapela krai bilong Moab."
+    }
+  ],
+  "translation": "Long ol rot bilong ⟨en⟩ ol i bijim ⟨wantaim⟩ sak bilong pen; long ol rup bilong haus bilong ⟨en⟩ na long ol bradples bilong ⟨en⟩, olgeta man i singaut nogut, i go daun long krai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "454b7d296cdcb3330af09ad7828aaf2ae68d34b9f1374f3df6efa25e9dc1355b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/15\/2-3.1792363215728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "long ol rot bilong en"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ol i bijim"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak bilong pen"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "ol rup bilong haus bilong en"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "na long ol bradples bilong en"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "i singaut nogut"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "long krai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:15.729047381Z",
+  "model": "glm-5.3"
+}

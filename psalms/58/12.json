@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך … אך",
+      "rationale": "tupela 'tru' i kamap tupela taim — repitisen bilong strong tok."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרי לצדיק",
+      "rationale": "frut bilong man stret o pei bilong man stret — 'frut' i klostu long tok Hibru."
+    }
+  ],
+  "translation": "Na man i tok: tru, i gat frut bilong man stret; tru, i gat Elohim, we i skelim long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/58\/9-12.1792358334693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na man i tok"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frut"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bilong man stret"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:54.694894076Z",
+  "model": "glm-5.3"
+}

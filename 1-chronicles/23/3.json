@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaunim olgeta",
+      "rationale": "Census of the Levites from age thirty upward, counted head by head: 38,000."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "Hebrew 'by their skulls' — Tok Pisin 'long ol het bilong ol' keeps the head-counting picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבן שלשים",
+      "rationale": "Thirty here vs twenty in Numbers 4 \/ 1 Chr 23:24–27 — famous age-of-service discrepancy."
+    }
+  ],
+  "translation": "Na ol man Levi ol i kaunim olgeta, i stat long man i gat teti yia i antap; olgeta bilong ol, long ol het bilong ol, olgeta olgeta man i kamap teti na et tausen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/23\/1-4.1792362176824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "Na ol i kaunim olgeta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol man Levi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "i stat long man"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i antap"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "olgeta bilong ol"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "long ol het bilong ol"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "olgeta olgeta man"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "na et"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:56.825563489Z",
+  "model": "glm-5.3"
+}

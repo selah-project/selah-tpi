@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 1:21",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew עשית has no explicit object; Tok Pisin needs ⟨em⟩ for the deed done"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו … שמעו",
+      "rationale": "Repeated verb frames the verse — Zion's sighing heard, then her enemies hearing her trouble"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct address shifts to Yahwe mid-verse: 'you have done it, you bring the day'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבאת יום קראת",
+      "rationale": "Past tense 'you brought the day you called' (KJV, YLT) vs future\/jussive 'you will bring the day you proclaimed' (Geneva, JPS)"
+    }
+  ],
+  "translation": "Ol i harim olsem mi stap singaut pen, i no gat man i komfortim mi; olgeta ol birua bilong mi ol i harim trabel bilong mi, ol i amamas, long wanem yu yet i mekim ⟨em⟩; yu bringim de, yu tokaut long ⟨em⟩, na ol bai kamap olsem mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/1\/21-22.1792360610198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ol i harim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "mi stap singaut pen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "man i komfortim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ol i harim"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "trabel bilong mi"
+    },
+    {
+      "surface": "ששו",
+      "gloss": "ol i amamas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "yu bringim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "yu tokaut long"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na ol bai kamap"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "olsem mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:50.198721206Z",
+  "model": "glm-5.3"
+}

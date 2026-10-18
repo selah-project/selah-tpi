@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skelim",
+      "rationale": "טעם literal em i 'taim bilong kaikai' — figurative 'skelim gut', ol tanim tok i usim 'judgment'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mi bilip long ol kos",
+      "rationale": "האמנתי במצותיך: 'mi bilip ol kos' o 'mi stap stret wantaim ol kos' — אמן em i 'stap strong long'"
+    }
+  ],
+  "translation": "Skulim mi long gutpela skelim na save, long wanem mi bilip long ol kos bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/65-68.1792359123250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "skelim"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na save"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "skulim mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "long ol kos bilong yu"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "mi bilip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:03.251400405Z",
+  "model": "glm-5.3"
+}

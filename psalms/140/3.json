@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשבו",
+      "rationale": "Root 'weave\/plait' used for plotting — picture of weaving evil, lost in 'tingting'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יגורו",
+      "rationale": "From גור: 'sojourn\/gather' (KJV 'gathered together') vs 'stir up' (JPS); rendered 'kamap'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלב",
+      "gloss-note": "לב rendered 'bel' (bel\/tingting), per D4 — not 'hat'."
+    }
+  ],
+  "translation": "Ol ⟨em⟩ i tingting olsem ol i bilumim olgeta samting nogut long bel bilong ol; olgeta de ol i kamap olgeta pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/140\/1-4.1792359262396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨em⟩ i"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "tingting olsem bilumim"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "olgeta samting nogut"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "long bel bilong ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "olgeta pait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:22.397303952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישופני",
+      "rationale": "שׁוּף — 'kaikaim mi \/ brukim mi' (wankain tok long Stat 3:15) o 'karimim mi'; mipela usim 'pulim mi kwikwan'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולילה אור בעדני",
+      "rationale": "Tupela rit: 'biknait i kamap lait namel long mi' o (JPS\/ASV) 'lai bilong mi i kamap olsem biknait';,strong arm long fes pasin."
+    }
+  ],
+  "translation": "Na mi tok: sapos taim biknait inap pulim mi kwikwan, olsem na moningtaim i kamap olsem lait long bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/9-12.1792359246810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na mi tok"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "taim biknait"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "inap pulim mi kwikwan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "olsem na moningtaim"
+    },
+    {
+      "surface": "אור",
+      "gloss": "i kamap olsem lait"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "long bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:06.811607680Z",
+  "model": "glm-5.3"
+}

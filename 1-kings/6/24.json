@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 6:24",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wing span",
+      "rationale": "Five cubits per wing, ten cubits tip-to-tip — cherubim dimensioning."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרוב...האחת\/השנית",
+      "rationale": "Parallel repetition of wing-cubit phrases mirrors the two matching wings; Hebrew symmetry kept in the doubled structure."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun supplied to mark whose wings the ends belong to, Hebrew has only suffix -יו."
+    }
+  ],
+  "translation": "Na faipela kubit wanpela wing bilong kerub, na faipela kubit wing bilong narapela kerub; tenpela kubit i go long ol ating bilong ol wing bilong ⟨em⟩, inap long ol ating bilong ol wing bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d01613b6bed134d9b887c1db815d804771c1f7842882b93b9435517ea1e68911",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/21-24.1792352750133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "na faipela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "wing bilong"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na faipela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "wing bilong"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tenpela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "long ol ating bilong"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ol wing bilong ⟨em⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ol ating bilong"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ol wing bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:50.135250695Z",
+  "model": "glm-5.3"
+}

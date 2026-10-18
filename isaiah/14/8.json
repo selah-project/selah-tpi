@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Tree identity uncertain: cypress, juniper, or fir; 'diwai sipres' chosen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yu slip",
+      "rationale": "שכבת is 'you lie down', a euphemism for dying here; 'slip' carries the same euphemism in Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "king bilong Bavel",
+      "rationale": "The trees speak directly to the fallen king — address continues from the taunt-song."
+    }
+  ],
+  "translation": "Olsem tu, ol diwai sipres i gladim long yu, na ol seda bilong Lebanon, ol i tok: long taim yu slip, man bilong katim diwai i no kamap na katimim long mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/14\/5-8.1792354014163.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ol diwai sipres"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "gladim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ol seda"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yu slip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "man bilong katim diwai"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:54.165037023Z",
+  "model": "glm-5.3"
+}

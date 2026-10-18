@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע i min sidin\/kaikai pikinini — Tok Pisin 'pikinini' bilong man, i no 'sidin' (lo D4)"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמעתיו",
+      "rationale": "smol hap — KJV 'gravel thereof' (smol ston long san) vs JPS 'grains' — mi holim pasin bilong san"
+    }
+  ],
+  "translation": "Na pikinini bilong yu bai i kamap olsem san, na ol pikinini bilong bel bilong yu olsem ol smol graun i stap long san; nem bilong em bai ol i no ken katim em i go ausait long ol manmeri bilong en, na ol i no ken bagarapim em, i no lus long pes bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "729f08c787722c99a8eca2eb0e87ba705a754e7fd2755fa9ed184c382761d74d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/48\/17-20.1792354566818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "olsem san"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "na ol pikinini bilong bel"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "olsem ol smol graun i stap long san"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ol i ken katim em i go ausait long ol manmeri bilong en"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "ol i ken bagarapim em"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "i no lus long pes bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:06.819874877Z",
+  "model": "glm-5.3"
+}

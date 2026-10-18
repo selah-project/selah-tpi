@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "Hebrew ונלוו cohortative 'let us join' requires yumi in Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברית עולם לא תשכח",
+      "rationale": "covenant-never-forgotten echoes v.6 שכחו — remembered covenant vs forgotten resting place"
+    }
+  ],
+  "translation": "Ol i askim rot bilong go long Tsiyon, ol fes bilong ol i stap long en: Kam, na yumi jainim long Yahwe, wanpela kontrak oltaim we i no ken lus tingting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/50\/5-8.1792355852652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "ol i askim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ol fes bilong ol"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kam"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "na yumi jainim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "i ken lus tingting"
+    }
+  ],
+  "timestamp": "2026-10-18T20:37:32.653481029Z",
+  "model": "glm-5.3"
+}

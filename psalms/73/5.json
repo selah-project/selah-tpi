@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "אנוש i man i dai (mortal), na אדם i man olgeta — tupela i tok 'man' long Tok Pisin, kontras Hibru i lus liklik."
+    },
+    {
+      "kind": "crux",
+      "subject": "pen bilong man i dai",
+      "rationale": "בעמל אנוש: 'long pen bilong man' o 'long pen bilong ol man i dai' — ol tanima i no wankain."
+    }
+  ],
+  "translation": "Long pen bilong man i dai, ol i no ⟨em⟩ stap; na wantaim ol narapela man, ol i no gat pen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/5-8.1792358509298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "long pen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bilong man i dai"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ol i no"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ol narapela man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "gat pen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:49.298640321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizmor",
+      "rationale": "מזמור em i wokim miusik bilong singaut; Tok Pisin i no gat wanpela tok, olsem mipela tingim olgeta samting"
+    }
+  ],
+  "translation": "Mizmor bilong singaut, long de bilong Sabat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/1-4.1792358848454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor bilong singaut"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singaut"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:28.467687350Z",
+  "model": "glm-5.3"
+}

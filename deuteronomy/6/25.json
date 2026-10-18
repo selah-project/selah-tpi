@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה i stap olsem 'tsedek' — i no 'stretpela pasin' tasol; em i olsem raitnes wantaim pasin bilong kot"
+    },
+    {
+      "kind": "crux",
+      "subject": "olgeta komandmen o wanpela komandmen",
+      "rationale": "המצוה הזאת em i singuler 'dispela komandmen' tasol; sampela tanim tok i raitim 'olgeta komandmen'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long het bilong",
+      "rationale": "לפני literal em i 'long pes bilong', wantaim meaning 'long ain bilong'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai i",
+      "rationale": "תהיה em i verb 'i kamap\/stap', Tok Pisin i wantaim 'bai' bilong future"
+    }
+  ],
+  "translation": "Na tsedek bai i stap long yumi, sapos yumi lukaut gut na wokim ⟨את⟩ olgeta komandmen dispela, long het bilong Yahwe Elohim bilong yumi, olsem em i tokim yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/6\/25-25.1792349764994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "yumi lukaut gut"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta komandmen dispela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "komandmen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "em i tokim yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:04.994824200Z",
+  "model": "glm-5.3"
+}

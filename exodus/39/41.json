@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השרד",
+      "rationale": "שרד occurs only here — 'stitched\/needle-worked' cloth; rendered satin-wok literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשרת \/ לכהן",
+      "rationale": "Hebrew keeps two different verbs — serve (שרת) and officiate as priest (כהן) — shape preserved as two distinct phrases."
+    }
+  ],
+  "translation": "⟨את⟩ ol klos bilong satin-wok, bilong sevim long holi ples; ⟨את⟩ ol holi klos bilong Aharon bilong en i pris; na ⟨את⟩ ol klos bilong ol pikinini man bilong en, bilong wok olsem pris.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/39\/41-43.1792348199548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol klos bilong satin-wok"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ol klos"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "bilong satin-wok"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "bilong sevim long"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "holi ples"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol holi klos"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ol klos"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bilong Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol klos bilong ol pikinini man"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ol klos"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini man bilong en"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bilong wok olsem pris"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:59.548632492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct plea to God, answering the enemies' taunt of v11 ('Elohim i lusim em')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חישה",
+      "rationale": "Rare imperative of חוש 'hurry' — occurs only here in this form in the Tanakh."
+    }
+  ],
+  "translation": "Elohim, no ken go longwe long mi; Elohim bilong mi, hariap i kam long helpim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/9-12.1792358455366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "go longwe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "long helpim mi"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "hariap i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:55.367492297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Hebrew 'from the face of' — Tok Pisin 'long holim pes bilong' keeps the literal picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חללים",
+      "rationale": "'pierced ones' rendered as 'olsem ol dai man' — the Hebrew keeps the picture of pierced bodies"
+    }
+  ],
+  "translation": "Na ol man Piliset i pait wantaim Yisrael, na ol man bilong Yisrael i ranawe long holim pes bilong ol man Piliset, na ol man i pundaun olsem ol dai man long maunten Gilboa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4d58a11e9585da1d0ab4c9bb6a498cf93acdc7312f7e4d83624cc74d42f561da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/31\/1-4.1792352181672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Na ol man Piliset"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "i pait wantaim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wantaim Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "na ol i ranawe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long holim pes bilong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol man Piliset"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "olsem ol dai man"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:21.673204228Z",
+  "model": "glm-5.3"
+}

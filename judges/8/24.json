@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 8:24",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשאלה\/שאלה",
+      "rationale": "Verb 'ask' and noun 'request' share the root שאל — the ask\/asked-for pun is weakened in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "נזם is a nose-ring; rendered 'ring bilong hus' to keep the literal body part."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ol i stap⟩",
+      "rationale": "Hebrew pronoun הם alone carries the copula; Tok Pisin predicate added in brackets."
+    },
+    {
+      "kind": "crux",
+      "subject": "Ishmaelites",
+      "rationale": "Midianite foes called Yismaelites — nomamic desert traders, a broad label; kept as proper name."
+    }
+  ],
+  "translation": "Na Gideon i tokim ol: Mi laik askim wanpela samting long yupela: tupela i ken givim mi — olgeta man, ring bilong hus bilong ol samting ol i kisim long pait. Long wanem, ol i gat ol ring bilong gol, long wanem, ol Yismael ⟨ol i stap⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5c3f63c7eded43634f4a73427194b6ae7a7abfe64c3618c1a19522dbd482e351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/8\/24-24.1792363039549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Gideon i tokim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "אשאלה",
+      "gloss": "mi laik askim"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "wanpela samting"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "yupela i ken givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "ring bilong hus"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "samting ol i kisim long pait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ol ring"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bilong gol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ישמעאלים",
+      "gloss": "ol Yismael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ol i stap⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:19.550284404Z",
+  "model": "glm-5.3"
+}

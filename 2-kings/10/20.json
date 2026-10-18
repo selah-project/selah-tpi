@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצרה",
+      "rationale": "'assembly\/festival' vs ylt 'restraint' — most render solemn assembly; Yehu orders a solemn festival for Baal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mekim holi",
+      "rationale": "קדשו 'sanctify\/keep holy' — Yehu's word carries cultic consecration of the assembly, not moral purity."
+    },
+    {
+      "kind": "you",
+      "subject": "to ol man bilong Yisrael",
+      "rationale": "Yehu's imperative commands his officials to summon all Baal worshippers."
+    }
+  ],
+  "translation": "Na Yehu i tok: Mekim holi wanpela olsem bilong olgeta man long Bet Baal. Ol i go na tokaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eec964f5f6356f744f8fc067a4b3fbeec0944c15110d36071caad7c957f9bc73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/10\/20-20.1792363135701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mekim holi"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "wanpela olsem bilong olgeta man"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "long Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ol i go na tokaut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:55.701917563Z",
+  "model": "glm-5.3"
+}

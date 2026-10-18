@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bodi bilong man",
+      "rationale": "basar em i mit\/bodi — olgeta man olgeta, i no gat kotim kotim"
+    }
+  ],
+  "translation": "Yu save harim ⟨את⟩ ol prea; long yu olgeta bodi bilong man bai i kam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/65\/1-4.1792358405639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yu save harim"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ol prea"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bodi bilong man"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bai i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:05.640949461Z",
+  "model": "glm-5.3"
+}

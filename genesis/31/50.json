@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim prediket marker na pronoun long 'Elohim em i witnes', Hebrev i no gat kopula."
+    },
+    {
+      "kind": "you",
+      "subject": "Yakov",
+      "rationale": "Laban i toktok stret long Yakov — kondisenol sef bilong tingim."
+    }
+  ],
+  "translation": "Sapos yu bagarapim ⟨את⟩ ol pikinini meri bilong mi, o sapos yu kisim ol meri long pes bilong ol pikinini meri bilong mi — i no gat man wantaim yumi — lukluk, Elohim em i witnes namel long mi na long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/49-52.1792346956296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yu bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini meri bilong mi"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "ol pikinini meri bilong mi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o sapos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "yu kisim"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "על",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "ol pikinini meri bilong mi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim yumi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lukluk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "em i witnes"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "namel long mi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:16.297206114Z",
+  "model": "glm-5.3"
+}

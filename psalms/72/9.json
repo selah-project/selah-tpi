@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ציים",
+      "rationale": "'man bilong wailples' — Hebrew tsijjim means desert-dwellers, nomads or wild beasts of the dry places."
+    },
+    {
+      "kind": "addition",
+      "subject": "wantaim tong",
+      "rationale": "Hebrew says only 'lick'; tongue supplied to make the picture clear in Tok Pisin."
+    }
+  ],
+  "translation": "Long pes bilong em, ol man bilong wailples bai i go daunlonggru bilong em; na ol birua bilong em bai i laikim das wantaim tong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/9-12.1792358435556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "long pes bilong em"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bai i go daunlonggru"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ol man bilong wailples"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "na ol birua bilong em"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "bai i laikim ⟨wantaim tong⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:35.556760973Z",
+  "model": "glm-5.3"
+}

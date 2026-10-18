@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 26:21",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "brikim nem bilong yu",
+      "rationale": "בלהות: 'mi mekim yu i kamap het bilong ol narapela' (KJV 'terror') vs 'mi bagarapim yu olgeta' (YLT 'wastes') — Strong's bilong en i tok 'alarm; destruction'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "oltaim olgeta",
+      "rationale": "לעולם i min oltaim, tasol litral em i 'samting i stap hed' — taim i go long pis."
+    },
+    {
+      "kind": "elision",
+      "subject": "ol",
+      "rationale": "ותבקשי em i pasif — 'yu ol i painim yu'; Tok Pisin i nidim ol."
+    }
+  ],
+  "translation": "Bai mi mekim ⟨את⟩ yu i kamap brikim nem bilong yu, na yu i no stap moa; na sapos ol i painim yu, bai ol i no inap painim yu gen, oltaim olgeta — Yahwe i tok, Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2531e8f7b69d202b29556452ab273c442ec110cd6d819597f8fcf923cf031995",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/26\/21-21.1792356484827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלהות",
+      "gloss": "brikim nem bilong yu"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "mi mekim ⟨את⟩ yu"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "na yu i no stap moa"
+    },
+    {
+      "surface": "ותבקשי",
+      "gloss": "na sapos ol i painim yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bai ol i no inap"
+    },
+    {
+      "surface": "תמצאי",
+      "gloss": "painim yu gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:48:04.828356604Z",
+  "model": "glm-5.3"
+}

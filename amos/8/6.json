@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מפל",
+      "rationale": "מפל appears only here — 'falling chaff', refuse sold with the grain."
+    },
+    {
+      "kind": "crux",
+      "subject": "baim man long silva",
+      "rationale": "literal debt-slavery for the price of a sandal vs hyperbole for cheating the poor in trade."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשביר",
+      "rationale": "same root as v5 'sell grain' — links the greed to its punishment."
+    }
+  ],
+  "translation": "Bilong baim ⟨את⟩ ol man no gat strong long silva, na ⟨את⟩ ol man no gat samting long ol su — na mipela salim ⟨את⟩ rabis bilong gaden kaikai?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/8\/5-8.1792357301654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "bilong baim"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "long silva"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ol man no gat strong"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na ol man no gat samting"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "long olsem"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "ol su"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "na rabis bilong kaikai"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gaden kaikai"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "mipela salim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:41.655619934Z",
+  "model": "glm-5.3"
+}

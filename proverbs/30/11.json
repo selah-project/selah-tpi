@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "I gat",
+      "rationale": "Hebrew is a verbless exclamation 'A generation...'; Tok Pisin needs the existential frame."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל \/ יברך",
+      "rationale": "Antithesis curse-vs-bless frames verses 11-14; the root קלל (make light) opposes ברך (kneel\/bless)."
+    }
+  ],
+  "translation": "⟨I gat⟩ ol lain bilong wanpela taim: ol i kalsim papa bilong ol, na ⟨את⟩ mama bilong ol ol i no blesim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/9-12.1792359791418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ol lain bilong wanpela taim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "i kalsim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mama bilong en"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "i blesim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:11.419646798Z",
+  "model": "glm-5.3"
+}

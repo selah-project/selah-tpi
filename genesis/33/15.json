@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אמצא חן בעיני",
+      "rationale": "'find favor in the eyes of' rendered 'kisim gutpela pasin long ai bilong'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Preposition את 'with', not the object marker; carried as ⟨את⟩ per discipline."
+    }
+  ],
+  "translation": "Na Esav i tok: Mi ken livim sampela man wantaim yu, long ol man ⟨את⟩ i stap wantaim mi. Na em i tok: Long wanem dispela? Em i orait tasol sapos mi kisim gutpela pasin long ai bilong bikman bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3a4fba03f067c5d6768d4fca5d5918a35f3a360e2747b7cd5b56a5bf6731d822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/33\/13-16.1792346955128.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Esav i tok"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "mi ken livim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wantaim yu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ i stap wantaim mi",
+      "marks": "ol man (ol man i stap wantaim mi)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mi kisim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gutpela pasin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:15.129493558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 12:23",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "Lit. 'a profaned thing'; idiomatic 'far be it from me' rendered 'i no inap long mi'."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Samuel addresses Israel directly about his ongoing prayer and teaching for them."
+    }
+  ],
+  "translation": "Mi tu, i no inap long mi long mekim sin agensim Yahwe, long stap kwik long pray bilong yupela; na bai mi skulim ⟨את⟩ yupela long rot gutpela na rot stretpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/12\/21-24.1792351642246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "i no inap long mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מחטא",
+      "gloss": "mekim sin agensim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחדל",
+      "gloss": "stap kwik long"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "pray"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "na bai mi skulim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "rot gutpela na rot stretpela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "והישרה",
+      "gloss": "stretpela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:22.247491110Z",
+  "model": "glm-5.3"
+}

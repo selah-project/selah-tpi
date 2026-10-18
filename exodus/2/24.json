@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong en long ol nem",
+      "rationale": "Hebrew juxtaposes covenant and patriarchs without 'with'; Tok Pisin reads the names as parties to the contract."
+    }
+  ],
+  "translation": "Na Elohim i harim ⟨את⟩ singaut krai bilong ol, na Elohim i tingim ⟨את⟩ kontrak bilong en, ⟨את⟩ Avraham, ⟨את⟩ Yitsak, na ⟨את⟩ Yakov.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/2\/21-24.1792347359739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na i harim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singaut krai bilong ol"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "singaut krai bilong ol"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "na i tingim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontrak bilong en"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kontrak bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:59.741011407Z",
+  "model": "glm-5.3"
+}

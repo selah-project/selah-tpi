@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim pronoun bilong skelim man i sanap; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wara Yeor",
+      "rationale": "היאר em i nem bilong wara Nael; mi putim 'wara' bilong Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tupela yia long ol de",
+      "rationale": "Kaunim bilong taim: שנתים ימים, tupela yia fulap"
+    }
+  ],
+  "translation": "Na i kamap, long senis bilong tupela yia long ol de, Paroh i drimin, na lukim — ⟨em⟩ i sanap antap long wara Yeor.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6d938f74896f3c86dd9c00b3cdf63a9a2fe050a179641f018aa71f219d311d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/1-4.1792347134732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "long senis bilong"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "tupela yia"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "long ol de"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "na Paroh"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "i drimin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wara Yeor"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:14.733128546Z",
+  "model": "glm-5.3"
+}

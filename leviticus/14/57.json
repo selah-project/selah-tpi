@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skelim",
+      "rationale": "להורת i min 'autim tok bilong soim rot' — mi usim 'skelim' long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i nidim kopula; Hibru i no gat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "de bilong tambu na de bilong klin",
+      "rationale": "ves i skelim taim bilong tambu na taim bilong klin"
+    }
+  ],
+  "translation": "Bilong skelim long de bilong tambu na long de bilong klin — dispela em i Tora bilong tsaraat.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/14\/57-57.1792348462464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "bilong skelim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "tambu"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na long de bilong"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "klin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "bilong tsaraat"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:22.464383921Z",
+  "model": "glm-5.3"
+}

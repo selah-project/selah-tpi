@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתה שמך יהוה לבדך",
+      "rationale": "Word order debated: does 'alone' modify 'you' (you alone, whose name is Yahwe — KJV\/ASV) or the name (your name alone is Yahwe — JPS)?"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Direct address to Yahwe continues from v17-18."
+    },
+    {
+      "kind": "elision",
+      "subject": "הארץ article",
+      "rationale": "Tok Pisin has no article; Hebrew ה- on 'the earth' is not rendered."
+    }
+  ],
+  "translation": "Na bai ol save se yu — nem bilong yu em i Yahwe — yu wanpela tasol, yu Elyon, antap long olgeta graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/83\/17-19.1792358590208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Na bai ol save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yu wanpela tasol"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:10.209850466Z",
+  "model": "glm-5.3"
+}

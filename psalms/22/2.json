@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sesen",
+      "rationale": "ישועה em i 'ol i pulim mi kam aut' \/ 'help'; 'sesen' em i tok klostu, tasol Inglis tok."
+    },
+    {
+      "kind": "crux",
+      "subject": "דברי שאגתי",
+      "rationale": "'Ol tok bilong singaut nogut bilong mi' — שאגה em i nois bilong laion; sam translator i tok 'krai bilong mi'."
+    },
+    {
+      "kind": "you",
+      "subject": "El bilong mi",
+      "rationale": "Tok i go stret long Elohim, man i krai long em."
+    }
+  ],
+  "translation": "El bilong mi, El bilong mi, bilong wanem as yu lusim mi? Yu stap farawe long sesen bilong mi, na long ol tok bilong singaut nogut bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/1-4.1792358015346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El bilong mi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El bilong mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem as"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "yu lusim mi"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Yu stap farawe"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "long sesen bilong mi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "bilong singaut nogut bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.346954448Z",
+  "model": "glm-5.3"
+}

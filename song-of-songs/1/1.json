@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שיר השירים",
+      "rationale": "Hebrew superlative — 'song of songs' — Tok Pisin keeps the build-up 'san bilong ol san' rather than 'san i bikpela tru'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר",
+      "gloss": "rendered 'we' — Hebrew relative pronoun has no single Tok Pisin equivalent."
+    }
+  ],
+  "translation": "San bilong ol san, we i bilong Shelomo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/1-4.1792360441658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "san"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "bilong ol san"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "bilong Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:01.658436790Z",
+  "model": "glm-5.3"
+}

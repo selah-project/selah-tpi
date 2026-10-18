@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב em i bel — tingting na laik, i no hat"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol narapela god",
+      "rationale": "אלהים אחרים i ol god narapela — liklik leta god orait, i no Elohim bilong Nem"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Moshe i toktok stret long Yisrael"
+    }
+  ],
+  "translation": "Tasol sapos bel bilong yu i senis i go long narapela hap, na yu no ken harim, na ol i rausim yu go, na yu bai karim long ol narapela god, na yu wokim ol —",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/30\/17-20.1792350386975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "i senis i go long narapela hap"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yu no ken"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "na ol i rausim yu go"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "na yu bai karim long"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ol narapela god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na yu wokim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:26.976450842Z",
+  "model": "glm-5.3"
+}

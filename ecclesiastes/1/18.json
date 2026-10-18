@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברב\/רב … יוסיף\/יוסיף",
+      "rationale": "Repetition: 'in much… much', 'he adds… adds' — parallel rhythm, partly kept with 'planti\/planti' and 'kirapim\/kirapim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כעס",
+      "rationale": "'vexation\/anger' → bel hevi (Tok Pisin idiom for sorrow\/vexation)"
+    }
+  ],
+  "translation": "Long planti olgeta save i stap planti bel hevi; na man i kirapim moa save, em i kirapim tu planti pen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/17-18.1792360693514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "planti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "olgeta save"
+    },
+    {
+      "surface": "רב",
+      "gloss": "planti"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bel hevi"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "na … i kirapim moa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "save"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "i kirapim tu"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "planti pen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:13.515606195Z",
+  "model": "glm-5.3"
+}

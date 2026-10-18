@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok tenkyu",
+      "rationale": "יודוך is from ידה, literally 'throw\/cast' extended to give thanks; Tok Pisin uses tok tenkyu for the act of thanking."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol man khesed bilong yu",
+      "rationale": "חסידיך is the adjective 'your faithful\/pious ones'; alternative rendering is ol gutpela man bilong yu."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Direct address to Yahwe — the psalmist speaks to God in second person within a third-person psalm."
+    }
+  ],
+  "translation": "Olgeta wok bilong yu bai i tok tenkyu long yu, Yahwe, na ol man khesed bilong yu bai i blesim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/9-12.1792359306722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bai i tok tenkyu long yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wok bilong yu"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na ol man khesed bilong yu"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bai i blesim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:06.722915964Z",
+  "model": "glm-5.3"
+}

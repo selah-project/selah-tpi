@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker; Hibru i no gat kopula"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "ol tanim i tok 'lawgiver' (KJV) o 'sceptre' (ASV\/JPS); tok yet em i 'man i karim lo \/ i makim lo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol lain",
+      "rationale": "ves i makim ol lain Gilad, Menashe, Efrayim, Yuda — wanwan long wanpela wok"
+    }
+  ],
+  "translation": "Bilong mi ⟨em i⟩ Gilad, na bilong mi ⟨em i⟩ Menashe; Efrayim em i strongpela bilong hed bilong mi; Yuda em i man i raitim lo bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/60\/9-12.1792358382381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na bilong mi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "strongpela"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bilong hed bilong mi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "man i raitim lo bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:42.381671696Z",
+  "model": "glm-5.3"
+}

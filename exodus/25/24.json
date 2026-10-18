@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karamapim",
+      "rationale": "צפה i tok 'karamapim wantaim thin gol', pasin bilong karamapim samting olgeta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krown",
+      "rationale": "זר em i moulding we i stap raun long tebol, ol i tanim olsem 'krown' tasol em i no krown bilong king"
+    }
+  ],
+  "translation": "Na yu ken karamapim ⟨את⟩ em wantaim gol klia, na yu ken wokim long em krown bilong gol olgeta we i raunim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ee3d794fc9632a036d57d6369077e5d0714fc24c93032d38fcd6f3469ebc86dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/24-24.1792362942100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצצפית",
+      "gloss": "yu ken karamapim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (tebol)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "klia"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "yu ken wokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "זר",
+      "gloss": "krown"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "olgeta we i raunim em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:42.101956247Z",
+  "model": "glm-5.3"
+}

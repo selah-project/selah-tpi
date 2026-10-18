@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 15:12",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew i no gat kopula; Tok Pisin i laikim ⟨em⟩ ⟨i⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "solwara bilong wes",
+      "rationale": "ים long hia em i tok long sait bilong wes, olsem na 'solwara bilong wes'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "banis",
+      "rationale": "Sumatin bilong olgeta mak bilong banis Yehuda — skelim graun i pinis"
+    }
+  ],
+  "translation": "Na banis bilong wes ⟨em⟩ i bikpela solwara, na ⟨em⟩ i banis bilong en. Dispela ⟨em⟩ i banis bilong ol pikinini Yehuda olgeta raun, long ol lain bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "47e908eeaf8f49b712a0a7f2de2b4ebfa636882f2921b63c49117259ecb0e627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/15\/9-12.1792350762428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "na banis"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bilong solwara bilong wes"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "bikpela solwara"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "na banis"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "banis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bilong ol pikinini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "olgeta raun"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "long ol lain bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:42.430219803Z",
+  "model": "glm-5.3"
+}

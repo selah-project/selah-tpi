@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 51:14",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong em",
+      "rationale": "נפש here is life-force\/self; Tok Pisin 'laip' keeps the sworn-by-life sense."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrew oath formula 'that indeed'; rendered 'sipo … truli' as the Tok Pisin swearing particle."
+    }
+  ],
+  "translation": "Yahwe Tsebaot i sotim long laip bilong em yet: sipo mi pulimapim yu long ol man, olsem ol yong locust, na ol bai singaut strong strong agensim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5cfe3f1b31af103256d4384a82c92e775f5423ddeb7c4dca839070dd56a80293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/13-16.1792355930572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "i sotim sapos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "long laip bilong em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "truli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sipo"
+    },
+    {
+      "surface": "מלאתיך",
+      "gloss": "mi pulimapim yu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "olsem ol yong locust"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "na ol bai singaut"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "agensim yu"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "strong strong"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:50.573506561Z",
+  "model": "glm-5.3"
+}

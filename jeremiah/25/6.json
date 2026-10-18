@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol god narap",
+      "rationale": "אלהים אחרים here is foreign gods, lowercase 'ol god' is correct, not Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Hebrew perfect ולא ארע read as future promise; TPI future marker added."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct prohibition addressed to the people."
+    }
+  ],
+  "translation": "Na yupela i no ken bihainim ol god narap bilong wokim wok bilong ol na bilong kringim ol; na yupela i no ken krosim ⟨את⟩ mi long ol wok bilong han bilong yupela, na bai mi no mekim nogut long yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/25\/5-8.1792355340547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narap"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "bilong wokim wok bilong ol"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "na bilong kringim ol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "krosim"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "long ol wok"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "bilong han bilong yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na bai mi no"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "mekim nogut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:29:00.548000569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long mi",
+      "rationale": "Hebrew lacks 'to me'; supplied in brackets"
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Yahwe",
+      "rationale": "prophetic word formula addressed to the prophet Zekharyah"
+    }
+  ],
+  "translation": "Na tok bilong Yahwe Tsebaot i kamap ⟨long mi⟩, i tok:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3a2c8374e37c82e1025bde167ef50f2099857d57a3621cdc3975604d93fe2a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/8\/1-4.1792357697068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:17.068675243Z",
+  "model": "glm-5.3"
+}

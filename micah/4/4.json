@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i tok 'man' tasol (singular), Tok Pisin i laikim 'ol' long 'skerim ol' bilong klia."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פי יהוה",
+      "rationale": "'maus bilong Yahwe' — min 'tok bilong Yahwe'; Tok Pisin i holim piksa bilong maus olsem Hibru."
+    }
+  ],
+  "translation": "Na ol man bai i sindaun, wanwan man aninit long wainwara bilong en, na aninit long diwai figa bilong en, na i no gat man i save skerim ol; long wanem maus bilong Yahwe Tsebaot i tok pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/4\/1-4.1792357413968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Na bai i sindaun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "wainwara bilong en"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na aninit long"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "diwai figa bilong en"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "man i save skerim ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:33.969613291Z",
+  "model": "glm-5.3"
+}

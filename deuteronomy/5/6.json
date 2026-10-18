@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim wanpela tok wantside, Hibru i no gat"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yahwe i tokim Yisrael long Sinai, tol long Stat 20:2"
+    }
+  ],
+  "translation": "Mi ⟨em⟩ Yahwe, Elohim bilong yu, we mi brukim yu i kamap ausait long graun bilong Mitsrayim, long haus bilong ol slevi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/5-8.1792349782082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "mi brukim yu i kamap ausait"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ol slevi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:22.083557283Z",
+  "model": "glm-5.3"
+}

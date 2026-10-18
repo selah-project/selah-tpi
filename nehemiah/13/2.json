@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok belt nogut",
+      "rationale": "קללה i tok strongpela nogut — 'tok belt nogut' i tanim liklik; 'kors' i Tok Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hebrew i no gat 'tasol\/for'; Inglis olsem 'howbeit\/but' i addim"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמו",
+      "rationale": "'go pastaim wantaim kaikai' o 'biaim'? Ol tanim tok i no wankain: 'met' (KJV) vs 'come before' (YLT)"
+    }
+  ],
+  "translation": "Long wanem, ol i no go pastaim ⟨את⟩ ol pikinini bilong Yisrael wantaim bret na wara, tasol ol i skruwim long en ⟨את⟩ Balam bilong tok belt nogut long ol; na Elohim bilong yumi i senisim tok belt nogut i kamap blesing.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9f442d1ef6c74315472823dd3a63ecdcc6ea4d95b5771684218ee8a172327d75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/13\/2-3.1792363500119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "go pastaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "wantaim bret"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na wantaim wara"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ol i skruwim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Balam"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "bilong tok belt nogut long ol"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "i senisim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "tok belt nogut"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "i kamap blesing"
+    }
+  ],
+  "timestamp": "2026-10-18T22:45:00.120246503Z",
+  "model": "glm-5.3"
+}

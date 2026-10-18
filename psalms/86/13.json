@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש i klostu long 'bel\/warapela lait', no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap ausait",
+      "rationale": "והצלת i tok 'snatch away' wanpela tok tasol, Tok Pisin i laikim tok we"
+    }
+  ],
+  "translation": "Bilong wanem, khesed bilong yu i bikpela long mi, na yu pulim ⟨את⟩ bel bilong mi i kamap ausait long Seol, long ples daunbilo tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/86\/13-16.1792358788071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "na yu pulim i kamap ausait"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "long ples daunbilo tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:28.072484365Z",
+  "model": "glm-5.3"
+}

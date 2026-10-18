@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Lukim",
+      "rationale": "Imperative 'See' — Moses summons Israel to behold the choice set before them."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Direct address: I have set before you life and good, death and evil."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החיים\/המות",
+      "rationale": "Antithetic pairing life\/good vs death\/evil frames the covenant choice as a two-way chiasm."
+    }
+  ],
+  "translation": "Lukim, long dispela de mi putim pastaim long yu ⟨את⟩ laip na ⟨את⟩ gutpela samting, na ⟨את⟩ dai, na ⟨את⟩ nogut samting.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/30\/13-16.1792350319125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pastaim long yu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laip"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "laip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gutpela samting"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dai"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nogut samting"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nogut samting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:19.126836101Z",
+  "model": "glm-5.3"
+}

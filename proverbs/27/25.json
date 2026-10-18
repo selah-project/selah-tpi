@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol i olsem wanem",
+      "rationale": "Hebrew has no question or filler; segment marker only, supplied to hold clause shape"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'hay is removed\/carried away' (JPS) vs 'grass appears\/bares itself' — root means denude; I keep 'come clear'"
+    }
+  ],
+  "translation": "Gras i kamap klia, na nupela grasi ilukluk, na ol i olsem wanem? — na ol i sanapim olgeta ol grasi bilong ol maunten.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/25-27.1792359760505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "i kamap klia"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "na i lukluk"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "nupela grasi"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "na ol i sanapim olgeta"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "ol grasi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bilong ol maunten"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:40.505617720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Partikel bilong pawa, 'nau' — em i stap long tok tasol, i no gat strong mining."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאנו",
+      "rationale": "חטא i tok bilong 'lusim target'; 'mekim salad' em i pasin Tok Pisin bilong tok sin."
+    }
+  ],
+  "translation": "Klaun bilong hed bilong yumi i pundaun; oi, sori tru long yumi, bilong yumi i mekim salad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/5\/13-16.1792360713070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "klaun"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "bilong hed bilong yumi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "oi, sori tru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nau"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "yumi i mekim salad"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:33.071252532Z",
+  "model": "glm-5.3"
+}

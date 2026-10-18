@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דגול",
+      "rationale": "From 'raise a flag\/be conspicuous': rendered 'marked like a banner' — others render 'chosen\/chiefest' (KJV\/JPS) or 'conspicuous' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "'ten thousand man' — Hebrew מרבבה is a bare myriad; Tok Pisin needs the counted noun."
+    }
+  ],
+  "translation": "Man bilong mi i sanpela na redpela, i makim olsem planga namel long ten tausen man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/9-12.1792360435104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "man bilong mi"
+    },
+    {
+      "surface": "צח",
+      "gloss": "sanpela"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "na redpela"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "i makim olsem planga"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "namel long ten tausen man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:55.105757726Z",
+  "model": "glm-5.3"
+}

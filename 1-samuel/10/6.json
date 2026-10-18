@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kamap strong long",
+      "rationale": "צלח i tok bilong pushim i go het \/ strong i kisim man; 'kamap strong long' i kliaim pasin."
+    },
+    {
+      "kind": "crux",
+      "subject": "autim tok profet",
+      "rationale": "מתנבאים i ken tok o sing; translate 'autim tok' tasol — sing i no klin."
+    }
+  ],
+  "translation": "Na ruak bilong Yahwe bai i kamap strong long yu, na yu bai autim tok profet wantaim ol, na yu bai senis kamap ⟨man bilong narasamting⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3f3ab08358ab73a7030e3abdbc0fd7027b284e7c1af364a3930c84363e2d1584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/10\/5-8.1792351635494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "bai i kamap strong long"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "yu bai autim tok profet"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "yu bai senis kamap"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bilong narasamting"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:15.495955504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבבך \/ כלב",
+      "rationale": "bel bilong yu ... olsem bel — wanpela as לב, i kamap tupela taim"
+    },
+    {
+      "kind": "you",
+      "subject": "long prins bilong Tair",
+      "rationale": "Yahwe i toktok daun long prins bilong Tair"
+    }
+  ],
+  "translation": "Olsem na Adonai Yahwe i tok: bilong yu putim ⟨את⟩ bel bilong yu olsem bel bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/28\/5-8.1792356505816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong yu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "olsem bel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:48:25.816891312Z",
+  "model": "glm-5.3"
+}

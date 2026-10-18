@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ofra bilong rong",
+      "rationale": "האשם em i min rong na ofra bilong rong; hia em i ofra"
+    },
+    {
+      "kind": "idiom",
+      "subject": "holi bilong ol holi samting",
+      "rationale": "קדש קדשים em i superlative Habru: 'holi bilong ol holi', ol tanim i 'most holy'"
+    }
+  ],
+  "translation": "Na dispela em i Tora bilong ofra bilong rong: em i holi bilong ol holi samting.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/1-4.1792348320503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na dispela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora bilong"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ofra bilong rong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi bilong"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ol holi samting"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:00.503921934Z",
+  "model": "glm-5.3"
+}

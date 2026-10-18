@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bruk i go ausait",
+      "rationale": "פשע em i pasin bilong bagarapim lo \/ brukim wok bilong bihainim — 'rebel' i gutpela mining tasol"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bihain long dai bilong Akab",
+      "rationale": "tok bilong taim i makim stat bilong stori"
+    }
+  ],
+  "translation": "Na Moab i bruk i go ausait long Yisrael, bihain long dai bilong Akab.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/1-4.1792353278757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "i bruk i go ausait"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:38.758404263Z",
+  "model": "glm-5.3"
+}

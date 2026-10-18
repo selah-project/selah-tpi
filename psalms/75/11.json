@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קרן",
+      "rationale": "קרן em i han bilong animal — mak bilong strong; Tok Pisin i no gat tok stret, olsem 'han bilong strong'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרני\/קרנות",
+      "rationale": "tupela klostu wankain — ol karn bilong man nogut i pundaun, ol karn bilong man stret i antap"
+    }
+  ],
+  "translation": "Na olgeta ol han bilong strong bilong ol man nogut bai mi katim ol i go ausait; tasol ol han bilong strong bilong ol man stret bai ol i antap olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/75\/9-11.1792358499141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ol han bilong strong bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "bai mi katim ol i go ausait"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "bai ol i antap olgeta"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ol han bilong strong bilong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ol man stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:39.142589622Z",
+  "model": "glm-5.3"
+}

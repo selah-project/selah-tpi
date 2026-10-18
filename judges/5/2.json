@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בפרע פרעות",
+      "rationale": "tok i gat planti minin: 'ol lida i lusim harim bilong het' (JPS) o 'ol lida i go stret pastaim' (ASV, פרע to begin) o 'ol i rausim ol man long raus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bariku",
+      "rationale": "ברכו i minin 'blessim\/kneel'; Tok Pisin i no gat tok stret, bariku i klostu"
+    }
+  ],
+  "translation": "Long taim ol lida i lusim ol harim bilong het long Yisrael, long taim ol manmeri bilong graun i givim yet long wok, ol i tingim gutpela tok bilong Yahwe — bariku long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3018506c9f8040a749e9dd8915207c788457d81a0ddd3ca9193c2197fc41c612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/5\/1-4.1792351055485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "long taim ol i lusim"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "ol harim bilong het"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "long taim ol i givim yet long wok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol manmeri bilong graun"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bariku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:17:35.486355099Z",
+  "model": "glm-5.3"
+}

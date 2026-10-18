@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 10:19",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Hebrew conjunction 'that' introducing the seen clause; Tok Pisin word order carries it, so only 'ol' remains as marker."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mekim pis",
+      "rationale": "וישלמו from שלם (be whole\/complete); rendered as idiom 'make peace' as English versions do."
+    }
+  ],
+  "translation": "Na olgeta king, ol wokman bilong Hadadezer, i lukim ol i paitim win long pes bilong Yisrael, ol i mekim pis ⟨את⟩ wantaim Yisrael, na ol i wokim ol. Na Aram i scare long helpim gen ⟨את⟩ ol pikinini bilong Amon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "40c92e762f31e5b1b81e82a7dadafb5ee8dbffbfc1c20029c7d0042e4e74fa3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/10\/17-19.1792352290963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ol i lukim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "king"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "ol i paitim win"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלמו",
+      "gloss": "ol i mekim pis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wantaim",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "ol i wokim ol"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "i scare"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "long helpim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:10.967824250Z",
+  "model": "glm-5.3"
+}

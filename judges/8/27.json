@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 8:27",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויזנו",
+      "rationale": "'go a-whoring after' — idiom bilong wosim narapela god; Tok Pisin 'i slek long em' i holim save long body."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוקש",
+      "rationale": "moqesh — rop bilong skrapim animal; 'trap' i holim piksa bilong wanpela samting i kilim man."
+    },
+    {
+      "kind": "crux",
+      "subject": "ephod",
+      "rationale": "Ephod em i klos bilong praist, tasol hia em i mekim long gol — sam man i ting em i stat bilong bagarapim Gideon."
+    }
+  ],
+  "translation": "Na Gideon i wokim ⟨את⟩ em i kamap ephod, na i setim ⟨את⟩ em long taun bilong en, long Opra; na olgeta Yisrael i slek long em long dispela ples. Na em i kamap wanpela trap bilong Gideon na bilong haus bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/8\/25-28.1792351179387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "long ephod"
+    },
+    {
+      "surface": "ויצג",
+      "gloss": "i setim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "long taun bilong en"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "long Opra"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "i slek long em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bihain long en"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long dispela ples"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "לגדעון",
+      "gloss": "bilong Gideon"
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": "na bilong haus bilong en"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "long trap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:19:39.388654251Z",
+  "model": "glm-5.3"
+}

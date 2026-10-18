@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב i stap long bel bilong tingting na laik long Tok Pisin — 'bel i wantaim Yahwe', i no 'hat'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "רק ('olsem tasol') i opim kalokot: holi ples i stap yet, tasol bel bilong Asa i wanbel."
+    }
+  ],
+  "translation": "Tasol ol holi ples long hil i no lus; bel bilong Asa i stap wanbel wantaim Yahwe olgeta ol de bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f243442e953b28e3d7500bd4d4bb09beb7a4cfcab15ad555e3df56256aa445cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/15\/13-16.1792353063475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "tasol ol holi ples long hil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "lus"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "wanbel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ol de bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:03.476418129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איים",
+      "rationale": "'howlers' (solitary wild creatures) vs KJV 'beasts of the islands' (misreading אי as island)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באלמנותיו",
+      "rationale": "literally 'his widows', i.e. desolate\/emptied houses; rendered 'houses with no one in them'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "pronoun supplied: Hebrew has only 'her time \/ her days' without naming Babylon"
+    },
+    {
+      "kind": "measurement",
+      "subject": "taim \/ ol de",
+      "rationale": "verse fixes Babylon's appointed time as near and her days as not prolonged"
+    }
+  ],
+  "translation": "Na ol animal i singaut long ol haus i no gat man long en, na ol wail dok long ol bikpela haus bilong gutpela sindaun; na taim bilong ⟨em⟩ i klostu i kamap nau, na ol de bilong ⟨em⟩ bai i no draivim i go longpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb013732315113d89423554f87b5d0597b87aafde74ed910973af6c4347cbf2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/13\/21-22.1792353970179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "na ol singaut bek"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ol animal i singaut"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "long ol haus i no gat man long en"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "na ol wail dok"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "long ol bikpela haus"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "bilong gutpela sindaun"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "na ol de bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "bai i draivim i go longpela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:10.180922273Z",
+  "model": "glm-5.3"
+}

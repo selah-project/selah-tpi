@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קהל ישראל",
+      "rationale": "Phrase repeated twice, framing the blessing with the standing assembly."
+    }
+  ],
+  "translation": "Na king i tanim ⟨את⟩ pes bilong em, na em i berkim ⟨את⟩ olgeta manmeri bilong Yisrael; na olgeta manmeri bilong Yisrael i sanap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/1-4.1792362345750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "i tanim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong em"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pes bilong em"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na em i berkim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta manmeri bilong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "i sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:45.751698369Z",
+  "model": "glm-5.3"
+}

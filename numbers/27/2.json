@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 27:2",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Hebrew 'to the face of' rendered as 'pastaim long' (in front of \/ before)."
+    },
+    {
+      "kind": "addition",
+      "subject": "na ol i tok olsem",
+      "rationale": "Introductory formula supplied as a full clause for לאמר 'to say'."
+    }
+  ],
+  "translation": "Na ol i sanap pastaim long Mose, na pastaim long Elazar pris, na pastaim long ol bikman, na olgeta lain, long dua bilong Haus Sel bilong Sanap Wantaim, na ol i tok olsem:",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f0ac881fcf965ae40240dc602f0cca64e82be45b7d500a2c86ab2349c068c1ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/27\/1-4.1792349532014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na pastaim long"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na pastaim long"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "ol bikman"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lain"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "long dua bilong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Haus Sel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bilong Sanap Wantaim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na ol i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T18:52:12.015586027Z",
+  "model": "glm-5.3"
+}

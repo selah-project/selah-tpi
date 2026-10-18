@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערפל",
+      "rationale": "'Araphel' gloom-of-a-lowering-sky rendered 'klostu tudak tru' (near-true darkness); the thick-cloud picture is not literal in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "Niphal יראה 'be seen' requires an agent 'ol man bai lukim' in Tok Pisin passive sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח",
+      "rationale": "Same sun-rise verb as v1 and noun in v3 — the sun-rising chain runs through three verses."
+    }
+  ],
+  "translation": "Bilong luk: hahane, tudak bai i karapim graun, na klostu tudak tru long ol lain olgeta; tasol Yahwe bai i sanap long yu olsem san, na glori bilong em bai i kamap long yu, ol man bai lukim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/60\/1-4.1792354775785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hahane"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tudak"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bai i karapim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na klostu tudak tru"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "long ol lain olgeta"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "tasol long yu"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "bai i sanap olsem san"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "na glori bilong em"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bai i kamap, ol man bai lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:35.786714619Z",
+  "model": "glm-5.3"
+}

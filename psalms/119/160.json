@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'hed\/stat' — JPS\/Geneva 'stat bilong' vs ASV\/BSB 'sum\/olgeta bilong tok'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tru⟩",
+      "rationale": "Tok Pisin i nidim Kopula 'em i', Hibru i no gat"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "tok i tok long Yahwe (tok bilong yu, tsedek bilong yu)"
+    }
+  ],
+  "translation": "Olgeta sum bilong tok bilong yu em i ⟨tru⟩, na i go oltaim olgeta ⟨i⟩ kot bilong tsedek bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/157-160.1792359156088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "olgeta sum"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "bilong tok bilong yu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tru"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "na i go oltaim olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "bilong tsedek bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:36.091982980Z",
+  "model": "glm-5.3"
+}

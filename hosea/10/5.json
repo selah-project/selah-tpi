@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 10:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגורו",
+      "rationale": "From גור: 'dwell\/sojourn' vs 'fear\/dread' — translations split, here rendered 'tromoi' (dread)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית און",
+      "rationale": "Bet-Aven 'haus bilong bagarap' is Hosea's sneer at Bethel 'haus bilong El' — pun lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pris",
+      "rationale": "כמרים is a special word for idol priests, distinct from כהן — rendered with plain 'pris'."
+    }
+  ],
+  "translation": "Long ol pikinini bulmakau bilong Bet-Aven, ol man i stap long Shomron bai tromoi, bilong ol manmeri bilong en bai karai long em, na ol pris bilong en, we ol i save amamas long em, long glori bilong en — bilong ol i karim ⟨את⟩ em i go, em i lus long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5be1c5f40aafa56264eebb268922b2cfe6bdf8d88c1d774a75c041c2bf2d8157",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/10\/5-8.1792357138653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעגלות",
+      "gloss": "long ol pikinini bulmakau bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bai tromoi"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ol man i stap long"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "bai karai"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "וכמריו",
+      "gloss": "na ol pris bilong en"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ol i save amamas"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glori bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ol i karim i go long kalabus"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "em i lus long en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:58.654504107Z",
+  "model": "glm-5.3"
+}

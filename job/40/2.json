@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרב עם שדי יסור",
+      "rationale": "KJV reads 'shall he that contendeth instruct?' vs JPS 'shall he that reproveth contend?' — word order disputed"
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Yahwe long Iyob",
+      "rationale": "Yahwe i askim Iyob dairect long ol tok hia"
+    }
+  ],
+  "translation": "Em i save paitim tok wantaim Sadai, o em i ken skulim ⟨em⟩? Man i salim tok long Eloa, em i ken bekim tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/40\/1-4.1792360371083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "i save paitim tok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sadai"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "i ken skulim"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "i salim tok long"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "em i ken bekim tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:51.083889629Z",
+  "model": "glm-5.3"
+}

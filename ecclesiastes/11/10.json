@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השחרות",
+      "rationale": "'blk taim bilong het' (kala bilong yangpela het) o 'sani bilong stat bilong laip' — ol tanima i no wankain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "מלבך — לב em i bel, i no hat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wanpela samting nating",
+      "rationale": "הבל — win\/breth i lus, ol samting i no stap longpela"
+    }
+  ],
+  "translation": "Na rausim bel nogut i lus long bel bilong yu, na larim olgeta samting nogut i lus long bodi bilong yu, bilong yangpela taim na blk taim bilong het i stap wanpela samting nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/11\/9-10.1792360845582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "na rausim"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bel nogut"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "i lus long bel bilong yu"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "na larim … i lus"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olgeta samting nogut"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "long bodi bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "yangpela taim"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "na blk taim bilong het"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "wanpela samting nating"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:45.583342502Z",
+  "model": "glm-5.3"
+}

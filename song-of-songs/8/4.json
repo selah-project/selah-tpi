@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה תעירו",
+      "rationale": "interrogative read as imperative ('do not stir') or question ('why stir?'); rendered as prohibition"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i no ken",
+      "rationale": "negative imperative supplied; Hebrew מה formula carries the force"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol pikinini meri bilong Yerusalayim",
+      "rationale": "direct adjuration addressed to the daughters of Jerusalem"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pikinini meri bilong Yerusalayim",
+      "rationale": "second-person plural addressee named"
+    }
+  ],
+  "translation": "Mi swirim ol ⟨את⟩ ol pikinini meri bilong Yerusalayim: ol i no ken kirapim lav, o wakekim ⟨את⟩ lav, i go inap taim ⟨em⟩ i laikim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/1-4.1792360530417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "mi swirim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini meri"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ol pikinini meri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ken"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "o"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "wakekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lav"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "taim em i laikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:30.418684036Z",
+  "model": "glm-5.3"
+}

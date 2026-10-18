@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "Tok Hibru i ripitim 'Sabat' tupela taim — pasin bilong tok i no save lus long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol bel",
+      "rationale": "נפש — bel\/laip, i no 'soul'"
+    }
+  ],
+  "translation": "Em i Sabat, Sabat bilong malolo tru, bilong yupela; na yupela i penim ⟨את⟩ ol bel bilong yupela — lo oltaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/16\/29-32.1792348637871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabat bilong malolo tru"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na yupela i penim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bel bilong yupela"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ol bel bilong yupela"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:17.872598058Z",
+  "model": "glm-5.3"
+}

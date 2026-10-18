@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i klostu long 'throat\/laip-breath', ino 'soul' we Inglis ol i usim."
+    },
+    {
+      "kind": "idiom",
+      "subject": "long han bilong mi",
+      "rationale": "Hibru pasin 'nepes b\/kap' — mi holim laip bilong mi yet long wanpela han, em i tok traim tru; Tok Pisin i holim piksa yet."
+    },
+    {
+      "kind": "crux",
+      "subject": "tasol",
+      "rationale": "Hibru i no gat 'yet\/tasol' namel — ol tanim tok i putim en; senis i kamap wantaim v."
+    }
+  ],
+  "translation": "Laip bilong mi i stap long han bilong mi oltaim, tasol Tora bilong yu mi no lusim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/109-112.1792359160864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "long han bilong mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "tasol Tora bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mi lusim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:40.865636812Z",
+  "model": "glm-5.3"
+}

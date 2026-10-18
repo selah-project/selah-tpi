@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האחשתרנים",
+      "rationale": "Rare Persian loanword: KJV 'young dromedaries', JPS 'steeds used in the king's service', BSB 'swift horses'; rendered literally 'ol miul bilong king'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הרמכים",
+      "rationale": "'Brood mares' — a Persian loanword occurring only in Esther; kept as 'meri hos bilong king'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol relhos",
+      "rationale": "הרכש is a relay\/post-horse kept on the royal road; Tok Pisin coins 'relhos' (relay horse) for it."
+    }
+  ],
+  "translation": "Na ol i raitem long nem bilong king Ahasyueros, na ol i sealim wantaim ring bilong king, na ol i salim ol leta long han bilong ol ranaman, long ol hos ol i raidim — ol relhos bilong king, na ol miul, pikinini bilong ol meri hos bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/8\/9-12.1792361039108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "na ol i raitem"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Ahasyueros"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "na ol i sealim"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "wantaim ring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na ol i salim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ol leta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ol ranaman"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "long ol hos"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "ol i raidim"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "ol relhos bilong king"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "ol miul bilong king"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "ol meri hos bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:59.110062015Z",
+  "model": "glm-5.3"
+}

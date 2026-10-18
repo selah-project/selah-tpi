@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 2:25",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישמעון\/שמעך",
+      "rationale": "Shem'a ('they hear') and shem'akha ('your report') — root שמע repeated, partly lost in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Hebrew participle ישמעון rendered with future marker 'bai'; Tok Pisin needs it for the sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת",
+      "rationale": "Literally 'under' — 'hap long' (underneath) all the heavens; kept the spatial picture."
+    }
+  ],
+  "translation": "Long dispela de, mi stat givim ⟨את⟩ bikpela pret bilong yu na fraet bilong yu long pes bilong ol manmeri ol i stap hap long olgeta heven, olsem: ol bai harim toktok bilong yu, na bai ol guria na kirap nogut tru long pes bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "178bdde8ee6875d4d14ba4b3fa87ab88862c1bb49b28e4c71c37ff731cda0a6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/2\/25-28.1792349724574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אחל",
+      "gloss": "mi stat"
+    },
+    {
+      "surface": "תת",
+      "gloss": "givim"
+    },
+    {
+      "surface": "פחדך",
+      "gloss": "bikpela pret bilong yu"
+    },
+    {
+      "surface": "ויראתך",
+      "gloss": "na fraet bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "bai harim"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "toktok bilong yu"
+    },
+    {
+      "surface": "ורגזו",
+      "gloss": "bai ol guria"
+    },
+    {
+      "surface": "וחלו",
+      "gloss": "na kirap nogut tru"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "long pes bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:24.575555654Z",
+  "model": "glm-5.3"
+}

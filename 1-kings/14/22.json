@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mekim bel bilong em i painim",
+      "rationale": "ויקנאו — 'provoked Him to jealousy'; literally 'made Him jealous\/zealous'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "olgeta samting we ol papa bilong ol i bin wokim",
+      "rationale": "מכל אשר עשו אבתם read as 'more than all their fathers did' (KJV) vs 'with all that their fathers did' (YLT); I follow the comparative sense."
+    }
+  ],
+  "translation": "Na Yehuda i wokim ol samting nogut long ai bilong Yahwe, na ol i mekim bel bilong em i painim ⟨את⟩ ol long olgeta olgeta samting we ol papa bilong ol i bin wokim, long ol sin ol i bin wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cfb75b040cc44eb66a820c664b6ae3386fedad67c4b6a69c1544477fe06a5426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/14\/21-24.1792353054453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na Yehuda i wokim"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": ""
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "na ol i mekim bel bilong em i painim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i bin wokim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ol papa bilong ol"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "long ol sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "i bin wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:54.454750033Z",
+  "model": "glm-5.3"
+}

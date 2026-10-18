@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאלהים",
+      "rationale": "'You will be Elohim to him' — rendered as God, or 'as God \/ in God's stead \/ like God' (spokesman-representative); TPI keeps Elohim undetermined rather than adding olsem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והיה הוא יהיה ... ואתה תהיה",
+      "rationale": "Chiasm-like pairing of היה verbs and pronouns: 'he—he will be to you a mouth; you—you will be to him Elohim'; TPI keeps em-em \/ yu-yu emphasis."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "God's instruction addresses Moses directly (second-person promises throughout vv.15-16)."
+    }
+  ],
+  "translation": "Na em bai tok long nem bilong yu long ol manmeri; na em, em bai kamap maus bilong yu, na yu, yu bai kamap Elohim bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/13-16.1792347408388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "na em bai tok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "maus"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yu bai kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:48.389995114Z",
+  "model": "glm-5.3"
+}

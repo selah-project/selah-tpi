@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 29:8",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלומותיכם ... אשר אתם מחלמים",
+      "rationale": "KJV 'dreams which ye cause to be dreamed' vs reading the suffixes as 'their dreams which they dream about you' — Hebrew suffixes are ambiguous; suffixes rendered as 'yu ol' following the majority reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man bilong skelim ol mak",
+      "rationale": "קוסם is a diviner\/soothsayer; 'skelim ol mak' keeps the picture of reading lots or omens."
+    },
+    {
+      "kind": "you",
+      "subject": "to the exiles",
+      "rationale": "Direct negative-imperative address to the exiles concerning their own prophets and dreamers."
+    }
+  ],
+  "translation": "Long wanem, olsem Yahwe Tsebaot, Elohim bilong Yisrael, i tok: Ol profet bilong yu ol we i stap namel long yu ol, na ol man bilong skelim ol mak bilong yu ol, ol i no ken givim giaman long yu ol; na yu ol no ken harim long ol drim bilong yu ol, we yu ol yet i wokim ol drim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1af612c01df6bd153c36ede63f58f99bbb5d6e39210c23582630a0668df099a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/29\/5-8.1792355456408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ישיאו",
+      "gloss": "ol i givim giaman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "ol profet bilong yu ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "i stap namel long yu ol"
+    },
+    {
+      "surface": "וקסמיכם",
+      "gloss": "na ol man bilong skelim ol mak bilong yu ol"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "yu ol harim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "חלמתיכם",
+      "gloss": "ol drim bilong yu ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yu ol yet"
+    },
+    {
+      "surface": "מחלמים",
+      "gloss": "i wokim ol drim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:30:56.409305006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפליא עצה",
+      "rationale": "Hifil of פלא: either 'he made the counsel wonderful' (active, YHWH acting) or 'his counsel is wonderful' (KJV\/JPS read as adjective); verbs lack explicit subject."
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "תושיה",
+      "rationale": "tushiya — rare word, 'sound wisdom\/abundance of counsel', found only in poetic wisdom contexts (Job, Proverbs, Isaiah)."
+    }
+  ],
+  "translation": "Dispela tu i kam aut ⟨long⟩ Yahwe Tsebaot; em i mekim ⟨את⟩ plan i kamap samting i nogut tru, em i mekim olgeta save i kamap bikpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "45a6cf0158123e7eed77e3150858c3d395ee7ff30987ead64115350d17d0d405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/28\/29-29.1792354231597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dispela"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "i kam aut"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "i mekim i kamap samting i nogut tru"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨את⟩ plan",
+      "marks": "plan"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "i mekim i kamap bikpela tru"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "olgeta save"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:31.597945404Z",
+  "model": "glm-5.3"
+}

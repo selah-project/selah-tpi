@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשה תעשה · יכל תוכל",
+      "rationale": "Infinitive-absolute doubling 'wokim bai yu wokim' — rendered as 'olgeta … bai yu wokim', the doubling rhythm is lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu gutpela man",
+      "rationale": "Tok Pisin needs a predicate noun; Hebrew ברוך is a passive participle with no copula."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם · וגם",
+      "rationale": "'also\/both' rendered as 'olgeta' with the doubled verb, since Tok Pisin has no clean 'both…and' pair."
+    }
+  ],
+  "translation": "Na Saul i tokim David: Yu gutpela man, pikinini man bilong mi David; bai yu wokim olgeta samting, na bai yu inapim olgeta. Na David i go long rot bilong en, na Saul i go bek long ples bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "155e0c5822280e42c6b218995d338b3167236c805af7438c9ed4bbe456cb05a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/26\/25-25.1792352002476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yu gutpela man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bai yu wokim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "inapim"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "bai yu inapim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "long rot bilong en"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Saul"
+    },
+    {
+      "surface": "שב",
+      "gloss": "i go bek"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "long ples bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:22.477341627Z",
+  "model": "glm-5.3"
+}

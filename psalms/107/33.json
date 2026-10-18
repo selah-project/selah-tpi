@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "namba",
+      "rationale": "נהרות em i ol bikpela wara\/waraples, Tok Pisin i no gat wanpela tok klia; namba em i wara bilong ples i gat nem"
+    },
+    {
+      "kind": "alternative",
+      "subject": "graun hangre bilong wara",
+      "rationale": "צמאון — 'ples i hangre long wara'; KJV 'dry ground' i lusim piksa bilong hangre"
+    }
+  ],
+  "translation": "Em i putim ol wara bilong ol namba taim i kamap graun wail, na ol ples wara i kamap long graun hangre bilong wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/33-36.1792358997868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ol namba"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "i kamap graun wail"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "na ol ples wara i kamap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "long graun hangre bilong wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:57.870502205Z",
+  "model": "glm-5.3"
+}

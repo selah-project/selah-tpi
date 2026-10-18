@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb ישב has no explicit subject; Tok Pisin needs wanpela ⟨em⟩ before the participle chain."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "כֶּסֶד rendered by sound khesed, not by 'marimari', per discipline table."
+    }
+  ],
+  "translation": "Na long khesed ol i wokim kamap tron, na wanpela ⟨em⟩ i save sindaun long en long tru, long haus sel bilong David, em i skelim kot na em i painim pasin bilong skelim, na em i kwik long tsedek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/16\/5-8.1792354120254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "na ol i wokim kamap"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "long khesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na em i save sindaun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "long tru"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "long haus sel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "em i skelim kot"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "na em i painim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pasin bilong skelim"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "na em i kwik"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:40.255403278Z",
+  "model": "glm-5.3"
+}

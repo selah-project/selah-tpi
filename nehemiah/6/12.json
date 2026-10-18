@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 6:12",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim mani",
+      "rationale": "Hebrew שכרו is a single verb 'hired him'; Tok Pisin needs the phrase 'baim em wantaim mani' for one Hebrew word."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים שלחו",
+      "rationale": "'Elohim had not sent him' — some read אלהים here as 'a god\/diviner' (one of many), but the plain reading is the true God did not send Shemayia."
+    }
+  ],
+  "translation": "Na mi lukluk gut na luk: Elohim i no salim ⟨את⟩ em, long wanem em i autim tok profet agensim mi, bilong olsem Toviya na Sanbalat i baim em wantaim mani.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/6\/9-12.1792361578093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכירה",
+      "gloss": "Na mi lukluk gut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "salim ⟨את⟩ em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הנבואה",
+      "gloss": "tok profet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "em i autim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "agensim mi"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "Toviya"
+    },
+    {
+      "surface": "וסנבלט",
+      "gloss": "Sanbalat"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "i baim em wantaim mani"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:58.095145582Z",
+  "model": "glm-5.3"
+}

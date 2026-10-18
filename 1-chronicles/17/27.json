@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 17:27",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברכת \/ ומברך",
+      "rationale": "Active\/passive pair of same root — 'you blessed and it is blessed' — chiasm of divine permanence"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew passive participle is verbless"
+    }
+  ],
+  "translation": "Na nau, yu laikim tru bilong givim blessing ⟨את⟩ haus bilong wokman bilong yu, inap em i stap olgeta taim long pes bilong yu; bilong wanem yu, Yahwe, yu bin givim blessing, na em ⟨i⟩ gat blessing olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/17\/25-27.1792362096164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "הואלת",
+      "gloss": "yu laikim tru"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "bilong givim blessing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong wokman bilong yu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bilong wokman bilong yu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "inap em i stap"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "long pes bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "yu bin givim blessing"
+    },
+    {
+      "surface": "ומברך",
+      "gloss": "na em i gat blessing"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:36.165849592Z",
+  "model": "glm-5.3"
+}

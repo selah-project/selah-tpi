@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gol klin",
+      "rationale": "כתם em i gol we ol i karim i kam stret long hol gol, ol i no wokim long wanpela pasin — mi givim 'gol klin'"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem na",
+      "rationale": "Hebrew i no gat 'olsem na' — ves i stat long tupela piksa, na mi putim ⟨em⟩ bilong joining mak"
+    },
+    {
+      "kind": "elision",
+      "subject": "מוכיח חכם",
+      "rationale": "Hebrew i tok 'man i save i skelim' — nomo, Tok Pisin i needim ⟨i⟩ na ⟨em⟩ long pasin bilong sentence"
+    }
+  ],
+  "translation": "Nusring bilong gol, na hanapus bilong gol klin — olsem na man i save, i skelim ⟨em⟩ long arua i harim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "05f38f3d6168f3b4e03b21204d09434596d29295cfe61bf8489ec2e686e28653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/12-12.1792363390541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "nusring"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "na hanapus"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "gol klin"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "i skelim"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "man i save"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "arua"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "i harim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:10.541646113Z",
+  "model": "glm-5.3"
+}

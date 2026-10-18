@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ston bilong traut",
+      "rationale": "הגורל i min ol liklik ston ol man i usim long traut — mi ritim dispela piksa, i no wanpela tok tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hibru i no tok husat i trautim; Tok Pisin i nidim man bilong holim pasin"
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטו",
+      "rationale": "Ol tanim tok i no wankain: 'disposing' (KJV), 'judgment' (YLT), 'decision' (BSB) — mi usim 'pasin bilong skelim'"
+    }
+  ],
+  "translation": "Long bel bilong ✋ man i trautim ⟨את⟩ ston bilong traut, tasol olgeta pasin bilong skelim bilong en em i bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/33-33.1792359541364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "long bel bilong man"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "i trautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ston bilong traut"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ston bilong traut"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "tasol ... bilong Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "pasin bilong skelim bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:01.365018333Z",
+  "model": "glm-5.3"
+}

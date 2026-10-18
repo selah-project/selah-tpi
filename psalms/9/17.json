@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hapen bilong han",
+      "rationale": "כף i minim wanpela hapen bilong han (kav), tasol Tok Pisin i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "i kamap save",
+      "rationale": "נודע — pasif: 'Yahwe i mekim long ol man i save long em' o 'Yahwe i wokim kot, ol man i lukim'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגיון סלה",
+      "rationale": "tupela mak bilong miusik i stap wantaim — Higaion (wokim tingting\/bren) na Sela (bosim)"
+    }
+  ],
+  "translation": "Yahwe i kamap save long em i wokim kot; long wok bilong ol hapen bilong han bilong em, man nogut i kapsait long tulait. Higaion. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/17-20.1792357925248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "i kamap save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "long wok"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ol hapen bilong han bilong em"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "i kapsait long tulait"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:05.249448694Z",
+  "model": "glm-5.3"
+}

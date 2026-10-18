@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בכסלך",
+      "rationale": "khesel is the loin\/fatness, seat of confidence; versions say 'confidence', Tok Pisin keeps the body part 'hip'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "pronoun added to name Yahwe as subject of 'lukautim'"
+    }
+  ],
+  "translation": "Bikos Yahwe i stap long hip bilong yu, na em i lukautim lukaut bilong yu long net.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/25-28.1792359393742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "long hip bilong yu"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "na em i lukautim"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lukaut bilong yu"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "long net"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:33.743695703Z",
+  "model": "glm-5.3"
+}

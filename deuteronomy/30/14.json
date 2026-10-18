@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (tingting na laik), not the body-organ sense."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Direct address to Israel: the word is in your mouth and heart."
+    }
+  ],
+  "translation": "Tasol tok em i klostu tumas long yu — long maus bilong yu na long bel bilong yu — bilong wokim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/30\/13-16.1792350319125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tautol"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "klostu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "long maus bilong yu"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "na long bel bilong yu"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "bilong wokim em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:19.126682507Z",
+  "model": "glm-5.3"
+}

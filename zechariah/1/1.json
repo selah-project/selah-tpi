@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dating",
+      "rationale": "Verse fixes the oracle by month and regnal year of Darius."
+    },
+    {
+      "kind": "addition",
+      "subject": "seken",
+      "rationale": "שתים is a bare numeral 'two'; 'seken' (ordinal) supplied to fit Tok Pisin year-counting."
+    }
+  ],
+  "translation": "Long mon namba et, long seken yia bilong Daryaves, tok bilong Yahwe i kamap long Zekaraya, pikinini bilong Berekya, pikinini bilong Ido, profet, i tok olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2a5c8d6ebcb24ff24d03da470e0d9c14676fdf9325c862b8c5d0c4708b2706c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/1\/1-4.1792357621602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "long mon"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "namba et"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "long yia bilong"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "seken"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Daryaves"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekaraya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "Berekya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Ido"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:01.602668138Z",
+  "model": "glm-5.3"
+}

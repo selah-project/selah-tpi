@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census totals",
+      "rationale": "Verse reports armed-men counts: Israel 800,000, Judah 500,000."
+    },
+    {
+      "kind": "crux",
+      "subject": "800,000 \/ 500,000",
+      "rationale": "1 Chr 21:5 gives Israel 1,100,000 and Judah 470,000; the totals famously disagree."
+    }
+  ],
+  "translation": "Na Yoab i givim ⟨את⟩ namba bilong kaunim ol man long king; na Yisrael i kamap et handet tausen man i gat strong, ol i pulim aut bainat, na ol man bilong Yuda faiv handet tausen man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/24\/9-12.1792352635869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na i givim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namba"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "namba"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "bilong kaunim ol man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "et"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strong"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "pulim aut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faiv"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:55.870541068Z",
+  "model": "glm-5.3"
+}

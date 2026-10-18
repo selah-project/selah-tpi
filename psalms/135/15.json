@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker required; Hebrew verbless clause"
+    }
+  ],
+  "translation": "Ol piksa bilong ol gens i silva na gol, wok bilong ol han bilong man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/13-16.1792359200481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Ol piksa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bilong ol gens"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "i silva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na gol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bilong ol han"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:20.481823586Z",
+  "model": "glm-5.3"
+}

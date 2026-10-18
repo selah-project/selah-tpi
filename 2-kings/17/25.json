@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא יראו את יהוה",
+      "rationale": "'no pret long Yahwe' — Heb 'fear YHWH' i minim olsem respek na lotuim, i no pret nating tasol."
+    },
+    {
+      "kind": "elision",
+      "subject": "והיו הרגים בהם",
+      "rationale": "Heb i tok 'ol i kamap man ol i kilim' — Tok Pisin i putim 'kirap' bilong skelim wok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "some of them",
+      "rationale": "KJV\/ASV\/JPS i addim 'some'; Hebrew i tok 'kilim long ol' tasol, mi no addim."
+    }
+  ],
+  "translation": "Na i kamap, long stat bilong ol i stap long hap, ol i no pret long ⟨את⟩ Yahwe; olsem na Yahwe i salim ⟨את⟩ ol laion long namel bilong ol, na ol i kirap kilim ol man long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d51b58fdc7b9ac26e707ab9c755f7613ad643c8c1f315d5bc327fdbd4d369f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/25-28.1792353644383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "long stat bilong"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long namel bilong ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol laion"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "ol laion"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na ol i kirap"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kilim ol man"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:44.384712135Z",
+  "model": "glm-5.3"
+}

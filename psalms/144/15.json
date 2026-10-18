@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew participle שיהוה אלהיו has no copula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "Repetition of the beatitude formula frames the psalm's conclusion; parallelism kept."
+    }
+  ],
+  "translation": "Ol man i orait long ol manmeri weh ol i stap olsem; ol man i orait long ol manmeri weh Yahwe ⟨i⟩ Elohim bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/144\/13-15.1792359307668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol man i orait long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "weh ol i stap olsem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ol man i orait long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "weh Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:07.669513652Z",
+  "model": "glm-5.3"
+}

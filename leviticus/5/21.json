@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש em i win\/breth\/lif, Tok Pisin i no gat wanpela tok stret, mi usim man"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעלה מעל",
+      "rationale": "Hibru i ripitim wankain rod (verb + noun), Tok Pisin i no inap holim"
+    }
+  ],
+  "translation": "Sapos wanpela man i mekim sen, na i goterim pasin bilong giaman long Yahwe, na i tok giaman long man bilong en, long wanpela samting man i livim belo long em, o long wanpela sen bilong han, o long rausim nating, o i stopim ⟨את⟩ man bilong en;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/21-24.1792348346675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "i mekim sen"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i goterim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pasin bilong giaman"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "na i tok giaman"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "long man bilong en"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "long samting i belo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "long sen bilong"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "long rausim nating"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "i stopim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man bilong en"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:26.676160856Z",
+  "model": "glm-5.3"
+}

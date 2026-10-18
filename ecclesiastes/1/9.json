@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gen",
+      "rationale": "Tok Pisin i nidim 'gen' long hia; Hibru i no gat tok bilong en"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "Samtaim ol tanim olsem 'wanem i bin stap?' (quesen), samtaim olsem 'samting we i bin stap' (exclamatory) — mi usim pasin luksave"
+    }
+  ],
+  "translation": "Samting i bin stap, em bai i kamap gen; na samting ol i bin wokim, em bai ol i wokim gen; na i no gat wanpela niupela samting aninit long san.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/9-12.1792360713537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "i bin stap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na olsem"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ol i bin wokim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "bai ol i wokim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "niupela samting"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:33.538078632Z",
+  "model": "glm-5.3"
+}

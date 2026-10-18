@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tasol⟩",
+      "rationale": "Adversative contrast supplied; Hebrew juxtaposes the two clauses without a conjunction."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדברו \/ ישיח",
+      "rationale": "Their 'arranging words against' vs the servant's 'musing' — speech as attack vs speech as meditation, a designed contrast."
+    }
+  ],
+  "translation": "Olsem tu ol bikman i sindaun na long mi ol i toksait; ⟨tasol⟩ save man bilong yu i tingting deep long ol lo bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/21-24.1792359110494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ol i sindaun"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ol bikman"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ol i toksait"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "save man bilong yu"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "i tingting deep"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "long ol lo bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:50.494973711Z",
+  "model": "glm-5.3"
+}

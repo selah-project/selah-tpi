@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צעה",
+      "rationale": "Verb צעה occurs only here in the Tanakh; shape kept as 'man i wokabaut nogut' (one who tips\/staggers along)."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהר צעה",
+      "rationale": "Read as 'the stooping\/staggering one hastens (to be freed)' vs KJV 'the captive exile'; participle versus active verb is disputed."
+    }
+  ],
+  "translation": "Man i wokabaut nogut i hariap pinis long kisim fri, na em bai no dai long hol long graun, na bret bilong en bai no lus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/51\/13-16.1792354702883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "hariap pinis"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "man i wokabaut nogut"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "long kisim fri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bai dai"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "long hol long graun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "bai lus"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "bret bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:22.884668377Z",
+  "model": "glm-5.3"
+}

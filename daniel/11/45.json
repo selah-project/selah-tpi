@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "daniel 11:45",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפדנו",
+      "rationale": "אַפֶּדֶן (palace-tent) i stap long Tanakh long dispela ples tasol; ol translation i no gat wanpela tok stret."
+    },
+    {
+      "kind": "addition",
+      "subject": "tupela",
+      "rationale": "ימים em i dual — tupela solwara; Tok Pisin i nidim namba bilong skelim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבי",
+      "rationale": "צְבִי i min 'splendor\/beauty', olsem 'kaikaiwara' (samting i sore long ai) — KJV 'glorious'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד קצו",
+      "rationale": "'kamap until end bilong en' — em i min dai bilong king o ples i no klia; JPS 'come to his end'."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela man",
+      "rationale": "עוזר em i wanpela tok tasol; Tok Pisin i nidim 'man i helpim'."
+    }
+  ],
+  "translation": "Na em bai planim ⟨את⟩ ol sel bilong haus manmeri bilong en namel long tupela solwara, long maunten bilong kaikaiwara, olsem holi maunten; na em bai kamap until end bilong en, na i no gat wanpela man i helpim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f2b43b912da8bf9b118bfe046d11ba33e48476949f6cd9fbcbf2705724c2445a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/11\/45-45.1792361290812.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטע",
+      "gloss": "na em bai planim"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ol sel"
+    },
+    {
+      "surface": "אפדנו",
+      "gloss": "bilong haus manmeri bilong en"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tupela solwara"
+    },
+    {
+      "surface": "להר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "bilong kaikaiwara"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na em bai kamap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "קצו",
+      "gloss": "end bilong en"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "man i helpim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T22:08:10.813082058Z",
+  "model": "glm-5.3"
+}

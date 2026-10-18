@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חללי חרב \/ חרב",
+      "rationale": "repetition of 'bainat' frames the verse — slain-by-sword, sword given — rhetorical chain lost in Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "pronoun supplied; Hebrew verb form (feminine) implies 'she\/Egypt'"
+    }
+  ],
+  "translation": "Namel long ol man ol i holim pinis wantaim bainat, ol bai pundaun; bainat i bin givim long ⟨em⟩; pulim ⟨את⟩ i go, wantaim olgeta planti man bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/32\/17-20.1792356609823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ol man ol i holim pinis"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wantaim bainat"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ol bai pundaun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "i bin givim"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "pulim i go"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "em na planti man bilong en"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "planti man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:09.825197734Z",
+  "model": "glm-5.3"
+}

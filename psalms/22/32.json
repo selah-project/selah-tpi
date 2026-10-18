@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי עשה",
+      "rationale": "\"Em i mekim pinis\" — em i mekim wanem? Sampela i ting em i tok save bilong pait ol i winim pinis, sampela i ting em i tok olgeta samting Yahwe i mekim"
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim ⟨i⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hibru verb i no gat wanem samting em i mekim; Tok Pisin i nidim ⟨em⟩"
+    }
+  ],
+  "translation": "Ol bai kam, na ol bai tokaut tsedek bilong em long wanpela lain manmeri we bai ⟨i⟩ kamap yet, bikos em i mekim ⟨em⟩ pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/29-32.1792358014939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ol bai kam"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "na ol bai tokaut"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedek bilong em"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "long wanpela lain manmeri"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "we bai kamap yet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i mekim pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:34.940378539Z",
+  "model": "glm-5.3"
+}

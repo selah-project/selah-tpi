@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חכם",
+      "rationale": "'wise' (ylt) vs 'subtle\/shrewd' (kjv\/asv) — the same word elsewhere praises wisdom; here it hints at cunning"
+    },
+    {
+      "kind": "addition",
+      "subject": "i gat",
+      "rationale": "Hebrew lacks verb 'have'; Tok Pisin requires i gat"
+    }
+  ],
+  "translation": "Na Amnon i gat wanpela poro, nem bilong em Yonadab, pikinini bilong Shima brata bilong David; na Yonadab em i man save longpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/13\/1-4.1792352363100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "Na Amnon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "i gat wanpela poro"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Shima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "na Yonadab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "em i man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "save"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "longpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T19:39:23.101529465Z",
+  "model": "glm-5.3"
+}

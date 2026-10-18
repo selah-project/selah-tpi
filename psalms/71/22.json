@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong mi",
+      "rationale": "אלהי — construct 'Elohim bilong mi', mi bin putim 'mi' wantaim nem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gita",
+      "rationale": "נבל — ol man i tok em i wanpela string instrumen; Tok Pisin i no gat nem, mi usim 'gita'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמתך",
+      "rationale": "Stretpela tok bilong yu — ol tanim i 'truth' o 'olgutpela pasin' (faithfulness)"
+    }
+  ],
+  "translation": "Mi tu, bai mi tankim yu wantaim ol gita bilong stretpela tok bilong yu, Elohim bilong mi; bai mi salim singsing long yu wantaim kinora, Yahwe i Holi, bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/21-24.1792358455550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mi tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "bai mi tankim yu"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "gita"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "stretpela tok bilong yu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bai mi salim singsing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wantaim kinora"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "i Holi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:55.551720894Z",
+  "model": "glm-5.3"
+}

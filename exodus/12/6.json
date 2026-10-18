@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "namel long tupela taim bilong san i go daun",
+      "rationale": "בין הערבים 'between the two evenings' is an idiom for dusk; literal dual kept with 'tupela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kapsaitim blut bilong",
+      "rationale": "ושחטו is simply 'slaughter'; 'kapsaitim blut' spells out the act since Tok Pisin lacks a plain slaughter verb"
+    },
+    {
+      "kind": "measurement",
+      "subject": "foatinpela-pela de bilong mun dispela",
+      "rationale": "Verse fixes a dated count: the fourteenth day of the month"
+    }
+  ],
+  "translation": "Na bai em i stap long yu ol olsem samting bilong lukautim gut, inap long foatinpela-pela de bilong mun dispela; na olgeta mani bilong ol manmeri bilong kongregesen bilong Yisrael bai kapsaitim ⟨את⟩ em namel long tupela taim bilong san i go daun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/5-8.1792347538882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na bai em i stap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "olsem samting bilong lukautim gut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bilong mun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "bai kapsaitim blut bilong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta mani bilong"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bilong kongregesen bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tupela taim bilong san i go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:58.883561579Z",
+  "model": "glm-5.3"
+}

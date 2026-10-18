@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol man bilong pait bilong en",
+      "rationale": "צבאו i gat pronom bilong em (-ו), Tok Pisin i laikim 'bilong en'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaunim",
+      "rationale": "פקד em i kaunim ol man long censas — namba: 54,400"
+    }
+  ],
+  "translation": "Na ol man bilong pait bilong en, na ol ol i kaunim — foapela ten na faivpela tausen, na foapela handet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/2\/5-8.1792348905319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ol man bilong pait bilong en"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "na ol ol i kaunim"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ten na faivpela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na foapela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:41:45.320534582Z",
+  "model": "glm-5.3"
+}

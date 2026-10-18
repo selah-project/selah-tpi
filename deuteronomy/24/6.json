@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רכב",
+      "rationale": "'Rider' (the upper stone that rides on the lower, so YLT) versus 'upper millstone' (KJV\/JPS); I follow the millstone reading as most fit the pair רחים."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש here is livelihood\/life itself — taking the millstones takes the means of grinding daily bread, i.e. a life."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רכב as millstone",
+      "rationale": "This sense of רכב (upper millstone) occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "No ken tekem tupela ston bilong penim graun, o ston antap bilong en, long sekuriti, bilong wanem, em i wanpela man i tekem laip long sekuriti.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/24\/5-8.1792350203430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "No ken tekem"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "long sekuriti"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "tupela ston bilong penim graun"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "o ston antap bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laip"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "i tekem long sekuriti"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:23.431997059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק em i man bilong tsedek — D2 i laikim tok 'tsedek', i no 'stretpela man' tasol."
+    },
+    {
+      "kind": "alternative",
+      "subject": "inap mun i pinis",
+      "rationale": "בלי ירח — 'inap mun i no stap moa'; YLT i tok 'till the moon is not'."
+    }
+  ],
+  "translation": "Long ol de bilong em, tsedek bai gro kukum, na planti pis, inap mun i pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/5-8.1792358487273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "bai gro kukum"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "long ol de bilong em"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na planti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "i pinis"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:27.274413983Z",
+  "model": "glm-5.3"
+}

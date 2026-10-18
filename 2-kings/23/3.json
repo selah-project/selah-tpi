@@ -1,0 +1,183 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 23:3",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laif",
+      "rationale": "נפש is breath\/life-force\/throat, not an immortal 'soul'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "em i katim kontrak",
+      "rationale": "Hebrew 'cut a covenant' — from cutting animals between the pieces; Tok Pisin keeps the cutting picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "pila",
+      "rationale": "העמוד: 'pillar' (2 Kgs 11:14) vs 'platform' (JPS) — the standing place in the temple court"
+    }
+  ],
+  "translation": "Na king i sanap long pila, na em i katim ⟨את⟩ kontrak pastaim long Yahwe — bilong wokabaut bihain long Yahwe, na bilong lukautim ol komand bilong em, na ⟨את⟩ ol testimenti bilong em, na ⟨את⟩ ol lo bilong em, wantaim olgeta bel na wantaim olgeta laif — bilong kirapim ⟨את⟩ ol tok bilong dispela kontrak, ol ol i raetim long dispela buk; na olgeta manmeri i sanap long kontrak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7921ae9ccd06a74b3fb2508331a18fb512dc07fafbf1eca7eea7c32a9636a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/23\/1-4.1792353780730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pila"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "na em i katim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kontrak"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bilong wokabaut"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "na bilong lukautim"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ol komand bilong em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol testimenti bilong em"
+    },
+    {
+      "surface": "עדותיו",
+      "gloss": "ol testimenti bilong em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol lo bilong em"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ol lo bilong em"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na wantaim olgeta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laif"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "bilong kirapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "bilong kontrak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "ol ol i raetim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "buk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na i sanap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "long kontrak"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:00.732591273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taim",
+      "rationale": "Hebrew uses participle 'she is coming' for temporal clause; Tok Pisin needs 'taim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "doa bilong haus",
+      "rationale": "סף is the threshold\/door-sill of the house"
+    }
+  ],
+  "translation": "Na meri bilong Yaravam i kirap, i go, na i kamap long Tirtsah; taim ⟨em⟩ i kamap long doa bilong haus, pikinini man i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/14\/17-20.1792353041430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "i kamap long"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "Tirtsah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "באה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "long doa bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "מת",
+      "gloss": "i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:41.430752582Z",
+  "model": "glm-5.3"
+}

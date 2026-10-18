@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 20:23",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i bosim",
+      "rationale": "Hebrew is a nominal clause without a verb; Tok Pisin predicate supplies 'i bosim' (over\/in charge of)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרי והפלתי",
+      "rationale": "Kerethites and Pelethites: foreign bodyguard troops, or read as 'executioners and runners'."
+    }
+  ],
+  "translation": "Na Yoav i bosim olgeta ami bilong Yisrael; na Benaya pikinini bilong Yehoyada i bosim ol Kret na ol Pelet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f23f03b26b43d6965d91580b567b05980f41a1d782a80f5b67c164994f2f107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/20\/21-24.1792352501001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "na Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "na Benaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "ol Kret"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na i bosim"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "ol Pelet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:41:41.003371685Z",
+  "model": "glm-5.3"
+}

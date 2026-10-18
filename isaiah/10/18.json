@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נסס",
+      "rationale": "Verb נסס occurs only here in the Tanakh; rendered as wasting sickness, 'going down'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמסס נסס",
+      "rationale": "KJV reads 'as when a standard-bearer fainteth' (repointing massōs nōsēs); JPS 'as when a sick man wasteth away' — the latter followed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש is life-force\/breath, not 'soul' in a later sense; Tok Pisin 'laip' keeps the life reading."
+    }
+  ],
+  "translation": "Na ⟨em⟩ bai pinisim glori bilong bus bilong en, na bilong gaden frut bilong en, long laip i go inap long mit; na bai i kamap olsem man i sot nogut long sik.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/10\/17-20.1792354033029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "bilong bus bilong en"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "na bilong gaden frut bilong en"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "bai pinisim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "olsem man i sot nogut long sik"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "i wok long go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:07:13.030477840Z",
+  "model": "glm-5.3"
+}

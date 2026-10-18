@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראת יהוה שנאת רע",
+      "rationale": "Constructed as apposition: 'fear of Yahwe [is] hatred of evil' vs reading 'fear of Yahwe hates evil' (Wisdom speaking)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת … שנאתי",
+      "rationale": "Verse opens and closes with the same root שנא (hate), an inclusio lost in translation"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨olgeta⟩",
+      "rationale": "Object pronoun added; Hebrew verb שנאתי carries first-person suffix alone"
+    }
+  ],
+  "translation": "Trembel bilong Yahwe em i les long ol samting nogut; proud yet, na strongpela proud, na rot nogut, na maus i save tanim tok — mi les long ⟨olgeta⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/8\/13-16.1792359458023.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "trembel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "les long"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "proud yet"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "na strongpela proud"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na rot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "na maus"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "i save tanim tok"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi les long ⟨olgeta⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:38.024234243Z",
+  "model": "glm-5.3"
+}

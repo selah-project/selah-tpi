@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "long haus bilong king",
+      "rationale": "בית המלך read as 'in the king's house' (KJV 'beside\/at') — location of Athaliah's death."
+    }
+  ],
+  "translation": "Na olgeta manmeri bilong graun i amamas, na siti i stap kalm; na ⟨את⟩ Atalya ol i kilim i dai long bainat, long haus bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/11\/17-20.1792353536157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na siti"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "i stap kalm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ol i kilim i dai"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:56.158901402Z",
+  "model": "glm-5.3"
+}

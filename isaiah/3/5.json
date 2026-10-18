@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש באיש ואיש ברעהו",
+      "rationale": "Triple repetition of 'man' builds chiasm of breakdown, kept as repeated 'man'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "soim het",
+      "rationale": "ירהבו literally 'act insolently\/be bold'; Tok Pisin idiom 'soim het' carries the insolence."
+    }
+  ],
+  "translation": "Na ol manmeri bilong graun bai wokim strong long olgeta — man long man, na man long poro bilong en; ol yangpela man bai soim het long ol olpela man, na ol man bilong daunbilo long ol man bilong biknem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/3\/5-8.1792353831033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "bai wokim strong long olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri bilong graun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "long man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na man"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "long poro bilong en"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "bai soim het"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ol yangpela man"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "long ol olpela man"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "na ol man bilong daunbilo"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "long ol man bilong biknem"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:51.034320639Z",
+  "model": "glm-5.3"
+}

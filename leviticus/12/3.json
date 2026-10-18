@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew has no explicit agent; plural agent supplied for the passive verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "eighth day",
+      "rationale": "Precise day-count for circumcision."
+    }
+  ],
+  "translation": "Na long etpela de, ol bai surkatim skin bilong en we i no katim yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "31d2ae8262accf9607d7f9426d2efad5fd1cf63a7ae9416d00a61694daa2426d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/12\/1-4.1792348443572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "na long de"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "etpela"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ol bai surkatim"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "skin"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "bilong en we i no katim yet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:03.573169205Z",
+  "model": "glm-5.3"
+}

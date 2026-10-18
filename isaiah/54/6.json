@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי תמאס",
+      "rationale": "KJV\/ASV 'taim yu bin rausim' (past) vs JPS 'ken man i rausim em?' (kesen); mi bihainim pasin bilong past."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i win\/breath\/Spirit — Tok Pisin mi holim 'ruak' olsem wanpela tok."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "Yahwe i toktok stret long meri bilong en."
+    }
+  ],
+  "translation": "Bikose Yahwe i singautim yu olsem meri i lusim yet na i gat pen long ruak, olsem meri bilong yangpela taim taim man i no laikim ⟨em⟩ moa — Elohim bilong yu i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/54\/5-8.1792354657356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "olsem meri"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "i lusim yet"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "na i gat pen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "long ruak"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "i singautim yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "na olsem meri bilong"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "yangpela taim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "man i no laikim moa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:37.357424358Z",
+  "model": "glm-5.3"
+}

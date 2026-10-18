@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש i save tok 'hait bilong breath\/wansol', Tok Pisin i tok 'laip'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר...שמר",
+      "rationale": "Wankain tok 'lukautim' i kamap tupela taim — man i lukautim maus, em i lukautim laip"
+    }
+  ],
+  "translation": "Man i lukautim ⟨את⟩ maus bilong en na ⟨את⟩ tong bilong en, em i lukautim ⟨את⟩ laip bilong en long ol bikhap trabel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/21-24.1792359624150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "lukautim"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "maus bilong en"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "na tong bilong en"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "lukautim"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ol bikhap trabel"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "laip bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:24.150953720Z",
+  "model": "glm-5.3"
+}

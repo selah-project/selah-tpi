@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא קול",
+      "rationale": "Hebrew idiom 'lift the voice' rendered as 'antapim ol nois' — crying out loudly."
+    },
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Hebrew ההוא is demonstrative 'that'; rendered as 'dispela nait'."
+    }
+  ],
+  "translation": "Na olgeta lain i antapim ⟨את⟩ ol nois bilong ol, na ol man i krai long dispela nait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dedcc3676921b5bc0bcf2a59f83cbbebef32b168255c34a6199336aeeb9d4dfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/14\/1-4.1792349168672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "i antapim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol nois bilong ol"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ol nois bilong ol"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "i krai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:46:08.672871221Z",
+  "model": "glm-5.3"
+}

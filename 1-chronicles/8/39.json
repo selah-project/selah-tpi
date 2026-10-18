@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pikinini bikpela",
+      "rationale": "בכור is firstborn; Tok Pisin 'pikinini bikpela' carries the birth-order sense."
+    },
+    {
+      "kind": "measurement",
+      "subject": "namba tu, namba tri",
+      "rationale": "Ordinal counting of sons in the register."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Eshek, brata bilong en: Ulam pikinini bikpela bilong en, Yeush namba tu, na Elifelet namba tri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "661acc558170f2df8631ba40761ceec7f39ea65341f8212b3c296d8b0d68141a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/8\/37-40.1792361929827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ol pikinini bilong"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "Eshek"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Ulam"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "pikinini bikpela bilong en"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "השני",
+      "gloss": "namba tu"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "na Elifelet"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "namba tri"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:49.828960099Z",
+  "model": "glm-5.3"
+}

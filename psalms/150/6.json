@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשמה",
+      "rationale": "הנשמה em i 'win\/pulim win bilong laip' — olse 'spirit' em i tok bilong narapela senis."
+    },
+    {
+      "kind": "addition",
+      "subject": "samting i gat",
+      "rationale": "Hibru i tok 'olgeta win bilong laip' tasol; Tok Pisin i laikim 'samting' long holim pasin."
+    },
+    {
+      "kind": "invitation",
+      "subject": "sinangim Ya",
+      "rationale": "Hallelu-Ya em i singaut long ol manmeri long mekim wanem — kolim ol."
+    },
+    {
+      "kind": "you",
+      "subject": "long ol manmeri olgeta",
+      "rationale": "הללו יה i toktok direkt long ol manmeri bilong sinangim."
+    }
+  ],
+  "translation": "Olgeta samting i gat win bilong laip, ol bai sinangim Ya; sinangim Ya!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/150\/5-6.1792359291259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "samting i gat win bilong laip"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ol bai sinangim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sinangim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:51.260140995Z",
+  "model": "glm-5.3"
+}

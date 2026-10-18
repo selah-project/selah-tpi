@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 30:27",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחשתי",
+      "rationale": "root נחש same as nachash\/serpent and divination: 'mi divainim' (KJV 'learned by experience', JPS 'observed the signs') — Lavan admits using divination"
+    },
+    {
+      "kind": "elision",
+      "subject": "tarry",
+      "rationale": "KJV supplies 'tarry' from context; Hebrew has no such verb here, so Tok Pisin adds none"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yakov",
+      "rationale": "Lavan directly addresses Yakov, pleading"
+    }
+  ],
+  "translation": "Na Lavan i tok long em: Sapos nau mi lukim favor long ai bilong yu — mi divainim pinis, na Yahwe i barekim mi bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/30\/25-28.1792346898047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nau"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "long ai bilong yu"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "mi divainim pinis"
+    },
+    {
+      "surface": "ויברכני",
+      "gloss": "na i barekim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:18.049026553Z",
+  "model": "glm-5.3"
+}

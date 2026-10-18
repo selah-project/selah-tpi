@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 4:6",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נאם יהוה",
+      "rationale": "ם is oracle-formula — 'Yahwe i tok' pasin bilong profet."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשר הרעתי",
+      "rationale": "Samtaim man i tanim 'ol mi bagarapim' — tupela i wan: pen bilong Espel long Babel."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואשר",
+      "rationale": "Relativ 'ol' i no gat wanpela gut Tok Pisin tok, gloss i tanim nating tasol."
+    }
+  ],
+  "translation": "Long dispela de, Yahwe i tok: bai mi kisim bung ⟨את⟩ meri i no inap wokabaut gut, na meri ol i rausim i go farpela, bai mi bungim ol; na ol meri mi givim pen long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f87565b349dc80012fa70b7aebb8aa033c465e0096602a9ea374f1e4a352b08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/4\/5-8.1792357383713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "bai mi kisim bung"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "meri i no inap wokabaut gut"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "na meri ol i rausim i go farpela"
+    },
+    {
+      "surface": "אקבצה",
+      "gloss": "bai mi bungim ol"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ol"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "mi givim pen long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:03.714442669Z",
+  "model": "glm-5.3"
+}

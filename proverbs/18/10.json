@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per D4 — feeling and thought sit in the belly in Tanakh idiom, not 'hat'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשגב",
+      "rationale": "'is set on high \/ is safe' — same root as v11's high wall; kept 'stap antap tru' for both."
+    }
+  ],
+  "translation": "Taue bilong strong em i Nem bilong Yahwe; man i stap stretpela i ran kwik ia long en, na em i stap antap tru ⟨i saf⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/18\/9-12.1792359597094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "taue bilong strong"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "i ran kwik ia"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man i stap stretpela"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "na em i stap antap tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:57.095220680Z",
+  "model": "glm-5.3"
+}

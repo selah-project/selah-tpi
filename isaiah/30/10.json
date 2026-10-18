@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol tok swit",
+      "rationale": "חלקות literally 'smoothness', rendered as flattery 'ol tok swit'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נכחות",
+      "rationale": "The plural of נכחה occurs only here in the Tanakh."
+    },
+    {
+      "kind": "you",
+      "subject": "long ol man i lukim samting",
+      "rationale": "The people's direct speech commanding the seers and visioners."
+    }
+  ],
+  "translation": "Ol i tok long ol man i lukim samting: Yupela i no ken lukim; na long ol man i lukim ol tok bilong God, ol i tok: Yupela i no ken autim stret tok long yumi; tokim yumi ol tok swit, autim ol giaman stori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/30\/9-12.1792354281294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "long ol man i lukim samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ken lukim"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "na long ol man i lukim ol tok bilong God"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "ken autim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "stret tok"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yumi"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ol tok swit"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "autim"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "ol giaman stori"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:21.294928493Z",
+  "model": "glm-5.3"
+}

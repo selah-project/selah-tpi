@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 6:18",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תהו",
+      "rationale": "Same word as Gen 1:2 'formless'; rendered 'ples nogut' (desolate waste) — the wild void where travelers vanish."
+    },
+    {
+      "kind": "crux",
+      "subject": "ילפתו",
+      "rationale": "'Turn\/twist aside' — subject ambiguous: the paths themselves wind away, or caravans turn off the paths."
+    }
+  ],
+  "translation": "Ol rot bilong pasin bilong ol i senis; ol i go antap long ples nogut, na ol i lus olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/6\/17-20.1792359926371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילפתו",
+      "gloss": "i senis \/ i go raun"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ol rot"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "bilong pasin bilong ol"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ol i go antap"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "long ples nogut we olgeta i no stap"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "na ol i lus olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:26.371833230Z",
+  "model": "glm-5.3"
+}

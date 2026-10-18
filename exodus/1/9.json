@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mipela",
+      "rationale": "ממנו 'from him\/it' rendered comparatively 'more than us', requiring the added pronoun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Lukim",
+      "rationale": "הנה is a presentative particle 'lo!\/behold', rendered as the Tok Pisin attention-marker"
+    }
+  ],
+  "translation": "Na em i tok long ol man bilong en: Lukim, ol man bilong ol pikinini Yisrael i planti, na i strong, moa long mipela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/9-12.1792347323227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol man bilong en"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "i planti"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "na i strong"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "moa long mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:23.228679374Z",
+  "model": "glm-5.3"
+}

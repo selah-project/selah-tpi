@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Hebrew הצילו has a suffixed object ('delivered him\/them'); Tok Pisin needs the pronoun made explicit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i rausim",
+      "rationale": "נצל is 'to snatch away'; Tok Pisin 'rausim' (take out\/remove) keeps the picture of being pulled from the hand."
+    }
+  ],
+  "translation": "Na Yitro i amamas long olgeta gutpela samting we Yahwe i mekim long Yisrael, we em i rausim ⟨ol⟩ long han bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/18\/9-12.1792347672634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "em i rausim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:12.635239337Z",
+  "model": "glm-5.3"
+}

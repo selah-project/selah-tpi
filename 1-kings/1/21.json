@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sleep with his fathers",
+      "rationale": "Hebrew idiom for dying, rendered 'slip wantaim ol papa bilong en'"
+    },
+    {
+      "kind": "you",
+      "subject": "Batsheba to David",
+      "rationale": "Bathsheba addresses King David directly"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man i rong",
+      "rationale": "חטאים literally 'criminals\/guilty ones', one word picture of being counted guilty"
+    }
+  ],
+  "translation": "Na sapos i kamap, taim bikman bilong mi, king, i slip wantaim ol papa bilong en, mi na pikinini man bilong mi Shelomo bai ol i skelim olsem ol man i rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/21-24.1792352661032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na sapos i kamap"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "taim ... i slip"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong en"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "mi bai kamap"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na pikinini man bilong mi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ol man i rong"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:21.032849380Z",
+  "model": "glm-5.3"
+}

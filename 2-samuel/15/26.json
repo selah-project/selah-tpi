@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 15:26",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wanem samting",
+      "rationale": "כאשר טוב em i min 'olsem wanem i gutpela' — Tok Pisin i nidim 'wanem samting' bilong mekim tok i go stret."
+    },
+    {
+      "kind": "elision",
+      "subject": "yu",
+      "rationale": "לי long יעשה לי — Tok Pisin i putim 'long mi' tasol wanpela taim, wanem, הנני i holim ples bilong man yet."
+    }
+  ],
+  "translation": "Tasol sapos em i tok olsem: Nogat, mi no laikim yu — lukim, mi stap; em ken mekim long mi wanem samting i gutpela long ai bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/15\/25-28.1792352451727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tasol sapos"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "em i tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mi no laikim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lukim, mi stap"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "em ken mekim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:51.729071442Z",
+  "model": "glm-5.3"
+}

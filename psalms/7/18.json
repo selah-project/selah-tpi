@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim tenkyu",
+      "rationale": "אודה from ידה, literally 'throw\/cast' — extended to praise; Tok Pisin 'givim tenkyu' loses the throwing root."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Elyon",
+      "rationale": "Kept the Hebrew title; a descriptive rendering 'Wanpela i stap antap olgeta' was option two."
+    }
+  ],
+  "translation": "Bai mi givim tenkyu long Yahwe olsem tsedek bilong em, na bai mi singautim singsing long nem bilong Yahwe Elyon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/7\/17-18.1792357816604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "bai mi givim tenkyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "olsem tsedek bilong em"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na bai mi singautim singsing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:16.605393043Z",
+  "model": "glm-5.3"
+}

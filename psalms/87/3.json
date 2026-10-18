@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol samting gat nem tru",
+      "rationale": "נכבדות is 'heavy-weighted things' — glory as weight, weight lost in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "siti bilong Elohim",
+      "rationale": "direct address to Zion as the city of Elohim"
+    }
+  ],
+  "translation": "Ol samting gat nem tru i tokim long yu, siti bilong Elohim. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/87\/1-4.1792358792769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ol samting gat nem tru"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:32.770193575Z",
+  "model": "glm-5.3"
+}

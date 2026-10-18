@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai",
+      "rationale": "לחם 'kaikai' — Hebrew i tok kaikai bilong Yahwe, Tok Pisin i no gat 'food' narapela tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "i am gutpela",
+      "rationale": "ניחח 'smok i givim malolo\/gutpela' — Tok Pisin i brukim i kamap klostu smol"
+    }
+  ],
+  "translation": "Na pris i wokim wara wara — ol i kamap smok — long altar; em i kaikai bilong paia, smok i am gutpela long Sans. Olgeta gel i bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/3\/13-16.1792348230895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "na em i wokim ol i kamap smok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "long altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bilong paia"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "smok"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "i am gutpela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:30.897239580Z",
+  "model": "glm-5.3"
+}

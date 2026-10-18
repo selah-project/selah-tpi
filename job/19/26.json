@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 19:26",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומבשרי",
+      "rationale": "'from my flesh' can mean 'in my flesh' (KJV: still alive in body) or 'without my flesh' (JPS: after the body is destroyed); Tok Pisin 'long mit bilong mi' keeps the ambiguity."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקפו",
+      "rationale": "Rare verb — 'struck off \/ flayed \/ compassed'; rendered 'bagarapim' (destroyed), one of several possible pictures."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Object pronoun supplied — Hebrew leaves the object of 'see' implicit until 'Eloa'."
+    }
+  ],
+  "translation": "Na bihain, dispela skin bilong mi ol i bagarapim pinis, na long mit bilong mi mi bai lukim ⟨em⟩, Eloa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/19\/25-28.1792360115141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Na bihain"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "skin bilong mi"
+    },
+    {
+      "surface": "נקפו",
+      "gloss": "ol i bagarapim pinis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ומבשרי",
+      "gloss": "na long mit bilong mi"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "mi bai lukim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:48:35.141694475Z",
+  "model": "glm-5.3"
+}

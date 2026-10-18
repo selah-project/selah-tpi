@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא ידעת",
+      "rationale": "Hebrew rhetorical question 'Do you not know?' kept as question 'yu no save yet?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Tok Pisin needs a predicate where Hebrew simply asks 'what are these'"
+    }
+  ],
+  "translation": "Na ensel i tok wantaim mi i tanim tok na i tokim mi: Yu no save yet wanem ol dispela samting i stap? Na mi tok: Nogat, bikman bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/4\/5-8.1792357664360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i tanim tok"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ensel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "i tok wantaim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "save yet"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu no save"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na mi tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nogat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:44.360808773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foa mun",
+      "rationale": "Counting of David's days and months in Philistine territory."
+    },
+    {
+      "kind": "crux",
+      "subject": "ol de na foa mun",
+      "rationale": "ימים וארבעה חדשים literally 'days and four months'; KJV\/ASV read 'a full year and four months', YLT keeps literal 'days and four months'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Pelis",
+      "rationale": "פלשתים rendered as 'ol Pelis', name kept in Hebrew sound rather than a descriptive title."
+    }
+  ],
+  "translation": "Na namba bilong ol de we David i stap long gaden bilong ol Pelis, em i ol de na foa mun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "330c4cecc3ddf6716d9ae76e156eab7bbc703802a62c228482bd526a150e96ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/27\/5-8.1792352042946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na em i"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "namba"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "bilong ol de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "long gaden bilong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na foa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:02.948184775Z",
+  "model": "glm-5.3"
+}

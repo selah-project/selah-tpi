@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela ten ama",
+      "rationale": "Ves i skelim tupela ten (20) ama long bek bilong haus"
+    },
+    {
+      "kind": "crux",
+      "subject": "מירכותי",
+      "rationale": "ASV 'hinder part' (bek bilong haus) vs KJV 'sides' (sait bilong haus) — ירך em i 'sait\/flak', hia em i bek"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ples holi tru",
+      "rationale": "קדש הקדשים — holi bilong ol holi — mi tanim 'ples holi tru' olsem lo bilong Wok Pris"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ tupela ten ama long bek bilong haus, wantaim ol hap diwai sedar, long flao inap long ol gut; na em i wokim long em wanpela ples bilong insait, Devir, bilong ples holi tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/13-16.1792352787393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupela ten ama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tupela ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "long bek bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "wantaim ol hap"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "diwai sedar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "flao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "ol gut"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ples bilong insait"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "bilong holi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ples holi tru"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:27.394639882Z",
+  "model": "glm-5.3"
+}

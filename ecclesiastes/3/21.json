@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי יודע",
+      "rationale": "Wycliffe\/JPS ritim olsem askim: 'hu i save sapos'; KJV ritim olsem: 'hu i save [se] ruak i go antap' — tupela i wok long wanwan tok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח em i wanpela tok: win, breath, spirit — hia mi holim 'ruak' olsem D2 i tok."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ruak bilong man",
+      "rationale": "Ves em i tok openly: wanpela samting i stap hait — husat i save?. "
+    },
+    {
+      "kind": "you",
+      "subject": "man i rit",
+      "rationale": "Askim i go long man i rit: sapos hu i save — em i pulim em i kam insait."
+    }
+  ],
+  "translation": "Sapos hu i save: ruak bilong ol pikinini man i go antap, na ruak bilong ol animal bilong lukautim i go daunbilo long graun?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "806e747af1c504056d8ef70d1de1f634c46268e2beb4b72cae911afe29ab3a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/3\/21-22.1792360709710.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapos hu i save"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "save"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "antap"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruak"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "i go daunbilo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:29.711410949Z",
+  "model": "glm-5.3"
+}

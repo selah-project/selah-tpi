@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai i",
+      "rationale": " Hibru i no gat mak bilong taim; Tok Pisin i putim ⟨bai⟩ long bilong futer."
+    },
+    {
+      "kind": "idiom",
+      "subject": "tok bilong yupela bai i kirap tru",
+      "rationale": "ויאמנו דבריכם — tok bilong yupela bai i standap stret (verified); Tok Pisin i tok 'kirap tru'."
+    }
+  ],
+  "translation": "Na yupela kisim i kam ⟨את⟩ brata bilong yupela, wanpela liklik, long mi, na tok bilong yupela bai i kirap tru, na yupela bai no dai. Na ol i mekim olsem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5dd4dcb048da3897f758f759360b060cda0f413e93c94102bd9dfaa249a733d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/42\/19-20.1792362915410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brata bilong yupela, wanpela liklik"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brata bilong yupela"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wanpela liklik"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "yupela kisim i kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "bai i kirap tru"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "tok bilong yupela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "yupela dai"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na ol i mekim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:15.411205369Z",
+  "model": "glm-5.3"
+}

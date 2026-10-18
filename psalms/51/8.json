@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel insait",
+      "rationale": "בטחות literal em i 'ol kidni' — insait bilong bodi, bel bilong tingting"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסתם",
+      "rationale": "'long hap hait' (KJV 'hidden part') o 'long sekret' — ples hait long insait bilong man"
+    }
+  ],
+  "translation": "Lukim, yu laikim ⟨את⟩ tok tru long bel insait; na long hap bilong haitim, yu bai skruim save long mi long husting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/5-8.1792358325180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tok tru"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "yu laikim"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "long bel insait"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "na long hap bilong haitim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "husting"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "yu bai skruim save long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:45.182038176Z",
+  "model": "glm-5.3"
+}

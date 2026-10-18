@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשכנו תדרשו",
+      "rationale": "KJV\/ASV 'unto his habitation shall ye seek' vs 'his dwelling ye shall seek' — Hebrew reads 'to his dwelling ye shall seek' with word order ambiguity."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשכנו",
+      "rationale": "Hebrew 'his dwelling-place' rendered as 'ples bilong en bilong stap', keeping the dwelling sense without reading 'Miskan' tabernacle into it."
+    }
+  ],
+  "translation": "No long olsem — tasol long ples we Yahwe, Elohim bilong yupela, i bai makim long olgeta tribe bilong yupela, bilong putim ⟨את⟩ nem bilong en long en, na bilong stap long en, long en yupela mas painim, na yupela i mas go long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/12\/5-8.1792349997872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no long"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bai makim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yupela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tribe bilong yupela"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "bilong putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong en"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "ples bilong en bilong stap"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "yupela mas painim"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "na yupela i mas go"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:57.872884046Z",
+  "model": "glm-5.3"
+}

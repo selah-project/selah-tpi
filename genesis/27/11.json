@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Predicate marker 'i' supplied where Hebrew has nominal clauses without a verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שער\/חלק",
+      "rationale": "Sharp contrast between 'hairy' and 'smooth' — the two words carry the whole deception plot."
+    },
+    {
+      "kind": "you",
+      "subject": "to Rivka",
+      "rationale": "Yakov directly addresses his mother."
+    }
+  ],
+  "translation": "Na Yakov i tok long Rivka, mama bilong em: Luk, Esau brata bilong mi em i man i gat ol gras long bodi, na mi man bodi i smoothing.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/9-12.1792346847502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yakov i tok"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong em"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Luk"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שער",
+      "gloss": "i gat ol gras long bodi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bodi i smoothing"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:27.503802392Z",
+  "model": "glm-5.3"
+}

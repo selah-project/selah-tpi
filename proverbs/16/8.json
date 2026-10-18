@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "moa gutpela long",
+      "rationale": "Hebrew comparative 'X gutpela … Y' i no gat 'moa long' — Tok Pisin i nidim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kargo inap",
+      "rationale": "תבואות em i kaikai\/kargo i kamap long gaden — 'revenues'"
+    }
+  ],
+  "translation": "Gutpela em i liklik samting long tsedek, moa gutpela long planti kago inap long Graun i no gat kot bilong skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/5-8.1792359572130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik samting"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "long tsedek"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "planti"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "kargo inap"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot bilong skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:32.131492567Z",
+  "model": "glm-5.3"
+}

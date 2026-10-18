@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela kubit × wanpela kubit × wanpela kubit na haf",
+      "rationale": "Ol mak bilong tabla: 2×1×1.5 kubit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמה",
+      "rationale": "Heb 'ama' em i mak bilong han (elbow go long pinga); Tok Pisin i no gat tok, mi usim 'kubit'"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ tabla bilong diwai sitim — tupela kubit long rop bilong en, na wanpela kubit long lap bilong en, na wanpela kubit na haf long maunten bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1f098d9ff01c0d8835826ea1c57ffc66e76536add2355666f4aecf4bedf9d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/37\/9-12.1792348137009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabla bilong diwai sitim"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "tupela kubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "long rop bilong en"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na wanpela kubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "long lap bilong en"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na wanpela kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na haf"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "long maunten bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:57.010476215Z",
+  "model": "glm-5.3"
+}

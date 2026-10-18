@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini",
+      "rationale": "זרע em i 'pikinini\/kaikai pikinini' — tok bilong pikinini bilong man, i no 'sidin'"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem graun bilong ol",
+      "rationale": "נחל i tok long kisim graun bilong ol; suffix ה (⟨em⟩) i makim graun namel long Ps 69:36"
+    }
+  ],
+  "translation": "Na ol pikinini bilong ol wokman bilong em bai kisim ⟨em⟩ olsem graun bilong ol, na ol i laikim nem bilong em bai stop long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/37-37.1792358422285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "Na ol pikinini bilong"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong em"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "bai kisim ⟨em⟩ olsem graun bilong ol"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "na ol i laikim"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bai stop"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:22.286218818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתכם",
+      "rationale": "H854 preposition 'with you', not the DO-marker H853; here rendered as ⟨את⟩ marker with 'yu yet i gat' to keep the signpost"
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yehu's letter directly addresses the officials of Yizreel"
+    }
+  ],
+  "translation": "Na nau, taim dispela kalibu i kam arap long yu — na ⟨את⟩ yu yet i gat ol pikinini bilong masta bilong yu, na ⟨את⟩ yu yet i gat ol karia na ol hos, na wanpela taun strongpela, na ol senot —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/10\/1-4.1792353432866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "taim … i kam arap"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "dispela kalibu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yu yet i gat ol pikinini bilong masta bilong yu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bilong masta bilong yu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yu yet i gat ol karia na ol hos"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ol karia"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "na ol hos"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na wanpela taun"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "strongpela, bilong banis"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "na ol senot"
+    }
+  ],
+  "timestamp": "2026-10-18T19:57:12.867184860Z",
+  "model": "glm-5.3"
+}

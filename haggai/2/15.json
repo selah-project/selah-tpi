@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 2:15",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew lacks it."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to ol manmeri \/ ol lain i wok long tempel",
+      "rationale": "Imperative summons 'putim ... long bel bilong yu olgeta' — the prophet calls his hearers to reflect."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומעלה",
+      "rationale": "'go antap' (upward\/forward) vs KJV 'and upward\/backward' — direction of the reckoning period disputed."
+    }
+  ],
+  "translation": "Na nau, plis, putim ⟨i⟩ long bel bilong yu olgeta: long dispersion bilong dispela de i go antap — pastaim long taim ol i no putim yet wanpela ston long narapela ston long tempel bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3081634ffb967d3345790061f71d20e992b227e7b3cb052daabb2e9c8b7999fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/2\/14-15.1792363370606.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "putim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "long bel bilong yu olgeta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long dispersion bilong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "מטרם",
+      "gloss": "pastaim long taim ol i no ... yet"
+    },
+    {
+      "surface": "שום",
+      "gloss": "putim"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wanpela ston"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "narapela ston"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "long tempel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:50.607519983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רב שקה",
+      "rationale": "The title Rabshakeh is a loanword divided across two tokens; rendered as one name"
+    }
+  ],
+  "translation": "Na Ravshake i go bek, na em i painim ⟨את⟩ king bilong Ashur i pait long Livna, bilong wanem em i harim se em i go we long Lakhis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/37\/5-8.1792354384952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i go bek"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ravshake (hap)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravshake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "na em i painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king bilong Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "i pait"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "em i harim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "i go we"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakhis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:13:04.953753011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kot",
+      "rationale": "משפט here is the verdict\/just-judgment the tongue speaks; Tok Pisin kot keeps the courtroom shape"
+    }
+  ],
+  "translation": "Maun bilong man tsedek i autim ol save tok, na tong bilong em i toktok bilong kot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/29-32.1792358174132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "maun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bilong man tsedek"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "i autim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ol save tok"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "na tong bilong em"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "i toktok"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bilong kot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:14.133503332Z",
+  "model": "glm-5.3"
+}

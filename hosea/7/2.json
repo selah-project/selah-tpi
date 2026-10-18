@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tok long bel bilong ol",
+      "rationale": "Hebru 'לאמר ללבבם' — tok long bel; Inglis 'consider in their hearts', Tok Pisin i holim pasin bilong Hebru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב i min bel bilong tingting na laik, i no hat"
+    }
+  ],
+  "translation": "Na ol i no tok long bel bilong ol: olgeta ol samting nogut bilong ol, mi tingim nau; ol wok bilong ol i skraim ol raun, ol i sanap long pes bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/7\/1-4.1792357039834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "long bel bilong ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ol samting nogut bilong ol"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mi tingim"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "i skraim ol raun"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ol wok bilong ol"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:19.835645868Z",
+  "model": "glm-5.3"
+}

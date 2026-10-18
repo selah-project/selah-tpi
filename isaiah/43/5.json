@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "'Yu no ken pret' — Yahwe i tok stret long Yisrael."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini bilong yu",
+      "rationale": "זרעך em i 'pikinini bilong yu' — tok bilong olgeta lain i kamap long yu, i no 'sidin'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממזרח\/וממערב",
+      "rationale": "San i kamap na san i go daun — tupela sait i putim stret long kalik, Tok Pisin i holim piksa bilong san."
+    }
+  ],
+  "translation": "Yu no ken pret, bilong ⟨את⟩ mi yet i stap wantaim yu: long sais ist bilong san i kamap, bai mi bringim ⟨את⟩ ol pikinini bilong yu, na long sais wes bilong san i go daun, bai mi kolim yu olgeta i kam bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec114a528fb269933b530985c3872a18513e153d524a5f1b9d4b72bd464fa70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/43\/5-8.1792354463672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wantaim yu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "long sais ist bilong san i kamap"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "bai mi bringim"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ol pikinini bilong yu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na long sais wes bilong san i go daun"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "bai mi kolim yu olgeta i kam bek"
+    }
+  ],
+  "timestamp": "2026-10-18T20:14:23.673580997Z",
+  "model": "glm-5.3"
+}

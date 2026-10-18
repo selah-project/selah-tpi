@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת ... חבר",
+      "rationale": "Root חבר repeated at start and end of the verse — joined-shoulderpieces frame the joining of the two edges."
+    }
+  ],
+  "translation": "Ol solpeja ol i wokim long em, joinim tupela; long tupela end bilong em, em i join.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/39\/1-4.1792348182845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "ol solpeja"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "joinim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "end bilong em"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "i join"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:42.846697764Z",
+  "model": "glm-5.3"
+}

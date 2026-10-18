@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct plea to God addressed as Elohim bilong mi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חומץ",
+      "rationale": "Literally 'sour\/fermented' — rendered 'cruel\/violent' by most versions; the sour-bitter picture kept here as hatpela bel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מכף",
+      "gloss-context": "'hollow of the palm' rendered maun (palm of hand), losing the scooped-shape picture"
+    }
+  ],
+  "translation": "Elohim bilong mi, salim mi long han bilong man nogut, long maun bilong man i bagarapim lo na man i hatpela bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/1-4.1792358471014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "salim mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "long maun bilong"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "man i bagarapim lo"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "na man i hatpela bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:11.015896514Z",
+  "model": "glm-5.3"
+}

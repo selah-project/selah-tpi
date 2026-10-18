@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the hearer who desires life",
+      "rationale": "Imperatives address the one answering the v.13 question."
+    },
+    {
+      "kind": "substitution",
+      "subject": "toktok bilong tang",
+      "rationale": "לשון is literally 'tongue'; Tok Pisin says 'toktok bilong tang'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i no kamaut",
+      "rationale": "Hebrew has only 'from evil'; guard-sense needs the negative outcome spelled out."
+    }
+  ],
+  "translation": "Lukautim toktok bilong tang bilong yu nogut i no kamaut, na lusim tupela lip bilong yu long tok giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/13-16.1792358116612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "lukautim"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "tang bilong yu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nogut i no kamaut"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "tupela lip bilong yu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "long tok"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:16.613178405Z",
+  "model": "glm-5.3"
+}

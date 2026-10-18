@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol i bringim (past) o bringim (tok bilong wok)",
+      "rationale": "Hibru i no makim taim klia: KJV ol i bin bringim pinis, JPS\/BSB ol i tok olsem komand — 'bringim wara!'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go bihain long",
+      "rationale": "קדם i min 'ran i go pastaim long man', olsem 'lukautim em pastaim'; Tok Pisin i no gat wanpela tok street long em."
+    }
+  ],
+  "translation": "Ol i bringim wara long salim man i hangre long wara, ol man i stap long graun bilong Tema; wantaim bret ol i go bihain long man i ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/21\/13-16.1792354085987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "long salim"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "man i hangre long wara"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "ol i bringim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol man i stap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "bilong Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "wantaim bret"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "ol i go bihain long"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "man i ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:05.988627141Z",
+  "model": "glm-5.3"
+}

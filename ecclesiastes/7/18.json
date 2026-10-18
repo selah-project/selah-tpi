@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא את כלם",
+      "rationale": "'come forth from them all' (KJV) vs 'escapes all of them' (BSB) vs JPS 'discharge himself of them all'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ב",
+      "gloss": "long",
+      "rationale": "preposition ב rendered as 'long' before demonstrative, required by Tok Pisin grammar"
+    }
+  ],
+  "translation": "Gutpela bilong yu holim fastim dispela, na tu long dispela no ken lusim ⟨את⟩ han bilong yu; long wanem man i pret long Elohim bai i go ausait ⟨את⟩ long olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/17-20.1792360804953.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "holim fastim"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na tu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long dispela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong yu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i pret long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bai i go ausait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "long olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:04.954631047Z",
+  "model": "glm-5.3"
+}

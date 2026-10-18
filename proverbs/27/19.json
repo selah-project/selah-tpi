@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i tok 'bel bilong tingting' — Tok Pisin 'bel' i holim mining bilong tingting na laik, olsem D4."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמים הפנים לפנים",
+      "rationale": "Sampela i rit 'pes i lukluk bek olsem wara' (miror), sampela i rit 'pes i stingap long pes' (wokabaut wantaim)."
+    }
+  ],
+  "translation": "Olsem wara, pes i soim long pes, olsem na bel bilong man i soim long man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/17-20.1792359761855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "olsem wara"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "pes"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "i soim long pes"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "i soim long man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:41.856616389Z",
+  "model": "glm-5.3"
+}

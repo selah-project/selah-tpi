@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Lukim",
+      "rationale": "ראה 'see' rendered 'take heed' in KJV\/ASV; literal 'see\/look' kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "bikos",
+      "rationale": "כי rendered as causal conjunction, supplied connective force explicit in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "to Soltomon",
+      "rationale": "David directly addresses Solomon with imperatives"
+    }
+  ],
+  "translation": "Lukim nau, bikos Yahwe i bin makim yu bilong wokim haus bilong holi ples: strongpela, na wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0ce385e751e02e207d4938c181b027e85b3664c30a46d501a4be70c67b91a7cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/28\/10-11.1792363492852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "i bin makim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "bilong holi ples"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "strongpela"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:52.852529341Z",
+  "model": "glm-5.3"
+}

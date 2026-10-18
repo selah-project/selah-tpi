@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarap",
+      "rationale": "שואה i bikpela win bikpela tru \/ bagarap bikpela — 'destruction' tasol i lusim piksa bilong tempest"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה",
+      "rationale": "שואה i kamap tupela taim — stat na pinis bilong ves, chiasm: bagarap i kamap, em i pundaun long bagarap"
+    }
+  ],
+  "translation": "Bagarap i kamap long em, em i no save; na net bilong em we em i hidim, em i ketchim em; long bagarap em i pundaun insait long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/5-8.1792358133278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "i kamap long em"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "bagarap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i save"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "na net bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "em i hidim"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "em i ketchim em"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "long bagarap"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "em i pundaun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "insait long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:33.279567164Z",
+  "model": "glm-5.3"
+}

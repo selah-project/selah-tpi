@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kotim leg bilong ol",
+      "rationale": "עקר em i tok bilong pulap long rot o kotim sin bilong leg — 'hamstring'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong ol",
+      "rationale": "עקר i no gat olgeta tok bilong ol; Tok Pisin i laikim ol"
+    }
+  ],
+  "translation": "Na Yehosua i wokim long ol olsem Yahwe i tokim ⟨em⟩: ⟨את⟩ ol hos bilong ol em i kotim leg bilong ol, na ⟨את⟩ ol karia bilong ol em i bonim long paia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/11\/9-12.1792350730489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol hos bilong ol"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ol hos bilong ol"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "kotim leg bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol karia bilong ol"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ol karia bilong ol"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bonim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:10.490219580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חביון",
+      "rationale": "chevyon — tok i stap wanpela taim tasol long Tanakh; min 'haiten, samting i stap hait'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronaun 'em' mi putim long ples bilong 'לו' bilong kliaim wanem han."
+    },
+    {
+      "kind": "crux",
+      "subject": "קרנים מידו לו",
+      "rationale": "Ol tanima i agri long wanem: 'tupela korn (rait bilong lait) i kamap long han bilong em' o 'rait i senisim han bilong em' — dual form i tok 'tupela'."
+    }
+  ],
+  "translation": "Na sae bilong em i olsem lait; tupela korn i stap long han bilong ⟨em⟩; na long hap i stap haiten bilong strong bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/3\/1-4.1792357550670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "na sae bilong em"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "olsem lait"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "tupela korn"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "long han bilong em"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong ⟨em⟩"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na long hap"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "haiten"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "bilong strong bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:50.671514201Z",
+  "model": "glm-5.3"
+}

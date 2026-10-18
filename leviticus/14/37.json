@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nega",
+      "rationale": "הנגע em i 'pait\/blow'; mipela holim nem 'nega' long ples bilong 'sik nogut' o 'mold'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שקערורת",
+      "rationale": "שְׁקַעְרֹרֹת — hol-hol — tok i kamap liklik tumas long Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Tok Pisin i nidim predikit 'i', Hibru i no gat"
+    }
+  ],
+  "translation": "Na pris i lukim ⟨את⟩ nega, na lukluk, nega i stap long ol wal bilong haus: ol hol-hol, grin-grin o red-red, na luk bilong ol i daundaun moa long wal.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/14\/37-40.1792348501295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nega"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukluk"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "long ol wal bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "ol hol-hol"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "grin-grin"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "red-red"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "na luk bilong ol"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "daundaun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "moa long"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "wal"
+    }
+  ],
+  "timestamp": "2026-10-18T18:35:01.296126353Z",
+  "model": "glm-5.3"
+}

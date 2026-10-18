@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela ten na tu",
+      "rationale": "Counting formula of the chapter, repeated each verse."
+    },
+    {
+      "kind": "crux",
+      "subject": "Yesarela",
+      "rationale": "ישראלה spelled like Yisrael with -ה ending; JPS 'Jesarelah', KJV 'Jesharelah' — name vs 'unto Israel' reading debated."
+    }
+  ],
+  "translation": "Bilong namba seven, Yesarela, ol pikinini bilong en na ol brata bilong en — olgeta tupela ten na tu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d24bc6f6b1db5cd42a7cd8198e5b468fd4cf7361418e326e83ffaf9e5eb743bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/25\/13-16.1792362150410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעי",
+      "gloss": "namba seven"
+    },
+    {
+      "surface": "ישראלה",
+      "gloss": "Yesarela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini bilong en"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ol brata bilong en"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten na tu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:22:30.410657220Z",
+  "model": "glm-5.3"
+}

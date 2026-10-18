@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "banat",
+      "rationale": "מחץ i tok banat i save go insait long man — 'pierce'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "long de",
+      "rationale": "יומם i save tok 'de olgeta\/de oltaim', tasol hia em i min 'long taim bilong de'"
+    }
+  ],
+  "translation": "Yu no ken gat nel long pilai nogut bilong nait, no long banat i save flai long de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/91\/5-8.1792358854425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "yu ken gat nel"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "pilai nogut"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bilong nait"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "banat"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "i save flai"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "long de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:34.429997654Z",
+  "model": "glm-5.3"
+}

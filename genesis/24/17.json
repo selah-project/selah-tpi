@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגמיאיני",
+      "rationale": "גמא 'to absorb\/drink up' appears only here in the Tanakh; rendered as 'givim mi dring'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "serbat",
+      "rationale": "העבד rendered as 'serbat' (servant); Tok Pisin loanword, standard sense kept."
+    }
+  ],
+  "translation": "Na ⟨את⟩ serbat i ran i go long em bilong lukim ⟨em⟩, na em i tok: givim mi dring, plis, liklik wara long pela kad bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/17-20.1792346622692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "i ran"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "serbat"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "i go long em bilong lukim ⟨em⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "givim mi dring"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "long pela kad bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:42.692568967Z",
+  "model": "glm-5.3"
+}

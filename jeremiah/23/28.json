@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 23:28",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gras bilong garen \/ grain",
+      "rationale": "תבן chopped straw vs בר standing grain — the dream is husk, the word is grain."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלום\/דבר parallel",
+      "rationale": "Chiastic pairing dream-word\/dream vs word-truth frames the oracle; kept in Tok Pisin structure."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩\/ken",
+      "rationale": "Hebrew jussives ('let him tell') carried by 'i ken' particles Tok Pisin requires."
+    }
+  ],
+  "translation": "Profet we driman i stap wantaim ⟨את⟩ em, em i ken stori driman; na man we tok bilong mi i stap wantaim ⟨את⟩ em, em i tok tok bilong mi stret. Olsem wanem, gras bilong garen wantaim ⟨את⟩ grain? Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/23\/25-28.1792355365182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "Profet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "driman"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "i ken stori"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "driman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na man we"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "stret"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Olsem wanem"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "gras bilong garen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grain"
+    },
+    {
+      "surface": "הבר",
+      "gloss": "grain"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:29:25.183931192Z",
+  "model": "glm-5.3"
+}

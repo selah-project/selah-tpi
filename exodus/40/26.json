@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pas bilong banis",
+      "rationale": "פרוכת em i hangamap bilong klostu holim Santeson, 'pas bilong banis' i holim piksa tasol"
+    }
+  ],
+  "translation": "Na em i putim ⟨את⟩ olta bilong gol insait long haus bilong sanap wantaim, long bilong pas bilong banis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b149e5d1ecadd7ab4d49575833c7f6842da9e731c78137272e478762189067eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/40\/25-28.1792348193563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olta bilong gol"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "olta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bilong gol"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "insait long haus"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bilong sanap wantaim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long bilong"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pas bilong banis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:53.564264378Z",
+  "model": "glm-5.3"
+}

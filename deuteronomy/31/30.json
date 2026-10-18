@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באזני",
+      "rationale": "Literally 'in the ears of' — Tok Pisin 'long ol ia' keeps the body-part image."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד תמם",
+      "rationale": "The song is spoken 'until its completion' — a completion-marks the full recitation of the song of Deuteronomy 32."
+    }
+  ],
+  "translation": "Na Mose i tok long ol ia bilong olgeta man bilong kongregesen bilong Yisrael ⟨את⟩ ol tok bilong dispela singsing, inap long pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/31\/29-30.1792350357931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na Mose i tok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "long ol ia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "man bilong kongregesen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "bilong singsing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "long pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:05:57.932496205Z",
+  "model": "glm-5.3"
+}

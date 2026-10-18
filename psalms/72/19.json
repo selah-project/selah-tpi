@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Doubled 'Amen and Amen' closes the psalm and Book II of the Psalter; the doubling is kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "i ken",
+      "rationale": "Jussive 'let it fill' needs a modal marker in Tok Pisin."
+    }
+  ],
+  "translation": "Na blesim tru nem bilong glori bilong en i stap olgeta taim; na glori bilong en i ken pulap ⟨את⟩ olgeta graun. Amen, na Amen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/17-20.1792358485125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Na blesim tru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem bilong"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glori bilong en"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i stap olgeta taim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na … i ken pulap"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glori bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta graun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:25.126353337Z",
+  "model": "glm-5.3"
+}

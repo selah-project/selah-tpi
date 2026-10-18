@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בן קשת \/ לקש",
+      "rationale": "'Son of the bow' (arrow) beside 'dry stubble' — near-rhyme qeshet\/qash echoes in Hebrew, lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "KJV\/ASV give 'smoke from his nostrils' here; Hebrew text as supplied reads of the arrow and sling-stones (JPS ordering)."
+    }
+  ],
+  "translation": "Arow bilong bo i no inap mekim em ranawe; ston bilong sling i senis i kamap gras drai long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/41\/17-20.1792360418891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "inap mekim em ranawe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "gras drai"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "i senis i kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ston bilong"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "sling"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:38.892667585Z",
+  "model": "glm-5.3"
+}

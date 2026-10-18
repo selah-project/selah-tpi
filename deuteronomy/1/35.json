@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם יראה",
+      "rationale": "oath formula 'sapos... i lukim' i minim Nogat — em i curse bilong swer, no kaukau sapos tru; 'Nogat' i stap pastaim bilong soim."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Mose i tokim ol Israel olgeta long bung."
+    }
+  ],
+  "translation": "Nogat — sapos wanpela man namel long ol man dispela, lain bilong taim nogut dispela, i lukim ⟨את⟩ graun gutpela we mi swer long givim long ol papa bilong yupela!",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/33-36.1792349727599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "namel long ol man"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "lain bilong taim"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun gutpela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi swer"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "long givim"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "long ol papa bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:27.600754682Z",
+  "model": "glm-5.3"
+}

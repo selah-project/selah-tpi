@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hebrew has 'in my mouth' (bepi, 1csg suffix) — Tok Pisin separates the pronoun out"
+    },
+    {
+      "kind": "substitution",
+      "subject": "frighten",
+      "rationale": "וייראו is reverent fear of Elohim, not mere fright; Tok Pisin lacks a separate word for awe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו\/וייראו",
+      "rationale": "see (ra'a) and fear (yare') sound alike in Hebrew — the many see and then fear; the pun is lost in Tok Pisin"
+    }
+  ],
+  "translation": "Em i putim long maus bilong ⟨mi⟩ singsing nupela, olsem praisim long Elohim bilong yumi; planti manmeri bai lukim, na frighten, na trustim long Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ce3144dfae86853ca7097f6e4b099176fa4ea65ba950de0f6ec99baaab71109c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/40\/4-4.1792363338844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Em i putim"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "long maus bilong"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nupela"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "praisim"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "long Elohim bilong yumi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bai lukim"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti manmeri"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na frighten"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "na trustim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:18.844876696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבה",
+      "rationale": "'אבה — papyrus\/reed: ships of papyrus vs 'swift ships' (KJV) — literal is reed-boats."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יטוש",
+      "rationale": "'pounis' keeps the bird-of-prey swooping picture; 'hasten' loses it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כנשר",
+      "rationale": "tarangau (eagle\/vulture, large bird of prey) per D4b, not hankret."
+    }
+  ],
+  "translation": "Ol i salut pastaim olsem ol sip bilong gan, olsem tarangau i pounis long aninit bilong kaikai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/9\/25-28.1792359970908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "Ol i salut pastaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olsem wantaim"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ol sip"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "bilong gan"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "olsem tarangau"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "i pounis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long aninit bilong"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:10.908707973Z",
+  "model": "glm-5.3"
+}

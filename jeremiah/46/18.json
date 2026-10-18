@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "rationale": "Tok Pisin i nidim pronoun long \"nem bilong ⟨en⟩\"; Hibru i gat suffix long שמו"
+    },
+    {
+      "kind": "crux",
+      "subject": "yabó",
+      "rationale": "מי i kam — narapela skul i tok em i Nem (Yahwe yet i kam olsem Tabor), narapela i tok em i man bilong pait (Nabukadnetsar)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Tabor\/Karmel",
+      "rationale": "Tupela maunten ol man i save olgeta — piksa bilong wanpela samting i stap wanpela ples, i no inap rondunim; Tok Pisin i holim nem tasol"
+    }
+  ],
+  "translation": "Mi i stap laip yet, tok bilong King — Yahwe Tsebaot, nem bilong ⟨en⟩ — olsem Tabor i stap long ol maunten, na olsem Karmel long solwara, olsem na em bai i kam.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "acf65d761d542204b3708f020d63ab1b6c7abb5a2c21e5f864871a42867182b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/46\/18-19.1792363267924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "stap laip yet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "long ol maunten"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "na olsem Karmel"
+    },
+    {
+      "surface": "בים",
+      "gloss": "long solwara"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "em bai i kam"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:07.924815592Z",
+  "model": "glm-5.3"
+}

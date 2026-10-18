@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Final link of the list — Oved, Yishai, David."
+    },
+    {
+      "kind": "elision",
+      "subject": "the king",
+      "rationale": "Hebrew says only 'David'; many versions add 'the king', the Hebrew omits it."
+    }
+  ],
+  "translation": "Na Oved i kimapim pikinini ⟨את⟩ Yishai, na Yishai i kimapim pikinini ⟨את⟩ David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3859f9a01c1b9358634182b3b4a32204d8354bc8afd854c903d00bba4a44c408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/4\/21-22.1792360499363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "i kimapim pikinini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "i kimapim pikinini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:59.363804109Z",
+  "model": "glm-5.3"
+}

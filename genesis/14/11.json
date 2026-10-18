@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וילכו",
+      "rationale": "literally 'they walked' — the four kings departed; Tok Pisin 'ol i go' keeps the motion"
+    }
+  ],
+  "translation": "Na ol i tekim ⟨את⟩ olgeta samting bilong Sodom na Gomora, na ⟨את⟩ olgeta kaikai bilong ol, na ol i go.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/14\/9-12.1792346428138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Na ol i tekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting bilong Sodom na Gomora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "samting bilong ol"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "na Gomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kaikai bilong ol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kaikai bilong ol"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:28.139336897Z",
+  "model": "glm-5.3"
+}

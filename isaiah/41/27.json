@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשון",
+      "rationale": "'First' — is it 'I, the First, say to Zion' (JPS 'a harbinger'), 'first I say', or 'the first (voice) says'? Renderings split."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mi tokim⟩",
+      "rationale": "Hebrew lacks the verb of speaking; 'first to Zion' supplies it from context."
+    }
+  ],
+  "translation": "Nambawan mi tokim Tsaion: Lukim, ol i stap! Na mi givim long Yerusalayim man i bringim gutpela tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/41\/25-28.1792354498649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Nambawan"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "mi tokim Tsaion"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "na long Yerusalayim"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "man i bringim gutpela tok"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi givim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:14:58.650697503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sevenpela taim",
+      "rationale": "שבעתים 'seven-times' fixed restitution multiple"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ונמצא",
+      "rationale": "'If he is found' (caught) vs 'if it (the theft) is found'; thief is subject"
+    }
+  ],
+  "translation": "Na sapos ol i painim ⟨em⟩, em bai pem bek sevenpela taim; ⟨את⟩ olgeta kago bilong haus bilong ⟨em⟩ em bai givim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/6\/29-32.1792359470199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "Na sapos ol i painim ⟨em⟩"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "em bai pem bek"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sevenpela taim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kago"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong ⟨em⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "em bai givim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:50.201092873Z",
+  "model": "glm-5.3"
+}

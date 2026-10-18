@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Golyat i tok long ol man Yisrael",
+      "rationale": "Challenge — direct address naming terms of servitude."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss_note": "",
+      "rationale": "לו אוכל 'I am able for him' — KJV 'prevail against him'; Tok Pisin 'mi inap long em' keeps literal shape."
+    }
+  ],
+  "translation": "Sapos em i inap long pait wantaim ⟨את⟩ mi na kilim mi, mipela bai i kamap wokman bilong yupela; tasol sapos mi inap long em, na mi kilim ⟨את⟩ em, yupela bai i kamap wokman bilong mipela, na yupela i wokim mipela ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/9-12.1792351792386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i inap long"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pait"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi",
+      "marks": "mi"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "na kilim mi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "mipela bai i kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "wokman"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "i inap long"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "na mi kilim ⟨את⟩ em"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "yupela bai i kamap"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong mipela"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "wokman"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na yupela i wokim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:52.387220085Z",
+  "model": "glm-5.3"
+}

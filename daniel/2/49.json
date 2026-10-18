@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "daniel 2:49",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew verbless clause בתרע מלכא — Tok Pisin needs predicate 'i stap'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "long dua bilong king",
+      "rationale": "בתרע literally 'in the door\/gate of the king' — idiom for serving in the royal court"
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Aramaic relative particle folded into 'bilong' with no separate rendering"
+    }
+  ],
+  "translation": "Na Daniel i askim long king, na em i makim ⟨את⟩ Shadrak, Meyshak na Abednego long wok bilong pravins bilong Bavel; tasol Daniel ⟨i⟩ stap long dua bilong king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5abacca2851db1c1188a9882e7e090bff95f942a7bdb6fbbe80f7f73d5999781",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/2\/49-49.1792361046433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "Na Daniel"
+    },
+    {
+      "surface": "בעא",
+      "gloss": "askim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    },
+    {
+      "surface": "ומני",
+      "gloss": "na em i makim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבידתא",
+      "gloss": "wok bilong pravins"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "pravins"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrak"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshak"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na Abednego"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abednego"
+    },
+    {
+      "surface": "ודניאל",
+      "gloss": "tasol Daniel"
+    },
+    {
+      "surface": "בתרע",
+      "gloss": "long dua bilong"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T22:04:06.433764500Z",
+  "model": "glm-5.3"
+}

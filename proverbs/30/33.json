@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "אפים em i dual bilong אף (nus); long Tok Pisin mi usim bel (bel i hatap) — narapela nus i wankain olsem 'nus', olsem na dual i lus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיץ ... יוציא",
+      "rationale": "Tupela-tupela tok i kamap tripela taim (מיץ\/יוציא), pasin bilong ton — i no save lus long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "pulim win",
+      "rationale": "מיץ: 'pulim win' o 'pundaunim strong' — ol tanima i no wankain long wanem pasin bilong susu, nus, na bel"
+    }
+  ],
+  "translation": "Bihain, bilong pulim win long susu i kamap bata, na bilong pulim win long narapela nus i kamap blut, na bilong pulim win long bel i kamap pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/33-33.1792359817379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "pulim win"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "na bilong pulim win"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nus"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "na bilong pulim win"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:37.380158955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "opim tok",
+      "rationale": "פתר i minim 'opim' — long hia em i tanim olsem drim, olsem autim tok bilong drim"
+    }
+  ],
+  "translation": "Na em i hangimapim ⟨את⟩ bikman bilong wokabaut bret, olsem Yosep i opim tok bilong olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/40\/21-23.1792347068897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bikman bilong wokabaut bret"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "bilong wokabaut bret"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "hangimapim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "opim tok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    }
+  ],
+  "timestamp": "2026-10-18T18:11:08.898205364Z",
+  "model": "glm-5.3"
+}

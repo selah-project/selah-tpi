@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "rationale": "pronoun supplied — Hebrew has suffix on טובו\/יפיו but Tok Pisin needs separate word"
+    },
+    {
+      "kind": "crux",
+      "subject": "his\/their goodness",
+      "rationale": "טובו suffix read as God's (KJV) or the people's (JPS 'their') — context of the crowned flock in v.16 favors 'their'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ינובב",
+      "rationale": "from נוב 'to sprout\/flourish' — agricultural verb applied to young men and maidens, produce and people grown together; picture flattened in 'make cheerful'"
+    }
+  ],
+  "translation": "Bihainen, olsem wanem gutpela samting bilong ⟨en⟩, na olsem wanem beauti bilong ⟨en⟩! Kaikai gaden i wokim ol yangpela man i kamap strong, na swit wain i wokim ol yangpela meri i kamap strong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "49689ce843762268131ffbf3f56310a2eb81c7f00fb270bfe30595e5143680a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/9\/17-17.1792357695197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihainen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "gutpela samting bilong en"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na olsem wanem"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "beauti bilong en"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "kaikai gaden"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ol yangpela man"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na swit wain"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "i wokim i kamap strong"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "ol yangpela meri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:15.197639545Z",
+  "model": "glm-5.3"
+}

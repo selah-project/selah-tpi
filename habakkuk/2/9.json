@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 2:9",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצע\/בצע",
+      "rationale": "Verb and noun from same root — 'he who plunders plunder' — repetition lost in Tok Pisin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצע\/רע",
+      "rationale": "betsa\/ra rhyme inside one phrase; the verse pivots on the sound pair nogut\/kago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנו",
+      "rationale": "ken is a bird's nest; the figure of an eagle nesting high to be safe (cf. Obadiah 4) is kept literal as nest."
+    }
+  ],
+  "translation": "Sori long man i stoleim kago nogut long haus bilong en, bilong putim nest bilong en long antap tru, bilong ranawe senis long han bilong ol samting nogut!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/2\/9-12.1792357437199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Sori long"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "i stoleim"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kago"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "long haus bilong en"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "bilong putim"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "long antap tru"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "nest bilong en"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "bilong ranawe senis"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ol samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:57.200037969Z",
+  "model": "glm-5.3"
+}

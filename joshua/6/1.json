@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Tok Pisin i laikim 'man' long 'i no gat man i go ausait'; Hibru i tok nating 'ai no gat man i go ausait'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasim bek",
+      "rationale": "סגר ומסגר — wanpela tok 'sut' i kamap tupela pasin bilong stringim tok: 'pasim bek na pasim olgeta'"
+    }
+  ],
+  "translation": "Na Yeriko i pasim bek na i pasim olgeta, bilong ol pikinini bilong Yisrael; i no gat man i go ausait, na i no gat man i kam insait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/6\/1-4.1792350537209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Na Yeriko"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "i pasim bek"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "na i pasim olgeta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat man"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat man"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam insait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:08:57.210382717Z",
+  "model": "glm-5.3"
+}

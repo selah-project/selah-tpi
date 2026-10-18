@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחנהו",
+      "rationale": "suffix is 'His camp' (YLT) vs 'their camp' (KJV\/JPS\/ASV) — the -o suffix reads either way"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "the falling thing (the birds) is supplied as pronoun 'ol'; Hebrew verb implies it from v27"
+    }
+  ],
+  "translation": "Na em i mekim ol i fauldaun namel long kemp bilong ⟨em⟩, olgeta hap klostu long ol haus sel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/25-28.1792358557684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "em i mekim ol i fauldaun"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kemp bilong ⟨em⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "olgeta hap klostu"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "long ol haus sel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:37.685122127Z",
+  "model": "glm-5.3"
+}

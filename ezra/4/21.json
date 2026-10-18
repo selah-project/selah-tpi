@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i kamap long bilong mi",
+      "rationale": "Hebrew yitsem is passive 'be given'; Tok Pisin needs explicit agent 'from me'"
+    },
+    {
+      "kind": "elision",
+      "subject": "דך",
+      "gloss note": "",
+      "rationale": "Aramaic demonstrative folded into 'dispela siti'"
+    }
+  ],
+  "translation": "Na nau, yupela i putim wanpela mak bilong lo bilong stopim ol dispela man, na dispela siti i no ken wokim, inap wanpela mak bilong lo i kamap long bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/4\/21-24.1792361382075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "nau"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "yupela i putim"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "wanpela mak bilong lo"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "bilong stopim"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "na dispela siti"
+    },
+    {
+      "surface": "דך",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "מני",
+      "gloss": "long bilong"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "wanpela mak bilong lo"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:09:42.075619830Z",
+  "model": "glm-5.3"
+}

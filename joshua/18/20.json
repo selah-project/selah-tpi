@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pes",
+      "rationale": "נחלה is 'inheritance' — Tok Pisin 'pes' (portion\/inheritance share) matches the kinship-inheritance picture."
+    },
+    {
+      "kind": "measurement",
+      "subject": "inheritance summary",
+      "rationale": "Verse totals the tribal allotment by its borders and families — a closing census-style formula."
+    }
+  ],
+  "translation": "Na Jarden, em i banisim ⟨את⟩ em long hap bilong ist. Em i pes bilong ol pikinini bilong Binjamin, olgeta banis bilong em i stap ol raun, bilong ol famili bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/18\/17-20.1792350798920.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Na Jarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "i banisim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em (Binjamin)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "long hap bilong"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ist"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Em"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "i pes bilong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "olgeta banis bilong em"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i stap ol raun"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "bilong ol famili bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:18.921404556Z",
+  "model": "glm-5.3"
+}

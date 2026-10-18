@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרעו\/זרוע",
+      "rationale": "Consonants זרע can read 'his seed' or 'his arm'; pointing here is zero‘o (his arm), a deliberate echo lost in translation."
+    },
+    {
+      "kind": "crux",
+      "subject": "וזרעו",
+      "rationale": "'his arm reaps' (zero‘o, arm) vs 'his seed' (zero‘, offspring) — same letters, different pointing."
+    }
+  ],
+  "translation": "Na em bai i kamap olsem taim man bilong kukim kaikai i kapsait ⟨את⟩ korn i sanap, na han bilong en i katim ⟨את⟩ ol el bilong korn; na em bai i kamap olsem man bilong pikim ol el long vale bilong Refaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/17\/5-8.1792354116674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na em bai i kamap"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "olsem taim man bilong kukim kaikai i kapsait"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na han bilong en"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ol el bilong korn"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "i katim ⟨את⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na em bai i kamap"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "olsem man bilong pikim"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ol el"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "long vale"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "bilong Refaim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:36.675557432Z",
+  "model": "glm-5.3"
+}

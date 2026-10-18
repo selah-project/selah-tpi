@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ten days",
+      "rationale": "The verse counts the interval: word of Yahwe comes after ten days."
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "Tok Pisin needs a verb for ויהי narrative opener; the Hebrew wayyiqtol is a discourse marker."
+    }
+  ],
+  "translation": "Na i kamap, long pinis bilong tenpela de, na tok bilong Yahwe i kam long Yirmeyahu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f792e7182f12eba44add716595e6bb1935b921e9bfa567a2495db2ec93660fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/42\/5-8.1792355727156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "long pinis bilong"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:27.157943975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "nefesh em i win bilong laip, tasol Tok Pisin 'bel' i holim tingting na laik klosu liklik"
+    },
+    {
+      "kind": "crux",
+      "subject": "נודו הרכם צפור",
+      "rationale": "KJV 'flee as a bird to your mountain' vs LXX\/Peshitta 'flee to your mountain like a bird' — hadir i stap: maunten bilong wanem, balus i go long maunten o man i olsem balus"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tok bilong ol birua",
+      "rationale": "Familia i putim tok bilong ol birua long salm — ol i kolim man long ranawe"
+    }
+  ],
+  "translation": "Bilong man i lidim miusik. Salm bilong David. Long Yahwe mi ran malolo; olsem wanem yu tokim bel bilong mi: Ran olsem balus i go long maunten bilong yu!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/11\/1-4.1792357947310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lidim miusik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi ran malolu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "yu tokim"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "ran"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "maunten bilong yu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "balus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:27.311995263Z",
+  "model": "glm-5.3"
+}

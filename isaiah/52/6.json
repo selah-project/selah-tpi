@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol bai i save (second)",
+      "rationale": "Hebrew repeats לכן 'therefore' but omits the verb of the second clause; Tok Pisin repeats it."
+    },
+    {
+      "kind": "mystery",
+      "subject": "dispela de",
+      "rationale": "The day when the people will know the name is announced but not dated — withheld knowledge."
+    }
+  ],
+  "translation": "Olsem na ol manmeri bilong mi bai i save nem bilong mi; olsem na long dispela de ol bai i save bilong mi — ⟨em⟩ — em, ⟨man i tok⟩; lukim, mi stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/52\/5-8.1792354683642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bai i save"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol manmeri bilong mi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nem bilong mi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "man i tok"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lukim, mi stap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:03.642768540Z",
+  "model": "glm-5.3"
+}

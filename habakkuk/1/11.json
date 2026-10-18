@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "'Wind passes' (the army like wind) vs 'his spirit changes' (KJV); ruak keeps both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "god bilong em",
+      "rationale": "Lowercase god: Babylon's own god, not Elohim."
+    }
+  ],
+  "translation": "Bihain, ruak i go pas, na em i go, na em i wokim rong — em yet, strong bilong em, em i god bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/1\/9-12.1792357429577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "i go pas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "na em i go"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "na em i wokim rong"
+    },
+    {
+      "surface": "זו",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "strong bilong em"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "em i god bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:49.578366767Z",
+  "model": "glm-5.3"
+}

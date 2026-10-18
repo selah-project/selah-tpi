@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omer barli, faifti sekel silva",
+      "rationale": "Skelim bilong gaden: wanpela omer barli i go faifti sekel silva"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "Hibru 'pikinini\/kaikai pikinini bilong gaden' — Tok Pisin i gat tupela tok: pikinini bilong man, kaikai pikinini bilong gaden (D4)"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela hap",
+      "rationale": "Hibru i no tok 'hap', ol man i ting i stap long klostu, tasol Tok Pisin i stoolim gutpela long as bilong ol ritim"
+    }
+  ],
+  "translation": "Na sapos wanpela man i mekim holi long Yahwe wanpela hap gaden bilong pes bilong em, skelim bilong yu bai i go olsem kaikai pikinini bilong en: kaikai pikinini bilong wanpela omer barli — faifti sekel silva.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "68deb97bb83a2aab8f0112506c8993e336c062baee5712271b279b61e973340e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/27\/13-16.1792348880109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "pes bilong em"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "i mekim holi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bai i go"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "skelim bilong yu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "kaikai pikinini bilong en"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaikai pikinini"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barli"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    }
+  ],
+  "timestamp": "2026-10-18T18:41:20.110722303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong kamap",
+      "rationale": "Hebrew has bare לכהנים 'for priests'; Tok Pisin needs a verb phrase"
+    }
+  ],
+  "translation": "Na long ol man ya tu, bai mi tekim ol bilong kamap pris na bilong kamap ol Levi, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/66\/21-24.1792354860406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na ... tu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long ol man ya"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "bai mi tekim"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "bilong kamap ol pris"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "bilong kamap ol Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:00.406674789Z",
+  "model": "glm-5.3"
+}

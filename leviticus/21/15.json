@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini bilong en",
+      "rationale": "זרעו em i 'pikinini\/seed' — Tok Pisin 'pikinini' (D4), no 'sidin'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אני יהוה",
+      "rationale": "Hebrew formula 'bilong mi, Yahwe' — em i wanpela pasin bilong tok, mi tanim olsem 'bilong mi, Yahwe' na 'mi yet'"
+    }
+  ],
+  "translation": "Na em i no ken bagarapim ol pikinini bilong en namel long ol man bilong en; bilong mi, Yahwe, em i wanpela man i holi, na mi yet mi mekim em holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/21\/13-16.1792348647225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na em i no ken"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "bagarapim"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ol pikinini bilong en"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "namel long ol man bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "mi mekim em holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:27.226695321Z",
+  "model": "glm-5.3"
+}

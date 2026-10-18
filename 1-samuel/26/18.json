@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 26:18",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "rationale": "tok 'dispela' i stap long tok Hibru tasol Tok Pisin i no nidim; em i stap long teks."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shaul",
+      "rationale": "David i askim king bilong en olsem, em i toktok dairekt long Shaul."
+    },
+    {
+      "kind": "invitation",
+      "subject": "question",
+      "rationale": "Ol askim bilong David ol i pulim man long tanim bek na tingim."
+    }
+  ],
+  "translation": "Na i tok: Bilong wanem bikman bilong mi i ranizim after wokman bilong en? Bilong wanem samting mi wokim? O wanem olgeta samting nogut i stap long han bilong mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/26\/17-20.1792352087666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mi"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "i ranizim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "wokman bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem samting"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "o wanem"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "long han bilong mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:47.667355324Z",
+  "model": "glm-5.3"
+}

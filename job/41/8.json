@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "ורוח — ruak: win o napaiap; olsek i pas olgeta, win i no inap pas long namel."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "KJV\/ASV\/BSB i welim narapela tok long dispela namba ves; Hebru tekst i tok long olsek bilong liviatan i klostu olgeta."
+    }
+  ],
+  "translation": "Wan i klostu long wan, na ruak i no inap kam insait namel long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/41\/5-8.1792360403291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "wan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "long wan"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kam insait"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "namel long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:23.292819861Z",
+  "model": "glm-5.3"
+}

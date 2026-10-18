@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש i klostu long 'bel\/wind bilong laip' — 'soul' i no stret long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol bel sot",
+      "rationale": "רחמי i min 'marimari\/mama i holim pikinini long bel' — 'ol bel sot' i holem mining long wanpela tok"
+    }
+  ],
+  "translation": "Man bilong stret pasin i save long bel bilong ol animal bilong em; tasol ol bel sot bilong ol man nogut i olgeta olsem pasin bilong makim pen saksak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/12\/9-12.1792359488555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "i save long"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man bilong stret pasin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ol animal bilong em"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tasol ol bel sot bilong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "i olgeta olsem pasin bilong makim pen saksak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:08.556872528Z",
+  "model": "glm-5.3"
+}

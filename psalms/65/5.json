@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i no gat pronoun bilong ol man yu makim; Tok Pisin i nidim"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נשבעה",
+      "rationale": "JPS i ritim olsem 'yumi ken karamap' (cohortative); mi tanim olsem pastaim, i tok pinis"
+    }
+  ],
+  "translation": "I gutpela tru long ol man yu makim, na yu kirapim ol ⟨ol⟩ i kam klostu long yu — ol i stop long ol yad bilong yu; mipela i karamap long gutpela samting bilong haus bilong yu, long holi ples bilong tempel bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/65\/5-8.1792358415649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "i gutpela tru"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "yu makim"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "yu kirapim ol i kam klostu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "i stop"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "long ol yad bilong yu"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "mipela i karamap"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "long gutpela samting"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "bilong haus bilong yu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ples bilong tempel bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:15.650446524Z",
+  "model": "glm-5.3"
+}

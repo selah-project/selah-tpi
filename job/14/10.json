@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואיו",
+      "rationale": "Hibru 'na we em?' — kwesten bilong tok; olse 'we na em i stap?' o 'em i go we?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר\/אדם",
+      "rationale": "Tupela tok bilong man i stap klostu, olsem repetisen — i lus long Tok Pisin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויחלש",
+      "rationale": "Sapos 'em i go daunbilo' (decay) o 'i pundaun' — lay weak"
+    }
+  ],
+  "translation": "Na man i dai, na i pundaun; man i pulim laswin, na em i stap we?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/14\/9-12.1792360008236.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "Na man"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "na i pundaun"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "man i pulim laswin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "em i stap we?"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:48.236887270Z",
+  "model": "glm-5.3"
+}

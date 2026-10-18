@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניתי",
+      "rationale": "Ketiv 'I bought' vs qere 'you bought' — Boaz telling the redeemer what his purchase entails; rendered as 'you bought'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added to make the object of the second purchase explicit."
+    },
+    {
+      "kind": "you",
+      "subject": "Boas i tok long man bilong baim bek",
+      "rationale": "Direct address of Boaz to the kinsman-redeemer at the gate."
+    }
+  ],
+  "translation": "Na Boas i tok: Long dei yu baim ⟨את⟩ gaden bilong han bilong Naomi, na wantaim ⟨את⟩ Rut, meri bilong Moab, meri bilong man i dai pinis, yu baim ⟨em⟩ bilong kirapim nem bilong man i dai pinis antap long pes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/4\/5-8.1792360540520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Long dei"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "yu baim"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "bilong han"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rut"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "meri bilong Moab"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "המת",
+      "gloss": "man i dai pinis"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "yu baim ⟨em⟩"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "bilong kirapim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "המת",
+      "gloss": "bilong man i dai pinis"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:40.520986834Z",
+  "model": "glm-5.3"
+}

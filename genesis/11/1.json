@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lip",
+      "rationale": "שׂפה em i lip bilong maun; long hia em i minim tok ples (lanwis), olsem wanem lip i wokim tok"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "wanpela \/ wankain",
+      "rationale": "אחת na אחדים — wankain rif bilong wan, i soim wan lanwis tasol"
+    }
+  ],
+  "translation": "Na i kamap: graun olgeta i gat wanpela lip, na ol tok i wankain olgeta.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/11\/1-4.1792346448754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lip"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na ol tok"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "i wankain olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:48.754826423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 9:27",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויתן ... נתן",
+      "rationale": "Root נתן repeated at both halves of the verse, framing the silver\/cedar parallelism."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sefela",
+      "gloss-not": "",
+      "rationale": "הַשְּׁפֵלָה is the Lowland\/foothill region of Judah; kept as proper name."
+    }
+  ],
+  "translation": "Na king i givim ⟨את⟩ silva long Yerusalayim olsem ol ston, na ⟨את⟩ ol seda i givim olsem ol sekemor diwai we i stap long Sefela, planti tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "49b2545661bf46664ed5c415d2598f8abe802bcdd833ef3f70b674baa43c20c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/9\/25-28.1792362417940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na ... i givim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "olsem ol ston"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol seda"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ol seda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "olsem ol sekemor diwai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "i stap long Sefela"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "planti tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T22:26:57.941757160Z",
+  "model": "glm-5.3"
+}

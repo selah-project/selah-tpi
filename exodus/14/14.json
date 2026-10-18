@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klo",
+      "rationale": "חרשׁ — tutpela mining: 'klo\/holdim pes' na 'wokim graun\/plaun'; long hia em i 'holdim tok, klo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yahwe pait \/ yupela klo",
+      "rationale": "Kontras: Yahwe i wokim pait, man i wokim nunuting — tupela lain tok i daun long wanpela ves."
+    }
+  ],
+  "translation": "Yahwe bai ⟨i⟩ pait long yupela, na yupela ⟨i⟩ klo.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/14\/13-16.1792347604235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "bai i pait"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na yupela"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "klo"
+    }
+  ],
+  "timestamp": "2026-10-18T18:20:04.236742635Z",
+  "model": "glm-5.3"
+}

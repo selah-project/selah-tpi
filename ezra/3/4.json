@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "long namba",
+      "rationale": "במספר — ol namba bilong ol ofa, ol i skelim olgeta de bilong feast (Stat 29)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ... יום ביומו",
+      "rationale": "Repitisen bilong 'de long de' — rait bilong ves i pulap long olsem, Tok Pisin i holim em."
+    }
+  ],
+  "translation": "Na ol i wokim ⟨את⟩ feast bilong ol haus sel, olsem ol i raetim; na ol ofa bilong paia ol i kukim olgeta — de long wanpela de, long namba, olsem pasin bilong skelim, wok bilong wanpela de long de bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/3\/1-4.1792361412327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feast bilong ol haus sel"
+    },
+    {
+      "surface": "חג",
+      "gloss": "feast"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "bilong ol haus sel"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "olsem ol i raetim"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "na ofa bilong paia ol i kukim olgeta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long wanpela de"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "long namba"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "olsem pasin bilong skelim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "long de bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:10:12.328630191Z",
+  "model": "glm-5.3"
+}

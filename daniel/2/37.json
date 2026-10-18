@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Aramaic lacks copula; Tok Pisin needs 'yu em i king'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Nevukadnessar king",
+      "rationale": "Daniel addresses the king directly"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloa",
+      "rationale": "אלה is Aramaic singular 'God', rendered Eloa per discipline, not 'God'"
+    }
+  ],
+  "translation": "Yu, king, yu ⟨em⟩ king bilong ol king, bilong wanem Eloa bilong heven i givim ⟨i⟩ kingdom, strong, powa na glori long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b048f3ce3e136ccdc75a7bf5a9f673b704c205c1c898a28b998571226e0955f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/2\/37-40.1792361069355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "king"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "bilong ol king"
+    },
+    {
+      "surface": "די",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "bilong heven"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "powa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "glori"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:04:29.355751149Z",
+  "model": "glm-5.3"
+}

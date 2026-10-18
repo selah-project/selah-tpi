@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Promon bilong Tok Pisin; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "karim tingting rong",
+      "rationale": "ונשא חטאו — lit. 'em bai kotlinap pekt bilong em'; nashom i 'karim'"
+    }
+  ],
+  "translation": "Na yu tokim ol pikinini man bilong Yisrael, i tok: man, man — sapos em i tok bagarap Elohim bilong ⟨em⟩, em bai karim ⟨את⟩ tingting rong bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/13-16.1792348756170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "yu tokim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "em i tok bagarap"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim bilong em"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "em bai karim"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "tingting rong bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:16.170964928Z",
+  "model": "glm-5.3"
+}

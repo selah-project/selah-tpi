@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ai bilong mi i stap long yu",
+      "rationale": "איעצה עליך עיני: 'I will counsel you, my eye upon you' vs reading the eye as instrument ('guide you with my eye')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "soim yu",
+      "rationale": "ואורך from אור 'give light\/direct' — could also be 'shine light on the road for you'"
+    },
+    {
+      "kind": "you",
+      "subject": "long man i beten",
+      "rationale": "God speaks, addressing the faithful one directly with promises of instruction"
+    }
+  ],
+  "translation": "Bai mi skulim yu gutpela, na bai mi soim yu rot bilong yu; bai mi givim save long yu, ai bilong mi i stap long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/32\/5-8.1792358154751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "bai mi skulim yu gutpela"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "na bai mi soim yu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yu ken wokabaut"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "bai mi givim save"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:54.753329480Z",
+  "model": "glm-5.3"
+}

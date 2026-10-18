@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel\/tingting bilong man, no 'hat'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדתיו ידרשוהו",
+      "rationale": "tupela tok i pinis long sufiks -ו (bilong em \/ em), olsem wanem singaut i go bek long em, em i lus long Tok Pisin"
+    }
+  ],
+  "translation": "Ol i stap gutpela, ol man i lukautim ol tok witnes bilong em, wantaim olgeta bel ol i painim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/1-4.1792359104353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol i stap gutpela"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ol man i lukautim"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ol tok witnes bilong em"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "ol i painim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:44.354223025Z",
+  "model": "glm-5.3"
+}

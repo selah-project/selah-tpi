@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Aleph-tav וה־ i makim wanpela samting meri (siti o graun) we tok bilong bipo i tokim; Tok Pisin i nidim ⟨em⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "em i wokim ⟨את⟩⟨em⟩",
+      "rationale": "Samting we אותה i pointim i no klia: graun (Stat 1), o siti Yerusalayim, o ol tok bilong profet — ol tanim tok i no wankain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה · יוצר · להכינה",
+      "rationale": "Tripela pasin bilong wokim (wokim, fominim olsem pota, stanapim) i makim nem Yahwe tripela taim — structure i lus liklik long Tok Pisin"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok, em i wokim ⟨את⟩⟨em⟩, Yahwe i fominim ⟨em⟩ bilong stanapim ⟨em⟩ — Yahwe, nem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/33\/1-4.1792355543345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "i fominim"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "em (graun\/siti i stap yet, i no kalarem)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "bilong stanapim em"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:32:23.346332396Z",
+  "model": "glm-5.3"
+}

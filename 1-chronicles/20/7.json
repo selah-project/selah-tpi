@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i dai",
+      "rationale": "ויכהו 'striking' ends in death; 'i dai' spells out what the narrative implies, following the versions' 'slew him'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tok nating",
+      "rationale": "חרף literally 'strip\/flatten': versions render 'defied', 'taunted', 'blasphemed' — Tok Pisin 'tok nating' takes the taunting sense"
+    }
+  ],
+  "translation": "Na em i tok nating long ⟨את⟩ Yisrael, na Yonatan, pikinini bilong Simea, brata bilong David, i paitim em i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec9db1456fca7ad1f12e8cde3afd9fe908604017e581be5d4f1dbc3983260dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/20\/7-8.1792363490946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "i tok nating long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i paitim em i dai"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:50.946473056Z",
+  "model": "glm-5.3"
+}

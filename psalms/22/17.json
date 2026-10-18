@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "MT pointing reads 'like a lion' (verbless clause), while KJV 'they pierced' reads כארו (from כור); DSS and LXX vary on this line."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "MT as 'like a lion' lacks a verb; Tok Pisin needs ⟨i stap⟩ to complete the clause."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבבוני\/הקיפוני",
+      "rationale": "Two near-synonymous verbs of surrounding in parallel cola; the repetition intensifies the encirclement."
+    }
+  ],
+  "translation": "Long wanem, ol dok i raunim mi; olgeta lain bilong ol man i wokim nogut i raunim mi; olsem laion ⟨i stap⟩ long ol han bilong mi na ol lek bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/17-20.1792358015149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ol dok i raunim mi"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "ol dok"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "olgeta lain"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bilong ol man i wokim nogut"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "i raunim mi"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "olsem laion"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ol han bilong mi"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "na ol lek bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.150014570Z",
+  "model": "glm-5.3"
+}

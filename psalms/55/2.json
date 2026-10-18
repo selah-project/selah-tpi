@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩",
+      "rationale": "Tok Pisin i laikim pronoun; Hibru i tok 'yu i no ken hait' long pasin reflekso."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Bangu i go stret long Elohim — toktok direk long em."
+    }
+  ],
+  "translation": "Harim gut, Elohim, bangu bilong mi, na no ken hait ⟨yu⟩ yet long askim bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/1-4.1792358340692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "harim gut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "bangu bilong mi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "hait yu yet"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "long askim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:00.693173921Z",
+  "model": "glm-5.3"
+}

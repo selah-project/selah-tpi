@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם ישך משלח",
+      "rationale": "Hebrew 'if there is you sending' = Tok Pisin 'Sapos yu laik salim', conditional with participle."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "This את is H854 'with us' (preposition), not the aleph-tav DOM marker; rendered 'wantaim mipela' without ⟨את⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונשברה",
+      "rationale": "שבר literally 'break\/grain-trade'; rendered 'baim kaikai' (buy food), the grain-dealing sense."
+    }
+  ],
+  "translation": "Sapos yu salim ⟨את⟩ brata bilong yumi ⟨את⟩ wantaim mipela, mipela i go daun, na mipela baim kaikai bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a02450eb7e67ddebf6e41c618b43d174cd3ba997bec422cf6a54781603183074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/43\/4-4.1792362892625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yu laik"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brata bilong yumi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "brata bilong yumi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wantaim mipela"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "mipela i go daun"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "na mipela baim kaikai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:52.626272206Z",
+  "model": "glm-5.3"
+}

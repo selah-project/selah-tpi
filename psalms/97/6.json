@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun long Tok Pisin; Hibru i stap long possessive suffix -ו long tsedeku na khavodo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד em i 'weva\/hevi' bilong man; 'glori' i klostu tasol em i smol long mining"
+    }
+  ],
+  "translation": "Ol heven i autim tok bilong tsedek bilong ⟨em⟩, na olgeta manmeri bilong olgeta kantri i lukim ⟨em⟩ i gat glori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/97\/5-8.1792358870247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "i autim tok bilong"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedek bilong em"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na i lukim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "manmeri bilong olgeta kantri"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glori bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:50.254600571Z",
+  "model": "glm-5.3"
+}

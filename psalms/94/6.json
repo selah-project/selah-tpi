@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew omits the subject 'they'; Tok Pisin requires ⟨ol⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kilim",
+      "rationale": "ירצחו is the verb of murder (רצח), distinct from plain killing; Tok Pisin uses one verb with context marking the crime"
+    }
+  ],
+  "translation": "Ol i kilim ⟨את⟩ ol wida na ⟨את⟩ ol man bilong narapela ples, na ol i kilim ⟨את⟩ ol pikinini bilong ol papa i dai pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/94\/5-8.1792358825164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ol wida"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "na ol man bilong narapela ples"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ol i kilim ⟨את⟩",
+      "marks": "ol wida na ol man bilong narapela ples"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "na ol pikinini bilong ol papa i dai pinis"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ol i kilim ⟨את⟩",
+      "marks": "ol pikinini bilong ol papa i dai pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:05.169606488Z",
+  "model": "glm-5.3"
+}

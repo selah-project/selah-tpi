@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "HebRU i no gat 'to be' long hen — mi putim ⟨ol i⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lida",
+      "rationale": "מושל partisip bilong משל 'bosim' — man i bosim, king o lida."
+    }
+  ],
+  "translation": "Lida i harim tok giaman, olgeta man bilong wok long em ol i man nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/9-12.1792359753640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "lida"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "man bilong wok long em"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol i man nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:33.641902935Z",
+  "model": "glm-5.3"
+}

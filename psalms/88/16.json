@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפונה",
+      "rationale": "Root פון 'to turn, be perplexed' occurs only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאתי אמיך",
+      "rationale": "'I have borne your terrors' (JPS) vs 'while I suffer your terrors' (KJV) — bearing vs enduring."
+    }
+  ],
+  "translation": "Mi penet mi yet, na mi go klostu long dai stat long taim bilong yangpela; mi karem ol pret bilong yu, mi tingting i bagarap olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/88\/13-16.1792358771058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "mi penet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "na mi go klostu long dai"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "stat long taim bilong yangpela"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi karem"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ol pret bilong yu"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "mi tingting i bagarap olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:11.061171287Z",
+  "model": "glm-5.3"
+}

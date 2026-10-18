@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "הבית 'the house' means the king's palace; pronoun added to make the referent clear."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המס",
+      "rationale": "mas is forced-labor levy, a burden of conscripted work, not just 'tribute' money."
+    }
+  ],
+  "translation": "Na Ahisar i bosim haus bilong ⟨em⟩; na Adoniram, pikinini bilong Avda, i bosim ol wok bijain bilong takis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/4\/5-8.1792352690048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "Na Ahisar"
+    },
+    {
+      "surface": "על",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus bilong ⟨em⟩"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "na Adoniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ol wok bijain bilong takis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:50.049847226Z",
+  "model": "glm-5.3"
+}

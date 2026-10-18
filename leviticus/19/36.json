@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 19:36",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדק ×4",
+      "rationale": "Fopa taun wanpela tok 'tsedek' — repitisen bilong pasin; Tok Pisin i holim 'tsedek' olgeta fopa ples"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skel · ston · efa · hin",
+      "rationale": "Ves i listim olgeta mak bilong skelim — skel, ston bilong we, efa (kaikai), hin (wara)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Yahwe i tok stret long ol man bilong Yisrael: 'mi Yahwe Elohim bilong yu'"
+    }
+  ],
+  "translation": "Ol skel bilong tsedek, ol ston bilong tsedek, efa bilong tsedek, na hin bilong tsedek i mas stap long yu; mi Yahwe Elohim bilong yu, we mi bringim ⟨את⟩ yu i go ausait long graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/19\/33-36.1792348652892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ol skel bilong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ol ston bilong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "איפת",
+      "gloss": "efa bilong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "והין",
+      "gloss": "na hin bilong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i mas stap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mi bringim i go ausait"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:32.893430718Z",
+  "model": "glm-5.3"
+}

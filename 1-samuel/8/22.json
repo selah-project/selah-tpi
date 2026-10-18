@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקולם",
+      "rationale": "קול em i 'singaut\/olgeta tok', tasol long Tok Pisin 'harim ol long singaut bilong ol' i no stret; mi usim 'olgeta tok bilong ol'."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe i tok long Semuel",
+      "rationale": "Tok stret long Semuel — bilin: yu harim, yu kirapim king."
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכו",
+      "rationale": "Samuel i tokim ol man bilong Yisrael: 'Go, wanwan man i go long taun bilong em' — komand bilong go."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Semuel: Yu harim ol long olgeta tok bilong ol, na yu kirapim king bilong ol. Na Semuel i tok long ol man bilong Yisrael: Go, wanwan man i go long taun bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/21-22.1792351514812.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ol long olgeta tok bilong ol"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "na yu kirapim king"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "i go long taun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:14.813726751Z",
+  "model": "glm-5.3"
+}

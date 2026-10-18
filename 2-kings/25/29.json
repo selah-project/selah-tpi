@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "senisim",
+      "rationale": "שנא normally 'hate' (les long), but here 'alter\/change' — same root, second sense; ancient versions agree on 'changed'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "rationale": "pronoun added to make clear whose presence — the king's face in context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגדי כלאו",
+      "rationale": "construct chain 'clothes-of his-prison' kept bound with bilong"
+    }
+  ],
+  "translation": "Na em i senisim ⟨את⟩ ol klos bilong prisin, na em i kaikai bret oltaim long ai bilong ⟨en⟩, olgeta de bilong laip bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/29-30.1792353784275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "na em i senisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol klos bilong prisin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ol klos"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "bilong prisin"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na em i kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long ai bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "bilong laip bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:04.275795824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרץ",
+      "rationale": "KJV 'destruction', JPS 'gadfly' (insect tormenting cattle), YLT 'rending' — hapax; 'gadfly' suits the heifer image."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol birua i rausim olgeta",
+      "rationale": "קרץ literally 'extirpation by constriction'; rendered as agent-like phrase, losing the constriction picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא בא",
+      "rationale": "Doubled verb 'comes, it comes' — urgency of approaching doom, kept by repetition."
+    }
+  ],
+  "translation": "Mitsrayim em i olsem pikinini bulmakau meri, gutpela tru olgeta; tasol ol birua i rausim olgeta long hap nait, em i kamap, em i kamap tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "39a0548c4ffc8fb9dd73f6eda91c28f47341e01de1992d8af83878935eae6c1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/46\/20-20.1792363224570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "pikinini bulmakau meri"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "gutpela tru"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "ol birua i rausim olgeta"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "long hap nait"
+    },
+    {
+      "surface": "בא",
+      "gloss": "em i kamap"
+    },
+    {
+      "surface": "בא",
+      "gloss": "em i kamap tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:24.570644839Z",
+  "model": "glm-5.3"
+}

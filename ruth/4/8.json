@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישלף",
+      "rationale": "Subject of 'he drew off' is ambiguous in Hebrew — the redeemer (performing the custom) or Boaz; rendered as the redeemer."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun supplied to fix the subject of the sandal-removal."
+    }
+  ],
+  "translation": "Na man bilong baim bek i tok long Boas: Baim bilong yu yet. Na em i rausim su bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/4\/5-8.1792360540520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "man bilong baim bek"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "long Boas"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "baim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu yet"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "na em i rausim"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "su bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:40.521540864Z",
+  "model": "glm-5.3"
+}

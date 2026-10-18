@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "Superscription giving the historical setting of the psalm (1 Samuel 21–22)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "names listed",
+      "rationale": "Verse lists the names Doeg, Sha-ul, David and Akimelek fixing the narrative frame."
+    }
+  ],
+  "translation": "Taim Doeg, man bilong Edom, i kam, na em i autim tok long Sha-ul, na em i tok long ⟨em⟩: David i kam insait long haus bilong Akimelek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/52\/1-4.1792358346226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Taim … i kam"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "man bilong Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "na em i autim tok"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Sha-ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam insait"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "bilong Akimelek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:06.226996916Z",
+  "model": "glm-5.3"
+}

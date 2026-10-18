@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "Hebrew 'face of' rendered as 'long pes bilong', keeping the body-part picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Tok Pisin completive added to render the Hebrew passive participle 'blessed'."
+    }
+  ],
+  "translation": "Na king Selomo i barukim pinis, na tron bilong David bai i stap strong pastaim long Yahwe, olgeta taim i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4da071bb18e89c22cd63de8ed9af03d818449d3b2626744a1242aca16117874e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/45-46.1792352660250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i barukim pinis"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "na tron"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "strong pastaim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:20.250873782Z",
+  "model": "glm-5.3"
+}

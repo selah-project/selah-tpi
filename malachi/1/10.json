@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 1:10",
+  "book": "malachi",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Hu yet long yumi bai sarapim ol dua",
+      "rationale": "מי גם read as a wish ('who would shut the doors!') or a question about who serves for free; Hebrew is ambiguous."
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא תאירו",
+      "rationale": "Hebrew vav on the verb makes 'and ye kindle not'; rendered as purpose clause 'bai yupela no ken laitim'."
+    },
+    {
+      "kind": "you",
+      "subject": "ol prias",
+      "rationale": "Yahwe i tokim ol prias long haus bilong God."
+    }
+  ],
+  "translation": "Hu yet long yumi bai sarapim ol tupela dua, bai yupela no ken laitim paia long alta bilong mi long nating? Mi no gat laik long yupela, Yahwe Tsebaot i tok; na minkha long han bilong yupela bai mi no laikim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/malachi\/1\/9-12.1792357744514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yet"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "bai sarapim"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ol tupela dua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאירו",
+      "gloss": "laitim paia"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "long alta bilong mi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "long nating"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no gat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "laik"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "na minkha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bai mi laikim"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "long han bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:04.515067197Z",
+  "model": "glm-5.3"
+}

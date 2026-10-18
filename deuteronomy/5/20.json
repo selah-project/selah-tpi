@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד שוא",
+      "rationale": "YLT olsem 'answer ... a false testimony' — ana i min 'autim tok'; KJV 'bear false witness'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waitman",
+      "rationale": "ed i min man i tok olsem waitman long kot; tok Tok Pisin bilong kot."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim objekt; Hebri i no gat pronoun."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Lo i tok stret long man bilong Yisrael."
+    }
+  ],
+  "translation": "Na yu no ken givim tok nogut long ⟨em⟩ olsem waitman — tok gutpela i gat nogut — long wantok bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/17-20.1792349766628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "givim tok"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "long wantok bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olsem waitman"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tok gutpela i gat nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:06.629672966Z",
+  "model": "glm-5.3"
+}

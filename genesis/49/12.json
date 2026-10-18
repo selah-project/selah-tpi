@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חכלילי",
+      "rationale": "Tok חכליל i stap long Tanakh hia tasol — ai i shine\/red"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Hibru i no tok 'bilong en' — Tok Pisin i laikim klariti, tasol olgeta ves i save tokim Yuda"
+    }
+  ],
+  "translation": "Ol ai bilong en i red long wain, na ol tit bilong en i waitpela long susu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/49\/9-12.1792347311187.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "i red"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ol ai bilong en"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "long wain"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "i waitpela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ol tit bilong en"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "long susu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:11.188787811Z",
+  "model": "glm-5.3"
+}

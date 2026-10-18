@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong mipela",
+      "rationale": "ונדרשה em i cohortative 'yumi askim'; Tok Pisin i nidim 'bilong mipela'"
+    },
+    {
+      "kind": "you",
+      "subject": "quesin long king bilong Yisrael",
+      "rationale": "Yehoshafat i askim king long quesin"
+    }
+  ],
+  "translation": "Na Yehoshafat i tok: I no gat wanpela profet bilong Yahwe hia moa, bilong mipela i ken askim long ⟨את⟩ em?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/5-8.1792353273844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "I no gat"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hia"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "bilong mipela askim"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "long ⟨את⟩ em",
+      "marks": "profet bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:33.845235069Z",
+  "model": "glm-5.3"
+}

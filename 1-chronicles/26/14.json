@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 26:14",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long not",
+      "rationale": "Hebrew צפונה derives from 'hidden\/dark'; Tok Pisin compass term 'not' loses that shade."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol goral",
+      "rationale": "Lot-casting assigning gate positions; the verse records which lot fell to whom."
+    }
+  ],
+  "translation": "Na goral bilong long sait bilong san i kamap i go long Selemjahu; na long Zekarjahu, pikinini bilong en, man i save givim toktok wantaim save, ol i sutim ol goral, na goral bilong en i kamaut long not.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/26\/13-16.1792362184150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "i go daun long"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goral"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "long sait bilong san i kamap"
+    },
+    {
+      "surface": "לשלמיהו",
+      "gloss": "long Selemjahu"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "na Zekarjahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "man i save givim toktok"
+    },
+    {
+      "surface": "בשכל",
+      "gloss": "wantaim save"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "ol i sutim"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ol goral"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i kamaut"
+    },
+    {
+      "surface": "גורלו",
+      "gloss": "goral bilong en"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "long not"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:04.151405352Z",
+  "model": "glm-5.3"
+}

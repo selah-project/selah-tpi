@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 27:19",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הים",
+      "rationale": "'The Sea' — the bronze basin of the temple — rendered 'bikpela basin bilong wara', not ocean."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העמדים",
+      "gloss": "",
+      "rationale": "'The standing columns' (Jachin and Boaz) rendered 'ol pilaia'; shape as standing things kept."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol kago bilong haus bilong Yahwe",
+      "rationale": "Verse inventories the temple furnishings item by item."
+    }
+  ],
+  "translation": "Long wanem, olsem ia Yahwe Tsebaot i tok long ol pilaia, na long bikpela basin bilong wara, na long ol ston stant, na long ol kago narapela i stap yet long dispela siti —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5be01117f3073b00fe12666d113c7d51725eab4bb7794bda23ca90e1bdf629ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/27\/17-20.1792355415959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem ia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ol pilaia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bikpela basin bilong wara"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ol ston stant"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ol kago narapela"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kago"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long siti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:30:15.960218372Z",
+  "model": "glm-5.3"
+}

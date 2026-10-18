@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun suffix -ו long תהלתו; Tok Pisin i nidim ⟨em⟩ bilong lukim nem"
+    }
+  ],
+  "translation": "Bilong autim nem bilong Yahwe long Tsiyon, na tok prais bilong ⟨em⟩ long Yerusalayim",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/102\/21-24.1792358886341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "bilong autim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "long Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "na tok prais bilong ⟨em⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:06.342326655Z",
+  "model": "glm-5.3"
+}

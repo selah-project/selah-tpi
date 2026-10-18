@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "papa bilong en bai i dai",
+      "rationale": "Hebrew says only 'and he died'; subject 'father' supplied from context, as in KJV\/JPS"
+    },
+    {
+      "kind": "alternative",
+      "subject": "em bai i dai",
+      "rationale": "literal Hebrew leaves the dying one unspecified (Yehudah himself or the father)"
+    }
+  ],
+  "translation": "Na mipela i tokim bikman bilong mipela: Liklik man no inap lusim ⟨את⟩ papa bilong en; sapos em i lusim ⟨את⟩ papa bilong en, papa bilong en bai i dai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/44\/21-24.1792347177523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Na mipela i tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong mipela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "inap"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "liklik man"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa bilong en"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "sapos em i lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa bilong en"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bai i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:57.523904043Z",
+  "model": "glm-5.3"
+}

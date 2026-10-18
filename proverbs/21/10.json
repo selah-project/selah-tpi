@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i 'throat\/wind\/bilong' — Tok Pisin 'bel' (tingting na laik) i klostu moa long 'soul'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Hebru i no gat pronom bilong 'his' long 'neighbour' — em i stap long klostu"
+    }
+  ],
+  "translation": "Bel bilong man nogut i laikim olsem nogut; poro bilong en i no gat marimari long ai bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/9-12.1792359618211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bilong man nogut"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "olsem nogut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "gat marimari"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "long ai bilong en"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poro bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:18.212613185Z",
+  "model": "glm-5.3"
+}

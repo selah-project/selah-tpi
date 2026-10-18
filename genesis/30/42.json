@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i no strong",
+      "rationale": "העטיף literally 'covered\/feeble' — rendered 'not strong' rather than 'weak' shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em i kamap⟩",
+      "rationale": "Hebrew verbless possession clause 'the feeble were Laban's' needs Tok Pisin verb."
+    }
+  ],
+  "translation": "Tasol taim ol sipsip i no strong, em i no putim ol stik; olsem ⟨em i kamap⟩ ol i no strong ol i bilong Laban, na ol istrong ol i bilong Yakov.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7def11520fd0a55328150e46a9097a7845e15b54accd58f7ec7c6a23d8a0863c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/30\/41-43.1792346917284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "tasol taim ol i no strong"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "em i no putim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ol i no strong"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ol i bilong Laban"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "na ol istrong"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ol i bilong Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:37.285387592Z",
+  "model": "glm-5.3"
+}

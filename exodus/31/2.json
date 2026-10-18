@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong em",
+      "rationale": "Hebrew lacks explicit pronoun; 'called by name' implies the named one"
+    }
+  ],
+  "translation": "Lukim, mi bin kolim nem bilong em: Betzalel, pikinini bilong Uri, pikinini bilong Hur, bilong tribu bilong Yehuda.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/1-4.1792347897371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi bin kolim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nem bilong"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bilong tribu bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:57.371686888Z",
+  "model": "glm-5.3"
+}

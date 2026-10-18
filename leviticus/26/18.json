@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tim",
+      "rationale": "שבע em i 'seven' tasol; hia em i minim 'seventaim' — olsem ol existering rendering i tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ליסרה",
+      "rationale": "yasar — skelim\/salonim; Tok Pisin 'skelim' i holim wanbel bilong kot na pasin bilong paitim man i rong"
+    }
+  ],
+  "translation": "Na sapos isi long ol dispela samting yupela i no harim tok bilong mi, bai mi givim moa skelim long ⟨את⟩ yupela seventaim, long bilong ol sin bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/17-20.1792348845210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "isi long"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "yupela i harim tok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "bai mi givim moa"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "skelim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seventaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long bilong"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ol sin bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:40:45.211514757Z",
+  "model": "glm-5.3"
+}

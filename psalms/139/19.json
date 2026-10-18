@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם תקטל",
+      "rationale": "Conditional 'if you would slay' (JPS\/YLT) vs declarative 'surely you will slay' (KJV) vs wish 'O that you would slay' (Geneva)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "סורו מני",
+      "rationale": "Imperative addressed to the men of blood: 'turn aside from me!'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Eloa and to the wicked",
+      "rationale": "Verse addresses God in wish and then the bloodthirsty men in direct command."
+    }
+  ],
+  "translation": "Sapos yu kilim ⟨את⟩ man nogut, Eloa — ol man bilong blut, go ausait long mi!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/17-20.1792359295420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "yu kilim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bilong blut"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "go ausait"
+    },
+    {
+      "surface": "מני",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:55.421584607Z",
+  "model": "glm-5.3"
+}

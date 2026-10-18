@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "liklik yet",
+      "rationale": "Hebrew has bare ואם מעט 'and if little'; 'yet' supplied to smooth the conditional"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כהנה וכהנה",
+      "rationale": "'so and so' — a wave-of-the-hand gesture meaning 'such-and-such things', kept literal"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol meri bilong masta bilong yu",
+      "rationale": "נשי אדניך — did David take Saul's wives, or is this royal harem transfer as covenant grant? Translators divide on implication"
+    }
+  ],
+  "translation": "Na mi givim ⟨את⟩ haus bilong masta bilong yu long yu, na ⟨את⟩ ol meri bilong masta bilong yu long lap bilong yu; na mi givim ⟨את⟩ haus bilong Yisrael na Yehuda long yu; na sapos em i liklik yet, mi bain givim olsem dispela na olsem dispela long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/5-8.1792352326806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "na mi givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong masta bilong yu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bilong masta bilong yu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol meri bilong masta bilong yu"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ol meri bilong"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "masta bilong yu"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "long lap bilong yu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "na mi givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Yisrael na Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "mi bain givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "olsem dispela"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "na olsem dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:46.808702947Z",
+  "model": "glm-5.3"
+}

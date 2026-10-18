@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבך",
+      "rationale": "Verb and noun from same root ריב — 'plead your plea' — repetition kept partially by 'kotim kot bilong yu'."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Imperatives (Kamap, kotim, tingim) addressed directly to Elohim."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kamap",
+      "rationale": "Summons to Elohim to rise and act — the verse's speech-act is a call."
+    }
+  ],
+  "translation": "Kamap, Elohim, kotim kot bilong yu; tingim sem bilong yu we man nogut i givim yu, olgeta de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/21-23.1792358520871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kamap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "kotim"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kot bilong yu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tingim"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "sem bilong yu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "we"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:00.872678513Z",
+  "model": "glm-5.3"
+}

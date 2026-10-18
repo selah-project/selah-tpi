@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yu",
+      "rationale": "אף i min nek \/ nus, tasol long Tok Pisin 'bel' em i ples bilong bel — wanpela tok, wanpela mining."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Ol imperativ — Kirap, Kirap antap, Kirap — em i tok daun long Yahwe yet."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperativ long psalm",
+      "rationale": "Tupela tripela imperativ (קומה, הנשא, ועורה) ol i singautim man bilong rit long tingim"
+    }
+  ],
+  "translation": "Kirap, Yahwe, long bel bilong yu; kirap antap long bel bilong ol birua bilong mi; na kirap long mi — em i kot yu bin salim tok bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/7\/5-8.1792357845556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "kirap antap"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "na kirap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "yu bin salim tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:45.557837224Z",
+  "model": "glm-5.3"
+}

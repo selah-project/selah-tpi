@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "man i pisin long wal",
+      "rationale": "משתין בקיר 'one who urinates against the wall' — Hebrew idiom for every male; kept literally rather than softened to 'every male'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועצור ועזוב",
+      "rationale": "'shut up and left' — read as 'the confined and the free' (ASV\/JPS) or 'slave and free' (BSB); kept the literal pair 'ol i pasim na ol i lusim'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "second 'all' folded into 'olgeta man' before 'man i pisin long wal' to avoid doubling in Tok Pisin"
+    }
+  ],
+  "translation": "Na olgeta man bilong haus Ahab bai ol i lus olgeta, na mi bai katim i go ausait long ol manmeri bilong Ahab olgeta man i pisin long wal, ol man ol i pasim na ol man ol i lusim, long Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/5-8.1792353399557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "bai ol i lus olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na mi bai katim i go ausait long ol manmeri bilong"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "man i pisin"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "long wal"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ol man ol i pasim"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ol man ol i lusim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:56:39.558192769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבחר",
+      "rationale": "Subject unstated: 'they (Israel) chose new gods' (KJV) vs 'He chose new gods' reading; also LXX\/critical text 'he chose new gods' as excuse for war."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מגן אם יראה",
+      "rationale": "Read as a rhetorical question 'was a shield or spear seen?'; alternative: 'a shield — if it was seen — (and) a spear among forty thousand'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "foti tausen",
+      "rationale": "Count of forty thousand in Israel, likely rhetorical for a whole people unarmed."
+    }
+  ],
+  "translation": "Ol i makim ol god bilong nau, na bihain pait i stap long ol dua bilong banis: sapos wanpela magen o wanpela romah i kamap long foti tausen long Yisrael?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/5\/5-8.1792351048756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "ol i makim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bilong nau"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na bihain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pait"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "long ol dua bilong banis"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "magen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "o wanpela romah"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "long foti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:17:28.757573213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "ואדם i 'man' singular-jenelik — Tok Pisin i askim 'ol manmeri' long narapela hap."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מסכן",
+      "rationale": "Tok i kamap tripela taim long vers — man poro i selivim taun, tasol man i no tingim: repitisen em i min bilong stori."
+    }
+  ],
+  "translation": "Na ol i painim long en wanpela man poro, man i gat save, na em i selivim ⟨את⟩ dispela taun wantaim save bilong en; tasol ol manmeri i no tingim ⟨את⟩ dispela man poro.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/9\/13-16.1792360824895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "na ol i painim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "poro"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "i gat save"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "na em i selivim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela taun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dispela taun"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "wantaim save bilong en"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "tasol ol manmeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tingim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela man poro"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dispela man"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "poro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:24.896417276Z",
+  "model": "glm-5.3"
+}

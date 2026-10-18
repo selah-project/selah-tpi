@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Most versions read 'when'; the word is 'for\/because' — kept literal 'Bilong olsem'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew object suffix already on the verb; Tok Pisin needs the free pronoun, bracketed."
+    }
+  ],
+  "translation": "Bilong olsem, Yisrael em i pikinini yet, na mi lavim ⟨em⟩, na long Mitsrayim mi singautim pikinini bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/11\/1-4.1792357082346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong olsem"
+    },
+    {
+      "surface": "נער",
+      "gloss": "pikinini yet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "na mi lavim em"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "na long Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi singautim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pikinini bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:02.346736038Z",
+  "model": "glm-5.3"
+}

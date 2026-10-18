@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 13:5",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "boundaries",
+      "rationale": "Verse lists territorial limits: from Baal-Gad under Hermon to the entrance of Hamath."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבוא חמת",
+      "rationale": "'Entrance of Hamath' vs place-name Lebo-Hamath (BSB); both readings attested."
+    }
+  ],
+  "translation": "Na graun bilong ol man Gebal, na graun Lebanon olgeta, long hap we san i kirap, em i stat long Baal-Gad aninit long maunten Hermon, i go inap long ples bilong go insait long Hamat.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8cf41a4b7fa8893aa5753a38c1f344a4a510821662200d22892bf47dcab6ab0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/5-8.1792350730957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "bilong ol man Gebal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "long hap we san i kirap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "em i stat long Baal-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aninit long"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ples bilong go insait"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:10.958506240Z",
+  "model": "glm-5.3"
+}

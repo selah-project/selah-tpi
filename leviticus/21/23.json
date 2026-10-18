@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Prunaun bilong man i gat mum — Tok Pisin i nidim, Hibru i no gat"
+    },
+    {
+      "kind": "crux",
+      "subject": "Paroket",
+      "rationale": "הפרכת em i klosen bilong klostu long ples holi tru — KJV 'vail', tpi i no gat tok stret"
+    },
+    {
+      "kind": "substitution",
+      "subject": "otel",
+      "rationale": "מזבח em i 'ples bilong ofa' — Tok Pisin 'otel' i wanpela tok bilong baim kaikai"
+    }
+  ],
+  "translation": "Tasol em i no ken go insait long ples bilong Paroket, na em i no ken klostu long otel, long wanem mum i stap long ⟨em⟩; na em i no ken bagarapim ⟨את⟩ ol ples holi bilong mi, long wanem mi, Yahwe, em i wanem i mekim ol i kamap holi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f83cfb63d371f3008651c54734e228c723527d03f3c895c05b2e28d217dc22b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/21\/22-23.1792362949041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ples bilong Paroket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "em i ken go insait"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "otel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "em i ken klostu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mum"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i stap long ⟨em⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "em i ken bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ples holi bilong mi"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ol ples holi bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "em i wanem i mekim ol i kamap holi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:49.042311600Z",
+  "model": "glm-5.3"
+}

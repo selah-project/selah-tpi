@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olah",
+      "rationale": "עלה i min 'samting i go antap' — ol tanim tok i tok 'burnt offering', tasol piksa bilong go antap i lus"
+    },
+    {
+      "kind": "elision",
+      "subject": "המזבחה",
+      "rationale": "-ה long ken i no gat mining sotp, em i tok bilong fasin olsem"
+    }
+  ],
+  "translation": "Na em i wasim ol insait bilong bel na ol leg long wara, na pris i bringim ⟨את⟩ olgeta samting, na em i mekim smel i go long alta; em i olah, ofa bilong paia, smel i gutpela long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/1\/13-16.1792348261929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "ol insait bilong bel"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "ol leg"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "i wasim"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "i bringim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "i mekim smel i go"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "long alta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofa bilong paia"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smel"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:01.929747776Z",
+  "model": "glm-5.3"
+}

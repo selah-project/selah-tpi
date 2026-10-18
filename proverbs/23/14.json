@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש is life-force\/breath, not immaterial 'soul'; rendered 'laip' (life)"
+    },
+    {
+      "kind": "elision",
+      "subject": "משאול",
+      "rationale": "Seol kept as name — world of the dead, not 'hel' or 'paia'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכנו\/תציל",
+      "rationale": "v13 strike (תכנו) repeated in v14 with תציל (deliver) — near-sounding pair, pun lost"
+    }
+  ],
+  "translation": "Yu paitim ⟨em⟩ long stik, na bai yu rausim ⟨את⟩ laip bilong ⟨em⟩ i kirap long Seol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/13-16.1792359699629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "long stik"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "paitim ⟨em⟩"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "na laip bilong ⟨em⟩"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "bai yu rausim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:39.630371003Z",
+  "model": "glm-5.3"
+}

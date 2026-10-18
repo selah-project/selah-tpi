@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kerub",
+      "rationale": "כרובים em i ol kerub — spesal nem bilong ol spirit animal bilong Yahwe, mi no tanim."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישב כרובים",
+      "rationale": "Sindaun long ol kerub (antap long ol) — Hebrew i tok 'sindaun olsem kerub' tasol, 'antap' i no stap."
+    }
+  ],
+  "translation": "Yahwe i king, ol manmeri i skrais; Em i stap sindaun long liklik bilong ol kerub, graun i gat guria.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/99\/1-4.1792358893404.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i king"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "i skrais"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Em i stap sindaun"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "long liklik bilong ol kerub"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "i gat guria"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:13.405008393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object pronoun required by Tok Pisin verb beriim"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובאו...יהלכו",
+      "rationale": "famous crux: who comes and goes from the holy place — the wicked, or others? Versions split (KJV vs ASV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "win nating",
+      "rationale": "הבל literally breath\/vapor, rendered with Tok Pisin idiom 'win nating'"
+    }
+  ],
+  "translation": "Na olsem na mi lukim ol man nogut ol i beriim ol ⟨em⟩, na ol i kamap na i go, na ol i wokabaut i kam long ples holi, na ol i lusim tingting long taun we ol i wokim olsem — dispela tu em i win nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/9-12.1792360822355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "na olsem na"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "ol i beriim"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na ol i kamap na i go"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "na i kam long ples"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "na ol i lusim tingting"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "win nating"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:22.356489698Z",
+  "model": "glm-5.3"
+}

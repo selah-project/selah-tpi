@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "doubled 'vehemently vehemently' — rendered 'tru tumas', two tokens kept apart"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמדו \/ נעמד",
+      "rationale": "same verb 'stand' repeated — rhetorical question turns their own word against them, kept as sanap twice"
+    }
+  ],
+  "translation": "Ol i pret tru tumas, na ol i tok: “Lukim, tupela king i no ken sanap pastaim long em; na mipela — bai mipela ken sanap?”",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/10\/1-4.1792353432866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ol i pret"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "king"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ken sanap"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pastaim long em"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "mipela ken sanap"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:57:12.867506506Z",
+  "model": "glm-5.3"
+}

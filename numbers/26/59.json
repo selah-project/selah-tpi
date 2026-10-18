@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "numbers 26:59",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "nem bilong Yokeved",
+      "rationale": "Genealogy naming Amram's wife and children."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin copula and predicate marker supplied where Hebrew juxtaposes nouns."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר ילדה",
+      "rationale": "Hebrew feminine verb: some read 'whom she (Yokeved's mother?) bore'; KJV 'whom her mother bare' — most render 'who was born to Levi'."
+    }
+  ],
+  "translation": "Na nem bilong meri bilong Amram em i Yokeved, pikinini meri bilong Levi, we em i karim ⟨את⟩ em long Levi long Mitsrayim; na em i karimim long Amram ⟨את⟩ Aharon na ⟨את⟩ Mose na ⟨את⟩ Miryam, kande bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a44fcee9abb88ffa0be749309fba6c7ba61756f0dad9db1bda0dbcc07604682a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/26\/57-60.1792349480581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Na nem bilong"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri bilong"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokeved"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em (Yokeved)"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "long Levi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na em i karimim"
+    },
+    {
+      "surface": "לעמרם",
+      "gloss": "long Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kande bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:51:20.582443304Z",
+  "model": "glm-5.3"
+}

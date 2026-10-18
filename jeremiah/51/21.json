@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 51:21",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "TPi needs the possessor for ורכבו; Hebrew suffix -ו carried by gloss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רכב\/ורכבו",
+      "rationale": "chariot and rider share one root, repetition of ונפצתי בך fourfold across vv.21-23 builds a hammer rhythm"
+    }
+  ],
+  "translation": "Na bai mi brukim long yu ⟨את⟩ hos na ⟨את⟩ man i raidim; na bai mi brukim long yu ⟨את⟩ karet na ⟨את⟩ raida bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "798c93bb06821c716befebabd5488a6ae35623f5d38faae096cc37770bd7ae08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/21-24.1792355913403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפצתי",
+      "gloss": "na bai mi brukim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hos"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "man i raidim"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "na bai mi brukim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karet"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "raida bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:33.403789477Z",
+  "model": "glm-5.3"
+}

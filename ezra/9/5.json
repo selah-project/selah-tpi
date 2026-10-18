@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 9:5",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחת הערב em i minkha bilong apinun — wanpela nem bilong ofa, mi no tanim long 'ofa' tasol"
+    },
+    {
+      "kind": "elision",
+      "subject": "כפי",
+      "rationale": "'hollow hand' — Tok Pisin 'ol han bilong mi' i lusim piksa bilong palam"
+    }
+  ],
+  "translation": "Long taim bilong minkha bilong apinun, mi kirap na lusim fastin bilong mi, na taim mi rausim — mi katim klos bilong mi na sel bilong mi — mi go daun long tupela nin bilong mi, na mi opim ol han bilong mi go long Yahwe, Elohim bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "982049c84460a82ec6587972a55e0746ded68e5147e8be41b20185d7b0dc5df6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/9\/5-8.1792361533821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנחת",
+      "gloss": "long taim bilong minkha bilong"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "mi kirap"
+    },
+    {
+      "surface": "מתעניתי",
+      "gloss": "na lusim fastin bilong mi"
+    },
+    {
+      "surface": "ובקרעי",
+      "gloss": "taim mi katim"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klos bilong mi"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "na sel bilong mi"
+    },
+    {
+      "surface": "ואכרעה",
+      "gloss": "mi go daun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "tupela nin bilong mi"
+    },
+    {
+      "surface": "ואפרשה",
+      "gloss": "na mi opim ol han bilong mi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ol han bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:13.821836552Z",
+  "model": "glm-5.3"
+}

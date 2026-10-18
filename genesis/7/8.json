@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klia",
+      "rationale": "טהור covers ceremonial purity; Tok Pisin 'klia' is the nearest single word but loses the ritual sense."
+    },
+    {
+      "kind": "elision",
+      "subject": "איננה",
+      "rationale": "Hebrew uses אין 'there-is-not' plus pronoun; Tok Pisin needs the predicate structure 'ol i no klia'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הטהורה \/ טהרה",
+      "rationale": "Root טהר repeated — clean \/ not-clean — a deliberate lexical echo kept by repeating 'klia'."
+    }
+  ],
+  "translation": "Long ol animal bilong lukautim i klia, na long ol animal bilong lukautim we ol ⟨i⟩ no klia, na long ol pisin, na olgeta samting we i save wokabaut long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6005f8635fe525b8d74b70a412316f4b91b87761b22fb0796a62f695bc72fd56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/7\/7-8.1792362912192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "i klia"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na long"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ol ⟨i⟩ no"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "klia"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na long"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ol pisin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "i save wokabaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:12.194158148Z",
+  "model": "glm-5.3"
+}

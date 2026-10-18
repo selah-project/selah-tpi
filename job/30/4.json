@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלוח",
+      "rationale": "מלוח (diwai malumak we i gat sol) i kamap long Tanakh hia tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי שיח",
+      "rationale": "JPS i tanim 'wantaim warawara nogut' (שיח = pawa), KJV\/ASV i tanim 'namel long ol liklik diwai' — mi bihainim ol diwai"
+    }
+  ],
+  "translation": "Ol i plukim ol malumak namel long ol liklik diwai, na ol rot bilong diwai retam em i kaikai bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/30\/1-4.1792360274728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "ol i plukim"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "ol malumak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ol liklik diwai"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "na ol rot bilong"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "diwai retam"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "em i kaikai bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:14.729726740Z",
+  "model": "glm-5.3"
+}

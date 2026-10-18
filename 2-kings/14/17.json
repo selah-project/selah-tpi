@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 14:17",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fifteenpela yia",
+      "rationale": "Verse counts the years Amaziah lived after Jehoash's death."
+    },
+    {
+      "kind": "addition",
+      "subject": "olman",
+      "rationale": "Hebrew ויחי 'lived' rendered 'i stap gutpela olman' to make the continuing-life sense clear in Tok Pisin."
+    }
+  ],
+  "translation": "Na Amatsyahu pikinini bilong Yoash, king bilong Yehudah, i stap gutpela olman fifteenpela yia bihain long dai bilong Yehoash pikinini bilong Yehoahaz king bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/17-20.1792353538472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "i stap gutpela olman"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai bilong"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fifteen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(wantaim ten)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:58.472706075Z",
+  "model": "glm-5.3"
+}

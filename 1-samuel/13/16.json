@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבעה \/ גבע",
+      "rationale": "v15 גבעת (Gibeah) and v16 גבע (Geba) — two distinct towns with nearly identical names; the pun\/echo is lost in translation."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Tok Pisin plural 'ol' supplied before manmeri and Plishtim; Hebrew plural suffixes carry it."
+    }
+  ],
+  "translation": "Na Shaul, na Yonatan pikinini man bilong em, na ol manmeri we ol i stap wantaim ol, ol i sindaun long Geba bilong Binyamin; na ol Plishtim ol i setemap kemp long Mikhmas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/13-16.1792351656841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Na Shaul"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong em"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na ol manmeri"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "ol i sindaun"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "long Geba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "bilong Binyamin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na ol Plishtim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ol i setemap kemp"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "long Mikhmas"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.842670961Z",
+  "model": "glm-5.3"
+}

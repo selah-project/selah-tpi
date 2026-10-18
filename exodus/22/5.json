@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם \/ המבער–הבערה",
+      "rationale": "Infinitive-absolute doubling 'pay he-shall-pay' and the pun burner\/burning (מבער\/בערה), both flattened in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Demonstrative added before 'paia' to bind המבער to the fire he lit; Hebrew leaves the link implicit."
+    }
+  ],
+  "translation": "Sapos paia i go aut, na i painim ol dikdik, na em i kaikaiimap stapkain bilong ol kaikai, o ol kaikai i sanap, o gaden — man i kirapim dispela paia i mas peimap olgeta ⟨את⟩ bilong paia i bunim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/5-8.1792347820167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "i go aut"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "na i painim"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ol dikdik"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "na i kaikaiimap"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "stapkain bilong ol kaikai"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ol kaikai i sanap"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "i mas peimap"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bai i peimap olgeta"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "man i kirapim paia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilong paia i bunim"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "paia i bunim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:40.168076392Z",
+  "model": "glm-5.3"
+}

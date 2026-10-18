@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Rakia",
+      "rationale": "רקיע em i nem bilong expanse; mi holim olsem nem, i no tanim olsem 'skai' tasol."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol dispela",
+      "rationale": "אתם i makim ol lait bilong ves 16; Tok Pisin i nidim tok bilong tokim wanem samting."
+    }
+  ],
+  "translation": "Na Elohim i putim ⟨את⟩ ol dispela long Rakia bilong ol heven, bilong givim lait long antap long graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/1\/17-20.1792346249044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol dispela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "long Rakia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "bilong ol heven"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "bilong givim lait"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:29.045323163Z",
+  "model": "glm-5.3"
+}

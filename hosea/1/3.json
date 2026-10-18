@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דבלים",
+      "rationale": "Diblayim occurs only here in the Tanakh — a symbolic name (from דְּבֵלָה, fig-cake)."
+    }
+  ],
+  "translation": "Na em i go, na em i kisim ⟨את⟩ Gomer, pikinini meri bilong Diblayim; na em i pilim bel, na em i bringim pikinini man bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "958d3b6c15167617e99ac0fa1adfc3a9bcbe857f73dc2a12fc5e2331f54a3d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/1\/1-4.1792357004394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na em i go"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na em i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "na em i pilim bel"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na em i bringim pikinini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:44.395568168Z",
+  "model": "glm-5.3"
+}

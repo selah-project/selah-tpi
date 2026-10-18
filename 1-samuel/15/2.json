@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Mi lukluk pinis",
+      "rationale": "פקדתי ranges 'visit, muster, punish, remember' — renderings split between 'I remember' (KJV) and 'I have visited\/inspected'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i putim long em long rot",
+      "rationale": "literally 'set\/placed against him in the way' — idiom for ambushing or blocking the road, here kept semi-literal."
+    }
+  ],
+  "translation": "Olsem Yahwe Tsebaot i tok: Mi lukluk pinis ⟨את⟩ olgeta we Amalek i mekim long Yisrael, we em i putim long em long rot, taim em i kamap antap long Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/1-4.1792351770535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Mi lukluk pinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta we Amalek i mekim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "taim em i kamap antap"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:30.536450132Z",
+  "model": "glm-5.3"
+}

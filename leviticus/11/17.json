@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכוס",
+      "rationale": "Liklik tarangau (KJV\/JPS 'little owl') o pisin kotkot bilong nait; ol man i no wanbel long wanem animal em i tok"
+    },
+    {
+      "kind": "crux",
+      "subject": "השלך",
+      "rationale": "Strong tok 'casting itself into the sea' — pisin bilong solwara o pelikan; no wanbel"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השלך",
+      "rationale": "Tok hia em i wanpela nem bilong pisin, i no stap planti ples long Tanakh"
+    }
+  ],
+  "translation": "na ⟨את⟩ liklik tarangau, na ⟨את⟩ pisin bilong solwara i plaun long wara, na ⟨את⟩ bikpela tarangau bilong nait",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/17-20.1792348412918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "liklik tarangau"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "liklik tarangau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "pisin bilong solwara i plaun long wara"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "pisin bilong solwara i plaun long wara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bikpela tarangau bilong nait"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "bikpela tarangau bilong nait"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:32.919362183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלאת",
+      "rationale": "'bilong putim' (setting stones) vs 'bilong pulimapim' (fill, inlay) — ol tanim tok i no wankain."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim objekt; Hibru i no gat pronoun."
+    }
+  ],
+  "translation": "Na long wokim ston bilong putim ⟨em⟩, na long wokim diwai bilong mekim ⟨em⟩, long olgeta wok bilong han.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/31\/5-8.1792347982654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "na long wokim ston"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "bilong putim ⟨em⟩"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "na long wokim diwai"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong mekim ⟨em⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wok bilong han"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:22.654605256Z",
+  "model": "glm-5.3"
+}

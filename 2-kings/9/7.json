@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bekim blut",
+      "rationale": "ונקמתי 'avenge' rendered 'bekim blut' — Tok Pisin idiom for vengeance, matching the Hebrew blood-idiom"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jehu",
+      "rationale": "Yahwe's commission continues addressing Jehu directly"
+    }
+  ],
+  "translation": "Na yu bai paitim ⟨את⟩ ol man bilong haus Ahab, bikman bilong yu, na mi bai bekim blut bilong ol wokman profet bilong mi, na blut bilong olgeta wokman bilong Yahwe, long han bilong Izebel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/5-8.1792353399557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Na yu bai paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man bilong haus Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ol man bilong haus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bikman bilong yu"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "na mi bai bekim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blut bilong"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "na blut bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-10-18T19:56:39.558018640Z",
+  "model": "glm-5.3"
+}

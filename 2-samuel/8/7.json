@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שלטי",
+      "rationale": "שלט shields-of-gold, rare word for shield"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל עבדי",
+      "rationale": "'on the servants' vs 'belonging to the servants' — KJV 'on', others 'of'"
+    }
+  ],
+  "translation": "Na David i kisim ⟨את⟩ ol silva-selet bilong gol we ol i bin stap wantaim ol save bilong Hadadezer, na em i karim ol i go long Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/8\/5-8.1792352213685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na i kisim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol selet bilong gol"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ol selet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bilong gol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i bin stap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol save bilong"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "na em i karim ol i go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "long Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:53.686630405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "senis",
+      "rationale": "הישועה em i 'help\/help bilong ridim'; Tok Pisin i no gat wanpela tok stret, olsem 'senis' (help bilong rausim man long birua)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סלה",
+      "rationale": "Sela em i mak bilong miusik long Salm — em i stap tasol, no tanim"
+    },
+    {
+      "kind": "measurement",
+      "subject": "סלה",
+      "rationale": "mak bilong stat\/stop long sang — wanpela kain skelim bilong miusik"
+    }
+  ],
+  "translation": "Long Yahwe i stap ⟨em⟩ senis; blesing bilong yu i stap antap long ol man bilong yu. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/3\/9-9.1792357809138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "senis"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "blesing bilong yu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:09.138834526Z",
+  "model": "glm-5.3"
+}

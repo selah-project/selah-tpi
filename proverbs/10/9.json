@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hebrew participle הולך has no pronoun; Tok Pisin needs 'man'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יודע",
+      "rationale": "passive 'shall be known' rendered as 'ol bai save long em', Tok Pisin has no passive"
+    }
+  ],
+  "translation": "Man i wokabaut long stretpela pasin i wokabaut long sefti; tasol man i bagarapim ol rot bilong en, ol bai save long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/10\/9-12.1792359467757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "long stretpela pasin"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "long sefti"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "tasol man i bagarapim"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ol rot bilong en"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ol bai save long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:47.758080946Z",
+  "model": "glm-5.3"
+}

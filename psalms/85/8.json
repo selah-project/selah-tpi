@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Petition addressed directly to Yahwe; first occurrence of the Name in this psalm-unit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעך",
+      "rationale": "Same noun ישע as 'Elohim bilong selvim bilong mipela' in verse 5, bracketing the plea with deliverance."
+    }
+  ],
+  "translation": "Soim mipela khesed bilong yu, Yahwe, na givim selvim bilong yu long mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/85\/5-8.1792358783312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Soim mipela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "na selvim bilong yu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:23.313607084Z",
+  "model": "glm-5.3"
+}

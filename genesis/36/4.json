@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i kirapim pikinini",
+      "rationale": "ותלד אליפז — Tok Pisin i no gat wanpela tok bilong 'bare'; mi usim tok bilong mama i kirapim pikinini"
+    }
+  ],
+  "translation": "Na Ada i kirapim pikinini bilong Esav ⟨את⟩ Elifas, na Bosmat i kirapim ⟨את⟩ Reuel.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9ec784d8dedcbc1b5a62ee6a7275df76a185bb4ae4f7978d1350e81f2fd7e1d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/36\/1-4.1792347018969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "na i kirapim pikinini"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "bilong Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifas"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "na Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i kirapim pikinini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-10-18T18:10:18.970855383Z",
+  "model": "glm-5.3"
+}

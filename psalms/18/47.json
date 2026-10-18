@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ston",
+      "rationale": "צור i min klif o bikpela ston — strongpela ples bilong sait."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i nogat."
+    }
+  ],
+  "translation": "Yahwe i stap wara, na barimim i stap long ⟨את⟩ ston bilong mi, na Eloa bilong delivim mi i go antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "27a3699966e1f4ef630cb6d922d05bfc56feca024bd85418b2b88b5d62ba79f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/18\/47-48.1792363346988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "i stap wara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na barimim i stap"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ston bilong mi"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa bilong"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "delivim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:26.989068002Z",
+  "model": "glm-5.3"
+}

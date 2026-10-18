@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 5:19",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Aleph-tav supplied before 'haus' in final clause — Hebrew here has no את token; bracket marks the seam only if present; in fact Hebrew omits it, so this rendering adds none."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe to David (quoted), within Solomon's letter to Hiram",
+      "rationale": "Embedded direct speech addressing David."
+    }
+  ],
+  "translation": "Na luk, mi tok long mi wokim haus long nem bilong Yahwe, Elohim bilong mi, olsem Yahwe i tok long David papa bilong mi, i tok olsem: Pikinini man bilong yu, we bai mi putim long ples bilong yu long thron bilong yu, em bai wokim ⟨את⟩ haus long nem bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "53339a39b95366c8c6c3a4fef369a44cb23a8e91c19514b203a74a659afcbceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/5\/17-20.1792352831372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנני",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long mi wokim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pikinini man bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bai mi putim"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "long ples bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "thron bilong yu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bai wokim"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "long nem bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:47:11.373175011Z",
+  "model": "glm-5.3"
+}

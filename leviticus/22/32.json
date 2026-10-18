@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחללו\/ונקדשתי\/מקדשכם",
+      "rationale": "tupela tok bilong holi (kadosh) na bagarap (chalal) i sotim namel — Tok Pisin 'bagarapim' na 'mekim holi' i no gat dispela strong"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pikinini Yisrael",
+      "rationale": "Yahwe i tokim ol pikinini Yisrael long nem bilong en"
+    }
+  ],
+  "translation": "Na yupela no ken bagarapim ⟨את⟩ nem holi bilong mi, bai mi kamap holi namel long ol pikinini Yisrael; mi ⟨em⟩ Yahwe, man i mekim yupela holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/22\/29-32.1792348668140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "yupela bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem holi bilong mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "holi bilong mi"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "bai mi kamap holi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "man i mekim yupela holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:48.141516004Z",
+  "model": "glm-5.3"
+}

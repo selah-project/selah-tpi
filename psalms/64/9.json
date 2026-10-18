@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנדדו",
+      "rationale": "wag\/shake the head (ASV, JPS) vs flee away (KJV, Geneva) — from נדד, wave to and fro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכשילוהו",
+      "rationale": "causative 'make him stumble' — Hebrew singular 'him' against plural enemies"
+    }
+  ],
+  "translation": "Ol i mekim em i wokabaut no stret — tong bilong ol yet i tanim agenst ol; olgeta man i lukluk long ol i sekenim hed.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/64\/9-11.1792358369470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "ol i mekim em i wokabaut no stret"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "agenst ol"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tong bilong ol"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "i sekenim hed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:29.471597615Z",
+  "model": "glm-5.3"
+}

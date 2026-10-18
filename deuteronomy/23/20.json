@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך\/ישך",
+      "rationale": "Root נשך means 'to bite' (serpent's sting) — interest as a bite; noun נשך repeats three times, a triple rhythm lost in Tok Pisin 'nek' repetition only partly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pulim nek",
+      "rationale": "Tok Pisin idiom for charging interest; Hebrew literally 'do not bite your brother', the serpent-sting image is lost."
+    }
+  ],
+  "translation": "Yu no ken pulim nek long brata bilong yu: nek bilong silva, nek bilong kaikai, nek bilong wanpela samting we yu ken pulim nek long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/23\/17-20.1792350217618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "pulim nek"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "long brata bilong yu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nek bilong"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nek bilong"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nek bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela bilong olgeta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yu ken pulim nek long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:37.619420194Z",
+  "model": "glm-5.3"
+}

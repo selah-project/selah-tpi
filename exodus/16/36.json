@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omer\/efa",
+      "rationale": "Ves i skulim reader: omer i tenpat bilong wanpela efa."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hibru i no gat copula; הוא i makim strong pasin tasol."
+    }
+  ],
+  "translation": "Na omer ⟨em i⟩ tenpat bilong efa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8968a404f1361520bccaabbf8e4847241a63238e2b268f7ce172189f22d006be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/33-36.1792347665990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "na omer"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "tenpat"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:05.991542656Z",
+  "model": "glm-5.3"
+}

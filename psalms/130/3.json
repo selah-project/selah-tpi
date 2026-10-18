@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yah\/Adonai",
+      "rationale": "Rhetorical question addressed to God."
+    },
+    {
+      "kind": "idiom",
+      "subject": "lukaut gut ol rong",
+      "rationale": "שׁמר here 'keep\/mark a record of sins', not 'guard protectively'."
+    }
+  ],
+  "translation": "Sapos yu lukaut gut ol rong bilong man, Ya, Adonai, husat i ken sanap?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f736eb88d2daf3730fdc668caf660031738eed84a735a46a60e38aec502145ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/130\/1-4.1792359175796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ol rong"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "yu lukaut gut"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i ken sanap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:55.801684141Z",
+  "model": "glm-5.3"
+}

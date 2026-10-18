@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 11:11",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלושים",
+      "rationale": "Points as written 'the Thirty' (YLt, JPS note) vs KJV 'the captains' (reading השלשי); Hebrew consonants here say thirty."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עורר",
+      "rationale": "Literal 'he roused\/awakened his spear'; Tok Pisin 'i kirapim' keeps the waking picture instead of 'lifted up'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלל",
+      "rationale": "'wounded\/slain' — whether 300 were killed or wounded; Tok Pisin 'man i wundu' keeps the wounding sense."
+    }
+  ],
+  "translation": "Na dispela i namba bilong ol traipela man bilong pait bilong David: Yashoveam, pikinini bilong Hakmoni, het bilong ol thirtipela; em i kirapim ⟨את⟩ spia bilong em long tripela handet man i wundu, long wanpela taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/11\/9-12.1792361952383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na dispela"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "namba bilong"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ol traipela man bilong pait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "Yashoveam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "Hakmoni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het bilong"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "ol thirtipela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spia bilong em"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "spia bilong em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "man i wundu"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:12.383841885Z",
+  "model": "glm-5.3"
+}

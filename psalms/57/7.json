@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brukdaun",
+      "rationale": "כפף literally 'to bend\/bow down'; KJV 'bowed down', BSB 'despondent'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש rendered 'life\/self'; D4 forbids 'hat'."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Musical pause marker kept as name 'Sela', untranslated."
+    }
+  ],
+  "translation": "Ol i setim net long step bilong mi; bel bilong mi i brukdaun; ol i karim hol long frond bilong mi — ol i pundaun yet insait long en. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/5-8.1792358358231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "net"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "ol i setim"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "long step bilong mi"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "i brukdaun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ol i karim hol"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long frond bilong mi"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "hol bilong trim"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ol i pundaun"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "insait long en"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:18.233303002Z",
+  "model": "glm-5.3"
+}

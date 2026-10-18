@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שנאה",
+      "rationale": "hate rendered 'birua' (enmity) per discipline doc D3"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכסה \/ יכסה",
+      "rationale": "same verb 'cover' in vv.11–12 links violence concealed with love covering transgressions"
+    }
+  ],
+  "translation": "Birua i kirapim ol pait; tasol olgeta ol bagarap pasin, laikim i tapelaem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/10\/9-12.1792359467757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "birua"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ol pait"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tasol long olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ol bagarap pasin"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "i tapelaem"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "laikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:47.758651597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 2:3",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "המלך לעולם יחיה",
+      "rationale": "Stret tok bilong klostu long king: 'king, yu mas liv oltaim' — Tok Pisin i holim pasin bilong respek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel \/ graun",
+      "rationale": "לב = bel (tingting), אבות = ol papa — wanpela tok long wanpela ples olsem D4."
+    },
+    {
+      "kind": "elision",
+      "subject": "אכלו באש",
+      "rationale": "'paia i kaikai' — pasin bilong Hibru, Tok Pisin i painim wok 'kaikai' wantaim 'pinis' bilong stat."
+    }
+  ],
+  "translation": "Na mi tok long king: King, yu mas liv oltaim olgeta! Bilong wanem fes bilong mi i no ken stap saloot, taim taun, haus bilong ol grav bilong ol papa bilong mi, i bagarap wantaim, na ol dua bilong banis bilong en, paia i kaikai pinis?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/2\/1-4.1792361525105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na mi tok"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yu mas liv"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "i ken stap saloot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fes bilong mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "bilong ol grav"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "bilong ol papa bilong mi"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "i bagarap"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "na ol dua bilong banis bilong en"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "i kaikai pinis"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wantaim paia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:05.107080890Z",
+  "model": "glm-5.3"
+}

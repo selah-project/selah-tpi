@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש i save min 'throt\/breath\/laip', i no 'soul' we Inglis tok i givim."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "KJV\/ASV 'long pait bilong pait long mi'; YLT 'long man i klostu long mi'; JPS 'ol i no kam klostu long mi' — i no gat wanpela mining ova."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ברבים היו עמדי",
+      "rationale": "Narapela riding: 'bilong wanem planti man i stap wantaim mi' (ol aikman bilong mi), o 'planti man ol i kirap long mi'."
+    }
+  ],
+  "translation": "Em i baimbekim laip bilong mi long pis, i lusim hapsait long ol bilong pait long mi, bilong wanem planti man ol i stap wantaim ⟨ol⟩ skru long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/17-20.1792358365722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "i baimbekim"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "planti man"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "skru long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:25.723299725Z",
+  "model": "glm-5.3"
+}

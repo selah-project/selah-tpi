@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew is verbless — 'all ... copper' with no copula; Tok Pisin needs ⟨i stap⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tik",
+      "rationale": "יתד is a tent peg; 'pins' in older versions, 'tik' keeps the literal picture."
+    }
+  ],
+  "translation": "Olgeta samting bilong Miskan, long olgeta wok bilong em, na olgeta tik bilong em, na olgeta tik bilong banis — koper ⟨i stap⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/27\/17-20.1792347886394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "samting bilong"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "wok bilong em"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "tik bilong em"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tik bilong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "banis"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:46.395501167Z",
+  "model": "glm-5.3"
+}

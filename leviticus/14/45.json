@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "das",
+      "rationale": "עפר i 'das\/graun'; KJV i putim 'mortar' — ol i tingim paipas bilong smel, tasol tok Hibru em i das."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hibru i no gat plural tok; Tok Pisin i needim 'ol' long ol ston na ol diwai."
+    }
+  ],
+  "translation": "Na em i brukeitu ⟨את⟩ haus, ⟨את⟩ ol ston bilong en, na ⟨את⟩ ol diwai bilong en, na ⟨את⟩ olgeta das bilong haus; na em i ken rausim ol i go aut long taun, long ples i no klin.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/14\/45-48.1792348534113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "brukeitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ston bilong en"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ol ston bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol diwai bilong en"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ol diwai bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta das bilong haus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bilong haus"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "rausim i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "aut"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "i no klin"
+    }
+  ],
+  "timestamp": "2026-10-18T18:35:34.114271496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יוספו לעשות",
+      "rationale": "'add to do' = 'do again\/continue'; rendered 'kontiniu wokim'."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Verse ends addressing Israel in the singular ('insait long yu') after speaking of all Israel hearing."
+    }
+  ],
+  "translation": "Na olgeta Yisrael bai harim, na bai scare, na bai ol i no ken kontiniu wokim olsem dispela pasin nogut long insait long yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/13\/9-12.1792349980193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bai harim"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "na bai scare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nogat"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "bai ken kontiniu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "olsem pasin bilong"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "long insait long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:40.195004998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol man i lukluk nating",
+      "rationale": "מרגלים em ol man i go lukluk hait long graun bilong naralain — 'spai' long save, tasol Tok Pisin i no gat wanpela tok"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני הארץ",
+      "rationale": "bikman bilong graun o masta bilong olgeta graun — Josep long ples bilong Faro"
+    }
+  ],
+  "translation": "Man, bikman bilong graun, i tok strong nogut long mipela ⟨wantaim⟩, na em i mekim mipela olsem ol man i lukluk nating long ⟨את⟩ graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5933c0637e91465dd8ddabbdc8d586683311ae72728660062db239ddca332a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/42\/29-32.1792347204627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bikman bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ long mipela wantaim"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "strong nogut"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na em i mekim"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mipela",
+      "marks": "mipela"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "olsem ol man i lukluk nating"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:24.628980381Z",
+  "model": "glm-5.3"
+}

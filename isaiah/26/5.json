@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישפילנה ישפילה",
+      "rationale": "Verb repeated twice for emphasis — 'he brings it low, he brings it low' — the doubling kept in full."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verbs carry 3fs suffix; Tok Pisin needs the pronoun 'em' spelled out."
+    }
+  ],
+  "translation": "Long wanem, em i daunim ol i save stap long antap — siti bilong ol i stap hait long antap; em i daunim em, em i daunim em i go daun olgeta long graun, em i bringim em i go daun long das.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/5-8.1792354182809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "השח",
+      "gloss": "em i daunim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol i save stap long"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "antap"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "i stap hait long antap"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "em i daunim em"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "em i daunim em"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go daun olgeta long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "em i bringim em i go daun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go daun long"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:42.810064381Z",
+  "model": "glm-5.3"
+}

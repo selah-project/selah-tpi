@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "Dubab i stap hia tasol long Tanakh; mining i no klia — 'i muv smol' o 'i pulapim tok', olsemda 'wokim smol muv long ol lip'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישנים",
+      "rationale": "Ol man i tanim tok i no wanbel: 'ol man i slip' o 'ol man i olpela' (rot ישן i save min olgeta tupela)."
+    }
+  ],
+  "translation": "Na insait bilong maun bilong yu olsem gutpela wain, i go daun smol long dod bilong mi long stret pasin, i wokim smol muv long ol lip bilong ol man i slip.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/9-12.1792360519979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "na insait bilong maun bilong yu"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "olsem wain"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "long dod bilong mi"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "long stret pasin"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "i wokim smol muv long"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ol lip"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "bilong ol man i slip"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:19.979953531Z",
+  "model": "glm-5.3"
+}

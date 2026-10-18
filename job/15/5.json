@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 15:5",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i skulim",
+      "rationale": "יאלף: 'ol rong bilong yu i skulim maus bilong yu' (ASV\/JPS) o 'maus bilong yu i skulim ol rong' (KJV) — hodad i tanim askim olsem wanem em i mekim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man sliptri",
+      "rationale": "ערומים i tok 'man i save giaman, kleva nogut', Tok Pisin i no gat wanpela tok stret."
+    },
+    {
+      "kind": "you",
+      "subject": "long Job",
+      "rationale": "Elifas i tokim Job dairetpela long dispela ves."
+    }
+  ],
+  "translation": "Long wanem, ol rong bilong yu i skulim maus bilong yu, na yu makim tok bilong ol man sliptri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/15\/5-8.1792360048526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "יאלף",
+      "gloss": "i skulim"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ol rong bilong yu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "maus bilong yu"
+    },
+    {
+      "surface": "ותבחר",
+      "gloss": "na yu makim"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ol man sliptri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:28.527349981Z",
+  "model": "glm-5.3"
+}

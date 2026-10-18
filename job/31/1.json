@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 31:1",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'katim kontrak' — Hebrew idiom of cutting a covenant, rendered 'wokim kontrak' in Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתבונן על בתולה",
+      "rationale": "gaze-think-upon a virgin: 'look with desire' (BSB) vs 'think about' (KJV)"
+    }
+  ],
+  "translation": "Kontrak mi wokim wantaim ol ai bilong mi, na wanem, bai mi tingting long meri i no marit?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/31\/1-4.1792360255830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "wantaim ol ai bilong mi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mi tingting"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "meri i no marit"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:55.830792812Z",
+  "model": "glm-5.3"
+}

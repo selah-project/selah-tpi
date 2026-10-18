@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb בטח has no expressed subject; Hiskia supplied from context"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשר היו לפניו",
+      "rationale": "'nor any that were before him' — some read comparison extending to kings before him, others to Israel's kings"
+    }
+  ],
+  "translation": "Em i bel stret long Yahwe, Elohim bilong Yisrael; na bihain long em i no gat wanpela olsem em long olgeta king bilong Yehuda, na long ol king ⟨ol⟩ i stap pastaim long em tu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/5-8.1792353594332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bel stret long"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "na bihain long em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "olsem em"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ol"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pastaim long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:54.333001663Z",
+  "model": "glm-5.3"
+}

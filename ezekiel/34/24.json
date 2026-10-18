@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 34:24",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied for the verbless clause 'my servant David prince among them'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naisap",
+      "rationale": "נשיא is 'exalted one\/prince\/chief'; Tok Pisin naisap (big-man chief) keeps the rank, not a role guess"
+    }
+  ],
+  "translation": "Na mi, Yahwe, bai mi kamap Elohim bilong ol; na wokman bilong mi David ⟨i⟩ naisap long namel bilong ol; mi yet, Yahwe, bin tokaut pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/34\/21-24.1792356617658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bai mi kamap"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na wokman bilong mi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "naisap"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "long namel bilong ol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "bin tokaut pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:17.659568979Z",
+  "model": "glm-5.3"
+}

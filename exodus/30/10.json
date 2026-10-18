@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 30:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר\/כפורים",
+      "rationale": "root kafar repeated three times — atone\/atonements — the sound chain kipper…kippurim is flattened in tpi"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew verbless clause הוא ליהוה needs a tpi predicate structure"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wanpela taim long wanpela yia",
+      "rationale": "the verse fixes an annual ritual schedule — counting of time"
+    }
+  ],
+  "translation": "Na Aharon i wokim kipor long ol sung bilong em, wanpela taim long wanpela yia, wantaim blut bilong ofa bilong sin, bilong ol Kipurim; wanpela taim long wanpela yia em i wokim kipor long em, long ol pikinini bilong ol tumbuna bilong yu; em i holi bilong ol holi, em i bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/30\/9-12.1792347932137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "na i wokim kipor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ol sung bilong em"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela taim"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "long wanpela yia"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "wantaim blut bilong"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ofa bilong sin"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "bilong ol Kipurim"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela taim"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "long wanpela yia"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "i wokim kipor"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "long ol pikinini bilong ol tumbuna bilong yu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bilong ol holi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:32.137863389Z",
+  "model": "glm-5.3"
+}

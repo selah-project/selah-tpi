@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "O God",
+      "rationale": "KJV\/ASV\/BSB put 'O God' before 'strengthen my hands', but the Hebrew has no vocative — the prayer is addressed without naming."
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap",
+      "rationale": "Hebrew תעשה is simply 'it will be done'; Tok Pisin needs 'wokim i kamap' for the work being finished."
+    }
+  ],
+  "translation": "Long wanem, olgeta bilong ol i pretim ⟨את⟩ mipela, ol i tok: Ol han bilong ol bai malum long wok, na em i no bai wokim i kamap. Na nau, strongim ⟨את⟩ han bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/6\/9-12.1792361578093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "olgeta bilong ol"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "i pretim"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ mipela",
+      "marks": "mipela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "bai malum"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ol han bilong ol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no bai"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wokim i kamap"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "strongim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:12:58.094588272Z",
+  "model": "glm-5.3"
+}

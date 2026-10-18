@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim Tsebaot",
+      "rationale": "Direct plea to God; this is the psalm's refrain (repeated at vv. 4, 8, 15, 20)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bringim mipela i kam bek",
+      "rationale": "השיבנו can be 'turn us back (repent)' or 'restore us (bring back from exile)'; exile-restore reading chosen."
+    }
+  ],
+  "translation": "Elohim Tsebaot, bringim mipela i kam bek, na mekim pes bilong yu i shine, na mipela bai i stap sef.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/5-8.1792358608649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bringim mipela i kam bek"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "na mekim ... i shine"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pes bilong yu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "na mipela bai i stap sef"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:28.650827853Z",
+  "model": "glm-5.3"
+}

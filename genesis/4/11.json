@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מִן הָאֲדָמָה",
+      "rationale": "'cursed from the ground' — taken as 'by the ground' (it curses), 'more than the ground', or 'banished from the ground'; Tok Pisin keeps 'kasing bilong graun'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kasing",
+      "rationale": "אָרוּר is a passive participle 'cursed one'; Tok Pisin needs the noun phrase 'tok kasing i stap long yu'."
+    }
+  ],
+  "translation": "Na nau, tok kasing i stap long yu: yu ⟨i⟩ kasing bilong graun, we em i opim ⟨את⟩ maus bilong em bilong kisim ⟨את⟩ ol blut bilong brata bilong yu long han bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/4\/9-12.1792346298191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "kasing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maus bilong em"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "maus bilong em"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "bilong kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol blut bilong brata bilong yu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ol blut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bilong brata bilong yu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "long han bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T17:58:18.192866212Z",
+  "model": "glm-5.3"
+}

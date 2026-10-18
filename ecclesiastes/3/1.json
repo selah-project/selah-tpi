@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong en",
+      "rationale": "Hebrew has no pronoun; Tok Pisin needs it to make possession clear"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמן\/עת",
+      "rationale": "two words for 'time' — appointed occasion vs. moment — alternating through the whole poem"
+    }
+  ],
+  "translation": "Long olgeta samting i gat taim bilong en, na taim long olgeta laik bilong man naen daun bilo heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/3\/1-4.1792360723488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta samting"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "taim bilong en"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "laik bilong man"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daun bilong"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:43.489028762Z",
+  "model": "glm-5.3"
+}

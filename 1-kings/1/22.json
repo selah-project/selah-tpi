@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "insait",
+      "rationale": "Hebrew בא is just 'came'; direction supplied by context"
+    }
+  ],
+  "translation": "Na lukluk, em i stap yet i tok tok wantaim king, na profet Natan i kamap insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/21-24.1792352661032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na lukluk"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "i stap yet"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "i tok tok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap insait"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:21.033087838Z",
+  "model": "glm-5.3"
+}

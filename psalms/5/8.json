@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד kept as loanword khesed per D2, not 'marimari'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "contrast",
+      "rationale": "ואני 'but as for me' pivots from the wicked of vv.6–7 to the psalmist."
+    }
+  ],
+  "translation": "Tasol mi, long planti khesed bilong yu, bai mi kam insait long haus bilong yu; bai mi ken daunbilo long heikal holi bilong yu, long sca bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/5-8.1792357849440.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tasol mi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "long planti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed bilong yu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bai mi kam insait"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "long haus bilong yu"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "bai mi ken daunbilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "holi bilong yu"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "long sca bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:49.441614923Z",
+  "model": "glm-5.3"
+}

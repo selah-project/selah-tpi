@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "'stirred\/aggrieved' (KJV) vs 'held in check' (JPS); root means to disturb, roil water"
+    },
+    {
+      "kind": "wordplay",
+      "gloss": "",
+      "subject": "נאלמתי דומיה החשיתי",
+      "rationale": "three near-synonymous verbs of silence pile up; Tok Pisin keeps three separate phrases"
+    }
+  ],
+  "translation": "Mi pasim tok, mi stap kwait; mi no tokaut, maski long gutpela tok; na pen bilong mi i kamap warworu moa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/39\/1-4.1792358204246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "mi pasim tok"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "mi stap kwait"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "mi no tokaut"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "maski long gutpela tok"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "na pen bilong mi"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "i kamap warworu moa"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:44.247422877Z",
+  "model": "glm-5.3"
+}

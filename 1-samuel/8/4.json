@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol olpela man",
+      "rationale": "זקני long hia em i olpela man bilong tong i gat nem, i no olpela man tasol"
+    }
+  ],
+  "translation": "Na olgeta ol olpela man bilong Yisrael ol i bung wantaim, na ol i go lukim Semuel long Rama.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/8\/1-4.1792351531974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ol i bung wantaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ol olpela man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "na ol i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "long Rama"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:31.975379942Z",
+  "model": "glm-5.3"
+}

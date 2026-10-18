@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered as ruak throughout — wind\/breath\/Spirit in one word."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Object of melting supplied from v.17 (the ice), not stated in this verse."
+    }
+  ],
+  "translation": "Em i salim ⟨את⟩ tok bilong en na em i sumkim ol; em i mekim ruak bilong en i blow, na wara i stat long flow.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/17-20.1792359335878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Em i salim"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tok bilong en"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "na em i sumkim ol"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "em i mekim … i blow"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruak bilong en"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "i stat long flow"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:35.880935693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ples bilong mipim graun",
+      "rationale": "goren is a threshing floor, an open level area where grain is threshed"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun added, Hebrew צותה carries the object in the prefixed ta-"
+    }
+  ],
+  "translation": "Na em i go daunbilo long ples bilong mipim graun, na em i mekim olgeta samting we swapapa bilong em i tokim em long lukautim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/3\/5-8.1792360534297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Na em i go daunbilo"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ples bilong mipim graun"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "na em i mekim"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "i tokim em long lukautim"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "swapapa bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:34.298672672Z",
+  "model": "glm-5.3"
+}

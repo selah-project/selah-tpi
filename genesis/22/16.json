@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בי",
+      "rationale": "'long mi' — ol i tanim 'long mi yet' (KJV 'by myself'), Hebrew i tok 'long mi' tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasim",
+      "rationale": "חשכת em i 'holim bek, no givim' — 'pasim' i klia long Tok Pisin"
+    }
+  ],
+  "translation": "Na em i tok: Long mi yet mi sworom, Yahwe i tok — long wanem, bilong olsem yu bin wokim ⟨את⟩ dispela samting, na yu no pasim ⟨את⟩ pikinini bilong yu, ⟨את⟩ wanpela pikinini bilong yu yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/22\/13-16.1792346625612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi yet"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi sworom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨em⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu bin wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela samting"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na yu no"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "pasim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini bilong yu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanpela pikinini bilong yu yet"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wanpela pikinini bilong yu yet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:45.613861123Z",
+  "model": "glm-5.3"
+}

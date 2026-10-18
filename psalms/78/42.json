@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baim bek ol",
+      "rationale": "פדם is 'ransom\/release', trade imagery; Tok Pisin 'baim bek' keeps the commercial shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Object of פדם supplied — Hebrew verb has no explicit object pronoun here."
+    }
+  ],
+  "translation": "Ol i no membarem ⟨את⟩ han bilong ⟨em⟩, ⟨i⟩ no wanpela de we em i baim bek ol long handa bilong birua.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/41-44.1792358567937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "membarem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong em"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "baim bek ol"
+    },
+    {
+      "surface": "מני",
+      "gloss": "long"
+    },
+    {
+      "surface": "צר",
+      "gloss": "birua"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:47.937981698Z",
+  "model": "glm-5.3"
+}

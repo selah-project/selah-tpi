@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתם",
+      "rationale": "Hapax שָׁתַם: KJV 'ai i stap op' (laying open), Geneva\/ASV 'ai ol i pasim' (shut) — wankain rod, tupela pasin."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שתם",
+      "rationale": "Tasol long dispela ves long Tanakh."
+    }
+  ],
+  "translation": "Na em i singautim orakel bilong em, i tok: Tok bilong Bilam, pikinini bilong Beor, na tok bilong man ai bilong em i stap op:",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "89b44a8c43887a2093bc4852eb13ce5672b499131a8707967ec21c0d2c98abc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/24\/13-16.1792349427408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Na em i singautim"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "orakel bilong em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "na tok bilong"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "i stap op"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ai bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:27.409528038Z",
+  "model": "glm-5.3"
+}

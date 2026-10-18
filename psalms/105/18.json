@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "נפשו em i win bilong laip \/ laif-fos, i no 'bel' olgeta — tpi i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "aian i kam insait long bel bilong em",
+      "rationale": "באה נפשו: 'aian i go insait long bel bilong em' (ylt) o 'ol i salim em long aian' (kjv 'he was laid in iron') — narapela pasin bilong ridim"
+    }
+  ],
+  "translation": "Ol i pairapim lek bilong em wantaim klos bilong lek; aian i kam insait long bel bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/17-20.1792358967973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Ol i pairapim"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "wantaim klos bilong lek"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lek bilong em"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "aian"
+    },
+    {
+      "surface": "באה",
+      "gloss": "i kam insait"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "long bel bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:27.973991326Z",
+  "model": "glm-5.3"
+}

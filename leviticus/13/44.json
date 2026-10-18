@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טמא יטמאנו",
+      "rationale": "piel bilong טמא em i pasin bilong tok save (declare), i no wanem samting i kamap — Tok Pisin 'tok save' i holim pasin bilong pris"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמא … יטמאנו",
+      "rationale": "wok bilong root טמא i ritim tu tupela — man i no klin, pris i tok em i no klin; rituel i ritim long Tok Pisin"
+    }
+  ],
+  "translation": "em i man bilong tsaraat, em i no klin; pris bai i tok save em i no klin olgeta, bilong wanem sik nogut bilong em i stap long hed bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6c7833654b1d1e6247a77fa2ef52353949617f621f93b3a0e11150df2721edaf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/41-44.1792348483539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "bilong tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "no klin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "bai i tok save"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "em i no klin olgeta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "long hed bilong em"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "sik nogut bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:43.540590806Z",
+  "model": "glm-5.3"
+}

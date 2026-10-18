@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Hebrew opening conjunction rendered as 'bikos', weaker than the connector sense 'when\/that'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ונספחו",
+      "rationale": "'join\/be attached to' — 'stat wantaim' chosen over 'joingroup'; Hebrew means being incorporated into the household."
+    }
+  ],
+  "translation": "Bikos Yahwe i gat marimari long ⟨את⟩ Yakov, na i makim Yisrael gen, na i putim ol i stap long graun bilong ol, na man i no man bilong ples i bai wantaim ol, na ol bai stat wantaim haus bilong Yakov.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7cdb14f693c68ea96e85396ab6aad4f6669ce0dd7b22b2b5c7a10e64d7e1cdab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/14\/1-4.1792354057131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "gat marimari long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "na i makim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "na i putim ol i stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "graun bilong ol"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "na i bai wantaim"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "man i no man bilong ples"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "na ol bai stat wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T20:07:37.131910351Z",
+  "model": "glm-5.3"
+}

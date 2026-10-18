@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Doubled 'em i kamap, em i kamap' — repetition kept for emphasis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצדק",
+      "rationale": "Rendered as borrowed 'tsedek' per discipline, not 'stretpela pasin'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תבל",
+      "rationale": "תבל vs הארץ — near-synonym pair for earth\/world; rendered as 'olgeta graun olgeta' to distinguish."
+    }
+  ],
+  "translation": "Long pes bilong Yahwe, bilong em i kamap, bilong em i kamap long skelim graun; em bai skelim ⟨את⟩ olgeta graun olgeta wantaim tsedek, na ol manmeri bilong olgeta kantri wantaim tru pasin bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/96\/13-13.1792358811384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בא",
+      "gloss": "em i kamap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "בא",
+      "gloss": "em i kamap"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "long skelim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "em bai skelim"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olgeta graun olgeta"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "wantaim tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na ol manmeri bilong olgeta kantri"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "wantaim tru pasin bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:51.384862122Z",
+  "model": "glm-5.3"
+}

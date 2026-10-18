@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא",
+      "rationale": "skesin bilong Hebryu (halo-lo) — Tok Pisin i autim olsem askim 'ating no'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי אם i wankain 'tasol'; כי wanwan i lus"
+    }
+  ],
+  "translation": "Na king bilong Yisrael i tok long Yehosafat: Mi no bin tokim yu pastaim, long em i no ken autim tok profet gutpela tok long mi, tasol tok nogut?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "477899560a713bf453efa19dd0f3dfc0666ed18185d909e401f6f01f6fcf3272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/17-20.1792353259743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ... i tok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ating no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tokim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "autim tok profet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela tok"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "tok nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:19.744837197Z",
+  "model": "glm-5.3"
+}

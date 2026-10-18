@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילע",
+      "rationale": "'em i autim tok stret' (ASV\/JPS, rashly declare) o 'em i kaikai' (KJV\/Geneva, devoureth); mi bihainim ASV\/JPS."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבקר",
+      "rationale": "ם namba 'i go skelim' — tok i minim 'monsing i kamap' o 'rausim malolo', hia em i minim 'rausim malolo' olsem toktok bilong ol man."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילע",
+      "rationale": "ם namba 'em i autim tok' i save wokim wanpela taim tasol long olgeta Tanakh."
+    }
+  ],
+  "translation": "Moket bilong man: em i autim tok stret olsem 'samting i holi', na bihain long ol neder i go skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/20\/25-28.1792359637864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "moket"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "em i autim tok"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "samting i holi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na bihain long"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ol neder"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "i go skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:37.864631061Z",
+  "model": "glm-5.3"
+}

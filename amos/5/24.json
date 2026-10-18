@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "larim",
+      "rationale": "ויגל em i jussive — 'bai\/larim em i rol'; Tok Pisin i bruikim wanpela tok"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kot na tsedek",
+      "rationale": "Ves bilong Amos i save tumas — parallelizim: kot olsem wara, tsedek olsem wara i tanim; namba tupela piksa i wok wantaim"
+    },
+    {
+      "kind": "alternative",
+      "subject": "warai bilong taim ren",
+      "rationale": "נחל em i bikpela wara bilong taim ren (i tanim taim tasol); איתן i tok em i stap olgeta taim"
+    }
+  ],
+  "translation": "Na larim kot i rol olsem wara, na tsedek olsem wanpela wara i no save dring.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/21-24.1792357262371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "na larim … i rol"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "olsem wara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "olsem wanpela wara i tanim olgeta taim"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "i no save dring"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:02.372303239Z",
+  "model": "glm-5.3"
+}

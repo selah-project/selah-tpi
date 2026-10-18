@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hanbil",
+      "rationale": "ירכה em i 'thigh' — hanbil bilong man; olsemtaim em i\/Base bilong Menora, tasol tok Hibru i tok 'thigh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kain",
+      "rationale": "קנה em i 'rit' (reed); long Menora em i kain\/stalk bilong holim lait"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Hebrew i tok 'ממנה היו' — 'long em ol i stap'; 'olgeta' i putim bilong tok klia"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ Menora bilong gol klia; wok bilong kilim wantaim hamha em i wokim ⟨את⟩ Menora; hanbil bilong en, na kain bilong en, ol kap bilong en, ol knop bilong en, na ol flowa bilong en — olgeta i kamap long em yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/37\/17-20.1792348149996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "klia"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "wok bilong kilim wantaim hamha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "hanbil bilong en"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "na kain bilong en"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "ol kap bilong en"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "ol knop bilong en"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "na ol flowa bilong en"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "long em yet"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olgeta i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:09.996684772Z",
+  "model": "glm-5.3"
+}

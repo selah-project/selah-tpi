@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש חמס רע",
+      "rationale": "'man of violence — evil' — KJV makes evil the hunter, JPS makes the violent man the hunted."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מדחפות",
+      "rationale": "'thrusts \/ pushing to ruin' — occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Man bilong toktok nogut, bai em i no sanap gutpela long graun; man bilong bagarapim man wantaim ol samting nogut bai i lukautim em i go long pundaun bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/140\/9-12.1792359247002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "bilong toktok nogut"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "i sanap gutpela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bilong bagarapim man"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wantaim ol samting nogut"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "bai i lukautim em i go"
+    },
+    {
+      "surface": "למדחפות",
+      "gloss": "long pundaun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:07.003895333Z",
+  "model": "glm-5.3"
+}

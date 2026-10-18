@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol Refaim",
+      "rationale": "רפאים em i nem bilong ol man i dai pinis (shades), mipela holim nem Hibru, no tanim long 'ol man i dai' tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדת",
+      "rationale": "פקד i save min 'lukluk' o 'skelim' — ol tanim tok i argyument: 'yu punishim' (KJV) o 'yu lukluk' (YLT)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל ... בל",
+      "rationale": "Tupela 'no inap' i pairap long wanem: no kirap, no kamap — strongpela repetition"
+    }
+  ],
+  "translation": "Ol man i dai pinis, bai ol i no save kirap olgeta; ol Refaim, bai ol i no save kirap; olsem na yu skelim ol na yu rausim ol gutpela, na yu lusim olgeta tingting bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c54d7b19c0642cbf333d686b7bcf15f22b9420d944ca27df943d335a9722aa72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/26\/13-14.1792363199832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "ol man i dai pinis"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bai ol i no"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "save kirap olgeta"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ol Refaim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bai ol i no"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "save kirap"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "yu skelim ol"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "na yu rausim ol gutpela"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "na yu lusim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tingting"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:59.832829060Z",
+  "model": "glm-5.3"
+}

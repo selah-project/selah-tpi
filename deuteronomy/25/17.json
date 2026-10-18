@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tingim",
+      "rationale": "Imperative addressed to Israel summons the hearer to remember."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Direct address to Israel throughout the verse."
+    }
+  ],
+  "translation": "Tingim ⟨את⟩ olgeta samting we Amalek i mekim long yu long rot, taim yu ol i go aut bek long Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/25\/17-19.1792350200708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tingim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting we Amalek i mekim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "taim yu ol i go aut bek"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:03:20.709424580Z",
+  "model": "glm-5.3"
+}

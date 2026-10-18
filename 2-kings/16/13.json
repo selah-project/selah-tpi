@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלמים",
+      "rationale": "ol ofa shelamim — ofa bilong tanim tok; Tok Pisin i no gat tok bilong en"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i laikim tok bilong man, Hibru i no gat"
+    }
+  ],
+  "translation": "Na em i kukim ⟨את⟩ ofa bilong em ol i kukim olgeta, na ⟨את⟩ minkha bilong em, na em i pulim ⟨את⟩ nesk bilong em, na em i skelim-skulim ⟨את⟩ blut bilong ol ofa shelamim bilong en, long altä.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/13-16.1792353627476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "em i kukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofa bilong em ol i kukim olgeta"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ofa bilong em ol i kukim olgeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "minkha bilong em"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha bilong em"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "em i pulim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nesk bilong em"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "nesk bilong em"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "em i skelim-skulim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blut"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ol ofa shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "en"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altä"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:27.477822330Z",
+  "model": "glm-5.3"
+}

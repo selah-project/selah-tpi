@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באך",
+      "rationale": "Hebrew 'until your coming' (2nd person suffix, echoing Yahwe's command in v.23); rendered impersonally as 'i kamap'"
+    }
+  ],
+  "translation": "Na David i wokim olsem, olsem Yahwe i bin tokim em; na em i paitim ⟨את⟩ ol Peliset, long Geba i go antil i kamap long Gezer.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/5\/25-25.1792352187174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i bin tokim em"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Peliset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Peliset"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "long Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go antil"
+    },
+    {
+      "surface": "באך",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "long Gezer"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:27.174792776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש i laif-fos bilong man, em i no 'soul'; 'laip' i klostu tru."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Daivid i toktok stret long Yahwe, em i askim marimari."
+    },
+    {
+      "kind": "crux",
+      "subject": "בכעס",
+      "rationale": "Sepak: 'long pen' o 'long bel heait' — ol tanima i no wankain."
+    }
+  ],
+  "translation": "Givim marimari long mi, Yahwe, bikos trai i katim mi; ai bilong mi i sot pinis long pen, wantaim ⟨את⟩ laip bilong mi na bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/31\/9-12.1792358063372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "givim marimari long mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "צר",
+      "gloss": "trai i katim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "i sot pinis"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "long pen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai bilong mi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "na bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:23.373318057Z",
+  "model": "glm-5.3"
+}

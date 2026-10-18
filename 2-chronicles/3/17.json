@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long het bilong",
+      "rationale": "על פני ההיכל em i 'long fron bilong haos', mi usim pasin Tok Pisin bilong ples"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמאול",
+      "rationale": "BSB tanim olsem 'north\/south' (ol i stanap long ist na wes), ol narapela 'left\/right' — mi holim left\/right (kaprupe\/sutpe)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Yakim na Boas",
+      "rationale": "Tupela pol i gat nem — Stat 7:21 i gat wankain stori long tempel bilong Solomon"
+    }
+  ],
+  "translation": "Na em i kirapim ⟨את⟩ ol pol bilong en long het bilong haos bilong Yahwe, wanpela long sutpela saed na wanpela long kaprupela saed; na em i kolim nem bilong bilong sutpela saed Yakim, na nem bilong bilong kaprupela saed Boas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b99bfeb2570d7bcd35b26e743dc504926ce253ae5ab2ff82eafbed587bc4cb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/3\/17-17.1792362296965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kirapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pol"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ol pol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "long fron bilong"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haos bilong Yahwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "long sutpela saed"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na wanpela"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "long kaprupela saed"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na em i kolim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "bilong sutpela saed"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "bilong kaprupela saed"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-10-18T22:24:56.966113538Z",
+  "model": "glm-5.3"
+}

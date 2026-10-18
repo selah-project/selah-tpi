@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויפיח",
+      "rationale": "'i pulim win i go' — literal 'breathes out' lies, idiom of puffing out falsehood with the breath"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד אמונים",
+      "rationale": "Hebrew construct 'witness of trustworthiness' rendered as one phrase, construct bond not marked"
+    }
+  ],
+  "translation": "Save man i stap long olgeta samting, em i no ken givim giaman tok; tasol save man bilong ol giaman tok, em i pulim win i go olgeta giaman tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/14\/5-8.1792359538212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "save man"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "i stap long olgeta samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ken givim giaman tok"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "tasol em i pulim win i go"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "olgeta giaman tok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "save man bilong ol giaman tok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:58.213173605Z",
+  "model": "glm-5.3"
+}

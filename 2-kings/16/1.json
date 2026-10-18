@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sevetinpela yia bilong Peka",
+      "rationale": "Regnal dating formula: Ahaz's accession fixed by cross-king's seventeenth year."
+    },
+    {
+      "kind": "addition",
+      "subject": "i kamap king",
+      "rationale": "Hebrew מלך is inceptive 'began to reign'; Tok Pisin needs the predicate construction."
+    }
+  ],
+  "translation": "Long yia bilong sevetinpela yia bilong Peka, pikinini bilong Remalyahu, Akas pikinini bilong Yotam, king bilong Yuda, i kamap king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/1-4.1792353627871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "long yia bilong"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "bilong Peka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i kamap king"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:27.871979838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 29:16",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "Pronoun ⟨en⟩ i kamap long Tok Pisin bilong tok klia, Hebtru i no gat em namel long 'viyqabbelu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dot bilong tambu",
+      "rationale": "tum'ah em i tambu-samting — dot bilong olgeta samting ol i no inap kisim long ples holi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sanapim ol brata (29:15)",
+      "rationale": "va'asfu i ken tanim 'bungim' o 'kisim ol get' — mi usim 'sanapim' bilong olsem 'ol i bungim ol brata'."
+    }
+  ],
+  "translation": "Na ol pris i go insait long insait bilong haus bilong Yahwe, bilong kliaim ⟨את⟩ en, na ol i bringautim ⟨את⟩ olgeta dot bilong tambu ol i painim insait long holi haus bilong Yahwe, i go long yaod bilong haus bilong Yahwe; na ol Levi i kisim ⟨את⟩ en, bilong bringautim i go long wara Kidron, i go ausait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d3d6a8ad5652a3c530a339ba6e7464fca76b78b14f62d82eacd6d4a5270fccd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/29\/13-16.1792362703418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ol i go insait"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "long insait tru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "bilong kliaim"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "na ol i bringautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta dot bilong tambu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "dot bilong tambu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "insait long holi haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "i go long yaod bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקבלו",
+      "gloss": "na ol i kisim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Levi"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "bilong bringautim"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "i go long wara bilong"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:43.420010742Z",
+  "model": "glm-5.3"
+}

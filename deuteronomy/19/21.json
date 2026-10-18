@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laif",
+      "rationale": "נפש em i sans bilong mauri\/laif, i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש בנפש עין בעין",
+      "rationale": "Ol tok i ritim olsem wanpela patan: nem bilong bodi i ritim tupela taim wantaim ב — mus i stap long tanim tok"
+    }
+  ],
+  "translation": "Na yu no ken sori, ai bilong yu i no ken pulap long sori: laif bilong laif, ai bilong ai, tut bilong tut, han bilong han, lek bilong lek.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/19\/21-21.1792350069085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na yu no ken"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "i no ken pulap long sori"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ai bilong yu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laif"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bilong laif"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bilong ai"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tut"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bilong tut"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bilong han"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lek"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bilong lek"
+    }
+  ],
+  "timestamp": "2026-10-18T19:01:09.086207943Z",
+  "model": "glm-5.3"
+}

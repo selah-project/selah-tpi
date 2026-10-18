@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ritim",
+      "rationale": "נצל i min skrapim o pulap i go — Tok Pisin 'ritim' i klostu, tasol piksa bilong 'pulap i go' i lus liklik"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההצל הצילו",
+      "rationale": "Infinitiv absolyut pastaim long verb — em i mekim strongpela tok, Tok Pisin 'ritim tru' i holim"
+    }
+  ],
+  "translation": "Ol god bilong ol gens — ol i ritim ⟨את⟩ graun bilong wanwan man i go ausait long han bilong king bilong Ashur, o nogat?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/33-36.1792353617590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ritim tru"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ol i ritim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ol god bilong"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol gens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong en"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "graun bilong en"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "i go ausait long han bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:17.591363302Z",
+  "model": "glm-5.3"
+}

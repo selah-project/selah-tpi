@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "'man bilong nating \/ ol i nating olgeta' (litera) o 'man nogut' (rol); KJV i holim nem 'Belial', JPS 'base men'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני ... בני",
+      "rationale": "tupela 'pikinini bilong' namel — 'pikinini bilong Eli, pikinini bilong nating' — inversi i strong long Tok Pisin tu"
+    }
+  ],
+  "translation": "Na ol pikinini man bilong Eli, ol i pikinini bilong nating; ol i no save long ⟨את⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/9-12.1792351440479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini man bilong"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "nating"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ol i save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:00.481037617Z",
+  "model": "glm-5.3"
+}

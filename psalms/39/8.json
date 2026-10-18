@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i stap",
+      "rationale": "Hebrew fronted pronoun היא is emphatic 'it is'; Tok Pisin needs copula bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "direct address to Adonai with a question"
+    }
+  ],
+  "translation": "Na nau, wanem samting mi wetim, Adonai? Lip bilong mi ⟨em i stap⟩ long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/39\/5-8.1792358218248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mi wetim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "lip bilong mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em i"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:58.250553242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סינים",
+      "rationale": "Sinim occurs only here in the Tanakh; unidentified distant land (Syene\/Aswan? China? Sin?)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ומים",
+      "rationale": "Hebrew says 'from the sea' — idiom for west; rendered 'long wes' since the sea lies west of Israel."
+    }
+  ],
+  "translation": "Lukim, ol man ia bai kam long longwe; na lukim, ol man ia long not na long wes; na ol man ia long graun bilong Sinim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f4086d9c5a2a6125499986a54837830c95fae4f1cf39a2f3997a8c37f02a3cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/49\/9-12.1792354576651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol man ia"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "long longwe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bai kam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ol man ia"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "long not"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na long wes"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na ol man ia"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Sinim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:16.652897001Z",
+  "model": "glm-5.3"
+}

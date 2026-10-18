@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כעס",
+      "rationale": "כעס: 'bel i pen\/vexation' (JPS) o 'soro' (KJV) — tok i tok olsem i krosim bel yet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב → bel, no 'hat'."
+    }
+  ],
+  "translation": "Gutpela long bel i pen moa long lap, long wanem long nupela pes, bel i kamap gutpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/1-4.1792360807598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bel i pen"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "moa long lap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "long nupela"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pes"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "i kamap gutpela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:07.599387162Z",
+  "model": "glm-5.3"
+}

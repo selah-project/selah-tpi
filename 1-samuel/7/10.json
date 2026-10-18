@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun added for the offering; Hebrew participle מעלה has no explicit object."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירעם",
+      "rationale": "'i guria' for וירעם, literally 'thundered them' — thunder as direct weapon, verb takes the Philistines as object."
+    }
+  ],
+  "translation": "Taim Samuël i salim ⟨em⟩ i go antap olsem sakrifais long paia, ol man Filisti i kam klostu long pait wantaim Yisrael; na Yahwe i guria wantaim bikpela nois long dispela de, antap long ol Filisti, na em i bagarapim olgeda, na ol i pundaun long fes bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/7\/9-12.1792351536303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Taim"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuël"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "i salim i go antap"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "sakrifais long paia"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ol man Filisti"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "i kam klostu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wantaim Yisrael"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wantaim nois"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Filisti"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "i bagarapim olgeda"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:36.304885733Z",
+  "model": "glm-5.3"
+}

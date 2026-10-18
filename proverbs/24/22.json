@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "husat i save long em",
+      "rationale": "Rhetorical question withholds knowledge: who knows the ruin of them both — no one."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hol bagarap",
+      "rationale": "פיד is a rare word for misfortune\/ruin; Tok Pisin needs 'hol bagarap' (deep ruin) to keep it distinct from אידם."
+    }
+  ],
+  "translation": "Bilong wanem, bagarap bilong ol bai i kamap stat nating, na hol bagarap bilong tupela — husat i save long em?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "edd8b690f09834782e52c185a11528794de93976100281d0a8aed5d997946ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/24\/21-24.1792359712525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "stat nating"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "bagarap bilong ol"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "na hol bagarap"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bilong tupela"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:52.525789021Z",
+  "model": "glm-5.3"
+}

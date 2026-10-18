@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "'excellency\/pride\/glory' — translator split between positive 'glori' and negative 'hepra bel'; here positive."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרו repetition",
+      "rationale": "not in this verse"
+    }
+  ],
+  "translation": "Em i makim long mipela ⟨את⟩ ol samting bilong mipela long ol lain bilong papa, ⟨את⟩ glori bilong Yakov, wekim em i laikim tru. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/47\/5-8.1792358273658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "em i makim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting bilong mipela long ol lain bilong papa"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ol samting bilong mipela long ol lain bilong papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glori bilong Yakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "glori"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wekim"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "em i laikim tru"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:53.659090731Z",
+  "model": "glm-5.3"
+}

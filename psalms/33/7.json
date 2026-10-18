@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנד",
+      "rationale": "ned 'heap' is rare, appearing also in Ps 78:13; the picture of water piled like a mound is kept literally"
+    },
+    {
+      "kind": "alternative",
+      "subject": "makolim",
+      "rationale": "כנס 'collect\/enfold' could also be 'foldim olgeta wantaim', folding the waters in"
+    }
+  ],
+  "translation": "Em i makolim olgeta wara bilong solwara olsem wanpela hip bilong wara; em i putim ol dip bilong wara long ol haus bilong keepim kago bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/5-8.1792358111090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "makolim olgeta"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "olsem wanpela hip"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wara bilong"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "putim"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "long ol haus bilong keepim kago"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ol dip bilong wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:11.091377574Z",
+  "model": "glm-5.3"
+}

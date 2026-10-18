@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew 'cut a covenant' (passing between cut pieces); Tok Pisin keeps the cutting with 'katim kontrak'."
+    },
+    {
+      "kind": "you",
+      "subject": "Nakas",
+      "rationale": "Men of Jabesh address Nachash directly with request and promise."
+    }
+  ],
+  "translation": "Na Nakas, man bilong Amon, i go antap, na em i sanap long pes bilong Yaves bilong Gilat; na olgeta man bilong Yaves i tokim Nakas: Katim kontrak wantaim yumi, na yumi bai wokim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4ddc603da9ad16e68a52645577d22fcb183c15c5ec506e1a16ecd59a9a3340c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/1-4.1792351688271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakas"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "man bilong Amon"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "na em i sanap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilat"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "man bilong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakas"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "katim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wantaim yumi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "na yumi bai wokim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:28:08.272564989Z",
+  "model": "glm-5.3"
+}

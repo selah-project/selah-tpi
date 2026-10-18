@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "'salim pes bilong man' — literal 'lift the face of' is Hebrew idiom for showing partiality."
+    },
+    {
+      "kind": "crux",
+      "subject": "אכנה",
+      "rationale": "Root כנה 'address by an added name \/ eulogize' — rendered 'flattering titles' by KJV\/JPS; 'givim gutpela nem' keeps the naming sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש \/ אדם",
+      "rationale": "Parallel pair 'man\/human' in the two colon halves; Tok Pisin repeats 'man' twice, keeping the parallelism."
+    }
+  ],
+  "translation": "Plis, mi no ken salim pes bilong man, na mi no ken givim gutpela nem long man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/32\/21-22.1792360222278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mi no ken salim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "givim gutpela nem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:22.279186563Z",
+  "model": "glm-5.3"
+}

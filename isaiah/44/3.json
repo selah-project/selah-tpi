@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אצק…אצק",
+      "rationale": "Repeated 'I will pour' frames the water\/spirit parallel; kept by repetition in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח is wind\/breath\/spirit; fixed gloss 'ruak' keeps the one word for all senses"
+    }
+  ],
+  "translation": "Long wanem, bai mi kapsaitim wara long man hangri long wara, na ol wara i pulap long graun drai; bai mi kapsaitim ruak bilong mi long pikinini bilong yu, na blessing bilong mi long ol pikinini bilong ol pikinini bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/44\/1-4.1792354518965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "bai mi kapsaitim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "man hangri long wara"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "na ol wara i pulap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "graun drai"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "bai mi kapsaitim"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "na blessing bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "ol pikinini bilong ol pikinini bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:18.967537784Z",
+  "model": "glm-5.3"
+}

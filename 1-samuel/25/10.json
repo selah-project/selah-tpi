@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i bruk i go ausait",
+      "rationale": "המתפרצים — hit verb 'prus' olsem 'brukim\/ranawe'; Tok Pisin 'bruk i go ausait' i holim piksa bilong strongpela bruk"
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני",
+      "rationale": "'long pes bilong' — Tok Pisin 'i ranawe i go long' i tokim mining tasol, pes i lus"
+    },
+    {
+      "kind": "you",
+      "subject": "ol wokman bilong David",
+      "rationale": "Nabal i tokim ol wokman bilong David stret, olgeta toktok i direct"
+    }
+  ],
+  "translation": "Na Nabal i bekim tok long ⟨את⟩ ol wokman bilong David, na i tok: Husat em i David, na husat em i pikinini bilong Yishai? Dispela taim olgeta, planti ol wokman i stap we ol i bruk i go ausait, wanwan man i ranawe i go long bilong masta bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5fe84fb81f1609adc588855048a6c4998fabca4d5b97802bc00e1477cc17361e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/10-11.1792363107497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i bekim tok"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wokman bilong David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Husat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela taim"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "planti ol i kamap"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ol wokman"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "ol i bruk i go ausait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "i ranawe i go long"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "masta bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:27.497849958Z",
+  "model": "glm-5.3"
+}

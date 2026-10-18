@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "partitive 'of' rendered as bilong inside the noun phrase, no standalone Tok Pisin word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצד",
+      "gloss-context": "stronghold rendered strongpela banis; Hebrew picture is ambush-covert fastness"
+    }
+  ],
+  "translation": "Na klostu long olgeta, ol man bilong lain bilong Binyamin na Yehuda i kam inap long strongpela banis, long ples bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a748804b66502780ee5c188850d560e2a8aa08be62916da9799c5c7650a7c26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/12\/17-20.1792362029791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ol i kam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong (ol man bilong lain bilong)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "long strongpela banis"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "long ples bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:29.792264679Z",
+  "model": "glm-5.3"
+}

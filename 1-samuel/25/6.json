@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחי",
+      "rationale": "'To him that lives' (BSB 'long life', JPS 'all hail') vs KJV 'him that liveth in prosperity' — greeting to the living one."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "Triple repetition of shalom builds the greeting rhythm; flattened in translation."
+    },
+    {
+      "kind": "you",
+      "subject": "to Nabal",
+      "rationale": "Greeting message addressed directly to Nabal through the messengers."
+    }
+  ],
+  "translation": "Na yu tokim olsem long man i gat laip: Yu yet i stap gut, na haus bilong yu i stap gut, na olgeta samting bilong yu i stap gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/5-8.1792351974281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Na yu tokim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "long man i gat laip"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "yu yet"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i stap gut"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "na haus bilong yu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i stap gut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i stap gut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:54.282335570Z",
+  "model": "glm-5.3"
+}

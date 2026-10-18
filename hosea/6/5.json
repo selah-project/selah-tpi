@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חצבתי",
+      "rationale": "'mi katim' — Strong's given as 'hew\/carve'; some read as 'I hewn them through the prophets', object supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אור",
+      "rationale": "lait for illumination; bsb reads 'lightning' — kot i go ausait olsem lait \/ lait bilong guria."
+    }
+  ],
+  "translation": "Olsem, mi katim ol long ol profet, mi kilim ol long ol tok bilong maus bilong mi; na ol kot bilong yu i go ausait olsem lait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/6\/5-8.1792356956031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "mi katim"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "long ol profet"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "mi kilim ol"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "long ol tok"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bilong maus bilong mi"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "na ol kot bilong yu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "olsem lait"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:55:56.031934208Z",
+  "model": "glm-5.3"
+}

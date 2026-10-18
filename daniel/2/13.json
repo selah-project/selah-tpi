@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 2:13",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ודתא",
+      "rationale": "Aramaic dat — 'tok i go ausait' we rausim 'nating' olsem Inglis 'the decree went forth'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol i",
+      "rationale": "Aramaic passive participle mitqatelin i no gat man i mekim; Tok Pisin i laikim ol i"
+    }
+  ],
+  "translation": "Na tok i go ausait, na ol man save i bilong kilim olgeta; na ol i lukluk bilong kilim Daniel wantaim ol poro bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb0e57a1789b1afeec6273b28319c8185370bc7682de9ac35bb131d7f8a7f8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/2\/13-16.1792361013842.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודתא",
+      "gloss": "Na tok i go ausait"
+    },
+    {
+      "surface": "נפקת",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "וחכימיא",
+      "gloss": "ol man save"
+    },
+    {
+      "surface": "מתקטלין",
+      "gloss": "i bilong kilim olgeta"
+    },
+    {
+      "surface": "ובעו",
+      "gloss": "ol i lukluk bilong"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "wantaim ol poro bilong em"
+    },
+    {
+      "surface": "להתקטלה",
+      "gloss": "bilong kilim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:33.842662674Z",
+  "model": "glm-5.3"
+}

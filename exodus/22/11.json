@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנוב יגנב",
+      "rationale": "Infinitive absolute wantaim finite verb — wankain tok tupela taim, 'stilim tru i stilim'; Tok Pisin 'i stilim ⟨i⟩ em yet' i traim holim strong."
+    },
+    {
+      "kind": "crux",
+      "subject": "גנוב יגנב מעמו",
+      "rationale": "Ol man i tambu long traim tok: lukautman i stilim (JPS), o man bilong pait i stilim long longlong bilong em (Rashi) — payment i senis olsem."
+    }
+  ],
+  "translation": "Na sapos man i stilim ⟨i⟩ em yet long em, em i ken peim bek long bosman bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/9-12.1792347752164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "גנוב",
+      "gloss": "i stilim"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "i peim bek"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "long bosman bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:32.165946124Z",
+  "model": "glm-5.3"
+}

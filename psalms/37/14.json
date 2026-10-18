@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong ol",
+      "rationale": "Tok Pisin i nidim 'bilong ol', em i tok insait long bainat na bona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wokim kapsait olsem",
+      "rationale": "דרכו em i pasin bilong maketim bona (kapsait na kalap long en), Tok Pisin i no gat wanpela tok stret"
+    }
+  ],
+  "translation": "Ol man nogut i opim bainat bilong ol, na ol i wokim kapsait olsem long bona bilong ol, bilong skrapim daun ol man i sot long samting na ol man i no gat wanpela samting, na bilong kilim olgeta ol man i stap stretpela long rot",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/13-16.1792358145961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "na ol i wokim kapsait olsem long"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "bona bilong ol"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "bilong skrapim daun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ol man i sot long samting"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na ol man i no gat wanpela samting"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "bilong kilim olgeta"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ol man i stap stretpela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:45.962555904Z",
+  "model": "glm-5.3"
+}

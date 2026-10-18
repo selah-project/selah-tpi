@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "salim bret long wara",
+      "rationale": "שלח לחמך על פני המים: sampela i tok em i tok bilong givim hanaut, narapela i tok em i pasin bilong bisnis (salim ol kaikai long sip long solwara)"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim olsem narapela tok bilong painim, na suffix נו long תמצאנו i tok long en"
+    }
+  ],
+  "translation": "Salim ⟨את⟩ bret bilong yu long pes bilong wara, long wanem long planti dei bai yu painim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/11\/1-4.1792360818301.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bret bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "long planti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dei"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "bai yu painim em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:18.302280679Z",
+  "model": "glm-5.3"
+}

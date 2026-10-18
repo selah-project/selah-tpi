@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Is-Boset",
+      "rationale": "איש בשת 'man bilong sem'; sampla manuskrip (LXX, 4QSam) i gat Isbaal — nem ia i no gat 'sem'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i salim em i go",
+      "rationale": "ויעברהו literal 'i wokabaut em i go krosim' — Tok Pisin 'salim i go' long Makanaim"
+    }
+  ],
+  "translation": "Na Abner, pikinini man bilong Ner, kapten bilong ol ami bilong Sael, i tekim ⟨את⟩ Is-Boset, pikinini man bilong Sael, na i salim em i go long Makanaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fafbcd1e56e391c94df7bcdce264a1b7ded242452c3c306fb1f784ccab4b6471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/7-8.1792363105271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Na Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapten bilong"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ol ami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Is-Boset"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Is-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sael"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "na i salim em i go"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "long Makanaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:25.272383140Z",
+  "model": "glm-5.3"
+}

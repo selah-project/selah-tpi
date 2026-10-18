@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim ⟨את⟩ yu",
+      "rationale": "אתך long ples hia em i preposition 'wantaim', tasol mak ⟨את⟩ i stap long gloss olsem lo bilong Selah"
+    },
+    {
+      "kind": "elision",
+      "subject": "tumbuna man (Sennakerib)",
+      "rationale": "Hibru i no tok nem bilong man i harim; konteks 37:8 i tok em i king bilong Ashur"
+    }
+  ],
+  "translation": "Na em i harim tok long Tirhaka, king bilong Kush, i tok: Em i kamap bilong pait wantaim ⟨את⟩ yu. Na em i harim, na em i salim ol mesinja i go long Hizkiyahu, i tok:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/37\/9-12.1792354363321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na em i harim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "Em i kamap"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "bilong pait"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "wantaim ⟨את⟩ yu",
+      "marks": "pait wantaim yu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Na em i harim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na em i salim"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ol mesinja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:43.322072774Z",
+  "model": "glm-5.3"
+}

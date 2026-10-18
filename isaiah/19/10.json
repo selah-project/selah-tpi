@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתתיה",
+      "rationale": "'her pillars\/foundations' (ASV\/JPS) vs 'its canals\/sluices' (KJV emendation from Masoretic)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש is throat\/life-force, not 'heart'; Tok Pisin bel covers feeling"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨en⟩",
+      "rationale": "pronominal suffix on שתתיה refers to Mitsrayim, supplied for clarity"
+    }
+  ],
+  "translation": "Na ol fandesen bilong ⟨en⟩ i kamap ol i bruk; olgeta wokman bilong pe, bel bilong ol i pen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/19\/9-12.1792354081990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na ol i kamap"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ol fandesen bilong ⟨en⟩"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "ol i bruk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wokman bilong"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pe"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "bel bilong ol i pen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:01.990790443Z",
+  "model": "glm-5.3"
+}

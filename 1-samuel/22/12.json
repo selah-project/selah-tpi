@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tok bilong Shaol",
+      "rationale": "Shaol i toktok stret long Ahimelek — 'yu harim nau, pikinini bilong Akitub'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "masta bilong mi",
+      "rationale": "אדני long hia em i tok bilong man (Shaol), i no Nem bilong God, olsem na 'masta bilong mi' orait"
+    }
+  ],
+  "translation": "Na Shaol i tok: Yu harim nau, pikinini bilong Akitub. Na em i tok: Mi stap hia, masta bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/22\/9-12.1792351926279.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nau"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mi stap hia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "masta bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:06.280761235Z",
+  "model": "glm-5.3"
+}

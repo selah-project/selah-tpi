@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחרוש בבקרים",
+      "rationale": "literally 'will one plow with oxen?' — some read 'plow the sea' (LXX) or 'plow there'; the impossibility-parallel with horses on rock is the point"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לראש",
+      "rationale": "rosh is a named poisonous plant (poppy\/gall); rendered 'pison' since Tok Pisin lacks a specific plant name"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הירצון בסלע",
+      "rationale": "'run upon the rock' (cliff) — could also be 'run against the crag', same impossible image"
+    }
+  ],
+  "translation": "Ol hos i ken ran long ston? O man i ken wokim gaden long ol bulmakau? Bikos yupela i senisim kot i kamap pison, na frut bilong tsedek i kamap bitterpela diwai bilong pison.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81e0df51ecff49b4005666ee3b67c7450b2891f1e1db1fc1212581482808fde7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/6\/9-12.1792357268909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "i ken ran"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "long ston"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ol hos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "O"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "i ken wokim gaden"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "long ol bulmakau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "yupela i senisim"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "i kamap pison"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na frut bilong"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "i kamap bitterpela diwai bilong pison"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:08.910725048Z",
+  "model": "glm-5.3"
+}

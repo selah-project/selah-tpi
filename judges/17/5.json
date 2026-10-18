@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 17:5",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fulim han",
+      "rationale": "Hebrew מלא יד 'fill the hand' = install\/consecrate as priest; literal picture kept"
+    },
+    {
+      "kind": "crux",
+      "subject": "haus bilong Elohim",
+      "rationale": "בית אלהים: 'shrine\/house of God' (JPS, BSB) vs 'house of gods' (KJV, Geneva) — plural Elohim with a graven image in context"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "copula-pronoun supplied for 'became (a priest)', Hebrew ויהי has no explicit pronoun object"
+    }
+  ],
+  "translation": "Na dispela man Mika, em i gat haus bilong Elohim; na em i wokim epod na terafim, na em i fulim ⟨את⟩ han bilong wanpela long ol pikinini bilong en, na em i kamap ⟨em⟩ pris bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/17\/5-8.1792351349186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "na dispela man"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "epod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "na terafim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na em i fulim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong wanpela long ol pikinini bilong en"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "long ol pikinini bilong en"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pris"
+    }
+  ],
+  "timestamp": "2026-10-18T19:22:29.188436088Z",
+  "model": "glm-5.3"
+}

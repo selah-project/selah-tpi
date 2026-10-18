@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "sapasen bilong חוצותיה — Tok Pisin i laikim nem, Hibru i gat pronom suffix -יה tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man ol i kilim long pait",
+      "rationale": "חללים i ol man ol i bagarapim long pait — tok 'slain' long Inglis i no gat wanpela tok Tasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חללים \/ מדקרים",
+      "rationale": "tupela tok i tokim wankain samting — ol i pundaun na ol i pokim — olsem paralel long Hibru"
+    }
+  ],
+  "translation": "Na ol man ol i kilim long pait bai i pundaun long graun bilong ol Kasdim, na ol man ol i pokim long ol rod bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "65f7e69c5142e17c20e689148f6e583a545bac99e3584794c53b385da5953d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/4-4.1792363227647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "na i pundaun"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ol man ol i kilim long pait"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "bilong ol Kasdim"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "na ol man ol i pokim"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "long ol rod bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:27.647538877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Article h- bilong Hibru; Tok Pisin i no gat article, olsem na dispela i kamap long tellim"
+    },
+    {
+      "kind": "you",
+      "subject": "pre bilong Yona",
+      "rationale": "Yona i toktok long Yahwe, Elohim bilong en"
+    }
+  ],
+  "translation": "Na Yona i pre long Yahwe, Elohim bilong en, long bel bilong dispela pis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/2\/1-4.1792357362439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "na i pre"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim bilong en"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "dispela pis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:42.440687367Z",
+  "model": "glm-5.3"
+}

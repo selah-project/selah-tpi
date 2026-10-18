@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאת",
+      "rationale": "שאת i minim 'hampla \/ sanap' — Tok Pisin 'seet' (swelling) i holim piksa bilong sanap long skin."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומחית בשר חי",
+      "rationale": "'mit i gat laip' — ol tanim tok i tok 'quick raw flesh'; מחיה i minim 'wok bilong givim laip', mit i no dai."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lukim bilong pris",
+      "rationale": "Pris i skelim nega — pasin bilong skelim long holim."
+    }
+  ],
+  "translation": "Na pris i lukim, na lukim ⟨i⟩: seet waitpela long skin, na em i senisim gras i go waitpela, na mit bilong bodi i gat laip long seet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bf112fd9d88e557a50c7eefe5f66867285070aa8f1b078b92fe30de7d213cd86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/9-12.1792348489561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "na i lukim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim ⟨i⟩"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "seet"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "waitpela"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "long skin"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "i senisim"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gras"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "waitpela"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "na mit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bilong bodi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gat laip"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "long seet"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:49.562167890Z",
+  "model": "glm-5.3"
+}

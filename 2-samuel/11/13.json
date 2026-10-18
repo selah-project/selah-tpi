@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 11:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bikman bilong en",
+      "rationale": "אדניו here is human (David), so 'bikman' per D1, not Adonai."
+    },
+    {
+      "kind": "elision",
+      "subject": "Uria",
+      "rationale": "Uriah is named in context but absent from the Hebrew of this verse; supplied in ⟨…⟩ for clarity."
+    }
+  ],
+  "translation": "Na David i singautim ⟨em⟩ Uria, na em i kaikai na dring long hap bilong David, na David i mekim em dring ogos tru; na long apinun em i go ausait long slip long bed bilong en wantaim ol wokman bilong bikman bilong en, tasol em i no go daun long haus bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/11\/13-16.1792352322734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na i kaikai"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long hap bilong en"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "na i dring"
+    },
+    {
+      "surface": "וישכרהו",
+      "gloss": "na i mekim em dring ogos tru"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na i go ausait"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "long apinun"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "bilong slip"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "long bed bilong en"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bikman bilong en"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:42.735823141Z",
+  "model": "glm-5.3"
+}

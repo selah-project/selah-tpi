@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "H854 'wantaim' (preposition) i no H853 DO-marker, tasol prompt i askim gloss i karim ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'long wanem' (bikos) o 'ol i no save' — stat bilong tok bilong Yahwe long ol man i stap bek long Yerusalayim"
+    }
+  ],
+  "translation": "Long wanem, olsem Yahwe i tok long king i save sit long namba bilong David, na long olgeta manmeri i save stap long dispela siti, ol brata bilong yupla, ol we no go ⟨אתכם⟩ wantaim yupla long kalabus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/29\/13-16.1792355472996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "i save sit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "namba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "i save stap"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long siti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ol brata bilong yupla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "go"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ wantaim",
+      "marks": "wantaim yupla (preposition 'with', not DO-marker; gloss carries ⟨את⟩ per prompt)"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "long kalabus"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:12.997491046Z",
+  "model": "glm-5.3"
+}

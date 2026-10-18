@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדת",
+      "rationale": "פקד i gat 'vasitim' o 'tingim' (jps: 'remembered'); mi holim 'vasitim' long pasin bilong kam lukluk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דגנם",
+      "rationale": "דגן em i kaikai pikinini bilong gaden (grain) — long tebol D4, i no 'korn' o 'rais'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pikinini wara fulap tru long wara",
+      "rationale": "Hibru i skelim olsem: pikinini wara bilong Elohim i fulap — namba bilong wara."
+    }
+  ],
+  "translation": "Yu vasitim ⟨את⟩ graun na yu pulim wara long em; yu mekim em i gat planti gutpela samting tru. Pikinini wara bilong Elohim i fulap tru long wara; yu redim kaikai pikinini bilong ol, long wanem olsem yu redim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/65\/9-12.1792358394641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "yu vasitim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "na yu pulim wara long em"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "gutpela samting tru"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "yu mekim em i gat planti"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pikinini wara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i fulap tru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "yu redim"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "kaikai pikinini bilong ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "yu redim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:54.642776358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 10:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שנהבים",
+      "rationale": "lit. 'elephant-teeth' — a compound of שן (tooth) + הב (elephant); rendered 'teet bilong elepen', standard ivory."
+    },
+    {
+      "kind": "crux",
+      "subject": "תוכיים",
+      "rationale": "unknown imported creature: peacock (Indian loanword tokei) vs parrot vs monkey; ⟨toki⟩ marks the supplied guess."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תוכיים",
+      "rationale": "word appears only here and in the parallel 2 Chr 9:21 in the Tanakh."
+    },
+    {
+      "kind": "measurement",
+      "subject": "אחת לשלש שנים",
+      "rationale": "the fleet's three-year cycle is counted."
+    }
+  ],
+  "translation": "Long wanem, sip bilong Tarshish i bilong king long solwara, wantaim sip bilong Hirom; wanpela taim long tripela yia sip bilong Tarshish i kam, i karim gol na silva, teet bilong elepen, na ol mangki, na ol ⟨toki⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f728de0c6fd16c5177883f32b3f7c392303070f915dd2313f65a93adfbce50a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/10\/21-24.1792352853434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sip"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "בים",
+      "gloss": "long solwara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sip"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirom"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela taim"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "long tripela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sip"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "i karim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na silva"
+    },
+    {
+      "surface": "שנהבים",
+      "gloss": "teet bilong elepen"
+    },
+    {
+      "surface": "וקפים",
+      "gloss": "na ol mangki"
+    },
+    {
+      "surface": "ותכיים",
+      "gloss": "na ol ⟨toki⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:47:33.435164468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "selection process",
+      "rationale": "Narrowing census: tribe → family → men → one man, each step taken by lot."
+    },
+    {
+      "kind": "crux",
+      "subject": "וילכד",
+      "rationale": "Verb is 'capture\/catch', here used of being taken by lot; rendered 'ketchim' rather than 'chosen'."
+    }
+  ],
+  "translation": "Na em i bringim klostu ⟨את⟩ famili bilong Yehuda, na em i ketchim ⟨את⟩ famili bilong ol Zarkai; na em i bringim klostu ⟨את⟩ famili bilong ol Zarkai i go long ol man, na Zabdi i ketch.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "985cd238b15eec73bfa009ef4a348bbf57fc3a01e901a090866a8aee1818a95d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/7\/17-20.1792350650742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "em i bringim klostu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famili bilong Yehuda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "em i ketchim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famili bilong ol Zarkai"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famili"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "bilong Zarkai"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "em i bringim klostu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famili bilong ol Zarkai"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famili"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "bilong Zarkai"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "em i ketchim"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:10:50.743317846Z",
+  "model": "glm-5.3"
+}

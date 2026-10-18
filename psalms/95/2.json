@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tenkyu",
+      "rationale": "תודה literally 'extension of the hand \/ avowal' — rendered 'tenkyu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נרננה \/ נריע",
+      "rationale": "Roots רנן and רוע ring in parallel cohortatives across vv. 1–2"
+    }
+  ],
+  "translation": "Yumi kamap long fes bilong em wantaim tenkyu, wantaim ol singaut bilong miusik yumi salim go volum long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/95\/1-4.1792358844095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "yumi kamap long"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fes bilong em"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wantaim tenkyu"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "wantaim ol singaut bilong miusik"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "yumi salim go volum long"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:24.104573156Z",
+  "model": "glm-5.3"
+}

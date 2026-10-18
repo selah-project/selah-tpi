@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nem bilong em",
+      "rationale": "כבוד em i 'weten\/sples nem'; Tok Pisin i no gat wanpela tok, olsem na 'nem bilong em'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשוה",
+      "rationale": "Sapusaloman i no save: שוה i minim 'mekim i go daunbilklin \/ putim';Dispela 'putim long em' o 'givim long em'."
+    }
+  ],
+  "translation": "Nem bilong em i bikpela tru long save bilong yu; glori na gutpela klos bilong bikman yu putim long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/21\/5-8.1792358015833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "long save bilong yu"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na gutpela klos bilong bikman"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.833969266Z",
+  "model": "glm-5.3"
+}

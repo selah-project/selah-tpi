@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela hap tru",
+      "rationale": "מחלב em i 'gris \/ hap swit tru' — hap i swait moa long olgeta, i no 'finest' nating"
+    },
+    {
+      "kind": "crux",
+      "subject": "satisfied thee",
+      "rationale": "גרש 'him\/them' (יוכילהו) tasol רב 'thee' (אשביעך) — tupela man i klostu: em i givim ol man kaikai, tasol em i tok long yu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hani bilong bikpela ston",
+      "rationale": "hani i kamap long ston — tok bilong givim gutpela samting i no isi"
+    }
+  ],
+  "translation": "Na em i givim ⟨em⟩ kaikai long gutpela hap tru bilong witi, na wantaim hani bilong bikpela ston mi pulapim ⟨yu⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/17-17.1792358565409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "em i givim ⟨em⟩ kaikai"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "long gutpela hap tru"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "bilong witi"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "na wantaim hani bilong"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "hani"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "mi pulapim ⟨yu⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:45.410398628Z",
+  "model": "glm-5.3"
+}

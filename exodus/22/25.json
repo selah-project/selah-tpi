@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse division",
+      "rationale": "KJV\/ASV join this verse to the money-lending law (v.24 Hebrew); JPS keeps it as a standalone pledge law — Hebrew text supports the pledge reading"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חבל תחבל",
+      "rationale": "Infinitive-absolute plus finite verb for emphasis: 'if taking-pledge you take in pledge'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mas",
+      "rationale": "Hebrew imperfect reads as obligation; Tok Pisin adds 'mas' for the command sense"
+    }
+  ],
+  "translation": "Sapos yu kisim klos bilong poro man bilong yu olsem senis, long taim san i go daun yu mas givim ⟨em⟩ bek long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/25-28.1792347746745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kisim"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "olsem senis"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "klos"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "bilong poro man bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "yu mas givim ⟨em⟩ bek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:26.746356681Z",
+  "model": "glm-5.3"
+}

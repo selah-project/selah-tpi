@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Shaol asks David directly: 'Pikinini man bilong em yu?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדך",
+      "rationale": "wokman for עבד; Tok Pisin 'slev' would overweight the social role"
+    },
+    {
+      "kind": "elision",
+      "subject": "בית הלחמי",
+      "rationale": "bound construct 'house-of-the-bread-man' rendered as one unit 'man bilong Betlehem'; token split across two glosses"
+    }
+  ],
+  "translation": "Na Shaol i tokim em: Pikinini man bilong em yu, yongpela man? Na David i tok: Pikinini man bilong wokman bilong yu, Yishay, man bilong Betlehem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/57-58.1792351806734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "em"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yongpela man"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bilong wokman bilong yu"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "man bilong Betlehem"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "man bilong Betlehem"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:06.735253200Z",
+  "model": "glm-5.3"
+}

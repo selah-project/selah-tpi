@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Rok",
+      "rationale": "צור מתורגם מילולית כ-Rok, שם של אלוהים"
+    },
+    {
+      "kind": "crux",
+      "subject": "מושל באדם צדיק",
+      "rationale": "קריאות: 'שליט על בני אדם [הוא] צדיק' (תיאור המלך\/אלוהים) או ציווי 'עליו למשול בצדק'; תורגם בראשונה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק נשמר כ-tsedek לפי כלל השפה"
+    }
+  ],
+  "translation": "Elohim bilong Yisrael i tok long mi, Rok bilong Yisrael i autim tok: man i bosim ol manmeri i mas stap tsedek, em i bosim wantaim pret bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/23\/1-4.1792352627958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i autim tok"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Rok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "long ol manmeri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "i bosim"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pret bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:47.959579189Z",
+  "model": "glm-5.3"
+}

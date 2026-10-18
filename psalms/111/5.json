@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai",
+      "rationale": "טרף em i samting ol i kapsut long pait (prey); 'kaikai' i holim mining, tasol piksa bilong 'samting ol i karim wantaim graun' i lus."
+    },
+    {
+      "kind": "crux",
+      "subject": "טרף",
+      "rationale": "Ol tanim tok i no wankain: 'meat' (KJV), 'prey' (YLT), 'a portion' (Geneva) — em i kaikai bilong givim long ol man i scare long God."
+    }
+  ],
+  "translation": "Em i givim kaikai long ol man i scare long em; bai em i tingting olgeta taim long kontrak bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94a6460f298456cb1181b1ec3ad54024169ad023510349bc7b943c9ed50afab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/111\/5-6.1792363402277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "long ol man i scare long em"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "bai em i tingting"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kontrak bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:22.277879309Z",
+  "model": "glm-5.3"
+}

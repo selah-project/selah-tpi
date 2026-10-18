@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tripela handet man, tripela grup",
+      "rationale": "Counting: 300 men split into three companies"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grup",
+      "rationale": "ראשים literally 'heads' = divisions\/companies; literal 'ol het' would mislead"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשים",
+      "rationale": "'Heads' as three divisions vs some read three leaders per group"
+    }
+  ],
+  "translation": "Na em i brum ⟨את⟩ tripela handet man long tripela grup, na em i givim ol sangfure long han bilong olgeta, na ol pot we i no gat samting, na ol lamp insait long ol pot.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d3809489e9323efc6f2414234cb02e30aba87e1c955e7395a039fe4b5dccbe5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/7\/13-16.1792351211461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "em i brum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tripela handet man"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "handet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "grup"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "em i givim"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "ol sangfure"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "na ol pot"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "we i no gat samting"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "na ol lamp"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "insait long"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "ol pot"
+    }
+  ],
+  "timestamp": "2026-10-18T19:20:11.466698784Z",
+  "model": "glm-5.3"
+}

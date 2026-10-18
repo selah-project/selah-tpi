@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנותיה",
+      "rationale": "'Its daughters' read literally as dependent towns\/villages of Lod and Ono, or as actual daughters."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini meri bilong en",
+      "rationale": "בנות in town contexts means satellite settlements ('daughters of the town'), kept literal here."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Named sons of Elpaal listed with the towns they built."
+    }
+  ],
+  "translation": "Na ol pikinini man bilong Elpaal: Ever, na Misham, na Shemer — em i wokim ⟨את⟩ Ono, na ⟨את⟩ Lod, na ol pikinini meri bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/8\/9-12.1792361878227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini man bilong"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "na Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "na Shemer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na ol pikinini meri bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:58.228584921Z",
+  "model": "glm-5.3"
+}

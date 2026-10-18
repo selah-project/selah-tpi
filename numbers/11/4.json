@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 11:4",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האספסף",
+      "rationale": "Tok bilong ol manmeri i no save olgeta — em i wanpela ples tasol long Tanakh we dispela tok i stap"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאכלנו",
+      "rationale": "Hibru i tok 'husat bai i kaikaiim yumi' o 'husat bai i givim kaikai long yumi' — ol tanim tok i tok 'givim mit long yumi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התאוו תאוה",
+      "rationale": "Verb na nem i wankain rorot: ol i laikim long pasin bilong 'laikim' — tok i girap girap, Tok Pisin i no save holim"
+    }
+  ],
+  "translation": "Na ol manmeri i kamap wantaim ol i no save olgeta long ol, ol i laikim samting nogut tru, na ol i kirap go bek, na ol pren bilong Yisrael tu i singaut, na ol i tok: Husat bai i givim ⟨את⟩ mit bilong kaikai long yumi?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/11\/1-4.1792349129730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאספסף",
+      "gloss": "ol manmeri i kamap wantaim ol i no save olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "long namel bilong ol"
+    },
+    {
+      "surface": "התאוו",
+      "gloss": "ol i laikim tru"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "samting ol i laikim"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na ol i kirap go bek"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "na ol i singaut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pren bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bai i givim kaikai long yumi ⟨את⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mit"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:29.731340793Z",
+  "model": "glm-5.3"
+}

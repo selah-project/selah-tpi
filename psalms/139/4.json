@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim objekt pronoun; Hibru i no gat en"
+    },
+    {
+      "kind": "you",
+      "subject": "David i toktok long Yahwe",
+      "rationale": "toktok dairekt long Yahwe i kontiniu"
+    }
+  ],
+  "translation": "Bikos i no gat wanpela tok long taks bilong mi — luk, Yahwe, yu save ⟨em⟩ olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/1-4.1792359260002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "wanpela tok"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "long taks bilong mi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "luk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yu save ⟨em⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:20.003224048Z",
+  "model": "glm-5.3"
+}

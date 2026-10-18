@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקרא",
+      "rationale": "KJV 'bewrayeth itself', ASV 'encountereth oil', YLT 'calleth out' — oil i slipwe long han; Tok Pisin i tokim pasin bilong kelaut na go."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צפניה צפן",
+      "rationale": "Tupela tok bilong 'hidim' i kirap klostu — infinitiv absolut; Tok Pisin i pairapim tupela tasol olsem 'i hidim, hidim' i no bin kamap wankain tru."
+    }
+  ],
+  "translation": "Man i hidim em, em i olsem hidim ruak; na olsem oil bilong han kaut bilong em — em i kelaut na slipwe i go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/13-16.1792359768981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "man i hidim em"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "i hidim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na oil"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "bilong han kaut bilong em"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "em i kelaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:48.982671194Z",
+  "model": "glm-5.3"
+}

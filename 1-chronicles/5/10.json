@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "haus sel bilong ol",
+      "rationale": "באהליהם — ol haus sel; ol narapela tanim tok i tingting em i haus sel bilong ol Hagri, tasol Hibru i tok bilong ol yet"
+    }
+  ],
+  "translation": "Na long ol dei bilong Saul, ol i wokim pait wantaim ol Hagri, na ol Hagri i pundaun long han bilong ol; na ol i stop long ol haus sel bilong ol, antap long olgeta hap bilong san i kamap, i go inap long Gilad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f1c0a151bed1fe92ec8ab1f0875548163ffbf5fbbcf837f02ba4920e03afb080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/5\/9-12.1792361841245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "long ol dei bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "ol Hagri"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "long han bilong ol"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na ol i stop"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "long ol haus sel bilong ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hap bilong"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "san i kamap"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "i go inap long Gilad"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:21.246390401Z",
+  "model": "glm-5.3"
+}

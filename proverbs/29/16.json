@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברבות\/ירבה",
+      "rationale": "Same root רבה opens both halves — 'when the wicked multiply, transgression multiplies' — repetition lost in Tok Pisin."
+    },
+    {
+      "kind": "elision",
+      "subject": "פשע",
+      "rationale": "Hebrew has no את before פשע; ⟨את⟩-style marker not present, object phrase rendered directly."
+    }
+  ],
+  "translation": "Taim ol man nogut i kamap planti, pasin bilong bruikim lo i kamap planti tu; na ol man stretpela ol i lukim ⟨את⟩ ol i pundaun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "db27470f4c8c4dd5b7471d268b8ad75521a2ed46c6eae8e54540cef840e0289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/13-16.1792359766750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "taim ... i kamap planti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "i kamap planti tu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pasin bilong bruikim lo"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "na ol man stretpela"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "ol i pundaun"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ol i lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:46.751115425Z",
+  "model": "glm-5.3"
+}

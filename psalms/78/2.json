@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok piksa",
+      "rationale": "משל is a pithy maxim or simile\/parable; 'tok piksa' catches the metaphorical saying sense."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ol tok pas",
+      "rationale": "חידות are riddles\/dark sayings — deliberately opaque speech the psalm then unfolds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפתחה \/ אביעה",
+      "rationale": "Two parallel first-person verbs, 'open' and 'gush forth', both of the mouth — pouring image, water metaphor lost in Tok Pisin."
+    }
+  ],
+  "translation": "Bai mi opim maus bilong mi long tok piksa; bai mi pulap autim ol tok pas, bilong taim bipo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/1-4.1792358557633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "mi opim"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "long tok piksa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong mi"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "mi pulap autim"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ol tok pas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "taim bipo"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:37.633969510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלמות",
+      "rationale": "Tok חלמות i stap long Tanakh long hapela ples tasol — mining i no klia: kumu purslane o waitpela hap bilong kilang."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלמות",
+      "rationale": "Ol tanim tok i no agri: 'waitpela hap bilong kilang' (KJV) vers 'spy bilong kumu\/mallows' (JPS) — bot i gat sting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spy",
+      "rationale": "בריר em i spy o sup; mi usim 'spy' bilong lukim piksa bilong kaikai i no gat tes."
+    }
+  ],
+  "translation": "Kaikai i no gat tes i ken kaikai wantaut solat? o sapos tes i stap long spy bilong kumu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/6\/5-8.1792359912818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "i ken kaikai"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "kaikai i no gat tes"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "wantaut"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "solat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o sapos"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tes"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "spy"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "kumu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:12.818850885Z",
+  "model": "glm-5.3"
+}

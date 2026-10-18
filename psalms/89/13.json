@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker; Hibru i no gat em"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sait not",
+      "rationale": "צפון i tok 'hap samting\/sait dark'; 'sait not' em i tok bilong kampaas tasol"
+    }
+  ],
+  "translation": "Sait not na sait karai, yu wokim ⟨i⟩ olgeta; Tabor na Hermon long nem bilong yu ol i singaut amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/13-16.1792358805761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "sait not"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na sait karai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "wokim ⟨i⟩ olgeta"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "na Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ol i singaut amamas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:45.762124110Z",
+  "model": "glm-5.3"
+}

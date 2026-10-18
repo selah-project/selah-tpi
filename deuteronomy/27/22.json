@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slip",
+      "rationale": "שכב i tok 'ligim' \/ 'slip'; long hia em i tok slip wantaim, i min kilim wantaim — tok pas bilong Tok Pisin"
+    },
+    {
+      "kind": "idiom",
+      "subject": "karamap em",
+      "rationale": "פסולת פסוק: ארור em i pasin bilong tanim 'cursed' olsem pasin bilong Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "olgeta manmeri",
+      "rationale": "Ol manmeri bilong Yisrael ol i tok Amin — tok bilong wanwan man long karamap"
+    }
+  ],
+  "translation": "Karamap em, man i slip wantaim sista bilong en — pikinini meri bilong papa bilong en o pikinini meri bilong mama bilong en; na olgeta manmeri bai tok: Amin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "31c3b1f4bf8584bc75824ded9dbfa938a5644f24cdb4dd94438262b742bec19f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/22-23.1792363002997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "karamap em"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "man i slip wantaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sista bilong en"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri bilong"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong en"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na bai tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:42.998205679Z",
+  "model": "glm-5.3"
+}

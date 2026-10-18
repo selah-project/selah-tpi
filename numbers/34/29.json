@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol man i skelim graun",
+      "rationale": "Ves em i pinis long lista bilong ol man Yahwe i makim long skelim graun long Kenaan."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss-rendered-as": "ol",
+      "rationale": "Tok Pisin i no gat tok *which*; 'ol' i holim pasin."
+    }
+  ],
+  "translation": "Ol dispela man olsem, Yahwe i givim ol gutpela tok bilong givim ⟨את⟩ ol pikinini bilong Yisrael graun bilong ol long kantri Kenaan.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a455b7b39a2bd01a4b9b08e30b2acf81350228c33ac075accde37b057c2afa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/34\/29-29.1792349624616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela man olsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i givim ol gutpela tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "bilong givim graun bilong ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long kantri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-18T18:53:44.616644736Z",
+  "model": "glm-5.3"
+}

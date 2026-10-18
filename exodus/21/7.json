@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאמה",
+      "rationale": "'Amah' is a female slave, often one designated for marriage; tpi 'meri savev' keeps the slave sense but loses the marriage-designation nuance."
+    }
+  ],
+  "translation": "Na sapos wanpela man i selim ⟨את⟩ pikinini meri bilong en olsem meri savev, em no inap go aut olsem pasin bilong ol man savev i go aut.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/21\/5-8.1792347796098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na sapos"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "i selim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini meri bilong en"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pikinini meri bilong en"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "olsem meri savev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "i go aut"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "olsem pasin bilong go aut"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ol man savev"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:16.099377535Z",
+  "model": "glm-5.3"
+}

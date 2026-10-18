@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וילך הלוך וגדול",
+      "rationale": "Infinitive absolute: 'going and growing great' — iterative walk idiom, kept as repeated 'i go het'."
+    },
+    {
+      "kind": "addition",
+      "subject": "biksem",
+      "rationale": "Hebrew has no 'for'; supplied causal connector."
+    }
+  ],
+  "translation": "Na David i go het, i go het moa na i kamap bikpela, biksem Yahwe Tsebaot, Elohim bilong en, i stap wantaim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/5\/9-12.1792352196517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go het"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "i go het moa"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "na i kamap bikpela"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "biksem Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong en"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i stap wantaim ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:36.518466140Z",
+  "model": "glm-5.3"
+}

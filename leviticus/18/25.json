@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trausim",
+      "rationale": "קוֹא i tok bilong trausim kaikai — graun i trausim ol man olsem man i trausim kaikai nogut"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותטמא\/בטמאכם",
+      "rationale": "rot tutu long tambu — Stat 18 i usim tong tambu i go bek bek"
+    }
+  ],
+  "translation": "Graun i tambu kamap, na mi skelim tambu bilong en long em, na graun i trausim ⟨את⟩ ol man i stap long en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/18\/25-28.1792348562766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "i tambu kamap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "mi skelim"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tambu bilong en"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "i trausim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i stap long en"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ol man i stap long en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:02.767413720Z",
+  "model": "glm-5.3"
+}

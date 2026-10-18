@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לכה נא",
+      "rationale": "Hebrew 'walk, pray' = 'come now' self-summons, rendered Tok Pisin 'Kam nau'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל literally 'breath\/vapor'; kept as Hebrew word 'hevel', not 'nating'"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew אנסכה has no explicit 'you'; speaker tests himself, Tok Pisin needs ⟨yu⟩"
+    }
+  ],
+  "translation": "Mi tok long bel bilong mi: Kam nau, mi bai traim yu long amamas, na lukim gutpela samting; na luk — em tu, em i hevel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/2\/1-4.1792360746603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mi tok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "long bel bilong mi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nau"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "mi bai traim yu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "long amamas"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:06.603999186Z",
+  "model": "glm-5.3"
+}

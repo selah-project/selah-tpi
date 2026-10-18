@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 5:11",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol kaikai i stap",
+      "rationale": "מעבור is stored\/kept-over grain from the previous year; Tok Pisin needs a phrase, the 'kept' sense is softened."
+    },
+    {
+      "kind": "measurement",
+      "subject": "long de bihain bilong Pesak",
+      "rationale": "Events fixed by calendar reference to the day after Passover."
+    }
+  ],
+  "translation": "Na ol i kaikai ol kaikai i stap long graun, long de bihain bilong Pesak: ol brat i no gat yis, na ol grain i kausap, long trutru dispela de yet.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/5\/9-12.1792350472095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "na ol i kaikai"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "ol kaikai i stap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "long de bihain bilong"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesak"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ol brat i no gat yis"
+    },
+    {
+      "surface": "וקלוי",
+      "gloss": "na ol grain i kausap"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "long trutru"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:07:52.097145656Z",
+  "model": "glm-5.3"
+}

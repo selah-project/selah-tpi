@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "seven 'na wantaim' clauses",
+      "rationale": "Hebrew piles up seven waw-instrument phrases; the catalogue rhythm kept in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinora · nevel",
+      "rationale": "Two different Hebrew string instruments, כנור and נבל, kept as distinct names rather than collapsed into one word."
+    }
+  ],
+  "translation": "Na David wantaim olgeta Yisrael ol i pilai long sansin bilong Elohim wantaim olgeta strong, na wantaim ol singsing, na wantaim ol kinora, na wantaim ol nevel, na wantaim ol tamburein, na wantaim ol saisel, na wantaim ol trompet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "be2276c05befa90f3fd447567c18e9dae07753285b0baf2fa98957c41406f3f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/13\/5-8.1792362056045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "ol i pilai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long sansin bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "na wantaim ol singsing"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "na wantaim ol kinora"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "na wantaim ol nevel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "na wantaim ol tamburein"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "na wantaim ol saisel"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "na wantaim ol trompet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:56.046893334Z",
+  "model": "glm-5.3"
+}

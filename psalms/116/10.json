@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אדבר",
+      "rationale": "'because I speak' vs 'therefore I spoke' (KJV) vs 'when I spoke' (JPS) — quoting of v.11 follows."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עניתי",
+      "rationale": "Root 'to be humbled\/afflicted'; rendered 'ol i pundaunim mi' to keep transitive-affliction sense."
+    }
+  ],
+  "translation": "Mi bilip, bilong dispela mi tok: mi, ol i pundaunim mi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/116\/9-12.1792359066079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "mi bilip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ol i pundaunim mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:06.080681641Z",
+  "model": "glm-5.3"
+}

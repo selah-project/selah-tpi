@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 4:18",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קצינו … קצינו",
+      "rationale": "'end bilong yumi' repeated twice in the verse; Hebrew repetition kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדו צעדינו מלכת",
+      "rationale": "Hunters hem in our steps from walking — some read 'our steps stagger\/waver' (from צוד as slipping); kept 'hunt' reading with most versions."
+    }
+  ],
+  "translation": "Ol i ketchim ol step bilong yumi, bilong yumi no inap wokabaut long ol pela rod bilong yumi; end bilong yumi i klostu, ol de bilong yumi i fulmap pinis, bilong wanem end bilong yumi i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "778048a648accb3c90c8a65f9115e73e159d16d7ec34e2b57d5db1189258cf85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/17-20.1792360710110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדו",
+      "gloss": "ol i ketchim"
+    },
+    {
+      "surface": "צעדינו",
+      "gloss": "ol step bilong yumi"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "bilong wokabaut"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "long ol pela rod bilong yumi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "קצינו",
+      "gloss": "end bilong yumi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "i fulmap pinis"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ol de bilong yumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "קצינו",
+      "gloss": "end bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:30.111322591Z",
+  "model": "glm-5.3"
+}

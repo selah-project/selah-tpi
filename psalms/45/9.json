@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "Strong's 4482 min- 'part\/chord': YLT\/ASV\/JPS 'stringed instruments' vs KJV reading with previous verse 'whereby they have made thee glad'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sen",
+      "rationale": "שן i tok bilong tut tasol; long hia em i sen (ivory) — bikpela tut bilong elefen."
+    }
+  ],
+  "translation": "Mira na wud bilong aloe na kasia, olgeta klos bilong yu; long ol haus bilong sen, ol kord bilong miusik i mekim bel bilong yu swit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/9-12.1792358258158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mira"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "na wud bilong aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "klos bilong yu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "ol haus bilong"
+    },
+    {
+      "surface": "שן",
+      "gloss": "sen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ol kord bilong miusik"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "mekim bel bilong yu swit"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:38.159294875Z",
+  "model": "glm-5.3"
+}

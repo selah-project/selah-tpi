@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sait",
+      "rationale": "צלע lit. 'rib' (as curved), side-wall of the Miskan rendered 'sait'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Miskan",
+      "rationale": "משכן kept as Miskan per D2, not 'haus sel'"
+    }
+  ],
+  "translation": "Na yu putim ⟨את⟩ tebol autsait long paroket, na ⟨את⟩ menora i stap ete long tebol, long sait saut bilong Miskan; na tebol, yu putim long sait bilong not.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/26\/33-36.1792347871024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "autsait long"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "i stap ete long"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "bilong Miskan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "saut"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "na tebol"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "not"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:31.025944356Z",
+  "model": "glm-5.3"
+}

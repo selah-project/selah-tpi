@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 24:22",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yehosua i tokim ol manmeri",
+      "rationale": "Direct address to the assembled people of Israel."
+    },
+    {
+      "kind": "crux",
+      "subject": "בכם",
+      "gloss_context": "tpi",
+      "rationale": "'In\/against you' — versions split between 'witnesses against yourselves' and neutral 'among you'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "gloss_context": "tpi",
+      "rationale": "Pronoun added for the object of 'servim', supplied by אותו."
+    }
+  ],
+  "translation": "Na Yehosua i tokim ol manmeri: Olgeta yupela i witness long yupela yet, long wanem yupela bin makimim long yupela yet ⟨את⟩ Yahwe bilong servim ⟨את⟩ ⟨em⟩. Na ol i tok: Olgeta witness.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/24\/21-24.1792350954343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yehosua i tokim"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Olgeta witness"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "long yupela yet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yupela"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "bin makimim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bilong servim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨em⟩"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na ol i tok"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Olgeta witness"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:54.344090330Z",
+  "model": "glm-5.3"
+}

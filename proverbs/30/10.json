@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "Negative imperative directly addressing the reader."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלשן \/ לשון",
+      "rationale": "Verb built on 'tongue' (lashon) — 'wag the tongue'; Tok Pisin 'kotim' loses the tongue-root."
+    }
+  ],
+  "translation": "No ken kotim wokman long bikman bilong en, sapos em i kalsim yu, na yu i gat rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/9-12.1792359791418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "yu kotim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wokman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "bikman bilong en"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "em i kalsim yu"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "na yu i gat rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:11.419493065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אציתנה",
+      "rationale": "Root צות 'to blaze\/set on fire' occurs only here in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפשעה בה",
+      "rationale": "'march through\/trample it' (KJV\/ASV) vs 'step into it' (YLT) vs JPS taking the thorns as already burning"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "Literally 'heat', rendered 'bel bilong pait' (anger)"
+    }
+  ],
+  "translation": "Bel bilong pait i no stap long mi. Husat i givim mi ol spik na ol geras long pait? Mi go wantaim strong long ol, mi kukim olgeta wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/27\/1-4.1792354219462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "bel bilong pait"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no stap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Husat"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "i givim mi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ol spik"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ol geras"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "long pait"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "mi go wantaim strong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "mi kukim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "olgeta wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:19.463794549Z",
+  "model": "glm-5.3"
+}

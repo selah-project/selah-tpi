@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim bel hap",
+      "rationale": "שמחתני lit. 'yu mekim bel bilong mi swit' — Tok Pisin 'givim bel hap' i klostu long feeling bilong bel"
+    }
+  ],
+  "translation": "Long wanem, Yahwe, yu givim bel hap long mi long wok bilong yu; long ol wok bilong han bilong yu mi bai singaut gutpela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/5-8.1792358868203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "yu givim bel hap long mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "long wok bilong yu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "long ol wok bilong"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mi bai singaut gutpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:48.205295859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכם אחד",
+      "rationale": "Literal 'wanpela sok' (one shoulder, burdens on one neck) vs traditional 'olgeta i putim het wantaim' (one consent, KJV\/Geneva)."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav marker preserved as ⟨את⟩; marks 'tok klia'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שכם אחד",
+      "rationale": "Counting 'wanpela' — unity of shoulder as one shared burden."
+    }
+  ],
+  "translation": "Long taim olsem bai mi senisim ⟨את⟩ tok klia long ol lain, bilong olgeta ol i singautim long nem bilong Yahwe, bilong wokim wok bilong en wantaim wanpela sok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "347d5c9c62fbd7f714dec636ba516060211290c361390daea79dbe3de5fba12b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zephaniah\/3\/9-12.1792357553966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long"
+    },
+    {
+      "surface": "אז",
+      "gloss": "taim olsem"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "bai mi senisim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "tok"
+    },
+    {
+      "surface": "ברורה",
+      "gloss": "klia"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "bilong singautim"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "bilong wokim wok bilong en"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sok"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:53.967123393Z",
+  "model": "glm-5.3"
+}

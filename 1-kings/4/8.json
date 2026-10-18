@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "Possessive bilong supplied for construct be-har Efrayim, 'in the hill country of Ephraim'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "name list",
+      "rationale": "Opening of the roster of the twelve officials' names and districts."
+    }
+  ],
+  "translation": "Na ol dispela nem bilong ol: Ben-Hur, long hil bilong Efrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/4\/5-8.1792352690048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ol dispela"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nem bilong ol"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long hil"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "bilong Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:50.050279369Z",
+  "model": "glm-5.3"
+}

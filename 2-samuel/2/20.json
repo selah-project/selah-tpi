@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Abner i tokim Asael",
+      "rationale": "Tok i go stret long Asael: 'Yu yet, Asael?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Em yet, mi",
+      "rationale": "Hibru wanpela tok tasol — אנכי 'mi'; Tok Pisin i nidim tupela tok longtok stret."
+    }
+  ],
+  "translation": "Na Abner i lukluk bek, na em i tok: Yu yet, Asael? Na em i tok: Em yet, mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/17-20.1792352136456.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "i lukluk bek"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bihain long em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Yu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yet"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:36.461637683Z",
+  "model": "glm-5.3"
+}

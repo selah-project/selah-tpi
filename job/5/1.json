@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Iyov",
+      "rationale": "Imperatives 'call now' and rhetorical questions address Job directly."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקדשים",
+      "rationale": "'holy ones' = angels\/saints; rendered literally as 'man holi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "autim tok bek",
+      "rationale": "ענה here 'to answer', not the common 'sing\/afflict' sense of the lemma."
+    }
+  ],
+  "translation": "Karim ⟨i⟩ nau — sapos i gat wanpela man inap autim tok bek long yu? Na long long wanpela man holi yu bai yu lukluk?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/5\/1-4.1792359947610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Karim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨i⟩ nau"
+    },
+    {
+      "surface": "היש",
+      "gloss": "sapos i gat"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "man inap autim tok bek long yu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "מי",
+      "gloss": "long wanem man"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "man holi"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "yu bai yu lukluk"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:47.610726238Z",
+  "model": "glm-5.3"
+}

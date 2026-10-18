@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "birth list of David's sons",
+      "rationale": "Catalogue with ordinal numbers naming each son and mother — a counting register."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol ia",
+      "rationale": "Hebrew ואלה 'and these' rendered with demonstrative added for Tok Pisin flow."
+    }
+  ],
+  "translation": "Na ol ia olgeta i ol pikinini bilong David, ol i bonim ⟨את⟩ ol ia long Hebroun: olpela pikinini man bilong en, Amnon, bilong Ahinoam meri bilong Yizreel; namba tu, Daniel, bilong Abigail meri bilong Karmel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8b316caa29d05e6cd749ede4c7f31bf41811c20bd21cd6de1ab8ee873e2aca4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/3\/1-2.1792363492087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ol ia"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olgeta i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "i bonim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "long Hebroun"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "olpela pikinini man"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "bilong Ahinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "meri bilong Yizreel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "namba tu"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "bilong Abigail"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "meri bilong Karmel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:52.087755442Z",
+  "model": "glm-5.3"
+}

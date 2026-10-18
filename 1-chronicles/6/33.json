@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נתונים",
+      "rationale": "Passive participle 'given\/appointed' rendered actively as 'they were given to'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Miskan",
+      "rationale": "משכן kept as Miskan per discipline, not 'haus sel'."
+    }
+  ],
+  "translation": "Na ol brata bilong ol, ol Levi, ol i bin givim ⟨ol⟩ long olgeta wok bilong Miskan, haus bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b52b6a786a3f34ea000c23ae0f1da9f2f610c4aa0ed0cd01476b7ae3e0bdce79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/6\/33-36.1792361887372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Na ol brata bilong ol"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ol Levi"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "ol i bin givim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:07.372660478Z",
+  "model": "glm-5.3"
+}

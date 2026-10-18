@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחזק את ידו באלהים",
+      "rationale": "Hebrew idiom 'strengthened his hand in God' = encouraged him in God's strength; kept literal because the picture holds."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרשה",
+      "rationale": "Horesh: common noun 'forest\/woodland' or place name Horesh; here rendered as place name Horesa matching v.15."
+    }
+  ],
+  "translation": "Na Yonatan, pikinini bilong Saul, i kirap, na em i go long David long Horesa, na em i strongim ⟨את⟩ han bilong en long Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/23\/13-16.1792351922455.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "na i kirap"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "long Horesa"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "na em i strongim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong en"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:02.456534567Z",
+  "model": "glm-5.3"
+}

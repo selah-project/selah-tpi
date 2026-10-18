@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנצתה",
+      "rationale": "Ol i tunglong: 'wantaim ol feda' (JPS, KJV) o 'wantaim ol dot bilong en' (ASV 'filth thereof') — נוצה i min feda, tasol konteks i no klia"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מוראתו",
+      "rationale": "מוראה — bel kaikai bilong pisin — tok i kamap long Tanakh hia tasol"
+    }
+  ],
+  "translation": "Na em i rausim ⟨את⟩ bel kaikai bilong em wantaim ol feda bilong en, na em i tromoi ⟨את⟩ em klostu long alta long hap ist, long ples bilong ol kas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/1\/13-16.1792348261929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "i rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel kaikai bilong em"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "bel kaikai bilong em"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "wantaim ol feda bilong en"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "i tromoi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "long hap ist"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "bilong ol kas"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:01.930276129Z",
+  "model": "glm-5.3"
+}

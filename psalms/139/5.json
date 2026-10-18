@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "han bilong yu",
+      "rationale": "כפכה em i palm\/holim han; 'han' i makim olgeta, palm i no wanpela tok klia long Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחור וקדם",
+      "rationale": "bihain na fronda — tupela sayd, olsem banis; קדם i min olsam 'fronda' o 'Ist'"
+    }
+  ],
+  "translation": "Bihain na fronda yet yu banisim mi, na yu putim han bilong yu antap long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/139\/5-8.1792359248077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "na fronda"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "yu banisim mi"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "na yu putim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "antap long mi"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "han bilong yu (palm)"
+    }
+  ],
+  "timestamp": "2026-10-18T21:34:08.078374941Z",
+  "model": "glm-5.3"
+}

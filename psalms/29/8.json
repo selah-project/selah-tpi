@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחיל…יחיל",
+      "rationale": "Verb doubled exactly as Hebrew doubles it: voice shakes, then Yahwe shakes — parallel repetition preserved."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guriaim",
+      "rationale": "חוּל is 'twist\/whirl\/writhe' — earthquake verb; Tok Pisin 'guriaim' (shake) keeps the physical picture, though the twisting sense narrows."
+    },
+    {
+      "kind": "alternative",
+      "subject": "graun wailples",
+      "rationale": "מִדְבָּר is open pasture-land that became wilderness; 'graun wailples' could also be 'ol gaden wail graun' if the pasture sense is foregrounded."
+    }
+  ],
+  "translation": "Voes bilong Yahwe i guriaim graun wailples; Yahwe i guriaim graun wailples bilong Kades.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/29\/5-8.1792358052964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Voes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "i guriaim"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "graun wailples"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "i guriaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "graun wailples bilong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:12.965876882Z",
+  "model": "glm-5.3"
+}

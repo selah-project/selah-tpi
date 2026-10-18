@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "katim i go ausait",
+      "rationale": "הכרתי 'cut off' rendered as cutting away from the face of the ground, keeping the literal cutting picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok moi na tok bek",
+      "rationale": "למשל ולשנינה — 'proverb and byword': mashal is a pithy saying, sheninah a pointed taunt; both collapse into Tok Pisin talk-idioms."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Copula particle supplied before 'tok moi'; Hebrew והיה carries 'become' but the predicate marker is needed in Tok Pisin."
+    }
+  ],
+  "translation": "Na bai mi katim ⟨את⟩ Yisrael i go ausait, i go we long pes bilong graun we mi givim long ol; na ⟨את⟩ haus we mi mekim holi long nem bilong mi, bai mi salim i go ausait long pes bilong mi; na Yisrael bai i kamap ⟨i⟩ tok moi na tok bek long olgeta manmeri",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6bca697f362198e69046c05a452c86089c9c5a073d0535b6e6b11e93ea17b48f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/9\/6-7.1792363130909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "na bai mi katim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "i go we long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "mi mekim holi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "long nem bilong mi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bai mi salim i go ausait"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "i go ausait long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong mi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "tok moi"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "na tok bek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:50.910263401Z",
+  "model": "glm-5.3"
+}

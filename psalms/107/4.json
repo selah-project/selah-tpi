@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך",
+      "rationale": "'long rot' (ASV\/JPS) o 'ol i lusim rot' (Geneva) — Habru i tok 'long desert, long rot'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "golsave",
+      "rationale": "תעו em i wokabaut nating, lus rot — 'golsave' i holim piksa"
+    }
+  ],
+  "translation": "Ol i golsave long ples wailbus, long graun nogut, long rot; ol i no painim taun bilong stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/1-4.1792358996851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ol i golsave"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wailbus"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "long graun nogut"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "bilong stap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "painim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:56.855899267Z",
+  "model": "glm-5.3"
+}

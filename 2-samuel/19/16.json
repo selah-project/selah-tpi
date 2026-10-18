@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לקראת … להעביר",
+      "rationale": "Double purpose clause: to meet the king and to bring him across — the verb עבר echoes the crossing-motif of the return."
+    },
+    {
+      "kind": "elision",
+      "subject": "ללכת",
+      "rationale": "The infinitive 'to go' is absorbed into the Tok Pisin purpose chain 'bilong go', its bare motion sense not separately marked."
+    }
+  ],
+  "translation": "Na king i go bek, na em i kam until long Yarden; na Yuda i kam long Gilgala bilong go long wanpela ples bilong painim king, bilong bringim ⟨את⟩ king i go olihet long ⟨את⟩ Yarden.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/19\/13-16.1792352525899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na king i go bek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na em i kam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until long"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "long Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bilong go"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "long painim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "bilong bringim i go olihet long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:05.901320677Z",
+  "model": "glm-5.3"
+}

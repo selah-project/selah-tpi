@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok",
+      "rationale": "שפת em i 'lip', na hia em i min 'tok ples' — tok bilong man i no save"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצאתו על ארץ מצרים",
+      "rationale": "Em i go ausait long graun Mitsrayim, o em i wokabaut namel long graun Mitsrayim — KJV\/JPS ol i no wankain"
+    }
+  ],
+  "translation": "Em i putim olsem testimony long Yehosep, taim em i go ausait long graun bilong Mitsrayim; tok we mi no save long em, mi harim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/5-8.1792358609196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "testimony"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "long Yehosep"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "em i putim"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "taim em i go ausait"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi save"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi harim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:29.198272755Z",
+  "model": "glm-5.3"
+}

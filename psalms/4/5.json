@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגזו",
+      "rationale": "'guria\/traim' (KJV, JPS) o 'bel i hat' (BSB, LXX orgizesthe) — wankain heat long bilips"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mak bilong miusik i stap, tanim tok tasol: Sela"
+    }
+  ],
+  "translation": "Guria ⟨na⟩ no ken wokim nogut; tokim long bel bilong yu, long bet bilong yu, na stap kwait. Sela",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/4\/5-8.1792357838721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "guria"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨na⟩ no ken"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "wokim nogut"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "bet bilong yu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "na stap kwait"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:38.722063827Z",
+  "model": "glm-5.3"
+}

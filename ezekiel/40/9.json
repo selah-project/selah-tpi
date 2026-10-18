@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילים",
+      "rationale": "Strong posts\/jambs of the gateway (pilaista) vs 'pillars' or 'porch-front'; KJV 'posts'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהבית",
+      "rationale": "'toward the house\/temple' (ASV) vs 'inward' (KJV\/JPS) — the porch faced the temple."
+    },
+    {
+      "kind": "measurement",
+      "subject": "et ama na tupela ama",
+      "rationale": "Verse gives dimensions of porch and posts in cubits (ama)."
+    }
+  ],
+  "translation": "Na em i skelim ⟨את⟩ pas bilong geit, et ama; na ol pilaista bilong en, tupela ama; na pas bilong geit i stap long hap bilong haus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/40\/9-12.1792356804848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Na em i skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pas bilong geit"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bilong geit"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "et"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "na ol pilaista"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "na pas"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bilong geit"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "i stap long hap bilong haus"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:24.849362863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 8:4",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "object pronoun added after 'mi no save' — Hebrew leaves the object implicit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol piksa",
+      "rationale": "עצבים literally 'images\/idols' — rendered as 'ol piksa' (carved images) in Tanakh-register"
+    }
+  ],
+  "translation": "Ol i wokim ol king, tasol no long mi; ol i makim ol bikman, tasol mi no save ⟨em⟩. Ol i mekim ol piksa long silva bilong ol na gol bilong ol bilong ol yet, olsem na ol bai ol i katim ol i go ausait long ol manmeri bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/8\/1-4.1792357069486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "המליכו",
+      "gloss": "ol i wokim ol king"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol no"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "השירו",
+      "gloss": "ol i makim ol bikman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol mi no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "save"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "silva bilong ol"
+    },
+    {
+      "surface": "וזהבם",
+      "gloss": "gol bilong ol"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i mekim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bilong ol yet"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ol piksa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "bai i katim ol i go ausait long ol manmeri bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:57:49.487906743Z",
+  "model": "glm-5.3"
+}

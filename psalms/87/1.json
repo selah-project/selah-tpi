@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew has 'his foundation' with no named owner; Tok Pisin needs the pronoun"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol fowndesen bilong em",
+      "rationale": "יסודתו is feminine singular; antecedent is Zion (v.2) not God, so 'his\/her foundation'"
+    }
+  ],
+  "translation": "Bilong ol pikinini bilong Korah. Mizmor, singaut bilong sing. Ol fowndesen bilong ⟨em⟩ i stap long ol maunten holi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/87\/1-4.1792358792769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "bilong ol pikinini bilong"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singaut bilong sing"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "ol fowndesen bilong em"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "long ol maunten"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:32.769702828Z",
+  "model": "glm-5.3"
+}

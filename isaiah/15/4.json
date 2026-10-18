@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלצי",
+      "rationale": "Ol man i tambuim long grek: 'ol man bilong pait' (KJV, JPS) o 'ol man i ranawe' (Strong 'depart', wok long 15:5 'fugitives')"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפשו ירעה לו",
+      "rationale": "KJV 'em i pen tumas long em', JPS 'i gat warwor long insait', wok literal 'bel bilong en i singaut long em yet'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i win bilong laip — Tok Pisin 'bel' i holim tingting na laik, klostu long en"
+    }
+  ],
+  "translation": "Hesbon i singaut nogut tru, na Elale; inap long Yahas ol i harim ⟨את⟩ singaut bilong ol; olsem na ol man bilong pait bilong Moab bai ol singaut aut; bel bilong en i wailim long em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8be10381cdef09b516429f18573a56d7656a5a7472c0df420e46e375916b7f23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/15\/4-4.1792363186985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "i singaut nogut tru"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hesbon"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "na Elale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "Yahas"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ol i harim"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "singaut bilong ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "ol man bilong pait bilong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "bai ol singaut aut"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "i wailim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:46.986262457Z",
+  "model": "glm-5.3"
+}

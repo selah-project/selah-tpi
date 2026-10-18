@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסר לב",
+      "rationale": "lit. 'lacking heart' — לב rendered 'bel' per D4, seat of mind and will"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש as life-force rendered 'laip', not 'soul'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא יעשנה",
+      "rationale": "'he who does it destroys his soul' vs 'he does it, destroying himself' — pronoun emphasis debated"
+    }
+  ],
+  "translation": "Man i slip wantaim meri bilong naraman, em i no gat bel; em i bagarapim laip bilong ⟨em⟩ yet — em yet i wokim ⟨olsem⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/6\/29-32.1792359470199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "i slip wantaim meri bilong naraman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "i bagarapim"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "laip bilong ⟨em⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "i wokim ⟨olsem⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:50.201325603Z",
+  "model": "glm-5.3"
+}

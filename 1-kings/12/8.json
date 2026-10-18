@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok bilong ol olpela man",
+      "rationale": "עצת rendered as 'tok' (advice) — Tok Pisin lacks a single distinct word for counsel"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long fes bilong em",
+      "rationale": "לפניו literally 'to his face', rendered with Tok Pisin idiom 'long fes bilong em' meaning 'in his presence\/before him'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעצהו \/ ויועץ",
+      "rationale": "Root יעץ repeats (counselled \/ took counsel), the verse's rhetorical hinge; partly lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na em i lusim ⟨את⟩ tok bilong ol olpela man we ol i givim long em, na em i skelim tok wantaim ⟨את⟩ ol yangpela man we ol i gro antap wantaim ⟨את⟩ em, we ol i sanap stap long fes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1bc376df9f0ffe44f749e8d1a71e6831b813149783005eef1671d1789ff90f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/12\/8-8.1792363085512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Na em i lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong ol olpela man"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ol olpela man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ol i givim tok long em"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "na em i skelim tok wantaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol yangpela man"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ol yangpela man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ol i gro antap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩ em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ol i sanap stap"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long fes bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:38:05.513023936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronouns supplied; Hebrew uses only לה suffix on the verb of calling."
+    }
+  ],
+  "translation": "Na em i tok: Singautim ⟨em⟩. Na em i singautim ⟨em⟩, na em i sanap long dua.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "755f744b76d743d2fa845fc6b92a3ee60956766f0dc7df1aad3bc264bbcbaf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/4\/13-16.1792353347170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Singautim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Na em i singautim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "na em i sanap"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "long dua"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:47.171775765Z",
+  "model": "glm-5.3"
+}

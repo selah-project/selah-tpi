@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 51:34",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "Hebrew suffixes on verbs (-נו) rendered as bracketed pronoun 'mi' since Tok Pisin verbs carry no object suffix."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדיחנו",
+      "rationale": "'Cast\/thrust me away' (KJV 'cast out') vs JPS 'washed me clean'; chose 'rausim i go ausait' for the thrusting sense."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כתנין",
+      "rationale": "Could also be 'bikpela pis nogut bilong solwara' (sea-monster); 'traipela snek' keeps the swallowing picture."
+    }
+  ],
+  "translation": "Nebukadnetsar, king bilong Bavel, i kaikaiim ⟨mi⟩, i bagarapim ⟨mi⟩ gut; i putim ⟨mi⟩ daun olsem samting i no gat wanpela samting insait; i swarim ⟨mi⟩ olsem traipela snek; i pulimapim bel bilong en wantaim ol gutpela kaikai bilong ⟨mi⟩, na i rausim ⟨mi⟩ i go ausait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "44aa8c39415fcf5b5269d67b80b88d08ebd6bdf4910dc4c03635472d1de21a6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/33-36.1792355946284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלנו",
+      "gloss": "i kaikaiim ⟨mi⟩"
+    },
+    {
+      "surface": "הממנו",
+      "gloss": "i bagarapim ⟨mi⟩ gut"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "bilong Bavel"
+    },
+    {
+      "surface": "הציגנו",
+      "gloss": "i putim ⟨mi⟩ daun"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "olsem samting"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "i no gat wanpela samting insait"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "i swarim ⟨mi⟩"
+    },
+    {
+      "surface": "כתנין",
+      "gloss": "olsem traipela snek"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "i pulimapim"
+    },
+    {
+      "surface": "כרשו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "wantaim ol gutpela kaikai bilong ⟨mi⟩"
+    },
+    {
+      "surface": "הדיחנו",
+      "gloss": "i rausim ⟨mi⟩ i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:06.285622056Z",
+  "model": "glm-5.3"
+}

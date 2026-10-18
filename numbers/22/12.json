@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קבה vs תאר",
+      "rationale": "v11 uses qabab, v12 arar — two different curse-verbs; both rendered 'tok nogut', the distinction flattens."
+    },
+    {
+      "kind": "you",
+      "subject": "to Balam",
+      "rationale": "Elohim directly forbids Balam with two commands."
+    }
+  ],
+  "translation": "Na Elohim i tok long Balam: Yu no ken go wantaim ol; yu no ken tok nogut long ⟨את⟩ ol man, long wanem ol i gat blessing.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "efe838158a0ccacf66bb1628b16dff59c221d95d84c0b6429d06775f2aedc408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/22\/9-12.1792349365848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Balam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yu go"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "wantaim ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "yu tok nogut long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "i gat blessing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:49:25.849721269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נגש",
+      "rationale": "Hebrew is the driver\/overseer who drives workers and debtors; 'man i waskim wok' keeps the picture, not 'oppressor'."
+    },
+    {
+      "kind": "addition",
+      "subject": "Wantaim",
+      "rationale": "Fronted adverb repeated as predicate marker for Tok Pisin syntax."
+    }
+  ],
+  "translation": "Wantaim ol kalabus i stap isi ⟨Wantaim⟩, ol i no harim tok bilong man i waskim wok bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/3\/17-20.1792359855012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ol kalabus"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "i stap isi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "harim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tok \/ noise"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "man i waskim wok bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:15.013244063Z",
+  "model": "glm-5.3"
+}

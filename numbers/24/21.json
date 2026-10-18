@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strongpela i stap oltaim",
+      "rationale": "אֵיתָן i min 'i stap oltaim\/strongpela' — JPS i ritim 'Though firm be' olsem tok bilong tambu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ples bilong stap bilong yu i strongpela",
+      "rationale": "Sapos KJV\/ASV: stori i tok 'strong em i ples bilong yu', o JPS: 'sapos em i strong olsem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיני\/קנך",
+      "rationale": "Nem bilong lain Keni (קֵינִי) na tok 'nes' (קֵן) i wankain raun — Balam i yusim piksa bilong nes long lain Keni"
+    }
+  ],
+  "translation": "Na i lukim ⟨את⟩ ol Keni, na i singautim tok bilong em, na i tok: Ples bilong stap bilong yu i strongpela, na yu putim nes bilong yu long ston.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6553d13de5b839e0649c754f9026d569023e12ed6d522afb4916af770c690a36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/24\/21-24.1792349400373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Keni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ol Keni"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "na i singautim tok bilong em"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "tok bilong em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "strongpela i stap oltaim"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "ples bilong stap bilong yu"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "na yu putim"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "long ston"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "nes bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:00.373556978Z",
+  "model": "glm-5.3"
+}

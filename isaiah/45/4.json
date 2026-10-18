@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mi givim nupela nem long yu",
+      "rationale": "אכנך — pasin bilong givim tupela nem \/ nem bilong klan, klosu 'mi givim biknem long yu'"
+    },
+    {
+      "kind": "you",
+      "subject": "long Kores",
+      "rationale": "Yahwe i tok daun long Kores, king we i no save long em"
+    }
+  ],
+  "translation": "Bilong wokman bilong mi Yakov, na bilong Yisrael man mi bin makim, na mi singautim yu long nem bilong yu, mi givim nupela nem long yu, tasol yu no save long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bfb5e328863bc5c10f3423b869dfd9974b044f381c91465cf9d2c0c5b2c5afb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/45\/1-4.1792354618594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "man mi bin makim"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "na mi singautim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "long nem bilong yu"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "mi givim nupela nem long yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol no"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "yu save long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T20:16:58.596120303Z",
+  "model": "glm-5.3"
+}

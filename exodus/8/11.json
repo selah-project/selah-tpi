@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "לב is bel (tingting na laik), not 'hat'."
+    },
+    {
+      "kind": "crux",
+      "subject": "והכבד",
+      "rationale": "Pharaoh hardens his own heart here (active verb), vs Ex 9:12 where Yahwe hardens it; kept 'em i mekim bel bilong em i kamap hevi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Perfective aspect added for 'as Yahwe had spoken'."
+    }
+  ],
+  "translation": "Na Paroh i lukim se i gat malolo pinis, na em i mekim ⟨את⟩ bel bilong em i kamap hevi, na em i no harim long ol, olsem Yahwe i tok pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e9fae6e1be5ec8c4928d88c230ab62786f7a0fe21e597954a44a49094d5f8c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/10-11.1792362902402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "malolo"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "i mekim i kamap hevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong em"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:02.403596296Z",
+  "model": "glm-5.3"
+}

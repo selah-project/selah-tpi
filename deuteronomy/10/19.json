@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גר \/ גרים",
+      "rationale": "Wanpela tok 'ger' i kamap tupela taim — lo bilong laikim man i kamap long narapela ples i stanap long olsem yu ol yet i bin ol 'ger' long Mitsrayim; Tok Pisin i holim wankain tok."
+    },
+    {
+      "kind": "addition",
+      "subject": "mas",
+      "rationale": "Hibru i no gat 'mas' — imperativ ⟨mas⟩ i bracketim long Tok Pisin bilong tok gutpela pasin komand."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Mose i toktok stret long ol man Yisrael, komand bilong laikim ol man i kamap long narapela ples."
+    }
+  ],
+  "translation": "Olgeta yu ol i mas laikim ⟨את⟩ man i kamap long narapela ples, long wanem yu ol i bin ol man i kamap long narapela ples long graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0e63a549d249e72d3e6648ff9252207c21f7dd778e2a41d9160343f4c40badc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/10\/18-19.1792363014909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "yu ol i mas laikim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man i kamap long narapela ples"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "man i kamap long narapela ples"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ol man i kamap long narapela ples"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "yu ol i bin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:54.910009786Z",
+  "model": "glm-5.3"
+}

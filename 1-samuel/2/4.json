@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "beltim needs object marker 'wantaim strong' supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גברים \/ נכשלים",
+      "rationale": "reversal: mighty broken, stumbling ones girded with strength — chiasm of statuses"
+    }
+  ],
+  "translation": "Ol ban bilong sut bilong ol strongman i bruk, na ol man i pundaun olgeta, ol i beltim ⟨wantaim⟩ strong.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/2\/1-4.1792351483442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "ol ban bilong sut"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ol strongman"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "i bruk"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "na ol man i pundaun olgeta"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ol i beltim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strong"
+    }
+  ],
+  "timestamp": "2026-10-18T19:24:43.445201727Z",
+  "model": "glm-5.3"
+}

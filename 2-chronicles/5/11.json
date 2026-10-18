@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 5:11",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין לשמור למחלקות",
+      "rationale": "'None to keep by courses' (KJV\/JPS) vs BSB 'did not wait by divisions' — Hebrew lacks a verb 'wait', only 'not to keep to divisions'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "holi ples",
+      "rationale": "הקדש is 'the holy (place)', rendered with Tok Pisin 'holi ples'."
+    }
+  ],
+  "translation": "Na i kamap, taim ol pris i go ausait long holi ples — bikos olgeta pris i stap long hap ol i mekim ol yet holi, i no gat wanpela i holim wok bilong olgeta seket —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/5\/9-12.1792362342757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "taim ol i go ausait"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holi ples"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pris"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "i stap long hap"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "mekim ol yet holi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat wanpela"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "holim wok bilong"
+    },
+    {
+      "surface": "למחלקות",
+      "gloss": "olgeta seket"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:42.758917958Z",
+  "model": "glm-5.3"
+}

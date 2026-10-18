@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 7:6",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהים אחרים — foreign gods, so lowercase 'ol god' per the discipline, not Elohim."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Continuation of the direct address to the people at the temple."
+    }
+  ],
+  "translation": "long no ken salim nogut man i no bilong hia, pikinini i no gat papa, na meri i no gat man; no ken kapsaitim blut bilong man i no gat rong long dispela ples; na no ken wokabaut bihain long ol god narapela — long em i nogut bilong yupela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/7\/5-8.1792355007918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "man i no bilong hia"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "pikinini i no gat papa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na meri i no gat man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "salim nogut"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "na blut"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bilong man i no gat rong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשפכו",
+      "gloss": "kapsaitim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na bihain long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "wokabaut"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "long samting nogut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:27.918866068Z",
+  "model": "glm-5.3"
+}

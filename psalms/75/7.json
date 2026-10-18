@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hibru i no gat tok bilong wanem i kam — 'kamap bilong man' — Tok Pisin i nidim subjek."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממוצא",
+      "rationale": "Ol tanim i tok 'ist' (hap we san i kirap), tasol tok Hibru i tok 'hap we ol i go ausait' — KJV 'east', JPS 'east'."
+    }
+  ],
+  "translation": "Long wanem, ⟨em⟩ i no kam long hap ia we samting i ausait, na i no kam long hap wes, na i no kam long wailbus bilong ol maunten.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/75\/5-8.1792358540980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "long hap ia we samting i ausait"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na i no kam long hap wes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "long wailbus"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bilong ol maunten"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:20.981632352Z",
+  "model": "glm-5.3"
+}

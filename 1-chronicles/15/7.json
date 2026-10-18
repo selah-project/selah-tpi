@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Count of Gershonites: 130."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גרשום",
+      "rationale": "Spelling גרשום (with ם) here vs usual גרשון; lemma listed as Gershon."
+    }
+  ],
+  "translation": "Long ol pikinini bilong Gershom: Yoel em i bikman, na ol brata bilong en, wan handet na tripela ten.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0859649601e0547d0608963ddcadde0d2f17a7e6bcdef515bcd890fdce7801ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/15\/5-8.1792361987839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "השר",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ol brata bilong en"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tripela ten"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:47.840644217Z",
+  "model": "glm-5.3"
+}

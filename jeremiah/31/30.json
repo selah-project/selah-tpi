@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yet",
+      "rationale": "Hebrew uses emphatic singular 'each man his own iniquity'; 'yet' supplied for the contrast"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'but\/instead' vs 'for behold' — most take adversative here"
+    }
+  ],
+  "translation": "Tasol olsem: wanwan man, long bilas nogut bilong em yet, bai i dai. Man i kaikai ⟨את⟩ grape swer, tut bilong em yet i kamap swer.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/31\/29-32.1792355472561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tasol olsem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "long bilas nogut bilong em"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bai i dai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "man i"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "i kaikai"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "grape swer"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "i kamap swer"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tut bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:12.562277023Z",
+  "model": "glm-5.3"
+}

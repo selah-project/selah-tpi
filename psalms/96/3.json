@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Coordinator added between the two parallel clauses; Hebrew asyndeton."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפלאותיו",
+      "rationale": "'Wonders' rendered descriptively as things beyond thinking; literal 'his wonders'."
+    }
+  ],
+  "translation": "Storim olgeta ol man bilong ol narapela kantri long glori bilong ⟨em⟩, na long olgeta ol manmeri bilong olgeta lain, ol samting i sot man i no inap tingim long ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/96\/1-4.1792358856205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "storim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "long ol man bilong ol narapela kantri"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glori bilong ⟨em⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ol manmeri bilong olgeta lain"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ol samting i sot man i no inap tingim long ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:36.219218383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hebrew counts bare 'eighteen thousand'; Tok Pisin needs 'man' to name what is counted"
+    },
+    {
+      "kind": "crux",
+      "subject": "Aram o Edom",
+      "rationale": "Verse says Aram; parallel 1 Chr 18:12 and some LXX witnesses read Edom — translators disagree"
+    },
+    {
+      "kind": "measurement",
+      "subject": "etin tausen",
+      "rationale": "Verse reports a body count of eighteen thousand"
+    }
+  ],
+  "translation": "Na David i wokim nem bilong ⟨em⟩ taim em i kamap bek, long paitim ⟨את⟩ Aram long vali bilong sol — etin tausen man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/8\/13-16.1792352208079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "taim em i kamap bek"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "long paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "long vali"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "bilong sol"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "etin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:48.080437983Z",
+  "model": "glm-5.3"
+}

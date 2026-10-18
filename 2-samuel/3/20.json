@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עשרים אנשים",
+      "rationale": "Count of twenty men in Abner's delegation."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Tok Pisin needs a classifier-like counter for משתה; Hebrew has none."
+    }
+  ],
+  "translation": "Na Avner i kam long David long Hevron, wantaim ⟨את⟩ em tupela ten man, na David i wokim long Avner na long ol man ol i stap wantaim ⟨את⟩ em wanpela kaikai bilong dring.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/17-20.1792352167300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na i kam"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "wantaim ⟨את⟩ em"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tupela ten"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na i wokim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "long Avner"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "na long ol man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wantaim ⟨את⟩ em"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "wanpela kaikai bilong dring"
+    }
+  ],
+  "timestamp": "2026-10-18T19:36:07.302022794Z",
+  "model": "glm-5.3"
+}

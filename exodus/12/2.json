@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i makim predicate; Hibru i no gat copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדש\/חדשים",
+      "rationale": "Wankain kot חדש i kamap tupela taim — mun na het bilong ol mun; klostu wankain long Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalenda",
+      "rationale": "Ves i statim kaunim ol mun bilong yia — namba wan mun"
+    }
+  ],
+  "translation": "Dispela mun bilong yumi em i het bilong ol mun; em i namba wan bilong yumi, long ol mun bilong yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "66e34c12366abd1f66b2bc8bc2afab4582e4a54bf300bd3a7ce24be0d17cb438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/2-3.1792362917430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "mun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ol mun"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "namba wan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "long ol mun"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "bilong yia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:17.431035739Z",
+  "model": "glm-5.3"
+}

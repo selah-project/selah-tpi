@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראים...הקולת",
+      "rationale": "Hebrew literally 'saw the voices' — seeing sound; kept as lukim to hold the sensory paradox"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun supplied in ⟨em⟩ for the second 'the people saw', Hebrew has none"
+    }
+  ],
+  "translation": "Na olgeta manmeri bilong lain i lukim ⟨את⟩ ol nois na ⟨את⟩ ol paia na ⟨את⟩ nois bilong sipia na ⟨את⟩ maunten i pulap long smok; na taim ol manmeri i lukim ⟨em⟩, ol i guria na ol i sanap long hap farawe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/20\/17-20.1792347706134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri bilong lain"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol nois"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "ol nois"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol paia"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "ol paia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nois bilong sipia"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nois"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sipia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maunten"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "pulap long smok"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "guria"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "long hap farawe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:46.135547351Z",
+  "model": "glm-5.3"
+}

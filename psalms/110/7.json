@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Tok Pisin i laikim poroman; Hibru i no gat"
+    },
+    {
+      "kind": "crux",
+      "subject": "em i dring wara",
+      "rationale": "Husat i dring? Sampela i tok king o Masiak i dring, narapela i tok em i dring blut bilong ol birua (pasin bilong rit)"
+    }
+  ],
+  "translation": "Long wanpela wara bilong ples i stap long rot, ⟨em i⟩ dring; olsem na ⟨em i⟩ raisim het.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/110\/5-7.1792359038638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "wara bilong ples"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨em i⟩ dring"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "⟨em i⟩ raisim"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "het"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:38.639872349Z",
+  "model": "glm-5.3"
+}

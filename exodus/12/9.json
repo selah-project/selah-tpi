@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נא",
+      "rationale": "'raw\/uncooked' sense of נא is rare; rendered 'i no kukim yet' to keep the picture."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Hebrew restrictive pair 'for if\/but' rendered as single 'tasol'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wantaim",
+      "rationale": "על 'upon' with body parts rendered 'wantaim' (together with), as Hebrew uses it for accompaniment here."
+    }
+  ],
+  "translation": "No ken kaikai wanpela hap bilong em i no kukim yet, o kukim pinis long wara, tasol kaikai bilong kukim long paia; het bilong em wantaim ol lek bilong em, na wantaim ol insait bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/9-12.1792347531262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wanpela hap bilong em"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i no kukim yet"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "o kukim pinis"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "kukim pinis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kaikai bilong kukim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "het bilong em"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ol lek bilong em"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ol insait bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:51.263503365Z",
+  "model": "glm-5.3"
+}

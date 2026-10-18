@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותהר",
+      "rationale": "Feminine singular verb with no named subject — 'she conceived\/bore': Miryam read as mother (KJV) or daughter (LXX\/BSB); Hebrew leaves it open."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb is feminine singular but the subject is unnamed; Tok Pisin needs a pronoun."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Ezra: Yeter, na Mered, na Efer, na Yalon; na ⟨em⟩ i karim ⟨את⟩ Miryam, na ⟨את⟩ Shamai, na ⟨את⟩ Yishba, papa bilong Eshtemoa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf9ec42565c2bca2dc01a8495ff0520ed3cc10058d8e7b839bbb2c52757ed2a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/4\/17-20.1792361862467.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "na Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "na Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "na em i karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishba"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:42.468210435Z",
+  "model": "glm-5.3"
+}

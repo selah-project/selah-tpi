@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bred we i no gat yis",
+      "rationale": "מצות matzot is a fixed ritual bread; Tok Pisin has no single word, so the definition is used"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol gadi bilong kaikai wara",
+      "rationale": "מררים 'bitter things' — species unspecified; rabbis debated which herbs qualify"
+    }
+  ],
+  "translation": "Na ol bai kaikai ⟨את⟩ dispela mit long dispela nait — em i bilong kukim long paia; na wantaim bred we i no gat yis, na wantaim ol gadi bilong kaikai wara, ol bai kaikai em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/5-8.1792347538882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Na ol bai kaikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela mit"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dispela mit"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long dispela nait"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "bilong kukim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "wantaim bred we i no gat yis"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ol gadi bilong kaikai wara"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ol bai kaikai em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:58.883890206Z",
+  "model": "glm-5.3"
+}

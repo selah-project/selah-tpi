@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום הזה",
+      "rationale": "Tok i tok 'long bun bilong dispela de' — min 'long wanem de yet, no narapela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבאתם",
+      "rationale": "צבא — 'ol ami \/ ol grup i stap redi long pait'; ol man i tanim tok i tok 'ol ami bilong ol'"
+    }
+  ],
+  "translation": "Na i kamap long bun bilong dispela de yet, Yahwe i bringautim ⟨את⟩ ol pikinini bilong Yisrael long graun bilong Mitsrayim, long ol grup ol i sanap wantaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/49-51.1792347535330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na i kamap"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "long bun bilong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yet"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "i bringautim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ol grup ol i sanap wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:55.331377105Z",
+  "model": "glm-5.3"
+}

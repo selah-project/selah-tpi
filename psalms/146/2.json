@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stringsing",
+      "rationale": "זמר i min 'tanim string bilong ol samting musik' — Tok Pisin i gat 'stringsing' olsem wanpela pasin"
+    }
+  ],
+  "translation": "Bai mi singautim nem bilong Yahwe olgeta taim bilong laip bilong mi; bai mi stringsing long Elohim bilong mi taim mi yet i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/146\/1-4.1792359303574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "bai mi singautim nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "olgeta taim bilong laip bilong mi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "bai mi stringsing"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "long Elohim bilong mi"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "taim mi yet i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:03.574685807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Levit long klan bilong Yehuda",
+      "rationale": "A Levite 'from the family of Judah' is odd — a Levite belongs to Levi; some read 'who sojourned among the clan of Judah' (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "particle smoothing 'he was a sojourner there' — Hebrew גר שם is bare participle + adverb"
+    }
+  ],
+  "translation": "Na i stap wanpela yangpela man long Betlekem bilong Yehuda, long klan bilong Yehuda; na em i Levit, na em i stap olsem garaman long hap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/17\/5-8.1792351349186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i stap"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yangpela man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "long Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "long klan bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levit"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "גר",
+      "gloss": "garaman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:22:29.189360655Z",
+  "model": "glm-5.3"
+}

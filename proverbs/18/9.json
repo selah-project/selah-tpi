@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "brata bilong man i bagarapim",
+      "rationale": "אח הוא לבעל משחית — Hebrew idiom 'he is a brother to the destroyer', kept the kinship picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tasol",
+      "rationale": "גם 'also\/even' rendered as 'tasol' (even) to fit Tok Pisin idiom."
+    }
+  ],
+  "translation": "Tasol man i slak long wok bilong en, em i brata bilong man i bagarapim olgeta samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/18\/9-12.1792359597094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "i slak"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "long wok bilong en"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bilong man i gat"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "man i bagarapim olgeta samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:57.094826533Z",
+  "model": "glm-5.3"
+}

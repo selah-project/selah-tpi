@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bikpela pen",
+      "rationale": "מרת רוח i tok 'bitter bilong ruak' — pen insait; ruak i stap olsem tok bilong Hibru."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מרת רוח",
+      "rationale": "Hebrew idiom 'bitterness of spirit' — tanim olsem 'bikpela pen long ruak'."
+    }
+  ],
+  "translation": "Na ol i kamap bikpela pen long ruak bilong Yitsak na bilong Rivka.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/26\/33-35.1792346681837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "Na ol i kamap"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "bikpela pen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "long ruak bilong"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "na bilong Rivka"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:41.839379065Z",
+  "model": "glm-5.3"
+}

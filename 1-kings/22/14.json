@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Tok Pisin 'Yahwe i stap nau' — sep bilong sutim tok, olgeta i save usim"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי hia em i nating sampela taim; Tok Pisin i no nidim"
+    }
+  ],
+  "translation": "Na Mikayahu i tok: Yahwe i stap nau — ⟨את⟩ wanem samting Yahwe i tokim mi, ⟨את⟩ em bai mi tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d3005b2bc7e66d7c92f000b4df28965400d64da230cf025e9b1f6ba649d2a91e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/13-16.1792353230622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samting Yahwe i tokim mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanem samting"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "bai mi tok"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "bai mi tok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:50.623703771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 1:6",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נקרא נקריתי",
+      "rationale": "Infinitive-absolute plus verb of קרה, 'I happened by chance to come upon' — rendered 'mi painim ol long moning', losing the doubled 'chance' emphasis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "santap",
+      "rationale": "נשען is 'leaned\/support himself on' his spear; 'santap' (sat\/rested) softens the picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדבקהו",
+      "rationale": "'They caught up with him \/ clung close after him in pursuit' — the Amalekite implies Saul was fleeing; rendered 'bihainim em gut'."
+    }
+  ],
+  "translation": "Na liklik man i rautim tok long em i tok: Mi painim ol long moning long hil Gilboa, na lukim — Saul i santap long spia bilong em, na lukim — ol karia na ol man bilong ol hos i bihainim em gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/1\/5-8.1792352108081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "liklik man"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "i rautim tok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "mi painim ol"
+    },
+    {
+      "surface": "נקריתי",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long hil"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "נשען",
+      "gloss": "i santap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "spia bilong em"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ol karia"
+    },
+    {
+      "surface": "ובעלי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "ol hos"
+    },
+    {
+      "surface": "הדבקהו",
+      "gloss": "i bihainim em gut"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:08.082694943Z",
+  "model": "glm-5.3"
+}

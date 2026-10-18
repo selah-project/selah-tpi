@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 13:2",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i no inap karim pikinini",
+      "rationale": "עקרה is the adjective 'barren\/sterile'; Tok Pisin has no single word, so the state is described."
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Supplied for 'a certain man' — literal for אחד."
+    }
+  ],
+  "translation": "Na wanpela man i stap long Tsora, long famili bilong ol man Dan, na nem bilong em Manoa; na meri bilong em i no inap karim pikinini, na i no karim wanpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/13\/1-4.1792351273114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i stap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "long Tsora"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "long famili bilong"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "ol man Dan"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na nem bilong em"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na meri bilong em"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "i no inap karim pikinini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "karim pikinini"
+    }
+  ],
+  "timestamp": "2026-10-18T19:21:13.115512813Z",
+  "model": "glm-5.3"
+}

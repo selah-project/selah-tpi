@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "gloss": "העני em i singular; \"ol\" i kamap bilong olsem tupela את i point long olgeta man."
+    },
+    {
+      "kind": "crux",
+      "subject": "תלוה",
+      "rationale": "לוה i save min \"kirapim debit\" o \"givim long lain\" — konteks i makim \"givim\", i no \"kisim\"."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה־ (article long העני)",
+      "rationale": "Tok Pisin i no gat article, olsem na ה־ i no save raitim."
+    }
+  ],
+  "translation": "Sapos yu givim silva long lain ⟨את⟩ ol man bilong mi — ⟨את⟩ ol man poa — i stap wantaim yu, yu no ken kamap olsem man i kolektim debit long em; yupela no ken putim interest long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/21-24.1792347750604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "yu givim long lain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man bilong mi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol man bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man poa"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ol man poa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i stap wantaim yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yu kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "olsem man i kolektim debit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "yupela putim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:30.605375274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Second clause is verbless in Hebrew; Tok Pisin stative supplied and bracketed."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Go antap, Elohim",
+      "rationale": "Imperative addressed to Elohim — a summons, not a statement."
+    }
+  ],
+  "translation": "Go antap long ol heven, Elohim; glori bilong yu ⟨i⟩ stap antap long olgeta graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/57\/9-12.1792358325841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Go antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "glori bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:45.842075790Z",
+  "model": "glm-5.3"
+}

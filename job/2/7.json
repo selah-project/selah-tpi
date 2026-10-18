@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prezens",
+      "rationale": "פני 'pes bilong' — long Hebrew 'go ausait long pes bilong Yahwe' i min go ausait long prezens; 'prezens' i tok Inglis, 'pes bilong Yahwe' i literol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רע",
+      "rationale": "רע i stap hia na long olgeta stori bilong Iyob — 'nogut' bilong soya na 'nogut' bilong Sata, wanpela wod."
+    }
+  ],
+  "translation": "Na Sata i go ausait long prezens ⟨את⟩ bilong Yahwe, na em i paitim ⟨את⟩ Iyob wantaim ol soya nogut, pron bilong bilong fut bilong em inap long tupela long hed bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/2\/5-8.1792359863649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Na Sata i go ausait"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sata"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ bilong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "prezens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "wantaim ol soya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "pron bilong"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "fut bilong em"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tupela long hed bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:23.650688902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירוץ",
+      "rationale": "Pointed from רצץ 'be crushed' (so KJV 'discouraged', YLT 'bruised'); consonants read as רוץ 'run' would give 'he will not rush'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכהה",
+      "rationale": "Echoes כהה 'dim' from v.3 — the servant does not do to himself what he would not do to the dim wick."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורתו kept as 'Tora bilong em' per discipline; not generic 'lo'."
+    }
+  ],
+  "translation": "Em i no bai sot, na i no bai wari, inap em i putim kot long graun; na ol ailan ol i wok long wetim Tora bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/42\/1-4.1792354523424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no bai"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "sot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no bai"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "wari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "em i putim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "na ... Tora bilong em"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ol ailan"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ol i wok long wetim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:23.425981741Z",
+  "model": "glm-5.3"
+}

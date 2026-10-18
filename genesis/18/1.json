@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i kamap longlena",
+      "rationale": "נגלה\/ירא hitpael — 'wokim kamap longlena' bilong tok 'appear', Hebrew i tok 'Yahwe i soim em yet'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Avraham",
+      "rationale": "אליו i tok 'bilong em' tasol; nem Avraham i kamap wantaim bilong klia tingting"
+    }
+  ],
+  "translation": "Na Yahwe i kamap longlena bilong Avraham long ol bikpela diu bilong Mamre, na em i sindaun long dua bilong haus sel, long taim olsem hat bilong de.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c449e661237bdd973ef7c67a5493355b5b4ba3345e42a77f90e1e80dda79c588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/18\/1-4.1792346539111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i kamap longlena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "long ol bikpela diu bilong"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "i sindaun"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "long dua"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "long hat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bilong de"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:19.111680400Z",
+  "model": "glm-5.3"
+}

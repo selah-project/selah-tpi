@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרש",
+      "rationale": "'To break\/apportion bread' (KJV 'breaketh') vs 'one who deals out'; rendered 'givim'."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hebrew פרש has no explicit subject; Tok Pisin adds 'man' for 'no one breaks it for them'."
+    }
+  ],
+  "translation": "Tong bilong pikinini i dringim susu i stap klostu long maus bilong em, long hangre bilong wara; ol pikinini liklik ol i askim bret, tasol i no gat man i givim long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/1-4.1792360637342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "i stap klostu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tong bilong"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "pikinini i dringim susu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "maus bilong em"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "long hangre bilong wara"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ol pikinini liklik"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ol i askim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:17.343857355Z",
+  "model": "glm-5.3"
+}

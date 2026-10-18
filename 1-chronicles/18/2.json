@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה em i minkha — presen bilong givim long king; i no 'takis' o 'ofa' (D2)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "takis bilong Moab",
+      "rationale": "Vers i skelim olsem Moab i kamap lain bilong karim minkha — pasin bilong takis long antap long lain."
+    }
+  ],
+  "translation": "Na i paitim ⟨את⟩ Moab, na ol man Moab i kamap ol wokman bilong David, ol i karamapim minkha.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/18\/1-4.1792362095814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ol man Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ol wokman"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ol i karamapim"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:35.815243587Z",
+  "model": "glm-5.3"
+}

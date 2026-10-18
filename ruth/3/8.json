@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילפת",
+      "rationale": "laphat: 'turned himself over' (KJV) vs 'grasped\/felt around' — Hebrew says he bent\/clasped, translators split"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bel bilong mitnait",
+      "rationale": "time marker: half of the night, the midpoint of darkness"
+    },
+    {
+      "kind": "substitution",
+      "subject": "man i gat skru",
+      "rationale": "charad is shudder with terror; Tok Pisin idiom for startle\/fear used"
+    }
+  ],
+  "translation": "Na long bel bilong mitnait, man i gat skru, na em i printin bie, na lukim — wanpela meri i slipdaun long liganleg bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/3\/5-8.1792360534297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na long"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "bel bilong"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "mitnait"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "man i gat skru"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "na em i printin bie"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wanpela meri"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "i slipdaun"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "long liganleg bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:34.299029453Z",
+  "model": "glm-5.3"
+}

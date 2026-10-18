@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foti-na-wan yia",
+      "rationale": "Reign length of Asa counted in years."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb has no explicit subject pronoun; Tok Pisin needs ⟨em⟩."
+    }
+  ],
+  "translation": "Na foti-na-wan yia em i king long Yerusalayim; nem bilong mama bilong en Maakha, pikinini meri bilong Avishalom.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/15\/9-12.1792353050401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Na foti"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na wan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "em i king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "bilong mama bilong en"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikinini meri"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "bilong Avishalom"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:50.402705135Z",
+  "model": "glm-5.3"
+}

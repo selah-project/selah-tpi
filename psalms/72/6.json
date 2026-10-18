@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גז",
+      "rationale": "גז em i gras ol i katim o wol bilong sipsip ol i katim — 'gras ol i katim pinis' i holim piksa bilong katim."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרזיף",
+      "rationale": "Ren i puludaun strong — tok i kamap long Tanakh hia tasol."
+    }
+  ],
+  "translation": "Em i save kamapdaun olsem ren long gras ol i katim pinis, olsem ol smol ren, ren i puludaun long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/72\/5-8.1792358487273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יירד",
+      "gloss": "i save kamapdaun"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "olsem ren"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "גז",
+      "gloss": "gras ol i katim pinis"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "olsem ol smol ren"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ren i puludaun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:27.274246698Z",
+  "model": "glm-5.3"
+}

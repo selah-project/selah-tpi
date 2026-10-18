@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהלאה לדמשק",
+      "rationale": "'beyond Damascus' (exile past Damascus) vs 'far as Damascus' or 'from Lebo-Hamath to Damascus'; Acts 7:43 reads 'beyond Babylon'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalabus",
+      "rationale": "גלה is exile\/deportation, rendered with Tok Pisin kalabus (prison\/deportation) as nearest carrying shape"
+    }
+  ],
+  "translation": "Na mi bai salim ⟨את⟩ yupela i go long kalabus, olgeta i go long doti long Damasek — Yahwe i tok, Elohim Tsebaot; shem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/25-27.1792357249018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "na mi bai salim yupela i go long kalabus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "olgeta i go long doti"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "long Damasek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "shem bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:49.019477767Z",
+  "model": "glm-5.3"
+}

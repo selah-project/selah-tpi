@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע\/השבע",
+      "rationale": "'seven' and 'abundance' sound alike in Hebrew, the pun lost in Tok Pisin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "faipela hap \/ seven yia",
+      "rationale": "Verse counts a fifth-part tax and seven years"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man bilong lukautim",
+      "rationale": "פקדים literally 'overseers\/appointees', rendered descriptively"
+    }
+  ],
+  "translation": "Paroh i mas wokim dispela, na i appointim ol man bilong lukautim long graun, na ol i tekim faipela hap bilong ⟨את⟩ graun Mitsrayim long seven yia bilong kaikai kamap planti.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "245db51fcb53d8a8f52559ad11388765297324ad42137efdba8179a50ff34ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/33-36.1792347176852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "i mas wokim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na i appointim"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "ol man bilong lukautim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ol i tekim faipela hap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "long seven"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yia"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "bilong kaikai kamap planti"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:56.853475594Z",
+  "model": "glm-5.3"
+}

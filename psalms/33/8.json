@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "olgeta graun",
+      "rationale": "jussive summons: all the earth is called to fear Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pret gutpela tru",
+      "rationale": "יגורו is a stronger dread than ייראו; two verbs of fear rendered with intensifier to keep the pair"
+    }
+  ],
+  "translation": "Olgeta graun i mas pret long Yahwe; long em olgeta ol i stap long tevel i mas pret gutpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/5-8.1792358111090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "i mas pret"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "i mas pret gutpela tru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:11.091635938Z",
+  "model": "glm-5.3"
+}

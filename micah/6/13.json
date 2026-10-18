@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "givim yu sik",
+      "rationale": "החליתי from חלה 'make sick' (KJV\/Geneva) vs Hiphil of חלל 'begin' (YLT 'I have begun to smite thee')."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yahwe addresses Israel directly in the lawsuit (riv) of Micah 6."
+    }
+  ],
+  "translation": "Na mi tu, mi givim yu sik long paitim yu, long bagarapim yu bilong ol sin bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/6\/13-16.1792357448811.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na mi tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "givim yu sik"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "paitim yu"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "bagarapim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ol sin bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:08.811859873Z",
+  "model": "glm-5.3"
+}

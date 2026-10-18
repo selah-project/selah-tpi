@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i minim 'hat', tasol Tok Pisin i usim 'bel' long tingting na laik (D4)."
+    }
+  ],
+  "translation": "Na Yahwe i strongim ⟨את⟩ bel bilong Faro, na em i no laik salim ol i go.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/10\/25-28.1792347512219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i strongim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong Faro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na … no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "i laik"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "salim ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:32.220944756Z",
+  "model": "glm-5.3"
+}

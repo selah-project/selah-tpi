@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "genesis 31:54",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויזבח זבח",
+      "rationale": "verb and cognate noun 'sacrificed a sacrifice' — repetition preserved as sakrifaesim\/sakrifaes."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kaikai bret",
+      "rationale": "'eat bread\/lechem' is Hebrew idiom for sharing a meal; rendered literally, both occurrences kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "slip",
+      "rationale": "וילינו means 'spent the night\/lodged', rendered as slip (sleep-stay) in Tok Pisin."
+    }
+  ],
+  "translation": "Na Yakov i sakrifaesim wanpela sakrifaes long maunten, na i singautim ol brata bilong en bilong kaikai bret, na ol i kaikai ⟨na⟩ bret, na ol i slip long maunten.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ba49954535c46cc6eb3448ef7573da7bfdd49a3fe0e0696b37cd7906671c8118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/53-54.1792346919786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "na i sakrifaesim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "wanpela sakrifaes"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na i singautim"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ol brata bilong en"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bilong kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "na ol i kaikai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "na ol i slip"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long maunten"
+    }
+  ],
+  "timestamp": "2026-10-18T18:08:39.787449102Z",
+  "model": "glm-5.3"
+}

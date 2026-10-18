@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "construct chain 'pos bilong yad' needs the pronoun in Tok Pisin; Hebrew has it bound in the construct"
+    }
+  ],
+  "translation": "Na ol pos bilong ⟨em⟩ yad raunabaut, na ol as bilong ol, na ol peg bilong ol, na ol rop bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "95884421544a2635f37b39ac870ea963a43e6fc0584a9cd237495bbd81c4fa15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/3\/37-40.1792348953966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "na ol pos"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bilong yad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "raunabaut"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na ol as bilong ol"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "na ol peg bilong ol"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "na ol rop bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:42:33.966755979Z",
+  "model": "glm-5.3"
+}

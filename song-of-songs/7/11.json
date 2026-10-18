@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨stap⟩",
+      "rationale": "Tok Pisin i nidim tok 'stap' bilong tok 'i stap long mi'; Hibru i no gat em."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוקה",
+      "rationale": "Wanpela tok wankain long Stat 3:16 na Stat 4:7 — strongpela laik bilong man long meri, ol i usim long ples bilong pait na long ples bilong laikim."
+    }
+  ],
+  "translation": "Mi bilong dod bilong mi, na strongpela laik bilong en i ⟨stap⟩ long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/7\/9-12.1792360519979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "bilong dod bilong mi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "na long mi"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "strongpela laik bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:19.980086940Z",
+  "model": "glm-5.3"
+}

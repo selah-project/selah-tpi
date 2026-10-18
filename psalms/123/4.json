@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yumi",
+      "rationale": "נפש em i win bilong laip, no bel; tasol Tok Pisin i usim bel long tingting na laik, olsem em i tok klostu"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאיונים",
+      "rationale": "Tok i kamap hia tasol long ol Psalm bilong go antap; ol man i tingting: ol man bikhet, o ol man ol i singaut long ol"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לגאיונים",
+      "rationale": "Dispela tok i stap hia tasol long ol Tanakh (Ps 123:4 wantaim Ps 123:3 singaut)"
+    }
+  ],
+  "translation": "Planti tru bel bilong yumi i kamil pinis long mock bilong ol man i no gat wari, na long pasin bilong ol man i lukdaun long yumi, ol bikhet man.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/123\/1-4.1792359223303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "planti tru"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kamil pinis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "bel bilong yumi"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "mock"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ol man i no gat wari"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "pasin bilong ol man i lukdaun"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ol bikhet man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:43.304964850Z",
+  "model": "glm-5.3"
+}

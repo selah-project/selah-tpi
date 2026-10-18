@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "אף i min nus, tasol wantaim חרר em i tok bilong bel i kuk — 'nus i paia' olsem pasin bilong bel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "אף em i nus\/fes; Tok Pisin 'bel' i holim tingting bilong paia nogut"
+    }
+  ],
+  "translation": "Na bel bilong Yahwe i kukim long ol, na em i go we.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "04be339c93e097ae88f92da7d36ebf3c14357cadb92c94044ecf0bc05592beca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/12\/9-12.1792349146881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "i kukim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i go we"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:46.882250988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai tambu",
+      "rationale": "טמא — em i samting tambu bilong lotu, no 'unclean' long pasin bilong doti tasol."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארץ יהוה",
+      "rationale": "'graun bilong Yahwe' — graun em i bilong Yahwe yet, wanem Yisrael i no bai stap long en."
+    }
+  ],
+  "translation": "Ol i no bai stap long graun bilong Yahwe, na Efraim i go bek long Mitsrayim, na long Ashur ol i kaikai kaikai tambu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc2a195ac3ffcd3d266f437cbe454d7274ccb39fe0d35b022f146ac78d242fa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/9\/1-4.1792357095286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na i go bek"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "na long Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tambu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ol i kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:15.287052137Z",
+  "model": "glm-5.3"
+}

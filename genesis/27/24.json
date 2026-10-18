@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yakov",
+      "rationale": "Yitsak's direct second-person question to Yakov"
+    },
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "Yakov's bare 'Mi' affirms by echoing the question's pronoun; no added verb of being"
+    }
+  ],
+  "translation": "Na i tok: Yu yet ⟨i⟩ dispela man, pikinini man bilong mi Esav? Na em i tok: Mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb0279a7e082447f48e5f5d6db8f98c25efd0ff7074f3714f7d24221ff715212",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/21-24.1792346845774.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:25.775555457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 32:15",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "object pronoun 'them' supplied in brackets; Hebrew leaves the object implicit"
+    },
+    {
+      "kind": "alternative",
+      "subject": "object of להניחו",
+      "rationale": "Hebrew suffix is singular 'him\/it' — Israel as one body or the people; rendered plural 'ol'"
+    }
+  ],
+  "translation": "Sapos yupela i tanim bek bihain long em, em bai larim ⟨ol⟩ gen long wailbus, na yupela bai bagarapim olgeta man lain dispela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a69f441f1e8ad518205c66b18daa656d75d7ec50ec4651fc88af0af37686d52f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/32\/13-16.1792349599853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תשובן",
+      "gloss": "yupela i tanim bek"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "bihain long em"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "bai ... gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "להניחו",
+      "gloss": "larim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long wailbus"
+    },
+    {
+      "surface": "ושחתם",
+      "gloss": "yupela bai bagarapim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "man lain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:53:19.854943844Z",
+  "model": "glm-5.3"
+}

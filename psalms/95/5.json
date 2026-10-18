@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "עשהו ויצרו i gat pronoun -o long tel, mi raitim 'en'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "tok 'bilong en' i tanim אשר לו tupela wantaim"
+    }
+  ],
+  "translation": "Solwara em i bilong en, na em yet i mekim ⟨את⟩ en, na graun narapela i ogos, ol han bilong en i wokim ⟨את⟩ en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/95\/5-8.1792358855766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em yet"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "i mekim ⟨את⟩ en"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "na graun narapela i ogos"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ol han bilong en"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "i wokim ⟨את⟩ en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:35.771250108Z",
+  "model": "glm-5.3"
+}

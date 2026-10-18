@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "namel",
+      "rationale": "KJV 'from between his knees' — מעם ברכיו i tok 'long skru bilong em'; 'namel' em i tok i kam moa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pes",
+      "rationale": "אפיו literal 'nus bilong em' — Tok Pisin i tok 'pes', piksa bilong nus i lus"
+    }
+  ],
+  "translation": "Na Yosep i tekwe ⟨את⟩ ol i go autsait long namel bilong tupel skru bilong em, na em i daunim em long pes bilong em i go daun long graun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cba49df6cdaa1dfefdf706c7d7e090141baac61ce9eb298fb8c2c5035891f712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/9-12.1792347263366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Na i tekwe i go autsait"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (tupela pikinini bilong Yosep)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "tupel skru bilong em"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "na em i daunim em"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "long pes bilong em"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "i go daun long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:23.367747678Z",
+  "model": "glm-5.3"
+}

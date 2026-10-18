@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כל ×3",
+      "rationale": "Tripela כל i kirapim tok — 'olgeta, olgeta, olgeta' — rit bilong anaphora, Tok Pisin i holim yet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "les long",
+      "rationale": "שנא em i strongpela 'birua\/les long' — Tok Pisin 'les long' i holim narapela as bilong tok"
+    }
+  ],
+  "translation": "Olsem na mi tingting olgeta ol mak bilong yu ol i stret olgeta; na mi les long olgeta rot bilong giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "095805a4d67a7ce4febdb9a397e0d36a56f1924d64f8ef20eb9b5d33d8d2a3d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/125-128.1792359131720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ol mak bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "mi tingting ol i stret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "rot"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bilong giaman"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi les long"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:11.721706989Z",
+  "model": "glm-5.3"
+}

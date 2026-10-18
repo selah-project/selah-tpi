@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate markers added; Hebrew is verbless nominal clauses."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elohim framing",
+      "rationale": "Verse opens and closes with Elohim, an inclusion enclosing rock\/strength\/refuge; preserved."
+    }
+  ],
+  "translation": "Long Elohim ⟨i⟩ stap savim bilong mi na glori bilong mi; ston bilong strong bilong mi, ples bilong safim bilong mi ⟨i⟩ stap long Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/62\/5-8.1792358389057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "savim bilong mi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "na glori bilong mi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ston"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "bilong strong bilong mi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ples bilong safim bilong mi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "long Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:49.058785231Z",
+  "model": "glm-5.3"
+}

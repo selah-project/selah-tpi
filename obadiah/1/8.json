@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הלוא",
+      "rationale": "Tokes kwestin bilong Hibru; Tok Pisin i no gat pasin bilong en, mi tanim 'Orait'"
+    },
+    {
+      "kind": "addition",
+      "subject": "long dispela de",
+      "rationale": "ההוא em i mak bilong de, Tok Pisin i nidim 'dispela'"
+    }
+  ],
+  "translation": "Orait, long dispela de — Yahwe i tok — bai mi rausim olgeta ol man bilong save long Edom, na save long maunten bilong Esav.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "856eebfe7103cabbe5f241d07520183106008abe8910f4d936c3365ba15737ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/obadiah\/1\/5-8.1792357259171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Orait"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "bai mi rausim olgeta"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ol man bilong save"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "long Edom"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "na save"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "long maunten bilong"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:59.172528454Z",
+  "model": "glm-5.3"
+}

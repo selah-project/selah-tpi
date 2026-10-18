@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "katim kontrak",
+      "rationale": "Hebrew 'cut a covenant' (כרת ברית) keeps the verb 'cut'; Tok Pisin 'katim kontrak' preserves the literal picture."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Direct address — the covenant command quoted to Israel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "four-fold negation",
+      "rationale": "Four parallel 'do not' clauses (fear, bow, serve, sacrifice) — rhetorical piling lost in flat prose."
+    }
+  ],
+  "translation": "Na Yahwe i katim kontrak wantaim ⟨את⟩ ol, na i givim ol komand, i tok olsem: Yupela i no ken gat rit long ol narapela god, na i no ken kanim long ol, na i no ken sarvim ol, na i no ken kilim animal bilong ofa long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/33-36.1792353612716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "i katim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "wantaim ⟨את⟩ ol",
+      "marks": "ol"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "givim ol komand"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tok olsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "gat rit long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ol god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kanim long ol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "sarvim ol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no ken"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kilim animal bilong ofa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:12.717320155Z",
+  "model": "glm-5.3"
+}

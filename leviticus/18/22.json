@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תועבה",
+      "rationale": "em i tok bilong 'samting i bagarapim bel bilong man' — mi usim 'pasin nogut tru'"
+    },
+    {
+      "kind": "elision",
+      "subject": "משכבי אשה",
+      "rationale": "dual construct 'slip bilong meri' — Tok Pisin i lainim long wanpela tok"
+    }
+  ],
+  "translation": "Na wantaim ⟨את⟩ man, yu no ken slip olsem ol i slip wantaim meri; em i pasin nogut tru ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/18\/21-24.1792348575019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na wantaim ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "slip wantaim"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "olsem pasin bilong slip wantaim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "pasin nogut tru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:15.020238942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨samting i stap⟩",
+      "rationale": "Hibru i tok 'lukim long heven' tasol, Tok Pisin i nidim wanpela samting bilong lukim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המגביהי\/המשפילי",
+      "rationale": "Partisip antap (v5) na daunbilo (v6) — tupela tok i stanap wantaim, Tok Pisin i holim"
+    },
+    {
+      "kind": "elision",
+      "subject": "heven (dual)",
+      "rationale": "שמים em i dual — 'tupela heven' — Tok Pisin i tanim 'heven' tasol"
+    }
+  ],
+  "translation": "Em i go daunbilo bilong lukim ⟨samting i stap⟩ long heven na long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/113\/5-8.1792359020766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "i go daunbilo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bilong lukim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:20.767533567Z",
+  "model": "glm-5.3"
+}

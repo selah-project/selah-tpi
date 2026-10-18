@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את אשר",
+      "rationale": "mak bilong olgeta samting ol Pilistim i wokim; ⟨את⟩ i stap, tasol 'ol samting' i holim pasa"
+    }
+  ],
+  "translation": "Ol man i stap long Yaves bilong Gilat, ol i harim ⟨i⟩ long en, ⟨את⟩ ol samting ol Pilistim i wokim long Saul.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/31\/9-12.1792352110126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ol i harim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol man i stap"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "long Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "bilong Gilat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting ol Pilistim i wokim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol samting"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pilistim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Saul"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:10.127763108Z",
+  "model": "glm-5.3"
+}

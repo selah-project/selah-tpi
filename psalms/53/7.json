@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrew idiom 'husat i givim?' em i strongpela laik — 'sapos em i kam!' — tanim olsem wish"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "'turnim bek ol kalabus' o 'bringim bek olgeta long taim bipo i gutpela' — tupela i stap long Hebrew wol שבות"
+    }
+  ],
+  "translation": "Ah, sapos ol selveisen bilong Yisrael i kam long Tsiyon! Taim Elohim i bringim bek ol kalabus bilong ol manmeri bilong en, Yakov bai pilim gutpela, na Yisrael bai hamamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/53\/5-7.1792358330694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "long Tsiyon"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "ol selveisen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "taim ... i bringim bek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ol kalabus"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bai pilim gutpela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bai hamamas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:50.694998397Z",
+  "model": "glm-5.3"
+}

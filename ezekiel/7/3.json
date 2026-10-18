@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 7:3",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kros",
+      "rationale": "אף is literally 'nose\/nostril', idiom for anger; rendered 'kros bilong mi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "samting nogut",
+      "rationale": "תועבה is 'disgusting thing, abomination'; 'samting nogut' keeps the moral loathing."
+    }
+  ],
+  "translation": "Nau pinis i kamap antap long yu, na bai mi salim kros bilong mi long yu, na bai mi skelim yu olsem ol rot bilong yu, na bai mi putim antap long yu ⟨את⟩ olgeta samting nogut bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f93cb63e11e37f7d7419fa7d2616817fe54506fcf6ca6782464e241ad0688a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/7\/1-4.1792356040065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nau"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "pinis"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "antap long yu"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "na bai mi salim"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "kros bilong mi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ושפטתיך",
+      "gloss": "na bai mi skelim yu"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "olsem ol rot bilong yu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na bai mi putim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "antap long yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting nogut bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "samting nogut bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:40:40.066864273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "susu bilong wara",
+      "rationale": "Sisera asks for water but Jael gives milk — the Hebrew keeps the surprise plainly."
+    },
+    {
+      "kind": "addition",
+      "subject": "gen",
+      "rationale": "Hebrew repeats ותכסהו 'covered him' fully; Tok Pisin adds 'gen' to show the repeated action."
+    }
+  ],
+  "translation": "Na em i tokim em: Givim mi plis, liklik wara, long wanem mangere i kirap long mi. Na em i opim ⟨את⟩ bag bilong skin bilong susu, na em i givim em dring, na em i karapim em gen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ac169d761d7d3b3bd32a8d4f581b68bc4c6ea131643b136ea6c6ac7bff409397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/4\/17-20.1792351086122.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tokim"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "em"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "Givim mi dring"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "mangere i kirap long mi"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "Na em i opim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bag bilong skin bilong susu"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "bag bilong skin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "bilong susu"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "na em i givim em dring"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "na em i karapim em gen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:18:06.123445549Z",
+  "model": "glm-5.3"
+}

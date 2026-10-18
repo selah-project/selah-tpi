@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol man bilong kosim",
+      "rationale": "קוסמים = man i painim aut long pasin bilong kosim; no 'glasman' (Lo 18 i tambuim glas)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronaun bilong ark — Tok Pisin i laikim, Hibru i no gat."
+    }
+  ],
+  "translation": "Na ol Pelisitiais i singautim ol pris na ol man bilong kosim, na ol i tok: Bai yumi wokim wanem long ark bilong Yahwe? Skrumim yumi, senis wanem bai yumi salim ⟨em⟩ i go long ples bilong ⟨em⟩?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/6\/1-4.1792351578640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisitiais"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "ol man bilong kosim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bai yumi wokim"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "long ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "Skrumim yumi"
+    },
+    {
+      "surface": "במה",
+      "gloss": "senis wanem"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "bai yumi salim ⟨em⟩"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "i go long ples bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:18.641537626Z",
+  "model": "glm-5.3"
+}

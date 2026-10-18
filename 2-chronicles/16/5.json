@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "baibel i no gat tok 'dispela'; mi putim bilong kliaim tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stop long",
+      "rationale": "ויחדל i tok 'em i lek rausim strong' — mi usim 'stop long wokim'"
+    }
+  ],
+  "translation": "Na taim Baasa i harim dispela, em i stop long wokim ⟨את⟩ Rama, na em i lusim ⟨את⟩ wok bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "44f861b2bd8ad9c3daa50a24c9dd2693b4fbb077ec4194c2ff09ebb8afc24210",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/16\/5-8.1792362541310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "i harim"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "em i stop long"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "na em i lusim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wok bilong em"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "wok bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:29:01.311561007Z",
+  "model": "glm-5.3"
+}

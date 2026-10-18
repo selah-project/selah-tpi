@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאה גאה",
+      "rationale": "Infinitive absolute repetition — 'rising He has risen', rendered 'i antap tru, i antap tru'"
+    },
+    {
+      "kind": "addition",
+      "subject": "long en",
+      "rationale": "Tok Pisin needs 'long en' to show the rider rides the horse; Hebrew has only the suffix"
+    }
+  ],
+  "translation": "Na long dispela taim, Mose na ol pikinini bilong Yisrael i singautim ⟨את⟩ dispela singsing long Yahwe, na ol i tok olsem: Bai mi singim singsing long Yahwe, bikol em i antap tru, i antap tru; em i trowim ⟨את⟩ hos na ⟨את⟩ man i ridim long en i go long solwara.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/15\/1-4.1792347615621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na long dispela taim"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "i singautim singsing"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela singsing"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dispela singsing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi singim singsing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikol"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "i antap tru"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "i antap tru"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hos"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "na man i ridim long en"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "i trowim i go"
+    },
+    {
+      "surface": "בים",
+      "gloss": "long solwara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:20:15.621969711Z",
+  "model": "glm-5.3"
+}

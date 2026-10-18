@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Object pronoun added for the bruised reed and smoldering flax; Hebrew leaves it implicit in the verb."
+    },
+    {
+      "kind": "crux",
+      "subject": "לאמת",
+      "rationale": "'long tru' — 'in truth\/faithfully' (KJV 'unto truth', JPS 'according to the truth', BSB 'faithfully')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהה",
+      "rationale": "כהה 'dim' recurs in 42:4 יכהה — link between the dim wick and the servant who does not grow dim."
+    }
+  ],
+  "translation": "Ken i brukpinis, em i no bai brukim ⟨em⟩ moa; na hap flaks i pairap liklik liklik, em i no bai pairapim ⟨em⟩ olgeta; long tru, em bai bringim kot aut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/42\/1-4.1792354523424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ken"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "i brukpinis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no bai"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "brukim"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "na hap flaks"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "i pairap liklik liklik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no bai"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "pairapim olgeta"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "long tru"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "em bai bringim aut"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:23.425829686Z",
+  "model": "glm-5.3"
+}

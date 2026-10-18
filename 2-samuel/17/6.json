@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronaun bilong Tok Pisin long 'tokim em', Hebrew i gat suffix tanim long אליו tasol"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם אין",
+      "rationale": "Hebrew 'sapos i no gat' — Tok Pisin 'o no?' i wanpela pasin bilong askim"
+    },
+    {
+      "kind": "you",
+      "subject": "Avshalom i tok",
+      "rationale": "Avshalom i askim Khushai dairek"
+    }
+  ],
+  "translation": "Na Khushai i kam long Avshalom, na Avshalom i tokim ⟨em⟩ olsem: Ahitofel i tokim olsem dispela tok; yumi ken mekim ⟨את⟩ tok bilong en, o no? Yu tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/17\/5-8.1792352420100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na i kam"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long ⟨em⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "olsem dispela tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofel"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "yumi ken mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong en"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tok bilong en"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:20.101325959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 12:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא הם כתובים",
+      "rationale": "Hebrew rhetorical negative question 'are they not written?' rendered as Tok Pisin question 'ol i no stap rit…?'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ספר דברי הימים",
+      "rationale": "Formulaic reference to the official chronicle record — an archival citation."
+    }
+  ],
+  "translation": "Na ol narapela stori bilong Yoas, na olgeta samting em i mekim — ol i no stap rit long buk bilong ol stori bilong ol de bilong ol king bilong Yuda?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0216d2122ef1111cecd20b13449c848d6a1e326929c8ac38ae76da1d8189d048",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/20-20.1792363144976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "na ol narapela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "stori bilong"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i mekim"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ol i no"
+    },
+    {
+      "surface": "הם",
+      "gloss": "stap rit"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "rit"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buk bilong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol stori bilong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bilong ol king bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:04.977451095Z",
+  "model": "glm-5.3"
+}

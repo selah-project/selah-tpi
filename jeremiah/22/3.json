@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 22:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long ol",
+      "rationale": "Hebrew וגר יתום ואלמנה has no object pronoun; Tok Pisin needs 'long ol' for the prohibitions"
+    },
+    {
+      "kind": "crux",
+      "subject": "גזול",
+      "rationale": "singular participle 'the robbed one' — singular victim or collective; rendered as plural group of robbed people"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king, servants, and people",
+      "rationale": "plural imperatives and prohibitions addressed to the court of Judah"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok: Yupela wokim kot na tsedek, na yupela rausim ol man ol i stealim olgeta long en long han bilong man i bagarapim ol; na man bilong narapela ples, pikinini i no gat papa, na meri i no gat man — no ken wokim nogut long ol, no ken paitim ol; na blut bilong man no gat rong, no ken kapsaitim long ples dispela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9babd1d519357962e6f83ff1549314723379076eaf179b902b4adc50530a1a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/22\/1-4.1792355284624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yupela wokim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "והצילו",
+      "gloss": "na yupela rausim"
+    },
+    {
+      "surface": "גזול",
+      "gloss": "ol man ol i stealim olgeta long en"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "bilong man i bagarapim ol"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "na man bilong narapela ples"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "pikinini i no gat papa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na meri i no gat man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "wokim nogut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תחמסו",
+      "gloss": "paitim"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "na blut"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bilong man no gat rong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשפכו",
+      "gloss": "kapsaitim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:04.625907674Z",
+  "model": "glm-5.3"
+}

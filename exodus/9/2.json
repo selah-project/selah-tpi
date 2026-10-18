@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם מאן",
+      "rationale": "'For if you refuse' — rendered as one Tok Pisin condition 'sapos yu no laik'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "direct address to Pharaoh through Moses"
+    }
+  ],
+  "translation": "Sapos yu no laik salmon ol i go, na yu holim pas long ol yet,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6298643eec6d3be1b2b5e1b36575134e7a92474696e709b568b3ca99a72a9c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/9\/2-3.1792362909800.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "laik salmon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "yet"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "holim pas long"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:09.801437845Z",
+  "model": "glm-5.3"
+}

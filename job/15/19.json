@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin needs the pronoun to carry the passive sense of 'was given'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wanpela man bilong narapela lain",
+      "rationale": "זר is 'stranger\/foreigner'; rendered descriptively"
+    }
+  ],
+  "translation": "Long ol tasol ⟨em⟩ graun i bin givim long ol, na wanpela man bilong narapela lain i no bin wokabaut i go long namel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c56a8d145865f9e0819ead8c7b0a98f30a027b0c26756387a4941f4ed1462308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/15\/18-19.1792363432079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "i bin givim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no bin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wokabaut i go"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wanpela man bilong narapela lain"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "long namel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:52.080203812Z",
+  "model": "glm-5.3"
+}

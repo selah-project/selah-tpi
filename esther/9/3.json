@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heltapim",
+      "rationale": "מנשאים literally 'lift up'; KJV 'helped' — Tok Pisin keeps the lifting-picture of נשא"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle absorbed into 'bilong king', no standalone Tok Pisin equivalent"
+    }
+  ],
+  "translation": "Na olgeta ol bikman bilong ol provins, na ol satrap, na ol gavana, na ol i wokim wok bilong king, ol i heltapim ⟨את⟩ ol Jiu, bilong wanem pret bilong Mordekai i pundaun long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8705ce17752c99da2cac1b37d39c1be8e216bb809d795963a8bd3c3639d97e35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/2-3.1792363467448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ol bikman bilong"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ol provins"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "na ol satrap"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "na ol gavana"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "na ol i wokim"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ol i heltapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Jiu"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ol Jiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pret"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:27.449199595Z",
+  "model": "glm-5.3"
+}

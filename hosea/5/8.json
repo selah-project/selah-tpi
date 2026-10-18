@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Salim \/ singaut",
+      "rationale": "Imperatives addressed to hearers — battle-alarm summons."
+    },
+    {
+      "kind": "you",
+      "subject": "Binyamin",
+      "rationale": "Direct address: the alarm cry ends 'behind you, O Benjamin'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחריך",
+      "rationale": "'Behind you, Benjamin' (threat pursues) vs 'after you \/ lead on, Benjamin' (rallying call, BSB)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Bet-Aven",
+      "rationale": "Hosea's pun on Bethel 'house of God' → Beth-Aven 'house of trouble\/evil', lost in Tok Pisin."
+    }
+  ],
+  "translation": "Salim hon bilong ram long Giva, trompet long Rama; singaut strongpela long Bet-Aven: Bihain long yu, o Binyamin!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/5\/5-8.1792357012523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "salim"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "hon bilong ram"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "long Giva"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "trompet"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "long Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "singaut strongpela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "Bihain long yu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:52.524344547Z",
+  "model": "glm-5.3"
+}

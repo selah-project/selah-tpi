@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' per D4 — feeling and thought sit in the belly in Tanakh idiom, not 'hat'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני … ולפני",
+      "rationale": "Parallel repetition 'before … before' frames the chiasm: high heart → ruin, humility → glory."
+    }
+  ],
+  "translation": "Pastaim long bagarap, bel bilong man i go antap; na pastaim long glori, em i daunbaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/18\/9-12.1792359597094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bagarap"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na pastaim long"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "em i daunbaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:57.095723020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew verb ויאמר has no expressed subject; Tok Pisin pronoun supplied and bracketed"
+    }
+  ],
+  "translation": "Na Yishai i mekim Shamama i go pastaim, na ⟨em⟩ i tok: Tu long dispela, Yahwe i no makim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/16\/9-12.1792351745726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "i mekim … i go pastaim"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shamama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "long dispela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "makim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:05.727026599Z",
+  "model": "glm-5.3"
+}

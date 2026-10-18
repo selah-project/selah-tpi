@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew object suffix on verb; Tok Pisin needs the pronoun after lukim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "klia",
+      "rationale": "טהר em i bilong rit\/Seremoni — klia long ai bilong Elohim, no mining bilong bodi tasol"
+    }
+  ],
+  "translation": "Na pris i lukim ⟨em⟩, na lukim: neg i senis i go long waitpela; na pris i skelim ⟨את⟩ neg olsem klia — em i klia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c665129c6aeaa9a3b860aa251de1384f78dc272012315e2c1f032831b3f63406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/17-20.1792348521317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "i lukim ⟨em⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "i senis i go"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "long waitpela"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i skelim olsem klia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neg"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "klia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:35:21.317687684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kri long bel hevi",
+      "rationale": "ספוד is ritual mourning — tearing hair, beating breasts — stronger than plain 'krai'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "danis",
+      "rationale": "רקוד is literally 'spring about, stamp'; YLT has 'skip' — 'danis' is the traditional reading"
+    }
+  ],
+  "translation": "Taim long krai, na taim long lap; taim long kri long bel hevi, na taim long danis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/3\/1-4.1792360723488.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "long krai"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "long lap"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "long kri long bel hevi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "long danis"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:43.489457765Z",
+  "model": "glm-5.3"
+}

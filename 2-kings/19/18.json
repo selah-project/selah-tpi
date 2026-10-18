@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויאבדום",
+      "rationale": "Hebrew i tok 'ol i bin mekim ol i lus hap' — Tok Pisin i tok 'rausim ol i go pinis'."
+    },
+    {
+      "kind": "addition",
+      "subject": "long wanem",
+      "rationale": "Tok Pisin i nidim konjaksen bilong skelim, Hebrew i gat כי tasol."
+    }
+  ],
+  "translation": "Na ol i trowim ⟨את⟩ ol god bilong ol long paia, long wanem, ol i no god, tasol wok bilong han bilong man, diwai na ston; na ol i rausim ol i go pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/19\/17-20.1792353716228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Na ol i trowim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol god bilong ol"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ol god bilong ol"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "god"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol long wanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bilong han"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na ston"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "na ol i rausim ol i go pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:01:56.229709519Z",
+  "model": "glm-5.3"
+}

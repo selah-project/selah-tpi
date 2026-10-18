@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 7:33",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "מחריד is a participle 'one who frightens away'; Tok Pisin needs the noun ⟨man⟩ supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "raitim ol i go",
+      "rationale": "מחריד rare verb: 'frighten\/terrify away' — versions split between 'fray away', 'frighten', 'trouble'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bodi bilong man i dai",
+      "rationale": "נבלת is 'carrion, flabby corpse' — one word in Hebrew, picture of unburied rot"
+    }
+  ],
+  "translation": "Na ol bodi bilong ol manmeri bilong dispela lain bai i kamap kaikai bilong ol pisin bilong skai, na bilong ol animal bilong graun, na i no gat ⟨man⟩ i raitim ol i go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "55416a595f4571a6cd5d779bb101dc4ee2e892d05a4561914c931d93b153b53a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/7\/33-34.1792355013303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ol bodi bilong man i dai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri bilong dispela lain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "long kaikai bilong"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ol pisin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "bilong skai"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "na bilong ol animal bilong lukautim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "man i raitim ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:33.304245900Z",
+  "model": "glm-5.3"
+}

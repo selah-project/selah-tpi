@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tanim raun",
+      "rationale": "תקופה em i raun bilong san, pasin bilong go bek; 'circuit' long Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "samting",
+      "rationale": "ואין נסתר i tok 'i no gat hait' — Tok Pisin i needim 'samting'"
+    }
+  ],
+  "translation": "Long hangre bilong ol heven em i go ausait, na em i tanim raun olgeta inap long hangre bilong ol; na i no gat samting i hait long hat bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/5-8.1792358022211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "long hangre bilong"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "em i go ausait"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "na em i tanim raun"
+    },
+    {
+      "surface": "על",
+      "gloss": "olgeta inap long"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "hangre bilong ol"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "samting i hait"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "long hat bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:42.212312082Z",
+  "model": "glm-5.3"
+}

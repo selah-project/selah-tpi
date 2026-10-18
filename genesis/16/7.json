@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mesinja",
+      "rationale": "מלאך is 'messenger'; shape kept, not 'angel' of later doctrine"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עין",
+      "rationale": "same word 'eye\/spring' both times — spring as the 'eye' of the land, repetition lost in Tok Pisin"
+    }
+  ],
+  "translation": "Na mesinja bilong Yahwe i painim em long wara hol long ples wail graun, klostu long wara hol long rot i go long Sur.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "73132e5a38ec914800d77d7a654fe5de9d64668276b8ddd1bb6e8ab52e956b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/16\/5-8.1792346533483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "Na mesinja bilong Yahwe i painim em"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesinja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עין",
+      "gloss": "wara hol"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wail graun"
+    },
+    {
+      "surface": "על",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "העין",
+      "gloss": "wara hol"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    },
+    {
+      "surface": "שור",
+      "gloss": "i go long Sur"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:13.484781017Z",
+  "model": "glm-5.3"
+}

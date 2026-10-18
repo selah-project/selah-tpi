@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "D4: זרע bilong gaden em i 'kaikai pikinini', i no 'sidin'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ולבלתי",
+      "gloss": "infinitive construct with negative sense, rendered 'bilong no'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol samting ol i no gat",
+      "rationale": "Lista bilong ol samting ol Rekab i no gat: haus, kerema, gaden, pikinini."
+    }
+  ],
+  "translation": "Bilong no wokim ol haus bilong mipela i save stap long en; na kerema, na gaden, na kaikai pikinini — em i no inap kamap bilong mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ecd10d38aec082fd033188a4974036e11d6bbd49af0c57591fe2abeb9bbfb3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/35\/9-12.1792355506680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "bilong no"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "wokim"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ol haus"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "bilong mipela i save stap long en"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "na kerema"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "na gaden"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "na kaikai pikinini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:46.680785685Z",
+  "model": "glm-5.3"
+}

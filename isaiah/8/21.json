@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 8:21",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew uses singular 'he\/it'; Tok Pisin needs plural subject marked"
+    },
+    {
+      "kind": "crux",
+      "subject": "tok beltok long king",
+      "rationale": "במלכו can mean 'curse their king' or 'curse by\/through their king' (invoking him); JPS takes the latter"
+    },
+    {
+      "kind": "elision",
+      "subject": "בה",
+      "rationale": "ambiguous 'through it\/her' — the land or the distressed state; rendered simply 'long en'"
+    }
+  ],
+  "translation": "Na ⟨ol⟩ i wokabaut i go long ⟨en⟩, i hatpela tru long ol na hangre; na bai i kamap olsem: sapos ol i hangre, ol i kros tru na ol i tok beltok long king bilong ol na long Elohim bilong ol, na ol i kirap long antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/8\/21-23.1792353899261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "i wokabaut i go"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "נקשה",
+      "gloss": "i hatpela tru long ol"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "na hangre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap olsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ol i hangre"
+    },
+    {
+      "surface": "והתקצף",
+      "gloss": "ol i kros tru"
+    },
+    {
+      "surface": "וקלל",
+      "gloss": "ol i tok beltok"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "long king bilong ol"
+    },
+    {
+      "surface": "ובאלהיו",
+      "gloss": "na long Elohim bilong ol"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "na ol i kirap"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "long antap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:04:59.262415224Z",
+  "model": "glm-5.3"
+}

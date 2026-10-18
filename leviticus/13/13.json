@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "klin",
+      "rationale": "Paradoks: taim sik i karapim bodi olgeta, man i klin — ol transleita olgeta i tok wankain, tasol lojik bilong em i hat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טהר",
+      "rationale": "טהר em i mekim klin (ceremonial), no tanim olsem bodi i no gat sik"
+    }
+  ],
+  "translation": "Na pris i lukim, na lukim: sapos sik bilong skin i karapim olgeta ⟨את⟩ bodi bilong em, na pris i tok ⟨את⟩ man i gat sik i klin pinis — bodi olgeta i senis i kamap waitpela; em i klin.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/13-16.1792348477025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "karapim"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sik bilong skin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bodi bilong em olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bodi bilong em"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "i tok em i klin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man i gat sik"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "man i gat sik"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "senis i kamap"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "waitpela"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "klin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:37.025776789Z",
+  "model": "glm-5.3"
+}

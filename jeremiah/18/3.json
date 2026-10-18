@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האבנים",
+      "rationale": "dual bilong אבן — tupela ston, rowa bilong wokim popo; YLT i holim 'stones', KIV 'wheels'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wokim popo",
+      "rationale": "יוצר — man i molim klem; Tok Pisin 'popo' em i klem bilong wokim senks, klosup piksa bilong wok bilong em"
+    }
+  ],
+  "translation": "Na mi go daunbilo long haus bilong man i wokim popo, na luk — em i wokim wok long tupela ston bilong rowa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "70b72f669050c089236245bd671e7a822fa671e64cba1a73f833ee9149d5d39a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/18\/1-4.1792355268549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "na mi go daunbilo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "man i wokim popo"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "na luk — em"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "tupela ston bilong rowa"
+    }
+  ],
+  "timestamp": "2026-10-18T20:27:48.550305627Z",
+  "model": "glm-5.3"
+}

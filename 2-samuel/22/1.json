@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav plus pronoun suffix rendered as ⟨את⟩ pointing at em."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun object added in brackets; Hebrew aleph-tav marks the object without a separate pronoun."
+    }
+  ],
+  "translation": "Na David i tokim Yahwe ⟨את⟩ ol tok bilong singsing dispela, long de Yahwe i selvim ⟨em⟩ long han bilong olgeta birua bilong en, na long han bilong Seul.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/1-4.1792352568335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok bilong singsing dispela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "bilong singsing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "i selvim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "birua bilong en"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "na long han bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seul"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:48.336697666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (seat of feeling\/will), not 'hat'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראיתי בלבי",
+      "rationale": "'If I saw iniquity in my heart' — versions split between a glance ('regard') and cherishing; rendered 'holim lukluk' (keep looking at)."
+    },
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Object pronoun 'mi' after harim added for Tok Pisin grammar; Hebrew leaves the object implicit."
+    }
+  ],
+  "translation": "Sapos mi holim lukluk long samting nogut long bel bilong mi, Adonai i no ken harim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/66\/17-20.1792358382787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi holim lukluk"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "long bel bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:42.788180424Z",
+  "model": "glm-5.3"
+}

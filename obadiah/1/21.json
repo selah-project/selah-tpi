@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol man ol i sansim",
+      "rationale": "moshi'im — plural participle of yasha'; 'save\/deliver' rendered as 'ol man ol i sansim'"
+    },
+    {
+      "kind": "crux",
+      "subject": "liskfot \/ skelim",
+      "rationale": "lishefot read as 'judge' (skelim) vs BSB 'rule over'"
+    },
+    {
+      "kind": "you",
+      "subject": "to reader",
+      "rationale": "final climactic declaration of Obadiah addresses the hearer with universal kingship of Yahwe"
+    }
+  ],
+  "translation": "Na ol man ol i sansim ol i go antap long malim Tsiyon, long skelim ⟨את⟩ malim Esav; na kingdom bai i kamap bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/obadiah\/1\/21-21.1792357237840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "ol i go antap"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "ol man ol i sansim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "long malim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "long skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malim Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "malim"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kingdom"
+    }
+  ],
+  "timestamp": "2026-10-18T21:00:37.841579933Z",
+  "model": "glm-5.3"
+}

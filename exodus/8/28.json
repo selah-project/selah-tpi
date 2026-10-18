@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכבד את לבו",
+      "rationale": "Hebri i tok 'bel bilong en i kamap heav' — min 'i no ken senis tingting', Tok Pisin i holim piksa bilong heav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבו",
+      "rationale": "Hebri 'lev' — Tok Pisin 'bel' bilong tingting na laik (D4), i no 'hat'."
+    }
+  ],
+  "translation": "Na Helpi i mekim ⟨את⟩ bel bilong en i heav, olsem tu long dispela taim, na i no salim ⟨את⟩ ol man i go.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2b41ae9ffbb0c193e8273adccdd43d57e6474eaff4c86ce90d9580d3a5876035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/25-28.1792347497671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "i mekim bel i heav"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Helpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong en"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "גם",
+      "gloss": "olsem tu"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:17.672655634Z",
+  "model": "glm-5.3"
+}

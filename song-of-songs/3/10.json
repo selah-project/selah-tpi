@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רפידה",
+      "rationale": "Its only occurrence; 'backrest\/railing' — KJV 'bottom' vs JPS 'top', exact part uncertain."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבנות ירושלם",
+      "rationale": "'By\/from the daughters of Jerusalem' — did they do the inlaying, or is the interior inlaid as a gift for them?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רצוף אהבה",
+      "rationale": "Literally 'tessellated\/inlaid with love' — love pictured as stones set in a surface."
+    }
+  ],
+  "translation": "Ol pos bilong en ol i wokim long silva, beken bilong en long gol, se bilong en long perpul kala; insait bilong em i redi olgeta wantaim laikim, bilong ol pikinini meri bilong Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/3\/9-11.1792360437770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "ol pos bilong en"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "long silva"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "beken bilong en"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "long gol"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "se bilong en"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "long perpul kala"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "insait bilong en"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "i redi olgeta wantaim"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "laikim"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "bilong ol pikinini meri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:57.771252620Z",
+  "model": "glm-5.3"
+}

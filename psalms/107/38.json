@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "subject (Yahwe, from stanza context) supplied; Hebrew verb has suffix -ם only"
+    }
+  ],
+  "translation": "Na ⟨em⟩ i barim ol, na ol i kamap planti tumas, na ol animal bilong lukautim bilong ol — em i no ken samapim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/37-40.1792358995288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "na ⟨em⟩ i barim ol"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "na ol i kamap planti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "na ol animal bilong lukautim bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "samapim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:55.290308544Z",
+  "model": "glm-5.3"
+}

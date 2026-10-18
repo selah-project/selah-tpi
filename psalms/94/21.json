@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong laip",
+      "rationale": "נפש em i win bilong laip\/breth, Tok Pisin i no gat wanpela tok stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגודו",
+      "rationale": "גדד: 'ol i bung wantaim' (KJV\/ASV) o 'ol i givim lo\/againts' (YLT)"
+    }
+  ],
+  "translation": "Ol i bung wantaim long bel bilong laip bilong stretman, na ol i skelim blut bilong man i no gat rong olsem rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/94\/21-23.1792358825418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "ol i bung wantaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel bilong laip"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "stretman"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "na blut"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "man i no gat rong"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ol i skelim olsem rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:05.421815980Z",
+  "model": "glm-5.3"
+}

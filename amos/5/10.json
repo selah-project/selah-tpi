@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "les long",
+      "rationale": "D3 fixes שנא as 'les long\/birua'; Hebrew 'they hate' rendered as Tok Pisin dislike idiom"
+    }
+  ],
+  "translation": "Ol i les long man i skelim ol long geit, na man i tok stretpela, ol i les long em tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8323a6b0dfe30705e81385fe8dc01f32345f7c4a30e82fb2edfac34cca2b8b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/9-12.1792357271319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ol i les long"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "long geit"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "man i skelim ol"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na man i tok"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "stretpela"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ol i les long em tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:11.320401896Z",
+  "model": "glm-5.3"
+}

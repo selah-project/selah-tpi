@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "stap",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim 'stap' olsem 'i stap long antap'."
+    }
+  ],
+  "translation": "Na yu, Yahwe, yu stap long antap oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/9-12.1792358833623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na yu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "stap long antap"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:13.628659625Z",
+  "model": "glm-5.3"
+}

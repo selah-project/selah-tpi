@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית גדול",
+      "rationale": "'olgeta haus bikpela tru' (every great house) vs 'haus bilong olgeta bikman' (every great man's house, KJV\/JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף … שרף באש",
+      "rationale": "Verb repeated — burn … burnt with fire — Hebrew intensification kept by repetition."
+    }
+  ],
+  "translation": "Na em i burnim ⟨את⟩ haus bilong Yahwe, na ⟨את⟩ haus bilong king, na ⟨את⟩ olgeta haus bilong Yerusalayim, na ⟨את⟩ olgeta haus bikpela tru em i burnim wantaim paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/25\/9-12.1792353807759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "em i burnim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haus bilong king"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta haus bilong Yerusalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "haus"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "bilong Yerusalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta haus bikpela tru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "em i burnim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wantaim paia"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:27.760277045Z",
+  "model": "glm-5.3"
+}

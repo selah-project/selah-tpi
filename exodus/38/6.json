@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "אתם is object pronoun 'ol' — 'wantaim' supplied to join kopa naturally in Tok Pisin"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ ol bar long wud bilong akasia, na em i karamapim ol wantaim kopa.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/38\/5-8.1792348121756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bar"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ol bar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wud"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "em i karamapim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopa"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:41.757274398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "smel-switpaia",
+      "rationale": "קטרת em i paia bilong givim swet — Tok Pisin i no gat wanpela tok bilong incense"
+    },
+    {
+      "kind": "crux",
+      "subject": "רקח",
+      "rationale": "rokeach: man i wokim perfium (KJV apothecary) o pasin bilong wanwan man i miksim ol spais"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ ol bilong kapsaitim oil long Miskan — olsem samting holi, na ⟨את⟩ smel-switpaia bilong ol spais — kliapela, wok bilong man i wokim perfium.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c9b29592e59a5fa8f12d2ce8938d8de31ab05f60907ffca4bc52177d82a999d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/37\/29-29.1792348111534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bilong kapsaitim oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "bilong kapsaitim long Miskan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "olsem samting holi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "smel-switpaia bilong ol spais"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "smel-switpaia"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "bilong ol spais"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kliapela"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "man i wokim perfium"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:31.534567440Z",
+  "model": "glm-5.3"
+}

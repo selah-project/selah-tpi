@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/ימח",
+      "rationale": "blot-out-the-name (ימח שם) reverses remember (זכר) — erasing the name is erasing the memory, a Hebrew-imprecation fixed pair, flattened in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להכרית",
+      "rationale": "'cut off' in Hebrew; Tok Pisin 'rausim olgeta' loses the cutting image."
+    }
+  ],
+  "translation": "Ol i ken mekim olgeta lastpela taim bilong en i kamap long rausim olgeta; long narapela ol lain bilong bihain, ol i ken rausim olgeta nem bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/13-16.1792359055822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ol i ken mekim olgeta i kamap"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "lastpela taim bilong en"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "long rausim olgeta"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "long ol lain bilong bihain"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ol i ken rausim olgeta"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nem bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:55.822716489Z",
+  "model": "glm-5.3"
+}

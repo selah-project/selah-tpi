@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 35:23",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Josiah to his servants",
+      "rationale": "Direct speech of the wounded king addressed to his servants."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירו הירים",
+      "rationale": "Infinitive + cognate noun: 'the shooters shot' — same root yrh repeated, lost in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol man bilong sut i sutim king Yoshiyahu, na king i tokim ol wokman bilong en: Kisim mi i go ausait, long wanem mi bagarap tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4f741605fc0f3dc7008caaae4c54fc34ef0c2b65381c8cd9a50a93e6ba41b794",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/35\/21-24.1792362861270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירו",
+      "gloss": "na ol i sut"
+    },
+    {
+      "surface": "הירים",
+      "gloss": "ol man bilong sut"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ol wokman bilong en"
+    },
+    {
+      "surface": "העבירוני",
+      "gloss": "kisim mi i go ausait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "mi bagarap"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:21.271448715Z",
+  "model": "glm-5.3"
+}

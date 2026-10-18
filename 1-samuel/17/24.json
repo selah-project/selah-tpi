@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dispela",
+      "rationale": "Hebrew article ה on האיש; Tok Pisin has no article, so demonstrative supplied and bracketed by context."
+    }
+  ],
+  "translation": "Na olgeta man bilong Yisrael, taim ol i lukim ⟨את⟩ dispela man, ol i ranawe long pes bilong em, na ol i pret tru tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a589d7a43bbb8dcbabc4ec730cb845d5ac73333e53cbc748fac1b2e644c2fa16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/21-24.1792351772081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na olgeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "taim ol i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dispela man"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ol i ranawe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "long pes bilong em"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na ol i pret"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:32.083237046Z",
+  "model": "glm-5.3"
+}

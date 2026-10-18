@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "putim long graun",
+      "rationale": "ויקבר is 'bury'; 'putim long graun' keeps the physical picture of placing in the ground"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסרה",
+      "rationale": "Num 33:31 lists the journey in the opposite direction (Moseroth to Bene-Jaakan); order here has long puzzled commentators"
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yisrael i wokabaut i go long Beeroth Bene-Yaakan, i go long Mosera. Longen Aharon i dai, na longen ol i putim em long graun, na Elazar pikinini bilong em i wok long ples bilong pris long ples bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "cd6f3422dfe18aa0169a6b7592ae2c3b82f03f978a642382451ecff2d54abfb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/10\/5-8.1792349875305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "wokabaut i go"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "long Beeroth"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bene"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Yaakan"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "Mosera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "longen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "putim long graun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "longen"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "wok long ples bilong pris"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong em"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:57:55.306569275Z",
+  "model": "glm-5.3"
+}

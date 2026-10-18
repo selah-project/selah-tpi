@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעודד",
+      "rationale": "Partisip bilong עוד: 'i holimap ol man i daunbel' (KJV\/ASV) o 'i wokim bek ol man i kirap' — ol man i no gat strong tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "→",
+      "rationale": "עדי ארץ — em i tok daun olgeta; Tok Pisin i needim mak pasin"
+    }
+  ],
+  "translation": "Yahwe i holimap ⟨את⟩ ol man ol i daunbel; em i dagatim ol man nogut i go daun → long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/5-8.1792359326901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "i holimap"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ol man ol i daunbel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "i dagatim i go daun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ol man nogut"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "→"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:26.915284041Z",
+  "model": "glm-5.3"
+}

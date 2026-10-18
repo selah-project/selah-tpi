@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i laikim subjek, Hibru i no gat pronom"
+    },
+    {
+      "kind": "measurement",
+      "subject": "wanpela faiven",
+      "rationale": "Skelim bilong baim bek: faiven i stap antap long prais"
+    }
+  ],
+  "translation": "Na sapos em i baim bek ⟨את⟩ em, em bai givim moa wanpela faiven long antap long skelim bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "68deb97bb83a2aab8f0112506c8993e336c062baee5712271b279b61e973340e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/27\/13-16.1792348880109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "baim bek"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "em i baim bek ⟨את⟩ em"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "em bai givim moa"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "wanpela faiven"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "skelim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:41:20.110177696Z",
+  "model": "glm-5.3"
+}

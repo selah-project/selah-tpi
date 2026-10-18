@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hebrew lacks 'with'; the going-out-together is implied by the prince being בתוכם (in their midst)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבואם יבוא \/ בצאתם יצאו",
+      "rationale": "Infinitive-construct paired with finite verb of same root, a repetitive echo that Tok Pisin keeps only partly with 'kam insait\/go ausait' twice."
+    }
+  ],
+  "translation": "Na nasi i stap namel long ol; taim ol i kam insait, em i kam insait wantaim, na taim ol i go ausait, em i go ausait wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0ef378194119b8d14c87528035384b8ff9cc523a99d2fbdba2230ef33ca3c00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/46\/10-11.1792363239309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Na nasi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "namel long ol"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "taim ol i kam insait"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "em i kam insait"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "na taim ol i go ausait"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "em i go ausait wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:39.309939936Z",
+  "model": "glm-5.3"
+}

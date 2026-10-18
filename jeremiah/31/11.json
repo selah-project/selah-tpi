@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baim bek \/ kisim em bek",
+      "rationale": "פדה (ransom) and גאל (redeem as next-of-kin) are two kinship-legal terms; Tok Pisin lacks the kinsman-redeemer institution, so both render as buying\/bringing back."
+    }
+  ],
+  "translation": "Long wanem Yahwe i baim bek ⟨את⟩ Yakov, na kisim em bek long han bilong man i strongpela, i strongpela moa long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b8e0679aad7cc720094ac663520bb0ba4c6edd75efcdf25253b5cdd31e8a7e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/31\/9-12.1792355426791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "i baim bek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "na kisim em bek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "man i strongpela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "moa long em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:30:26.792443391Z",
+  "model": "glm-5.3"
+}

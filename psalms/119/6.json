@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sen",
+      "rationale": "בוש literal 'pale', i.e. sen (shame) — face-color picture lost"
+    }
+  ],
+  "translation": "Pastaim bai mi no sen, taim mi lukluk ⟨i⟩ go long olgeta toktok bilong yu, ol i olgeta command.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/5-8.1792359080101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pastaim bai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mi sen"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "taim mi lukluk go long"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨i⟩ go long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ol command bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:20.102306245Z",
+  "model": "glm-5.3"
+}

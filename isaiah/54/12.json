@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כדכד \/ אקדח \/ שמשות",
+      "rationale": "Gem names uncertain: kadkod 'rubi o aggregat', ekodah 'karbangel\/ston paia' (hapax), shemashot 'win\/sanctuaol taret' — ol transleita i no wankain."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אקדח",
+      "rationale": "Ston paia nem — dispela wanpela ples tasol long Tanakh."
+    },
+    {
+      "kind": "measurement",
+      "subject": "cit yam",
+      "rationale": "Verse lists building components — windows, gates, borders — each assigned a material; architectural inventory."
+    }
+  ],
+  "translation": "Na mi putim ol win bilong yu olsem kadkod, na ol geit bilong yu olsem ol ston paia bilong ekodah, na olgeta boda bilong yu olsem ol ston bilong laikim tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/54\/9-12.1792354659531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "na mi putim"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "olsem kadkod"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "ol win bilong yu"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "na ol geit bilong yu"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "olsem ol ston"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "paia bilong ekodah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "boda bilong yu"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "olsem ol ston"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "bilong laikim tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T20:17:39.533264550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Refaim",
+      "rationale": "הרפאים em i nem bilong ol bikpela man — mi holim nem, no ken tanim long 'ol giat' nating"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wanpela bilong ol we i stap yet",
+      "rationale": "מיתר em i 'sampela we i stap behain' — Og em i las man bilong ol Refaim"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap long",
+      "rationale": "verb bilong statim sentens, Hibru i no gat em"
+    }
+  ],
+  "translation": "Na raunwara bilong Og, king bilong Bashan, — wanpela bilong ol we i stap yet long ol Refaim — we i stap long Ashtarot na long Edrei.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a6b079b3e1feee7c7d89e55f443b1b6061c22b408191308adc00d98d0ba2ad4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/12\/1-4.1792350737782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "na raunwara"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "bilong Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "wanpela bilong ol we i stap yet"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "we i stap"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "long Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "na long Edrei"
+    }
+  ],
+  "timestamp": "2026-10-18T19:12:17.783872938Z",
+  "model": "glm-5.3"
+}

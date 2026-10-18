@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחמים",
+      "rationale": "Root חמם 'to be hot': 'burning with lust' (KJV\/BSB) vs 'comforted' (Wycliffe) — heat\/lust reading fits polemic context."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol el",
+      "rationale": "אלים here plural of אל referring to foreign gods, not Elohim of Israel; kept as 'ol el' to preserve the Hebrew shape."
+    },
+    {
+      "kind": "you",
+      "subject": "to apostate Judah",
+      "rationale": "Second-person polemic against idolaters, continuing the accusation from v.4."
+    }
+  ],
+  "translation": "Ol i save soap long ol el, ananit long wanpela diwai i grinpela tru; ol i kilim ol pikinini long ol vali, ananit long ol hap krankrung bilong ol ston.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/57\/5-8.1792354713782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "ol i save soap long"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "long ol el"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela wanpela"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "i grinpela tru"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "ol i kilim"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "long ol vali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "ol hap krankrung bilong"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "ol ston"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:33.783486565Z",
+  "model": "glm-5.3"
+}

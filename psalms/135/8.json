@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "relative 'who' supplied to link back to Yahwe from verse 6"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מאדם עד בהמה",
+      "rationale": "'from man to beast' merism for totality, rendered literally"
+    }
+  ],
+  "translation": "We em i paitim ol fesbon long Mitsrayim, long ol man i go inap long ol animal bilong lukautim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/5-8.1792359222868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "we em i paitim"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ol fesbon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "long ol man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap long"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ol animal bilong lukautim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:42.869785835Z",
+  "model": "glm-5.3"
+}

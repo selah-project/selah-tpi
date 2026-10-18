@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i planim",
+      "rationale": "שתולים em i pasiv — 'ol i transplantim ol man stret'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ ol man stret",
+      "rationale": "subjek bilong ves 13 i stap yet, Hebri no tokim, Tok Pisin i nidim"
+    }
+  ],
+  "translation": "Ol i planim ⟨את⟩ ol man stret long haus bilong Yahwe, long ol yad bilong Elohim bilong yumi, ol bai i blum.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/13-16.1792358837602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ol i planim ⟨את⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "long ol yad bilong"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ol bai i blum"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:17.608873878Z",
+  "model": "glm-5.3"
+}

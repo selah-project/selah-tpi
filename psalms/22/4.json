@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i lasim prediket maka i, Hibru i no gat em."
+    },
+    {
+      "kind": "crux",
+      "subject": "יושב תהלות",
+      "rationale": "'Yu save sindaun long ol peis' — JPS 'yu stap long thron bilong ol peis'; Hibru i no gat 'thron', olsem na Tok Pisin i holim pas long 'sindaun'."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Tok i go stret long Yahwe, we i holi."
+    }
+  ],
+  "translation": "Tasol yu ⟨i⟩ holi, yu save sindaun long ol peis bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/22\/1-4.1792358015346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tasol yu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yu save sindaun"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "long ol peis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:35.347306477Z",
+  "model": "glm-5.3"
+}

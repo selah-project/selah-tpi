@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol meri bilong Yerusalayim",
+      "rationale": "Direct address to the daughters of Jerusalem, climactic close of the description."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חכו",
+      "rationale": "Literally 'his palate', rendered 'insait bilong maus' — the mouth as organ of taste and speech."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודי\/רעי",
+      "rationale": "Paired 'my beloved \/ my companion' — covenant-echo of Isaiah 41:8 'Avraham ohavi', friend and beloved together."
+    }
+  ],
+  "translation": "Insait bilong maus bilong em i swit tru, na olgeta bilong em i ol samting ol i laikim tru. Em yet man bilong mi, na em yet poro bilong mi, ol meri bilong Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/13-16.1792360459877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "insait bilong maus bilong em"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "swit tru"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "na olgeta bilong em"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "ol samting ol i laikim tru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "man bilong mi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na em yet"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "poro bilong mi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ol meri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:19.878437571Z",
+  "model": "glm-5.3"
+}

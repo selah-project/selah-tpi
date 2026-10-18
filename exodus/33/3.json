@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hatpela nek",
+      "rationale": "קשה ערף — 'stiff-necked', tok bilong Hebri; Tok Pisin i holim piksa bilong nek"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "עם em i namba planti, Tok Pisin i makim planti wantaim ol"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Yahwe i tok stret long ol manmeri bilong Yisrael"
+    }
+  ],
+  "translation": "Long graun we susu na hani i rin long en; bikos mi no inap go antap namel long yu, bikos yu ⟨ol⟩ manmeri bilong hatpela nek, sepos no, mi ken skrapim yu olgeta long rot.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/33\/1-4.1792348085885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "i rin"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na hani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi go antap"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "namel long yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hatpela"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sepos no"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mi ken skrapim yu olgeta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T18:28:05.886025623Z",
+  "model": "glm-5.3"
+}

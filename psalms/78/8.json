@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את אל",
+      "rationale": "Here את is the preposition 'with' (H854), not the object marker — 'steadfast with God'; rendered with ⟨את⟩ preserved and 'long'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ... דור",
+      "rationale": "'Generation ... generation' repetition frames the indictment, kept by repeating 'dore'"
+    }
+  ],
+  "translation": "Na ol i no kamap olsem ol papa bilong ol, dore i tanimawe na i heltok nogut, dore we i no redim bel bilong en, na ruak bilong en i no strong tru long ⟨את⟩ El.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/5-8.1792358558331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "olsem ol papa bilong ol"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dore"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "i tanimawe"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "na i heltok nogut"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "i redim"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "strong tru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruak bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:38.332715673Z",
+  "model": "glm-5.3"
+}

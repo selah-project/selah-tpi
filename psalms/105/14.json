@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong ⟨ol⟩",
+      "rationale": "עליהם (concerning them) rendered as possessive 'bilong ol' — Tok Pisin has no clean 'on behalf of' construction here."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויוכח",
+      "rationale": "Can also read 'em i kotim ol king' (he judged\/argued with the kings); 'skruktokim' (rebuke) chosen as primary."
+    }
+  ],
+  "translation": "Em i no larim wanpela man long mekim rong long ol, na em i skruktokim ol king bilong ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/13-16.1792358964520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "em i larim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "long mekim rong long ol"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "na em i skruktokim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ol king"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:24.521059987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפיס",
+      "rationale": "kafis occurs only here in the Tanakh; meaning 'rafter\/tie-beam' inferred from context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זעק\/ענה",
+      "rationale": "call-and-response between stone and rafter, a courtroom dialogue of inanimate witnesses"
+    }
+  ],
+  "translation": "Bihainem, ston bilong banis bai singaut, na kabil long diwai bai tok bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fc90f027ce98b9c1a2eedf72cff606a39f72b32efd927a9add4a0b9eabfff285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/2\/10-11.1792363286253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bihainem"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "bilong banis"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "bai singaut"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "na kabil"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "long diwai"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "bai tok bek"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:26.254322004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תועפות",
+      "rationale": "'weariness\/toil' vs 'heights' — rendered 'heap' (heights) with KJV\/JPS against literal 'toil'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "daunbilen han",
+      "rationale": "מחקרי literally 'scrutinized recesses', rendered 'daunbilen han' (deep places)"
+    }
+  ],
+  "translation": "We han bilong em i holim ol daunbilen han bilong graun, na ol heimap bilong ol maunten ol i bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/95\/1-4.1792358844095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "long han bilong em"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ol daunbilen han"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "na ol heimap"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bilong ol maunten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ol i bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:24.108346374Z",
+  "model": "glm-5.3"
+}

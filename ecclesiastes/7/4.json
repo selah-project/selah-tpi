@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב → bel (tingting), no 'hat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kotimane",
+      "rationale": "כסיל — man i no save, 'kotimane', wankain olsem Stat 7 pasin bilong kotimane."
+    }
+  ],
+  "translation": "Bel bilong ol man save i stap long haus bilong kri, tasol bel bilong ol kotimane i stap long haus bilong amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/1-4.1792360807598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bilong ol man save"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "bilong kri"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tasol bel"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bilong ol kotimane"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bilong amamas"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:07.599530628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wokim skru",
+      "rationale": "קשר i minim 'tualim rope' — Tok Pisin 'wokim skru' em i pasin bilong ol kanaka long lukautim gavman"
+    },
+    {
+      "kind": "addition",
+      "subject": "yet",
+      "rationale": "Tok Pisin i nidim 'king yet' bilong tok klia olsem king i dai"
+    }
+  ],
+  "translation": "Na ol manmeri we ol i stap kamp, ol i harim tok olsem: Zimri i wokim skru, na em i kilim ⟨את⟩ king yet; olgeta man Yisrael ol i mekim ⟨את⟩ Omri, kapten bilong ol ami, i kamap king long Yisrael long dispela de, long kampa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/16\/13-16.1792353086409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na ol i harim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "we ol i stap kamp"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tok olsem"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "i wokim skru"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "i kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ol i mekim i kamap king"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kapten"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bilong ol ami"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "long kampa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:51:26.410950050Z",
+  "model": "glm-5.3"
+}

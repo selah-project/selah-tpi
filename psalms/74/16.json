@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "Hibru i onli gat לך (bilong yu) long stat; Tok Pisin i putim 'bilong' gen long nait long bilong en."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאור",
+      "rationale": "Lait o balus — BSB i tok 'mun'; wanpela samting i gat lait, em i no onli mun o san yet."
+    }
+  ],
+  "translation": "De bilong yu, nait tu bilong yu; yu redim ⟨את⟩ lait na san.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/13-16.1792358537809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nait"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "yu redim"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "lait"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "na san"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:17.810411250Z",
+  "model": "glm-5.3"
+}

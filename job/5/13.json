@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 5:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Hibru i stat long participle לכד, man i no nem; Tok Pisin i nidim subjekt"
+    },
+    {
+      "kind": "crux",
+      "subject": "נמהרה",
+      "rationale": "Ol tanim tok i no wankain: 'carried headlong' (KJV), 'made foolish' (Geneva), 'hastened' (YLT) — tua bilong מהר, 'go kwik'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפתלים",
+      "rationale": "Tua bilong פתל 'twine, twist' — man i save tok long pasin i bruk bruk; 'salim' em i piksa bilong pasin nogut"
+    }
+  ],
+  "translation": "Em i katchim ol man save long triktrik bilong ol yet, na tok bilong ol man i save salim i pasim olgeta, i go kwik tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/5\/13-16.1792359933209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכד",
+      "gloss": "katchim"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ol man save"
+    },
+    {
+      "surface": "בערמם",
+      "gloss": "long triktrik bilong ol"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "na tok bilong"
+    },
+    {
+      "surface": "נפתלים",
+      "gloss": "ol man i save salim"
+    },
+    {
+      "surface": "נמהרה",
+      "gloss": "i pasim olgeta, i go kwik tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:33.209550206Z",
+  "model": "glm-5.3"
+}

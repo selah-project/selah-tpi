@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נבר",
+      "rationale": "Dispela tok i stap wanpela taim tasol long olgeta Tanakh; ol man i tingting em i kam long ברר — 'klia'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתפל",
+      "rationale": "פתל em i 'twine\/kunekune': KJV 'unsavoury', YLT 'a wrestler', JPS 'subtle' — Tok Pisin i holim piksa bilong kunekune"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתבר · עקש\/תתפל",
+      "rationale": "Wankain ritim klostu olsem ves 26 — pasin i go daun wantaim man"
+    }
+  ],
+  "translation": "Wantaim man klia, yu save soim pasin klia; na wantaim man i senisim rot, yu save wokim pasin i kunekune.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8040045032bfc76d7a954cd620260dace12facd92735e82bebef3fda3a6a6bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/25-28.1792352611138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "man klia"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "yu save soim pasin klia"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "man i senisim rot"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "yu save wokim pasin i kunekune"
+    }
+  ],
+  "timestamp": "2026-10-18T19:43:31.139254393Z",
+  "model": "glm-5.3"
+}

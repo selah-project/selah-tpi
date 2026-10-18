@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "senisim tingting",
+      "rationale": "והנחם i tok olsem 'susait\/sori' — Tok Pisin i no gat gutpela tok, 'senisim tingting bilong yu' i klostu"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Mose i toktok stret long Yahwe long dispela vers"
+    }
+  ],
+  "translation": "Kam bek, Yahwe — i go long taim wanem? Na senisim tingting bilong yu long ol wokman bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/90\/13-16.1792358834341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kam bek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "taim wanem"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "na senisim tingting"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ol wokman bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:14.349038174Z",
+  "model": "glm-5.3"
+}

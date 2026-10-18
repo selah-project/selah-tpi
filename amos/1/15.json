@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 1:15",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גולה",
+      "rationale": "גולה is 'exile' — gone away captive — rendered as kalabus nogut ples"
+    },
+    {
+      "kind": "elision",
+      "subject": "יחדו",
+      "rationale": "'together' folded into wantaim already used for ושריו; Hebrew repeats both"
+    }
+  ],
+  "translation": "Na king bilong ol bai i go long kalabus nogut ples, em yet wantaim ol lidaman bilong en, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/1\/13-15.1792357153341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "Na bai i go"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "king bilong ol"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "long kalabus nogut ples"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "wantaim ol lidaman bilong en"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:13.342808277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seven tribes",
+      "rationale": "explicit count of tribes still lacking inheritance."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol bilong ol",
+      "rationale": "נחלה is inheritance-portion; Tok Pisin lacks a single word, so periphrasis 'ol bilong ol'."
+    }
+  ],
+  "translation": "Na sevenpela lain i stap yet namel long ol pikinini Yisrael, ol we ol i no skelim yet ⟨את⟩ ol bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/18\/1-4.1792350813821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "stap yet"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "namel long ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "skelim yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bilong ol"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ol bilong ol"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:33.822164672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "givim mi malolo",
+      "rationale": "ירביצני literal em i 'em i mekim mi lipdaun olsem sipsip'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol wara i stap isi",
+      "rationale": "מי מנחות: 'wara bilong malolo' o 'wara i stap isi' — tupela i orait"
+    }
+  ],
+  "translation": "Long ol ples gras i gutpela yet, em i givim mi malolo; em i bringim mi go long ol wara i stap isi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/23\/1-4.1792358025660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "long ol ples"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "em i givim mi malolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ol wara"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "i stap isi"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "em i bringim mi go"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:45.661968661Z",
+  "model": "glm-5.3"
+}

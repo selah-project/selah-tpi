@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lait i klostu",
+      "rationale": "קרוב: 'lait i klostu' (ASV\/BSB), o 'lait i sot' (KJV\/JPS — kaun bilong em i sot) — tupela readings i stap."
+    },
+    {
+      "kind": "elision",
+      "subject": "ol i tok",
+      "rationale": "Hebrew i no gat 'ol i tok' — em i no klia olsem hu i tok dispela, bai mipela putim ⟨ol i tok⟩."
+    }
+  ],
+  "translation": "Ol i putim nait long ples bilong de; ol i tok: lait i klostu, long pes bilong tudak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/17\/9-12.1792360039927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "nait"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long ples bilong de"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ol i putim"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lait"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tudak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:19.928496957Z",
+  "model": "glm-5.3"
+}

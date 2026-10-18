@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "עוד אשר rendered with added conditional connective 'bihain yet ⟨sapos⟩' to carry the 'yet it shall come to pass' sense"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle has no standalone Tok Pisin equivalent, folded into the connective"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערים",
+      "rationale": "'siti' is a loanword; Hebrew עיר is a walled, watched settlement"
+    }
+  ],
+  "translation": "Yahwe Tsebaot i tok olsem: Bihain yet, olgeta lain bilong ol manmeri bai i kam, na ol man i stap long ol siti planti.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7ae42c85f23402b47a9757a63ac2d1f2aefd9676a3d5f2709d28809e71def24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/8\/20-20.1792363336459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bihain yet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sapos⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bai i kam"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "olgeta lain bilong ol manmeri"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ol man i stap"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "long ol siti"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "planti"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:16.460163647Z",
+  "model": "glm-5.3"
+}

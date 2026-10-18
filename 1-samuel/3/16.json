@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Na em",
+      "rationale": "Hibru i no tok nem bilong man i tokim 'הנני'; Tok Pisin i putim 'em' bilong klia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנני",
+      "rationale": "tok bilong bekim kol — 'mi stap hia' — wankain olsem Stat 22:1 na v4-5 bilong dispela chapter, ol i ritim wanwan taim."
+    }
+  ],
+  "translation": "Na Eli i singautim ⟨את⟩ Samuayel, i tok: Samuayel, pikinini man bilong mi. Na em i tok: Mi stap hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/13-16.1792351536739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na i singautim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuayel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuayel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuayel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mi stap hia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:36.741172066Z",
+  "model": "glm-5.3"
+}

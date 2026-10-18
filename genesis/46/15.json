@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש em i samting i pulim win — olgeta man i gat laif, i no 'soul'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "teti na tri",
+      "rationale": "Kaunim olgeta lain bilong Lea — 33."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav bilong Yakov long ליעקב i no gat ⟨את⟩ marker long Hexbell Tok Pisin; em i stap wantaim ⟨את⟩ Dina tasol."
+    }
+  ],
+  "translation": "Dispela ol pikinini man bilong Lea, we i pinisim olgeta pikinini bilong ⟨את⟩ Yakov long Paddan Aram, wantaim ⟨את⟩ Dina pikinini meri bilong en; olgeta man bilong ol pikinini man bilong en na ol pikinini meri bilong en — teti na tri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2e719ea2bc3fb79024f1786a5a428969db43da06f7dd3aab4e296bf1cc46191b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/46\/13-16.1792347229464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i pinisim olgeta pikinini bilong"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "long Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "pikinini meri bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini man bilong en"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "na ol pikinini meri bilong en"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tri"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:49.465468678Z",
+  "model": "glm-5.3"
+}

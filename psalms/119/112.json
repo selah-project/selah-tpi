@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baim",
+      "rationale": "נטה i 'bendim\/stretim' — 'baim bel' long Tok Pisin i wankain piksa bilong baim bel bilong wokim samting."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "עקב i min 'hil' — las hap bilong fut; JPS 'at every step' i holim piksa, KJV 'unto the end' i holim taim tasol."
+    }
+  ],
+  "translation": "Mi baim bel bilong mi long wokim ol lo bilong yu, i go long taim olgeta, inap long las.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/109-112.1792359160864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "mi baim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ol lo bilong yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i go long taim olgeta"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "inap long las"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:40.866744937Z",
+  "model": "glm-5.3"
+}

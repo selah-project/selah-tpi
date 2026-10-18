@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lun",
+      "rationale": "משוגע — man i nogut long het, i tok nating; Tok Pisin lun i klostu long dispela piksa"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "tok we Hebrew i gat, Tok Pisin i no nidim"
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Hebrew i no gat tok bilong olgeta; Tok Pisin i nidim long makim olgeta samting"
+    }
+  ],
+  "translation": "Na yu bai kamap lun, long olgeta samting ol ai bilong yu bai lukim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b42d06112f91f9f7d4818d136c2eba14e1502672eb5d8b5b1042b8d46f825e67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/33-34.1792363027183.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "na yu bai kamap"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "lun"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "long olgeta samting"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ol ai bilong yu bai lukim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨we⟩"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bai lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:07.184367695Z",
+  "model": "glm-5.3"
+}

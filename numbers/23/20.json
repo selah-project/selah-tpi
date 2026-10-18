@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקחתי",
+      "rationale": "'Mi kisim (tok) bilong givim blessing' — KJV i tanim 'commandment', tasol Hibru i tok 'kisim' tasol; husat i givim em no klia"
+    },
+    {
+      "kind": "addition",
+      "subject": "tok",
+      "rationale": "Hibru i no gat 'tok' — mi salim long tok bilong givim blessing bilong klirim mining"
+    }
+  ],
+  "translation": "Luk, mi kisim tok bilong givim blessing, na em i givim blessing, na mi no inap tanim bek ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/23\/17-20.1792349442162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bilong givim blessing"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "mi kisim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "na em i givim blessing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "mi no inap tanim bek"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:42.163380347Z",
+  "model": "glm-5.3"
+}

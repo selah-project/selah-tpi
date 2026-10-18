@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "Elohim long pes bilong king (KJV\/ASV 'O God') o possessiv 'tron bilong Elohim' i bin givim (JPS) — mipela bihainim pes: 'Tron bilong yu, Elohim'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט…שבט",
+      "rationale": "Hibru i ripitim שבט tupela taim — klia pasin bilong raunem tok; Tpi i ripitim 'stik bilong bosim' wankain."
+    },
+    {
+      "kind": "you",
+      "subject": "king",
+      "rationale": "Tok i toktok stret long king long nem namba tu (ata)."
+    }
+  ],
+  "translation": "Tron bilong yu, Elohim, i stap long olgeta taim, wantaim olgeta; stik bilong bosim bilong stret i stik bilong bosim bilong kingdom bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/5-8.1792358289021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "tron bilong yu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "long olgeta taim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stik bilong bosim"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "bilong stret"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stik bilong bosim"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "bilong kingdom bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:09.023033964Z",
+  "model": "glm-5.3"
+}

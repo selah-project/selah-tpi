@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביקרותיך",
+      "rationale": "Hapax-near form: 'honorable women' (KJV) vs 'thy precious ones\/favourites' (JPS) — word bilong 'kago bilong Praem'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שגל",
+      "rationale": "Sjegal i stap long Tanakh long tupela ples tasol; em i tok bilong kwin bilong king."
+    }
+  ],
+  "translation": "Ol pikinini meri bilong ol king i stap long ol manmeri bilong nem bilong yu; kwin i sanap long han sut bilong yu, wantaim gol bilong Ofir.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/9-12.1792358258158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ol pikinini meri"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bilong ol king"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "long ol manmeri bilong nem bilong yu"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "kwin"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "long han sut bilong yu"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "wantaim gol"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "bilong Ofir"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:38.159623086Z",
+  "model": "glm-5.3"
+}

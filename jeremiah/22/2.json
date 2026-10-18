@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 22:2",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the king of Judah",
+      "rationale": "singular imperative 'hear' addressed to the king, then plural servants and people added"
+    },
+    {
+      "kind": "addition",
+      "subject": "yu man",
+      "rationale": "participle היושב needs an expressed subject pronoun in Tok Pisin"
+    }
+  ],
+  "translation": "na yu tok: King bilong Yuda, yu man i sindaun long tron bilong David — harim tok bilong Yahwe: yu, ol wokman bilong yu, na ol manmeri bilong yu, ol i kam insait long ol dua bilong banis dispela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9babd1d519357962e6f83ff1549314723379076eaf179b902b4adc50530a1a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/22\/1-4.1792355284624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na yu tok"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "harim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yu man i sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tron"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "na ol wokman bilong yu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "na ol manmeri bilong yu"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ol i kam insait"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "long ol dua bilong banis"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:04.625709588Z",
+  "model": "glm-5.3"
+}

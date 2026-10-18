@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i dai pinis",
+      "rationale": "Hebrew participle המכים 'the strikers' rendered with result made explicit"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "emphatic 'and it came to pass' folded into 'na taim'"
+    }
+  ],
+  "translation": "Na taim kingdom i strong pinis long han bilong en, em i paitim ⟨את⟩ ol wokman bilong en, olgeta i paitim long han na i dai pinis ⟨את⟩ king, papa bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "666aade11f6e9f51f009f133d1470e309fc583f9b03c8bae941dd356f8f4ef0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/5-8.1792353554328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "i strong pinis"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "long han bilong en"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "em i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wokman bilong en"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong en"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "olgeta i paitim i dai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:14.329268625Z",
+  "model": "glm-5.3"
+}

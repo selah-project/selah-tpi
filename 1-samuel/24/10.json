@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "David addresses Saul directly with a question."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong wokim",
+      "rationale": "Hebrew מבקש רעתך 'seeks your evil' needs a verb of doing in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "samting nogut",
+      "rationale": "רעה is 'bad\/evil' as noun; Tok Pisin needs 'samting nogut' (bad thing)."
+    }
+  ],
+  "translation": "Na David i tok long Saul: Bilong wanem yu harim ⟨את⟩ ol tok bilong ol man, ol i tok: Lukluk, David i painim bilong wokim ⟨את⟩ samting nogut long yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b2e8df2e2deec963dfc5d57c9b07f2f64ac0e3645725a995aabff277555c8d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/24\/10-11.1792363054054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na … i tok"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "long Saul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok bilong ol man"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong ol man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukluk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "i painim bilong wokim"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "samting nogut long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T22:37:34.055416768Z",
+  "model": "glm-5.3"
+}

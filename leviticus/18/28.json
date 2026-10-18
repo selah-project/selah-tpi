@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "בטמאכם — tok bilong tambu; hia em i aktif: yupela i mekim graun i tambu"
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "tok i go stret long Yisrael — sansen bilong Stat 18:24–25"
+    }
+  ],
+  "translation": "Graun i no ken trausim ⟨את⟩ yupela tu, taim yupela i bagarapim ⟨את⟩ em, olsem em i bin trausim ⟨את⟩ ol lain bilong olgeta ol i bin stap pastaim long yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/18\/25-28.1792348562766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "trausim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "yupela i bagarapim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ em"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "i bin trausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol lain bilong olgeta"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ol lain bilong olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol i bin stap"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pastaim long yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:36:02.767983132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Near-identical verb pair (guide\/lead along) — Hebrew paronomasia, softened in Tok Pisin."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותנהלני",
+      "rationale": "Could be 'shepherd me' — the verb is used of shepherding in Ps 23:3."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Continued direct address to Yahwe, grounding petition in His name."
+    }
+  ],
+  "translation": "Bikos yu wanem ston bilong mi na banis bilong mi; na long nem bilong yu, yu sotim rot bilong mi na yu lukautim mi gut long rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/31\/1-4.1792358078445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ston bilong mi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na banis bilong mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na long nem bilong yu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "yu sotim rot bilong mi"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "yu lukautim mi gut long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:38.446613638Z",
+  "model": "glm-5.3"
+}

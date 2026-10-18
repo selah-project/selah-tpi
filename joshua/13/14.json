@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 13:14",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחלה",
+      "rationale": "‘samting bilong karim i kam’ — Tok Pisin: ‘graun bilong ol’, wanpela tok long wanpela ples."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "‘לו’ i wanpela tasol, tasol tok bilong olgeta man bilong sebet Levi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשי",
+      "rationale": "tok bilong ol presen i kapsait long paia; ‘אש’ i min paia."
+    }
+  ],
+  "translation": "Tasol long sebet bilong Levi em i no givim narahla graun; ol presen i kapsait long paia bilong Yahwe, Elohim bilong Yisrael — em i graun bilong ol, olsem em i bin tokim ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/13-16.1792350715162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "long sebet bilong"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "narahla graun"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ol presen i kapsait long paia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "graun bilong ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "em i bin tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ol⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T19:11:55.163468045Z",
+  "model": "glm-5.3"
+}

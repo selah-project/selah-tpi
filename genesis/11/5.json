@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "i go daunbilo",
+      "rationale": "וירד 'i go daunbilo' — Tok Pisin klostu long 'i kam daun'; Inglis 'came down' tu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bilong man",
+      "rationale": "בני האדם — 'pikinini bilong adam (man)'; Inglis 'children of men'."
+    }
+  ],
+  "translation": "Na Yahwe i go daunbilo long lukim ⟨את⟩ siti na ⟨את⟩ taua we pikinini bilong man i wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/11\/5-8.1792346445124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "i go daunbilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "long lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taua"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "taua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bilong man"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:45.125321075Z",
+  "model": "glm-5.3"
+}

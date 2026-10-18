@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עועים",
+      "rationale": "עַוְעֶה em i stap long Tanakh hia tasol (na long Proves 12:8) — 'pasin nogut tru'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח em i wanpela tok — win, ruak, pulim win; hia 'ruak bilong pasin nogut', i no win tasol."
+    }
+  ],
+  "translation": "Yahwe i miksim insait long em wanpela ruak bilong pasin nogut tru, na ol i salim ⟨את⟩ Mitsrayim i go long rot nogut long olgeta wok bilong en, olsem man dring i go long rot nogut long spew bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/19\/13-16.1792354105505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "i miksim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "insait long em"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "pasin nogut tru"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "na ol i salim i go long rot nogut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "wok bilong en"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "olsem i go long rot nogut"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "man dring"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "long spew bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:25.506076161Z",
+  "model": "glm-5.3"
+}

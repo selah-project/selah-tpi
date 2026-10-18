@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה ... בנה",
+      "rationale": "Tupela taim 'i wokim' — repetisen bilong wokim, Tok Pisin i holim"
+    },
+    {
+      "kind": "crux",
+      "subject": "dua i stap antap",
+      "rationale": "העליון: 'i stap antap' (upper gate) o 'ol i go antap long en' (de bilong go antap)"
+    }
+  ],
+  "translation": "Em yet i wokim ⟨את⟩ dua bilong haus bilong Yahwe i stap antap, na long banis bilong Ofel em i wokim planti.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d06ca378b6c0218db77dfef3dc5f6b91c2ad4b896a9c894c0470e36b1899f48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/27\/1-4.1792362648406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua bilong haus bilong Yahwe i stap antap"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bilong haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "i stap antap"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "na long banis bilong"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "planti"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:48.407476946Z",
+  "model": "glm-5.3"
+}

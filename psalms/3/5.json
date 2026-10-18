@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela em i mak bilong miusik, mi holim olsem nem, mi no tanim."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "David i toktok dairekt long Yahwe."
+    }
+  ],
+  "translation": "Biknais bilong mi mi singautim long Yahwe, na em i bekim tok bilong mi long maunten holi bilong en. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/3\/5-8.1792357825075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "biknais bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi singautim"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "em i bekim tok bilong mi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong en"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:25.076864742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "les long em",
+      "rationale": "שנא i wantaim 'les long' na 'birua'; long Tok Pisin 'les long em' i klostu long pasin bilong man wantaim meri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ובא אליה",
+      "rationale": "tok Hibru 'i go insait long em' — pasin bilong man wantaim meri; mi tanim olsem 'i go long em'"
+    }
+  ],
+  "translation": "Sapos man i kisim wanpela meri, i go long em, na i les long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0ebf874e02f770a54ec02abe03b2b8af099a467e4496750736318a7a2465d181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/22\/13-16.1792350171658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "em"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "na i les long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:51.658740568Z",
+  "model": "glm-5.3"
+}

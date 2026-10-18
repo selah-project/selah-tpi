@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol liklik pikinini",
+      "rationale": "עוללים em ol pikinini liklik tru; LXX na Matt 21:16 i tanim 'stori bilong givim prais', tasol Hibru tok 'strong'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עז",
+      "rationale": "Hibru tok 'strong'; LXX 'gutpela tok' (ainos) — NT i bihainim LXX."
+    },
+    {
+      "kind": "elision",
+      "subject": "ומתנקם",
+      "rationale": "em i man i wantim pekpen — wanpela tok, planti tok Tok Pisin."
+    }
+  ],
+  "translation": "Long maun bilong ol liklik pikinini na ol bilong givim susu, Yu bin setimapim strong, bilong ol birua bilong Yu, bilong stopim ⟨את⟩ birua na man i luk bel ia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/8\/1-4.1792357861505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "long maun bilong"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ol liklik pikinini"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "na ol bilong givim susu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Yu bin setimapim"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ol birua bilong Yu"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "bilong stopim"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "birua",
+      "gloss2": null
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "na man i luk bel ia"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:01.507191773Z",
+  "model": "glm-5.3"
+}

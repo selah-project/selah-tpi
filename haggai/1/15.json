@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "de na mun na yia",
+      "rationale": "ves em i wanpela mak bilong taim: de 24, mun 6, yia 2 bilong King Daryaves"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seken yia",
+      "rationale": "שתים em i tupela; \"seken yia\" em i pasin bilong Tok Pisin long kalsem yia"
+    }
+  ],
+  "translation": "Long wanpela de ia, teti na foapela de bilong man bilong mun, mun bilong sikis, long seken yia bilong Daryaves, king.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f7d2a36647e6b3028af37d92440534d8f3e1da097a9aab117d35efa9bfefbd58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/haggai\/1\/13-15.1792357542152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "teti"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na foa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bilong mun"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "mun bilong sikis"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "long yia bilong"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Daryaves"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T21:05:42.154437461Z",
+  "model": "glm-5.3"
+}

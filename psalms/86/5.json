@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela man",
+      "rationale": "טוב em i 'gutpela' — mi putim 'man' bilong tok Tok Pisin, Hibru i no gat"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלח",
+      "rationale": "'redi long pasim ol rong' — KJV 'ready to forgive'"
+    }
+  ],
+  "translation": "Bilong wanem, yu, Adonai, yu gutpela man na yu redi long pasim ol rong, na yu gat khesed bikpela tru long olgeta man i singautim nem bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/86\/5-8.1792358785580.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela man"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "redi long pasim ol rong"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta man"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "i singautim nem bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:25.584056758Z",
+  "model": "glm-5.3"
+}

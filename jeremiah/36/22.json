@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "nainpela mun",
+      "rationale": "The verse fixes the time: ninth month (Kislev), winter season."
+    },
+    {
+      "kind": "crux",
+      "subject": "האח",
+      "rationale": "'fire-pot\/brazier' vs 'hearth' (KJV) vs 'stove' — a portable burning pot before the king."
+    }
+  ],
+  "translation": "Na king i sindaun long haus kol, long nainpela mun, na ⟨את⟩ pots bilong paia i bren long pes bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/36\/21-24.1792355671036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na king"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "i sindaun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "kol"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "long mun"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "nainpela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "האח",
+      "gloss": "pots bilong paia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "long pes bilong em"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "i bren"
+    }
+  ],
+  "timestamp": "2026-10-18T20:34:31.036944419Z",
+  "model": "glm-5.3"
+}

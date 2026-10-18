@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gaden reisin",
+      "rationale": "כרם em i gaden reisin (vineyard), narapela kain gaden i no inklud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ger",
+      "rationale": "גר em i man i stap long ples bilong narasan, i no man i no save long samting"
+    }
+  ],
+  "translation": "Taim yu kisim ol reisin bilong gaden reisin bilong yu, yu no ken pikim ol i kamap bihain long yu; ol bai i stap long man i kamap long ples bilong narasan, long pikinini i no gat papa, na long meri i no gat man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "54f27ec52a52efc26e7dbccea8931f2ea49373bd2da1bf30f54911b64667de07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/24\/21-22.1792350159299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "yu kisim ol reisin"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "gaden reisin bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ken pikim i kamap"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bihain long yu"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "long man i kamap long ples bilong narasan"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "long pikinini i no gat papa"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "na long meri i no gat man"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:39.300473081Z",
+  "model": "glm-5.3"
+}

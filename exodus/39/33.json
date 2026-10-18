@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Miskan",
+      "rationale": "משכן i stap olsem Miskan long Tok Pisin, i no 'haus sel' tasol"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויביאו...אל",
+      "gloss": "Hebrew i tok 'ol i bringim i kam klostu long Mose' — wanpela pasin"
+    }
+  ],
+  "translation": "Na ol i bringim ⟨את⟩ Miskan i kam long Mose — ⟨את⟩ haus sel na ⟨את⟩ olgeta samting bilong en: ol huk bilong en, ol plank bilong en, ol bar bilong en, na ol pos bilong en, na ol pedestal bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/39\/33-36.1792348196379.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ol i bringim i kam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miskan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus sel"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "haus sel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta samting bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "samting bilong en"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ol huk bilong en"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ol plank bilong en"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ol bar bilong en"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "na ol pos bilong en"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "na ol pedestal bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:56.379932199Z",
+  "model": "glm-5.3"
+}

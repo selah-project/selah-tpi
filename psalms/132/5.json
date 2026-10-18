@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אביר יעקב",
+      "rationale": "'strongpela man bilong Yakov' — em i Tok Pisin bilong 'Mighty One of Jacob', nem bilong strong em i stap, tasol 'El' o 'Elohim' em i no”'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim predicate marker i, Hibru i nogat"
+    }
+  ],
+  "translation": "Inap mi painim ⟨i⟩ ples bilong Yahwe, ol Miskan bilong strongpela man bilong Yakov.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/5-8.1792359203898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mi painim"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ol Miskan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "bilong strongpela man"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:23.898937074Z",
+  "model": "glm-5.3"
+}

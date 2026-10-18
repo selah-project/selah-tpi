@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim pronoun bilong tok bilong rog bilong Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצם השמים",
+      "rationale": "'bun bilong ol heven' — KJV 'body of heaven', narapela ritim 'geta bilong heven'; mi holim piksa bilong bun (strong\/essens)"
+    },
+    {
+      "kind": "crux",
+      "subject": "לטהר",
+      "rationale": "klia\/bright vs marimari-holi; 'klia bilong en' i holim piksa bilong lait"
+    }
+  ],
+  "translation": "Na ol i lukim ⟨את⟩ Elohim bilong Yisrael; na ananit bilong ol leg bilong ⟨em⟩ i olsem wok bilong waitpela sapai-ston, na olsem bun bilong ol heven long klia bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/24\/9-12.1792347786003.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "na ol i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim bilong Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na ananit bilong"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ol leg bilong em"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "i olsem wok bilong"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "waitpela"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapai-ston"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "na olsem bun bilong"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "long klia bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:23:06.004623981Z",
+  "model": "glm-5.3"
+}

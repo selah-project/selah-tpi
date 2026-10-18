@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i tok 'ol pikinini bilong em' — em i Atalya, pronoun i klia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עשו לבעלים",
+      "rationale": "lit. 'ol i mekim long ol Baal' — olsem ol i usim olgeta samting holi long wosipim Baal."
+    },
+    {
+      "kind": "crux",
+      "subject": "בניה",
+      "rationale": "'ol pikinini bilong en' o 'ol man bilong en' — KJV i tingting ol pikinini, JPS olsem tu; summa i tok ol man bilong lain bilong en."
+    }
+  ],
+  "translation": "Long wanem Atalya, meri nogut, na ol pikinini bilong ⟨em⟩ i brukim ⟨את⟩ haus bilong Elohim, na olgeta samting holi bilong haus bilong Yahwe ol i givim long ol Baal.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/24\/5-8.1792362621075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "meri nogut"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ol pikinini bilong em"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haus bilong Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na olsem tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "samting holi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "long ol Baal"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:21.076684059Z",
+  "model": "glm-5.3"
+}

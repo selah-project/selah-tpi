@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew has no copula-like particle here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tupela heven",
+      "rationale": "שמים is dual — 'tupela heven' keeps the two-ness"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered as ruak (breath\/wind\/Spirit), not 'spirit' only"
+    }
+  ],
+  "translation": "Long tok bilong Yahwe ol i wokim ⟨i⟩ tupela heven, na long ruak bilong maus bilong em, olgeta ol ami bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/5-8.1792358111090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "long tok bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tupela heven"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na long ruak bilong"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "maus bilong em"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ol ami bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:11.091068222Z",
+  "model": "glm-5.3"
+}

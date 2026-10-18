@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karvim",
+      "rationale": "עצב is properly 'to carve, fashion' — the potter's verb; 'karvim' keeps the craftsman picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וְאֵין ... וּמַצִּיל",
+      "rationale": "Verse 8 continues v.7's imagery: hands that shaped him now swallow him — form and unform by the same hands, echoing Gen 2:7 potter language."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותבלעני",
+      "rationale": "'You swallow me up' — some render as question ('would you destroy me?') matching v.9's dust; kept as statement of the swallowing."
+    }
+  ],
+  "translation": "Ol han bilong yu i karvim ⟨את⟩ mi na ol i mekim ⟨את⟩ mi, wantaim olgeta, raunraun; na yu swarapim ⟨את⟩ mi gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/5-8.1792359990777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "ol han bilong yu"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "i karvim mi"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "na ol i mekim mi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "raunraun"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "na yu swarapim mi gen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:30.778658186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nating tasol",
+      "rationale": "הבל is 'vapor\/breath, emptiness' — rendered 'nating tasol'"
+    },
+    {
+      "kind": "elision",
+      "subject": "subject of כרתו",
+      "rationale": "Hebrew has impersonal 'one cut' — no explicit subject, supplied by 'ol'"
+    }
+  ],
+  "translation": "Long wanem, ol lo bilong ol manmeri i nating tasol; long wanem, ol i katim ⟨את⟩ wanpela diwai long bus, wok bilong han bilong man i wokim wara — wantaim akis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/10\/1-4.1792355059969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "ol lo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bilong ol manmeri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nating tasol"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "long bus"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "katim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bilong han"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bilong man i wokim wara"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "wantaim akis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:19.970580810Z",
+  "model": "glm-5.3"
+}

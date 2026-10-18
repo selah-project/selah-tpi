@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sapos",
+      "rationale": "פן 'lest' — Tok Pisin i no gat gutpela tok bilong 'lest'; 'sapos' i holim sans bilong olsem"
+    },
+    {
+      "kind": "addition",
+      "subject": "bel bilong yu pilap",
+      "rationale": "ושבעת i tok 'yu pilap' tasol; Tok Pisin i needim 'bel bilong yu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨long en⟩",
+      "rationale": "Hebrew i no tok 'long en'; Tok Pisin i needim ples bilong stap"
+    }
+  ],
+  "translation": "Sapos yu kaikai na bel bilong yu pilap, na yu wokim ol gutpela haus na yu stap ⟨long en⟩,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e161daf30eae9e2f2872419426b34e8aa480139340e3b150b7e28c86ffeea838",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/8\/12-12.1792362987647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yu kaikai"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "na bel bilong yu pilap"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "na ol gutpela haus"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "na yu stap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:27.648277893Z",
+  "model": "glm-5.3"
+}

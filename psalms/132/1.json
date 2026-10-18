@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Verse opens with direct address — an imperative summoning Yahwe to remember David."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol pen",
+      "rationale": "ענותו from ענה 'to depress\/afflict' — hardship he endured, not illness."
+    }
+  ],
+  "translation": "Sing bilong ol pas bilong go antap. Yahwe, yu ken membrim bilong David ⟨את⟩ ol pen bilong en olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/1-4.1792359185621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bilong ol pas bilong go antap"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yu ken membrim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pen bilong en olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ol pen bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:05.621698807Z",
+  "model": "glm-5.3"
+}

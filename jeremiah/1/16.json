@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol god narapela",
+      "rationale": "אלהים אחרים is 'ol god narapela' (lowercase) — not Elohim, per D1 foreign-gods rule."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kot",
+      "rationale": "משפטים are verdicts YHWH pronounces; 'kot' keeps the courtroom sense."
+    }
+  ],
+  "translation": "Na bai mi tokaut olgeta kot bilong mi long ⟨את⟩ ol, long olgeta pasin nogut bilong ol, we ol i lusim mi, na ol i kukim smok bilong ofa long ol god narapela, na ol i pundaun na lotuim long ol wok bilong ol han bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/1\/13-16.1792354876069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Na bai mi tokaut"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "olgeta kot bilong mi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "pasin nogut bilong ol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ol i lusim mi"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "na ol i kukim smok bilong ofa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long ol god"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na ol i pundaun na lotuim"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "long ol wok"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "bilong ol han bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:16.070202575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "haidples bilong maunten",
+      "rationale": "סתר can mean 'covert\/hidden place' (ravine) or simply a sheltered slope; rendered literally as 'haidples'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker supplied; Hebrew participle באה has no copula."
+    }
+  ],
+  "translation": "Na i kamap, em i ridim long donki, i kam daun long haidples bilong maunten, na lukim, David na ol man bilong em i kam daun na toksave long em; na em i painim ⟨את⟩ olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/17-20.1792351985641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "i ridim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "donki"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "i kam daun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "long haidples"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lukim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na ol man bilong em"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "i kam daun"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "na toksave long em"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "na em i painim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta (ol man bilong David)"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:05.642448195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yahwe",
+      "rationale": "Hibru i no tok em i singautim long stat; Yahwe i kamap namba wan long tok bihain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרא",
+      "rationale": "Buk Levitikus i stat wantaim 'Vayikra' (i singautim) — tradisen bilong ol rabbi i tok Mose i raitim alef liklik long en"
+    }
+  ],
+  "translation": "Na ⟨Yahwe⟩ i singautim Mose, na i tokim em long Haus Bilong Miting, olsem:",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/1\/1-4.1792348265591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "em"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Bilong Miting"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:05.591885875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i masavim predicate marker ⟨i⟩; Hibru i no gat em."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעוז\/בשת — חסות\/כלמה",
+      "rationale": "Tupela lain i kamap klostu olsem wan — strong\/sem, hait\/sem nogut — parallelismus i stap."
+    }
+  ],
+  "translation": "Na strongpela banis bilong Faro bai i kamap ⟨i⟩ sem bilong yu, na ples hait long suma bilong Mitsrayim bai i kamap ⟨i⟩ sem nogut tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/30\/1-4.1792354307973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "strongpela banis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "long sem"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "na ples hait"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "long suma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "long sem nogut tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:47.974091721Z",
+  "model": "glm-5.3"
+}

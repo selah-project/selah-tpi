@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 2:23",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה יעשה... וכה יוסיף",
+      "rationale": "oath formula 'thus may God do to me and more also' — rendered as conditional curse 'sapos'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בנפשו",
+      "rationale": "literally 'with his nefesh (life-breath)' — rendered 'wantaim bel bilong en' meaning against his own life"
+    }
+  ],
+  "translation": "Na king Selomo i switim long Yahwe, i tok olsem: Elohim i mekim olsem long mi, i gat moa tu, sapos Adonaihu i no tokim ⟨את⟩ dispela tok wantaim bel bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/21-24.1792352713439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "i switim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "tu olsem"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "i gat moa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "wantaim bel bilong en"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonaihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela tok"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:13.440398078Z",
+  "model": "glm-5.3"
+}

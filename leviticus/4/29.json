@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hatvalta",
+      "rationale": "חטאת i min sen bilong valta, olsem na em i sen-ofa; Tok Pisin i no gat wanpela tok, mi usim ofa bilong hatvalta"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong",
+      "rationale": "gloss long tok wantaim bilong Hodru i needim bilong long Tok Pisin"
+    }
+  ],
+  "translation": "Na em i putim ⟨את⟩ han bilong em long hed bilong ofa bilong hatvalta, na em i kilim ⟨את⟩ ofa bilong hatvalta long ples bilong ofa bilong pain ap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/4\/29-32.1792348323400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "na em i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong em"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hed"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bilong ofa bilong hatvalta"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "na em i kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofa bilong hatvalta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofa bilong hatvalta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofa bilong pain ap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:03.401152013Z",
+  "model": "glm-5.3"
+}

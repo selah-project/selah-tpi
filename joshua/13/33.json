@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 13:33",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "cleaned consonants show no את token; the direct-object marker is absent before נחלה in the pointed text as well"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nahl",
+      "rationale": "נחלה is inheritance\/occupied-land; kept as transliterated nahl because Tok Pisin lacks one word covering land-inheritance"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה\/נחלתם",
+      "rationale": "root נחלה repeated twice; Yahwe himself is the inheritance — the repetition is the rhetorical point"
+    }
+  ],
+  "translation": "Na long lain bilong Levi, Mose i no givim ⟨את⟩ nahl bilong ol; Yahwe, Elohim bilong Yisrael, em i nahl bilong ol, olsem em i bin tokim ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c12a2625d1b3f195a9a199c95644170c22b002095613fa3b98c24dc8e9a97da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/13\/33-33.1792350691564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשבט",
+      "gloss": "na long lain bilong"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nahl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "nahl bilong ol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:11:31.564545590Z",
+  "model": "glm-5.3"
+}

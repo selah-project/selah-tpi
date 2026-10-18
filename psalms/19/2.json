@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rakia",
+      "rationale": "הרקיע is the expanse\/firmament; kept as the Hebrew-sounding 'rakia' rather than a descriptive phrase."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added to show whose hands — the hands of El."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מספרים\/מגיד",
+      "rationale": "Two near-synonymous verbs of telling in parallel lines, Hebrew poetic parallelism."
+    }
+  ],
+  "translation": "Ol heven i stori long glori bilong El, na rakia i autim wok bilong ol han bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/1-4.1792358007669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "i stori long"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na wok"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "bilong ol han bilong ⟨em⟩"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "i autim"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:27.670544009Z",
+  "model": "glm-5.3"
+}

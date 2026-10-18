@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Copula added: Hebrew says 'and the name of his wife Maacah' without a verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Family register: father of Gibeon, his wife's name listed."
+    }
+  ],
+  "translation": "Na long Gibon, pai bilong Gibon, Yeuel, i stap long en, na nem bilong meri bilong em ⟨i⟩ Maakha.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "42f47319ffce1efa4d7d7b26fcbf97182090cc2706108f1562e0a23f797b0dcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/9\/33-36.1792361955383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Na long Gibon"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "i stap long en"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "pai bilong"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Yeuel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na nem bilong"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "meri bilong em"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:15.384255070Z",
+  "model": "glm-5.3"
+}

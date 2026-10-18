@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "Here ואת is conjunction + pronoun 'and you', NOT the aleph-tav object marker — a famous ambiguity in this verse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasim",
+      "rationale": "סגר is 'shut up \/ enclose'; 'delivered' misses the picture of Saul shut in, trapped in David's hand."
+    },
+    {
+      "kind": "you",
+      "subject": "Shaol i toktok long David",
+      "rationale": "Direct address continues."
+    }
+  ],
+  "translation": "Na yu yet i soim long dispela de ⟨את⟩ olgeta yu wokim wantaim ⟨את⟩ mi — gutpela pasin: ⟨את⟩ ol samting we Yahwe i pasim mi, givim long han bilong yu, na yu no kilim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/24\/17-20.1792351935790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na yu yet"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "yu soim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long dispela de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta yu wokim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gutpela pasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting we Yahwe i pasim mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol samting we"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "em i pasim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "kilim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:15.791262995Z",
+  "model": "glm-5.3"
+}

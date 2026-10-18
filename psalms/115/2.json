@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "partikel nois נא i no gat ples klos long Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "ol gens",
+      "rationale": "tok i tok long pasin bilong ol gens, kwesten bilong ol"
+    }
+  ],
+  "translation": "Bilong wanem ol gens i ken tok: Ol i stap we, ol Elohim bilong ol?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/1-4.1792359050043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "i ken tok"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol gens"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ol i stap we"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ol Elohim bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:50.044490520Z",
+  "model": "glm-5.3"
+}

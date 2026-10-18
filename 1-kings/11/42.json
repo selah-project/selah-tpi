@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i needim predicate marker, Hibru i no gat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "foti yia",
+      "rationale": "Vers i skelim taim bilong king — foti yia"
+    }
+  ],
+  "translation": "Na ol de bilong Shelomo i king long Yerusalayim, long graun bilong olgeta Yisrael — foti yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/11\/41-43.1792352955029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Na ol de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "foti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:49:15.030590974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "Hebrew אם after an oath means 'surely not \/ never again' — an oath formula, rendered here as conditional 'sapos' with the negative carried by the oath itself."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירושׁ",
+      "rationale": "תירושׁ is fresh unfermented grape-juice (must), rendered 'wain swit' since Tok Pisin has no separate word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בימינו ובזרוע עזו",
+      "rationale": "Yahwe swears by His own right hand and arm of strength — He swears by Himself, the strongest possible oath; the pair hand\/arm is a merism of power."
+    }
+  ],
+  "translation": "Yahwe i sotim long han rat bilong em, na long strongpela han bilong strong bilong em: sapos mi givim ⟨את⟩ kaikai bilong graun bilong yu moa long kaikai bilong ol birua bilong yu, o sapos ol pikinini bilong ol man bilong narapela kantri dringim wain swit bilong yu, we yu wok had long en —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32d872ccdd2da2c5a901323f100b08f00f82439c3a4c7b818be31175f117e2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/62\/8-8.1792363181930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "i sotim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "long han rat bilong em"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "na long strongpela han"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "bilong strong bilong em"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai bilong graun bilong yu"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "kaikai bilong graun bilong yu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "long kaikai"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "bilong ol birua bilong yu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o sapos"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ol i dringim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ol man bilong narapela kantri"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "wain swit bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "yu wok had"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:41.931372700Z",
+  "model": "glm-5.3"
+}

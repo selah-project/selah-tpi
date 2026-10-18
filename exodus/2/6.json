@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew i no tok wanem em i opim — bokis i stap long pes bilong tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em i sot nogut",
+      "rationale": "ותחמל — Hebrew i tok 'em i save sot long em', Tok Pisin i tokim long pasin bilong bel"
+    }
+  ],
+  "translation": "Na em i opim ⟨em⟩, na em i lukim ⟨את⟩ pikinini man — na lu, wanpela liklik man i krai! Na bel bilong em i sot nogut long em, na em i tok:dispela em i wanpela long ol pikinini bilong ol Ebri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/2\/5-8.1792347329535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "na em i opim ⟨em⟩"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "na em i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini man"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na lu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wanpela liklik man"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "i krai"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "na bel bilong em i sot nogut long"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "wanpela long ol pikinini bilong"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ol Ebri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:29.536272216Z",
+  "model": "glm-5.3"
+}

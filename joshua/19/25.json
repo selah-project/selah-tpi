@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Olsem na",
+      "rationale": "Hebrew ויהי i tok bilong stat, Tok Pisin i laikim wanpela tok bilong wanem i kamap bihain"
+    },
+    {
+      "kind": "measurement",
+      "subject": "banis",
+      "rationale": "Vers em i skelim banis bilong tribu bilong Asher — nem bilong ol ples long lain"
+    }
+  ],
+  "translation": "Olsem na banis bilong ol i kamap: Khealkat, na Khali, na Beten, na Akshaf.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7e5af7e62833d735835827018f1a1157f9ec4dd88ca9dcf004c8197f1ff0e6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/19\/25-28.1792350829230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "banis bilong ol"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khealkat"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "na Khali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "na Beten"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "na Akshaf"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:49.231199160Z",
+  "model": "glm-5.3"
+}

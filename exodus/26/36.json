@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Tok Pisin needs 'wanpela' for an indefinite singular noun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "blu",
+      "rationale": "תכלת is the violet-blue dye from the cerulean mussel; color word used for the dye-stuff"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תולעת שני",
+      "rationale": "lit. 'worm of crimson' — the insect and its color share one name; rendered as single color term 'krimson'"
+    }
+  ],
+  "translation": "Na yu wokim wanpela skrin bilong dua bilong haus tel: blu, pepel-papa, krimson, na waitpela linin i twistim — wok bilong man i save klautim kala.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/26\/33-36.1792347871024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "skrin bilong dua"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "bilong dua bilong"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "haus tel"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "pepel-papa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "krimson bilong binatang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "krimson"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "waitpela linin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "i twistim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "man i save klautim kala"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:31.026090754Z",
+  "model": "glm-5.3"
+}

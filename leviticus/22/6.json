@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש is a breathing creature\/life-force, not 'man'; Tok Pisin lacks a closer single word."
+    },
+    {
+      "kind": "addition",
+      "subject": "sampela samting olsem",
+      "rationale": "Hebrew תגע בו 'touch it' has no stated antecedent object in this verse; Tok Pisin needs one, so bracketed from context."
+    }
+  ],
+  "translation": "Man we i putim han long sampela samting olsem, i tambu astat long en inap long taim apinun i pinis, na em i no ken kaikai long ol samting holi, sapos em no wasim bodi bilong em long wara.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/22\/5-8.1792348660940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "i putim han long"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sampela samting olsem"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "i tambu astat long en"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long taim"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "apinun i pinis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no ken"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ol samting holi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "wasim"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bodi bilong em"
+    },
+    {
+      "surface": "במים",
+      "gloss": "long wara"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:40.941372055Z",
+  "model": "glm-5.3"
+}

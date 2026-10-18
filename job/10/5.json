@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכימי ... כימי",
+      "rationale": "Repetition of 'like the days of' frames the parallel question; the echo is kept in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "man i wok long dai",
+      "rationale": "אנוש is 'mortal' — a mortal human, distinct from the dignified גבר (mighty man); two words for man, two words rendered differently."
+    }
+  ],
+  "translation": "Ol de bilong yu, i olsem ol de bilong man i wok long dai? O ol yia bilong yu, i olsem ol de bilong strongpela man?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/10\/5-8.1792359990777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "i olsem ol de bilong"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "man i wok long dai"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ol de bilong yu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ol yia bilong yu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "i olsem ol de bilong"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "strongpela man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:30.778221712Z",
+  "model": "glm-5.3"
+}

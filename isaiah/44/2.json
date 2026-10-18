@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 44:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mama",
+      "rationale": "בטן is belly\/womb; Tok Pisin 'bel bilong mama' makes the womb explicit"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעזרך",
+      "rationale": "Some read 'your helper from the womb' (apposition) vs 'who helps you from the womb'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yakov\/Yishurun",
+      "rationale": "Direct second-person address to Israel"
+    }
+  ],
+  "translation": "Olsem Yahwe i tok, man i wokim ⟨את⟩ yu, na man i karamapim yu long bel bilong mama i helpim yu: no ken scarim, wokman bilong mi Yakov, na Yishurun, man bilong mi bilongim long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/44\/1-4.1792354518965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "man i wokim ⟨את⟩ yu",
+      "marks": "yu"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "na man i karamapim yu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "long bel bilong mama"
+    },
+    {
+      "surface": "יעזרך",
+      "gloss": "i helpim yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "scarim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wokman bilong mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "וישרון",
+      "gloss": "na Yishurun"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mi bilongim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:18.967201336Z",
+  "model": "glm-5.3"
+}

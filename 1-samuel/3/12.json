@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "החל וכלה",
+      "rationale": "Literally 'beginning and finishing' — idiom for 'from beginning to end', infinitives used as nouns"
+    },
+    {
+      "kind": "crux",
+      "subject": "אקים אל",
+      "rationale": "'Raise against' (KJV 'perform against') — verb קום 'raise' with hostile sense against Eli's house"
+    }
+  ],
+  "translation": "Long dispela de, bai mi kirapim long Eli ⟨את⟩ olgeta samting mi bin tokim long haus bilong en — stat, na pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/9-12.1792351524992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Long de"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "bai mi kirapim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting mi bin tokim long haus bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi bin tokim"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "haus bilong en"
+    },
+    {
+      "surface": "החל",
+      "gloss": "stat"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:24.993525089Z",
+  "model": "glm-5.3"
+}

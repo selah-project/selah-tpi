@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rope bilong kol",
+      "rationale": "נחשתי em i koper — em i tok long ol sen bilong koper we i holim man"
+    }
+  ],
+  "translation": "Em i banisim mi olgeta, na mi no inap go ausait; em i mekim ol rope bilong kol bilong mi i kamap hevi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/3\/5-8.1792360596993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Em i banisim mi olgeta"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "mi inap go ausait"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "em i mekim i kamap hevi"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "ol rope bilong kol bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:36.994444293Z",
+  "model": "glm-5.3"
+}

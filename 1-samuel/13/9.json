@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "salim karamap",
+      "rationale": "עלה 'to go up' — Hebrew says Saul caused the offering to ascend, the picture of smoke rising is lost in 'offered'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sakrifais bilong pis",
+      "rationale": "שלמים is from שלום wholeness\/peace; rendered as 'peace offerings'"
+    }
+  ],
+  "translation": "Na Shaol i tok: Bringim i kam long mi sakrifais bilong karamapim na sakrifais bilong pis; na em i salim karamap sakrifais bilong karamapim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/9-12.1792351619353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "bringim i kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifais bilong karamapim"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "na sakrifais bilong pis"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na em i salim karamap"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakrifais bilong karamapim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:59.353945196Z",
+  "model": "glm-5.3"
+}

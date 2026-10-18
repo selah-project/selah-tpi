@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no tokim em (Yahwe), Tok Pisin i nidim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "katen",
+      "rationale": "יריעה em i hangim samting i guria; 'katen' i klostu piksa"
+    }
+  ],
+  "translation": "Em i wrapim ⟨em⟩ long lait olsem slok, em i stretim ol heven olsem katen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/1-4.1792358923284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "wrapim"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lait"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "olsem slok"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "stretim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "olsem katen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:43.285914009Z",
+  "model": "glm-5.3"
+}

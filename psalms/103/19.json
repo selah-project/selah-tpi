@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i laikim predicate marker ⟨i⟩; Hibru i no gat em"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלה",
+      "rationale": "perfect — 'em i bosim pinis' o 'em i bosim oltaim'; ol tanim tok i tok 'ruleth over all'"
+    }
+  ],
+  "translation": "Yahwe i setim stret ⟨i⟩ bet bilong em long ol heven, na kingdom bilong em i bosim olgeta samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/17-20.1792358901714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long ol heven"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "i setim stret"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "bet bilong em"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "na kingdom bilong em"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "samting i bosim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:21.715501216Z",
+  "model": "glm-5.3"
+}

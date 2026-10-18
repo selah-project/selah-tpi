@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "Rendered 'ruak' per discipline — one word covering Spirit\/wind\/breath; no 'spirit' alone."
+    },
+    {
+      "kind": "crux",
+      "subject": "תבינם",
+      "rationale": "Singular verb with plural suffix: 'it gives them understanding' — who is 'them' (the aged? all?) is disputed."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol samting",
+      "rationale": "Object of understanding implied in verb suffix; supplied in Tok Pisin."
+    },
+    {
+      "kind": "secret",
+      "subject": "source of wisdom",
+      "rationale": "Verse reveals that understanding comes not from age but from Sadai's breath — a disclosed hidden principle."
+    }
+  ],
+  "translation": "Tasol ruak, em i stap long man, na win bilong Sadai, em i mekim ol man i save skelim ol samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/32\/5-8.1792360242377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "long man"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "na win bilong"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sadai"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "i mekim ol man i save skelim ol samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:50:42.378652195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i ruak — win, pulim win, Spirit; Tok Pisin i no ken tanim olsem 'Spirit' tasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר\/כרמל",
+      "rationale": "wailples i senis i go gaden, na gaden i senis i go bus — liklik skal bilong senis, haos bilong Tok Pisin i no holim"
+    }
+  ],
+  "translation": "Taim ruak i kapsait i kamap long yumi i kam daun long heven; na wailples bai i kamap gaden kaikai, na gaden kaikai bai ol i tingting ⟨em⟩ olsem bus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/32\/13-16.1792354266018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "taim"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "i kapsait i kamap"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "i kam daun long heven"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wailples"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "gaden kaikai"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na gaden kaikai"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "olsem bus"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bai ol i tingting"
+    }
+  ],
+  "timestamp": "2026-10-18T20:11:06.019168421Z",
+  "model": "glm-5.3"
+}

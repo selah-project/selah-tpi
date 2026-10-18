@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol manmeri i tokim Yehosua",
+      "rationale": "Direct address to a specific addressee — the people's vow to Joshua."
+    },
+    {
+      "kind": "substitution",
+      "subject": "harim",
+      "gloss_context": "tpi",
+      "rationale": "נשמע means hear-with-obedience; 'harim' alone underplays the obedience sense."
+    }
+  ],
+  "translation": "Na ol manmeri i tokim Yehosua: ⟨את⟩ Yahwe, Elohim bilong mipela, bai mipela servim, na long tok bilong em bai mipela harim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/24\/21-24.1792350954343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na ol manmeri i tokim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim bilong mipela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong mipela"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "bai mipela servim"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "na long tok bilong em"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "bai mipela harim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:15:54.344501311Z",
+  "model": "glm-5.3"
+}

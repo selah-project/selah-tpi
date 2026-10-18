@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Hebri no gat kopula namel long Yahwe na צורי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ston",
+      "rationale": "צורי em i 'rok bilong mi' — ston antap long malai, no smol ston"
+    }
+  ],
+  "translation": "Bilong autim olsem Yahwe i stret, ⟨em i⟩ ston bilong mi, na no gat olgeta rong insait long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/92\/13-16.1792358837602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "bilong autim olsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "⟨em i⟩ ston bilong mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no gat"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "olgeta rong"
+    },
+    {
+      "surface": "בו",
+      "gloss": "insait long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:17.612594082Z",
+  "model": "glm-5.3"
+}

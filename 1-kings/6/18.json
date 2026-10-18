@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 6:18",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פקעים",
+      "rationale": "פקע i kamap long Tanakh hia tasol — 'hap-bol', olsem hap bilong bol"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקעים",
+      "rationale": "Suma i tok 'gourd' (kauliflower), suma 'knop' (hap-bol); piksa i no klia"
+    }
+  ],
+  "translation": "Na diwadakat bilong hesek i karamapim ⟨את⟩ haus insait — i gat ol karing bilong ol hap-bol na ol flawa ol i opim; olgeta samting em i hesek — i no gat wanpela ston i lukluk kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/6\/17-20.1792352762723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארז",
+      "gloss": "Na diwadakat bilong hesek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "insait"
+    },
+    {
+      "surface": "מקלעת",
+      "gloss": "ol karing"
+    },
+    {
+      "surface": "פקעים",
+      "gloss": "ol hap-bol"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "na ol flawa ol i opim"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "flawa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "em i hesek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wanpela ston"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "i lukluk kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:02.724140908Z",
+  "model": "glm-5.3"
+}

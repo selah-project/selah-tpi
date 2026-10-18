@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 6:4",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "holim pas long pait",
+      "rationale": "קדשו literally 'sanctify' the war — dedicate\/set apart for battle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צהרים",
+      "rationale": "dual 'double light' = noon; the double shape is lost in Tok Pisin"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kirap, yumi go antap",
+      "rationale": "besiegers' own speech, hortative imperatives"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונעלה",
+      "rationale": "'let us go up' (at noon) vs Geneva 'toward the South', reading בצהרים as bə-negeb direction"
+    }
+  ],
+  "translation": "I ken holim pas long pait agens em; kirap, yumi go antap long belo bilong de. Sori tumas bilong yumi, bilong de i stat i go daunbilo, bilong ol sawa bilong apinun i winim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/6\/1-4.1792354994393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "i ken holim pas long"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "agens em"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "yumi go antap"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "long belo bilong de"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "sori tumas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bilong yumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "i stat i go daunbilo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "ינטו",
+      "gloss": "i winim olgeta"
+    },
+    {
+      "surface": "צללי",
+      "gloss": "ol sawa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bilong apinun"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:14.394640656Z",
+  "model": "glm-5.3"
+}

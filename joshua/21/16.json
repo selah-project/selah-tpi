@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "nainpela ol siti",
+      "rationale": "Ves i kaunim olgeta — nainpela siti long tupela ol lain."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "Hibru i raitim מאת (H854 'long') olsem H853 — sampla translator i lukim olsem aleph-tav, narapela olsem preposition."
+    }
+  ],
+  "translation": "Na ⟨את⟩ Ayin wantaim ⟨את⟩ ol graun klostu bilong en, na ⟨את⟩ Yuta wantaim ⟨את⟩ ol graun klostu bilong en, ⟨את⟩ Bet-Shemesh wantaim ⟨את⟩ ol graun klostu bilong en — nainpela ol siti, long ⟨את⟩ olgeta bilong tupela ol lain hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "18b05d91fa11c26c6731cf8ec5bbcf4653e72e1daa32b94e64cc8d6e2508058c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/21\/13-16.1792350854297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ol graun klostu bilong en"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ol siti"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nainpela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "long ⟨את⟩ olgeta bilong"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:14:14.298429082Z",
+  "model": "glm-5.3"
+}

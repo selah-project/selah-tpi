@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 15:30",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "נפש em i 'samting i winim' \/ laip bilong man, tasol Tok Pisin i tok 'man' long ples hia"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long han i go antap",
+      "rationale": "ביד רמה — han i go antap, min 'olsem bilong hevi nogut tru, i no ken senis'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את יהוה הוא מגדף",
+      "rationale": "Nem bilong Yahwe i stap pastaim long ves, bipo tok bilong tok nogut — pasin bilong Hibru i putim olsem"
+    }
+  ],
+  "translation": "Na man i wokim samting long han bilong em i go antap — i no senis, man i bon kantri o man i save stap wantaim ol — em i mekim olsem em i tok nogut long ⟨את⟩ Yahwe; na bai ol rausim man ia olgeta long namel bilong ol manmeri bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4015a05a0bbad8a54583b9dff8762bdc6b58047593c86fc4c7c9366ae2323fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/15\/29-32.1792349260949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "na man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i wokim samting"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i no senis"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "man i bon kantri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "man i save stap wantaim ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "מגדף",
+      "gloss": "tok nogut long"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "na bai ol rausim"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "long namel bilong"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ol manmeri bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:40.950441828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sain bilong samting nogut",
+      "rationale": "מופת: 'sain bilong mirakel' o 'sain bilong samting i kirapim sikspela' — ol tanim man i tok 'wonder' o 'monsta'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i no gat"
+    }
+  ],
+  "translation": "Mi kamap olsem sain bilong samting nogut long ai bilong planti man; tasol yu ⟨i⟩ hapsai bilong mi, strong tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/71\/5-8.1792358444854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "olsem sain bilong samting nogut"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi kamap"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "long planti man"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tasol yu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "hapsai bilong mi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:44.855283051Z",
+  "model": "glm-5.3"
+}

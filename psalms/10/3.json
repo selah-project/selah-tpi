@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובצע ברך",
+      "rationale": "'Man bilong kisim mani nogut i blesim' o 'man i blesim kisim mani' — huda i blesim, na huda i beraim Yahwe; ol tanim tok i no wankain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש em i breath\/life-force, Tok Pisin 'bel' — tingting na laik namel"
+    }
+  ],
+  "translation": "Long wanem, man nogut i preamble long laik bilong bel bilong en, na man bilong kisim mani nogut i tok gutpela long en; em i beraim Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/10\/1-4.1792357953417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "i preamble"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "laik"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong en"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "na man bilong kisim mani nogut"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "i tok gutpela long en"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "em i beraim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:33.418475068Z",
+  "model": "glm-5.3"
+}

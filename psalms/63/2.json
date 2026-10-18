@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש is throat\/breath\/life-force, rendered as bel (seat of desire)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשחרך",
+      "rationale": "Root 'to dawn' meaning 'seek early'; rendered long klautaim mi lukim yu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "'Seek early\/earnestly' vs 'dawn' — literal picture of seeking at daybreak lost"
+    }
+  ],
+  "translation": "Elohim, yu em El bilong mi, long klautaim mi lukim yu; bel bilong mi i hangre long yu, bodi bilong mi i laikim yu long graun drai wara i no stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/63\/1-4.1792358399546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El bilong mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "long klautaim mi lukim yu"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "i hangre long wara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "i laikim strong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "bodi bilong mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "drai"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "i pen pen"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:59.547215404Z",
+  "model": "glm-5.3"
+}

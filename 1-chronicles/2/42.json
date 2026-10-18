@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "gloss": "em i papa",
+      "rationale": "Tok Pisin predicate marker added; Hebrew has verbless clause הוא אבי זיף."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני מרשה",
+      "gloss": "sons of Mareshah",
+      "rationale": "Some read Mareshah as second son of Caleb (BSB); others as father of Hebron (KJV\/JPS)."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Kalep, brata bilong Yerahamel: Mesa bikpela pikinini bilong en, em i papa bilong Zif; na ol pikinini bilong Maresa, papa bilong Hevron.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "585488fd096983c21d0941df3348217db687536d2d027879f3e84d60a9714a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/2\/41-44.1792361765426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ol pikinini bilong"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalep"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brata bilong"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahamel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesa"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "bikpela pikinini bilong en"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "i papa bilong"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ol pikinini bilong"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:05.426971653Z",
+  "model": "glm-5.3"
+}

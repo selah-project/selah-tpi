@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "רצון 'delight' carries no pronoun; Tok Pisin needs 'bilong yu' to show whose favour"
+    },
+    {
+      "kind": "substitution",
+      "subject": "banis",
+      "rationale": "צנה is a large buckler shield; 'banis' (fence\/enclosure) keeps the encircling picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעטרנו",
+      "rationale": "עטר means both 'crown' and 'encircle'; the righteous is crowned\/surrounded with favour — one verb holds both"
+    }
+  ],
+  "translation": "Bihain, yu yet, Yahwe, yu bainimim ⟨את⟩ man stret; wantaim mararit bilong yu yu pasim em olsem wanpela banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/13-13.1792357808613.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu yet"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "yu bainimim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "olsem wanpela banis"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "mararit bilong yu"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "yu pasim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:08.614013847Z",
+  "model": "glm-5.3"
+}

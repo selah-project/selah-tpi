@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i olsem 'bel' long Tok Pisin — bel bilong tingting na laik, i no hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "i guria",
+      "rationale": "יחיל (חול) i tok bilong guria\/wrait — 'sore pained' (KJV) o 'writhe' (JPS)"
+    }
+  ],
+  "translation": "Bel bilong mi i guria insait long mi, na ol bikpela scare bilong dai i pundaun long mi antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/55\/5-8.1792358313792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "insait long mi"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "na ol bikpela scare"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bilong dai"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi antap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:33.792639096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sinim",
+      "rationale": "הללו i tok bilong 'clear\/shine', Tasol long Tok Pisin 'sinim' (sing praise) em i pasin bilong gutpela singsing long nem"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol wokman",
+      "rationale": "עבדי i 'ol seruf', Tasol 'wokman bilong Yahwe' i save tok long Buk Baibel"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ol wokman bilong Yahwe",
+      "rationale": "Tripela krai 'sinim' i singautim ol man long singsing"
+    }
+  ],
+  "translation": "Sinim Ya, sinim ⟨את⟩ nem bilong Yahwe; sinim, ol wokman bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/1-4.1792359215867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "sinim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sinim"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:35.867847830Z",
+  "model": "glm-5.3"
+}

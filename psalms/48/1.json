@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שיר מזמור",
+      "rationale": "Tupela tok — sing wantaim mizmor — i stap olsem nem bilong pes, mi holim olgeta."
+    }
+  ],
+  "translation": "Sing, mizmor, bilong ol pikinini bilong Korah.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/48\/1-4.1792358278270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bilong ol pikinini bilong"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:58.271033236Z",
+  "model": "glm-5.3"
+}

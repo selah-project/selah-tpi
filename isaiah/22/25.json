@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 22:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stag",
+      "rationale": "היתד 'peg' — Isa 22:23 pegs Eliakim; here the peg is removed: translators divide over whether this verse judges Shebna or reverses the promise to Eliakim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baria",
+      "rationale": "המשא is 'burden\/load' — the things hung on the peg (v.24), rendered as baria (kago bilong karim)."
+    },
+    {
+      "kind": "elision",
+      "subject": "Tsebaot",
+      "rationale": "צבאות rendered Yahwe Tsebaot as one fixed name, per D1."
+    }
+  ],
+  "translation": "Long dispela de, Yahwe Tsebaot i tok: dispela stag i fasten gut long ples bilong bilip bai rusim, na bai katem i go daun na pundaun; na olgeta baria we i hangamap long em bai katim ol i go ausait, long wanem Yahwe i tok pinis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "374999c5cd7124670aedcbe564167ac2ad4449a93e5e4670a9b2ab11393d14a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/22\/25-25.1792354155666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "long"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "תמוש",
+      "gloss": "bai rusim"
+    },
+    {
+      "surface": "היתד",
+      "gloss": "stag"
+    },
+    {
+      "surface": "התקועה",
+      "gloss": "i fasten gut"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "long ples"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "bilong bilip"
+    },
+    {
+      "surface": "ונגדעה",
+      "gloss": "na bai katem i go daun"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "na pundaun"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "bai katim i go ausait"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "baria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:15.666773121Z",
+  "model": "glm-5.3"
+}

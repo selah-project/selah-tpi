@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Long laip bilong Farao",
+      "rationale": "Oath formula חי פרעה 'by the life of Pharaoh'; rendered literally."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "Conditional pair 'except\/unless' — literal 'if not... except that'; rendered as one 'sepos...no' construction."
+    }
+  ],
+  "translation": "Long dispela bai yupela i skelim: Long laip bilong Farao, yupela i no inap go ausait long dispela ples, sepos liklikpela brata bilong yupela i no kamap long hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/42\/13-16.1792347213567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "long dispela"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "bai yupela i skelim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sepos"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "yupela i go ausait"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long dispela ples"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sepos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "bihain i kamap"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "brata bilong yupela"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "liklikpela"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "long hia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:33.568473092Z",
+  "model": "glm-5.3"
+}

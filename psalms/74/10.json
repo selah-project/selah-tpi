@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bilong yu⟩ long אויב",
+      "rationale": "Hibru i tok 'ol birua' tasol; Tok Pisin i lainim em i no klia sapos i no gat 'bilong yu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנצח",
+      "rationale": "'oltaim' o 'i go inap long pinis' — nem bilong taim i tanim olsem 'go long het\/daun bilong taim'"
+    },
+    {
+      "kind": "you",
+      "subject": "long Elohim",
+      "rationale": "Ol askim i go stret long Elohim — toktok bilong skrim long em"
+    }
+  ],
+  "translation": "I go bit long wanem taim, Elohim, birua i ken tok nogut? Olsem wanem, ol birua bilong yu bai tok nogut long nem bilong yu oltaim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "382c65db69e3de525313c4cd0ac1f54cbd52835e58b6ce78210d376eb6b96749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/10-11.1792363406804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "i go bit long"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanem taim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "tok nogut"
+    },
+    {
+      "surface": "צר",
+      "gloss": "birua"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "bel long"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ol birua bilong yu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:26.804652614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ממגדל נוצרים עד עיר מבצר",
+      "rationale": "'from watchtower to fortified city' is a merism meaning everywhere, small outpost to big town"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עזה עד עיר מבצר",
+      "rationale": "verse measures the scope of the campaign with boundary endpoints"
+    }
+  ],
+  "translation": "Em ⟨yet⟩ i paitim ⟨את⟩ ol Pelisit i go inap Gaza na ⟨את⟩ ol boda bilong en — long tauman bilong ol lukautman i go inap long taun i gat strongpela banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/5-8.1792353594332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Pelisit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol boda bilong en"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ol boda bilong en"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "long tauman bilong"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ol lukautman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "i gat strongpela banis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:59:54.333542489Z",
+  "model": "glm-5.3"
+}

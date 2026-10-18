@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חנמל (hanamal)",
+      "rationale": "Hapax legomenon: 'ais i pundaun' (KJV frost), 'bikpela ais ston' (Geneva hailstone), o 'ol binatang smol bilong kai-kai diwai' (aphis) — man i no save stret wanem em i min"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנמל",
+      "rationale": "Tok i stap long Tanakh long dispela ples tasol"
+    }
+  ],
+  "translation": "Em i kilim ⟨את⟩ ol wainpela diwai bilong ol wantaim ais i pundaun, na ⟨את⟩ ol siko-mor diwai bilong ol wantaim kol tru bilong krankraun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cc01967b6756e3d43e960eb6200873048e01d7e222d7129cbf1db6c939e49a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/46-47.1792363387678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Em i kilim"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "wantaim ais i pundaun"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ol wainpela diwai bilong ol"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "na ol siko-mor diwai bilong ol"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "wantaim kol tru bilong krankraun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:07.678854936Z",
+  "model": "glm-5.3"
+}

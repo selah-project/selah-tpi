@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלום",
+      "rationale": "Ketiv תלום vs Qere תלאום — 'they hanged them' from תלה; the written form is an unusual spelling."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר … אשר",
+      "rationale": "relative pronoun repeated, chaining the nested clauses: who stole — where they hanged."
+    }
+  ],
+  "translation": "Na David i go na i tekim ⟨את⟩ ol bun bilong Saul na ⟨את⟩ ol bun bilong Yonatan, pikinini man bilong em, long ⟨את⟩ ol man bilong Yabis-Gilad, we ol i stilim ⟨את⟩ ol long ples bradtum bilong Bet-San, we ol Filisti i hangamapim ol long sanap i stap long hap, long de bilong ol Filisti i paitim ⟨את⟩ Saul long Gilboa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f0eb2fe791d1a5ee79377e2610ae0b9cb0c6c31662826dd53a3ed5ca8383fb6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/21\/9-12.1792352546706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong Saul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ol bun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong Yonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ol bun"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini man bilong em"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "long ⟨את⟩",
+      "marks": "ol man bilong Yabis-Gilad"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabis"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ol i stilim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "ples bradtum bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "San"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "i hangamapim ol long sanap"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ol Filisti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Filisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "long Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:42:26.708154086Z",
+  "model": "glm-5.3"
+}

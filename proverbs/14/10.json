@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i bel bilong tingting na laik long Hibru, i no hat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש em i laif \/ win bilong laif, i no 'soul' olsem Inglis."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרת",
+      "rationale": "מרר 'pen olsem kap long maut'; sampla gloss-ol i raitim 'bitterness'."
+    }
+  ],
+  "translation": "Bel bilong man i save ⟨את⟩ pen bilong nefes bilong en; na long bel heori bilong en, man bilong graun i no ken go insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/14\/9-12.1792359491772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i save ⟨את⟩"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "pen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bilong nefes bilong en"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "na long bel heori bilong en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "go insait"
+    },
+    {
+      "surface": "זר",
+      "gloss": "man bilong graun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:38:11.773670143Z",
+  "model": "glm-5.3"
+}

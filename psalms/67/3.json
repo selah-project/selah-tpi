@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "לדעת",
+      "rationale": "no explicit subject in Hebrew — 'so that (peoples) may know' is supplied from context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישועתך",
+      "rationale": "yeshua — deliverance\/victory, rendered 'sevim bilong yu'"
+    }
+  ],
+  "translation": "Bilong ol manmeri i save long rot bilong yu long graun, na sevim bilong yu long olgeta ol lain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/67\/1-4.1792358398642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "bilong i save long"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "rot bilong yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "sevim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:58.643322312Z",
+  "model": "glm-5.3"
+}

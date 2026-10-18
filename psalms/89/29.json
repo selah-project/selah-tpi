@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem khesed — marimari tasol i no olgeta mining bilong en"
+    },
+    {
+      "kind": "predicate",
+      "subject": "kontrak",
+      "rationale": "Yahwe i tokim David long kontrak bilong en — namba stat long 2 Semuel 7"
+    }
+  ],
+  "translation": "Long taim i no gat hap pinis, bai mi lukautim khesed bilong mi long em, na kontrak bilong mi i stap strong long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/29-32.1792358805390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "long taim i no gat hap pinis"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "bai mi lukautim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesed bilong mi"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "na kontrak bilong mi"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "i stap strong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:45.391537512Z",
+  "model": "glm-5.3"
+}

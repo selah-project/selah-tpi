@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "praisim olgeta",
+      "rationale": "Ol komandim ol manmeri long go insait long singsing prais."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun bilong Tok Pisin, Hibru i gat pronomal suffix long תהלתו tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol khasid",
+      "rationale": "חסידים — ol man i stap klosap long Elohim; khasid i stap, i no 'ol seint' bilong save bilong bihain."
+    }
+  ],
+  "translation": "Praisim olgeta Ya; singim wanpela singsing nu long Yahwe; tok bilong praisim ⟨em⟩ long kongregesen bilong ol khasid.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/149\/1-4.1792359335904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Praisim olgeta"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "singim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tok bilong praisim ⟨em⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "long kongregesen"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "bilong ol khasid"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:35.906560918Z",
+  "model": "glm-5.3"
+}

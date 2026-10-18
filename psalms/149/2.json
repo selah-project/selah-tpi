@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Tok Pisin i nidim pronoun; suffix -ו long Hibru i save tok long em yet."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעשיו \/ במלכם",
+      "rationale": "Tupela construct wantaim suffix, wanpela long Olsem Wokim, wanpela long king — balans bilong vers i lus liklik long Tok Pisin."
+    }
+  ],
+  "translation": "Yisrael i amamas long Olsem Wokim bilong ⟨ol⟩; ol pikinini bilong Tsiyon i singaut long amamas long king bilong ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/149\/1-4.1792359335904.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "long Olsem Wokim bilong ⟨ol⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "i singaut long amamas"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "long king bilong ⟨ol⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:35.907231241Z",
+  "model": "glm-5.3"
+}

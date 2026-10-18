@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "Hebrew 'from days to days' — idiom for 'year after year'; rendered literally 'long ol dei i go long ol dei'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חקה",
+      "rationale": "Rendered 'lo bilong wokim' (statute\/ordinance); 'Tora' reserved for תורה."
+    }
+  ],
+  "translation": "Na yu ken lukautim ⟨את⟩ dispela lo bilong wokim long taim bilong en, long ol dei i go long ol dei.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2506fdd5afd896cc977603abc0cb59ebd546f365ecbce27dd78dc0a8c23512a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/13\/10-11.1792362900637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "na yu ken lukautim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela lo bilong wokim"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "dispela lo bilong wokim"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "long taim bilong en"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "long ol dei"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "i go long ol dei"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:00.638277640Z",
+  "model": "glm-5.3"
+}

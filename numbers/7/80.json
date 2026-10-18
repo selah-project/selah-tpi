@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ten shekels",
+      "rationale": "Weight of the gold vessel given in shekels."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pes",
+      "rationale": "כף is literally 'palm\/hollow hand'; rendered as the vessel it names, a small dish."
+    }
+  ],
+  "translation": "Wanpela pes bilong gol — ten sekel — i fulap long ensens.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "4fb79177a61402d9499a925fc6a5692f617c1deba21060b214d7321cb4f30ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/7\/77-80.1792349068699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "pes"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ensens"
+    }
+  ],
+  "timestamp": "2026-10-18T18:44:28.700467882Z",
+  "model": "glm-5.3"
+}

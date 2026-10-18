@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karamapim",
+      "rationale": "לכפר i min ”karamapim” (olsem bilong kapsaitim); ”mekim kiaman” em i tok bilong pasin, no bilong leta."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sen⟩",
+      "rationale": "Tok Pisin i laikim wanpela tok bilong wanem ol i karamapim; Hibru i no gat em."
+    },
+    {
+      "kind": "you",
+      "subject": "עליכם",
+      "rationale": "Tok i go long ol man Yisrael — yupela."
+    }
+  ],
+  "translation": "Wanpela pikinini meme man bilong ol meme, bilong karamapim ⟨sen⟩ bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/28\/29-31.1792349538332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "pikinini meme man"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bilong ol meme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "bilong karamapim"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:52:18.333383900Z",
+  "model": "glm-5.3"
+}

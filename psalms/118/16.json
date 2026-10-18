@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימין יהוה ×2",
+      "rationale": "Repetition of 'right hand of Yahwe' frames the verse — refrain structure kept by repeating verbatim."
+    }
+  ],
+  "translation": "Han rit bilong Yahwe i go het antap; han rit bilong Yahwe i wokim strongpela wok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/13-16.1792359080101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "han rit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "i go het antap"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "han rit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strongpela wok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:20.102042014Z",
+  "model": "glm-5.3"
+}

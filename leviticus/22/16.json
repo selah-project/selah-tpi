@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol i⟩",
+      "rationale": "אותם em i aleph-tav bilong עון, tasol Tok Pisin i laikim ol i karim — ol i stap long ⟨…⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא",
+      "rationale": "Nogat bilong Stat 22:15 i was long ves hia tu; Tok Pisin i no ken lukim, tasol mining i stap"
+    }
+  ],
+  "translation": "na mekim ⟨ol i⟩ karim ⟨את⟩ sala bilong rong, taim ol i kaikai ⟨את⟩ ol holi samting bilong ol; bilong mi, Yahwe, mi ⟨em⟩ i mekim ol holi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/22\/13-16.1792348710954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "na mekim ol i karim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sala bilong rong"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sala"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "bilong rong"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "taim ol i kaikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol holi samting bilong ol"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ol holi samting bilong ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "mi mekim ol holi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:30.955535618Z",
+  "model": "glm-5.3"
+}

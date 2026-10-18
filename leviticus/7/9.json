@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tanuv\/marceset\/mahavat",
+      "rationale": "Ol Tok Pisin i no gat tok bilong ol kain cooking-pot bilong tabernakel; mi holim nois bilong olsem nem bilong samting"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i bilong en (las sentens)",
+      "rationale": "לו תהיה i tok wanem — Hebrew i gat tupela tok, Tok Pisin i larim klia"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pasin bilong skelim",
+      "rationale": "Ves i skelim wanem hap bilong pris — measurement bilong ol sakrifies"
+    }
+  ],
+  "translation": "Na olgeta minkha ol i kukim long tanuv, na olgeta ol i wokim long marceset, na antap long mahavat — em i bilong pris i bringim ⟨את⟩ em; em i bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/9-12.1792348282376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ol i kukim"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "long tanuv"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "long marceset"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na antap long"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "mahavat"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bilong pris"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "i bringim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "em (minkha)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "em i bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:22.377547431Z",
+  "model": "glm-5.3"
+}

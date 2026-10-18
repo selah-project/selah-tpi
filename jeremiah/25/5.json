@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 25:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושבו",
+      "rationale": "Root debate: shuv 'return' (many read 'turn again and dwell') vs yashav 'dwell'; KJV 'dwell' follows the second."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובו \/ ושבו",
+      "rationale": "Same consonants sh-b repeat: 'return' then 'remain\/dwell' — the echo is lost in translation."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "gloss-marker": "plis",
+      "rationale": "Softening particle rendered 'plis'; Hebrew has no separate politeness word here."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Prophetic summons addressed directly to the people of Yehuda."
+    }
+  ],
+  "translation": "olsem: Kamap bek, plis, wanwan man long rot nogut bilong en na long pasin nogut bilong ol wok bilong yupela, na stap long graun we Yahwe i givim long yupela na long ol papa bilong yupela, long taim bipo tru na inap long taim olgeta, oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/25\/5-8.1792355340547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kamap bek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "long rot bilong en"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "na long pasin nogut"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ol wok bilong yupela"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "na long ol papa bilong yupela"
+    },
+    {
+      "surface": "למן",
+      "gloss": "long taim bipo tru"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taim olgeta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taim olgeta oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:29:00.547740530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker added; Hebrew verb ותהי carries predication"
+    },
+    {
+      "kind": "measurement",
+      "subject": "city list",
+      "rationale": "verse lists founding cities of Nimrod's kingdom — territorial inventory"
+    }
+  ],
+  "translation": "Na stat bilong kingdom bilong em i Bavel, na Erekh, na Akad, na Kalne, long graun bilong Shinar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/10\/9-12.1792346412829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Na ... i stat"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "stat bilong"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "kingdom bilong em"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "na Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "na Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "na Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:12.829986453Z",
+  "model": "glm-5.3"
+}

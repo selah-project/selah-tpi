@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכפירים",
+      "rationale": "D4b: yangpela laion; wanpela mining i stap — 'ol village' (כפר), tasol hia ol i ol birua olsem animal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש i klostu long 'brathing\/lifesamting', no 'soul'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Hibru i no gat kopula long יחידתי"
+    }
+  ],
+  "translation": "Adonai, hamas tasol yu lukluk? Bekim ⟨את⟩ bel bilong mi i kamap ausait long ol bikpela win nogut bilong ol, i kamap ausait long ol yangpela laion — ⟨em i⟩ wanpela tasol bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/35\/17-20.1792358137859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hamas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yu lukluk"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "bekim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "ol bikpela win nogut bilong ol"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "ol yangpela laion"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "wanpela tasol bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:37.860123411Z",
+  "model": "glm-5.3"
+}

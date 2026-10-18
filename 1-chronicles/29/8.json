@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ol ston bilong olgeta",
+      "rationale": "Hebrew just 'stones'; English versions add 'precious' — value shown by 'bilong olgeta' (costly) rather than supplied adjective."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'upon the hand of' = under the charge of; rendered 'ananit long han bilong'."
+    }
+  ],
+  "translation": "Na ol man ol i painim ⟨את⟩ ol ston bilong olgeta, ol i givim long stoha bilong haus bilong Yahwe, ananit long han bilong Yekiel, man bilong Gerson.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/29\/5-8.1792362259583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "Na ol man ol i painim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ol ston bilong olgeta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ol ston bilong olgeta"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ol i givim"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "long stoha bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "יד",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yekiel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "man bilong Gerson"
+    }
+  ],
+  "timestamp": "2026-10-18T22:24:19.594293509Z",
+  "model": "glm-5.3"
+}

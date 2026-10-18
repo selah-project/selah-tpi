@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כפי אכלו",
+      "rationale": "'olsem maus bilong kaikai bilong em' — Tok Pisin 'olsem namba bilong kaikai bilong em', man bilong olgeta olsem kapsait i kamap."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Dablm tok 'moning long moning' — wanwan de, pasin i stap olgeta taim."
+    }
+  ],
+  "translation": "Na ol i kisim ⟨את⟩ em long moning long moning, wanwan man olsem namba bilong kaikai bilong em; na taim san i hat na, em i melt.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/16\/21-24.1792347658886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ol i kisim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em (mana)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "olsem namba bilong"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kaikai bilong em"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "na taim i hat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "san"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "em i melt"
+    }
+  ],
+  "timestamp": "2026-10-18T18:20:58.886901914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כמעט",
+      "rationale": "'olsem liklik samting' — em i 'bihainim liklik nating', klostu stat yet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man i bagarapim ol",
+      "rationale": "צרים — 'ol i stap long ples liklik \/ trabel', em i ol birua tru"
+    }
+  ],
+  "translation": "Bihainim liklik, bai mi winim ol birua bilong ol, na bai mi senisim han bilong mi long ol man i bagarapim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/13-16.1792358585270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Bihainim liklik"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ol birua bilong ol"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "bai mi winim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ol man i bagarapim ol"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bai mi senisim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:05.271262186Z",
+  "model": "glm-5.3"
+}

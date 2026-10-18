@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כלנו מתים",
+      "rationale": "Lit. 'we-all are dead' — present state of doom, not future 'we shall die'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "'for\/because' rendered as bilong introducing the reason clause."
+    }
+  ],
+  "translation": "Na ol man Mitsrayim i strongim pen long ol man, bilong rausim ol kwiktru long graun; bilong ol i tok: Yumi olgeta i dai pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/33-36.1792347581726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "i strongim pen long"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ol man Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "bilong rausim ol kwiktru"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "bilong salim ol i go"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "yumi olgeta"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "i dai pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:41.727307110Z",
+  "model": "glm-5.3"
+}

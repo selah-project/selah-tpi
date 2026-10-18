@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol lain bilong graun",
+      "rationale": "Ves i makim ol hap graun wanwan — saut, daunbilo, Efraim, Someron, Gilad — na ol i kisim."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה- (article)",
+      "rationale": "Tok Pisin i no gat article; ol article bilong Hibru (הנגב, הגלעד) i no raitim."
+    }
+  ],
+  "translation": "Na ol man bilong saut bai ol i kisim ⟨את⟩ hari bilong Esau, na ol man bilong daunbilo graun bai ol i kisim ⟨את⟩ ol Pelisetim; na bai ol i kisim ⟨את⟩ gaden bilong Efraim na ⟨את⟩ gaden bilong Someron; na Binjamin bai i kisim ⟨את⟩ Gilad.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a5f4f887ba967b26c1bd44adcde380c4937493ecf94d78ffb00ecb06cc7af6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/obadiah\/1\/17-20.1792357322683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "na bai ol i kisim"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ol man bilong saut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari bilong Esau"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "na ol man bilong daunbilo graun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol Pelisetim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisetim"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "na bai ol i kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaden bilong Efraim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gaden bilong Someron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gaden"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Someron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:02.685069996Z",
+  "model": "glm-5.3"
+}

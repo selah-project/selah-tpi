@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 4:2",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man i wokim longwei",
+      "rationale": "יוצר is a participle, 'the one forming'; Tok Pisin needs 'man' to make the potter explicit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "'Eikha' refrain from chapter 1 recurs, framing the lament; kept as 'olsem wanem'."
+    }
+  ],
+  "translation": "Ol pikinini man bilong Tsiyon, ol i gat gutpela nem, ol i skelim wankain olsem gol klia — olsem wanem ol i lukim ol i no moa gutpela long ol pot bilong tanim graun, wok bilong han bilong man i wokim longwei?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/4\/1-4.1792360637342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man bilong"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היקרים",
+      "gloss": "ol i gat gutpela nem"
+    },
+    {
+      "surface": "המסלאים",
+      "gloss": "ol i skelim wankain olsem"
+    },
+    {
+      "surface": "בפז",
+      "gloss": "gol klia"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ol i lukim ol i no moa gutpela"
+    },
+    {
+      "surface": "לנבלי",
+      "gloss": "long ol pot bilong tanim graun"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "man i wokim longwei"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:17.343547931Z",
+  "model": "glm-5.3"
+}

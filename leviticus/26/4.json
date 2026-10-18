@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "predicate marker added after 'givim', required by Tok Pisin grammar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פריו",
+      "rationale": "'fruit' rendered 'kaikai bilong ol' per D4 — one Tok Pisin word per place, no English loan 'frut'"
+    }
+  ],
+  "translation": "Na mi bai givim ⟨i⟩ ran bilong yu ol long taim bilong en, na graun bai givim kaikai bilong en, na ol diwai bilong gaden bai givim kaikai bilong ol;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/1-4.1792348799224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "na mi bai givim"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "ran bilong yu ol"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "long taim bilong en"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "na bai givim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kaikai bilong en"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ol diwai"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bai givim"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "kaikai bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:59.225880570Z",
+  "model": "glm-5.3"
+}

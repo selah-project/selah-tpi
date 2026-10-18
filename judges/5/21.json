@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 5:21",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גרפם",
+      "rationale": "Verb 'to bear off violently' appears only here; 'swept\/rausim' is the standard guess."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קדומים",
+      "rationale": "'Pristine heroes \/ ancient' — hapax; renderings range from 'ancient river' to 'heroic host'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחל...נחל...נחל",
+      "rationale": "Triple repetition of 'wara' frames the verse; force kept by repetition."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש is life-force\/breath, not 'bel'; Tok Pisin 'bel' covers seat of feeling."
+    },
+    {
+      "kind": "crux",
+      "subject": "תדרכי נפשי עז",
+      "rationale": "'My soul, tread down strength' vs 'march on with strength' — verb-object vs adverbial reading."
+    }
+  ],
+  "translation": "Wara bilong Kison i rausim ⟨ol⟩, wara bilong ol man bipo, wara bilong Kison. Bel bilong mi, yu wokabaut wantaim strong!",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c495c5a9bc0eecb29a8893887700a6bb4f9fc7dac109ba6e072515db719f694b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/5\/21-24.1792351045798.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "bilong Kison"
+    },
+    {
+      "surface": "גרפם",
+      "gloss": "i rausim ⟨ol⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "קדומים",
+      "gloss": "bilong ol man bipo"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "bilong Kison"
+    },
+    {
+      "surface": "תדרכי",
+      "gloss": "yu wokabaut"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "wantaim strong"
+    }
+  ],
+  "timestamp": "2026-10-18T19:17:25.799522734Z",
+  "model": "glm-5.3"
+}

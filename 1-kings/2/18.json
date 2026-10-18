@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object pronoun for the king, which Hebrew leaves implicit in עליך."
+    },
+    {
+      "kind": "you",
+      "subject": "Adoniya",
+      "rationale": "Bat Seba answers Adoniya directly."
+    }
+  ],
+  "translation": "Na Bat Seba i tok: Gutpela; mi save tok long king bilong ⟨em⟩ long bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ded455c78e4c92c6b017b88a81b758facc2c54ecd5c15b1c65abbccbfdcd7aa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/17-20.1792352729151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na … i tok"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gutpela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "save tok"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:29.152129710Z",
+  "model": "glm-5.3"
+}

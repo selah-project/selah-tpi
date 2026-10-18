@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kavapatu",
+      "rationale": "הכפרת em i patu bilong ark — 'mercy seat' i tok bilong rol, no shap bilong tok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok bilong witnis",
+      "rationale": "העדת em i ol skru bilong witnis (Tora) we ol i putim insait long ark."
+    }
+  ],
+  "translation": "Na i tekem na i putim ⟨את⟩ tok bilong witnis insait long ark, na i putim ⟨את⟩ ol stik long ark, na i putim ⟨את⟩ kavapatu antap long ark.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/40\/17-20.1792348233485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na i tekem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong witnis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "tok bilong witnis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "insait long"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol stik"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ol stik"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavapatu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kavapatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "long antap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:33.486436425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Avraham",
+      "rationale": "Elohim directly addresses Avraham with the name change command."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרי\/שרה",
+      "rationale": "Name shift Sarai→Sarah, both from שר 'princess'; the slight vowel change marks covenant status, invisible in Tok Pisin."
+    }
+  ],
+  "translation": "Na Elohim i tok long Avraham: Sarai, meri bilong yu — yu no ken kolim ⟨את⟩ nem bilong en Sarai, long wanem Sarah em i nem bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/17\/13-16.1792346514997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "meri bilong yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "yu ken kolim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem bilong en"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nem bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:54.998387251Z",
+  "model": "glm-5.3"
+}

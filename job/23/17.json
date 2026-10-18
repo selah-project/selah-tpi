@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצמתי",
+      "rationale": "'Cut off\/destroyed' (root צמת) vs 'silenced\/destroyed'; KJV\/ASV 'cut off before darkness', BSB 'silenced by the darkness' — Hebrew verb means extirpate, not silence."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפני ... ומפני",
+      "rationale": "'because of the face of' — readings split: 'before the darkness' (temporal) or 'because of darkness' (causal); idiom has both."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כסה אופל",
+      "rationale": "Second reading: 'he (El) covered the gloom from my face' — subject is God, per Genev\/KJV; I read darkness itself as coverer."
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "Job speaks of thick darkness covering him — deliberately opaque closing image of chapter 23."
+    }
+  ],
+  "translation": "Bikos tudak i no bin katim mi i go ausait olgeta, na em i karamapim ⟨את⟩ bikpela tudak long arere bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f888c8a961e6fb43e0866b6f5ac3bbb297d40a5fab46e185d9b3d6cab926d9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/23\/17-17.1792360155688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "katim mi i go ausait olgeta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "long bilong"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tudak"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na long arere bilong"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "karamapim"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "bikpela tudak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:15.688747072Z",
+  "model": "glm-5.3"
+}

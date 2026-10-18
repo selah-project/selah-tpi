@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Hebrew has no conjunction; joined by apposition"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fes",
+      "rationale": "אפים literally 'nose\/nostrils' (dual), rendered as 'face'"
+    }
+  ],
+  "translation": "Na David i kam inap long Ornan, na Ornan i lukluk, na i lukim ⟨את⟩ David, na em i kamap ausait long ples bilong trasilam, na em i pundaun wantaim fes i go long graun, long David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b26c591b4ee2fe6678ef577f603db03d64996dfbd7849537e334a40be68ce653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/21\/21-24.1792362118507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "i lukluk"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na i lukim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i kamap ausait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ples bilong trasilam"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "long David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "wantaim fes"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "i go long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:58.508026410Z",
+  "model": "glm-5.3"
+}

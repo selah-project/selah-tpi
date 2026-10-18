@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shvut (שבות)",
+      "rationale": "'Stet we i lusim pinis' vs 'ol man we ol i holim' (prisoners) vs 'olsem i bin stap wanem bipo' (former prosperity)."
+    },
+    {
+      "kind": "elision",
+      "subject": "ol",
+      "rationale": "בגוי omitted: 'rule among the nations' has no 'over'; rendered without."
+    }
+  ],
+  "translation": "Na bai mi tanimim bek ⟨את⟩ stet we Mitsrayim i lusim pinis, na bai mi salim ol i go bek long graun bilong Patros, long graun bilong ol i kamap long en; na bai ol i stap long en olsem wanpela kingdom bilong daunbelo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/29\/13-16.1792356557411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "na bai mi tanimim bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stet we Mitsrayim i lusim pinis"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "stet we … i lusim pinis"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na bai mi salim ol i go bek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol (manmeri bilong Mitsrayim) long graun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "bilong ol i kamap long en"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na bai ol i stap"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "bilong daunbelo"
+    }
+  ],
+  "timestamp": "2026-10-18T20:49:17.412715511Z",
+  "model": "glm-5.3"
+}

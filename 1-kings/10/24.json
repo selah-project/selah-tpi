@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלבו",
+      "rationale": "לב rendered 'bel' per word-shape rule — seat of thinking and will, not the physical heart."
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta manmeri",
+      "rationale": "Hebrew כל הארץ is 'all the earth' (land as collective); Tok Pisin needs 'manmeri' to personify the seekers."
+    }
+  ],
+  "translation": "Na olgeta manmeri bilong ⟨olgeta⟩ graun ol i painim ⟨את⟩ pes bilong Shelomo, bilong harim ⟨את⟩ save bilong em, we Elohim i putim long bel bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5f728de0c6fd16c5177883f32b3f7c392303070f915dd2313f65a93adfbce50a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/10\/21-24.1792352853434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta manmeri bilong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ol i painim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pes bilong Shelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "bilong harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "save bilong em"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "save bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "long bel bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:47:33.435474309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man bilong namel-tupela",
+      "rationale": "אישׁ הבינים is dual of בין: the man of the between-two, the space between the two armies (v.3) — not 'champion'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "six cubits and a span",
+      "rationale": "Goliath's height measured: six cubits and a span."
+    }
+  ],
+  "translation": "Na wanpela man bilong namel-tupela i kamap ausait long ol kamp bilong ol Peliset, Goliat nem bilong en, man bilong Gat; tall bilong en em i sikis kube na wanpela span.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/1-4.1792351785772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Na … i kamap ausait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bilong namel-tupela"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "ausait long ol kamp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bilong ol Peliset"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong en"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "man bilong Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tall bilong en"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kube"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "na wanpela span"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:45.773958298Z",
+  "model": "glm-5.3"
+}

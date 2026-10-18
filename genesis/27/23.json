@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i man",
+      "rationale": "Hebrew suffix on הכירו already marks the object; Tok Pisin needs the pronoun named"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שערת",
+      "rationale": "Read as 'hairy' describing the hands (shaggy like a he-goat), placed after the whole noun phrase"
+    }
+  ],
+  "translation": "Na em i no save long lukluk ⟨i⟩ man, long wanem ol han bilong em ol i olsem ol han bilong Esav, brata bilong en, ol han i gat gras; olsem na em i blessim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb0279a7e082447f48e5f5d6db8f98c25efd0ff7074f3714f7d24221ff715212",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/27\/21-24.1792346845774.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na i no"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "save long lukluk long em"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i olsem"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ol han bilong en"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "olsem ol han bilong"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "i gat gras"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "olsem na em i blessim em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:25.775442167Z",
+  "model": "glm-5.3"
+}

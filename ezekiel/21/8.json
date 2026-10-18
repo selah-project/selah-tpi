@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 21:8",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנני אליך",
+      "rationale": "Literally 'behold, I unto you'; context is hostile, so 'mi i stap agensim yu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Distributed sense of cutting off both righteous and wicked supplied as 'olgeta'."
+    },
+    {
+      "kind": "you",
+      "subject": "graun bilong Yisrael",
+      "rationale": "The land is addressed as a person — second-person 'yu' throughout the speech."
+    }
+  ],
+  "translation": "Na yu tok long graun bilong Yisrael: Olsem Yahwe i tok: Lukim, mi i stap agensim yu, na mi bai pulim bainat bilong mi long tupela hus bilong en, na mi bai katim i go ausait long yu olgeta — ol man stret na ol man rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/21\/5-8.1792356315220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Na yu tok"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lukim, mi i stap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "agensim yu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na mi bai pulim … i kam ausait"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "bainat bilong mi"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "long tupela hus bilong en"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na mi bai katim i go ausait"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ol man stret"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "na ol man rong"
+    }
+  ],
+  "timestamp": "2026-10-18T20:45:15.221171392Z",
+  "model": "glm-5.3"
+}

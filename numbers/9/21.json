@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויש אשר",
+      "rationale": "'Na i gat taim olsem' renders Hebrew 'there was [a time] when', a distributive idiom for repeated occasions."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יומם ולילה",
+      "rationale": "Read as 'day and night' (duration) rather than 'daily'; context is cloud's lingering, either reading possible."
+    }
+  ],
+  "translation": "Na i gat taim olsem: klaut i stap long apinun i go inap long moning, na long moning klaut i go antap, na ol i go; o klaut i stap san na nait, na klaut i go antap, na ol i go.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/9\/21-23.1792349086228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "na i gat taim olsem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "long apinun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "na ol i go"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "san"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na nait"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "na i go antap"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "na ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T18:44:46.229617390Z",
+  "model": "glm-5.3"
+}

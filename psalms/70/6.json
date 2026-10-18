@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew pronoun אתה fronted for emphasis; TP needs bracketed pronoun for the 'you are' sense"
+    },
+    {
+      "kind": "elision",
+      "subject": "harim Gutpela tok",
+      "rationale": "gloss line included an extra imperative not in the Hebrew; the translation proper omits it"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim\/Yahwe",
+      "rationale": "direct plea to God: 'hurry to me', 'do not delay'"
+    }
+  ],
+  "translation": "Na mi, mi man lapun meri man nogut tru, mi no gat samting; Elohim, harim Gutpela tok na stat kwik kwik kam long mi; yu ⟨em⟩ help bilong mi na man i pulim mi auting long birua; yu ⟨em⟩, Yahwe, no ken streim taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/70\/5-6.1792358425464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "man nogut tru, mi no gat samting"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na man i no gat moa samting"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "stat kwik kwik kam long mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "help bilong mi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na man i pulim mi auting"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu ⟨em⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "streim taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:25.465444089Z",
+  "model": "glm-5.3"
+}

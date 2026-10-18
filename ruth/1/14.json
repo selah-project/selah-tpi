@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the pronoun em; Hebrew has only the attached בה."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערפה \/ דבקה",
+      "rationale": "Contrast: Orpah kisses (departs) but Ruth clings — verb pair frames the whole book."
+    }
+  ],
+  "translation": "Na ol tupela i singaut klaun na kraikrai gen, na Orpa i kisim han bilong hagai bilong en, tasol Rut i stap klos wantaim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/1\/13-16.1792360541274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "na … i singaut"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "klaun bilong ol"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "na ol i kraikrai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "na … i kisim han"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpa"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "bilong hagai bilong en"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "tasol Rut"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "i stap klos"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wantaim ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:41.275551438Z",
+  "model": "glm-5.3"
+}

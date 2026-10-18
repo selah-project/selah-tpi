@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "double particle 'but rather' collapsed to single 'tasol'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nau",
+      "rationale": "participle באים 'coming' marked as present process"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "oracle of judgment addressed to the northern kingdom"
+    },
+    {
+      "kind": "mystery",
+      "subject": "famine of hearing the word",
+      "rationale": "withdrawn revelation, a deprivation beyond food"
+    }
+  ],
+  "translation": "Lukim, ol de i kamap nau, Adonai Yahwe i tok: bai mi salim ⟨את⟩ hangre i go long graun — i no hangre long bret, na i no hamamas long wara, tasol hangre long harim ⟨את⟩ ol tok bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "025b1a8d7ebbff88f2357d09c2df941dd4ab121598082356b7c63352cfbc660a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/8\/10-11.1792363323945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "באים",
+      "gloss": "i kamap nau"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "bai mi salim"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hangre"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i go long graun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hangre"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "long bret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "hamamas"
+    },
+    {
+      "surface": "למים",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "long harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok bilong Yahwe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:03.946676629Z",
+  "model": "glm-5.3"
+}

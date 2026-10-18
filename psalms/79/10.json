@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim bilong ol",
+      "rationale": "אלהיהם hia em i tok bilong ol gentail long ol god bilong ol — Elohim i stap, i no 'God'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "paspas",
+      "rationale": "נקמת (nekama) — pe\/paspas bilong blut, literal 'avengement of blood'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Krai bilong ol wokman i go long Yahwe yet — ves 9 i kolim 'Elohim bilong olsem mipela i kamap Gutpela"
+    }
+  ],
+  "translation": "Bilong wanem ol lain i mas tok: We, Elohim bilong ol i stap? Yu mas mekim ol i save long ai bilong yumi, olsem paspas bilong blut bilong ol wokman bilong yu, we ol i kapsaitim i go daun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1378b9d7e1f1a10e84e05e2d709ab7988c83612101981698b6600fa504e2a98f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/10-11.1792363413952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Bilong wanem"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ol i mas tok"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ol lain"
+    },
+    {
+      "surface": "איה",
+      "gloss": "We, i stap we?"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim bilong ol"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yu mas mekim ⟨ol i⟩ save"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "long ol lain ⟨olgeta⟩"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "long ai bilong yumi"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "paspas"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blut"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bilong ol wokman bilong yu"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "we ol i kapsaitim i go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:33.953029379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "Root play davar (word) and dibber (spoke) repeated three times; Tok Pisin 'tok' keeps some of the echo."
+    },
+    {
+      "kind": "addition",
+      "subject": "pinis",
+      "rationale": "Hebrew בא 'came' rendered with completive 'pinis' to convey fulfilment, not present in the Hebrew."
+    }
+  ],
+  "translation": "Wanpela tok i no lus long olgeta gutpela tok we Yahwe i tokim long haus bilong Yisrael — olgeta i kamap pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5148a3fb9e6d8a56047b5597e3c76c388f6d602d3641df5f8ae005d37aeaac99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/21\/45-45.1792350826837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "i lus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanpela tok"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:46.837750667Z",
+  "model": "glm-5.3"
+}

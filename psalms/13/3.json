@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש is throat\/breath\/life-force, not 'soul'; rendered as 'life'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Tok Pisin predicate marker required; Hebrew has no verb in 'sorrow in my heart'."
+    }
+  ],
+  "translation": "Taim hamas mi putim tingting long laip bilong mi, pen i stap long bel bilong mi olgeta de — taim hamas birua bilong mi i go antap long mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/13\/1-4.1792357941999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "taim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hamas"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi putim"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "tingting"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "long laip bilong mi"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "pen"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "long bel bilong mi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "olgeta de"
+    },
+    {
+      "surface": "עד",
+      "gloss": "taim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hamas"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "birua bilong mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:22.000550659Z",
+  "model": "glm-5.3"
+}

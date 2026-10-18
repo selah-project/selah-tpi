@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כבוד",
+      "rationale": "כבוד em i 'weten\/traipela nem', tasol ol tanim tok i usim 'bel\/tong' — mi save senisim olsem 'kaikai bilong man' i no stret; stret tok: nem bilong mi"
+    },
+    {
+      "kind": "addition",
+      "subject": "pronoun",
+      "rationale": "Hebrew i no gat pronaun bilong 'my glory'; Tok Pisin i nidim ⟨em⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Devine man i toktok stret long Yahwe, Elohim bilong en"
+    }
+  ],
+  "translation": "Bilong dispela, olsem ⟨em⟩ i save senisim ⟨i⟩ kaikai bilong olgeta man bilong graun, olsem olgeta heven i save givim kaikai long graun — long taim ol i givim ⟨i⟩ ofa bilong paia long Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/30\/13-13.1792358028780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "⟨em⟩ i save senisim ⟨i⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaikai bilong olgeta man bilong graun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "olgeta heven i save givim kaikai long graun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": ""
+    },
+    {
+      "surface": "אודך",
+      "gloss": "long taim ol i givim ⟨i⟩ ofa bilong paia"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:48.781410362Z",
+  "model": "glm-5.3"
+}

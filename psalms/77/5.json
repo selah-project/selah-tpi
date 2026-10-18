@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yu⟩",
+      "rationale": "Tok Pisin i nidim pronoun; Hibru i stap long verb finis yet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol lid bilong ai",
+      "rationale": "שמרות i tok 'samting ol i lukautim' — men i tok 'lid bilong ai' tasol"
+    },
+    {
+      "kind": "you",
+      "subject": "bilong God",
+      "rationale": "Vers i toktok long Yahwe long namba tu man"
+    }
+  ],
+  "translation": "⟨Yu⟩ holim pas ol lid bilong ai bilong mi; mi ken bagarap tru, na mi no inap tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/5-8.1792358516874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "⟨yu⟩ holim pas"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ol lid bilong ai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "mi ken bagarap tru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "inap tok"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:56.875015742Z",
+  "model": "glm-5.3"
+}

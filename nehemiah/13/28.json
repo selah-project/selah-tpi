@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 13:28",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "marit narapela",
+      "rationale": "חתן is 'son-in-law\/relative by marriage', rendered with Tok Pisin marriage-kinship phrase"
+    },
+    {
+      "kind": "addition",
+      "subject": "wanpela",
+      "rationale": "Hebrew lacks 'one of' explicitly; Tok Pisin needs wanpela to make the partitive clear"
+    }
+  ],
+  "translation": "Na wanpela long ol pikinini man bilong Yoyada, pikinini man bilong Elyasiv, pris bikpela tru, em i bin marit narapela long Sanbalat, man bilong Horon; olsem na mi ranim em i ranawe i go long hap we mi stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a2a6e69ae63d6e9a00f7eed51194c429117e2c8056e5fec633c32686be2fa2a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/13\/25-28.1792361806068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "wanpela long ol pikinini man bilong"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyasiv"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "bikpela tru"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "marit narapela"
+    },
+    {
+      "surface": "לסנבלט",
+      "gloss": "long Sanbalat"
+    },
+    {
+      "surface": "החרני",
+      "gloss": "man bilong Horon"
+    },
+    {
+      "surface": "ואבריחהו",
+      "gloss": "mi ranim em i ranawe"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "i go long hap we mi stap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:16:46.069840819Z",
+  "model": "glm-5.3"
+}

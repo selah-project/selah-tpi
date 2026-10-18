@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין המלך יוכל אתכם דבר",
+      "rationale": "Heb idiom 'the king cannot ⟨את⟩ you in a word' = king cannot oppose you in anything"
+    },
+    {
+      "kind": "you",
+      "subject": "to the princes",
+      "rationale": "Zedekiah addresses the princes with plural 'yupela'"
+    }
+  ],
+  "translation": "Na king Tsidkiyahu i tok: Lukim, em i stap long han bilong yupela, long wanem king i no inap ⟨את⟩ winim yupela long wanem samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/38\/5-8.1792355647399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "long han bilong yupela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ winim yupela",
+      "marks": "winim yupela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "long wanem samting"
+    }
+  ],
+  "timestamp": "2026-10-18T20:34:07.400609793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kaikai bilong gelup",
+      "rationale": "לשחוק עשים לחם: samboi i tok 'kaikai i bilong gelup' (Geneva), samboi i tok 'ol i wokim kaikai bilong pati' (KJV) — לחם i no pati."
+    },
+    {
+      "kind": "crux",
+      "subject": "i bekim",
+      "rationale": "יענה: 'i bekim' o 'i wok long' — silva i ken skelim olgeta samting."
+    },
+    {
+      "kind": "substitution",
+      "subject": "silva",
+      "rationale": "הכסף em i silva, tasol long hia em i mani bilong baim samting."
+    }
+  ],
+  "translation": "Ol i wokim ⟨את⟩ kaikai bilong gelup, na wain i givim amamas long laip, na silva i bekim ⟨את⟩ olgeta samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8bbefb54cf8bca2c909e837c0804b8154bd288bf4be7c36f51541b272905a800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/10\/18-19.1792363451050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "bilong gelup"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na wain"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "i givim amamas"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "long laip"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "na silva"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "i bekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    }
+  ],
+  "timestamp": "2026-10-18T22:44:11.051526941Z",
+  "model": "glm-5.3"
+}

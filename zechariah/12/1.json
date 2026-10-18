@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bep",
+      "rationale": "משא em i 'bep' o 'traut'; 'burden' i nogat long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i ruak — no 'spirit' tasol"
+    }
+  ],
+  "translation": "Bep bilong tok bilong Yahwe long graun bilong Yisrael: Yahwe i tok — em i spanim ol heven, i setim graun, i wokim ruak bilong man insait long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/12\/1-4.1792357747327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bep"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "spanim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol heven"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "i setim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "insait long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:07.328225479Z",
+  "model": "glm-5.3"
+}

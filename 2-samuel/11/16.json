@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשמור אל העיר",
+      "rationale": "'kept watch upon the city' (KJV\/JPS) vs 'besieged the city' (Geneva\/BSB) — שמר can mean guard\/watch or besiege."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man strongpela",
+      "rationale": "אנשי חיל 'men of valor' — likely the enemy's strongest defenders, hence Uriah's placement there."
+    }
+  ],
+  "translation": "Na taim Yoab i wokim skru long sindaun hap long namba bilong taun, em i putim ⟨את⟩ Uria long ples we em i save long ol man strongpela i stap long hap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c71a5eb2f7834d7952f882dec82f1fe2ba7fdd49a5fae37ef9b8fcc9d3b3670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/11\/13-16.1792352322734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "taim i wokim skru long sindaun hap"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long namba bilong"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na i putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "em i save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strongpela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i stap long hap"
+    }
+  ],
+  "timestamp": "2026-10-18T19:38:42.736647823Z",
+  "model": "glm-5.3"
+}

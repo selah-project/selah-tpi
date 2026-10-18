@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 32:22",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפי",
+      "rationale": "'Long nus bilong mi' — Hibru i tokim kros olsem smel bilong nus; JPS i holim piksa, ol narapela i senisim long 'bel kros'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותלהט",
+      "rationale": "Tok i minstim 'lek-im' na 'blaes-im'; mi usim 'kukim', piksa bilong lek bilong paia i lus liklik."
+    },
+    {
+      "kind": "addition",
+      "subject": "long daunbilo",
+      "rationale": "Tupela tok bilong Tok Pisin long wanpela tok Hibru תחתית (daunbilo tru)."
+    }
+  ],
+  "translation": "Long wanem, paia i kirap long nus bilong mi, na i kaunap inap long Seol long daunbilo, na i kaikaiim ⟨את⟩ graun na ol kaikai bilong en, na i kukim ol fandesen bilong ol maunten.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7490b22d91fa664ebbca90591b618e34fd557e3d1f38235291872450da003c32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/32\/21-24.1792350402869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "long nus bilong mi"
+    },
+    {
+      "surface": "ותיקד",
+      "gloss": "na i kaunap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "long daunbilo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na i kaikaiim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun",
+      "marks": null
+    },
+    {
+      "surface": "ויבלה",
+      "gloss": "na ol kaikai bilong en"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "na i kukim"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "ol fandesen bilong"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:42.870762689Z",
+  "model": "glm-5.3"
+}

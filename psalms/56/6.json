@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "senisim",
+      "rationale": "עצב: 'wokim pen' (Geneva), 'turim nau' (KJV), 'bagarapim wok bilong mi' (JPS) — fodda i hat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי \/ דברו",
+      "rationale": "Ves 5 i tok 'tok bilong en', ves 6 i tok 'tok bilong mi' — wankain tok דבר i kamap tupela taim"
+    }
+  ],
+  "translation": "Olgeta de ol i senisim tok bilong mi; olgeta tingting bilong ol i stap long mi long wokim olgeta samting nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ae95ccc88746d5c2921173c31e8b0415f8256af64d16cf42d08fc5b0a0e51c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/56\/5-6.1792363352112.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ol i senisim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "tingting bilong ol"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "long samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:32.113327909Z",
+  "model": "glm-5.3"
+}

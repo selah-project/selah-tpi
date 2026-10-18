@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ושחרו",
+      "rationale": "Literally 'to dawn, be early' — rendered as rising early to seek; picture of dawn-seeking kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Object pronoun of ודרשוהו supplied in brackets; suffix -הו already marks it"
+    }
+  ],
+  "translation": "Taim em i kilim ol i dai, ol i painim ⟨em⟩; na ol i kam bek, na ol i kirap stretpela long painim El.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/33-36.1792358576243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "taim"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "em i kilim ol i dai"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ol i painim em"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na ol i kam bek"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ol i kirap stretpela long painim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:56.243917646Z",
+  "model": "glm-5.3"
+}

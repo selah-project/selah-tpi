@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kaporot",
+      "rationale": "כפרת i lid bilong Ark; hap tok 'Kaporot' i holim nois bilong Hibru, i no 'mercy seat'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tupela ama na haf",
+      "rationale": "Ol mak bilong Kaporot: 2.5 ama long, 1.5 ama wed."
+    }
+  ],
+  "translation": "Na yu wokim ⟨את⟩ Kaporot bilong gol klia, tupela ama na haf bilong olgeta long en, na wanpela ama na haf bilong wed bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/17-20.1792347885369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "Kaporot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "klia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "tupela ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na haf"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na wanpela ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na haf"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "wed bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:45.370324251Z",
+  "model": "glm-5.3"
+}

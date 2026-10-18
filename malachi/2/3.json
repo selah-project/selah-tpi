@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזרע",
+      "rationale": "'Seed' of the priests: offspring (KJV) vs grain offering (JPS 'the seed for your hurt'); rendered as offspring."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשא אתכם אליו",
+      "rationale": "'It will take you away with it' (KJV\/ASV) vs 'you shall be taken away to it' — the dung itself removes them; subject unexpressed in Hebrew."
+    },
+    {
+      "kind": "substitution",
+      "subject": "盛会",
+      "rationale": "חג is a festival; the priests' festival portions are meant — gloss should read 'fesen' (Tok Pisin) in place of the stray glyph."
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "Direct warning continued."
+    }
+  ],
+  "translation": "Lukim, mi stap long skruvim long yupela ⟨את⟩ pikinini bilong yupela, na bai mi skelim autim sit antap long pes bilong yupela — sit bilong ol盛会 bilong yupela — na em bai karem yupela i go long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/malachi\/2\/1-4.1792357778893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "lukim, mi stap"
+    },
+    {
+      "surface": "גער",
+      "gloss": "long skruvim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini bilong yupela"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "pikinini bilong yupela"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "na bai mi skelim autim"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "pes bilong yupela"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "sit"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "bilong ol盛会 bilong yupela"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na em bai karem i go"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:09:38.895030009Z",
+  "model": "glm-5.3"
+}

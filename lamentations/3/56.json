@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "win bilong mi",
+      "rationale": "לרוחתי is 'my relief\/my breathing (for relief)', rendered as 'breath' after KJV; the relief sense is softened."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct plea addressed to God — imperative 'do not hide'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative plea",
+      "rationale": "Deprecative negative אל with jussive summons God to keep listening."
+    }
+  ],
+  "translation": "Yu harim tok bilong mi; yu no ken haitim ear bilong yu long win bilong mi, long singaut bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b1a95eaa7da2d8359f2e549e92b042dcab6a18a9537568d9a8436e45db1a7032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/3\/53-56.1792360617935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yu no ken"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "haitim"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ear bilong yu"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "long win bilong mi"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "long singaut bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:57.936602499Z",
+  "model": "glm-5.3"
+}

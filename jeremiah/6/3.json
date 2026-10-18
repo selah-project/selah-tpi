@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "tupela i no",
+      "rationale": "stray fragment from drafting; not part of the rendering"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grisim",
+      "rationale": "רעו 'shepherd\/pasture' rendered as 'feed each his hand', i.e. each devours his portion"
+    },
+    {
+      "kind": "secret",
+      "subject": "ol wasman bilong ol sipsip",
+      "rationale": "enemy armies imaged as shepherds encamping around Jerusalem"
+    }
+  ],
+  "translation": "Long en ol wasman bilong ol sipsip, tupela i no — olgeta wantaim ol flok bilong ol, i ken kam; ol i ken setimapim ol haus sel long raun long em; wanwan man i ken grisim ⟨את⟩ han bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/6\/1-4.1792354994393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "i ken kam"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ol wasman bilong ol sipsip"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "wantaim ol flok bilong ol"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "i ken setimapim"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ol haus sel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "long raun"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "i ken grisim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong en"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T20:23:14.394462687Z",
+  "model": "glm-5.3"
+}

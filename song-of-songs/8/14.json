@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/עפר",
+      "rationale": "עפר here is a fawn (from its dusty color), same consonants as 'dust' — the picture is lost in TPI."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dia",
+      "rationale": "צבי can be 'gazelle' or 'splendor\/roebuck'; TPI uses one word 'dia' for both צבי and אילים, so the Hebrew's two distinct deer words collapse."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ברח",
+      "rationale": "Closing imperative of the book: 'Flee, run away' — a summons echoing Song 2:17."
+    }
+  ],
+  "translation": "Ranawe, man bilong laik bilong mi, na yu save olsem dia, o olsem pikinini dia, long ol maunten bilong ol gutpela smel spais.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/8\/13-14.1792360504781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ranawe"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "man bilong laik bilong mi"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "na yu save olsem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "dia"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "pikinini dia"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "dia man"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ol gutpela smel spais"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:04.782878485Z",
+  "model": "glm-5.3"
+}

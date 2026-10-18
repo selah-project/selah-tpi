@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "no gat klos",
+      "rationale": "עירם (nudity) rendered Tok Pisin-wise; Hebrew word appears only in Gen 3."
+    }
+  ],
+  "translation": "Na em i tok: Mi harim ⟨את⟩ nois bilong yu long gaden, na mi scar long em, long wanem mi no gat klos, olsem na mi kirap na hide.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/9-12.1792346245806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nois bilong yu"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "nois bilong yu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi harim"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "na mi scar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "mi no gat klos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "olsem na mi kirap na hide"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:25.807629381Z",
+  "model": "glm-5.3"
+}

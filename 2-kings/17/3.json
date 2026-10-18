@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "Here מנחה is tribute paid to a foreign king, not a grain offering; the one Hebrew word covers both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wokman",
+      "rationale": "עבד here means vassal — political subjection, not domestic slavery."
+    }
+  ],
+  "translation": "Shalmanesar, king bilong Ashur, i kamap antap long em, na Hosea i kamap wokman bilong en, na em i givim minkha long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/1-4.1792353619208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "antap long em"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Shalmanesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "bilong Ashur"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong en"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hosea"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wokman"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na em i givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:19.209057550Z",
+  "model": "glm-5.3"
+}

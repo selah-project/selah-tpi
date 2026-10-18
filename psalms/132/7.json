@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשתחוה",
+      "rationale": "'go daun na baimbel' — Hebgru tok i 'prostat', Tok Pisin i olsem pasin bilong lotu long graun"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yumi",
+      "rationale": "cohortaliv tok — yumi (miplela ol) i go long haus bilong Yahwe"
+    }
+  ],
+  "translation": "Yumi go insait long ol Miskan bilong en; yumi go daun na baimbel long stul bilong lek bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/5-8.1792359203898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "yumi go insait"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "long ol Miskan bilong en"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "yumi go daun na baimbel"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "long stul bilong lek"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:23.899407634Z",
+  "model": "glm-5.3"
+}

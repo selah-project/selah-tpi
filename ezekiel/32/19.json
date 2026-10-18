@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "yu pas bilong husat long gutpela luk",
+      "rationale": "Hebrew idiom 'than whom are you pleasant?', mock-question to Egypt"
+    },
+    {
+      "kind": "you",
+      "subject": "ol man i no katim skin",
+      "rationale": "imperatives addressed to Egypt (feminine singular)"
+    }
+  ],
+  "translation": "Yu pas bilong husat long gutpela luk? I go daun, na slip wantaim ⟨את⟩ ol man i no katim skin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/32\/17-20.1792356609823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "bilong husat"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "yu pas long gutpela luk"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "na slip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i no katim skin"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ol man i no katim skin"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:09.825032336Z",
+  "model": "glm-5.3"
+}

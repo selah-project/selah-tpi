@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 16:2",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tupela handet na faifti",
+      "rationale": "Counting of the rebels: 250 men."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "Hebrew number lacks a head noun; Tok Pisin requires 'man' after the count."
+    }
+  ],
+  "translation": "Na ol i kirap na sanap pastaim long Mose, wantaim ol man bilong ol pikinini bilong Yisrael, tupela handet na faifti man — ol nesen bilong ⟨ol⟩ eda, ol man ol i singautim long ol samen bilong olgeta, ol man bilong nem.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/16\/1-4.1792349259321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "na ol i kirap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "wantaim ol man"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bilong ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tupela handet"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ol nesen bilong"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "eda"
+    },
+    {
+      "surface": "קראי",
+      "gloss": "ol man ol i singautim"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "long ol sammen bilong olgeta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:39.322814001Z",
+  "model": "glm-5.3"
+}

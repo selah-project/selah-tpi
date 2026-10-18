@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Sapos subjekt (Mose) i no stap long Hibru, ⟨ol⟩ — man i rit i no save husat i bringim"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "KJV\/JPS 'portion of the anointing' vs YLT 'anointing' — משחת i min kapsaitim oil o hap i kam long kapsaitim oil"
+    }
+  ],
+  "translation": "Dispela em i hap bilong kapsaitim oil bilong Aharon na hap bilong kapsaitim oil bilong ol pikinini bilong em, long ol ofering bilong paia bilong Yahwe, long de ol i bringim ⟨את⟩ ol bilong wokim olsem pris long Yahwe.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/33-36.1792348314075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "hap bilong kapsaitim oil bilong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na hap bilong kapsaitim oil bilong"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ol pikinini bilong em"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "long ol ofering bilong paia bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ol i bringim ol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ol bilong wokim olsem pris"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bilong wokim olsem pris"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:54.076521086Z",
+  "model": "glm-5.3"
+}

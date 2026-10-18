@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב\/לבב i tanim long bel (D4), i no hat — bel i holim tingting na laik."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעלל",
+      "rationale": "'wokim gutpela samting' o 'bagarapim ol' — ol tanim i no wanbel; em i tok long ol gutpela pasin Yahwe i wokim long Mitsrayim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד",
+      "rationale": "wankain rod bilong verse 5 (kavod) — bel i hevi, han i lait;连接 i lus long Tok Pisin."
+    }
+  ],
+  "translation": "Na bilong wanem yupela i wokim ⟨את⟩ bel bilong yupela i kamap hevi, olsem Mitsrayim na Paro i wokim ⟨את⟩ bel bilong ol? I no olsem, taim em i wokim olsem man i laikim long ol, ol i salim ol man i go, na ol i go?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/6\/5-8.1792351575927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "yupela i wokim hevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong yupela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "bel bilong yupela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "i wokim hevi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "na Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong ol"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bel bilong ol"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "i no olsem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "em i wokim olsem man i laikim long"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ol i salim ol"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:15.929231001Z",
+  "model": "glm-5.3"
+}

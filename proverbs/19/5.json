@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יפיח",
+      "rationale": "'pufim aut' — Hebrew literally 'to puff\/blow out', i.e. breathe forth lies; picture of breath kept"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallel halves",
+      "rationale": "Verse 5 repeats the structure of 19:9 almost word for word — an intentional refrain-like repetition"
+    }
+  ],
+  "translation": "Man i autim ol giaman tok, em i no ken kamap klia; na man i pufim aut ol giaman tok, em i no ken ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/19\/5-8.1792359656517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "man i autim"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ol giaman tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "i ken kamap klia"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "na man i pufim aut"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ol giaman tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "i ken ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:56.517652499Z",
+  "model": "glm-5.3"
+}

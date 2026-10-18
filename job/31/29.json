@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 31:29",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "מצאו has no explicit object pronoun; Tok Pisin needs ⟨em⟩ to name the enemy"
+    },
+    {
+      "kind": "substitution",
+      "subject": "samting nogut",
+      "rationale": "רע is bad\/evil as noun or adjective; rendered as noun phrase here"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתעוררתי",
+      "rationale": "hitpa'el of עורר: 'stirred myself\/exulted' vs literal 'woke myself'"
+    }
+  ],
+  "translation": "Sapos mi hamamas long bagarap bilong man i birua long mi, o sapos mi kirap strong taim olgeta samting nogut i painim ⟨em⟩ —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e6cc594f7ee3be3defcec783a65169fc297ee1fe60f2886bb09280cf9ef6d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/31\/29-32.1792360263651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "mi hamamas"
+    },
+    {
+      "surface": "בפיד",
+      "gloss": "long bagarap"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "bilong man i birua long mi"
+    },
+    {
+      "surface": "והתעוררתי",
+      "gloss": "o mi kirap strong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "samting nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:03.651694630Z",
+  "model": "glm-5.3"
+}

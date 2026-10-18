@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kapsaitim",
+      "rationale": "מול i tok 'katim sot', pasin bilong katim skin nating; Tok Pisin i no gat wanpela tok, olsem 'kapsaitim skin'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tetinpela yia",
+      "rationale": "Namba bilong yia bilong Yishmael i stap long hap, i makim em"
+    }
+  ],
+  "translation": "Na Yishmael, pikinini bilong en, em i pikinini man bilong tetinpela yia taim ol i kapsaitim ⟨את⟩ skin bilong skin nating long em;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/17\/25-27.1792346491432.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Na Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "taim ol i kapsaitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skin bilong skin nating long em"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "skin"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "skin nating bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:31.433282472Z",
+  "model": "glm-5.3"
+}

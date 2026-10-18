@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel heait",
+      "rationale": "Hebrew חמה is literally 'heat\/burning' — the king's fury as physical heat that cools."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכין\/תלה",
+      "rationale": "Haman 'prepared' (hekhin) the tree and is hanged on it himself — measure-for-measure irony, preserved by the repetition."
+    }
+  ],
+  "translation": "Na ol i hangim ⟨את⟩ Haman long diwai we em i redim bilong Mordekai, na bel heait bilong king i kalapaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/7\/9-10.1792360948969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "na ol i hangim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "diwai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "em i redim"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "bilong Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "na bel heait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "i kalapaut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:28.970906185Z",
+  "model": "glm-5.3"
+}

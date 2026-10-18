@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "painim",
+      "rationale": "דרשׁ is to seek\/inquire after (as oracle or counsel); painim captures seek, not find"
+    },
+    {
+      "kind": "you",
+      "subject": "ol manmeri bilong Yisrael",
+      "rationale": "The verse indicts Israel directly for not returning to the one striking them"
+    }
+  ],
+  "translation": "Na ol manmeri i no tanim bek long em i paitim ol, na ol i no painim ⟨את⟩ Yahwe Tsebaot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/9\/9-12.1792353998531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "na ol manmeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tanim bek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "long"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "em i paitim ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ol i painim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:38.533623275Z",
+  "model": "glm-5.3"
+}

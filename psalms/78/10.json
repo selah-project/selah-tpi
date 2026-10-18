@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית is a compact made by passing between pieces of flesh; 'kontrak' keeps the binding-agreement shape."
+    }
+  ],
+  "translation": "Ol i no holim gut ⟨את⟩ kontrak bilong Elohim, na long Tora bilong em ol i refusim long wokabaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/9-12.1792358547101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ol i holim gut"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na long Tora bilong em"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ol i refusim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "long wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:27.102027348Z",
+  "model": "glm-5.3"
+}

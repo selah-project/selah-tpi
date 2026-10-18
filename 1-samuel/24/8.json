@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ושסע",
+      "rationale": "שׂסע i stap long Tanakh long dispela ples tasol — piksa bilong brukim\/sotim, olsem ol i brukim man long tok."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קום...קם",
+      "rationale": "Ol i no inap KIRAP genst Saul, tasol Saul i KIRAP — smol ironi long tok Hibru."
+    }
+  ],
+  "translation": "Na David i brukim ⟨את⟩ ol man bilong em long ol tok, na em i no larim ol i kirap genst Saul; na Saul i kirap, em i kamap ausait long kev, na em i wokabaut i go long rot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/24\/5-8.1792351921007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "i brukim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man bilong em"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ol man bilong em"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "long ol tok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "larim ol"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "genst"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Saul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "i kirap"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "em i kamap ausait long kev"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na em i wokabaut i go"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "long rot"
+    }
+  ],
+  "timestamp": "2026-10-18T19:32:01.008605911Z",
+  "model": "glm-5.3"
+}

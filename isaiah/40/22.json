@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Hibru i no gat nem long stat — participel i go ausait long ves 21."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חוג",
+      "rationale": "Tok 'raunbel' (circle) i kamap wanpela taim tasol long Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hap mararsut",
+      "rationale": "כדק em i 'thin klos' — hap finpela mararsut olsem del."
+    }
+  ],
+  "translation": "⟨Em⟩ i sindaun long antap long raunbel bilong graun, na ol man i stap long en ol i olsem ol locust; em i spredim heven olsem hap mararsut, na em i opim ol olsem sel bilong slip insait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/40\/21-24.1792354480142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "sindaun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "raunbel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "na ol man i stap long en"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "olsem ol locust"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "em i spredim"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "olsem hap mararsut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "na em i opim ol"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "olsem sel"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bilong slip insait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:14:40.143505450Z",
+  "model": "glm-5.3"
+}

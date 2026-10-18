@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kapsaitim oil long",
+      "rationale": "וימשחו — Masiak tok: man ol i kapsaitim oil long em; Tok Pisin i holim piksa bilong oil"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר קברו",
+      "rationale": "Hibru i tok 'ol i bin karim', Tok Pisin i no tok 'olsem ol i'; 'ol' i holim אשר"
+    }
+  ],
+  "translation": "Na ol man bilong Yuda i kam, na ol i kapsaitim oil long David long en, olsem king long haus bilong Yuda. Na ol i stori long David, i tok: Ol man bilong Yaves-Gilead, ol i bin karim Saul.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/2\/1-4.1792352146244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Na ol i kam"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "na ol i kapsaitim oil long"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "olsem king"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "Na ol i stori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "long David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "i bin karim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-10-18T19:35:46.246311504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש is throat\/breath\/life-force, not 'soul'; Tok Pisin bel covers inner life"
+    },
+    {
+      "kind": "crux",
+      "subject": "balus bilong yu",
+      "rationale": "תורך 'your turtledove' (term of endearment for Israel) vs KJV 'multitude of the wicked' from a different root"
+    },
+    {
+      "kind": "addition",
+      "subject": "bel bilong",
+      "rationale": "second נפש omitted in Hebrew after חית ענייך; Tok Pisin repeats the noun for clarity"
+    }
+  ],
+  "translation": "No ken givim bel bilong balus bilong yu long ol animal bilong bus; no ken lusmem bel bilong ol man trabela bilong yu olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/17-20.1792358540776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "long ol animal bilong bus"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "balus bilong yu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bel bilong"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "ol man trabela bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lusmem"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:20.777683299Z",
+  "model": "glm-5.3"
+}

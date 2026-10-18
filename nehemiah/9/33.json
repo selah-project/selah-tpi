@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק i stap olsem tok Hibru 'tsedek', i no 'stretpela pasin' tasol"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אמת עשית",
+      "rationale": "Tok Hibru i tok 'yu wokim tru' — pasin bilong wok, i no 'yu pasin gut' namel"
+    }
+  ],
+  "translation": "Na yu i tsedek long olgeta samting i kamap long mipela, bilong yu wokim tru, tasol mipela i wokim nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "312c281a512d87c77cca641c60289677f61b5d9d584a10fe5e581e18eb3ed82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/9\/33-36.1792361673710.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "samting i kamap"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tru"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tasol mipela"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "wokim nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:14:33.710591037Z",
+  "model": "glm-5.3"
+}

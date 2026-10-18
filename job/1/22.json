@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תפלה",
+      "rationale": "Tok תפלה (tok nating \/ salad) i stap long Tanakh hia tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "נתן תפלה לאלהים",
+      "rationale": "'givim tok nating long Elohim' — KJV 'charge God foolishly', JPS 'ascribe unseemly'; lit. 'givim salad bilong tok long Elohim'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטא",
+      "rationale": "חטא i min 'lukaut i no kamap' — Tok Pisin 'wokim rong' i klostu tasol"
+    }
+  ],
+  "translation": "Long olgeta dispela samting, Iyob i no wokim rong, na em i no givim tok nating long Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "06199c6de84486b09b59a53d2c0ee266d2726eff55483cce7ac5c28a1954cee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/1\/21-22.1792359832732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wokim rong"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na em i no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tok nating"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:52.733556667Z",
+  "model": "glm-5.3"
+}

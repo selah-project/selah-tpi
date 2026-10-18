@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i tanim olsem khesed long tpi, i no 'marimari' tasol — em i khet wantaim stret pasin na marimari"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olgenereisen",
+      "rationale": "דר em i 'ol man bilong wanpela taim' — 'olgenereisen' em i tok Inglis planti, tasol Tok Pisin i usim"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Saposa bilong em — Hibru i gat satvik ⟨suffix⟩ long חסדו na אמונתו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "Tok i kam bek tupela taim — pasin bilong Hibru bilong tok olsem, em i stap"
+    }
+  ],
+  "translation": "Bihain Yahwe i gutpela, khesed bilong ⟨em⟩ i stap olgeta taim, na inap long ol olgenereisen na olgenereisen, emiuna bilong ⟨em⟩ i stap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a9149f4869b8ab7ea1c87c2d2ccd930ce505ac28441e37936bca1d4549670bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/100\/5-5.1792358875030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihain"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i stap olgeta taim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong ⟨em⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na inap long"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ol olgenereisen"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na olgenereisen"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "emiuna bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:55.031084077Z",
+  "model": "glm-5.3"
+}

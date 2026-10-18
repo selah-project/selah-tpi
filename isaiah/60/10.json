@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "contrastive 'but' supplied; Hebrew has only the waw."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמתיך",
+      "rationale": "root רחם 'to fondle, compassionate' — single verb rendered with double phrase to keep the tenderness."
+    }
+  ],
+  "translation": "Na ol man bilong ol narapela kantri bai wokim ⟨את⟩ ol banis bilong yu, na ol king bilong ol bai wokim sevet long yu; long wanem long bel heaget bilong mi mi paitim yu, tasol long laik bilong mi mi sori long yu na marimari long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/60\/9-12.1792354743313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "bai wokim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ol narapela kantri"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "ol banis bilong yu"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "na ol king bilong ol"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "bai wokim sevet long yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "long bel heaget bilong mi"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "mi paitim yu"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "tasol long laik bilong mi"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "mi sori long yu na marimari long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:03.314117469Z",
+  "model": "glm-5.3"
+}

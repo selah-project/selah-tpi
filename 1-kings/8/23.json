@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 8:23",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Solomon's prayer directly addresses Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב is 'heart' (feelings, will); Tok Pisin discipline uses bel, never hat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "merism",
+      "rationale": "heaven above \/ earth below is a merism — totality of creation — kept structurally."
+    }
+  ],
+  "translation": "Na em i tok: Yahwe, Elohim bilong Yisrael, i no gat Elohim olsem yu, long heven antap na long graun daunbilo — yu bilong lukautim kontrak na khesed bilong ol wokman bilong yu, ol i wokabaut pastaim long yu wantaim olgeta bel bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/21-24.1792352912036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "olsem yu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long heven"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "antap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "lukautim"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "na khesed"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "bilong ol wokman bilong yu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pastaim long yu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bel bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:48:32.037687621Z",
+  "model": "glm-5.3"
+}

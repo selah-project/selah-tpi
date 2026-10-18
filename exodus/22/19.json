@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol god",
+      "rationale": "אלהים hia em i ol god bilong ol narapela lain — liklik leta god, i no Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחרם",
+      "rationale": "חרם: 'lus olgeta \/ bagarapim olgeta' (devoted to destruction) vs 'kapsaitim long Nem'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבח...יחרם",
+      "rationale": "Sacrifice to other gods brings the ban — strong contrast namel long sakrifaes"
+    }
+  ],
+  "translation": "Man i sakrifaesim long ol god, longen bai i lus olgeta — i no long Yahwe tasol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/22\/17-20.1792347754787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "i sakrifaesim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long ol god"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bai i lus olgeta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:34.788029395Z",
+  "model": "glm-5.3"
+}

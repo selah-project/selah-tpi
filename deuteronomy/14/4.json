@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Copula supplied — Hebrew is a demonstrative noun phrase without a verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "animal list",
+      "rationale": "Verse begins a catalogue of clean animals, a classifying list."
+    }
+  ],
+  "translation": "Dispela ⟨i⟩ ol animal bilong lukautim we yupela ken kaikai: bulmakau man, pikinini sipsip bilong ol sipsip, na pikinini sipsip bilong ol meme.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/1-4.1792349967295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yupela ken kaikai"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bulmakau man"
+    },
+    {
+      "surface": "שה",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "bilong ol sipsip"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "na pikinini sipsip"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bilong ol meme"
+    }
+  ],
+  "timestamp": "2026-10-18T18:59:27.296500975Z",
+  "model": "glm-5.3"
+}

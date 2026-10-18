@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 49:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boil ova",
+      "rationale": "פחז is froth\/ebullition — unstable bubbling; Tok Pisin needs a verbal picture for the noun."
+    },
+    {
+      "kind": "crux",
+      "subject": "עָלָה",
+      "rationale": "Final verb shifts to third person ('he went up') — either Jacob's voice turns to report, or some read it as resuming 'you went up'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עָלִיתָ ... עָלָה",
+      "rationale": "'You went up... he went up' brackets the defilement with the same verb of ascent."
+    }
+  ],
+  "translation": "Boil ova olsem wara — bai yu no inap go het, long wanem yu go antap long bet bilong papa bilong yu; taim ia yu bagarapim bet bilong mi — em i go antap.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/49\/1-4.1792347342678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פַּחַז",
+      "gloss": "boil ova"
+    },
+    {
+      "surface": "כַּמַּיִם",
+      "gloss": "olsem wara"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "bai yu no inap"
+    },
+    {
+      "surface": "תּוֹתַר",
+      "gloss": "go het"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עָלִיתָ",
+      "gloss": "yu go antap"
+    },
+    {
+      "surface": "מִשְׁכְּבֵי",
+      "gloss": "long bet bilong"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "papa bilong yu"
+    },
+    {
+      "surface": "אָז",
+      "gloss": "taim ia"
+    },
+    {
+      "surface": "חִלַּלְתָּ",
+      "gloss": "yu bagarapim"
+    },
+    {
+      "surface": "יְצוּעִי",
+      "gloss": "bet bilong mi"
+    },
+    {
+      "surface": "עָלָה",
+      "gloss": "i go antap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:42.680043153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כל פסוק",
+      "rationale": "Dispela ves i bagarap tumi long tanim: נדבת (ol i redi o ol i givim prisen), מרחם משחר (bel bilong moning), ילדתיך (tau i bilong yangpela taim bilong yu, o bilong ol pikinini bilong yu)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ילדתיך",
+      "rationale": "ילדות 'yangpela taim' i kamap long Tanakh hia tasol (wantaim Stat 8:11 olsen narapela)"
+    }
+  ],
+  "translation": "Ol man bilong yu ol i redi givim ol yet long de bilongstrong bilong yu, long ol kala bilong samting holi; long bel bilong bipo san i kamap, tau bilong yangpela taim bilong yu i stap long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/110\/1-4.1792359041261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "redi givim ol yet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "bilong strong bilong yu"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "long ol kala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bilong samting holi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "long bel"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "bilong bipo san i kamap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "טל",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "bilong yangpela taim bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:41.262592365Z",
+  "model": "glm-5.3"
+}

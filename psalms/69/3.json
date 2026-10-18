@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "patpela graun",
+      "rationale": "ביון em i 'dregs \/ pat', tanim olsem graun bilong pat"
+    },
+    {
+      "kind": "crux",
+      "subject": "wara i ran strong",
+      "rationale": "שבלת i min 'wara i ran' o 'ear bilong graun'; olsemsave ol man i tok 'flood'"
+    }
+  ],
+  "translation": "Mi sink long patpela graun, na i no gat ples bilong stanap; mi go insait long dip wara, na wara i ran strong i wasim mi olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a036a94adbd2e6175fc8bcf99562867d505245474ce57851a3bae5e1f96e23fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/2-3.1792363359990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "mi sink"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "long patpela graun"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "long ples dip tru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ples bilong stanap"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mi go insait"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "long dip tru bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "na wara i ran strong"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "i wasim mi olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:39.990799919Z",
+  "model": "glm-5.3"
+}

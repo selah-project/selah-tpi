@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שארה",
+      "rationale": "שאר i tok 'mit\/bilong bodi', wantaim mining 'kaikai' — KJV 'food', em i orait long hia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענתה",
+      "rationale": "'save slip wantaim em' long ענה — rot bilong marit, 'duty of marriage' bilong KJV i hevi tumas."
+    }
+  ],
+  "translation": "Sapos em i kisim narapela meri bilong em, kaikai bilong em, klos bilong em, na save slip wantaim em — em i no ken skelim daun.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/21\/9-12.1792347740171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "narapela meri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "em i kisim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "kaikai bilong em"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "klos bilong em"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "na save slip wantaim em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "skelim daun"
+    }
+  ],
+  "timestamp": "2026-10-18T18:22:20.172237268Z",
+  "model": "glm-5.3"
+}

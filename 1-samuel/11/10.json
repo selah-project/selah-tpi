@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "addressee",
+      "rationale": "Hebrew i no tokim nem bilong man ol i tokim (Naas bilong Amon long contex); Tok Pisin i stap wantaim olsem Hebrew."
+    }
+  ],
+  "translation": "Na ol man bilong Yaves i tok: Taroi mipela i kamaut long yu ol, na yu ol i ken wokim long mipela olsem olgeta gutpela samting long ai bilong yu ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/11\/9-12.1792351615551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ol i tok"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ol man bilong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "taroi"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "mipela i kamaut"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "וועשיתם",
+      "gloss": "yu ol i ken wokim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela samting"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "long ai bilong yu ol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:26:55.552511564Z",
+  "model": "glm-5.3"
+}

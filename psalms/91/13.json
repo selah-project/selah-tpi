@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "traipela snek",
+      "rationale": "תנין em i bikpela monsta — long solwara o long graun; hia em i traipela snek nogut."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחל",
+      "rationale": "Tok i minit laion (bilong nois bilong en), ol tanim tok i tok laion o ol wail dok — mi holim laion."
+    }
+  ],
+  "translation": "Long antap long laion na snek nogut yu bai wokabaut; yu bai pundaunim yangpela laion na traipela snek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/91\/13-16.1792358844896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "long antap long"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "laion"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "na snek nogut"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "yu bai wokabaut"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "yu bai pundaunim"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "yangpela laion"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "na traipela snek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:27:24.902880296Z",
+  "model": "glm-5.3"
+}

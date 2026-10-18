@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tok mi i no stret",
+      "rationale": "עקש i tok 'binim \/ senisim pas' — 'provim mi i man i no stret'"
+    },
+    {
+      "kind": "crux",
+      "subject": "em",
+      "rationale": "מי i binimim — maus bilong Job yet (KJV) o Elohim (JPS)? mitupela i save"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק\/רשע",
+      "rationale": "stret\/rong namel — antitesis i kamap aninit long ves, Tok Pisin i holim"
+    }
+  ],
+  "translation": "Sapos mi stret, maus bilong mi bai skelim mi rong; sapos mi klin tru, em bai tok mi i no stret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/9\/17-20.1792359961872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "mi stret"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus bilong mi"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "bai skelim mi rong"
+    },
+    {
+      "surface": "תם",
+      "gloss": "klin tru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "em bai tok mi i no stret"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:01.873334109Z",
+  "model": "glm-5.3"
+}

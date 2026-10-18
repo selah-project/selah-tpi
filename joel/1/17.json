@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 1:17",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרדות",
+      "rationale": "Perudoth 'separated kernels' appears only here in the Tanakh."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ממגרות",
+      "rationale": "Mammeguroth 'granaries' appears only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "הביש",
+      "rationale": "Hovish from yavesh 'dry up' vs. bush 'be ashamed'; the dry-up sense fits grain here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבשו\/נשמו\/נהרסו",
+      "rationale": "Three parallel Qal-perfect verbs pile up ruin in staccato rhythm, lost in Tok Pisin."
+    }
+  ],
+  "translation": "Ol pikinini kaikai i drai daunbilo ol klamp graun bilong ol; ol stua i stap nating, ol haus bilong Graun kaikai i bruk olgeta; bikos graun kaikai i drai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f5da06fad5160cc3597ad94adb8f89518ef59dd0b78a95cb99b3bb167956acb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/1\/17-20.1792357159332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבשו",
+      "gloss": "i drai"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "ol pikinini kaikai"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "מגרפתיהם",
+      "gloss": "ol klamp graun bilong ol"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "i stap nating"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ol stua"
+    },
+    {
+      "surface": "נהרסו",
+      "gloss": "i bruk olgeta"
+    },
+    {
+      "surface": "ממגרות",
+      "gloss": "ol haus bilong Graun kaikai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "i drai"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "graun kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T20:59:19.332518058Z",
+  "model": "glm-5.3"
+}

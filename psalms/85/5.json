@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Prayer of the community addressed directly to Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובנו",
+      "rationale": "Root שוב opens the psalm's plea and returns in verse 7 (תשוב), a turn\/return echo binding the two verses; kept with 'turnim bek' both times."
+    }
+  ],
+  "translation": "Turnim bek mipela, Elohim bilong selvim bilong mipela, na brukim kros bilong yu wantaim mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/85\/5-8.1792358783312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Turnim bek mipela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "bilong selvim bilong mipela"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "na brukim"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kros bilong yu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:23.312915805Z",
+  "model": "glm-5.3"
+}

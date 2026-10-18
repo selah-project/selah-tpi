@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaikai bilong diwai",
+      "rationale": "פרי i 'fruit' — olgeta kain kaikai bilong diwai"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרדסים",
+      "rationale": "פרדס (park bilong diwai, borrowed Persian) — narapela ples tasol i Stap 1:2, tpi 'park bilong diwai'"
+    }
+  ],
+  "translation": "Mi wokim bilong mi ol gaden na ol park bilong diwai, na mi plentim insait long ol ⟨long ol⟩ ol diwai bilong olgeta kaikai bilong diwai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a135fadfed0d62284ec2d200cc9e0476717fa7655804c22111cd24238aac931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/2\/5-8.1792360744429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ol gaden"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "na ol park bilong diwai"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "na mi plentim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "insait long ol"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ol diwai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "kaikai bilong diwai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:59:04.430266920Z",
+  "model": "glm-5.3"
+}

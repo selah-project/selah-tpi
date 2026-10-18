@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש is throat\/breath\/life-force, not an immaterial soul; rendered 'bel' per the fixed gloss."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה",
+      "rationale": "אלה is the adjuration\/oath in court (cf. Lev 5:1): he hears the official oath but refuses to testify; KJV 'cursing' is looser."
+    },
+    {
+      "kind": "idiom",
+      "subject": "birua long bel bilong em yet",
+      "rationale": "שׂונא נפשו lit. 'hates his own nefesh' — Hebrew idiom for harming oneself."
+    }
+  ],
+  "translation": "Man i sarim olgeta wantaim tifman em i birua long bel bilong em yet; em i harim ⟨את⟩ tok swear, tasol em i no tokaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/21-24.1792359763576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "man i sarim olgeta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tifman"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "em i birua long"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong em yet"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tok swear"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "em i harim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol em i no"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "tokaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:43.577860802Z",
+  "model": "glm-5.3"
+}

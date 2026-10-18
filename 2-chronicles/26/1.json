@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן שש עשרה שנה",
+      "rationale": "Hebrew idiom 'son of sixteen years' rendered as 'pikinini man bilong sikis yia ten'."
+    },
+    {
+      "kind": "addition",
+      "subject": "em i kamap king",
+      "rationale": "Hebrew causative 'make him reign' expanded with copula 'i kamap' for Tok Pisin."
+    }
+  ],
+  "translation": "Na olgeta manmeri bilong Yahuda ol i tekim ⟨את⟩ Usiya, em i pikinini man bilong sizpela yia ten sikis, na ol i mekim em i kamap king long ples bilong papa bilong em, Amatsia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/26\/1-4.1792362640128.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ol i tekim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Usiya"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Usiya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man bilong"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ol i mekim em i kamap king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "long ples bilong"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa bilong em"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:30:40.129488657Z",
+  "model": "glm-5.3"
+}

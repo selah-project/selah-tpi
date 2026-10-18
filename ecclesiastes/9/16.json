@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "נשמעים em i pasif — Tok Pisin i needim olsem 'ol i harim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "strong",
+      "rationale": "גבורה em i strong bilong pait\/valor — mi usim 'strong', i no 'ol ami'."
+    }
+  ],
+  "translation": "Na mi tok: save i gutpela moa long strong; tasol save bilong man poro, ol i lukdaun long em, na ol tok bilong en, ol i no harim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/9\/13-16.1792360824895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "na mi tok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "i gutpela"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "save"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "moa long strong"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "tasol save"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "bilong man poro"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "ol i lukdaun long em"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "na ol tok bilong en"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "i no"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ol i harim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:24.896569613Z",
+  "model": "glm-5.3"
+}

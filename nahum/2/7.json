@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i scus olgeta",
+      "rationale": "נמוג min 'i melt \/ i sotwe na i lusim sip' — 'dissolved' bilong KJV."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Namba bilong הנהרות — Tok Pisin i nidim ol, Hibru i no gat article."
+    }
+  ],
+  "translation": "Ol dua bilong ol wara i opim, na haus bilong king i scus olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/2\/5-8.1792357451728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "ol dua bilong"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ol wara"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "na haus bilong king"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "i scus olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:11.729360272Z",
+  "model": "glm-5.3"
+}

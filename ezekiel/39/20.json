@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 39:20",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raider",
+      "rationale": "רכב is chariot\/rider as a unit; 'raider' keeps the mounted-warrior picture where Tok Pisin has no single word for chariot."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם אדני יהוה",
+      "rationale": "Oracle formula closes the speech; 'Yahwe i tok, Adonai' reverses the Hebrew order Adonai-Yahwe to keep natural Tok Pisin syntax."
+    }
+  ],
+  "translation": "Na bai yu fulap long tebol bilong mi — hos na raider, strongpela man, na olgeta man bilong pait — Yahwe i tok, Adonai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "06e1c580b4b101f6444ec7845d786cd8c6aeb973e70453ebd39bafc88145ba0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/39\/17-20.1792356767574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבעתם",
+      "gloss": "na bai yu fulap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "tebol bilong mi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hos"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na raider"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "strongpela man"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bilong pait"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:52:47.575798892Z",
+  "model": "glm-5.3"
+}

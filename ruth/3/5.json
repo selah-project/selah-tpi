@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨long em⟩",
+      "rationale": "Hebrew el\/אליה 'to her' supplied as preposition phrase; Tok Pisin has no dative inflection"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle folded into the verb phrase, no separate Tok Pisin word"
+    }
+  ],
+  "translation": "Na em i tokim ⟨⟨em⟩⟩: Olgeta samting yu tok, bai mi mekim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/3\/5-8.1792360534297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na em i tokim"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨long em⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yu tok"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "yu tok"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bai mi mekim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:55:34.298461384Z",
+  "model": "glm-5.3"
+}

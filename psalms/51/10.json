@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pundaunim",
+      "rationale": "דכה 'crushed\/broken\/shattered' — KJV 'broken', JPS 'crushed', Tok Pisin 'pundaunim' keeps the collapse-sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "garagarai",
+      "rationale": "גיל is to spin round with violent emotion — a whirling joy, not calm happiness."
+    }
+  ],
+  "translation": "Mekim mi harim amamas tru na bel isi, ol bun bilong mi we yu bin pundaunim bai ol i garagarai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/51\/9-12.1792358316075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "mekim mi harim"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "amamas tru"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "na bel isi"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "bai ol i garagarai"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ol bun"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "yu bin pundaunim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:36.076616945Z",
+  "model": "glm-5.3"
+}

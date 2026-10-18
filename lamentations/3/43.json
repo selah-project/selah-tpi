@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kros",
+      "rationale": "אף as i min 'nuz\/naral', bihain i min kros — 'nuz bilong kros' i no inap go stret long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "mipela",
+      "rationale": "Hebri sufiks -נו long ותרדפנו i makim objekt; Tok Pisin i nidim tok 'mipela' olgeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "yu karamapim mipela \/ yu karamapim yu yet",
+      "rationale": "סכותה באף: sampela i ritim 'yu karamapim mipela wantaim kros', sampela 'yu karamapim yu yet' (ylt, bsb)"
+    }
+  ],
+  "translation": "Yu karamapim mipela wantaim kros, na yu bihainim mipela; yu kilim i dai, yu no sori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/3\/41-44.1792360603157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "yu karamapim mipela"
+    },
+    {
+      "surface": "באף",
+      "gloss": "wantaim kros"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "yu bihainim mipela"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "yu kilim i dai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "sori"
+    }
+  ],
+  "timestamp": "2026-10-18T21:56:43.158642962Z",
+  "model": "glm-5.3"
+}

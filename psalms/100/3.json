@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אנחנו",
+      "rationale": "Sipela ridin: 'no yumi yet' (KJV) o 'na yumi bilong en' (ASV, LXX, ולו) — Hibru i tingim olgeta tupela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gaden gras",
+      "rationale": "מרעית em i ples bilong kaikai gras bilong ol sipsip, olsem 'pasturage'."
+    }
+  ],
+  "translation": "Save longem se Yahwe, em i Elohim; em i wokim yumi, na no yumi ⟨i⟩ wokim yumi yet; yumi ol manmeri bilong en, na ol sipsip na meme bilong gaden gras bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/100\/1-4.1792358923466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "save longem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "wokim yumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "yumi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na ol sipsip na meme"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "gaden gras bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:43.467226754Z",
+  "model": "glm-5.3"
+}

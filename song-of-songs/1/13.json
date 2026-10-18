@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדי",
+      "rationale": "שדי (ol susu) i wanpela tok wantaim Nem Sadai, tasol hia em i susu bilong meri — i no Nem bilong God."
+    },
+    {
+      "kind": "substitution",
+      "subject": "paket bilong mira",
+      "rationale": "צרור המר — paket\/pak bilong mira, samting ol i pasim wantaim mirai (kankain ol i usim long skin swit smel)."
+    }
+  ],
+  "translation": "Paket bilong mira, man bilong laikim bilong mi, em i bilong mi; em i stap nait namel long ol susu bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/13-16.1792360432202.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "paket bilong"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mira"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "man bilong laikim bilong mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "em i bilong mi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ol susu bilong mi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "em i stap nait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:52.202682296Z",
+  "model": "glm-5.3"
+}

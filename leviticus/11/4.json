@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "Read as 'only\/nevertheless': limiting exception (JPS 'only chew the cud') versus simple contrast (KJV 'nevertheless'); Tok Pisin 'tasol' follows the contrast reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tambu",
+      "rationale": "טמא is 'foul in a religious sense'; 'tambu' carries the ritual-prohibition sense in Tok Pisin rather than mere dirtiness."
+    }
+  ],
+  "translation": "Tasol ⟨את⟩ dispela yumi no ken kaikai: long ol we i kirapim bek kaikai long maun, na long ol we i brumap klu — ⟨את⟩ kamel, long wanem em i kirapim bek kaikai long maun, tasol em i no brumap klu; em i tambu bilong yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/1-4.1792348425566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela kain animal"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ken kaikai"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "long ol we i kirapim bek"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "kaikai long maun"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "na long ol we i brumap"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "klu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamel"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "i kirapim bek"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kaikai long maun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "tasol klu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "em i no"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "brumap"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tambu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:45.567040776Z",
+  "model": "glm-5.3"
+}

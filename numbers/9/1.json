@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "nambatu yia, mun nambawan",
+      "rationale": "Verse fixes the date: second year after leaving Egypt, first month."
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem",
+      "rationale": "לאמר introduces direct speech; rendered with Tok Pisin 'olsem'."
+    }
+  ],
+  "translation": "Na Yahwe i tokim Mose long ples wail bilong Sinay, long nambatu yia bilong ol i go ausait long graun bilong Mitsrayim, long mun nambawan, olsem:",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/9\/1-4.1792349130575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wail"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "long yia"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nambatu"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "bilong ol i go ausait"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "long mun"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nambawan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:30.575976668Z",
+  "model": "glm-5.3"
+}

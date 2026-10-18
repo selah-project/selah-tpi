@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ \/ ⟨em i⟩",
+      "rationale": "Tok Pisin i gat predicate marker na poroman; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel nogut",
+      "rationale": "אפו em i nek\/nus bilong en, tasol mining em istrongpa bel nogut"
+    },
+    {
+      "kind": "crux",
+      "subject": "Adonai long han sut",
+      "rationale": "Sampela tanim tok i tok 'Adonai i stap long han sut bilong yu' (Yahwe i stap klostu), narapela i tok 'yu yet i stap long han sut' — pasin bilong rit i sot"
+    }
+  ],
+  "translation": "Adonai ⟨i⟩ long han sut bilong yu; ⟨em i⟩ brukimap ol king long dei bilong bel nogut bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/110\/5-7.1792359038638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "han sut bilong yu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "⟨em i⟩ brukimap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long dei bilong"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bel nogut bilong en"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ol king"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:38.639413802Z",
+  "model": "glm-5.3"
+}

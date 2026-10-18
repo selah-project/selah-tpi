@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "eti yia na sikis yia",
+      "rationale": "Verse dates the birth: Abram is 86 years old at Ishmael's birth."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ben shemonim shanah",
+      "rationale": "Hebrew idiom 'son of eighty years' rendered as Tok Pisin 'i gat eti yia'."
+    }
+  ],
+  "translation": "Na Avram i gat eti yia na sikis yia taim Hagar i karim ⟨את⟩ Yismael long Avram.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/16\/13-16.1792346513030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "na Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "i gat (pikinini bilong yia)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "eti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sikis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yia"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "taim i karim"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yismael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yismael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "long Avram"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:53.032195900Z",
+  "model": "glm-5.3"
+}

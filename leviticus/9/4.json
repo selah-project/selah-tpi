@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oil",
+      "rationale": "שמן em i oil bilong oliv; 'grease' i no stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "נראה",
+      "rationale": "Nipal pasiv: 'Yahwe i kamap long yupla' o 'Yahwe bai i lukluk i kamap' — YLT tingting i pinis, KJV\/BSB tingting bai i kamap"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איל",
+      "rationale": "I no 'strongpela man' o 'pikinini bulmakau' — em i dia, wanpela animal; tebol D4b i holim"
+    }
+  ],
+  "translation": "Na wanpela bulmakau man na wanpela dia bilong ol ofa bilong pis, bilong kilim ⟨את⟩ long pes bilong Yahwe; na minkha i mixim wantaim oil: long dispela de, Yahwe bai i lukluk i kamap long yupla.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cc5ddf086ab012c61b236db13d097d70fac15e7126336db9efef584bb2314ee1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/9\/4-4.1792362939076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "na wanpela bulmakau man"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na wanpela dia"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "bilong ol ofa bilong pis"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "bilong kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol ofa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long pes bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "na minkha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "i mixim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wantaim oil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dispela de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "bai i lukluk i kamap"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "long yupla"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:39.076903739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי אל אלהים",
+      "rationale": "the whole phrase repeats verbatim — repetition intensifies the cry; Tok Pisin keeps the repetition intact."
+    }
+  ],
+  "translation": "Olis bilong mi i go long Elohim, na mi singaut; olis bilong mi i go long Elohim, na em i hariap harim ⟨את⟩ mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/1-4.1792358545733.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "olis bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "na mi singaut"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olis bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "na em i hariap harim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi",
+      "marks": "אלי marked as object of hearing"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:25.734776118Z",
+  "model": "glm-5.3"
+}

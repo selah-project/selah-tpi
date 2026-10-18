@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשאות \/ משא",
+      "rationale": "Verse 2 opens with תשאות, echoing the משא 'burden' of verse 1 — sound-link lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשאות",
+      "rationale": "'crashings\/tumults' — some read it as echo of the burden-word, others as plain uproar."
+    },
+    {
+      "kind": "mystery",
+      "subject": "unwounded slain",
+      "rationale": "Slain not by sword nor battle — deliberately unexplained before v.5."
+    }
+  ],
+  "translation": "Siti i fulap long krai na kagaisi, taun i save amamas tru: ol man bilong yu i hol i no ol man hol long bainat, na i no ol man i dai long pait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/22\/1-4.1792354137868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "krai na kagaisi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "i fulap long"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "i save singaut olgeta"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "i save amamas tru"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "ol man bilong yu i hol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ol man hol"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ol man i dai"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "long pait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:08:57.869752308Z",
+  "model": "glm-5.3"
+}

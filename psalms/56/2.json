@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "lokhem\/yilkhatzeni",
+      "rationale": "לחם na לחץ i klostu wankain nois — pait na hevi, singaut i sua."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "David i singaut olgeta long Elohim bilong marimari."
+    }
+  ],
+  "translation": "Yu givim marimari long mi, Elohim, bilong man i laik swalom ⟨את⟩ mi; olgeta de em i pait na putim hevi long mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/56\/1-4.1792358344042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "givim marimari long mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "i laik swalom mi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "man i ken dai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pait"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "putim hevi long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:04.042876068Z",
+  "model": "glm-5.3"
+}

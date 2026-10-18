@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "man",
+      "rationale": "וכל ישראל — 'olgeta man bilong Yisrael' i klarim long tpi"
+    },
+    {
+      "kind": "elision",
+      "subject": "הארץ",
+      "rationale": "ה- i no raitim long tpi; 'graun' tasol"
+    }
+  ],
+  "translation": "Na David na olgeta man bilong Yisrael i go long Yerusalayim — em yet Yebus — na long wanpela ples hia ol man Yebus, ol man i stap long graun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/11\/1-4.1792361965544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i go"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em yet"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na long wanpela ples hia"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ol man Yebus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ol man i stap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "long graun"
+    }
+  ],
+  "timestamp": "2026-10-18T22:19:25.546065462Z",
+  "model": "glm-5.3"
+}

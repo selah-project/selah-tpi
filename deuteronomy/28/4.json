@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתתרות",
+      "rationale": "'increase of flock' vs possible echo of Ashtoreth (fertility goddess) — same consonants עשתרות."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרי בטנך",
+      "rationale": "'fruit of your belly' → 'ol pikinini bilong bel bilong yu' per D4: זרע\/fruit as pikinini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרי אדמתך",
+      "rationale": "'fruit of your soil' → 'ol kaikai bilong graun', garden-fruit reading per D4 gloss for plant seed."
+    },
+    {
+      "kind": "measurement",
+      "subject": "blessing inventory",
+      "rationale": "Verse lists and counts the spheres of blessing: womb, soil, herd, flock — a structured catalogue."
+    }
+  ],
+  "translation": "Blessed ol pikinini bilong bel bilong yu, na ol kaikai bilong graun bilong yu, na ol pikinini bilong ol animal bilong lukautim bilong yu — ol pikinini bilong ol bulmakau bilong yu, na ol pikinini bilong ol sipsip na meme bilong yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/1-4.1792350282723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na ol kaikai"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "graun bilong yu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na ol pikinini"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ol animal bilong lukautim bilong yu"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ol pikinini oli bonim"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "ol bulmakau bilong yu"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "na ol pikinini"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ol sipsip na meme bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:42.724573494Z",
+  "model": "glm-5.3"
+}

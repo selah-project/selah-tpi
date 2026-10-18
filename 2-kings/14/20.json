@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "putim long graun",
+      "rationale": "Hebrew ויקבר 'was buried' is passive; Tok Pisin renders it actively 'ol i putim em long graun' (they placed him in the ground)."
+    }
+  ],
+  "translation": "Na ol i karim ⟨את⟩ em long ol hos, na ol i putim em long graun long Yerushalayim, wantaim ol papa bilong em, long taun bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/17-20.1792353538472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ol i karim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ol hos"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ol i putim em long graun"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ol papa bilong em"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun bilong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:58.473234329Z",
+  "model": "glm-5.3"
+}

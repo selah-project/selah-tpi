@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "she'er",
+      "rationale": "שאר i tok long 'mit bilong bodi' — kandin klos; mi tanim 'kandin'"
+    }
+  ],
+  "translation": "Tasol long wanpela klos kandin bilong en, olsem mama bilong en, na papa bilong en, na pikinini man bilong en, na pikinini meri bilong en, na brata bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/21\/1-4.1792348673859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "long kandin bilong en"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "klos"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long en"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "long mama bilong en"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "na long papa bilong en"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "na long pikinini man bilong en"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "na long pikinini meri bilong en"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na long brata bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:37:53.860180847Z",
+  "model": "glm-5.3"
+}

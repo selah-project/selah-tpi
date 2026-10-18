@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ וירא",
+      "rationale": "I no gat wanpela tok 'see\/fear' — tupela tok i tanim wantaim tupela vav-yod-alef vahin, ol i lukluk wankain long Hibru tasol senis mining."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב em i hat long Inglis, tasol Tok Pisin i holim bel olsem ples bilong tingting na skelim, klostu long mining bilong Hibru."
+    }
+  ],
+  "translation": "Na Shaol i lukim ⟨את⟩ ol kamp bilong ol Pelisit, na em i scare, na bel bilong em i guria tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/28\/5-8.1792352086302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol kamp bilong ol Pelisit"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ol kamp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "em i scare"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:46.303016544Z",
+  "model": "glm-5.3"
+}

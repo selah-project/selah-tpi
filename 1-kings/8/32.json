@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לתת דרכו בראשו",
+      "rationale": "'givim rot bilong en long het bilong en' — Hebrew idiom 'give his way on his head', repay his own conduct on him"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרשיע\/רשע · הצדיק\/צדיק",
+      "rationale": "infinitive + noun from same root repeated ('declare-wicked the wicked, declare-righteous the righteous'), kept by repeating tok man nogut \/ tok man stret"
+    }
+  ],
+  "translation": "na yu yet harim long heven, na yu mekim, na yu skelim ⟨את⟩ ol man bilong yu — bilong tok man nogut em i man nogut, bilong givim rot bilong en long het bilong em, na bilong tok man stret em i man stret, bilong givim long em olsem tsedek bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/29-32.1792352924050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na yu yet"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heven"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na yu mekim"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "na yu skelim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man bilong yu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "bilong tok man nogut"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "man nogut"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rot bilong en"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "long het bilong em"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "na bilong tok man stret"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man stret"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "olsem tsedek bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T19:48:44.053191114Z",
+  "model": "glm-5.3"
+}

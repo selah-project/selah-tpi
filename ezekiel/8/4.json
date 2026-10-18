@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew lacks a verb 'to be' — copula supplied in Tok Pisin."
+    },
+    {
+      "kind": "mystery",
+      "subject": "glori bilong Elohim",
+      "rationale": "The glory appears without description of its own — identified only by comparison to the earlier valley vision."
+    }
+  ],
+  "translation": "Na luk, long san i stap glori bilong Elohim bilong Yisrael, olsem luk bilong wanem mi lukim long wel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "562cc385200a1cacf6f8961199e72d8a10c201ab9483bd1e67df10aae3083d67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/8\/1-4.1792356081813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long san"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "olsem luk bilong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "long wel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:41:21.814982136Z",
+  "model": "glm-5.3"
+}

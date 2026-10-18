@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 25:4",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "name list",
+      "rationale": "Roster of Heman's fourteen sons, continuing the counted roster"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלתי ורממתי עזר",
+      "rationale": "The names read as a sentence: 'I have magnified, I have exalted (a) helper' — one name split across two tokens, lost as pure name-list"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורממתי עזר",
+      "rationale": "One name (Romamti-Ezer) split into two tokens in the Hebrew; kept hyphenated to preserve the single name"
+    }
+  ],
+  "translation": "Long Heman: ol pikinini bilong Heman: Bukiyahu, Mattanyahu, Uzziel, Shevuel, Yerimot, Chananyah, Chanani, Eliatah, Giddalti, Romamti-Ezer, Yoshbekashah, Mallothi, Hotir, Machaziot.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f06775c2162aff65c443a52ecad10c4a759076dacfcab0a781ec72f685a4550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/25\/1-4.1792362193538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להימן",
+      "gloss": "long Heman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heman"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "Bukiyahu"
+    },
+    {
+      "surface": "מתניהו",
+      "gloss": "Mattanyahu"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Shevuel"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "Yerimot"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananyah"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "אליאתה",
+      "gloss": "Eliatah"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "Giddalti"
+    },
+    {
+      "surface": "ורממתי",
+      "gloss": "Romamti"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "ישבקשה",
+      "gloss": "Yoshbekashah"
+    },
+    {
+      "surface": "מלותי",
+      "gloss": "Mallothi"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "Hotir"
+    },
+    {
+      "surface": "מחזיאות",
+      "gloss": "Machaziot"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:13.539796550Z",
+  "model": "glm-5.3"
+}

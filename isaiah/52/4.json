@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "'Long en' — tok bilong ples, Tok Pisin i makim wantaim 'Mitsrayim'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "בראשנה",
+      "rationale": "Tok i skelim taim — 'long stat' bilong stori"
+    }
+  ],
+  "translation": "Bilong dispela, Adonai Yahwe i tok olsem: long stat, ol man bilong mi i go daun long Mitsrayim bilong stop klostu long en, na Ashur i mekim hevi long ol long olgeta samting nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/52\/1-4.1792354690827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong dispela"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol man bilong mi"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "long stat"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "bilong stop klostu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long en"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "long olgeta samting nating"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "i mekim hevi long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:18:10.829052286Z",
+  "model": "glm-5.3"
+}

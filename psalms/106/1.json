@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Hebrew 'Hallelu-Yah' is itself the shout 'praise-ya', a name folded into the verb, kept split here as verb + name."
+    }
+  ],
+  "translation": "Praisim Ya, givim tenkyu long Yahwe, long wanem em i gutpela, long wanem khesed bilong en i stap oltaim olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/1-4.1792358986339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "praisim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "givim tenkyu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:46.343222164Z",
+  "model": "glm-5.3"
+}

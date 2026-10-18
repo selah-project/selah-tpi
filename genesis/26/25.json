@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "singautim long nem bilong Yahwe",
+      "rationale": "Hebrew 'call in the name of YHWH' is worship idiom, not merely shouting a name"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨long⟩ wara wel",
+      "rationale": "Tok Pisin needs linker; Hebrew באר is bare"
+    }
+  ],
+  "translation": "Na Yitsak i wokim ⟨את⟩ olter long hap, na em i singautim long nem bilong Yahwe, na em i stretim haus sel bilong en long hap, na ol wokman bilong Yitsak i karem hol long hap ⟨long⟩ wara wel.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c07e2991204a2de8b4f8dfcbfdd5664da0752ddd3fc7a0775943dd0604c5a35d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/26\/25-28.1792346695473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "olter"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "i stretim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "haus sel bilong en"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "i karem hol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ol wokman bilong"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsak"
+    },
+    {
+      "surface": "באר",
+      "gloss": "wara wel"
+    }
+  ],
+  "timestamp": "2026-10-18T18:04:55.474500841Z",
+  "model": "glm-5.3"
+}

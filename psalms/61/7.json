@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol de na ol yia",
+      "rationale": "Ves i skelim taim bilong king — de, yia, ol taim bilong ol lain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "Repitisen bilong wankain tok — taim bilong ol lain i kamap, na i kamap bihain — pasin Heb i strong"
+    }
+  ],
+  "translation": "Yu ken givim moa ol de long ol de bilong king; ol yia bilong em i olsem taim bilong ol lain i kamap, na taim bilong ol lain i kamap bihain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/61\/5-8.1792358412103.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ol de bilong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "yu ken givim moa"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ol yia bilong em"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דר",
+      "gloss": "taim bilong ol lain i kamap"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na taim bilong ol lain i kamap bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:12.104901121Z",
+  "model": "glm-5.3"
+}

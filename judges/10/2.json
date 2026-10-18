@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twenti na tri yia",
+      "rationale": "namba bilong yia Tola i skelim kot"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i needim subjek long pasiv pasing"
+    }
+  ],
+  "translation": "Na em i skelim kot bilong ⟨את⟩ Yisrael long twenti na tri yia, na em i dai, na ol i gravim em long Shamir.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8d3d8e9f0a93fc93f8448a309420acab9d42062b1dccfceb29f8307fc337d9cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/10\/1-4.1792351201511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "i skelim kot bilong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenti"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "na ol i gravim em"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "long Shamir"
+    }
+  ],
+  "timestamp": "2026-10-18T19:20:01.512674129Z",
+  "model": "glm-5.3"
+}

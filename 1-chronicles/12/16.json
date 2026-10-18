@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גדיתיו",
+      "rationale": "גדיה 'river brink' occurs only here in the Tanakh; rendered 'bank bilong em'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויבריחו",
+      "rationale": "Root is 'to bolt\/flee'; causative 'put to flight' rendered as 'kirapim ol man i ranawe'."
+    },
+    {
+      "kind": "addition",
+      "subject": "man",
+      "gloss": "",
+      "rationale": "'All the valleys' is literal; 'man long ol vale' supplies the inhabitants the verb requires."
+    },
+    {
+      "kind": "measurement",
+      "subject": "בחדש הראשון",
+      "rationale": "Time note: crossing in the first month, when the Jordan floods."
+    }
+  ],
+  "translation": "Na ol dispela olgeta, ol i go braodaot ⟨את⟩ Yarden long mun fes, taim em i pulapim olgeta bank bilong em, na ol i kirapim olgeta man long ol vale i ranawe, i go long sait ist na i go long sait wes.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/12\/13-16.1792362018150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "i go braodaot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "long mun"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fes"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "taim em"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "i pulapim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "bank bilong em"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "na ol i kirapim olgeta man long ol vale i ranawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta vale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ol vale"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "i go long sait ist"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "na i go long sait wes"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:18.152209935Z",
+  "model": "glm-5.3"
+}

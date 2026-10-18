@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol man \/ ol",
+      "rationale": "希伯来只有分词与名词复数，Tok Pisin需要ol标复数与人称宾语"
+    },
+    {
+      "kind": "invitation",
+      "subject": "本节",
+      "rationale": "命令式双重召唤：stretim...strongim——向读者直接发出"
+    }
+  ],
+  "translation": "Stretim ol han bilong ol man i sot nogut strong, na ol skru bilong ol i go dan, strongim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/35\/1-4.1792354356366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "stretim"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ol han"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "i sot nogut strong"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "na ol skru"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "i go dan"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "strongim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:36.391017022Z",
+  "model": "glm-5.3"
+}

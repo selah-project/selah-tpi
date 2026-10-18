@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גוי",
+      "rationale": "גוי em i 'lain bilong ol man \/ ples', no 'ol hebren wantaim' — hia em i wokim nupela lain."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך\/ברכה",
+      "rationale": "Rut bilong barek (barak) i stap insait long tupela tok: blesim yu na yu bai kamap barek."
+    }
+  ],
+  "translation": "Na mi bai wokim yu long bikpela lain bilong ol man, na mi bai blesim yu, na mi bai mekim nem bilong yu i kamap bikpela, na yu yu bai kamap barek.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "48dae3107b717a84488cb1e3640694173b75f57bbc269dd139f107c20e0f6a0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/12\/1-4.1792346485764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Na mi bai wokim yu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "long lain bilong ol man"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "na mi bai blesim yu"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "na mi bai mekim … i kamap bikpela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na … bai kamap"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barek"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:25.765393364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man nupela",
+      "rationale": "נבל i tok olsem 'man i no gat save, man nogut'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bel bilong em i ful",
+      "rationale": "ישבע i tok 'ful' wantaim נפש mining, Tok Pisin i tokim long bel"
+    }
+  ],
+  "translation": "Long savi bilong ol man taim em i kamap king, na long man nupela taim bel bilong em i ful long kaikai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4841c54df7fd4f5681a1b1284dca724e8416c6bae76d1966b51c19a59c9da69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/21-24.1792359750077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "savi bilong ol man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "em i kamap king"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "na man nupela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "bel bilong em i ful"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "long kaikai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:30.078229641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרך",
+      "rationale": "'nabel' (sumatin cord) o bel — planti tanim tok i rit 'bel\/bodi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wara kaisul",
+      "rationale": "ושקוי i 'dring\/wara bilong switim' — KJV i rit 'marrow'"
+    }
+  ],
+  "translation": "Olsem na gutpela bel i kamap long bel bilong yu, na wara kaisul i go long ol bun bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "560062527fb27e3860896ed6c66d96e8a9a0dc589c340ce18779c78c1570302d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/5-8.1792359373820.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "gutpela bel"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "na wara kaisul"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "long ol bun bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:13.822182119Z",
+  "model": "glm-5.3"
+}

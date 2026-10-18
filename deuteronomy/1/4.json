@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הכתו",
+      "rationale": "'smite\/struck' rendered 'paitim na kilim' to keep the defeating sense"
+    }
+  ],
+  "translation": "Bihain long taim em i paitim na kilim ⟨את⟩ Sion, king bilong ol Amorit, we i stap long Heshbon, na ⟨את⟩ Og, king bilong Bashan, we i stap long Ashtarot long Edrei.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/1-4.1792349739583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long taim"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "paitim na kilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "bilong ol Amorit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "stap long"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "bilong Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "stap long"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edrei"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:39.585124308Z",
+  "model": "glm-5.3"
+}

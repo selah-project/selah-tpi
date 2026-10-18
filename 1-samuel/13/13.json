@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "counterfactual הכין",
+      "rationale": "Hebrew has no conditional clause; 'for now YHWH would have established' — the counterfactual 'would have' is supplied by context, not stated."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסכלת",
+      "rationale": "literally 'you acted foolish\/silly', not a moral abstract."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shaul",
+      "rationale": "Shemuel addresses Shaul directly with second-person accusation throughout."
+    },
+    {
+      "kind": "elision",
+      "subject": "על ישראל",
+      "rationale": "rendered as 'long Yisrael' though Hebrew verb is transitive 'establish over'."
+    }
+  ],
+  "translation": "Na Shemuel i tokim Shaul: Yu wokim olsem man bilong no gutpela tingting; yu no bin holim gut ⟨את⟩ lo bilong Yahwe Elohim bilong yu, we em i givim tok long yu. Bilong wanem, taim ia Yahwe bai bin statimap ⟨את⟩ kingdom bilong yu long Yisrael oltaim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/13\/13-16.1792351656841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "yu wokim olsem man bilong no gutpela tingting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "yu bin holim gut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo bilong Yahwe Elohim bilong yu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim bilong yu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "em i givim tok long yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "taim ia"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bai bin statimap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kingdom bilong yu"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "kingdom bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:27:36.842011185Z",
+  "model": "glm-5.3"
+}

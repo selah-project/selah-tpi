@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Tok Pisin needs 'o' between the two Hebrew 'min' phrases where Hebrew uses 'and from'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini sipsip",
+      "rationale": "שה covers sheep or goat; Tok Pisin has no single word, gloss follows D4"
+    }
+  ],
+  "translation": "Pikinini sipsip i mas wanpela i no gat bagarap, manpela, pikinini bilong wan yia, em i mas stap long yu ol; long ol sipsip o long ol meme yu ol ken tekim em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/5-8.1792347538882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "pikinini sipsip"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wanpela i no gat bagarap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manpela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wan yia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "em i mas stap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long yu ol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ol sipsip"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o long"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ol meme"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "yu ol ken tekim em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:58.883314602Z",
+  "model": "glm-5.3"
+}

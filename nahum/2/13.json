@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 2:13",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף\/טרף\/טרפה",
+      "rationale": "Root טרף appears three times in one verse (tear \/ prey \/ prey-torn), the sound-pattern is lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "gloss-note": null,
+      "rationale": "בדי (from בדי, 'enough') read as 'enough for his whelps' (KJV\/JPS) vs. 'in pieces' (from בדד, YLT-style 'tearing in pieces')."
+    }
+  ],
+  "translation": "Laion i karim ⟨את⟩ kaikai bilong ol pikinini bilong en, na em i kilim i dai long ol meri laion bilong en, na em i pulimapim ol hol bilong en wantaim ol samting ol i kaim, na ol haus bilong en wantaim ol samting ol i kaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ebc9ad8cf52973dd9fcdd7e20ed2c24de8522fd64c09bd4f5cbbb6fc06d9c5bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/2\/13-14.1792357425167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "laion"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "karim kaikai"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "masket"
+    },
+    {
+      "surface": "גרותיו",
+      "gloss": "ol pikinini bilong en"
+    },
+    {
+      "surface": "ומחנק",
+      "gloss": "na em i kilim i dai"
+    },
+    {
+      "surface": "ללבאתיו",
+      "gloss": "long ol meri laion bilong en"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na em i pulimapim"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kaikai ol i kaim"
+    },
+    {
+      "surface": "חריו",
+      "gloss": "ol hol bilong en"
+    },
+    {
+      "surface": "ומענתיו",
+      "gloss": "na ol haus bilong en"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ol samting ol i kaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:45.167938010Z",
+  "model": "glm-5.3"
+}

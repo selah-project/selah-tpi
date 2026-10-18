@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gel",
+      "rationale": "חלב 'gel bilong animal' — paia bilong hannai i tambu long kaikai (v.17)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel-insait",
+      "rationale": "קרב 'ol samting insait long bel' — liklik hap insait bilong animal"
+    }
+  ],
+  "translation": "Na em i bringim klostu samting bilong em long hannai bilong bismis — sekel bilong ol — olsem kaikai bilong paia bilong Yahwe: ⟨את⟩ gel bilong animal i karamapim ⟨את⟩ bel-insait, na ⟨את⟩ olgeta gel i stap long bel-insait.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/3\/13-16.1792348230895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "na em i bringim klostu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "samting bilong em long hannai"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sekel bilong"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kaikai bilong paia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gel bilong animal i karamapim bel-insait"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gel bilong animal"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bel-insait"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bel-insait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta gel i stap long bel-insait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i stap long"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bel-insait"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:30.896912187Z",
+  "model": "glm-5.3"
+}

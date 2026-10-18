@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gutpela savi",
+      "rationale": "ישועה em i savi\/deliverance, mi putim 'gutpela' long wanem Tok Pisin i no gat narapela tok"
+    },
+    {
+      "kind": "addition",
+      "subject": "sanapim nem bilong yu",
+      "rationale": "אודך em i wok bilong lukautim\/tenkyu — Tok Pisin i lainim 'sanapim nem'"
+    }
+  ],
+  "translation": "Bai mi sanapim nem bilong yu, long wanem yu bin tok bek long mi, na yu kamap gutpela savi bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/21-24.1792359069891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sanapim nem bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "yu bin tok bek long mi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "long gutpela savi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:09.891616697Z",
+  "model": "glm-5.3"
+}

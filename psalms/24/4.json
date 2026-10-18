@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "נפש em i laif\/warap bilong man, i no 'soul'; Tok Pisin i takim 'bel' — ples bilong tingting na laik"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשוא נפשי",
+      "rationale": "KJV\/ASV: 'lifted up his soul unto vanity'; JPS: 'not taken My name in vain'; tpi i bihainim literal"
+    },
+    {
+      "kind": "addition",
+      "subject": "ol han",
+      "rationale": "נקי כפים i tok klin long palma — 'klin ol han' i min pasin i no gat raus (blut o gutpela man i no senisim)"
+    }
+  ],
+  "translation": "Man we ol han bilong em i klin, na bel bilong em i klin; we em i no raisap bel bilong em long samting nating, na em i no sutim tok long pasin bilong trikim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/24\/1-4.1792358073562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "klin"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ol han"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "na i klin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "i no raisap"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "long samting nating"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "i sutim tok"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "long pasin bilong trikim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:33.563731669Z",
+  "model": "glm-5.3"
+}

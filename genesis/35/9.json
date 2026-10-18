@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim i soim wantaim long Yakov",
+      "rationale": "Elohim appears to Yakov and blesses him — direct divine address begins here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "soim wantaim",
+      "rationale": "וירא is 'was seen\/appeared'; Tok Pisin 'soim wantaim' keeps the seeing sense."
+    }
+  ],
+  "translation": "Na Elohim i soim wantaim long Yakov gen, taim em i kamap bek long Padan Aram, na em i blessim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/35\/9-12.1792347029658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i soim wantaim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "taim em i kamap bek"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "long Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na em i blessim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:10:29.659606306Z",
+  "model": "glm-5.3"
+}

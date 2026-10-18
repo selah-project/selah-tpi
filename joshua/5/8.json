@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 5:8",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיותם",
+      "rationale": "'Till they lived\/recovered' — traditionally 'till they were whole\/healed' after circumcision; rendered 'ol i orait gen'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "orait gen",
+      "rationale": "Hebrew chayah is 'live\/revive', not a medical word for healing."
+    }
+  ],
+  "translation": "Na i kamap, taim olgeta lain ol i pinisim kapsaitim skin, ol i stap long ples bilong ol long kemp, i go inap ol i orait gen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/5\/5-8.1792350539507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ol i pinisim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "lain"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "kapsaitim skin"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "long ples bilong ol"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "long kemp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "חיותם",
+      "gloss": "ol i orait gen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:08:59.508690935Z",
+  "model": "glm-5.3"
+}

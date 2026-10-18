@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לְ־",
+      "rationale": "Hebrew lamed of genealogy rendered 'bilong', no verb in list"
+    },
+    {
+      "kind": "measurement",
+      "subject": "priestly fathers list",
+      "rationale": "Census-style list of priestly houses and their heads"
+    }
+  ],
+  "translation": "Bilong Eztra, Meshulam; bilong Amarja, Yehohanan.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d40271501da3125583b8769e354a8ed15bd75f8c0190256deaad5e76e39d0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/12\/13-16.1792361703411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "bilong Eztra"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulam"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "bilong Amarja"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehohanan"
+    }
+  ],
+  "timestamp": "2026-10-18T22:15:03.412461005Z",
+  "model": "glm-5.3"
+}

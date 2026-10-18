@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i wanbel long predicate marker; Hibru i no gat em"
+    },
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "'tru' o 'tasol' — affirmation o limitation; ol tanima i dakim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לברי לבב",
+      "rationale": "tupela tok bilong 'klin bel' i danap klostu, pasin bilong Hibru i save panisim tok"
+    }
+  ],
+  "translation": "Singsing bilong Asaf. Tru, gutpela long Yisrael ⟨i⟩ Elohim, long ol man bel i klin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/1-4.1792358489961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Singsing"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bilong Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "long ol man i klin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:29.962306221Z",
+  "model": "glm-5.3"
+}

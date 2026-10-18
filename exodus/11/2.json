@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באזני",
+      "rationale": "'long ol ia bilong' — Hebrev idiom 'in the ears of', wantaim olsem 'tokim klia tru long ol'."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישאלו",
+      "rationale": "'askim' vs 'harim' (KJV 'borrow') — Hebrev שאל i tok askim\/demandim, i no tok long harim bek."
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Yahwe long Mose",
+      "rationale": "Yahwe i tokim Mose wantaim tok bilong komandim — direct address."
+    }
+  ],
+  "translation": "Tokim ⟨i⟩ long ol ia bilong ol manmeri, olsem na ol bai askim ⟨את⟩ — wanpela man long poroman bilong en, na wanpela meri long poroman meri bilong en — ol samting bilong silva na ol samting bilong gol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4c76bacb7d76d1e80d022f9dff9fb7837a16549ee0184f2e26e262499cd38285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/11\/2-3.1792362921352.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tokim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "long ol ia bilong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ol bai askim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "long poroman bilong en"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "poroman bilong en"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "na wanpela meri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "long poroman meri bilong en"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "poroman meri bilong en"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ol samting bilong silva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na ol samting bilong gol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:35:21.353351467Z",
+  "model": "glm-5.3"
+}

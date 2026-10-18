@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tupela את",
+      "rationale": "KJV\/JPS ting em i tingim tupela samting; BSB\/YLT ting 'Avraham' em wanpela tok inap — tok holi i go long Avraham"
+    }
+  ],
+  "translation": "Bihain em i tingim ⟨את⟩ tok holi bilong en, na ⟨את⟩ Avraham, man bilong wok bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/41-44.1792358973026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihain"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "em i tingim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tok holi bilong en"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "man bilong wok bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:33.027996932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אגיד",
+      "rationale": "'I will declare' (KJV, future) vs 'I do declare' (JPS, present) — cohortative-style confession."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אגיד \/ אדאג",
+      "rationale": "Near-anagram נגד\/דאג (declare\/be anxious), sound echo lost in translation."
+    }
+  ],
+  "translation": "Long wanem, mi tokautim rong bilong mi; mi pret na wari long sin bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/17-20.1792358200840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "rong bilong mi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mi tokautim"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "mi pret na wari"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "long sin bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:40.841256295Z",
+  "model": "glm-5.3"
+}

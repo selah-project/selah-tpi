@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol king",
+      "rationale": "Direct address: God's rebuke to kings, quoted speech with imperatives."
+    },
+    {
+      "kind": "crux",
+      "subject": "במשיחי",
+      "rationale": "'Mine anointed ones' — here the patriarchs, not king\/priest; rendered literally 'man bilong mi we ol i kapsaitim oil long ol' per the glossary rule for משיח."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Twin prohibitions 'no ken… no ken' summon the addressee; the deprecative אל is kept as 'no ken'."
+    }
+  ],
+  "translation": "No ken tekim han long ol man bilong mi we ol i kapsaitim oil long ol, na no ken mekim nogut long ol profet bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/13-16.1792358964520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tekim han long"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ol man bilong mi we ol i kapsaitim oil long ol"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "na long ol profet bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mekim nogut long"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:24.521289016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 16:1",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Hebrew goral is singular lot-collection; Tok Pisin stones-for-casting plural supplied"
+    },
+    {
+      "kind": "measurement",
+      "subject": "border allotment",
+      "rationale": "Verse is a boundary survey defining tribal territory by lot"
+    },
+    {
+      "kind": "alternative",
+      "subject": "midbar",
+      "rationale": "Rendered 'wailples'; 'ol ples waiman i wokabaut' (pasture) is the literal base sense"
+    }
+  ],
+  "translation": "Na ⟨ol⟩ stoen bilong skelim i kamaut long ol pikinini bilong Yosef: stat long Yarden klostu long Yerikho, i go long ol wara bilong Yerikho long hap san i kamap, long wailples i go antap long Yerikko, i go long maunten bilong Beit-El.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/16\/1-4.1792350796070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i kamaut"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨ol⟩ stoen bilong skelim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מירדן",
+      "gloss": "stat long Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "klostu long Yerikho"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i go long ol wara bilong"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "long hap san i kamap"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "long wailples"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "מיריחו",
+      "gloss": "long Yerikho"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i go long maunten bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:16.070940071Z",
+  "model": "glm-5.3"
+}

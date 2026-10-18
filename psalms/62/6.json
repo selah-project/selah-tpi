@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew verbless clause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש is life-force\/breath, rendered with 'bel' (inmost self) per Tanakh-register Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "to his own soul",
+      "rationale": "The psalmist addresses his own soul in the second person."
+    }
+  ],
+  "translation": "Tasol long Elohim ⟨i⟩ stap kwait, bel bilong mi; long wanem spes bilong mi i stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/62\/5-8.1792358389057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "stap kwait"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "spes bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:49.058533084Z",
+  "model": "glm-5.3"
+}

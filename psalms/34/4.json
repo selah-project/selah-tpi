@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim ⟨את⟩ mi",
+      "rationale": "אתי here is H854 preposition 'with me', not the direct-object marker; gloss carries ⟨את⟩ per corpus convention."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to ol man harim",
+      "rationale": "Plural imperative summons hearers to join praise — the psalm's call to community."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלו \/ ונרוממה",
+      "rationale": "Paired verbs 'make great' and 'raise high' form a height-magnification pair, kept as 'bikpela' \/ 'salim i antap'."
+    }
+  ],
+  "translation": "Yu olsem, kam na mekim Yahwe i kamap bikpela wantaim ⟨את⟩ mi, na yumi salim nem bilong em i antap wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/1-4.1792358135314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Yu olsem, kam na mekim i kamap bikpela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wantaim ⟨את⟩ mi"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "na yumi salim i antap"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:35.315872933Z",
+  "model": "glm-5.3"
+}

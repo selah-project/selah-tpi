@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "'by the hand of Moses' — Hebrew idiom of agency kept literally as 'long han bilong Mose'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הישמעו",
+      "rationale": "hearing-verb implying obedience; rendered 'harim' with 'laik' conveying the test sense 'would they listen\/obey'"
+    }
+  ],
+  "translation": "Na ol i stap bilong traimim long ol ⟨את⟩ Yisrael, bilong luksave sapos ol i laik harim ⟨את⟩ ol lo bilong Yahwe, we i givim long ⟨את⟩ ol papa bilong ol, long han bilong Mose.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "703fa72d56fced0a7e5894b48d12a10ccefe886f7463c06f819020dd38594353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/3\/1-4.1792351003189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na ol i stap"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "bilong traimim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilong luksave"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "sapos ol i laik harim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol lo bilong Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ol lo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol papa bilong ol"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ol papa bilong ol"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-10-18T19:16:43.191228979Z",
+  "model": "glm-5.3"
+}

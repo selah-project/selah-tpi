@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 16:21",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i laikim tok 'em', tasol Hibru i no gat copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בפעם הזאת",
+      "rationale": "'dispela taim' — KJV 'this once' i tok olsem wanpela taim tasol; לפעם em i tok bilong taim."
+    },
+    {
+      "kind": "you",
+      "subject": "long ol (Yisrael long senis)",
+      "rationale": "Yahwe i tok strong long ol man bilong en, bihain long tok bilong ol god nogut (ves 20)."
+    }
+  ],
+  "translation": "Olsem, lukim, mi save makim long ol long dispela taim: mi bai autim long ol ⟨את⟩ han bilong mi na ⟨את⟩ strong bilong mi; na ol bai save olsem nem bilong mi ⟨em⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6582b23756d5f4654e64b0c9eaccdb14dff7af47863bd37f2240ddd8b98385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/16\/21-21.1792355112057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lukim, mi"
+    },
+    {
+      "surface": "מודיעם",
+      "gloss": "save makim long ol"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "long dispela taim"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אודיעם",
+      "gloss": "mi bai autim long ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "han bilong mi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "strong bilong mi"
+    },
+    {
+      "surface": "גבורתי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na ol bai save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nem bilong mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:25:12.057850493Z",
+  "model": "glm-5.3"
+}

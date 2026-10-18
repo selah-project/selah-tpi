@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "golu",
+      "rationale": "גלות rendered as 'golu' (exile), a borrowed shape kept consistent with verse 1 הגולה."
+    },
+    {
+      "kind": "measurement",
+      "subject": "yia namba faivpela",
+      "rationale": "Verse anchors the vision to the fifth year of Jehoiachin's exile."
+    }
+  ],
+  "translation": "Long namba faiv bilong mun — em i █ yia namba faivpela bilong golu bilong king Yoyakhin —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4710297e39f25a036018dca90ed2504d53dfafec148b53ef4e774e8f1fc00e0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/1\/1-4.1792355956952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "long namba faiv"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bilong mun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "namba faivpela"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "bilong golu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bilong king"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "Yoyakhin"
+    }
+  ],
+  "timestamp": "2026-10-18T20:39:16.953227861Z",
+  "model": "glm-5.3"
+}

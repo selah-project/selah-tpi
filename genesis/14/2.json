@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ol fodela king⟩",
+      "rationale": "Hibru i no gat subjekt long ves 2 — em i pinis long ves 1; Tok Pisin i nidim subjekt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol faiv king",
+      "rationale": "lista bilong ol king i gat pait namel"
+    }
+  ],
+  "translation": "⟨Ol fodela king⟩ ol i wokim pait wantaim ⟨את⟩ Bera, king bilong Sedom, na wantaim ⟨את⟩ Birsha, king bilong Amora, Shinab, king bilong Adma, na Shemeber, king bilong Tseboim, na king bilong Bela — em i Tsoar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/14\/1-4.1792346463620.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "ol i wokim"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera, king bilong Sedom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na wantaim ⟨את⟩",
+      "marks": "Birsha, king bilong Amora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "na Shemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king bilong"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na king bilong"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:03.621625097Z",
+  "model": "glm-5.3"
+}

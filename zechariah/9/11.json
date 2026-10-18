@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (אתה)",
+      "rationale": "Em i 'yu' (pronoun), i no aleph-tav bilong makim tok — Strong 859, dispela i no ⟨את⟩ bilong 853."
+    },
+    {
+      "kind": "you",
+      "subject": "yu",
+      "rationale": "Yahwe i tok stret long wanpela man o grup — 'tu yu'."
+    }
+  ],
+  "translation": "Tu yu, long blut bilong kontrak bilong yu, mi salim ⟨את⟩ ol prisna bilong yu i go ausait long hol we wara i no stap long em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/9\/9-12.1792357727184.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "long blut"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "bilong kontrak bilong yu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mi salim i go ausait"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "ol prisna bilong yu"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "long hol"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:08:47.186343512Z",
+  "model": "glm-5.3"
+}

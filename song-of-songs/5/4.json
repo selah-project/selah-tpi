@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מעי",
+      "rationale": "מֵעַי (ol insait bilong bel) → bel bilong mi, ol transeleta ol i tok 'heart' — bel i klostu long mining bilong en"
+    },
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "חֹר: hol bilong dua (KJV) o 'net-wok' (YLT) — mi holim hol, wanem em i hol bilong lo bilong dua"
+    }
+  ],
+  "translation": "Man bilong mi i putim han bilong en i go insait long hol, na bel bilong mi i guria long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/1-4.1792360479728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Man bilong mi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i putim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i go insait long"
+    },
+    {
+      "surface": "החר",
+      "gloss": "hol"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "na bel bilong mi"
+    },
+    {
+      "surface": "המו",
+      "gloss": "i guria"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:39.730135303Z",
+  "model": "glm-5.3"
+}

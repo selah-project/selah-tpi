@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long",
+      "rationale": "Hibru i no gat preposisin long יום na בלילה olsem wanpela stat; Tok Pisin i nidim."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Man i tok stret long Yahwe — pes bilong psalm."
+    }
+  ],
+  "translation": "Yahwe, Elohim bilong baksait bilong mi, long dei mi singautet, na long hait, long pes bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/88\/1-4.1792358787036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "baksait bilong mi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "mi singautet"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long hait"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "long pes bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:27.037917330Z",
+  "model": "glm-5.3"
+}

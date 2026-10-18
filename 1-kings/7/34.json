@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sol",
+      "rationale": "כתפות literally 'shoulders' (upper arm); rendered 'sol' keeping the body-part picture of the projections."
+    },
+    {
+      "kind": "measurement",
+      "subject": "foapela sol, foapela kona",
+      "rationale": "counting: four shoulders to the four corners of each base."
+    }
+  ],
+  "translation": "Na foapela sol i go long foapela kona bilong wanpela bas; long dispela bas yet ol i wokim ol sol bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/7\/33-36.1792352786949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "na foapela"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "ol sol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "ol kona"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "bilong bas"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "bas"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "ol sol bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:26.950731374Z",
+  "model": "glm-5.3"
+}

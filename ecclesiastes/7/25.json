@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב i save tok moa long tingting, laik na pasin — 'bel bilong mi' i klostu, 'hat' i no stret"
+    },
+    {
+      "kind": "crux",
+      "subject": "rong bilong kaisel",
+      "rationale": "KJV olsem 'wickedness of folly'; ASV\/JPS olsem 'wickedness is folly' — רשע כסל i ken tanim tupela kain"
+    }
+  ],
+  "translation": "Mi tanim nabaut, mi yet na bel bilong mi, long save, na long painimaut, na long lukim save tru na tingting; na long save rong bilong kaisel, na pasin bilong man i no save — olgeta longlong tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d10cf694c491d26d7496a3266004acd3fea6c11b8eab06b1f90af8188bb92511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/7\/25-28.1792360816049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "mi tanim nabaut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "na bel bilong mi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "long save"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "na long painimaut"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "na long lukim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "save tru"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "na tingting"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na long save"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rong"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "bilong kaisel"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "na pasin bilong man i no save"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "olgeta longlong tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:16.049990988Z",
+  "model": "glm-5.3"
+}

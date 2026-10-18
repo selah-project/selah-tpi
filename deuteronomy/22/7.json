@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "Infinitive absolute — wanpela tok i kamap tupela: 'salim tru, salim olgeta'; Tok Pisin 'mas salim' i holim strong bilong en."
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hibru i no gat 'tasol' — mi putim bilong wanem v.6 i tambuim na v.7 i oraitim."
+    }
+  ],
+  "translation": "Yu mas salim ⟨את⟩ mama, tasol ⟨את⟩ ol pikinini yu ken kisim; bilong dispela bai gutpela long yu, na bai yu mekim ol de bilong yu i kamap longpela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/22\/5-8.1792350160512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mas salim"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mama"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol pikinini"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "yu ken kisim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bai gutpela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "na yu mekim i kamap longpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    }
+  ],
+  "timestamp": "2026-10-18T19:02:40.513716751Z",
+  "model": "glm-5.3"
+}

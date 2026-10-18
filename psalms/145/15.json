@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישברו → i wet long bilip",
+      "rationale": "tok i tok 'lukluk hariap wantaim les' — pasin bilong man i wet long samting i kam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני כל",
+      "rationale": "olgeta ai bilong olgeta manmeri i lukluk wantaim long wanpela man — piksa bilong olgeta lain"
+    }
+  ],
+  "translation": "Ol ai bilong olgeta i wet long bilip long yu, na yu givim long ol ⟨את⟩ kaikai bilong ol long taim bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/13-16.1792359313206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ol ai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "i wet long bilip"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na yu"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai bilong ol"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kaikai bilong ol"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "long taim bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.207472503Z",
+  "model": "glm-5.3"
+}

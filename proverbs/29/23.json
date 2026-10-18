@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שפל",
+      "rationale": "Root שׁפל appears twice — תשפילנו 'humbles him' and שפל־רוח 'lowly of spirit' — the verse pivots on one root; partly kept with 'daunabelim'\/'ruak daun'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יתמך כבוד",
+      "rationale": "YLT reads 'humility upholdeth honour' (honour as subject); most read honour upholds the humble — the latter is followed."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח is wind\/breath\/spirit, kept as 'ruak' per the fixed gloss rather than 'spirit'."
+    }
+  ],
+  "translation": "Hailait bilong man bai i daunabelim ⟨את⟩ em, tasol man i gat ruak daun bai ol i holim gutpela ⟨את⟩ nem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/21-24.1792359763576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "hailait"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "bai i daunabelim em"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "tasol man i gat ruak daun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "bai ol i holim"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gutpela nem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:43.577723064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאוך",
+      "rationale": "Kethiv מלאוך ('they filled you') vs qere מלאך; versions split between 'replenished thee' and 'as at the report'"
+    },
+    {
+      "kind": "you",
+      "subject": "dwellers of the island",
+      "rationale": "Direct imperative address to the coastland dwellers"
+    }
+  ],
+  "translation": "Stap kwait, ol man i stap long ailan; ol saliman bilong Tsidon, ol i wokabaut i go long narapela saed bilong solwara, ol i fulimapim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/23\/1-4.1792354215537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "stap kwait"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ol man i stap"
+    },
+    {
+      "surface": "אי",
+      "gloss": "long ailan"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ol saliman"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "bilong Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ol i wokabaut i go long narapela saed"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bilong solwara"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ol i fulimapim yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:15.538433397Z",
+  "model": "glm-5.3"
+}

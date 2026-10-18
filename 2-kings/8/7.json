@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 8:7",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew uses impersonal 'it was told him'; Tok Pisin needs an agent, supplied as 'ol' (they, indefinite)."
+    }
+  ],
+  "translation": "Na Elisa i kam long Damasek, na Ben-Hadad, king bilong Aram, i sik; na ol i tokim em olsem: Man bilong Elohim i kam inap long hia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/8\/5-8.1792353486980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na i kam"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "long Damasek"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "bilong Aram"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "i sik"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "na ol i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "long hia"
+    }
+  ],
+  "timestamp": "2026-10-18T19:58:06.981497376Z",
+  "model": "glm-5.3"
+}

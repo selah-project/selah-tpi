@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "question",
+      "subject": "היש ... אב או אח",
+      "rationale": "Embedded question, direct speech, quoted within Yehuda's plea."
+    },
+    {
+      "kind": "you",
+      "subject": "היש לכם",
+      "rationale": "Quoted direct address of the lord to the brothers: 'yupela'."
+    }
+  ],
+  "translation": "Bikman bilong mi i askim ⟨את⟩ ol boi bilong em, i tok: Yupela gat papa, o brata?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0e74fe5b360afee7df539645da1ffa3c2625b1b31c6aba8b3b40c79684a63a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/44\/17-20.1792347227113.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Bikman bilong mi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "i askim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol boi bilong em"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol boi bilong em"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Yupela gat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gat"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    }
+  ],
+  "timestamp": "2026-10-18T18:13:47.114923245Z",
+  "model": "glm-5.3"
+}

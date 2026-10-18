@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 5:12",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "Hebrew verbs אזרה ואריק carry first person without pronoun; Tok Pisin needs the subject word."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tripela hap",
+      "rationale": "Verse divides the people into three measured thirds, each with its fate."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזרה\/אריק",
+      "rationale": "Twin first-person verbs 'I will winnow \/ I will unsheathe' — parallel sound pair, lost in Tok Pisin."
+    },
+    {
+      "kind": "you",
+      "subject": "Yerusalayim",
+      "rationale": "Feminine suffixes ־יך address the personified city throughout the verse."
+    }
+  ],
+  "translation": "Tripela hap bilong yu bai ol i dai long sik nating, na long hangre bai ol i pinis long namel bilong yu; na tripela hap bai ol i poldaun long bainat long ol hap arere bilong yu; na tripela hap ⟨mi⟩ bai skelim i go long olgeta ruak, na bainat ⟨mi⟩ bai pulap i kamaut bihain long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "986499b0bb71822401d8aa1d7efbcdf6155abbb59c713d7fa4f6f632e3905ab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/5\/12-12.1792363238827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשתיך",
+      "gloss": "tripela hap bilong yu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "long sik nating"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bai ol i dai"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "na long hangre"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bai ol i pinis"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "long namel bilong yu"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "na tripela hap"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long bainat"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bai ol i poldaun"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "long ol hap arere bilong yu"
+    },
+    {
+      "surface": "והשלישית",
+      "gloss": "na tripela hap"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "bai skelim i go"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na bainat"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "bai pulap i kamaut"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bihain long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:38.827763239Z",
+  "model": "glm-5.3"
+}

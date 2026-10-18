@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "long graun",
+      "rationale": "עלו 'go up' needs a goal in Tok Pisin; Hebrew has none"
+    }
+  ],
+  "translation": "Na Yehosua i givim olketa toktok long ⟨את⟩ ol pris, i tok olsem: Go antap long graun, lusim Yarden.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "efd0ecd4a0e0e054009f6007de5cdb0567804c7bba5d2c17c5ef13693e2d0814",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/4\/17-20.1792350462427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "i givim olketa toktok long"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pris"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Go antap long graun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-18T19:07:42.428453639Z",
+  "model": "glm-5.3"
+}

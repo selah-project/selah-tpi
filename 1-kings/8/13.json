@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "Infinitive absolute + verb pair, 'building I have built', kept as 'Long pasin bilong wokim haus — mi wokim pinis'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": "Rare word for an exalted dwelling\/residence; rendered by sound zelbul to keep its shape rather than a plain 'haus'."
+    }
+  ],
+  "translation": "Long pasin bilong wokim haus — mi wokim pinis wanpela haus, zelbul bilong yu, wanpela ples bilong yu long stap, oltaim i oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/13-16.1792352887018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Long pasin bilong wokim"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mi wokim pinis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wanpela haus"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zelbul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ples bilong yu long stap"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "bilong yu long stap"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "oltaim i oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:48:07.019636368Z",
+  "model": "glm-5.3"
+}

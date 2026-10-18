@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "contrast connector supplied; Hebrew juxtaposes without it"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "fear-clause 'lest' rendered as Tok Pisin nogut-clause"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "the people directly address Moses with imperatives"
+    }
+  ],
+  "translation": "Ol i tok long Mose: Yu tanim tok wantaim mipela, na mipela bai harim; tasol Elohim, tplim olman, em i no ken tok wantaim mipela, nogut mipela dai.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/20\/17-20.1792347706134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tanim tok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim mipela"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "harim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim mipela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dai"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:46.135701293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "ezra 2:70",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Netinim",
+      "rationale": "Hebrew 'the given ones', temple servants; name kept as Netinim rather than a role description."
+    },
+    {
+      "kind": "addition",
+      "subject": "sampela manmeri",
+      "rationale": "Hebrew has only ומן העם 'and from the people'; 'sampela' makes the partitive explicit."
+    }
+  ],
+  "translation": "Na ol pris na ol Levai, na sampela manmeri bilong ol lain, na ol singa, na ol man bilong lukautim geit, na ol Netinim, ol i stap long ol taun bilong ol; na olgeta manmeri bilong Yisrael ol i stap long ol taun bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/2\/69-70.1792361358376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "na ol i stap"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ol pris"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ol Levai"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na sampela manmeri bilong ol lain"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bilong ol lain"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "na ol singa"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "na ol man bilong lukautim geit"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "na ol Netinim"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "long ol taun bilong ol"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta manmeri bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "long ol taun bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T22:09:18.377321840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 51:41",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ששך",
+      "rationale": "Sheshak is the Atbash cipher of Babel (ב↔ש, so בבל→ששך); the code-name is kept as a name, and the cipher itself is invisible in translation."
+    },
+    {
+      "kind": "addition",
+      "subject": "namel",
+      "rationale": "בגוים is simply 'among the nations'; Tok Pisin needs 'namel long' to carry 'among'."
+    }
+  ],
+  "translation": "Olsem wanem! Sheshak i karamap, na ol i karamap ⟨את⟩ singaut bilong olgeta graun; olsem wanem Babel i kamap bagarap tru namel long ol lain.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bcc3df932f9b70f6340cd410f0138c33ae230269093daf76966228dec60d0900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/41-44.1792355915079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Olsem wanem"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "i karamap"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "Sheshak"
+    },
+    {
+      "surface": "ותתפש",
+      "gloss": "na ol i karamap"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "singaut bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "איך",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "bagarap tru"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "namel long ol lain"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:35.080405531Z",
+  "model": "glm-5.3"
+}

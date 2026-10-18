@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא אשור",
+      "rationale": "'Ashur went out' vs 'he (Nimrod) went out to Assyria' — subject ambiguous; I read Ashur as subject"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחבת עיר",
+      "rationale": "proper name 'Rehoboth-Ir' vs 'streets\/plazas of the city' — construct pair"
+    }
+  ],
+  "translation": "Long graun ia Ashur i kirap na go ausait, na em i bilim ⟨את⟩ Ninve, na ⟨את⟩ Rekhobot-Ir, na ⟨את⟩ Kalakh.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/10\/9-12.1792346412829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Long ... ia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i kirap na go ausait"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na em i bilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (siti)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:12.830232167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taro",
+      "rationale": "אזן i min 'taro' — 'ear' long Inglis, tasol mi usim taro bilong bodi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעות",
+      "rationale": "פעל root 'to sustain the weary' — KJV 'speak a word in season', YLT 'aid the weary by a word'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעיר בבקר בבקר יעיר",
+      "rationale": "Repitisen bilong 'kirapim — moning, moning — kirapim', kiasm i lus long Tok Pisin"
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "rationale": "'wantaim tok' — preposisen bilong Hibru i stap, Tok Pisin i putim 'wantaim'"
+    }
+  ],
+  "translation": "Adonai Yahwe i givim long mi ⟨את⟩ tong bilong ol man ol i skelim gut, bilong save helpim ⟨את⟩ man i pen hat, wantaim tok; moning na moning em i kirapim, em i kirapim long mi ⟨את⟩ taro bilong mi bilong harim, olsem ol man ol i skelim gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f30e38b89f9292b0d1ff945f9e9eeda0441c4da88068ea1b74c7725c90de2709",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/50\/4-4.1792363181736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tong"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "bilong ol man ol i skelim gut"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilong save"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "helpim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man i pen hat"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "man i pen hat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wantaim tok"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "i kirapim"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "moning"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na moning"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "em i kirapim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "taro"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "bilong harim"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "olsem ol man ol i skelim gut"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:41.737286443Z",
+  "model": "glm-5.3"
+}

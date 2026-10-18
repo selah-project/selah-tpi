@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "Read as verb רבב 'he shot (lightnings)' (KJV 'shot out lightnings') vs adjective 'many lightnings' (ASV 'lightnings manifold')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהמם",
+      "rationale": "Literally 'he set them in commotion' — 'discomfited\/routed' is the role reading; Tok Pisin keeps the commotion picture"
+    }
+  ],
+  "translation": "Na em i salim ol aro bilong en na em i skalima ol, na sutim ol braunlight olgeta, na em i mekim guria na bagarapim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/18\/13-16.1792357996616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na em i salim"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ol aro bilong en"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "na em i skalima ol"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "na ol braunlight"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sutim olgeta"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "na em i mekim guria na bagarapim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:16.617263039Z",
+  "model": "glm-5.3"
+}

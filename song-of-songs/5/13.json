@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 5:13",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עבר",
+      "rationale": "'passing\/flowing myrrh' — KJV reads 'sweet smelling', JPS 'flowing': myrrh that drips and runs continuously."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגדלות",
+      "rationale": "'towers of perfume' (literal) vs 'banks\/beds' — Hebrew migdalot is 'towers', a raised spice-bed."
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew verbless clauses; Tok Pisin needs no added verb here."
+    }
+  ],
+  "translation": "Ol pipia bilong em olsem gaden bilong spais i gat swit smel, ol taus bilong profum; ol lep bilong em olsem ol lili, i tapatap wara mura i wok long wokabaut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/5\/13-16.1792360459877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחיו",
+      "gloss": "ol pipia bilong em"
+    },
+    {
+      "surface": "כערוגת",
+      "gloss": "olsem gaden"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "bilong spais i gat swit smel"
+    },
+    {
+      "surface": "מגדלות",
+      "gloss": "ol taus"
+    },
+    {
+      "surface": "מרקחים",
+      "gloss": "bilong profum"
+    },
+    {
+      "surface": "שפתותיו",
+      "gloss": "ol lep bilong em"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ol lili"
+    },
+    {
+      "surface": "נטפות",
+      "gloss": "i tapatap wara"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mura"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "i wok long wokabaut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:54:19.877924191Z",
+  "model": "glm-5.3"
+}

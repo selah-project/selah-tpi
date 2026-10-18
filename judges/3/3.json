@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 3:3",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "list of nations and boundaries",
+      "rationale": "Enumerated nations with geographic span from Baal-Hermon to Lebo-Hamath"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבוא חמת",
+      "rationale": "'entering of Hamath' — place name Lebo-Hamath vs verbal 'the entrance to Hamath'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סרני",
+      "rationale": "Philistine title 'seren' (unique to Philistia) rendered as generic 'bikman'"
+    }
+  ],
+  "translation": "Faipela bikman bilong ol Peliset, na olgeta man Kenaan, na ol man Sidon, na ol Hiwai we i stap long maunten Libnan, long maunten Baal-Hermon i go insait long Hamat.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "703fa72d56fced0a7e5894b48d12a10ccefe886f7463c06f819020dd38594353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/3\/1-4.1792351003189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמשת",
+      "gloss": "Faipela"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "bikman bilong ol Peliset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Peliset"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "man Kenaan"
+    },
+    {
+      "surface": "והצידני",
+      "gloss": "na ol man Sidon"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na ol Hiwai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "הר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libnan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "long maunten"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "insait long"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-10-18T19:16:43.190963979Z",
+  "model": "glm-5.3"
+}

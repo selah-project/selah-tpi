@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 37:16",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim promaun ⟨em⟩ bilong separetim 'man i gat save olgeta'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "miflasei",
+      "rationale": "מִפְלְשֵׂי i stap long Tanakh hia tasol — 'ol pasin bilong sekim\/holdim sekim'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "questions to Iyob",
+      "rationale": "Ol askim bilong Eliu i soim save bilong God i stap antap long man"
+    }
+  ],
+  "translation": "Yu save long ol pasin bilong sekim klaut, ol wok i sotim man bilong ⟨em⟩ i gat save olgeta?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/37\/13-16.1792360334512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התדע",
+      "gloss": "yu save"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מפלשי",
+      "gloss": "ol pasin bilong sekim"
+    },
+    {
+      "surface": "עב",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "מפלאות",
+      "gloss": "ol wok i sotim man"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "⟨em⟩ i gat save olgeta"
+    },
+    {
+      "surface": "דעים",
+      "gloss": "save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:52:14.514057487Z",
+  "model": "glm-5.3"
+}

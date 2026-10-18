@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ושוא",
+      "rationale": "Hebrew literally 'vain\/destructive is the rescue of man'; the adjective is rendered predicatively in Tok Pisin at the end"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצר",
+      "rationale": "'narrow place' = trouble\/adversary\/enemy; KJV 'trouble' vs JPS 'adversary'"
+    }
+  ],
+  "translation": "Givim help long yumi long taim bilong trabel, bilong ol i bagarapim yumi wantaim; tasol help bilong man i no gat wok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/60\/13-14.1792358364578.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "long yumi"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "help"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "long taim bilong trabel"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "tasol help bilong man i no gat wok"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "help"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:24.579230250Z",
+  "model": "glm-5.3"
+}

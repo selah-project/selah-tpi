@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fiftinpela silva, homa, letek",
+      "rationale": "Price counted in silver pieces and barley measures; a homer is ten ephahs, a letech half."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולתך שערים",
+      "rationale": "'and a letech of barley' vs 'and half a homer of barley' — letech is half-homer."
+    }
+  ],
+  "translation": "Na mi baim ⟨em⟩ long mi long fiftinpela silva, na wanpela homa bilong barli, na wanpela letek bilong barli.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/3\/1-4.1792356993673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "na mi baim ⟨em⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "long faiv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "na wanpela homa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bilong barli"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "na wanpela letek"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bilong barli"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:33.674651381Z",
+  "model": "glm-5.3"
+}

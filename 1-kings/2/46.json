@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Pronoun added after the object marker because Tok Pisin needs an object for 'paitim'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויפגע בו",
+      "rationale": "Hebrew 'fell upon him' (violent impinging) rendered as 'paitim long em', losing the falling image."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויצו",
+      "rationale": "Could be 'king i commandim' — 'givim wanpela toktok' chosen to stay literal."
+    }
+  ],
+  "translation": "Na king i givim wanpela toktok long ⟨את⟩ Benayahu, pikinini bilong Yehoyada; em i go ausait na em i paitim ⟨את⟩ ⟨em⟩, na em i dai; na kingdom i stanap strong long han bilong Selomo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4da071bb18e89c22cd63de8ed9af03d818449d3b2626744a1242aca16117874e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/45-46.1792352660250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Na king i givim wanpela toktok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "em i go ausait"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "na em i paitim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na em i dai"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "na kingdom"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "i stanap strong"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    }
+  ],
+  "timestamp": "2026-10-18T19:44:20.251120970Z",
+  "model": "glm-5.3"
+}

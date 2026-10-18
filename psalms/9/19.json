@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spes",
+      "rationale": "תקוה — literal em i rop\/ros, figurativ em i wetim gutpela samting"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח \/ לעד",
+      "rationale": "tupela tok bilong 'oltaim' i stap, wanpela long stat, wanpela long ken — pasin bilong psalm"
+    }
+  ],
+  "translation": "Long wanem, man i no gat samting i no ken lus oltaim; spes bilong ol man hambul i no ken lus olgeta oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/17-20.1792357925248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "i ken lus"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "man i no gat samting"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "spes"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ol man hambul"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "i ken lus olgeta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:05.249929661Z",
+  "model": "glm-5.3"
+}

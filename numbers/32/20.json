@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הדבר הזה",
+      "gloss-of": "dispela samting",
+      "rationale": "davar = word\/thing\/matter; rendered as 'samting'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם … אם",
+      "rationale": "parallel conditional 'if…if' preserved with double sapos"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pikinini bilong Gad na Reuben",
+      "rationale": "Mose speaks directly to the two tribes"
+    }
+  ],
+  "translation": "Na Mose i tokim ol: Sapos yu ol i mekim ⟨את⟩ dispela samting, sapos yu ol i redi long pait, go pastaim long Yahwe long paim bilong pait,",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/32\/17-20.1792349595572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ol"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yu ol i mekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela samting"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "yu ol i redi long pait"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "go pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "long paim bilong pait"
+    }
+  ],
+  "timestamp": "2026-10-18T18:53:15.573531173Z",
+  "model": "glm-5.3"
+}

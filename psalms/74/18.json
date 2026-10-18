@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרף",
+      "rationale": "v17 חרף 'winter\/cold season' vs v18 חרף 'reproach' — same consonants, different lemmas; the echo is lost in Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "lain bilong",
+      "rationale": "עם נבל construct pair; Tok Pisin needs the 'group of' linker"
+    }
+  ],
+  "translation": "Memarim dispela: birua i kotim Yahwe, na lain bilong ol bodi man i bin daunim nem bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/74\/17-20.1792358540776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "memarim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "birua"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "i kotim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na lain bilong"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ol bodi man"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "i bin daunim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nem bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:20.777427588Z",
+  "model": "glm-5.3"
+}

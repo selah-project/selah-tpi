@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew היא is emphatic pronoun; Tok Pisin needs copula bracketed"
+    }
+  ],
+  "translation": "Na ol kerub i go antap. Dispela ⟨em i⟩ ol kain i gat laip we mi bin lukim long wara Kevat.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/10\/13-16.1792356124062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ol kerub"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ol kain i gat laip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi bin lukim"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "long wara"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kevat"
+    }
+  ],
+  "timestamp": "2026-10-18T20:42:04.063596785Z",
+  "model": "glm-5.3"
+}

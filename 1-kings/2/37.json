@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע \/ מות תמות",
+      "rationale": "Infinitive-absolute doubling 'knowing you-shall-know' and 'dying you-shall-die'; Tok Pisin 'save klia tru' and 'dai stret' tries to keep the emphasis."
+    },
+    {
+      "kind": "idiom",
+      "subject": "blut bilong yu long het bilong yu",
+      "rationale": "Hebrew idiom 'your blood on your head' = you alone are responsible for your death; kept literally."
+    },
+    {
+      "kind": "you",
+      "subject": "long Simi",
+      "rationale": "King Solmon i tok trutru long Simi — dairek tok."
+    }
+  ],
+  "translation": "Na long dei yu go ausait na yu go ova long ⟨את⟩ wara bilong Kidron, yu save klia tru: yu bai dai stret; blut bilong yu bai i stap long het bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2053a203f57817654ee25c73335ce21bfead64a04f546083d70d2e92c82bd3c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/2\/37-40.1792352703481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long dei"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "yu go ausait"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "na yu go ova long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara bilong Kidron"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "save klia"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yu save tru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dai stret"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "yu bai dai"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "blut bilong yu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "long het bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:45:03.481781653Z",
+  "model": "glm-5.3"
+}

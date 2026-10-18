@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "katem ol dua",
+      "rationale": "Hebrew says Hezekiah cut off the doors and pillars themselves; KJV adds 'the gold from' the doors (with 2 Chr 28:24 influence), JPS keeps 'cut off' — rendering follows the plain Hebrew."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol poa",
+      "rationale": "האמנות is 'doorposts\/pillars'; poa used for standing supports."
+    }
+  ],
+  "translation": "Long taim olsem, Hizkiia i katem ⟨את⟩ ol dua bilong heikal Yahwe, wantaim ⟨את⟩ ol poa we Hizkiia, king bilong Yuda, i karamapim ol long gol, na i givim ol long king bilong Ashur.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/18\/13-16.1792353604602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "i katem"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol dua bilong heikal Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ol dua"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bilong heikal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol poa"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "ol poa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "i karamapim ol long gol"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bilong Yuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "na i givim ol"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "long king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "bilong Ashur"
+    }
+  ],
+  "timestamp": "2026-10-18T20:00:04.604530586Z",
+  "model": "glm-5.3"
+}

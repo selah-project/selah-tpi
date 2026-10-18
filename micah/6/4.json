@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פדיתיך",
+      "rationale": "'ransomed\/severed out' rendered 'baim yu bek' — kinsman-redeemer picture, not commercial purchase."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים \/ עבדים",
+      "rationale": "Exodus formula pairing land of Egypt with house of slaves; fixed covenant creed, kept intact."
+    }
+  ],
+  "translation": "Bilong mi karim yu i kamap antap long graun bilong Mitsrayim, na long haus bilong ol slev mi baim yu bek, na mi salim ⟨את⟩ Mose, Aharon, na Miryam i go pastaim long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/6\/1-4.1792357488602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bilong"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "mi karim yu i kamap antap"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "long graun bilong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "na long haus bilong"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ol slev"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "mi baim yu bek"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "na mi salim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i go pastaim long yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miryam"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:48.603828217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "long wanem",
+      "rationale": "על לא — \"long wanem ol i no\", pasin bilong Tok Pisin long painim as"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלגי מים",
+      "rationale": "Piksa bilong ol livai wara — olgeta livai i kamap wanpela wara daun long ai"
+    }
+  ],
+  "translation": "Ol livai bilong wara i kamapdaun long ol ai bilong mi, long wanem ol i no lukautim Tora bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/133-136.1792359145240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ol livai bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "i kamapdaun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "long ol ai bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ol i lukautim"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:25.242910485Z",
+  "model": "glm-5.3"
+}

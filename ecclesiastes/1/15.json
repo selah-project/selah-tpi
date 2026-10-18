@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Wan",
+      "rationale": "מעות na חסרון i pasif patisipel — Tok Pisin i nidim 'wan ol i krokim' na 'wan i stap lus'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "להמנות",
+      "rationale": "Kaunim — mak bilong skelim (namba)."
+    }
+  ],
+  "translation": "Wan ol i krokim, i no inap stretim; na wan i stap lus, i no inap kaunim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/1\/13-16.1792360726562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Wan ol i krokim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "stretim"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "na wan i stap lus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "kaunim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:46.563112504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Verb 'they will trample' needs an object pronoun in Tok Pisin; Hebrew verb's object follows as apposition."
+    }
+  ],
+  "translation": "Olgeta bai tramapim ⟨i⟩ long ol lek — krown bilong hauspas, ol man dring bilong Efraim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/28\/1-4.1792354236418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "long ol lek"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "bai tramapim"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krown"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "bilong hauspas"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "ol man dring"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:36.419162776Z",
+  "model": "glm-5.3"
+}

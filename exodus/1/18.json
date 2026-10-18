@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu ol meri",
+      "rationale": "Hebrew feminine plural suffix on verb; Tok Pisin needs pronoun"
+    },
+    {
+      "kind": "you",
+      "subject": "ol meri bilong helpim karim pikinini",
+      "rationale": "Pharaoh directly questions the midwives"
+    }
+  ],
+  "translation": "Na king bilong Mitsrayim i singautim ol meri bilong helpim karim pikinini, na i tokim ⟨ol⟩: Bilong wanem yu ol meri wokim dispela samting, na lusim ⟨את⟩ ol pikinini bulmakau i go lip?",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/17-20.1792347340814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i singautim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bilong Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "long ol meri bilong helpim karim pikinini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "להן",
+      "gloss": "long ⟨ol⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "yu ol meri wokim"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dispela samting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ותחיינ",
+      "gloss": "na lusim ol pikinini bulmakau i go lip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bulmakau"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ol pikinini bulmakau"
+    }
+  ],
+  "timestamp": "2026-10-18T18:15:40.816419792Z",
+  "model": "glm-5.3"
+}

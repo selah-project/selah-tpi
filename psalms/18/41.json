@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "givim strongpela nek",
+      "rationale": "Idiom Hibru: yu givim ערף — ol birua i no save lukluk bek, ol i ranawe; literal 'nek' i stap, mining em i winim long pait"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערף",
+      "rationale": "KJV 'necks' (plural) vs ASV\/JPS 'turn their backs' — yu givim nek bilong birua = birua i stat long ranewe"
+    }
+  ],
+  "translation": "Na ol birua bilong mi — yu givim strongpela nek bilong ol long mi; na ol i les long mi, mi katim ol i go ausait long ol manmeri bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/18\/41-44.1792358010544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "na ol birua bilong mi"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "yu givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "strongpela nek"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "na ol i les long mi"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "mi katim ol i go ausait long ol manmeri bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:30.545093126Z",
+  "model": "glm-5.3"
+}

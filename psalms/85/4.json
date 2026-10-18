@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "af",
+      "rationale": "af i min nek\/nostrik, tasol long Tok Pisin em i 'pes' — hevi i kamap olsem paia long nek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "charon af",
+      "rationale": "tok 'paia bilong hevi' i holim piksa bilong Hibru: hevi i kuk olsem paia"
+    }
+  ],
+  "translation": "Yu rausim olgeta ⟨את⟩ bel hevi bilong yu, yu tanim bek behain long paia bilong hevi long pes bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/85\/1-4.1792358758338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "yu rausim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "bel hevi bilong yu"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "yu tanim bek behain"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "paia bilong hevi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "long pes bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:25:58.343310818Z",
+  "model": "glm-5.3"
+}

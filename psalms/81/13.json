@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strongpela bel",
+      "rationale": "שרירות em i strongpela\/stubbornness bilong bel — 'bel i hat' o 'strongpela bel', bel = לב"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו ... במועצותיהם",
+      "rationale": "Wokabaut long tingting bilong ol yet — pasin Israel i no bihainim Yahwe, nem bilong psalm long 81:13"
+    }
+  ],
+  "translation": "Na mi salim ⟨את⟩ ol ⟨i⟩ go long strongpela bel bilong ol yet, na ol i wokabaut long ol tingting bilong ol yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/13-16.1792358585270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Na mi salim ol i go"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "long strongpela bel"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bilong ol yet"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "long ol tingting bilong ol yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:05.270860564Z",
+  "model": "glm-5.3"
+}

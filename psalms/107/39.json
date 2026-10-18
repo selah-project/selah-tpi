@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעצר",
+      "rationale": "'restraint\/oppression' vs 'oppression of' — KJV reads two nouns (oppression, affliction), JPS reads construct 'oppression of evil and sorrow'"
+    }
+  ],
+  "translation": "Na ol i kamap liklik na ol i pundaun, olgeta long pas bilong ol samting nogut na pen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/37-40.1792358995288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "na ol i kamap liklik"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "na ol i pundaun"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "olgeta long pas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bilong ol samting nogut"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "na pen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:55.290788534Z",
+  "model": "glm-5.3"
+}

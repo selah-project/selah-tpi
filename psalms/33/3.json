@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the righteous",
+      "rationale": "Third verse of imperatives: sing, play."
+    },
+    {
+      "kind": "crux",
+      "subject": "היטיבו נגן",
+      "rationale": "'Play skilfully' (do well at playing) vs 'play beautifully\/loudly'; causative of 'be good'."
+    }
+  ],
+  "translation": "Singautim song nupela long em; playim gut wantaim singaut strong bilong amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/1-4.1792358146967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Singautim song"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nupela"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "playim gut"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "playim strument"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wantaim singaut strong bilong amamas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:46.969162871Z",
+  "model": "glm-5.3"
+}

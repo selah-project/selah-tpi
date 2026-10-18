@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lifesap",
+      "rationale": "נפש i win bilong bodi, laip bilong man — 'lifesap' i klostu long mining, i no 'sol'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך ... שמר",
+      "rationale": "'tasol lukautim' o 'save onli' — שמר Hitpael i min lukautim gut, ol tanima i tok 'spare' o 'preserve'."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Sata: Lukim, em i stap long han bilong yu; tasol ⟨את⟩ lifesap bilong em, lukautim gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/2\/5-8.1792359863649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Yahwe i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sata"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Lukim, em i stap"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lifesap bilong em"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lifesap bilong em"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "lukautim gut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:23.650526647Z",
+  "model": "glm-5.3"
+}

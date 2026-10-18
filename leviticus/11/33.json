@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tambu",
+      "rationale": "טמא em i tambu long pasin bilong Lotaim, i no dot tasol"
+    },
+    {
+      "kind": "addition",
+      "subject": "yumi",
+      "rationale": "״תשברו״ i tok plural — yumi i stap long hap"
+    }
+  ],
+  "translation": "Na olgeta ol kalam bilong tanim kaikai, sapos wanpela long ol i pundaun long insait bilong en, olgeta samting i stap long insait bilong en i kamap tambu, na bai yumi brukim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/33-36.1792348383729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ol kalam"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bilong tanim kaikai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "i pundaun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "insait bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "i stap long insait bilong en"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "i kamap tambu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "bai yumi brukim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:03.730409162Z",
+  "model": "glm-5.3"
+}

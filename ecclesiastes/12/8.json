@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל i min 'win\/breath i go pas' — mi holim tok Hibru 'hebel', long ples bilong 'nating' o 'vanity'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "Hebrew superlative — 'ol hebel i pas hebel' — olsem 'song bilong ol song'; rop i gen i kamap long Stat 1:2."
+    },
+    {
+      "kind": "elision",
+      "subject": "Kohelet",
+      "gloss": "Nem bilong man i toktok — 'assembler'; mi holim tok Hibru, i no 'Preacher' o 'Tisa'."
+    }
+  ],
+  "translation": "Hebel bilong ol hebel, Kohelet i tok, olgeta samting i hebel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/12\/5-8.1792360877546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "bilong ol hebel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "i hebel"
+    }
+  ],
+  "timestamp": "2026-10-18T22:01:17.547203618Z",
+  "model": "glm-5.3"
+}

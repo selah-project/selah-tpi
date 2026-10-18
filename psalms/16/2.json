@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat kopila — 'Adonai, yu' i orait olsem em"
+    },
+    {
+      "kind": "crux",
+      "subject": "gutpela bilong mi",
+      "rationale": "'טובתי בל עליך' — KJV 'gutpela i no go long yu' vs JPS 'mi no gat gutpela long autsait long yu'"
+    }
+  ],
+  "translation": "Mi tok long Yahwe: Yu ⟨em⟩ Adonai bilong mi; mi no gat gutpela long autsait long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/16\/1-4.1792357930680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu ⟨em⟩"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "gutpela bilong mi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ino"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "long yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:10.681543867Z",
+  "model": "glm-5.3"
+}

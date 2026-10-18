@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol wail got",
+      "rationale": "יעלים em i ibeks, dia bilong klaim; 'wail got' i klostu piksa bilong en."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שפנים",
+      "rationale": "Hyraks — liklik animal i haida long hol ston; Tok Pisin i no gat nem bilong en."
+    },
+    {
+      "kind": "substitution",
+      "subject": "█████",
+      "rationale": "מחסה i save tanim 'shelter\/refuge'; hia i tok long ples bilong haida."
+    }
+  ],
+  "translation": "Ol maunten ol i antap — bilong ol wail got; ol ston i antap — █████ bilong ol liklik animal bilong hol ston.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/17-20.1792358919724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ol i antap tru"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "bilong ol wail got"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "ol ston i antap"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "█████"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "bilong ol liklik animal bilong hol ston"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:39.725991497Z",
+  "model": "glm-5.3"
+}

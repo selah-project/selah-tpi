@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 1:31",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נערת",
+      "rationale": "'Tow' — the shaken-out refuse of flax — appears only here in the Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופעלו",
+      "rationale": "'his work' (KJV\/ASV\/JPS) vs 'its maker' (KJV margin, Genevra 'the maker thereof') — same consonants, different pointing."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spak",
+      "rationale": "ניצוץ is a spark — 'spak' (spark from a fire-striker) is the nearest Tok Pisin picture."
+    }
+  ],
+  "translation": "Na man i gat strong bai kamap olsem ol mak flaks i bagarap, na wok bilong en olsem spak; na tupela bai burn wantaim, na i no gat man i ken slokem paia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/29-31.1792353816625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na bai kamap"
+    },
+    {
+      "surface": "החסן",
+      "gloss": "man i gat strong"
+    },
+    {
+      "surface": "לנערת",
+      "gloss": "olsem ol mak flaks i bagarap"
+    },
+    {
+      "surface": "ופעלו",
+      "gloss": "na wok bilong en"
+    },
+    {
+      "surface": "לניצוץ",
+      "gloss": "olsem spak"
+    },
+    {
+      "surface": "ובערו",
+      "gloss": "na tupela bai burn"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat man"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "i ken slokem paia"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:36.627869820Z",
+  "model": "glm-5.3"
+}

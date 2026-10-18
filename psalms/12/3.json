@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בלב ולב",
+      "rationale": "Bel na bel — tupela bel, olsem 'ol i gat tupela bel'; Tok Pisin i holim wantaim repetisen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol lip i smut",
+      "rationale": "חלקות em i smut — pasin bilong kolim man; Tok Pisin 'smut' i holim piksa."
+    }
+  ],
+  "translation": "Tok nating ol i tokim, wanwan man wantaim ⟨את⟩ wantok bilong en, ol lip i smut; bel na bel tupela ol i tokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/12\/1-4.1792357917138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "tok nating"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ol i tokim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanwan man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wantok bilong en"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wantok bilong en"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ol lip"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "i smut"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "bel na"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tupela ol i tokim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:57.141189114Z",
+  "model": "glm-5.3"
+}

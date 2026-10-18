@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "man",
+      "rationale": "הנפש = laip\/breth; 'man' long Tok Pisin"
+    },
+    {
+      "kind": "idiom",
+      "subject": "long bel bilong ol man bilong en",
+      "rationale": "מקרב עמה = 'long bel bilong ol man', pasin Hibru bilong tok 'namel long ol man'"
+    }
+  ],
+  "translation": "Na wanwan man we i wokim olgeta wok long bun bilong dispela de yet, mi bai bagarapim ⟨את⟩ dispela man i go we long bel bilong ol man bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/29-32.1792348747225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na wanwan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wok"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "long bun bilong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "mi bai bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dispela man"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ol man bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:39:07.226249034Z",
+  "model": "glm-5.3"
+}

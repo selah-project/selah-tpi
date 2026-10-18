@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תמחץ",
+      "rationale": "Wankain tok מחץ olsem long ves 22 — 'brukim'; long hia wantaim le, ol tanim i tok 'wetim\/wokabaut insait long blut'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנהו",
+      "rationale": "'minnehu' — 'long em yet' o 'hap bilong en'; ol tanim i no gat wanpela pasin — KJV 'in the same', JPS 'its portion'."
+    }
+  ],
+  "translation": "Bilong olsem, ⟨em⟩ bai i wetim tupela le bilong yu long blut; tongo bilong ol dok bilong yu bai i kaikai long blut bilong ol birua, long em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/68\/21-24.1792358436646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Bilong olsem"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "bai i wetim"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tupela le bilong yu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "long blut"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "bilong ol dok bilong yu"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "bilong ol birua"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "long em yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:36.647405999Z",
+  "model": "glm-5.3"
+}

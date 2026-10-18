@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ליום… לילה ללילה",
+      "rationale": "Repetition 'day to day… night to night' — mirrored structure, kept literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "save",
+      "rationale": "דעת is knowledge; Tok Pisin 'save' (knowing\/skill) is the closest single word."
+    }
+  ],
+  "translation": "De long de i autim tok, na nait long nait i soim save.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/19\/1-4.1792358007669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "i autim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na nait"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "i soim"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:27.670710106Z",
+  "model": "glm-5.3"
+}

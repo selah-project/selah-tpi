@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רפה ידים",
+      "rationale": "Tok Hibru 'han i lus strong' — em i minim 'i no gat strong, i weak'; Tok Pisin 'i no gat strong long han' i holim piksa bilong han."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (wantaim)",
+      "rationale": "Tupela אתו i stap: namba wan em i mak bilong wanem i gat samting (aleph-tav), namba tu em i min 'wantaim'."
+    }
+  ],
+  "translation": "Na bai mi kamap long em, taim em i pen i no gat strong long han, na bai mi mekim em i scare ⟨את⟩ ⟨em⟩; na olgeta manmeri we i stap wantaim ⟨את⟩ ⟨em⟩ bai i ranawe; na bai mi paitim ⟨את⟩ king, em wanpela tasol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/17\/1-4.1792352413388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Na bai mi kamap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "taim em"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "i pen"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "i no gat strong"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "long han"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "na bai mi mekim em i scare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "na bai i ranawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "stap wantaim ⟨את⟩"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "na bai mi paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "em wanpela tasol"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:13.395514154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש em i 'bel\/warawara\/lain bilong liv' — mi tanim olsem 'bel', i no 'soul'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sapos",
+      "rationale": "Hibru i no gat 'sapos' hia — ves 9 i gat em, na ves 10 i holim pasin bilong ves 9 yet."
+    }
+  ],
+  "translation": "Na sapos yu givim bel bilong yu long man i hangre, na yu givim kaikai inap long bel bilong man i pen, taim lait bilong yu bai kamap long tudak, na tudak bilong yu olsem belo.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/58\/9-12.1792354790571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "na yu givim bel"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "long man i hangre"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na bel"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "bilong man i pen"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "yu givim kaikai inap"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "lait bilong yu i kamap"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "long tudak"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lait bilong yu"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "na tudak bilong yu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "olsem belo"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:50.572727730Z",
+  "model": "glm-5.3"
+}

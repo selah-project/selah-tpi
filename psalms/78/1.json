@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Harim gut, ol man bilong mi",
+      "rationale": "Psalm opens with a summons to the people to listen — direct call to the addressee."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "The psalmist addresses 'ol man bilong mi', the assembled people, as the addressee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stori bilong skulim man",
+      "rationale": "משכיל is a technical psalm-title term, 'instructive\/didactic poem', rendered descriptively."
+    }
+  ],
+  "translation": "Stori bilong skulim man, bilong Asaf. Harim gut, ol man bilong mi, Tora bilong mi; stretim ol aring bilong yupela long ol tok bilong maus bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/1-4.1792358557633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "stori bilong skulim man"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bilong Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "harim gut"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ol man bilong mi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora bilong mi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "stretim"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ol aring bilong yupela"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "long ol tok"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bilong maus bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:37.633687047Z",
+  "model": "glm-5.3"
+}

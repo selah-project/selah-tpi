@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Hebrew lacks a copula; Tok Pisin predicate marker added."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישר...ישרים",
+      "rationale": "Verse 4's yashar (upright word) echoes yesharim (the upright) of verse 1, linking the singers to the word."
+    }
+  ],
+  "translation": "Bikos tok bilong Yahwe i stret, na olgeta wok bilong em i stap long pasin bilong bilip tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/1-4.1792358146967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "i stret"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "wok bilong em"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "long pasin bilong bilip tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:46.969369827Z",
+  "model": "glm-5.3"
+}

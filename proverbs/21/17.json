@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanupela samting",
+      "rationale": "מחסור i tok 'brukim' o 'nogat samting'; KJV 'pleasure' i nupela mining long KBH 'loving feasting'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב",
+      "rationale": "Tupela 'i laikim' i kamap klostu — repetisen bilong Hibru"
+    }
+  ],
+  "translation": "Man i stap long kanupela samting i laikim hamamas; i laikim wain na oil — bai i no kamap man i gat planti mani.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/21\/17-20.1792359657836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "i stap long kanupela samting"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "hamamas"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na oil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "bai i kamap man i gat planti mani"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:57.837420061Z",
+  "model": "glm-5.3"
+}

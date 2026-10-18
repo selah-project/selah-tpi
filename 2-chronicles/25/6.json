@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hire price",
+      "rationale": "100,000 warriors for 100 talents of silver — counted sums."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kika",
+      "rationale": "ככר is a weight (talent); Tok Pisin weight word 'kika' replaces the biblical measure."
+    }
+  ],
+  "translation": "Na i paim wok long Yisrael wan handet tausen man strong bilong pait, long pris bilong wan handet kika silva.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/25\/5-8.1792362670438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "na i paim wok ol man"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "man strong"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bilong pait"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "long wan handet"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kika"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silva"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:10.439716399Z",
+  "model": "glm-5.3"
+}

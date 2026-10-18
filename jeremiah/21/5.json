@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel nogut \/ kros nogut \/ kros yet",
+      "rationale": "אף חמה קצף i tripela tok bilong kros — Tok Pisin i ken tok 'bel nogut, kros nogut, bikpela kros' olsem narim wanwan"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "אתכם long wanem em i preposition 'wantaim yupela' (H854), i no aleph-tav marker H853 — tasol prompt i makim ⟨את⟩"
+    }
+  ],
+  "translation": "Na mi yet bai mi pait long ⟨את⟩ yupela, wantaim han i stret aut, wantaim strongpela an, na long bel nogut, na long kros nogut, na long bikpela kros yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/21\/5-8.1792355287947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "bai mi pait long"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wantaim han"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "i stret aut"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "wantaim strongpela an"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strongpela"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "na long bel nogut"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "na long kros nogut"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "na long kros yet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bikpela"
+    }
+  ],
+  "timestamp": "2026-10-18T20:28:07.948288108Z",
+  "model": "glm-5.3"
+}

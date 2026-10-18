@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנתק (Objekt bilong blokim)",
+      "rationale": "Hebru i tok 'blokim netek', minning em i blokim man i gat netek — mi bin putim 'man i gat netek'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevenpela de, seken taim",
+      "rationale": "Kaunim bilong taim bilong skelim"
+    }
+  ],
+  "translation": "Na em i ken kulaut gras bilong en, tasol em i no ken kulautim ⟨את⟩ olgeta netek; na pris i blokim ⟨את⟩ man i gat netek long sevenpela de, seken taim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "da17471640b31bb56fbdc1b98310d255aaf4ad65a3a06f40cc02f087ad012b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/13\/33-36.1792348494411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "i ken kulaut gras bilong en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ken kulautim"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "i blokim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man i gat netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "long sevenpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "seken taim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:54.411776976Z",
+  "model": "glm-5.3"
+}

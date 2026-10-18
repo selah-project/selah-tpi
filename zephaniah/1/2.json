@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "Tupela wok i tanim wankain pasin — infinfinitiv absolut, olsem rausim rausim tru."
+    },
+    {
+      "kind": "addition",
+      "subject": "Bai mi",
+      "rationale": "Hibru i no gat pronomen — verb i tokim yet."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה־ bilong האדמה",
+      "rationale": "Tok Pisin i no gat artikol, artikol bilong Hibru i no save raitim."
+    }
+  ],
+  "translation": "Bai mi rausim olgeta samting i go ausait long pes bilong graun — Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4021e183a6dc0a69f24944a07976629ba197901745dce7f6e923394dc1b655cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zephaniah\/1\/1-4.1792357599644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "bai mi rausim"
+    },
+    {
+      "surface": "אסף",
+      "gloss": " rausim olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "i go ausait long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "graun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:06:39.645042257Z",
+  "model": "glm-5.3"
+}

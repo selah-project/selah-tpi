@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשגה",
+      "rationale": "deliberate repetition of שגה from v19 — same verb for the wife's love and the stranger; parallel lost in translation"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזרה \/ נכריה",
+      "rationale": "'strange woman' is the adulteress figure of Proverbs 1-9; literal 'foreign\/estranged woman' vs euphemistic 'adulteress'"
+    },
+    {
+      "kind": "you",
+      "subject": "pikinini man bilong mi",
+      "rationale": "direct address of the father to the son, addressee named in the verse"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bilong wanem",
+      "rationale": "rhetorical question drawing the son to examine his own desire"
+    }
+  ],
+  "translation": "Na bilong wanem, pikinini man bilong mi, yu ken lostu long meri bilong narapela man, na yu holim pas long bodi bilong meri bilong narapela ples?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/5\/17-20.1792359401900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "yu ken lostu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "long meri bilong narapela man"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "na yu holim pas"
+    },
+    {
+      "surface": "חק",
+      "gloss": "long bodi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "bilong meri bilong narapela ples"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:41.901344182Z",
+  "model": "glm-5.3"
+}

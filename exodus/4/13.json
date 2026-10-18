@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח ... תשלח",
+      "rationale": "Root שלח appe thrice (incl. ביד־תשלח): 'send... by the hand thou wilt send' — Moses echoes God's own verb back in refusal; TPI keeps salim\/salim but loses the single-root echo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביד תשלח",
+      "rationale": "'By the hand of him whom thou wilt send' (KJV) vs elliptical 'send by the hand [of another]' — TPI renders the supplied relative clause wanpela yu laik salim."
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonai",
+      "rationale": "Moses addresses Adonai directly in polite refusal."
+    }
+  ],
+  "translation": "Na em i tok: Plis, Adonai, salim olsem long han bilong wanpela yu laik salim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/13-16.1792347408388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "בי",
+      "gloss": "plis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "salim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "yu salim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:48.389413364Z",
+  "model": "glm-5.3"
+}

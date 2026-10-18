@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 18:12",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gilul",
+      "rationale": "הגלולים literal 'ol log raun' — ol piksa; Tok Pisin i no gat tok, mi holim nois bilong Hibru 'gilul'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "penens",
+      "gloss": "חבל em i samting man i givim long sekel bilong det — 'pawn\/pledge'; 'penens' i klostu long mining."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גזלות גזל",
+      "rationale": "Noun + verb bilong wankain rot — 'olgeta samting, em i stilim' — inflected absolute, klostu olsem v9 חיה יחיה."
+    }
+  ],
+  "translation": "em i bagarapim man poroman na man i hangre, em i stilim olgeta samting long pasin bilong strong, penens bilong em i no salim bek, na em i raisim ai bilong en long ol gilul, em i wokim olgeta samting nogut tru —",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/18\/9-12.1792356224750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "man poroman"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na man i hangre"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "em i bagarapim"
+    },
+    {
+      "surface": "גזלות",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "em i stilim long pasin bilong strong"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "penens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "em i salim bek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "הגלולים",
+      "gloss": "ol gilul"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "em i raisim"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ai bilong en"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "samting nogut tru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:43:44.751920445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 12:18",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "jussive verbs lack an expressed subject; Tok Pisin needs ⟨em⟩ for Elohim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב rendered bel per shape rule — seat of thinking and will, not the body organ 'hat'"
+    },
+    {
+      "kind": "you",
+      "subject": "David i tok long ol man bilong Binyamin na Yehuda",
+      "rationale": "direct conditional address testing the newcomers' intent"
+    }
+  ],
+  "translation": "Na David i go ausait, i go pastaim long ol, na em i bekim tok na i tok long ol: Sapos yupela i kam long mi long pasin bilong pis, bilong halivim mi, bel bilong mi bai i kamap wankain wantaim yupela; tasol sapos yupela i kam bilong salim mi long ol birua bilong mi — sapos i no gat pasin nogut long han bilong mi — Elohim bilong ol papa bilong yumi, bai ⟨em⟩ i lukim, na bai ⟨em⟩ i skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a748804b66502780ee5c188850d560e2a8aa08be62916da9799c5c7650a7c26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/12\/17-20.1792362029791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "i go pastaim long ol"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "i bekim tok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "long pasin bilong pis"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "yupela i kam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "bilong halivim mi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "wantaim yupela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ליחד",
+      "gloss": "bilong kamap wankain"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tasol sapos"
+    },
+    {
+      "surface": "לרמותני",
+      "gloss": "bilong salim mi"
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "long ol birua bilong mi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sapos i no gat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pasin nogut"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "long han bilong mi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bai ⟨em⟩ i lukim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bilong ol papa bilong yumi"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "na bai ⟨em⟩ i skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:29.792483650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבעל",
+      "rationale": "'em i kamap olsem meri bilong masta' (בעל = bosim) — ol tanima i tok 'marit' o 'kamap bikman long ol'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "masta meri",
+      "rationale": "גברת i 'masta meri bilong haus', wankain olsem אדון bilong meri"
+    }
+  ],
+  "translation": "Long meri ol man i les long ⟨em⟩ taim man i maritim ⟨em⟩, na long sipsip meri bilong haus taim em i tekim ples bilong masta meri bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4841c54df7fd4f5681a1b1284dca724e8416c6bae76d1966b51c19a59c9da69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/30\/21-24.1792359750077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "long"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "meri ol man i les long"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "man i maritim"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "na sipsip meri bilong haus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "em i tekim ples"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "bilong masta meri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:30.078355575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yad",
+      "gloss": "חצר i min ples i raunim olsem banis — 'yad' o 'banis graun'"
+    }
+  ],
+  "translation": "Na yu putim ⟨את⟩ yad raunabaut, na yu putim ⟨את⟩ kavas bilong geit bilong yad.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/40\/5-8.1792348211430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yad raunabaut"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "raunabaut"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kavas bilong geit"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kavas"
+    },
+    {
+      "surface": "שער",
+      "gloss": "geit"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bilong yad"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:11.431431249Z",
+  "model": "glm-5.3"
+}

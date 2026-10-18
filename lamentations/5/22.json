@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם מאס מאסתנו",
+      "rationale": "Famous crux: KJV\/ASV read as statement ('you have utterly rejected us'), YLT as question, JPS as hopeful denial ('You cannot have utterly rejected us!') — the verse may close the book with despair or with a question left open."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאס מאסתנו",
+      "rationale": "Infinitive absolute + finite verb of same root מאס: 'rejecting You have rejected us', intensifying repetition flattened to 'troawe tru'."
+    }
+  ],
+  "translation": "Sapos i no olsem — bihainim yu i troawe olgeta mipela i go, yu bel heaut gutpela tru long mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0c3c4822f3af333e0bc3f5c911d84cce07cdbdee7a52c3d135584c4936959580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/5\/21-22.1792360692827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapos i no olsem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "troawe tru"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "yu i troawe mipela"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "yu bel heaut"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "long mipela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i go olgeta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "trumastu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:12.827910190Z",
+  "model": "glm-5.3"
+}

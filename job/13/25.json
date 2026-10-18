@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "win",
+      "rationale": "נדף i tok 'dispersed' tasol — win i kamap long Hawaiian? win i pulim i go, Tok Pisin i nidim"
+    },
+    {
+      "kind": "elision",
+      "subject": "ה- bilong העלה",
+      "rationale": "Tok Pisin i no gat article, olsem na ה i no raitim"
+    },
+    {
+      "kind": "you",
+      "subject": "long Yahwe",
+      "rationale": "Job i askim Yahwe; ol askim hia i wok long trausim taim bilong pait"
+    }
+  ],
+  "translation": "Bai yu skerim lip, win i pulim i go? Na yu lainim ⟨את⟩ ol kumu gras i drai?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/13\/25-28.1792360016690.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lip"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "win i pulim i go"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "skerim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol kumu gras i drai"
+    },
+    {
+      "surface": "קש",
+      "gloss": "kumu gras"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "i drai"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "lainim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:56.691388852Z",
+  "model": "glm-5.3"
+}

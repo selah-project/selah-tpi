@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker; Hibru i no gat kopula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanap",
+      "rationale": "נצב — man i stanap olsem soldia; 'settle' o 'stap' i no holim piksa bilong stanap"
+    }
+  ],
+  "translation": "Oltaim, Yahwe, tok bilong yu ⟨i⟩ sanap long ol heven.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/89-92.1792359133730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "sanap"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "long ol heven"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:13.730898268Z",
+  "model": "glm-5.3"
+}

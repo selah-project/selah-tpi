@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "katim kontrak",
+      "rationale": "Hebrew כרת ברית literally 'cut a covenant' (from cutting pieces between which parties passed); Tok Pisin 'katim kontrak' keeps the cutting picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker added; Hebrew verb has no copula or predicate marker."
+    }
+  ],
+  "translation": "Yahwe, Elohim bilong yumi, ⟨i⟩ katim kontrak wantaim yumi long Horeb.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/5\/1-4.1792349813777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "i katim"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim yumi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "long Horeb"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:53.777892414Z",
+  "model": "glm-5.3"
+}

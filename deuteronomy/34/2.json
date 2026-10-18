@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "graun bilong",
+      "rationale": "Hibru i tok Nem tasol (Naftali); Tok Pisin i nidim 'graun bilong' long kilim tok"
+    },
+    {
+      "kind": "crux",
+      "subject": "solwara bilong bihain",
+      "rationale": "הים האחרון: 'solwara bilong bihain\/westen' — ol tanima i tok 'utmost sea' o 'western sea'"
+    }
+  ],
+  "translation": "Na ⟨את⟩ olgeta graun bilong Naftali, na ⟨את⟩ graun bilong Efraim na Manase, na ⟨את⟩ olgeta graun bilong Yuda, inap long solwara bilong bihain.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/34\/1-4.1792350412860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta graun bilong Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong Efraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Manase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta graun bilong Yuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap long"
+    },
+    {
+      "surface": "הים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "bilong bihain"
+    }
+  ],
+  "timestamp": "2026-10-18T19:06:52.861335841Z",
+  "model": "glm-5.3"
+}

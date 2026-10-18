@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעבור",
+      "rationale": "'on account of \/ so that' — purposive reading 'that they might keep', rendered as 'bihain long olsem, ol i ken'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמרו \/ ינצרו",
+      "rationale": "two near-synonymous 'keep\/guard' verbs in parallel, chiastic order statutes–laws \/ keep–observe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "imperative 'Praise Ya!' summons the congregation, closing the psalm"
+    }
+  ],
+  "translation": "Bihain long olsem, ol i ken bihainim ⟨את⟩ ol statut bilong em, na ol i ken lukautim ⟨את⟩ ol Tora bilong em. Singautim nem bilong Ya!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/45-45.1792358945145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "bihain long olsem, ol i ken"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bihainim"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ol statut bilong em"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "na ol Tora bilong em"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ol i ken lukautim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Singautim nem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "bilong Ya"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:05.145738145Z",
+  "model": "glm-5.3"
+}

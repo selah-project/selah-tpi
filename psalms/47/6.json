@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ramu sekel",
+      "rationale": "שופר i olgeta taim em i ban bilong sipsip; 'ramu sekel' i save tok long wonem em i olsem."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עלה",
+      "rationale": "Sampela i ridim olsem 'Elohim i go antap' (ark i go insait long tempel); narapela 'em i winim ol manmeri'."
+    }
+  ],
+  "translation": "Elohim i go antap wantaim krai bilong wansol, Yahwe wantaim nois bilong ramu sekel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/47\/5-8.1792358273658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "i go antap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wantaim krai bilong wansol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wantaim nois bilong"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ramu sekel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:53.659274707Z",
+  "model": "glm-5.3"
+}

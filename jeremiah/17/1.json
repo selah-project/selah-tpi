@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shamir",
+      "rationale": "שמיר: 'diamond' (point of the pen) vs 'thorn-stone'; kept as shamir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (will\/feelings), not the body organ 'hat'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרושה",
+      "rationale": "same root as 'plough' — engraving drawn as ploughing a tablet; picture lost in Tok Pisin."
+    }
+  ],
+  "translation": "Sen bilong Yuda i ritim wantaim pen bilong aisen, wantaim nek bilong shamir; em i skruim long tebol bilong bel bilong ol, na long ol hon bilong ol altar bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/17\/1-4.1792355205875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "i ritim"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "wantaim pen"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "aisen"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "wantaim nek"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "i skruim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tebol"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bel bilong ol"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "na long ol hon"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ol altar bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:26:45.875930595Z",
+  "model": "glm-5.3"
+}

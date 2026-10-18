@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin i nidim predicate marker, Hibru i nogat"
+    }
+  ],
+  "translation": "Bilong wanem, em i lo bilong Yisrael, em i pasin bilong skelim bilong Elohim bilong Yakov.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/81\/5-8.1792358609196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em i"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pasin bilong skelim"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    }
+  ],
+  "timestamp": "2026-10-18T21:23:29.197837676Z",
+  "model": "glm-5.3"
+}

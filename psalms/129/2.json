@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hebrew לי 'against me' supplies the object inside the verb 'winim mi'."
+    }
+  ],
+  "translation": "Planti taim ol i bagarapim pinis mi long taim mi stap yangpela, tasol ol i no inap winim mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/129\/1-4.1792359196127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "planti taim"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ol i bagarapim pinis mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "long taim mi stap yangpela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ol i inap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "winim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:16.128140998Z",
+  "model": "glm-5.3"
+}

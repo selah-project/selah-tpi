@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וישאם object",
+      "rationale": "⟨את⟩ is absent in Hebrew here; the suffix -ם on וישאם marks the dead men directly, so Tok Pisin adds 'ol man i dai yet' to make the object explicit."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol man i dai yet",
+      "rationale": "Hebrew carries the object only in the pronoun suffix -am; Tok Pisin needs the noun spelled out."
+    }
+  ],
+  "translation": "Ol i go klostu na ol i karim ⟨את⟩ ol man i dai yet long ol klos bilong ol, i go aut long hausples, olsem Mose i tok.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "74ded4b00ea674d0dc982255ff61215a4a62c604d67d20407c56a7039c7a90d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/10\/5-8.1792348430891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ol i go klostu"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ol i karim"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "long ol klos bilong ol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "aut"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "long hausples"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:50.891660352Z",
+  "model": "glm-5.3"
+}

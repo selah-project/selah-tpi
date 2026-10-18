@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גם",
+      "rationale": "'Also\/even' — here rendered 'tasol' as 'even the beasts', marking climax of the drought lament"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תערוג",
+      "rationale": "ערג is panting thirst, as in Ps 42; rendered as longing look"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "object pronoun added before 'ol ples gaden', Hebrew places object after verb without marker"
+    }
+  ],
+  "translation": "Tasol ol animal bilong lukautim bilong gaden i lukluk strong long yu, bilong ol pas bilong wara i drai pinis, na paia i kaikaiim ⟨em⟩ ol ples gaden bilong wailbus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b25f8e22d5b2c1fdbf2c31def8a5417d07e970a042d6afcd94b6acce5a62f0b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/1\/20-20.1792363281573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ol animal bilong lukautim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "bilong gaden"
+    },
+    {
+      "surface": "תערוג",
+      "gloss": "i lukluk strong long"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "i drai pinis"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ol pas bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na paia"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "i kaikaiim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ol ples gaden"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bilong wailbus"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:21.573591095Z",
+  "model": "glm-5.3"
+}

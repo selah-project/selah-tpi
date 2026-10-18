@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Tok Pisin i needim ol bilong tok klia, Hibru i no gat ol long hia"
+    },
+    {
+      "kind": "crux",
+      "subject": "us",
+      "rationale": "KJV i putim 'us' (yu i tokim mipela) tasol Hibru i no gat em — YLT na ASV i no putim"
+    },
+    {
+      "kind": "you",
+      "subject": "Yu",
+      "rationale": "Davide i toksave stret long Yahwe long dispela ves"
+    }
+  ],
+  "translation": "Yu i givim ol komand bilong yu, bilong lukautim ⟨ol⟩ strongpela tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/1-4.1792359104353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "yu i givim ol komand"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ol komand bilong yu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bilong lukautim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "strongpela tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:44.354849204Z",
+  "model": "glm-5.3"
+}

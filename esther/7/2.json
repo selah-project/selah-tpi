@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs an object pronoun; Hebrew passive 'it shall be given\/done' has no expressed subject"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ester",
+      "rationale": "King directly addresses Esther the queen with his offer"
+    }
+  ],
+  "translation": "Na king i tok long Ester, tu long narapela de, long taim bilong dring wain: Wanem askim bilong yu, Ester kwin? Bai ol i givim ⟨em⟩ long yu; na wanem laik bilong yu? Ivin go long hap bilong kingdom, bai ⟨em⟩ i wokim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/7\/1-4.1792360967315.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na king i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "long Ester"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "השני",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "long taim bilong dring"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "askim bilong yu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kwin"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "bai ol i givim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "laik bilong yu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ivin long"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hap"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "bai em i wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:02:47.315840911Z",
+  "model": "glm-5.3"
+}

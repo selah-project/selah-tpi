@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "long ai bilong",
+      "rationale": "לפני em i 'long fes bilong'; Tok Pisin i tokim 'long ai bilong' long pasin bilong lukluk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "man i holim ol kalabus",
+      "rationale": "שוביהם em i ol man i kelim ol kalabus (participle bilong שבה), olsem 'ol man i karim ol i go kalabus'."
+    }
+  ],
+  "translation": "Na em i givim ⟨את⟩ ol long marimari long ai bilong olgeta man i holim ol kalabus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8d38226ea90447e28c4d75e77dead21ce453c9ce894defcd55aab3eb22cae58d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/45-48.1792359010630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i givim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "long marimari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long ai bilong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "man i holim ol kalabus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:10.630823165Z",
+  "model": "glm-5.3"
+}

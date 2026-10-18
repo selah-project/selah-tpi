@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "Root מרה doubled: 'bitterly I have made-bitter \/ rebelled'; the Hebrew pile-up is flattened in Tok Pisin as 'mi go agen tumas'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרו",
+      "rationale": "Infinitive absolute of מרה: some read 'I have grievously rebelled' (KJV), others 'I am full of bitterness' (Geneva)."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Direct address to Yahwe: 'Lukim, Yahwe' — the city's plea."
+    }
+  ],
+  "translation": "Lukim, Yahwe, long wanem pen i stap long mi; ol bel bilong mi i boil tumas; bel bilong mi i tanim insait long mi, long wanem mi go agen tumas; long autsait bainat i rausim ol pikinini, insait long haus i olsem dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/1\/17-20.1792360643771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ol bel bilong mi"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "i boil tumas"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "i tanim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "insait long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "tumas"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "mi go agen"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "long autsait"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "i rausim ol pikinini"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "insait long haus"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "olsem dai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:57:23.772267069Z",
+  "model": "glm-5.3"
+}

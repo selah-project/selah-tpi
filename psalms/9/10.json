@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משגב...משגב",
+      "rationale": "Tok Hibru i ritim משגב tupela taim — pasin bilong tanim tok i holim en."
+    },
+    {
+      "kind": "substitution",
+      "subject": "strongpela ples",
+      "rationale": "משגב em i klag — ples antap we man i no inap kamap; Tok Pisin i tanim olsem strongpela ples."
+    }
+  ],
+  "translation": "Na Yahwe i strongpela ples bilong ol man i pundaun, strongpela ples long ol taim bilong trabel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/9-12.1792357898585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ... i stap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "strongpela ples"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "bilong ol man i pundaun"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "strongpela ples"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "long ol taim"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "bilong trabel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:38.588210057Z",
+  "model": "glm-5.3"
+}

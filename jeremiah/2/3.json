@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebri i no gat kopula long kot 'Yisrael holi bilong Yahwe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאשמו",
+      "rationale": "lit. 'ol i kamap man bilong sala' — sala i holim pasin bilong wokim rong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבואת\/תבא",
+      "rationale": "tevua (kaikai i kamap) na tavo (i kamap) — saund wankain, rikosan insait ves"
+    }
+  ],
+  "translation": "Yisrael i stap holi bilong Yahwe, olsem fesfrot bilong kaikai i kamap long em. Olgeta man i kaikai wantaim em, ol i gat sala; ol samting nogut i kamap long ol, Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6af2e5c5a4b11c549c8a82a011af0178168ec588d3cbbfce4139e838fb465c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/2\/1-4.1792354862532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "holi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fesfrot"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "bilong kaikai i kamap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "man i kaikai wantaim em"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ol i gat sala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "samting nogut"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T20:21:02.533436312Z",
+  "model": "glm-5.3"
+}

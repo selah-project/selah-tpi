@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aut",
+      "rationale": "Hebrew ישלכו already implies thrown out; 'aut' added to make the direction explicit in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol man ol i bin kilim bai ol tromwe ol aut, na smel nogut bilong ol body i bai go antap; na ol maunten i bai wok long go daun olgeta, long olgeta blut bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/34\/1-4.1792354351836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "na ol man ol i bin kilim"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "bai ol tromwe ol aut"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "na ol body bilong ol"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "i bai go antap"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "smel nogut"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "na ol bai wok long go daun olgeta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunten"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "long olgeta blut bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:12:31.837276909Z",
+  "model": "glm-5.3"
+}

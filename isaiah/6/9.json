@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע \/ ראו ראו",
+      "rationale": "Infinitive-absolute duplication intensifies: 'hearing, hear' and 'seeing, see' — the repetition is lost in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "imperatives as commands",
+      "rationale": "Are these commands ('hear but do not understand') or ironic statements of what will happen ('you will hear but not understand')?"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the people",
+      "rationale": "Direct summons: 'Hear… see…' addressed to the people."
+    }
+  ],
+  "translation": "Na em i tok: Go, na yu tok long ol manmeri bilong dispela lain: Yupela harim gut, tasol yupela i no inap save; yupela lukim gut, tasol yupela i no inap skelim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/6\/9-12.1792353938874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na yu tok"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "long ol manmeri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "yupela harim"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "harim gut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tasol no"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "yupela inap save"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na yupela lukim"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lukim gut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tasol no"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "yupela inap skelim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:05:38.874962258Z",
+  "model": "glm-5.3"
+}

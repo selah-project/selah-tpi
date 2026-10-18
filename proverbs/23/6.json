@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ai nogut",
+      "rationale": "רע עין 'ai nogut' — man i stingi o birua long ol arapela; BSB tanim olsem 'stingy man', KJV holim 'evil eye'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלחם\/לחם",
+      "rationale": "tok bilong kaikai na bret i wankain rot (l-kh-m), i lus long Tok Pisin"
+    }
+  ],
+  "translation": "No ken kaikai ⟨את⟩ bret bilong man i gat ai nogut, na no ken laikim ol switpela kaikai bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b1904f3ce2fe430942b8ee3995a9920f3698c147d8cb1179d26e54b30105700",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/6-7.1792363400852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "No ken"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "kaikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bret"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bret"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nogut"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "laikim"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ol switpela kaikai bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:20.853557060Z",
+  "model": "glm-5.3"
+}

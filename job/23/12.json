@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 23:12",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחקי",
+      "rationale": "'ol samting ol i makim long mi' (ol kaikai bilong mi — KJV, Geneva) o ' hap bilong mi' (YLT 'allotted portion'); Hebri חוק i min hap ol i givim long man"
+    },
+    {
+      "kind": "elision",
+      "subject": "צפנתי",
+      "rationale": "'mi hilimap' — Hebri i tok 'mi haitim olgeta olgeta olsem treasua', Tok Pisin i lusim piksa bilong haitim"
+    }
+  ],
+  "translation": "Komand bilong bibi bilong em, na mi no muvim ⟨mi⟩ weg; moa long olgeta kaikai bilong mi, mi hilimap olgeta ol tok bilong maun bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/23\/9-12.1792360157027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "komand"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bilong bibi bilong em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mi no"
+    },
+    {
+      "surface": "אמיש",
+      "gloss": "muvim ⟨mi⟩ weg"
+    },
+    {
+      "surface": "מחקי",
+      "gloss": "moa long olgeta kaikai bilong mi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mi hilimap olgeta"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bilong maun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:17.028739685Z",
+  "model": "glm-5.3"
+}

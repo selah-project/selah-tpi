@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dibre avonot gavru mimeni",
+      "rationale": "Sampela i ritim 'ol rong i winim mi' (kjv), sampela 'ol tok bilong rong i strong moa long mi' (ylt) — mi tasol o mipela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mi \/ yumi",
+      "rationale": "Hebraw i senisim 'ol i winim MI' long wanpela man i tok, na 'OL PASIN BILONG MIPELA' bihain — narapela save"
+    }
+  ],
+  "translation": "Ol samting bilong rong i winim mi; tasol yumi ol i brukim lo — yu bai yu kovim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/65\/1-4.1792358405639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ol samting bilong"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "rong"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "i winim"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ol samting yumi ol i brukim lo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "bai yu kovim ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:05.641266706Z",
+  "model": "glm-5.3"
+}

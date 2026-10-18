@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tripela na tripela rum",
+      "rationale": "Counting of gate chambers: three on each side, one measure each."
+    },
+    {
+      "kind": "addition",
+      "subject": "narapela hapsait",
+      "rationale": "Hebrew uses the same word מפה both times ('here... here'); Tok Pisin needs 'narapela hapsait' for the second."
+    }
+  ],
+  "translation": "Na ol rum bilong geit, long rot bilong iast, tripela long hapsait, na tripela long narapela hapsait; wanpela skelim bilong olgeta tripela; na wanpela skelim bilong ol pilaista, long hapsait na long narapela hapsait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/40\/9-12.1792356804848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "Na ol rum"
+    },
+    {
+      "surface": "השער",
+      "gloss": "bilong geit"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "iast"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na tripela"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "long narapela hapsait"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "wanpela skelim"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "bilong olgeta tripela"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "na wanpela skelim"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "bilong ol pilaista"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "na long narapela hapsait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:24.849591612Z",
+  "model": "glm-5.3"
+}

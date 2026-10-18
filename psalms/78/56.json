@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol tok bilong em",
+      "rationale": "עדות em i 'tok witness'; ol i tanim olsem 'ol lo' o 'ol tok bilong em'"
+    }
+  ],
+  "translation": "Tasol ol i traimim na ol i biru long ⟨את⟩ Elohim Olgetapela Antap, na ol i no bijim ol tok bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/53-56.1792358568406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "i traimim"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "i biru long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Olgetapela Antap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Olgetapela Antap"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ol tok bilong em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bijim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:48.408027384Z",
+  "model": "glm-5.3"
+}

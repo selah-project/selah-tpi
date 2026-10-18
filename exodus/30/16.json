@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Preposition 'from with' (et) rendered simply as 'long'; the ⟨את⟩ glyph is kept per rule."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mani bilong rausim pek",
+      "rationale": "The verse defines the destination of the counted half-shekel silver for the Tent of Meeting service."
+    },
+    {
+      "kind": "you",
+      "subject": "yu \/ yupela",
+      "rationale": "Direct address to Moses throughout; final clause shifts to 'yupela' (your souls) as in Hebrew."
+    }
+  ],
+  "translation": "Na yu mas kisim ⟨את⟩ ⟨את⟩ mani bilong rausim pek bilong ol pikinini bilong Yisrael, na yu mas givim ⟨את⟩ em long wok bilong Haus Bilong Miting; na em bai i stap bilong ol pikinini bilong Yisrael olsem mak bilong tingting bek pastaim long Yahwe, bilong rausim pek long ol soul bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/30\/13-16.1792347986788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na yu mas kisim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mani bilong rausim pek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mani"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "bilong rausim pek"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ long"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na yu mas givim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "wok bilong Haus Bilong Miting"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "wok bilong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Bilong Miting"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na em bai i stap"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bilong ol pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "olsem mak bilong tingting bek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "bilong rausim pek"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ol soul bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:26.790025033Z",
+  "model": "glm-5.3"
+}

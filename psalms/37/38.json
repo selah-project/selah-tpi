@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 37:38",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אחרית",
+      "rationale": "אחרית repeats from v.37 — same word for the end of the man of peace and of the wicked, contrast lost somewhat in Tok Pisin but kept with 'pinis'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man i brukim lo",
+      "rationale": "פושעים is 'those who break away (from just authority)'; Tok Pisin renders the picture of breaking"
+    }
+  ],
+  "translation": "Na ol man i brukim lo, ol i lus olgeta wantaim; pinis bilong ol man nogut — ol i katim em i go ausait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/37-40.1792358180332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופשעים",
+      "gloss": "Na ol man i brukim lo"
+    },
+    {
+      "surface": "נשמדו",
+      "gloss": "ol i lus olgeta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "pinis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "ol i katim em i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:20.333790203Z",
+  "model": "glm-5.3"
+}

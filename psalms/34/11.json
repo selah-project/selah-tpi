@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשו \/ יחסרו",
+      "rationale": "Root play between רושׁ (be destitute) and חסר (lack) frames the contrast; partly lost in Tok Pisin 'nating\/lusim'."
+    },
+    {
+      "kind": "addition",
+      "subject": "samting",
+      "gloss": "טוב is 'good' as noun; Tok Pisin needs 'gutpela samting'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "painim",
+      "rationale": "דרש is 'seek\/diligently pursue after'; 'painim' keeps the search picture."
+    }
+  ],
+  "translation": "Ol yangpela laion i stap wantaim nating na hangre, tasol ol man i painim ⟨את⟩ Yahwe, ol i no ken lusim wanpela gutpela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/9-12.1792358115214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Ol yangpela laion"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "i stap wantaim nating"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "na hangre"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "tasol ol man i painim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ol i no ken"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "lusim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:15.215487174Z",
+  "model": "glm-5.3"
+}

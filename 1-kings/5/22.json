@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tok⟩",
+      "rationale": "Hebrew i tok 'i salim long Selomo, i tok olsem' — 'tok' i stap long לאמר, tasol Tok Pisin i nidim wanpela tok pastaim"
+    },
+    {
+      "kind": "crux",
+      "subject": "berus",
+      "rationale": "ברוש: ol man i tanim 'cypress', 'juniper', o 'pine' — no man i save tulait tru"
+    },
+    {
+      "kind": "you",
+      "subject": "Hiram i toktok long Selomo",
+      "rationale": "Tok bilong Hiram i go stret long Selomo"
+    }
+  ],
+  "translation": "Na Hiram i salim ⟨tok⟩ i go long Selomo, i tok olsem: Mi harim pinis ⟨את⟩ olgeta samting yu salim i kam long mi; bai mi wokim ⟨את⟩ olgeta samting yu laikim, wantaim ol diwai seda na wantaim ol diwai berus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6b25392da2cd64be6763a24a82fd6ccd08d5d154d39f7f6c85e98c1ff24094de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/5\/21-24.1792352793765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na i salim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Mi harim pinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "samting"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "yu salim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i kam long mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bai mi wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting yu laikim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "samting yu laikim"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "wantaim ol diwai"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seda"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "na wantaim ol diwai"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berus"
+    }
+  ],
+  "timestamp": "2026-10-18T19:46:33.785859083Z",
+  "model": "glm-5.3"
+}

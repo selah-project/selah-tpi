@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sevenpela taim",
+      "rationale": "שבע פעמים — the counted washing, seven times, is the ritual prescription."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Go, na yu wasim yu yet",
+      "rationale": "imperatives address Naaman directly through the messenger."
+    },
+    {
+      "kind": "elision",
+      "subject": "מלאך",
+      "rationale": "מלאך rendered 'mesinja' — a human messenger here, not an angel."
+    }
+  ],
+  "translation": "Na Elisa i salim wanpela mesinja i go long em, i tok olsem: Go, na yu wasim yu yet sevenpela taim long Yarden, na bodi bilong yu bai kamap gen long yu, na yu bai klin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8e3aad0dec707800db98712a825ff840a4cf58f3e6948c4b92f8c200dab10e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/5\/10-11.1792363156345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "wanpela mesinja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na yu wasim yu yet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sevenpela"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "taim"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "long Yarden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bai kamap gen"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "bodi bilong yu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na yu bai klin"
+    }
+  ],
+  "timestamp": "2026-10-18T22:39:16.346426856Z",
+  "model": "glm-5.3"
+}

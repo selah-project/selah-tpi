@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 17:3",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשוב הכל האיש אשר אתה מבקש",
+      "rationale": "Klokia stret: KJV 'olsem olgeta i kam bek, man we yu painim em i olsem olgeta i kam bek'; JPS 'taim olgeta i kam bek, bihainim dispela man tasol'; YLT 'kam bek bilong olgeta em i wanpela man we yu painim'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨olgeta tasol⟩",
+      "rationale": "Mi putim dispela tok bilong skelim — Tok Hibru i no tok klia."
+    }
+  ],
+  "translation": "Na bai mi bringim bek olgeta manmeri i kam long yu; olsem olgeta i kamap bek ⟨olgeta tasol⟩, dispela man we yu painim em; na olgeta manmeri bai i stap long pis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/17\/1-4.1792352413388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "Na bai mi bringim bek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i kam long yu"
+    },
+    {
+      "surface": "כשוב",
+      "gloss": "olsem kamap bek"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "bilong olgeta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dispela man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "painim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "manmeri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "long pis"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:13.397157930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Tok Pisin i nidim wanem ol i glorigim; Hibru i no gat objekt tok"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "יצדקו — kamap stretpela long tsedek, i no gat narapela tok"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pikinini bilong Yisrael",
+      "rationale": "ves i tokim olgeta pikinini bilong Yisrael"
+    }
+  ],
+  "translation": "Long Yahwe olgeta pikinini bilong Yisrael bai i kamap stretpela, na ol bai i glorigim ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "688294ad878606561a3265e29ceaf7beceae8a95a3142cceab3f085a9c099599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/45\/25-25.1792354523557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Long Yahwe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "bai i kamap stretpela"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "na ol bai i glorigim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:23.558072092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אוי נא לי",
+      "rationale": "Hebrew lament cry 'oy na li' rendered as Tok Pisin cry 'sori nogut tru long mi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגון על מכאבי",
+      "rationale": "Doubling of sorrow upon sorrow — grief stacked on pain — rhetorically repeated nouns."
+    }
+  ],
+  "translation": "Yu tok: Sori nogut tru long mi, bihain Yahwe i putim pen klostu long pen bilong mi; mi pen tirong wantaim ol hanhan bilong mi, na malolo mi no painim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f8a590235eed7de6e5e90bacf80bb1d69cba08f8c48ea50a904a68d81982438b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/45\/1-4.1792355730418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "yu tok"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "sori nogut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bihain"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "i putim klostu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "pen"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "pen bilong mi"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mi pen tirong"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "wantaim ol hanhan bilong mi"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "na malolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mi painim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:35:30.419875032Z",
+  "model": "glm-5.3"
+}

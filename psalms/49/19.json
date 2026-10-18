@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong em",
+      "rationale": "נפש em i breath\/mauri\/bel — 'soul' long Inglis i no stret long Tok Pisin, olsem na bel bilong em."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat 'long em yet', Tok Pisin i nidim em."
+    }
+  ],
+  "translation": "Long wonem olsem bel bilong em, long taim em i stap mauri, em i tok gutpela tok long ⟨em⟩ yet; na ol bai sotim tok gutpela long yu, long wonem olsem yu wokim gutpela long ⟨em⟩ yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/17-20.1792358261668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wonem olsem"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "long taim em i stap mauri"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "em i tok gutpela tok long"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "na ol bai sotim tok gutpela long yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wonem olsem"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "yu wokim gutpela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:41.668942243Z",
+  "model": "glm-5.3"
+}

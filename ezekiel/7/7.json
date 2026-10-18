@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 7:7",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפירה",
+      "rationale": "Rare word from צפר: 'dawn\/morning' (KJV, Geneva) vs 'turn of affairs\/doom' (ASV, JPS) vs 'crown'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moning",
+      "rationale": "Chose 'moning' (dawn) reading; JPS 'the turn is come' takes the same root as turn-of-events."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨long⟩",
+      "rationale": "Preposition supplied where Hebrew juxtaposes construct nouns."
+    },
+    {
+      "kind": "you",
+      "subject": "יושב הארץ",
+      "rationale": "Direct address to the inhabitant of the land."
+    }
+  ],
+  "translation": "Moning i kamap ⟨long⟩ yu, man i stap long graun: taim i kam, de i klostu — tarangu, na i no singaut long ol maunden.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d81ea06f4e6d9b6e971559f65f7fa8c907b7f81dbccbee3845f6da485cec5a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/7\/5-8.1792356014806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "הצפירה",
+      "gloss": "Moning"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "man i stap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kam"
+    },
+    {
+      "surface": "העת",
+      "gloss": "taim"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "i klostu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "tarangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "הד",
+      "gloss": "singaut"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ol maunden"
+    }
+  ],
+  "timestamp": "2026-10-18T20:40:14.806932924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i wanpela tok — win, ruak, pulim win; mi no tanimim long 'spirit' tasol"
+    },
+    {
+      "kind": "crux",
+      "subject": "ruak bilong mi",
+      "rationale": "פקיד רוחי — ol man i autim long taim bilong pen narapela; tanim tok tasol: mi salim ruak bilong mi long han bilong yu"
+    }
+  ],
+  "translation": "Long han bilong yu mi salim ⟨את⟩ ruak bilong mi; yu baimbekim ⟨את⟩ mi, Yahwe, El bilong tok tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/31\/5-8.1792358082055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "long han bilong yu"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "mi salim"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "yu baimbekim"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bilong tok tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:42.056825171Z",
+  "model": "glm-5.3"
+}

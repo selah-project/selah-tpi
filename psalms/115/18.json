@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "ואנחנו i mekim daunbilo — 'ol man i dai i no, tasol yumi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hal'lu Ya",
+      "rationale": "em i 'aleluya' — singaut bilong olgeta"
+    }
+  ],
+  "translation": "Tasol yumi, yumi bai mekim gutpela tok long Ya, long dispela taim i kamap inap oltaim olgeta. Singautim nem bilong Ya!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/115\/17-18.1792359063346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "tasol yumi"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "yumi bai mekim gutpela tok long"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "long dispela taim i kamap"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "singautim nem bilong"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:03.347515306Z",
+  "model": "glm-5.3"
+}

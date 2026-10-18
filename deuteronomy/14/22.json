@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשר תעשר",
+      "rationale": "Infinitive absolute doubling of the same root, 'tithe you shall tithe' — rendered 'ten tru long ten' to keep the repetition."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tithe",
+      "rationale": "The verse commands a recurring tenth of all field produce, year by year."
+    }
+  ],
+  "translation": "Ten tru long ten yu mas tekim ⟨את⟩ olgeta kemap bilong kaikai pikinini bilong yu, we i kemap long gaden, yia wantaim yia.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1f4990144dd49a5fac252ac09da5bdc5ceb81809fbd9e570dbfa47dd823dfe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/14\/22-23.1792363017465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ten tru long ten"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "yu mas tekim ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kemap bilong kaikai pikinini bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "kemap"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kaikai pikinini bilong yu"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "we i kemap"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:57.465561713Z",
+  "model": "glm-5.3"
+}

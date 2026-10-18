@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "Palanquin\/carried-seat word appears only here in the Tanakh; renderings split between palanquin, chariot, and litter."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפריון",
+      "rationale": "KJV 'chariot' vs JPS\/ASV 'palanquin'; a litter carried by men fits the escort of 3:7-8 better than a war chariot."
+    }
+  ],
+  "translation": "Sek bilong karim man — king Shelomo i mekim bilong em, long ol diwai bilong Levanon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/3\/9-11.1792360437770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "sek bilong karim man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i mekim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "long ol diwai bilong"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:57.771009133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 25:7",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "לך em i 'long yu'; olsem na ⟨yu⟩ i stap long tok, 'ol i tokim yu' — Tok Pisin i nidim em."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר ראו עיניך",
+      "rationale": "Ribuel olsem: 'we ai bilong yu i lukim' (bikman), o 'sapos yu wanem i lukim pinis' — BSB i makim sampela hap narapela long KJV."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלה\/השפילך",
+      "rationale": "Kamap antap long ples \/ putim daun — tupela tok i tanim tokim narapela; piksa i stap."
+    }
+  ],
+  "translation": "Bikos gutpela moa long ol i tokim ⟨yu⟩: Kamap hit; moa long ol i putim yu daun long front bilong bikman, we ol ai bilong yu bilong lukim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/25\/5-8.1792359737435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ol i tokim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨yu⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kamap"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hit"
+    },
+    {
+      "surface": "מהשפילך",
+      "gloss": "ol i putim yu daun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long front bilong"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "bikman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ol … i lukim"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ai bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:17.436240904Z",
+  "model": "glm-5.3"
+}

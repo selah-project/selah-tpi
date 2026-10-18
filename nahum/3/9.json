@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "עזרתך i tok 'help bilong yu' (bilong Ninive), tasol ves 8 i tok long No, olsem na ⟨en⟩ i makim dispela"
+    },
+    {
+      "kind": "crux",
+      "subject": "strongpela tru \/ i no gat hap klos",
+      "rationale": "עצמה...ואין קצה: KJV ol i ridim 'ol i strongpela tru, i no gat end' wantaim; YLT ol i separetim"
+    }
+  ],
+  "translation": "Kush — strongpela tru, na Mitsrayim, i no gat hap klos; Put na ol Lubim ol i stap long help bilong ⟨en⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nahum\/3\/9-12.1792357434102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "strongpela tru"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "hap klos"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "na ol Lubim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ol i stap"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "long help bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:54.102838542Z",
+  "model": "glm-5.3"
+}

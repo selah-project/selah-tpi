@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i laikim prediket maka; Hibru i no gat kopula namel long 'kontrak bilong mi' na 'wantaim yu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Avraham \/ המון גוים",
+      "rationale": "Stat 17:5 i spelautim: nem 'Avraham' i tanim olsem 'papa bilong planti ol kantri' — sound bilong 'av' na 'hamon' i wok wantaim"
+    }
+  ],
+  "translation": "Long bilong mi yet, lukim, kontrak bilong mi ⟨i⟩ wantaim ⟨את⟩ yu, na bai yu kamap papa bilong planti ol kantri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/17\/1-4.1792346548392.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kontrak bilong mi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wantaim",
+      "marks": "yu"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "na bai yu kamap"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "papa bilong"
+    },
+    {
+      "surface": "המון",
+      "gloss": "planti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol kantri"
+    }
+  ],
+  "timestamp": "2026-10-18T18:02:28.394180798Z",
+  "model": "glm-5.3"
+}

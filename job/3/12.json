@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "i sanap pastaim bilong holim mi",
+      "rationale": "קדמני literally 'came before\/met me' — KJV 'prevent' (old sense 'anticipate') vs JPS 'receive me', the nursing father's knees."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mi⟩",
+      "rationale": "Object pronoun added; Hebrew suffix on the verb already carries it."
+    }
+  ],
+  "translation": "Bilong wanem ol skru bilong lek i sanap pastaim bilong holim ⟨mi⟩? Na bilong wanem ol susu i stap, bilong mi dringim susu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/3\/9-12.1792359846019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "i sanap pastaim bilong holim mi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ol skru bilong lek"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na bilong wanem"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ol susu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "mi dringim susu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:44:06.020474237Z",
+  "model": "glm-5.3"
+}

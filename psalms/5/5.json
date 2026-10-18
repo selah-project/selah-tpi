@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגרך",
+      "rationale": "גור 'to sojourn\/dwell as stranger': 'evil shall not sojourn' vs 'evil shall not dwell'; Tok Pisin uses 'stap klostu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "El",
+      "rationale": "אל rendered as name-title El, not generic 'God'."
+    }
+  ],
+  "translation": "Long wanem, yu no wanpela El i laikim ⟨את⟩ pasin nogut — olsem rausman yu no inap stap wantaim; ol samting rong i no ken stap klostu long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/5\/5-8.1792357849440.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "i laikim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pasin nogut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "i stap klostu long yu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ol samting rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:10:49.440955428Z",
+  "model": "glm-5.3"
+}

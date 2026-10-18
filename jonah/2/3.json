@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yu no harim",
+      "rationale": "שמעת — KJV\/BSB ol i rit 'you heard'; tpi gloss 'harim' i minim bikos Tok Pisin i no save makim tense stret, olsem na i no ken senisim mining"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Seol",
+      "rationale": "שאול i tanim Seol, i no hel — ples bilong ol man i dai"
+    },
+    {
+      "kind": "you",
+      "subject": "tok bilong Yona long Yahwe",
+      "rationale": "Yona i toktok street long Yahwe long seksen hia (yu harim)"
+    }
+  ],
+  "translation": "Na em i tok: Mi singaut long tribul bilong mi long Yahwe, na em i bekim tok long mi; long bel bilong Seol mi singaut help, na yu no harim ⟨i⟩ olgeta tok bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jonah\/2\/1-4.1792357362439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi singaut"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "long tribul"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "na em i bekim tok long mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "long bel bilong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mi singaut help"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tok bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:02:42.440839913Z",
+  "model": "glm-5.3"
+}

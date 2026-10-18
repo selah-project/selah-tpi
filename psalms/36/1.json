@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol singaut",
+      "rationale": "למנצח i tok long man i lidaim musik; Tok Pisin i laikim wanpela tok moa"
+    }
+  ],
+  "translation": "Bilong man i lidaim ol singaut, bilong wokman bilong Yahwe, bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/36\/1-4.1792358130981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i lidaim ol singaut"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bilong wokman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:30.982738860Z",
+  "model": "glm-5.3"
+}

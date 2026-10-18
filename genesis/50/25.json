@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקד יפקד",
+      "rationale": "Infinitive-absolute plus verb — 'visit visit' — doubling for certainty; rendered 'bai i lukluk kam olsem wanpela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lukluk kam",
+      "rationale": "פקד means visit\/attend\/remember with covenant intent; 'lukluk kam' keeps the personal attending sense"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oath",
+      "rationale": "Joseph binds the sons of Israel with a sworn oath — a formal speech-act requiring future action"
+    }
+  ],
+  "translation": "Na Yosep i mekim ol pikinini bilong Yisrael beten, olsem: Elohim bai i lukluk kam long yupela olsem wanpela, na yupela mas karim ⟨את⟩ ol bun bilong mi antap, i lus long hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/50\/25-26.1792347296420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "i mekim beten"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol pikinini bilong Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "lukluk kam"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "bai i lukluk kam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "na yupela mas karim antap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol bun bilong mi"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "ol bun bilong mi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "i lus long hia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:14:56.421483092Z",
+  "model": "glm-5.3"
+}

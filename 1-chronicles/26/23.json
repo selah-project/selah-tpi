@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨long⟩",
+      "rationale": "Hebrew prefixed preposition ל־ rendered per token; Tok Pisin needs 'long' as separate word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "clan listing",
+      "rationale": "Genealogical list of Kohathite clans"
+    }
+  ],
+  "translation": "⟨Long⟩ ol Amrami, ⟨long⟩ ol Yitshari, ⟨long⟩ ol Khevroni, ⟨long⟩ ol Uzieli.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/26\/21-24.1792362209637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "long ol Amrami"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "long ol Yitshari"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "long ol Khevroni"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "long ol Uzieli"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:29.638144186Z",
+  "model": "glm-5.3"
+}

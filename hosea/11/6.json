@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחלה חרב",
+      "rationale": "KJV 'the sword shall abide' vs ASV\/JPS 'shall fall' vs BSB 'will flash through' — Hebrew verb חלה ranges over whirl\/flash\/attack."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bainat",
+      "rationale": "חרב literally 'drought; cutting instrument' — rendered 'bainat' per discipline."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדיו",
+      "rationale": "'bars' (of gates) vs KJV 'branches' — the word בד covers limb, branch, and bar."
+    }
+  ],
+  "translation": "Na bainat i wok long ⟨em⟩ i stanap long ol siti bilong en, na em i pinisim ol banis bilong en, na em i kaikaiim ⟨את⟩ olgeta — bilong ol tingting bilong ol yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eab8e7b43813d2a63cf9e407ec759f9a4461f2ee2e8e24b1342a51f4a56fddb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/11\/6-7.1792363296545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "i wok long"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "long ol siti bilong en"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "na em i pinisim"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ol banis bilong en"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "na em i kaikaiim"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "bilong ol tingting bilong ol yet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:36.546118352Z",
+  "model": "glm-5.3"
+}

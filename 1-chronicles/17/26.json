@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin predicate marker added; Hebrew verbless clause"
+    },
+    {
+      "kind": "you",
+      "subject": "David i tok long Yahwe",
+      "rationale": "Direct address to Yahwe in prayer"
+    }
+  ],
+  "translation": "Na nau, Yahwe, yu yet ⟨i⟩ Elohim, na yu tokim wokman bilong yu long dispela gutpela tok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/17\/25-27.1792362096164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na nau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yet"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "na yu tokim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wokman bilong yu"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dispela gutpela tok"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:36.165704799Z",
+  "model": "glm-5.3"
+}

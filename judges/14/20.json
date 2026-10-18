@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעה לו",
+      "rationale": "lemma i 'tend a flock' (lukautim sipsip) tasol ol translator i lukim רֵעָה (poro\/wantok) — 'whom he had used as his friend'; mi holim 'wantok'"
+    },
+    {
+      "kind": "elision",
+      "subject": "passive",
+      "rationale": "Hebrew i no tok husat i givim meri — 'i kamap bilong wantok bilong em'; ol Inglis i putim 'was given'"
+    }
+  ],
+  "translation": "Na meri bilong Shimshon i kamap ⟨⟨i⟩⟩ bilong wantok bilong em, man i stap wantaim em olsem poro.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0e82f89d49566333ebdb213ace3cd87bdf72df11909ecdd54c129ca156ad9faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/14\/17-20.1792351298523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "bilong Shimshon"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "bilong wantok bilong em"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "i stap wantaim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:21:38.526691076Z",
+  "model": "glm-5.3"
+}

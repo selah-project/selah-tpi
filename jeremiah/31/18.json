@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 31:18",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמוע שמעתי",
+      "rationale": "Infinitive absolute doubled with the verb: 'hearing I heard' — intensity, lost as single 'harim olgeta'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבני \/ ואשובה",
+      "rationale": "Same root שוב twice: 'turn me and I will turn' — the root that anchors this whole return passage."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנודד",
+      "rationale": "From נוד 'to nod\/waver': 'bemoaning himself' (KJV\/JPS) vs 'trembling\/wandering' — I chose the bodily picture 'nagim het' (shaking the head)."
+    },
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Hebrew lacks copula in 'ki attah YHWH' — Tok Pisin requires ⟨yu⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Efrayim i tok long Yahwe",
+      "rationale": "Direct address of Ephraim's prayer to Yahwe, 'my Elohim'."
+    }
+  ],
+  "translation": "Harim olgeta, mi harim Efrayim i nagim het: Yu skruim mi, na mi kisim skru, olsem pikinini bulmakau man i no trenim yet; bringim mi bek, na bai mi kamap bek, bilong ⟨yu⟩ Yahwe, Elohim bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8b40f123ddd39fc44cd61c12e2efee10cf768cfe9f6bf4d07cb34060521c53ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/31\/18-19.1792363220597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמוע",
+      "gloss": "harim olgeta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi harim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מתנודד",
+      "gloss": "i nagim het"
+    },
+    {
+      "surface": "יסרתני",
+      "gloss": "yu skruim mi"
+    },
+    {
+      "surface": "ואוסר",
+      "gloss": "na mi kisim skru"
+    },
+    {
+      "surface": "כעגל",
+      "gloss": "olsem pikinini bulmakau man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "למד",
+      "gloss": "trenim"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "bringim mi bek"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "na bai mi kamap bek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:20.598473362Z",
+  "model": "glm-5.3"
+}

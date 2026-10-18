@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rausim pek",
+      "rationale": "לכפר literally 'to cover' (kaper); rendered 'rausim pek' — kavarim would suggest burial in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "soul",
+      "rationale": "נפש is throat\/breath\/life-force; 'soul' follows established usage but narrows the Hebrew."
+    },
+    {
+      "kind": "you",
+      "subject": "yupela",
+      "rationale": "Direct address to Moses and Israel at the end of the verse."
+    }
+  ],
+  "translation": "Man i gat plenti mani i no ken givim moa, na man i no gat plenti i no ken givim less long hap sekel, bilong givim ⟨את⟩ presen bilong Yahwe, bilong rausim pek long ol soul bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/30\/13-16.1792347986788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "man i gat plenti mani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "givim moa"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "na man i no gat plenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "givim less"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "long hap"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "bilong givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "presen bilong Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "presen bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "bilong rausim pek"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ol soul bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:26:26.789843292Z",
+  "model": "glm-5.3"
+}

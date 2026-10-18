@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Tok Pisin predicate marker required; Hebrew verb carries person without it."
+    }
+  ],
+  "translation": "Olsem olgeta samting we Yahwe i tokim ⟨את⟩ Mose, olsem na ol pikinini man bilong Yisrael i wokim ⟨את⟩ olgeta wok.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/39\/41-43.1792348199548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "olsem olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta wok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "wok"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:59.548864818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא בחר \/ ויבחר",
+      "rationale": "Repetition of בחר across vv. 67–68 — 'chose not Ephraim \/ chose Judah' — antithesis preserved by repeating 'makim'."
+    }
+  ],
+  "translation": "Na em i makim ⟨את⟩ stik bilong lain Yehuda, ⟨את⟩ maunten Tsiyon we em i luvim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/78\/65-68.1792358564990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Na em i makim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stik bilong lain Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stik bilong lain"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maunten Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "em i luvim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:44.991617015Z",
+  "model": "glm-5.3"
+}

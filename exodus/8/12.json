@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kinim",
+      "rationale": "כנם em i liklik binatang (natnat); Tok Pisin i no gat stret tok, olsem na mi usim kinim."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hibru i no gat pronoun; ⟨em⟩ i skirim das bilong graun, olsem na mi putim long braket."
+    },
+    {
+      "kind": "you",
+      "subject": "to Mose and Aharon",
+      "rationale": "Yahwe i tok stret long Mose, na Mose i mas tokim Aharon — tok i go long wanwan man."
+    },
+    {
+      "kind": "measurement",
+      "subject": "בכל ארץ מצרים",
+      "rationale": "ples bilong plaga i skelim — olgeta graun bilong Mitsrayim, olgeta hap."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Mose: Tokim Aharon: Stretpim ⟨את⟩ stik bilong yu, na paitim ⟨את⟩ das bilong graun, na ⟨em⟩ bai kamap ol kinim long olgeta graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "89929b34077c605b97d4eeb0faa7ea4bccf5d1b7138802e68f2d214f5c69f3e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/12-12.1792362894923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "stretpim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stik bilong yu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "stik bilong yu"
+    },
+    {
+      "surface": "והך",
+      "gloss": "na paitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das bilong graun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ol kinim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:34:54.923598561Z",
+  "model": "glm-5.3"
+}

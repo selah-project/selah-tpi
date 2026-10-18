@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Iyov",
+      "rationale": "Elihu continues direct address to Job, inviting his reply."
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקך",
+      "rationale": "'I desire to justify you' vs 'I desire your vindication' — the verb is causative: to make your tsedek appear."
+    }
+  ],
+  "translation": "Sapos i gat tok, tanim tok long mi; toktok, long wanem mi laikim tsedek bilong yu i kamap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/33\/29-32.1792360291239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sapos"
+    },
+    {
+      "surface": "יש",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "tok"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "tanim tok long mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "toktok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mi laikim"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedek bilong yu i kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:51:31.240427335Z",
+  "model": "glm-5.3"
+}

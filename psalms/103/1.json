@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש i pasin bilong pulim win na laip, i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "you",
+      "subject": "to David \/ to the soul",
+      "rationale": "David i tokim laip bilong en yet — em i tok bilong skelim man yet"
+    }
+  ],
+  "translation": "Bilong David. Blessim ⟨את⟩ Yahwe, ⟨laip bilong mi⟩, na olgeta samting insait long mi, i go blessim ⟨את⟩ nem holi bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/103\/1-4.1792358920446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bilong David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Blessim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "samting insait long mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nem holi bilong em"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:40.447506014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושאתו",
+      "rationale": "שאת = exaltation\/dignity, but same lemma means leprous swelling; KJV 'dignity', JPS 'majesty', ylt 'excellency'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kot bilong em",
+      "rationale": "משפט here is the verdict\/justice the nation issues itself, not a court case"
+    }
+  ],
+  "translation": "Em i nastring bilong scarem tru na bilong nogut tru; kot bilong em na strongpela nem bilong em i go ausait long em yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/habakkuk\/1\/5-8.1792357491224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "bilong scarem tru"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na bilong nogut tru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em yet"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "kot bilong em"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "na strongpela nem bilong em"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i go ausait"
+    }
+  ],
+  "timestamp": "2026-10-18T21:04:51.225691155Z",
+  "model": "glm-5.3"
+}

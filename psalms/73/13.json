@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב (heart) em i bel — tingting na laik — long Tok Pisin, i no hat"
+    },
+    {
+      "kind": "crux",
+      "subject": "אך ריק",
+      "rationale": "'tru tumas — nating': KJV 'surely in vain' vs YLT 'only — a vain thing'"
+    }
+  ],
+  "translation": "Tru tumas — nating wan samting: mi klirim bel bilong mi, na mi wasim ol han bilong mi long klia pasin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/13-16.1792358500831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tru"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "nating"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "mi klirim"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "na mi wasim"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "long klia pasin"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ol han bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:40.832271702Z",
+  "model": "glm-5.3"
+}

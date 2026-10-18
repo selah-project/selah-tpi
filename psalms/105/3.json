@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol man",
+      "rationale": "Hibru i no tok long ol man — bel bilong ol man i painim, Tok Pisin i nidim olgeta ol man long klikim tok."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel bilong ol man",
+      "rationale": "לֵב i tok long bel bilong tingting na laik — Tok Pisin 'bel' i holim mining, tasol 'hat' o 'lewa' i no stret."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התהללו \/ הלל",
+      "rationale": "Em i tok bilong 'haleluya' — pes i stat long hallel-form, na Tok Pisin i no inap holim nois bilong en."
+    }
+  ],
+  "translation": "Sekim nem long nem holi bilong en; bel bilong ol man i painim Yahwe i save amamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/1-4.1792358967962.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "sekim nem long"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong en"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "i save amamas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bel bilong ol man"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:27.963712473Z",
+  "model": "glm-5.3"
+}

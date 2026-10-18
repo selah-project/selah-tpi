@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol sang",
+      "rationale": "נגינתי em i miusik bilong string — 'sang' i klostu tasol"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לבב em i bel\/tingting long sansim bilong Tok Pisin — D4"
+    }
+  ],
+  "translation": "Long nait mi tingim ol sang bilong mi; wantaim bel bilong mi mi toktok wantaim mi yet; na ruak bilong mi i painim gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/77\/5-8.1792358516874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "mi tingim"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "ol sang bilong mi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi toktok wantaim mi yet"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "na ... i painim gut"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:56.875365817Z",
+  "model": "glm-5.3"
+}

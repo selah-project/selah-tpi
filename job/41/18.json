@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 41:18",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ושריה",
+      "rationale": "שריון-corset word appears only here in this form; rendered 'armor for guarding the body'."
+    },
+    {
+      "kind": "elision",
+      "subject": "verb i no inap kirap",
+      "rationale": "Hebrew carries each weapon in asyndetic list under one verb; repeated in Tok Pisin for sense."
+    }
+  ],
+  "translation": "Bainat i no inap kirap wantaim em; spia, wespia, na kot bilong lukautim bodi i no inap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/41\/17-20.1792360418891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיגהו",
+      "gloss": "i holim kirap long em"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "i no"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "inap kirap"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spia"
+    },
+    {
+      "surface": "מסע",
+      "gloss": "wespia"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na kot bilong lukautim bodi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:38.892409919Z",
+  "model": "glm-5.3"
+}

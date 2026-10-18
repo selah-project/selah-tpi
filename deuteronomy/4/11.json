@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong heven",
+      "rationale": "לב השמים em i 'bel bilong heven' — Hebrew i tokim heven olsem man i gat bel; Tok Pisin i holim piksa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך \/ וערפל",
+      "rationale": "Tupela tok bilong tudak i stap klostu — 'tudak' na 'arafel' (bikpela tudak), tri tok i kamap wanwan"
+    }
+  ],
+  "translation": "Na ol i klostu, na ol i sanap ananit long maunten; na maunten i burn long paia inap long bel bilong heven — tudak, klaut, na bikpela tudak.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/4\/9-12.1792349807211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "Na ol i klostu"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "maunten"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "na maunten"
+    },
+    {
+      "surface": "בער",
+      "gloss": "i burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "long paia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "long bel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "bilong heven"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tudak"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "klaut"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na bikpela tudak"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:47.212984540Z",
+  "model": "glm-5.3"
+}

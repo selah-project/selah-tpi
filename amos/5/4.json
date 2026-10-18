@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "painim mi",
+      "rationale": "Imperative invitation to seek Yahwe, paired with the promise of life."
+    },
+    {
+      "kind": "you",
+      "subject": "haus bilong Yisrael",
+      "rationale": "Direct address to the house of Israel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרשוני וחיו",
+      "rationale": "Two-beat imperative-plus-promise; terseness (seek Me and live) is the verse's whole force."
+    }
+  ],
+  "translation": "Bikos olsem Yahwe i tok long haus bilong Yisrael: Painim mi, na bai yupela stap lib.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/amos\/5\/1-4.1792357311579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "כה",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "long haus bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "painim mi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "na bai yupela stap lib"
+    }
+  ],
+  "timestamp": "2026-10-18T21:01:51.580908462Z",
+  "model": "glm-5.3"
+}

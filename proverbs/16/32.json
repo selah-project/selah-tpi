@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel he paia",
+      "rationale": "אפים em i literally 'narapl' \/ 'nose', idiom bilong bel he — tok Tasol i no save"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח em i ruak — win, win bilong bel, Spirit — D2 lo i tambuim 'spirit' tasol"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... מן",
+      "rationale": "Hebrew i tok 'gutpela ... bilong' (comparative מִן), Tok Pisin i gat 'moa long'"
+    }
+  ],
+  "translation": "Man i save holim pas long bel he paia em i gutpela moa long bikpela man i gat strong, na man i bosim ⟨את⟩ ruak bilong en i gutpela moa long man i kisim ⟨את⟩ siti.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2f7ced19cb6303c88a4bdf373fdce2375464b58803cf871c88a077a33c1746be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/16\/32-32.1792363389050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "i gutpela moa long"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "man i save holim pas long"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "bel he paia"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "bikpela man i gat strong"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na man i bosim"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruak bilong en"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "i gutpela moa long man i kisim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siti"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:09.051273880Z",
+  "model": "glm-5.3"
+}

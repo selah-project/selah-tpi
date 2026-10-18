@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong mi",
+      "rationale": "נפש is throat\/breath\/life-force, not 'soul'; Tok Pisin discipline uses 'bel' (seat of feeling and thinking)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol man malolo long bel",
+      "rationale": "ענוים literally 'depressed\/humble ones' — rendered with a Tok Pisin idiom for humility."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Object of 'harim' (the praise) is implicit in Hebrew; Tok Pisin adds bracketed pronoun."
+    }
+  ],
+  "translation": "Long Yahwe bel bilong mi i save praesim; ol man malolo long bel bai harim ⟨em⟩ na ol i glad tumas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/34\/1-4.1792358135314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Long Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "i save praesim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bel bilong mi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bai harim"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ol man malolo long bel"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na ol i glad tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:35.315665767Z",
+  "model": "glm-5.3"
+}

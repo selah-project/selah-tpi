@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יראיך \/ יראוני",
+      "rationale": "same root letters ירא — 'fear' and 'see' sound alike, wordplay lost in Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "belhet",
+      "rationale": "ושמחו literally 'brighten up' — Tok Pisin idiom belhet (happy) carries the sense"
+    }
+  ],
+  "translation": "Ol man i scare long yu bai ol i lukim mi na ol i belhet, bilong wanem mi wet strong long tok bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/73-76.1792359130998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "ol man i scare long yu"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "bai ol i lukim mi"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na ol i belhet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "long tok bilong yu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mi wet strong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:11.000160128Z",
+  "model": "glm-5.3"
+}

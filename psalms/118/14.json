@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "Rare word (only Ex 15:2, Isa 12:2, here): 'song\/praise' vs 'protection\/stronghold' — rendered here as 'singsing'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "selpes",
+      "rationale": "ישועה is deliverance\/victory, not personal savior; 'selpes' keeps the abstract shape."
+    }
+  ],
+  "translation": "Ya em ⟨i⟩ strong bilong mi na singsing bilong mi, na em i kamap selpes bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/118\/13-16.1792359080101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "strong bilong mi"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "na singsing bilong mi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "selpes"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:20.101710938Z",
+  "model": "glm-5.3"
+}

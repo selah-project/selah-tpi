@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וילכדו בגאונם",
+      "rationale": "'ol i kemp' — Heb 'let them be caught' in their pride; net-trap picture softened."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה in v14",
+      "rationale": "repetition continues into next verse, plea intensification."
+    },
+    {
+      "kind": "crux",
+      "subject": "יספרו",
+      "rationale": "'recount' (BDB) vs traditional 'which they speak'; rendered 'storyim'."
+    }
+  ],
+  "translation": "Sin bilong mouth bilong ol, tok bilong wet bilong ol: bai ol i kemp long hevi bilong ol yet; na long tok kros bilong ol na long giaman bilong ol ol i storyim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8cf0e06c5641272bcbf5ce5083a98b8da9e892bd73a30581a60516db36bd875c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/59\/13-14.1792363350991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sin"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "mouth bilong ol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "wet bilong ol"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bai ol i kemp"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "long hevi bilong ol yet"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "na long tok kros bilong ol"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "na long giaman bilong ol"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ol i storyim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:42:30.992002289Z",
+  "model": "glm-5.3"
+}

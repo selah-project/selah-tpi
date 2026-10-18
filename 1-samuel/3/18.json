@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok save; Hibru i no gat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כחד",
+      "rationale": "Wanpela tok i kamap tupela taim (3:17 na 3:18) — Eli i tokim Samuel no ken haitim, na Samuel i no haitim"
+    }
+  ],
+  "translation": "Na Samuel i stap tokaut long em ⟨את⟩ olgeta tok, na i no haitim wanpela samting long em. Na ⟨em⟩ i tok: Yahwe i stap; olsem i gutpela long ai bilong ⟨em⟩, em i mekim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "954e3c3664bcb857d17569999d4ddf086220e9a06490bdcd6a2a35173c2774a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/17-20.1792351546289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "i stap tokaut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "haitim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "long ai bilong em"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "em i mekim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:25:46.291596255Z",
+  "model": "glm-5.3"
+}

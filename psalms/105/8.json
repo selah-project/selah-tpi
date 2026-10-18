@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "thousand generations",
+      "rationale": "לאלף דור counts the covenant's span as a thousand generations."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית rendered 'kontrak' per covenant-table."
+    }
+  ],
+  "translation": "Em i tingting olgeta taim long kontrak bilong em, tok we em i givim strong long ol, long wan tausen ol jeneresen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/5-8.1792358968892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Em i tingting"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "long kontrak bilong em"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "em i givim strong long ol"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "long wan tausen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ol jeneresen"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:28.894254526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אז אשיב",
+      "rationale": "KJV\/BSB read declarative 'I must restore'; JPS reads a question 'should I restore what I took not away?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "givim bek",
+      "rationale": "אז אשיב literally 'then I return\/bring back'; Tok Pisin 'givim bek' keeps the returning-motion"
+    }
+  ],
+  "translation": "Ol i les long mi nating, ol i moa long ol gras bilong het bilong mi; ol i strongpela, ol i laik rausim mi olgeta, ol birua bilong mi long tok giaman; samting we mi no stilim, mi mas givim bek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/69\/5-8.1792358451821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "ol i moa"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "long ol gras"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "het bilong mi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ol i les long mi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nating"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ol i strongpela"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ol i laik rausim mi olgeta"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ol birua bilong mi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "long tok giaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "mi stilim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mi mas givim bek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:51.821769971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel bilong yu",
+      "rationale": "nefesh em i narapela mining — win o laip; Tok Pisin 'bel' i wanpela pasin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nek bilong yu",
+      "rationale": "gargerot em i troat; sampela tanim 'nek'"
+    }
+  ],
+  "translation": "Na ol bai i stap olsem laip bilong bel bilong yu, na gutpela pasin long nek bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/21-24.1792359358219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "na ol bai i stap"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "laip"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "bilong bel bilong yu"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "na gutpela pasin"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "long nek bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:58.219816390Z",
+  "model": "glm-5.3"
+}

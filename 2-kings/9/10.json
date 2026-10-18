@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat pronaun bilong 'berim' — Tok Pisin i nidim em."
+    },
+    {
+      "kind": "substitution",
+      "subject": "berim",
+      "rationale": "קבר em i tok bilong berim man; 'man bai berim' em i render bilong wanpela veb."
+    }
+  ],
+  "translation": "Na ⟨את⟩ Aizebel ol dok bai kaikai long hap bilong Yizreel, na i no gat man bai berim ⟨em⟩. Na em i opim dua na i ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/9-12.1792353422429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aizebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Aizebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bai kaikai"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ol dok"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "long hap bilong"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na i no gat"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "man bai berim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na i opim"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "na i ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:57:02.430354988Z",
+  "model": "glm-5.3"
+}

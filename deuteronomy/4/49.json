@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "boundaries",
+      "rationale": "Verse defines the borders of the conquered land — east of the Jordan down to the Sea of the Arabah."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשדת",
+      "rationale": "Related to Deut 3:17 'slopes\/springs of Pisgah' — ravines vs springs vs slopes; rendered 'ol sek' (slopes)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "solwara",
+      "rationale": "ים here is the Salt Sea (Dead Sea), rendered generically as 'sea' per Hebrew."
+    }
+  ],
+  "translation": "Na olgeta long dispela Arafa, long sait nogut bilong Jarden, long hap bilong san i kirap, i go inap long solwara bilong Arafa, ananit long ol sek bilong Pesga.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b0aae1d560b7461da2acbdb04026c4c42f23b2b49c82b0fa1f3f8d2a8fb9e1c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/4\/49-49.1792349763993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na olgeta"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "dispela Arafa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "long sait nogut"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "bilong Jarden"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "long hap bilong san i kirap"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i go inap"
+    },
+    {
+      "surface": "ים",
+      "gloss": "solwara"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "bilong Arafa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit long"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ol sek"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "bilong Pesga"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:03.994000025Z",
+  "model": "glm-5.3"
+}

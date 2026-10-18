@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פן יפקד עליה",
+      "rationale": "'lest anyone attack it' (KJV) vs 'lest He (YHWH's anger) visit it' (JPS) — subject of יפקד ambiguous"
+    },
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "Hebrew negative-purpose particle has no single Tok Pisin word; rendered 'bia'"
+    }
+  ],
+  "translation": "Mi, Yahwe, mi lukautim ⟨em⟩; long wanwan taim mi givim wara long em; bia wanpela samting i kot long em — not na de mi lukautim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/27\/1-4.1792354219462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "mi lukautim em"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "long wanwan taim"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "mi givim wara long em"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bia"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "i kot long"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "not"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na de"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "mi lukautim em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:19.463647032Z",
+  "model": "glm-5.3"
+}

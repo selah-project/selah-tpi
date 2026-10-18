@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sutim ol goral",
+      "rationale": "Hebrew ויפילו גורלות literally 'cause lots to fall'; Tok Pisin uses the casting idiom 'sutim'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשער ושער",
+      "rationale": "Hebrew repeats 'gate and gate' for distributive 'every gate'; rendered 'long dua na dua bilong banis' to keep the doubling."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol goral",
+      "rationale": "Verse describes casting lots to assign gate-guard duties — an act of allocation and counting."
+    }
+  ],
+  "translation": "Na ol i sutim ol goral, olsem liklik olsem bikpela, olsem haus bilong ol papa bilong ol, long dua na dua bilong banis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/26\/13-16.1792362184150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "ol i sutim"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ol goral"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "olsem liklik"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "olsem bikpela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "olsem haus bilong"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ol papa bilong ol"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "long dua"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "na dua bilong banis"
+    }
+  ],
+  "timestamp": "2026-10-18T22:23:04.151182330Z",
+  "model": "glm-5.3"
+}

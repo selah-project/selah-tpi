@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד אם",
+      "rationale": "'until if' — Hebrew idiom for 'until'; rendered as 'te sapos'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה\/כלו",
+      "rationale": "Verb כלה repeated (finish giving drink \/ finish drinking) — an envelope structure lost in Tok Pisin."
+    }
+  ],
+  "translation": "Na em i pinisim givim dring long ⟨em⟩, na em i tok: mi bai pulim wara tu long ol kamel bilong yu, te ol i pinis dring pinis.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/24\/17-20.1792346622692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "em i pinisim"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "givim dring long ⟨em⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na em i tok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "long ol kamel bilong yu"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "mi bai pulim wara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ol i pinis"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "dring pinis"
+    }
+  ],
+  "timestamp": "2026-10-18T18:03:42.692913933Z",
+  "model": "glm-5.3"
+}

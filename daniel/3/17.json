@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 3:17",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישיזב",
+      "rationale": "Aramaic yqtl 'he will deliver' vs jussive 'may he deliver' — 'bai em i sevim' (future) vs 'yu ken sevim'"
+    },
+    {
+      "kind": "elision",
+      "subject": "איתי",
+      "rationale": "Aramaic particle of existence ('there is') rendered as 'i stap', almost redundant in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "o king",
+      "rationale": "direct address to Nevukadnessar by the tripela man"
+    }
+  ],
+  "translation": "Luk, Elohim bilong yumi, we yumi save wok long wosipim ⟨את⟩ en, em i inap long sevim yumi long atun bilong paia i save kukim, na long han bilong yu, o king, bai em i sevim yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "35752b22c1a43c49c228904ca7322616322065a85b3a22892e72bab554e6d16a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/3\/17-20.1792361148541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Luk"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "אלהנא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "די",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנחנא",
+      "gloss": "yumi"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "save wok long wosipim"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "em i inap"
+    },
+    {
+      "surface": "לשיזבותנא",
+      "gloss": "long sevim yumi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "long"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "atun"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "paia"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "i save kukim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na long"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "han bilong yu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "o king"
+    },
+    {
+      "surface": "ישיזב",
+      "gloss": "bai em i sevim yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T22:05:48.541867501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הֲכֹל הַיּוֹם",
+      "rationale": "'olgeta de?' o 'ontaem?' — KJV olgeta i no wankain; quesen i tok bilong meresin (man i no wok graun oltaim, olsem na Yahwe i no skelim oltaim)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שׁדד (harrow)",
+      "rationale": "Tanim 'harimim' (wok graun wantaim spes bilong brukim klaut) — tok i kamap liklik hap long Tanakh."
+    }
+  ],
+  "translation": "Em i wok olgeta de long graun bilong planim kaikai? Em i opim na harimim graun bilong em olgeta taim?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/28\/21-24.1792354252237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "de"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "i wok long graun"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "man bilong wok graun"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "bilong planim kaikai"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "em i opim"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "na harimim"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "graun bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:10:52.238752877Z",
+  "model": "glm-5.3"
+}

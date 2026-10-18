@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להדף",
+      "rationale": "Hebrew 'push\/thrust away' — 'rausim' (chase out) is the natural Tok Pisin but loses the physical pushing image."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפניך",
+      "rationale": "Literally 'from your face' — rendered 'moa long ai bilong yu' (from before you)."
+    }
+  ],
+  "translation": "Bilong rausim ⟨את⟩ olgeta birua bilong yu moa long ai bilong yu, olsem we Yahwe i tok.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8f64f317e09f3a6056a8429f6714166220d45df8c4d14d136bd4e1aea95d56c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/6\/17-20.1792349794230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "bilong rausim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta birua bilong yu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "birua bilong yu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "moa long ai bilong yu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:56:34.232027621Z",
+  "model": "glm-5.3"
+}

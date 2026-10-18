@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 17:13",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kago bilong ol",
+      "rationale": "אלה em i tok kago strongpela — 'oath' i kamap kago bilong ol long Tok Pisin"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקח...לקח",
+      "rationale": "Tupela 'tekim' long wanpela ves — Hebrew i gat repetition, Tok Pisin i holim olsem tu"
+    }
+  ],
+  "translation": "Na em i tekim wanpela pikinini bilong di wan bilong kingdom, na em i wokim kontrak wantaim ⟨את⟩ em, na em i bringim ⟨את⟩ em i go insait long kago bilong ol, na ⟨את⟩ ol bikman bilong graun em i tekim ol i go.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/17\/13-16.1792356252780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na em i tekim"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "pikinini bilong di wan bilong kingdom"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "pikinini bilong king"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na em i bringim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em",
+      "marks": "em i go insait long kago bilong ol"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "kago bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol bikman bilong graun"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "ol bikman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "em i tekim ol i go"
+    }
+  ],
+  "timestamp": "2026-10-18T20:44:12.781208130Z",
+  "model": "glm-5.3"
+}

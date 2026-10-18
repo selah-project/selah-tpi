@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Tok Pisin i nidim subjek; Hibru i save long nem bilong God long ves bipo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אגם",
+      "rationale": "Hibru i tok 'ples wara i stap stil' — Tok Pisin 'poel bilong wara' i klostu tumas"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלמיש",
+      "rationale": "Tok bilong flint-ston i no kamap planti long Tanakh, em i bikpela stonstrong"
+    }
+  ],
+  "translation": "Em i senisim ⟨את⟩ ston bilong krai i kamap poel bilong wara, ⟨את⟩ flint-ston i kamap spring bilong wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/114\/5-8.1792359029963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Em i senisim"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ston bilong krai"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "poel bilong wara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "flint-ston"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "long spring bilong wara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:29.964218292Z",
+  "model": "glm-5.3"
+}

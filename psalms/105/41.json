@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ston bilong skrap",
+      "rationale": "צור em i ston antap long ples, i no ston namel long graun — bigpela ston we i stap sans"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i karamapim olgeta",
+      "rationale": "יזובו em i wara i ranawe i go — 'flow out', mi no usim 'karamap'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ציות",
+      "rationale": "Wanpela tok i kamap long Tanakh hia tasol (long dispela ples)"
+    }
+  ],
+  "translation": "Em i opim ⟨את⟩ ston bilong skrap, na wara i karamapim olgeta; ol i go long ol draipela ples olsem wanpela wara bilong ples.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/105\/41-44.1792358973026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ston bilong skrap"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "na i karamapim olgeta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ol i go"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "long ol draipela ples"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "olsem wanpela wara bilong ples"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:33.027703783Z",
+  "model": "glm-5.3"
+}

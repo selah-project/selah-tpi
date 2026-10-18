@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 1:26",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object marker before the restored judges; Hebrew verb suffix carries it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i no giaman",
+      "rationale": "נאמנה 'faithful\/verified' rendered as 'does not deceive' to keep the trust sense in Tok Pisin."
+    }
+  ],
+  "translation": "Na bai mi bringim bek ⟨em⟩ ol man bilong kot bilong yu olsem long stat, na ol man bilong givim tok bilong yu olsem long stat tru; bihain long dispela ol bai i kolim yu ⟨em⟩ taun bilong stretpela pasin, taun i no giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/25-28.1792353794572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "na bai mi bringim bek"
+    },
+    {
+      "surface": "שפטיך",
+      "gloss": "ol man bilong kot bilong yu"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "olsem long stat"
+    },
+    {
+      "surface": "ויעציך",
+      "gloss": "na ol man bilong givim tok bilong yu"
+    },
+    {
+      "surface": "כבתחלה",
+      "gloss": "olsem long stat tru"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bai i kolim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "bilong stretpela pasin"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "i no giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:14.572979Z",
+  "model": "glm-5.3"
+}

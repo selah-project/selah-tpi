@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעז",
+      "rationale": "root of 'laaz' — foreign, unintelligible speech; rendered descriptively in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית",
+      "rationale": "'house' = family\/line, not a building; 'haus bilong' keeps the kinship sense."
+    }
+  ],
+  "translation": "Long taim Yisrael i go ausait long Mitsrayim, haus bilong Yakov i go ausait long ol lain i tok tok bilong narapela kain,",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/114\/1-4.1792359039728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "long taim … i go ausait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "long Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "long ol lain"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "i tok tok bilong narapela kain"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:39.728763566Z",
+  "model": "glm-5.3"
+}

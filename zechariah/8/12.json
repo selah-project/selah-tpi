@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 8:12",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרע השלום",
+      "rationale": "'seed of peace\/prosperity' — KJV 'the seed shall be prosperous' vs YLT 'sowing of peace'; construct kept literal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע 'seed' rendered as pikinini per D4; 'posterity' sense fits context"
+    },
+    {
+      "kind": "substitution",
+      "subject": "givim long",
+      "rationale": "והנחלתי causative 'cause to inherit'; Tok Pisin 'givim long' loses inheritance nuance"
+    }
+  ],
+  "translation": "Bikos pikinini bilong pisi i stap: diwai win i bai givim kaikai bilong en, na graun i bai givim ⟨את⟩ kaikai bilong en, na heven i bai givim tul bilong ol; na bai mi givim long ⟨את⟩ ol man i stap liklik bilong dispela lain man ⟨את⟩ olgeta dispela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/8\/9-12.1792357652475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "bilong pisi"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "diwai win"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "i bai givim"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "kaikai bilong en"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "i bai givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikai bilong en"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kaikai bilong en"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "na heven"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "i bai givim"
+    },
+    {
+      "surface": "טלם",
+      "gloss": "tul bilong ol"
+    },
+    {
+      "surface": "והנחלתי",
+      "gloss": "bai mi givim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol man i stap liklik"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ol man i stap liklik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bilong lain man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dispela samting"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:32.477452957Z",
+  "model": "glm-5.3"
+}

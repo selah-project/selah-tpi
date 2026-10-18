@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנחם",
+      "rationale": "נחם read as 'relent\/have compassion' vs 'repent' (KJV) vs 'comfort himself' (YLT); here 'luk sori' follows the compassion line"
+    }
+  ],
+  "translation": "Bihainim: Yahwe i skelim kot bilong ol manmeri bilong en, na long ol wokman bilong en em i luk sori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/135\/13-16.1792359200481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bihainim"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "i skelim kot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ol wokman bilong en"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "em i luk sori"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:20.481680469Z",
+  "model": "glm-5.3"
+}

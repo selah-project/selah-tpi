@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip",
+      "rationale": "נפש em i laip\/breth, i no 'sol'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "infinitive absolute — 'dai, em i mas dai' — Tok Pisin 'mas dai tru' holim pasin tasol wanpela tok"
+    }
+  ],
+  "translation": "Na sapos wanpela man i paitim wanpela laip bilong man, em i mas dai tru.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/24\/17-20.1792348737386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na wanpela man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "i paitim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "laip"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bilong man"
+    },
+    {
+      "surface": "מות",
+      "gloss": "em i mas dai"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dai tru"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:57.386799976Z",
+  "model": "glm-5.3"
+}

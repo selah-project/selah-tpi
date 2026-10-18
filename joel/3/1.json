@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 3:1",
+  "book": "joel",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח i wanpela tok — Spirit, win, pulim win; Tok Pisin 'ruak' i holim olgeta"
+    },
+    {
+      "kind": "addition",
+      "subject": "bai",
+      "rationale": "Hebrew והיה i tok bai i kamap; Tok Pisin i nidim 'bai' long olgeta verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלמות יחלמון",
+      "rationale": "Infinitiv absolut: verb i tupela — 'drim ol i bai drim'; Tok Pisin i no inap holim daun olsem"
+    }
+  ],
+  "translation": "Na bihain long ol dispela samting, bai mi kapsaitim ⟨את⟩ ruak bilong mi long olgeta bodi, na ol pikinini man bilong yumi bai autim tok profet, na ol pikinini meri bilong yumi bai autim tok profet; ol olpela man bilong yumi bai drim ol drim, na ol yangpela man bilong yumi bai lukim ol so.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c7834a6d3c74676652827f77dbb6474c2d14e9cff97ba04409d9f235262b59ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joel\/3\/1-2.1792363298084.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na bai i kamap"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ol dispela samting"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "mi kapsaitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruak bilong mi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruak bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bodi"
+    },
+    {
+      "surface": "ונבאו",
+      "gloss": "bai autim tok profet"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ol pikinini man bilong yumi"
+    },
+    {
+      "surface": "ובנותיכם",
+      "gloss": "na ol pikinini meri bilong yumi"
+    },
+    {
+      "surface": "זקניכם",
+      "gloss": "ol olpela man bilong yumi"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ol drim"
+    },
+    {
+      "surface": "יחלמון",
+      "gloss": "bai drim"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "ol yangpela man bilong yumi"
+    },
+    {
+      "surface": "חזינות",
+      "gloss": "ol so"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bai lukim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:38.085358212Z",
+  "model": "glm-5.3"
+}

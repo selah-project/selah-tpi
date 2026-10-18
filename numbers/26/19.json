@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em i⟩",
+      "rationale": "Hebrew verbless list; Tok Pisin needs predicate marker and pronoun."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol pikinini bilong Yehuda",
+      "rationale": "Census list; Er and Onan named but have no clan because they died in Kenaan."
+    }
+  ],
+  "translation": "Ol pikinini bilong Yehuda ⟨em i⟩ Er na Onan; na Er na Onan i dai long graun bilong Kenaan.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "66a081b600beb200ecad4b8c0c34d8494d1e9059eff5bddb918cbafafd9334ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/26\/17-20.1792349436237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "na Onan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i dai"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "na Onan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "long graun"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:36.238167759Z",
+  "model": "glm-5.3"
+}

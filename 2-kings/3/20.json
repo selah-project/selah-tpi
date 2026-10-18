@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "המנחה grain offering kept as minkha per discipline, not 'presen'\/'takis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong moning",
+      "rationale": "כעלות המנחה is the time of the morning offering; qualifier supplied for clarity"
+    }
+  ],
+  "translation": "Na long moningtaim, taim minkha bilong moning i go antap, luk — wara i kamap long rot bilong Edom, na graun i pulap ⟨i⟩ long ⟨את⟩ ol wara.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/3\/17-20.1792353306590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moningtaim"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "taim … i go antap"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha bilong moning"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "באים",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na … i pulap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol wara"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ol wara"
+    }
+  ],
+  "timestamp": "2026-10-18T19:55:06.591686903Z",
+  "model": "glm-5.3"
+}

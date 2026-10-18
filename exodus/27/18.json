@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dimensions of the court",
+      "rationale": "100×50 cubits, height 5 cubits — full dimensional specification."
+    },
+    {
+      "kind": "crux",
+      "subject": "חמשים בחמשים",
+      "rationale": "Literally 'fifty by fifty'; some read 'fifty at either end' (Geneva), others 'fifty throughout' (KJV)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משזר",
+      "rationale": "Verb 'to twist' — the token form שש משזר 'twined linen' is a rare technical term for the courtyard curtains."
+    }
+  ],
+  "translation": "Longpela bilong banis i wan handet kubit, na lap bilong em i fifti kubit ⟨long tupela hap⟩, na antap bilong em i faiv kubit, ⟨ol i wokim long⟩ lin klia i spinim gut, na ol stap bilong ol i koper.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/27\/17-20.1792347886394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "longpela bilong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "banis"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na lap bilong em"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifti kubit"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "long fifti"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "na antap bilong em"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faiv"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kubit"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin klia"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "i spinim gut"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na ol stap bilong ol"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:46.395354420Z",
+  "model": "glm-5.3"
+}

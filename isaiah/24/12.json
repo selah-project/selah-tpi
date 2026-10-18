@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמה\/ושאיה",
+      "rationale": "Paronomasia on שׁ-מ\/שׁ-א roots — ruin upon ruin, sound lost in Tok Pisin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יכת",
+      "rationale": "'smitten\/shattered'; rendered 'paitim na bagarapim' to keep violence."
+    }
+  ],
+  "translation": "Ol i lusim nating tasol long siti — bagarap olgeta; ol i paitim na bagarapim geit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/24\/9-12.1792354164920.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "ol i lusim"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long siti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nating tasol — bagarap olgeta"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "na ol i rausim olgeta samting"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "ol i paitim na bagarapim"
+    },
+    {
+      "surface": "שער",
+      "gloss": "geit"
+    }
+  ],
+  "timestamp": "2026-10-18T20:09:24.922025828Z",
+  "model": "glm-5.3"
+}

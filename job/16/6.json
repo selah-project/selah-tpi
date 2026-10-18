@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebtru i no gat olgeta pronoun; Tok Pisin i nidim ⟨em⟩ bilong tok klia."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה מני יהלך",
+      "rationale": "Fras i nogut klia: 'wanem i ken lus long mi?' (YLT 'what goeth from me?') o 'wanem i ken salim mi?' (KJV 'what am I eased?')."
+    }
+  ],
+  "translation": "Sapos mi tok, pinis bilong mi i no ken holim ⟨em⟩; na sapos mi stop, wanem i ken lus long mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/16\/5-8.1792360056741.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "i ken holim"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "pinis bilong mi"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "na mi stop"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "מני",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "i ken lus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:47:36.742018139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rok",
+      "rationale": "צור em i ston bikpela \/ rok — KJV 'strength' i no lukluk lo; JPS 'rock' i stret"
+    },
+    {
+      "kind": "addition",
+      "subject": "tasol",
+      "rationale": "Hibru i no gat 'tasol' — kontras bilong ves i nidim wanpela tok"
+    }
+  ],
+  "translation": "Mit bilong mi na bel bilong mi i pinis; tasol rok bilong bel bilong mi na hap bilong mi em i Elohim, oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/73\/25-28.1792358506737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "i pinis"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "mit bilong mi"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "na bel bilong mi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rok"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "bilong bel bilong mi"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "na hap bilong mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:21:46.738558770Z",
+  "model": "glm-5.3"
+}

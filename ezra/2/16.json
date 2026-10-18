@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lamed prefix",
+      "rationale": "Hebrew ל prefixed to Hizkiyahu; read as 'of\/belonging to Hezekiah' (descent line) versus possible eponym reading."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Counting of returnees, number 98."
+    }
+  ],
+  "translation": "Ol pikinini bilong Ater, bilong Hizkiyahu, nainti na et.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezra\/2\/13-16.1792361307978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Ater"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "bilong Hizkiyahu"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "nainti"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na et"
+    }
+  ],
+  "timestamp": "2026-10-18T22:08:27.979815882Z",
+  "model": "glm-5.3"
+}

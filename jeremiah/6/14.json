@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על נקלה",
+      "rationale": "'lightly\/slightly' (KJV, JPS) vs 'with contempt' (root קלל 'make light, despise') — the healing itself scorns the wound."
+    },
+    {
+      "kind": "substitution",
+      "subject": "shalom",
+      "rationale": "שלום is completeness\/welfare, not just absence of conflict; Tok Pisin 'pis' would shrink it, so the Hebrew word stands."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום ואין שלום",
+      "rationale": "Threefold repetition — the prophets' false shalom collapses into its own negation."
+    }
+  ],
+  "translation": "Na ol i betim orait ⟨את⟩ bruk bilong manmeri bilong mi long pasin leklek, ol i tok olsem: Shalom, shalom — tasol i no gat shalom.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fbaf54429e383f8ea20e3371a872ca27a6337df81def72230751939c0a925e00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/6\/14-15.1792363212828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "na ol i betim orait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bruk"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bruk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bilong manmeri bilong mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pasin leklek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tok olsem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tasol i no gat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:12.829308095Z",
+  "model": "glm-5.3"
+}

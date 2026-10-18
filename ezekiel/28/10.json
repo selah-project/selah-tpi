@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 28:10",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מותי",
+      "rationale": "Plural 'deaths' — Hebrew intensifies; rendered as single dai in Tok Pisin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מותי תמות",
+      "rationale": "Root repetition of מות (die\/death) — 'the deaths of… you will die' — flattened in Tok Pisin."
+    },
+    {
+      "kind": "crux",
+      "subject": "ערלים",
+      "rationale": "'Uncircumcised' as shameful death; rendered descriptively since Tok Pisin lacks the technical term."
+    }
+  ],
+  "translation": "Bai yu dai olsem ol man i no katim skin bilong en, long han bilong ol man bilong narapela ples, bikos mi tok olgeta, tok bilong Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aa9bc0b94ee872018e39c596f45da2afa0181b25f79f1f739164a67c4ca1e359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/28\/10-11.1792363237561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מותי",
+      "gloss": "dai olsem ol man i no katim skin bilong en"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ol man i no katim skin bilong en"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "yu dai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "long han bilong"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ol man bilong narapela ples"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi tok olgeta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tok bilong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:37.561933194Z",
+  "model": "glm-5.3"
+}

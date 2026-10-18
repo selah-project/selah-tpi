@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebri יאכל i no tokim em i kaikai wanem; Tok Pisin i laikim ⟨em⟩ bilong tok klia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol i kaikai",
+      "rationale": "יאכל long pas pasol — samting i ken kaikai; Tok Pisin i no gat pasol stret, olsem na aksen i go long ol man."
+    }
+  ],
+  "translation": "Long wanpela haus ol i kaikai ⟨em⟩; no ken karamapim bilong haus i go ausait long hap mit; na no ken brukim bun bilong em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/12\/45-48.1792347566598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "long wanpela haus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "karamapim i go ausait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "haus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mit"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ausait"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "na bun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "brukim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:26.599696883Z",
+  "model": "glm-5.3"
+}

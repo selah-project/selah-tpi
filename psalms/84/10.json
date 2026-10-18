@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Banis",
+      "rationale": "מגן em i banis bilong pait; hia em i tok bilong king, olsem banis bilong lain"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Masiak",
+      "rationale": "משיחך em i man we ol i kapsaitim oil long em (king o pris) — i no 'Mesaia' o 'Krais'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Tok i go stret long Elohim long olgeta hap"
+    }
+  ],
+  "translation": "Banis bilong yumi — lukim, Elohim, na lukluk long pes bilong ⟨em⟩ we yu kapsaitim oil long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/84\/9-12.1792358767011.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Banis bilong yumi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lukim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "na lukluk long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pes bilong"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "⟨em⟩ we yu kapsaitim oil long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:07.012742253Z",
+  "model": "glm-5.3"
+}

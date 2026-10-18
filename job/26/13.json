@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 26:13",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפרה",
+      "rationale": "Rare word rendered 'klinim' (clear\/beautify); KJV 'garnished', JPS 'serene'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חללה",
+      "rationale": "Pierced\/wounded (ASV, JPS) vs formed\/fashioned (KJV, ylt); context favors piercing the fleeing serpent."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחש בריח",
+      "rationale": "The fleeing serpent evokes the Ugaritic sea-monster; 'snek we i ranawe' keeps the picture."
+    }
+  ],
+  "translation": "Wantaim ruak bilong en em i klinim ⟨את⟩ ol skai; han bilong en i wondim ⟨את⟩ snek we i ranawe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fefe43562adc04eddc7a3a164d0091d7a8af82b9424a9f903a39f8f599b1a418",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/26\/13-14.1792360161877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוחו",
+      "gloss": "wantaim ruak bilong en"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ol skai"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "i klinim"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "i wondim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "han bilong en"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "we i ranawe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:21.877840623Z",
+  "model": "glm-5.3"
+}

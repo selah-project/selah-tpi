@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "comparison direction",
+      "rationale": "מירושלם ומשמרון: either 'more than Jerusalem and Samaria' (their images surpass) or 'from Jerusalem and Samaria' (my hand found them there) — versions split."
+    },
+    {
+      "kind": "substitution",
+      "subject": "elil",
+      "rationale": "אליל literally 'good-for-nothing, vain thing' — 'samting nating' keeps the Hebrew contempt rather than plain 'idol'."
+    }
+  ],
+  "translation": "Olsem han bilong mi i painim ol kingdom bilong ol samting nating, na ol piksa bilong ol i winim ⟨ol⟩ bilong Yerushalayim na ⟨ol⟩ bilong Shomeron;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/10\/9-12.1792353974860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong mi"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "ol kingdom bilong"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "ol samting nating"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "na ol piksa bilong ol"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "bilong Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "na bilong Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-18T20:06:14.861020229Z",
+  "model": "glm-5.3"
+}

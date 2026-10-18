@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 50:12",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Babel",
+      "rationale": "Second-person address continues — 'your mother', Babylon personified."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וערבה",
+      "rationale": "ערבה steppe\/dry-wadi, rendered 'vali nogut' (barren valley) for the picture."
+    }
+  ],
+  "translation": "Mama bilong yu i sem tru tumas, olgeta mama i karim yu i sem; luk, bihain bilong ol lain graun bai i tanim i kamap wailbus, graun drai, na vali nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd30bd39cc9dcdf3e39c21ba13c902a8dba2733121b373c16a1dc264771e6fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/50\/9-12.1792355831161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בושה",
+      "gloss": "i sem"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "mama bilong yu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tru tumas"
+    },
+    {
+      "surface": "חפרה",
+      "gloss": "i sem"
+    },
+    {
+      "surface": "יולדתכם",
+      "gloss": "olgeta mama i karim yu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "luk"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bihain bilong"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ol lain graun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wailbus"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "graun drai"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "na vali nogut"
+    }
+  ],
+  "timestamp": "2026-10-18T20:37:11.162945107Z",
+  "model": "glm-5.3"
+}

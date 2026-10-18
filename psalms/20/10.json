@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הושיעה",
+      "rationale": "Tupela rit: 'salvim' (KJV\/JPS) o 'salvim king' (YLТ — הושיעה + המלך wantaim)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i no gat objekt bilong הושיעה; Tok Pisin i nidim wanpela objekt."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Ol i singaut stret long Yahwe — profet ia i clozim psalm wantaim kolim bilong help."
+    }
+  ],
+  "translation": "Yahwe, salvim ⟨em⟩; king i ken bekim tok bilong yumi long de bilong kolim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/20\/9-10.1792357963801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "salvim ⟨em⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "i ken bekim tok bilong yumi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "long de bilong"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "kolim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:43.802646734Z",
+  "model": "glm-5.3"
+}

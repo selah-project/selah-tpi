@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i tanim olsem khesed, i no marimari tasol — em i strongpela marimari bilong kontrak"
+    },
+    {
+      "kind": "substitution",
+      "subject": "emet",
+      "rationale": "אמת i 'stret, wanpela, i no senis' — emet i holim wanpela as bilong emet"
+    },
+    {
+      "kind": "alternative",
+      "subject": "i strongpela long olgeta samting",
+      "rationale": "גבר עלינו i ken tok 'i winim yumi' o 'i strong long yumi' — mi usim strongpela long olgeta samting"
+    }
+  ],
+  "translation": "Long wanem, khesed bilong em i strongpela long olgeta samting antiap long yumi, na emet bilong Yahwe i stap oltaim olgeta; yu ol i singautim nem bilong Ya.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/117\/1-2.1792359065672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "i strongpela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "antiap long yumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed bilong em"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na emet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim olgeta"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yu ol i singautim nem bilong"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:05.683382591Z",
+  "model": "glm-5.3"
+}

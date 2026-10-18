@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פצמתה",
+      "rationale": "פצם i kamap long Tanakh hia tasol — tok bilong brukim graun long guria."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol hol bilong en",
+      "rationale": "שברים em i 'ol bruk' (piksa bilong banis o graun i bruk) — Tok Pisin 'ol hol'."
+    }
+  ],
+  "translation": "Yu mekim graun i guria, yu brukim em; yu marimari na kamapim ol hol bilong en, long wanem em i wok long surik i stap yet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/60\/1-4.1792358388448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "yu mekim i guria"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "yu brukim em"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "yu marimari na kamapim"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ol hol bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "i wok long surik i stap yet"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:48.450000905Z",
+  "model": "glm-5.3"
+}

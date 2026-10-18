@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brukim kontrak",
+      "rationale": "בגד is to act covertly\/deal treacherously; 'brukim kontrak' keeps the covenant-betrayal picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "'mun' = new moon or month: 'a month (time) will devour them' vs 'the New Moon (feast) will devour them' (JPS\/ASV)."
+    },
+    {
+      "kind": "addition",
+      "subject": "wantaim",
+      "rationale": "Preposition ⟨wantaim⟩ supplied — Hebrew juxtaposes 'devour them' with 'their portions' directly."
+    }
+  ],
+  "translation": "Long Yahwe ol i brukim kontrak, long wanem ol i karim ol pikinini bilong ol man bilong arapela ples; nau mun bai kaikai ol ⟨wantaim⟩ ⟨את⟩ ol hap bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/5\/5-8.1792357012523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ol i brukim kontrak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ol pikinini"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bilong ol man bilong arapela ples"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ol i karim"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nau"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "bai kaikai ol"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol hap bilong ol"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "ol hap bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:56:52.524195423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrew wish-formula 'who will give?' = 'oh that…', rendered as wish in Tok Pisin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החרש \/ תחרישון",
+      "rationale": "same root חרש twice — 'keep silent, be altogether silent', intensification lost in Tok Pisin"
+    }
+  ],
+  "translation": "Oh, sapos yupela tapolim maus olgeta, na bai i kamap save bilong yupela!",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9453e0ce58502f6b4905bb723c0d53c66c8ba6ac61f4174513ce3790c919ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/13\/5-8.1792359994168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "oh, sapos"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mi wishim"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "tapolim maus"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na bai i kamap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bilong yupela"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "save"
+    }
+  ],
+  "timestamp": "2026-10-18T21:46:34.169189423Z",
+  "model": "glm-5.3"
+}

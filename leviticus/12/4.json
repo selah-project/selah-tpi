@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "holi haus",
+      "rationale": "המקדש is the sanctuary\/Mikdash; rendered descriptively rather than as a proper name."
+    },
+    {
+      "kind": "measurement",
+      "subject": "thirty and three days",
+      "rationale": "Sum of purification days given as two counted groups (30 + 3 = 33)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טהרה…טהרה",
+      "rationale": "The verse opens and closes on the same word 'purification', framing the period."
+    }
+  ],
+  "translation": "Na tetipela de na tripela de, em bai stap long blut bilong kamap klin; em i no ken tekim wanpela samting holi, na em i no ken go insait long holi haus, inap ol de bilong klinsrip bilong en i kamap ful.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "31d2ae8262accf9607d7f9426d2efad5fd1cf63a7ae9416d00a61694daa2426d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/12\/1-4.1792348443572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "na tetipela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "de"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "na tripela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "em bai stap"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "long blut bilong"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "kamap klin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "samting holi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tekim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "holi haus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "go insait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "i kamap ful"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ol de bilong"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "klinsrip bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:34:03.573320360Z",
+  "model": "glm-5.3"
+}

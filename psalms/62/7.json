@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strongpela haus",
+      "rationale": "משגב literally 'high place\/lofty retreat', rendered 'strong house' rather than 'tower'."
+    }
+  ],
+  "translation": "Em tasol em i ston bilong mi na savim bilong mi; strongpela haus bilong mi — bai mi no go daun.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/62\/5-8.1792358389057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ston bilong mi"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na savim bilong mi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "strongpela haus bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bai mi go daun"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:49.058658040Z",
+  "model": "glm-5.3"
+}

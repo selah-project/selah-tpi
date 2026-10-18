@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lif",
+      "rationale": "נפש — win bilong lif, i no 'soul' olsem Inglis"
+    },
+    {
+      "kind": "addition",
+      "subject": "kirap",
+      "rationale": "Verb 'kirap' mi bin putim long 'liv gen' bilong tok Tok Pisin i go stret"
+    }
+  ],
+  "translation": "Na Yahwe i harim ais bilong Eliya, na lif bilong pikinini man i kam bek long insait bilong em, na em i kirap liv gen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "dbfafb97c33258db20bff1d23c6a40fd6da4d040e47351e0e128ca9a326cb74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/17\/21-24.1792353048275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na i harim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ais bilong"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "na i kam bek"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lif"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "insait bilong em"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "na em i kirap liv gen"
+    }
+  ],
+  "timestamp": "2026-10-18T19:50:48.276468107Z",
+  "model": "glm-5.3"
+}

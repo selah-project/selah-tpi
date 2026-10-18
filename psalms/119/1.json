@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol i stap gutpela",
+      "rationale": "אשרי em i singaut bilong gutpela sindaun, ol i tanim olsem 'blessed' tasol em i no tok bilong Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "stret tru",
+      "rationale": "תמימי: 'blameless\/undefiled' (KJV) vs 'perfect\/upright' (ASV, JPS) — wanpela tok, tupela pasin"
+    }
+  ],
+  "translation": "Ol i stap gutpela, ol man i stret tru long rot, ol i wokabaut long Tora bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/1-4.1792359104353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ol i stap gutpela"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ol man i stret tru"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rot"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ol i wokabaut"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "long Tora bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:44.353860448Z",
+  "model": "glm-5.3"
+}

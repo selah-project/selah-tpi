@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלום",
+      "rationale": "KJV 'rest', ASV\/JPS 'health', ylt 'peace' — שלום i gat olgeta mining: pis, gutpela bodi, olgeta orait"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין...אין",
+      "rationale": "Tupela 'i no gat' i daunbilo wantaim — pasin bilong strok olgeta taim i kamap tupela"
+    }
+  ],
+  "translation": "I no gat gutpela olgeta long mit bilong mi bilong olgeta kros nogut bilong yu; i no gat pis long ol bun bilong mi bilong singaut nogut bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/38\/1-4.1792358197927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "gutpela olgeta"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "long mit bilong mi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "olgeta kros nogut bilong yu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pis"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "long ol bun bilong mi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "singaut nogut bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:37.929430943Z",
+  "model": "glm-5.3"
+}

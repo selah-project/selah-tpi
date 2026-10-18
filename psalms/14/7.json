@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Literal 'who will give?' is a Hebrew wish-form; rendered as the longing question 'husat i ken givim'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "שְׁבוּת read as שְׁבוּת 'captivity\/exile' (restore the captives) or as שְׁבִיתָה 'fortune' — 'restore the fortunes of his people'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "prais singaut bilong ol man",
+      "rationale": "The closing wish summons the community to long for Yahwe's restoration out of Tsiyon."
+    }
+  ],
+  "translation": "Oh, husat i ken givim seva bilong Yisrael i kam long Tsiyon? Taim Yahwe i bringim bek ol kalabus bilong ol man bilong en, Yakov bai i singaut long hamamas, na Yisrael bai i hamamas.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/14\/5-7.1792357921906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "i ken givim"
+    },
+    {
+      "surface": "מִצִּיּוֹן",
+      "gloss": "i kam long Tsiyon"
+    },
+    {
+      "surface": "יְשׁוּעַת",
+      "gloss": "seva"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בְּשׁוּב",
+      "gloss": "taim … i bringim bek"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שְׁבוּת",
+      "gloss": "ol kalabus"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "ol man bilong en"
+    },
+    {
+      "surface": "יָגֵל",
+      "gloss": "bai i singaut long hamamas"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "bai i hamamas"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T21:12:01.907962937Z",
+  "model": "glm-5.3"
+}

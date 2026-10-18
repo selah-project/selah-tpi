@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 40:29",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bai yu",
+      "rationale": "Hebrew marks questions and future with morphology; Tok Pisin needs 'bai yu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "pilai",
+      "rationale": "שחק 'to laugh\/play' — some read 'make sport of' vs 'play with'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe i tokim Ayub",
+      "rationale": "Direct rhetorical questions to Job about Behemoth\/Leviathan"
+    }
+  ],
+  "translation": "Bai yu pilai wantaim ⟨את⟩ em olsem pisin, o bai yu tangim em givim long ol yungpela meri bilong yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/40\/29-32.1792360407700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשחק",
+      "gloss": "bai yu pilai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wantaim em"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "olsem pisin"
+    },
+    {
+      "surface": "ותקשרנו",
+      "gloss": "o bai yu tangim em"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "givim long ol yungpela meri bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:27.701224436Z",
+  "model": "glm-5.3"
+}

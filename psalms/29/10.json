@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למבול",
+      "rationale": "lamed: 'long\/taim bilong' bikpela wara (mabul, taim Noa) o 'antap long' — mi holim taim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/וישב",
+      "rationale": "repiten bilong sindaun — i stap pastaim na i stap nau — lost in tpi tasol mi holim."
+    }
+  ],
+  "translation": "Yahwe i sindaun long taim bilong bikpela wara; na Yahwe i sindaun olsem king olgeta taim, oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/29\/9-11.1792358043215.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "long taim bilong bikpela wara"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "i sindaun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na i sindaun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "olsem king"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim, oltaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:03.215948303Z",
+  "model": "glm-5.3"
+}

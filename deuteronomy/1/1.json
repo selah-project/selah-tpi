@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative marker rendered as 'i olsem' — Tok Pisin has no single relative word"
+    },
+    {
+      "kind": "hapax",
+      "subject": "די זהב",
+      "rationale": "Di-Zahab appears only here in the Tanakh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "plis nem",
+      "rationale": "verse lists seven place names fixing the location of the speech"
+    }
+  ],
+  "translation": "Ol dispela tok i olsem: Mose i tokim olgeta man bilong Yisrael long narapela sait bilong Jarden, long ples wailbus, long ron bilong graun namel, klostu long Suf, namel long Paran na namel long Tofel, Laban, Hatsrot, na Di-Zahab.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/1-4.1792349739583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i olsem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta man bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "long narapela sait bilong"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wailbus"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "long ron bilong graun namel"
+    },
+    {
+      "surface": "מול",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "namel long"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na namel long"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "na Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "na Hatsrot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "na Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahab"
+    }
+  ],
+  "timestamp": "2026-10-18T18:55:39.584494215Z",
+  "model": "glm-5.3"
+}

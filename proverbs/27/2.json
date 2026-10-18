@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Man bilong narapela hap",
+      "rationale": "זר literally 'stranger\/outsider', rendered descriptively since Tok Pisin lacks a single term."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ נכרי",
+      "rationale": "Two near-synonyms for 'stranger' in parallel lines; the pairing is a Hebrew poetic parallelism."
+    }
+  ],
+  "translation": "Man bilong narapela hap bai praisim yu, na no maus bilong yu; man bilong narapela lain, na no ol lit bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/27\/1-4.1792359780746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "bai praisim yu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "Man bilong narapela hap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "maus bilong yu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "man bilong narapela lain"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na no ken"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ol lit bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:43:00.747330594Z",
+  "model": "glm-5.3"
+}

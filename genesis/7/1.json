@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Noak",
+      "rationale": "Yahwe i toktok dairek long Noak, bilong salim i go insait long boks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "boks",
+      "rationale": "תבה em i wanpela boks (kago boks), i no sip — Tok Pisin Baibel i usim 'sip', tasol Hibru i tok boks."
+    },
+    {
+      "kind": "addition",
+      "subject": "olsem man",
+      "rationale": "Hibru i tok tsedek tasol; Tok Pisin i laikim 'man' long pasin bilong tok."
+    }
+  ],
+  "translation": "Yahwe i tok long Noak: Yu, yu wantaim olgeta bilong haus bilong yu, i go insait long boks; long wanem, mi lukim ⟨את⟩ yu olsem man tsedek long ai bilong mi long dispela generesen.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/7\/1-4.1792346393189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "long Noak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yu go insait"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wantaim olgeta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "bilong haus bilong yu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "boks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi lukim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "man tsedek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long ai bilong mi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "long generesen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T17:59:53.189673776Z",
+  "model": "glm-5.3"
+}

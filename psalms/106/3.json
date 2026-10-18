@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ol i save wokim",
+      "rationale": "Hebrew עשה is grammatically singular amid plural שמרי; rendered plural for sense, singular 'the one who does' is the literal shape."
+    }
+  ],
+  "translation": "Gutpela tru long ol i save lukautim kot, ol i save wokim tsedek long olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/1-4.1792358986339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gutpela tru long"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ol i save lukautim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ol i save wokim"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:46.346408034Z",
+  "model": "glm-5.3"
+}

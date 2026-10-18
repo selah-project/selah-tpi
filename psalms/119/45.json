@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Tok Pisin i nidim predikit mak i, Hibru i nogat"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ples laplap",
+      "rationale": "ברחבה 'ples laplap \/ gutpela fridom' — tok bilong space, ol tanim i go 'long fridom'"
+    }
+  ],
+  "translation": "Na bai mi wokabaut long ples laplap, long wanem mi painim ⟨i⟩ ol Sansen bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/45-48.1792359105154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "na bai mi wokabaut"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "long ples laplap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ol Sansen bilong yu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mi painim ⟨i⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:45.155091459Z",
+  "model": "glm-5.3"
+}

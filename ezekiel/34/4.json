@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 34:4",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "lamed alternation",
+      "rationale": "Hebrew alternates את-object and ל-object markers across the five failures; Tok Pisin flattens this to one pattern."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובפרך",
+      "rationale": "Verse ends abruptly on the bare prepositional phrase 'and with rigor' — Tok Pisin keeps it as a hanging tail."
+    }
+  ],
+  "translation": "⟨את⟩ Ol i nogat strong yupela i no strongim, na ⟨את⟩ ol sikman yupela i no mekim orait, na long ol i bruk yupela i no baindapim, na ⟨את⟩ ol i puspim i go ausait yupela i no bringim bek, na ⟨את⟩ ol i lus yupela i no lukautim; tasol wantaim strongpela pasin yupela i bosim ⟨את⟩ ol, wantaim pasin nogut tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/34\/1-4.1792356664529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol i nogat strong"
+    },
+    {
+      "surface": "הנחלות",
+      "gloss": "ol i nogat strong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חזקתם",
+      "gloss": "yupela i strongim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol sikman"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "ol sikman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "רפאתם",
+      "gloss": "yupela i mekim orait"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "na long ol i bruk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חבשתם",
+      "gloss": "yupela i baindapim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol i puspim i go ausait"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "ol i puspim i go ausait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "yupela i bringim bek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol i lus"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "ol i lus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בקשתם",
+      "gloss": "yupela i lukautim"
+    },
+    {
+      "surface": "ובחזקה",
+      "gloss": "wantaim strongpela pasin"
+    },
+    {
+      "surface": "רדיתם",
+      "gloss": "yupela i bosim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol"
+    },
+    {
+      "surface": "ובפרך",
+      "gloss": "wantaim pasin nogut tru"
+    }
+  ],
+  "timestamp": "2026-10-18T20:51:04.530944862Z",
+  "model": "glm-5.3"
+}

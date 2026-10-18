@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 24:21",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אבן",
+      "rationale": "Hebrew has one stone; the plural 'with stones' of traditional versions is supplied by the verb's repetition sense."
+    },
+    {
+      "kind": "measurement",
+      "subject": "long tok bilong king",
+      "rationale": "The stoning happens by royal command, naming the legal authority for the killing."
+    }
+  ],
+  "translation": "Na ol i wanbel wantaim long sansim em, na ol i tromoi ⟨את⟩ ston long em, long tok bilong king, long kona bilong haus bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/24\/21-24.1792362690506.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ol i wanbel wantaim long sansim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "וירגמהו",
+      "gloss": "ol i tromoi ston long em"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ston"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "long tok bilong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "long kona bilong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "haus bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:30.507516690Z",
+  "model": "glm-5.3"
+}

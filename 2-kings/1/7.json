@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kain pasin bilong skelim",
+      "rationale": "משפט literally 'judgment\/verdict' — here the king asks what the man 'looked like'; kept the courtroom word per D2 rather than 'appearance'."
+    }
+  ],
+  "translation": "Na em i tokim ol: Wanem kain pasin bilong skelim i stap long man ia, we i kamap bilong lukim yupela, na i tokim yupela ⟨את⟩ ol dispela tok?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/5-8.1792353277786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "em i tokim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "long ol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wanem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kain pasin bilong skelim"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "bilong lukim yupela"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "long yupela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol dispela tok"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:54:37.787987346Z",
+  "model": "glm-5.3"
+}

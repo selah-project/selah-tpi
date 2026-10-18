@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מרעיתך",
+      "rationale": "Hebrew מרעית is 'pasturage\/flock', rendered 'bilong gaden yu' (of your pasture)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "danisim",
+      "rationale": "נודה from ידה, 'throw\/cast toward' in worship — Tok Pisin 'danisim' (dance\/praise-worship) closest to the reverent physical act"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "repetition dor wa-dor, generation and generation, kept as 'olresse… i go long olresse'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תהלתך",
+      "rationale": "'ol krai bilong yu' — could also be 'ol singsing bilong yu' (hymns); תהלה is laudation\/hymn"
+    }
+  ],
+  "translation": "Na mipela i stap ol man bilong yu, na ol sipsip na meme bilong gaden yu, bai mipela danisim ⟨את⟩ yu, olesm oltaim, long olresse ol liklik bilong man i go long olresse; mipela bai storyim ⟨את⟩ ol krai bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/79\/13-13.1792358571760.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "na mipela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na ol sipsip na meme"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "bilong gaden yu"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "mipela bai danisim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "long olresse ol liklik bilong man"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "i go long olresse"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "mipela bai storyim"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ol krai bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:22:51.761507138Z",
+  "model": "glm-5.3"
+}

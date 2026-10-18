@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kirap na go bras",
+      "rationale": "Imperatives of Mose to Israel summoning them to cross the Zered."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "wara Zered",
+      "rationale": "Repetition of the phrase 'cross over the wadi Zered' — command mirrored by fulfillment in the same verse."
+    }
+  ],
+  "translation": "Nau, kirap, na yu ol i go bras long ol yet ⟨את⟩ wara Zered; na mipela i go bras ⟨את⟩ wara Zered.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "3ac84bd16af5cf35aeb1d4cd78ab0f97c2e4ff2844f1033019636e9829fba0cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/2\/13-16.1792349699829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nau"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kirap"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "yu ol i go bras"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "long ol yet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "na mipela i go bras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wara Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-10-18T18:54:59.830117464Z",
+  "model": "glm-5.3"
+}

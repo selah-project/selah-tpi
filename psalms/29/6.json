@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol ⟨indaunde⟩",
+      "rationale": "קִיד suffix '-ם' points back to the cedars of v5; Tok Pisin needs the object named."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שִׂרְיֹן Sirion",
+      "rationale": "Sirion appears only here (elsewhere Siryon\/Hermon names differ); name kept as-is."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wail bulmakau",
+      "rationale": "רְאֵם is a wild ox (aurochs), not a domestic bulmakau; 'wail' keeps the difference."
+    }
+  ],
+  "translation": "Em i mekim ol ⟨indaunde⟩ long kago olsem pikinini bulmakau; Lebnon na Sirion olsem pikinini bilong ol wail bulmakau.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/29\/5-8.1792358052964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Em i mekim ol ⟨indaunde⟩ long kago"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "pikinini bulmakau"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebnon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "na Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ol wail bulmakau"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:12.965626271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kisim bek \/ save rausim",
+      "rationale": "Two different Hebrew verbs (נצל 'snatch away' twice) rendered with two Tok Pisin rescue verbs where Hebrew repeats the same root idea."
+    }
+  ],
+  "translation": "Na David i kisim ⟨את⟩ bek olgeta samting we Amalek i tekim, na ⟨את⟩ tupela meri bilong en David i save rausim ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/17-20.1792352056101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "i kisim ⟨את⟩ bek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tupela meri bilong en"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "meri bilong en"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "i save rausim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:16.102270172Z",
+  "model": "glm-5.3"
+}

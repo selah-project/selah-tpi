@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרית חצות",
+      "rationale": "Nem bilong ples i stap long hia tasol long ol Testamen ( tupel taim long Bamot-Bal)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישלח",
+      "rationale": "Balak i 'salim' — ol tanim tok i no klia: salim kaikai (BSB) o salim man i go (KJV) — Hibru i tok 'salim' tasol, wanem em i salim i no spik."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאומה (v38) \/ אתו (hia)",
+      "rationale": "Long v40 אתו em i 'wantaim em' (H854), no aleph-tav bilong makim wanem; Tok Pisin i holim em wantaim ⟨את⟩ olsem lo i tok."
+    }
+  ],
+  "translation": "Na Balak i sakrifaesim ol bulmakau na ol sipsip na meme, na i salim ⟨את⟩ ⟨i⟩ go long Balam na long ol bikman ⟨את⟩ we i stap wantaim ⟨את⟩ em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e33b5ae5c28011fcc534b6301e28e7c8ae77b84b1e9bcd3a0d2c9313ab63dd02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/22\/37-40.1792349400736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "i sakrifaesim"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ol bulmakau"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "i salim"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "long Balam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "na long ol bikman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wantaim em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:50:00.737176100Z",
+  "model": "glm-5.3"
+}

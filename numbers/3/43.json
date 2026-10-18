@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "22,273",
+      "rationale": "Census total of firstborn males; the odd 273 drives the redemption payment in vv.46–51."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Tok Pisin pronoun added where Hebrew vayehi introduces the tally."
+    },
+    {
+      "kind": "crux",
+      "subject": "273 extra",
+      "rationale": "Total 22,273 vs 22,000 Levites — the famous discrepancy note; the 273 redeemed at 5 shekels each."
+    }
+  ],
+  "translation": "Na olgeta pikinini monin man, i kaunim olgeta nem bilong ol, long pikinini bilong wanpela mun na antap, ol i kaunim ⟨ol⟩ — tupela ikis tu tausen, tripela handet na sevendepela na tu handet na ten tri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ec3b58f0efaa15f7743480dbd88ccc40bbb7774be75c254ea0d79269ebc2a599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/3\/41-44.1792348924896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ⟨ol⟩ i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pikinini monin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "man"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "long kaunim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nem bilong ol"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "long pikinini bilong"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wanpela mun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na antap"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ol i kaunim ⟨ol⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tupela"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ikis tu tausen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tausen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tripela"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sevendepela"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na tu handet na ten tri"
+    }
+  ],
+  "timestamp": "2026-10-18T18:42:04.898021747Z",
+  "model": "glm-5.3"
+}

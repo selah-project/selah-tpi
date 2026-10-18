@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרפתי",
+      "rationale": "'Taunt\/defy' (semim, tok nogut) vs KJV 'defy'; literal shape is 'strip\/expose to shame'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "givim wanpela man",
+      "rationale": "Imperative challenge — Goliath summons Israel to single combat."
+    }
+  ],
+  "translation": "Na man bilong Peleset i tok: Mi semim ⟨את⟩ ol lain bilong pait bilong Yisrael long dispela de; givim wanpela man long mi, na yumi tupela i pait wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/17\/9-12.1792351792386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na … i tok"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "man bilong Peleset"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mi semim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol lain bilong pait bilong Yisrael"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ol lain bilong pait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "long de"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "yupela givim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanpela man"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "na yumi pait"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tupela wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:52.387431792Z",
+  "model": "glm-5.3"
+}

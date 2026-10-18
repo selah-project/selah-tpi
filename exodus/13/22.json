@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rausim",
+      "rationale": "ימיש — tanimwe; 'rausim' i klia long Tok Pisin"
+    },
+    {
+      "kind": "addition",
+      "subject": "Em",
+      "rationale": "Hibru i no gat sabjek; Yahwe long ves 21 i save, Tok Pisin i putim ⟨i⟩"
+    }
+  ],
+  "translation": "Em i no rausim ⟨i⟩ kolam bilong klaut long moningtaim, na kolam bilong paia long nait, long fes bilong ol manmeri.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/13\/21-22.1792347536871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kolam"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bilong klaut"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "long moningtaim"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "na kolam"
+    },
+    {
+      "surface": "האש",
+      "gloss": "bilong paia"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "long nait"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long fes bilong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:56.872073701Z",
+  "model": "glm-5.3"
+}

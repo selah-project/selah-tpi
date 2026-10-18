@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vali bilong sak bilong dai",
+      "rationale": "צלמות literal em i 'sak bilong dai' — planti tanim tok i tok 'vali bilong sak bilong dai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "strongim bel bilong mi",
+      "rationale": "ינחמני literal em i 'em i pulim win bel bilong mi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim predicate marker, Hebrew i no gat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם כי ... כי",
+      "rationale": "Tupela כי long wanpela ves — tupela i gat narapela mining (sapos \/ long wanem), Tok Pisin i lukluk olsem i bruk"
+    }
+  ],
+  "translation": "Tu, sapos mi wokabaut i go long vali bilong sak bilong dai, mi no ken pret long samting nogut, long wanem yu ⟨em⟩ i stap wantaim mi: sut bilong yu na stik bilong yu — olgeta i strongim bel bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/23\/1-4.1792358025660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi wokabaut i go"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "long vali"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bilong sak bilong dai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pret"
+    },
+    {
+      "surface": "רע",
+      "gloss": "long samting nogut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "stap wantaim mi"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "sut bilong yu"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "na stik bilong yu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "i strongim bel bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:13:45.662420571Z",
+  "model": "glm-5.3"
+}

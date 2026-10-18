@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "emphatic existential particle rendered as nothing here; the list itself carries the verse"
+    }
+  ],
+  "translation": "Na olgeta olgeta bilong ol: Sora, Eshtaol, na Ir-Semes.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1a5fe825d5c44bdb34f60d21d851297494ab30890c35cd091becba66b3cef248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/19\/41-44.1792350815262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Sora"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "Eshtaol"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semes"
+    }
+  ],
+  "timestamp": "2026-10-18T19:13:35.262818220Z",
+  "model": "glm-5.3"
+}

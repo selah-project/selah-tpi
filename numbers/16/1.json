@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol nem",
+      "rationale": "Verse is a genealogy list naming Korah, Dathan, Abiram and On by descent."
+    },
+    {
+      "kind": "crux",
+      "subject": "i kisim",
+      "rationale": "ויקח 'took' lacks explicit object (KJV supplies 'men'); here 'took' Dathan and Abiram as co-conspirators."
+    }
+  ],
+  "translation": "Na Korah, pikinini bilong Yitsahar, pikinini bilong Kehat, pikinini bilong Levi, i kisim ⟨את⟩ Datan na ⟨את⟩ Aviram, tupela pikinini bilong Eliab, wantaim On, pikinini bilong Pelet, ol pikinini bilong Reuben —",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/16\/1-4.1792349259321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Yitsahar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "na ⟨את⟩ Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "na ⟨את⟩ Aviram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tupela pikinini bilong"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "wantaim On"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Pelet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    }
+  ],
+  "timestamp": "2026-10-18T18:47:39.322627228Z",
+  "model": "glm-5.3"
+}

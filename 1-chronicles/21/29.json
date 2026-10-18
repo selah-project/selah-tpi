@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 21:29",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Long taim olsem",
+      "rationale": "Hebrew opens with waw on משכן; connective supplied to link with verse 28"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap yet",
+      "rationale": "Hebrew lacks a verb 'to be'; location verb supplied"
+    },
+    {
+      "kind": "elision",
+      "subject": "ומזבח",
+      "rationale": "altar rendered as 'ofa bilong ol i kukim olgeta', altar-word absorbed into the offering phrase"
+    }
+  ],
+  "translation": "Long taim olsem, Miskan bilong Yahwe, we Mose i wokim long ples wail, na ofa bilong ol i kukim olgeta, i stap yet long hails long Givon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6f0077f9b1066bd85709a0b803cc34f21569a4eb57baef8bc5629e1685b6726c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/21\/29-30.1792362067267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "long ples wail"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "na ofa bilong ol i kukim olgeta"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ol i kukim olgeta"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "long taim"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "long hails"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "long Givon"
+    }
+  ],
+  "timestamp": "2026-10-18T22:21:07.267841500Z",
+  "model": "glm-5.3"
+}

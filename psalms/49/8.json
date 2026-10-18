@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "brata i no inap baim bek brata",
+      "rationale": "אח — 'brata' (infinitive absolute + verb: 'tru i no ken baim') o KJV 'naraman i no inap baim bek brata bilong en'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פדה יפדה",
+      "rationale": "Infinitive absolute + yusim wankain verb — 'no ken tru baim bek', Tok Pisin i no save wokim wankain pasin"
+    }
+  ],
+  "translation": "Brata i no inap baim bek ⟨את⟩ brata; man i no inap givim pe bilong lusim pasin nogut bilong en long Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/49\/5-8.1792358251239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "brata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "baim bek"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "baim bek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no inap"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "givim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "long Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "pe bilong lusim pasin nogut bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:31.240809825Z",
+  "model": "glm-5.3"
+}

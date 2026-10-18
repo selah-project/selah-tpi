@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol nem bilong animal",
+      "rationale": "Ol fipela nem long ves dispela — ol man i save tok i no save sori nem bilong wanwan animal; KJV i tok 'ferret, chameleon, lizard, snail, mole', JPS i tok 'gecko, land-crocodile, lizard, sand-lizard, chameleon'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תנשמת",
+      "rationale": "Taim we i tok bilong animal long Tanakh, kemilian — wankain nem i kamap long ol pisin nogut (Stat 11:18)."
+    }
+  ],
+  "translation": "Na geko, na monitor, na liklik dragon we i hait, na skink, na kemilian.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/11\/29-32.1792348429238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "na geko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "na monitor"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "na liklik dragon we i hait"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "na skink"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "na kemilian"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:49.238995506Z",
+  "model": "glm-5.3"
+}

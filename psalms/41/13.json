@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel gut",
+      "rationale": "בתמי em i 'wanbel \/ pasin no gat kot' — bel gut i holim piksa bilong wanbel na stret pasin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמכת \/ בתמי",
+      "rationale": "ת-מ-ך na ת-מ-מ — ol leta wankain i kamap bikpela, tom-tamk, no ken lusim long Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "holim mi fast",
+      "rationale": "תמכת בי: 'holim mi' (KJV) o 'holim mi bilong bel gut bilong mi' (JPS 'because of') — b i ken min olgeta tupela"
+    }
+  ],
+  "translation": "Na mi yet, long bel gut bilong mi yu holim mi fast, na yu kirapim mi standap long het bilong yu olgeta taim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/41\/13-14.1792358179524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mi yet"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "long bel gut bilong mi"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "yu holim mi fast"
+    },
+    {
+      "surface": "בי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "na yu kirapim mi standap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "long het bilong yu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:19.524658141Z",
+  "model": "glm-5.3"
+}

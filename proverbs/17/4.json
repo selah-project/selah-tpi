@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הות",
+      "rationale": "הַוָּה em i laik nogut na bagarapim — 'naughty tongue' (KJV) i soft tumas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallel",
+      "rationale": "Tupela lain i wankain: man nogut + lip nogut, giaman man + tang bilong bagarapim — chiasm olsem provetb i save wokim."
+    }
+  ],
+  "translation": "Man i wokim olgeta nogut i harim gut ol lip bilong nogut; man i save tok giaman i harim gut ol tang bilong bagarapim ol manmeri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/17\/1-4.1792359598512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "man i wokim olgeta nogut"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "i harim gut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ol lip"
+    },
+    {
+      "surface": "און",
+      "gloss": "bilong nogut"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "man i save tok giaman"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "i harim gut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ol tang"
+    },
+    {
+      "surface": "הות",
+      "gloss": "bilong bagarapim ol manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:39:58.513207995Z",
+  "model": "glm-5.3"
+}

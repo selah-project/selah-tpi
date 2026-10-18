@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tenpela de",
+      "rationale": "the verse counts the interval — about ten days between Nabal's stroke and his death"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bungim",
+      "rationale": "ויגף is cattle-language — to gore, push with the horn; rendered 'i bungim' (strike), the goring picture lost"
+    }
+  ],
+  "translation": "Na bihain, olsem tenpela de, Yahwe i bungim ⟨את⟩ Nabal, na em i dai.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/25\/37-40.1792352029132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "olsem tenpela"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "i bungim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "i dai"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:49.133632021Z",
+  "model": "glm-5.3"
+}

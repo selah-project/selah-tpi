@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "swea long tru",
+      "rationale": "אמת — sampela i ritim 'long tru' (adverb), sampela 'stret tok' (noun); D2 i no gat lo bilong אמת"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ol we i kamap long bel bilong yu",
+      "rationale": "מפרי בטנך literal i 'kaikai bilong bel bilong yu' — piksa bilong pikinini man"
+    }
+  ],
+  "translation": "Yahwe i swea long tru long David, em i no ken tanim bek long em: ol we i kamap long bel bilong yu, mi bai putim long sindaunples bilong king bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/9-12.1792359188153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "i swea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "long David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "long tru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ken tanim bek"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ol we i kamap long"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bel bilong yu"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi bai putim"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "long sindaunples bilong king"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:08.154438249Z",
+  "model": "glm-5.3"
+}

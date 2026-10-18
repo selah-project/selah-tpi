@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקך",
+      "rationale": "Gloss i stap long 'tsedek' olsem D2 i tok — no 'stretpela pasin' tasol."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong de",
+      "rationale": "צהרים em i dual 'tupela lait' — belo bilong de; Tok Pisin i nidim samting moa long spikim taim."
+    }
+  ],
+  "translation": "Na em bai bringim kamap ⟨את⟩ tsedek bilong yu olsem lait, na kot bilong yu olsem belo bilong de.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/5-8.1792358150662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "na em bai bringim kamap ⟨את⟩",
+      "marks": "tsedek bilong yu"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "olsem lait"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedek bilong yu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na kot bilong yu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "olsem belo bilong de"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:50.662927954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "bai yu ol i givim",
+      "rationale": "Tok i save tokim ol man Yisrael wantaim tok 'yupela'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שוק",
+      "rationale": "'lek' (hap bilong lek) — KJV 'shoulta' i no stret; lek bilong animal, i no shoulta"
+    }
+  ],
+  "translation": "Na ⟨את⟩ lek bilong han sutpela bai yu ol i givim olsem teruma long pris, long hapsait bilong ol sakrifies bilong pis bilong yupela.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/7\/29-32.1792348326808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "lek bilong han sutpela"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lek"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "bilong han sutpela"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bai yu ol i givim"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "olsem teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "long pris"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "long hapsait bilong ol sakrifies"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "bilong pis bilong yupela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:32:06.809380261Z",
+  "model": "glm-5.3"
+}

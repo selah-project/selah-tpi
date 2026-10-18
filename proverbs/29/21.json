@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנון",
+      "rationale": "מנון appears only here in the Tanakh; meaning uncertain."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנון",
+      "rationale": "Renderings split: 'son\/heir' (KJV, ASV, Geneva), 'rebel' (Wycliffe), 'grief' (BSB), 'continuator' (YLT); from root נון 'to continue\/flourish'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pamperim",
+      "rationale": "מפנק is a participle of פנק 'to enervate, indulge' — the agent-noun shape is softened into a verb phrase."
+    }
+  ],
+  "translation": "Man i pamperim gutpela ⟨את⟩ save man bilong em long taim em i liklik yet, na long behain bai save man i kamap olsem man i save holim nem bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/29\/21-24.1792359763576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "pamperim"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "long taim em i liklik yet"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "save man bilong em"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "na long behain"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bai i kamap"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "olsem man i save holim nem bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:43.577426354Z",
+  "model": "glm-5.3"
+}

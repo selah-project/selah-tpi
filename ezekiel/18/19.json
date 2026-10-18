@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 18:19",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew has no explicit subject between the question and the answer; Tok Pisin needs ⟨em⟩ to mark the turn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיה יחיה",
+      "rationale": "infinitive-absolute plus verb: 'living he shall live', doubled for emphasis; rendered with tru in Tok Pisin"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel in exile",
+      "rationale": "ye\/ol addresses the community quoting their proverb against Ezekiel's teaching"
+    }
+  ],
+  "translation": "Na ol i tok: bilong wanem pikinini man i no karim ⟨את⟩ tingting nogut bilong papa? Tasol ⟨em⟩ pikinini man i wokim kot na tsedek, em i lukautim olgeta lo bilong mi, na em i wokim ol — em bai stap gutpela long laip tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9a51575e08145ec2d8f7fcd4c9386fa7045495e3f322268e3cd1789c0ed9c63d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/18\/19-20.1792363258468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "מדע",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "karim"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "tingting nogut"
+    },
+    {
+      "surface": "האב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "והבן",
+      "gloss": "tasol pikinini man"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kot"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na tsedek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta lo bilong mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "lo bilong mi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "i lukautim"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta lo bilong mi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "stap gutpela long laip"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "bai i stap gutpela long laip tru"
+    }
+  ],
+  "timestamp": "2026-10-18T22:40:58.468813166Z",
+  "model": "glm-5.3"
+}

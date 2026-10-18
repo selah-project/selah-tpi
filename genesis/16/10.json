@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרבה ארבה",
+      "rationale": "Infinitive-absolute plus finite verb of same root: 'multiplying I will multiply' — intensity by repetition."
+    },
+    {
+      "kind": "measurement",
+      "subject": "counting",
+      "rationale": "Seed too numerous to count — tally\/counting language."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini",
+      "rationale": "זרע is 'seed'; rendered as offspring per D4."
+    }
+  ],
+  "translation": "Na mesinja bilong Yahwe i tokim em: Bai mi gohapim planti, planti tumas ⟨את⟩ pikinini bilong yu, na ol i no inap kaunim bilong ol i kamap olgeta tumas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "d697c83e17a8a50085f6be7eebdddbe18419fc96e1e975979a913746ab4c4ca9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/16\/9-12.1792346493695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mesinja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "planti tumas"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "mi gohapim planti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini bilong yu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "inap kaunim"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "bilong ol i kamap olgeta tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T18:01:33.696855391Z",
+  "model": "glm-5.3"
+}

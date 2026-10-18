@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wan handet kibit × faifti kibit",
+      "rationale": "Dimensions of the chamber block: 100 cubits long, 50 cubits wide"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun added for 'the breadth of it', Hebrew construct lacks explicit pronoun"
+    }
+  ],
+  "translation": "Long frant bilong longpen bilong wan handet kibit i stap dua bilong not, na lap bilong ⟨em⟩ faifti kibit.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/42\/1-4.1792356818320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "פני",
+      "gloss": "frant"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longpen"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibit"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "wan handet"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "bilong not"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "na lap bilong"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "faifti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kibit"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:38.321790472Z",
+  "model": "glm-5.3"
+}

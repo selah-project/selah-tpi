@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "land of Canaan \/ land of merchants",
+      "rationale": "כנען read literally is Canaan, but many translators hear כנען as 'traffic\/merchants' (cf. 'land of traffick' KJV); Tok Pisin keeps Kenan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sucker\/twig",
+      "rationale": "יניקותיו is literally 'its suckers\/saplings' — young tender shoots, rendered 'pikinini diu' (young shoots)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs the object pronoun with putim; Hebrew שמו carries it in suffix."
+    }
+  ],
+  "translation": "⟨את⟩ hed bilong ol pikinini diu i kirap nau, em i kaisim i go long graun bilong Kenan, long siti bilong ol man i wok long salim samting, em i putim ⟨em⟩ long hap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6169c77e954f3434afea4d143b2aee001bfea15fc5d16910cbcecf7e9361a85f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/17\/1-4.1792356267825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hed bilong ol pikinini diu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hed"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "bilong ol pikinini diu"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "em i kaisim i go"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "i kirap long"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun bilong"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long siti"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "bilong ol man i wok long salim samting"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "em i putim ⟨em⟩ long hap"
+    }
+  ],
+  "timestamp": "2026-10-18T20:44:27.826715218Z",
+  "model": "glm-5.3"
+}

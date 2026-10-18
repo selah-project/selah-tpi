@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "tpi",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעו",
+      "rationale": "Ketiv read as from רעע 'waste\/afflict' (JPS 'waste'); others read as רעה 'shepherds\/rule' with the seven shepherds of 5:4."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew verb is singular 'he will deliver' with no pronoun; supplied to clarify the deliverer."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bagarapim",
+      "rationale": "Hebrew 'to pasture\/to afflict' rendered as 'waste\/destroy' — the grazing image is lost."
+    }
+  ],
+  "translation": "Na ol i bagarapim ⟨את⟩ graun bilong Ashur wantaim bainat, na ⟨את⟩ graun bilong Nimrod long ol dua bilong en; na ⟨em⟩ i salim ol i lus long Ashur, taim em i kam insait long graun bilong yumi, na taim em i wokabaut antap long ol boda bilong yumi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/5\/5-8.1792357388643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ol i bagarapim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wantaim bainat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "long ol dua bilong en"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "na i salim ol i lus"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "long Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taim"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "em i kam insait"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "long graun bilong yumi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "em i wokabaut antap"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "long ol boda bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:03:08.644198819Z",
+  "model": "glm-5.3"
+}

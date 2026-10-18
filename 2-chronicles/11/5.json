@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ol taun bilong banis",
+      "rationale": "List of fortified cities begins here, continuing through v. 10."
+    },
+    {
+      "kind": "substitution",
+      "subject": "banis",
+      "rationale": "מצור is siege\/fortification; 'bilong banis' renders its defensive purpose rather than the literal mound-of-besiegers picture."
+    }
+  ],
+  "translation": "Na Rehavam i stap long Yerusalayim, na em i wokim ol taun bilong banis long Yehuda.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/11\/5-8.1792362393253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ol taun"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "bilong banis"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "long Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T22:26:33.254000504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחוש חוץ ממני",
+      "rationale": "Lit. 'who is eager outside\/besides me?' — JPS reads 'if not I', KJV 'more than I', BSB supplies 'apart from Him' with different Hebrew text."
+    },
+    {
+      "kind": "you",
+      "subject": "husat",
+      "rationale": "Rhetorical question addressed to the hearer\/reader."
+    }
+  ],
+  "translation": "Bilong wanem, husat inap kaikai, na husat inap harmap long bilip long dispela samting, olsem mi?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/2\/25-26.1792360700142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "inap kaikai"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na husat"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "inap harmap long bilip"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ausait"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "long mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:20.143140527Z",
+  "model": "glm-5.3"
+}

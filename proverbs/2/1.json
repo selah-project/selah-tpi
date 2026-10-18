@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "H854 preposition 'with you', not the object marker; rendered as 'wantaim ⟨את⟩ yu' with marker preserved"
+    },
+    {
+      "kind": "invitation",
+      "subject": "whole verse",
+      "rationale": "Father addresses 'my son' with conditional imperatives, drawing the reader in"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "Direct address to the son\/disciple"
+    }
+  ],
+  "translation": "Pikinini man bilong mi, sapos yu kisim ol tok bilong mi, na yu hilaidim ol komandman bilong mi wantaim ⟨את⟩ yu;",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/2\/1-4.1792359405067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikinini man bilong mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "yu kisim"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ol tok bilong mi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ol komandman bilong mi"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "yu hilaidim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "wantaim ⟨את⟩ yu",
+      "marks": "ol komandman bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:36:45.067902945Z",
+  "model": "glm-5.3"
+}

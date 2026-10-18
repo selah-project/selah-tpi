@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "hex formula 'to say' rendered 'i tok olsem'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yirmeyahu",
+      "rationale": "tok bilong Yahwe i go stret long profet Yirmeyahu"
+    }
+  ],
+  "translation": "Tok i kam long Yirmeyahu, bilong ⟨את⟩ Yahwe, i tok olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/11\/1-4.1792355087864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "bilong ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T20:24:47.865763574Z",
+  "model": "glm-5.3"
+}

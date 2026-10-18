@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל em i win\/breth i lus — Tok Pisin 'hebel' em i gutpela tu, i no 'nating' tasol"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעות רוח",
+      "rationale": "Tok Pisin 'biruan bilong ruak' — 'vexation of spirit' i nogat mining long Tok Pisin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "les long",
+      "rationale": "שנא — Tok Pisin 'les long' i karim hate em i narapela kain, tasol D3 i makim 'les long'"
+    }
+  ],
+  "translation": "Na mi les long ⟨את⟩ olgeta samting bilong stap ailain, long wanem ol wok i wokim ananit bilong sol i nogut long mi, bilong olgeta samting i wokim ananit bilong sol, long wanem olgeta em i hebel na biruan bilong ruak.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/2\/17-20.1792360739892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Na mi les long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta samting bilong stap ailain"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "olgeta samting bilong stap ailain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "i nogut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "long mi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ol wok"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "i wokim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ananit bilong"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "olgeta samting"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na biruan bilong"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    }
+  ],
+  "timestamp": "2026-10-18T21:58:59.893478670Z",
+  "model": "glm-5.3"
+}

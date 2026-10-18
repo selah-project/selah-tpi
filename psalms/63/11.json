@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגירהו על ידי חרב",
+      "rationale": "'kapsaitem i go long han bilong bainat' — 'they shall fall by the sword' (KJV) vs 'hurled to the power of the sword' (JPS); שועלים em i waildok (jackal), no dok"
+    }
+  ],
+  "translation": "Ol bai kapsait ⟨את⟩ ol i go long han bilong bainat; ol bai kamap ol sekim bilong ol waildok.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/63\/9-12.1792358377372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ol bai kapsait"
+    },
+    {
+      "surface": "על",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "han bilong"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bainat"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ol sekim"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "bilong ol waildok"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ol bai kamap"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:37.374991351Z",
+  "model": "glm-5.3"
+}

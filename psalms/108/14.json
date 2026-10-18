@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strongpela wok",
+      "rationale": "חיל i min strong, ami, o manmeri — 'valiantly' i tok long pasin tasol."
+    },
+    {
+      "kind": "addition",
+      "subject": "yumipela",
+      "rationale": "נעשה em i cohortative — 'yumi' i soim dispela pasin, Tok Pisin i no gat mak bilong en."
+    },
+    {
+      "kind": "you",
+      "subject": "long Elohim",
+      "rationale": "Tok i stap long praem, tasol vers i tokaut long strong bilong Elohim."
+    }
+  ],
+  "translation": "Wantaim Elohim yumipela bai i wokim strongpela wok, na em yet bai i putim lek aninit long ol birua bilong mipela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/108\/13-14.1792359009070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Wantaim Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yumipela bai i wokim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "strongpela wok"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na em yet"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bai i putim lek aninit long"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ol birua bilong mipela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:30:09.070810401Z",
+  "model": "glm-5.3"
+}

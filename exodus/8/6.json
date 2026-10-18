@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Hebrew has no pronoun; subject of both 'i tok' verbs supplied from context (Pharaoh, then Moses)."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "Moses answers Pharaoh directly with 'yu' forms: 'olsem tok bilong yu', 'yu bai save'."
+    }
+  ],
+  "translation": "Na ⟨em⟩ i tok: Long tumora. Na ⟨em⟩ i tok: Olsem tok bilong yu — bilong yu bai save long i no gat wanpela olsem Yahwe, Elohim bilong yumi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/5-8.1792347483906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "long tumora"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na ⟨em⟩ i tok"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "olsem tok bilong yu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yu bai save"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long"
+    },
+    {
+      "surface": "אין",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "wanpela olsem Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim bilong yumi"
+    }
+  ],
+  "timestamp": "2026-10-18T18:18:03.907442746Z",
+  "model": "glm-5.3"
+}

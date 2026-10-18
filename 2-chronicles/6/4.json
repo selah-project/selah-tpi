@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את דויד",
+      "rationale": "This את is the preposition 'with\/near' (H854), not the object marker; rendered 'long' rather than ⟨את⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "מלא lacks an explicit object ('fulfilled it'); Tok Pisin supplies ⟨em⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mouth\/hands",
+      "rationale": "Parallelism: spoke with mouth \/ fulfilled with hands — word and deed pairing preserved."
+    }
+  ],
+  "translation": "Na em i tok: Berkim Yahwe, Elohim bilong Yisrael, we em i tokim ⟨את⟩ David papa bilong mi long maus bilong em, na long han bilong em em i fulimapim ⟨em⟩ olgeta, i tok olsem:",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/1-4.1792362345750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na em i tok"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Berkim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i tokim"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "long maus bilong em"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ long"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa bilong mi"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "na long han bilong em"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "em i fulimapim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    }
+  ],
+  "timestamp": "2026-10-18T22:25:45.751891566Z",
+  "model": "glm-5.3"
+}

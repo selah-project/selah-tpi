@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol god bilong ol",
+      "rationale": "אלהיהם long ples hia em i ol god bilong ol Filisti, olsem na liklik 'god' i orait, i no Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "skul bilong het",
+      "rationale": "גלגלתו: 'skul' (lit) o 'het'; YLT usim 'skull', KJV 'head'"
+    }
+  ],
+  "translation": "Na ol putim ⟨את⟩ ol klos bilong pait bilong em long haus ol god bilong ol, na ol tingim ⟨את⟩ skul bilong het bilong em long haus Dagon.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/10\/9-12.1792361933703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Na ol putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol klos bilong pait bilong em"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ol klos bilong pait bilong em"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ol god bilong ol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skul bilong het bilong em"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "skul bilong het bilong em"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ol tingim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "long haus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-18T22:18:53.704567979Z",
+  "model": "glm-5.3"
+}

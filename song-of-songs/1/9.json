@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mi",
+      "rationale": "Hibru i no tok husat i skelim; tok bilong man i tanim tok no stap"
+    },
+    {
+      "kind": "crux",
+      "subject": "mare namel long ol karet bilong Paroh",
+      "rationale": "KJV 'company of horses' vs BSB 'a mare among Pharaoh's chariots' — em i liklik meri sus namel long ol karet bilong ol man sus, piksa bilong ol man i lukluk long em"
+    }
+  ],
+  "translation": "Mare bilong mi, namel long ol karet bilong Paroh — ⟨mi⟩ skelim yu olsem, kanvas bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/song-of-songs\/1\/9-12.1792360426296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "mare bilong mi"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "namel long ol karet bilong"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "mi skelim yu olsem"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kanvas bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:53:46.296874392Z",
+  "model": "glm-5.3"
+}

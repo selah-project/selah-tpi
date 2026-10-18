@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותורך",
+      "rationale": "ירה hiphil: 'bai skulim yu' (KJV\/ASV) o 'bai soim yu' (ylt\/bsb) — tupela i save togat long Tpi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "rationale": "Geneva\/KJV ritim 'word of truth'; Tok Pisin 'tok bilong emet' — Hebrew דבר em i 'tok\/mate' olgeta."
+    },
+    {
+      "kind": "you",
+      "subject": "king",
+      "rationale": "Tok i go stret long king — nem namba tu long Tok Pisin (ata bilong)."
+    }
+  ],
+  "translation": "Long hadar bilong yu, raun i go het, bilong tok bilong emet, na bilong anenua bilong tsedek; na han kapus bilong yu bai skulim yu long ol samting i mekim ol man pret.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/45\/5-8.1792358289021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "long hadar bilong yu"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "go het"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "raun"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "anenua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "han kapus bilong yu bai skulim yu"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ol samting i mekim ol man pret"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "han kapus bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:09.022707988Z",
+  "model": "glm-5.3"
+}

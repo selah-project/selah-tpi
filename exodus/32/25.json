@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרוע",
+      "rationale": "'unbridled\/broken loose' (ylt, jps) vs 'naked' (kjv) vs 'out of control' (bsb); root פרע means loosened\/uncovered."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרוע\/פרעה",
+      "rationale": "Same verb פרע repeated: the people were loosened because Aaron loosened them — repetition lost in tpi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בקמיהם",
+      "rationale": "Literally 'among those who rise up against them' → 'ol birua bilong ol'."
+    }
+  ],
+  "translation": "Na Mose i lukim ⟨את⟩ ol manmeri bilong en, long wanem, ol i wokabaut nating olgeta, bilong Aharon i lusim ol long pasin bilong sem long ol birua bilong ol.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/32\/25-28.1792348045168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i lukim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri bilong en"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri bilong en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ol i wokabaut nating olgeta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "i lusim ol"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "long pasin bilong sem"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "long ol birua bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T18:27:25.169123336Z",
+  "model": "glm-5.3"
+}

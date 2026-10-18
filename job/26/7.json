@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav marks graun as direct object of hangamapim; preserved as ⟨את⟩ in translation."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלי מה",
+      "rationale": "בְּלִימָה 'nothing at all' split into בלי 'without' + מה 'what' — a deliberate pun; tpi splits as 'nating tru'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ples nating",
+      "rationale": "תהו echoes Gen 1:2 pre-creation emptiness; cosmic imagery of hanging earth on nothing."
+    }
+  ],
+  "translation": "Em i spanim ⟨את⟩ North long ples nating, na Em i hangamapim ⟨את⟩ graun long nating tru.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "152c63d6c621933ac89e1e3a17fb121e5eeb47d3b2b672f34f85d76c3ffae927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/26\/5-8.1792360185459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Em i spanim"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "North"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ples nating"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "Em i hangamapim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nating"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tru"
+    }
+  ],
+  "timestamp": "2026-10-18T21:49:45.460084716Z",
+  "model": "glm-5.3"
+}

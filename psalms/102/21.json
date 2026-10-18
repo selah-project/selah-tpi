@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol pikinini man bilong dai",
+      "rationale": "בני תמותה em i 'ol pikinini bilong dai' — tok i stap klostu, tasol ol tanim tok i tok 'ol man ol i makim long dai'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בני",
+      "gloss": "Hebrew construct chain 'sons of' rendered with Tok Pisin 'bilong' possessive"
+    }
+  ],
+  "translation": "Bihainim krai bilong man i kalaput long kalabus, bilong opim ol pikinini man bilong dai",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/102\/21-24.1792358886341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "bihainim krai"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "krai bilong man i kalaput"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "long kalabus"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "bilong opim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini man"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "bilong dai"
+    }
+  ],
+  "timestamp": "2026-10-18T21:28:06.342129616Z",
+  "model": "glm-5.3"
+}

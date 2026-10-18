@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקנה ההוא",
+      "rationale": "'that livestock' — whose cattle? KJV\/ASV\/JPS read 'those other cattle' (Amalek's), YLT 'these cattle' (David's recovered); the Hebrew demonstrative alone is ambiguous."
+    },
+    {
+      "kind": "you",
+      "subject": "to David's men",
+      "rationale": "The shout 'This is David's spoil!' is direct reported speech of the men, naming David as owner."
+    }
+  ],
+  "translation": "Na David i tekim ⟨את⟩ olgeta ol sipsip na meme, na ⟨את⟩ ol bulmakau; ol i dringim i go pastaim long dispela ol animal bilong olgeta, na ol i tok: Em i ol bilas bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/30\/17-20.1792352056101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i tekim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta ol sipsip na meme na ol bulmakau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ol sipsip na meme"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "na ol bulmakau"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ol i dringim i go pastaim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ol animal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Em"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "i ol bilas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:16.102664459Z",
+  "model": "glm-5.3"
+}

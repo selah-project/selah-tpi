@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ol kaikai i go antap",
+      "rationale": "העלה em i 'kaikai i go antap' — ofen bilong smel i go antap long paia, no 'burnt sacrifice'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "faipela kiubit ... tripela kiubit",
+      "rationale": "Ol mak bilong altar: 5×5×3 kiubit, kwarapela"
+    }
+  ],
+  "translation": "Na em i wokim ⟨את⟩ altar bilong ol kaikai i go antap, long wood bilong ol diwai shitim: faipela kiubit long longpela hap bilong en, na faipela kiubit long werewere hap bilong en, em i kwarapela; na tripela kiubit long maunten bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/38\/1-4.1792348179399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar bilong ol kaikai i go antap"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bilong ol kaikai i go antap"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood bilong"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ol diwai shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "faipela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "long longpela hap bilong en"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na faipela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "long werewere hap bilong en"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "em i kwarapela"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tripela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiubit"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "long maunten bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:29:39.399964090Z",
+  "model": "glm-5.3"
+}

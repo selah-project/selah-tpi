@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כצל",
+      "rationale": "KJV\/JPS 'which are as a shadow' (days like shadow) vs YLT\/BSB 'like a shadow' (not prolong days as a shadow); Hebrew syntax allows both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sanba",
+      "rationale": "צל literally shade\/shadow — picture of something short-lived and passing, kept as sanba."
+    }
+  ],
+  "translation": "Na gutpela samting i no ken kamap long man nogut, na em i no ken stap longpela, olsem sanba, bilong em i no frighten long tet bilong Elohim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/13-16.1792360840897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "na gutpela samting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ken kamap"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "long man nogut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na i no"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ken stap longpela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ol de"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "olsem sanba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "em i no"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frighten"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "long tet bilong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:00:40.897984260Z",
+  "model": "glm-5.3"
+}

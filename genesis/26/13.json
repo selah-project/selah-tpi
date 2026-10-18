@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדל ×3",
+      "rationale": "Root g-d-l appears three times in one verse (vayigdal, vegadel, gadal) — intensifying crescendo of growth, hard to keep in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin needs pronoun subject; Hebrew has verb form only."
+    }
+  ],
+  "translation": "Na ⟨em⟩ man i kamap bikpela, na em i go het, i go het na i kamap bikpela moa, oltaim em i kamap bikpela tumas.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b4f3de08bf0bbb1647629b76d03377d515a4a11c9993f68e0efa3e6f0b5758d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/26\/13-16.1792346709087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "i kamap bikpela"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "i go het"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "i go het"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "i kamap bikpela moa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "em i"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "i kamap bikpela"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tumas"
+    }
+  ],
+  "timestamp": "2026-10-18T18:05:09.088364313Z",
+  "model": "glm-5.3"
+}

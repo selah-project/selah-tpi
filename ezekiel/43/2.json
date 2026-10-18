@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 43:2",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד is literally 'weyt\/hevi' — weight, honor; rendered 'glori' for splendor sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול\/כקול",
+      "rationale": "Repetition of 'voice like voice' — sound of many waters echoes Ezek 1:24."
+    }
+  ],
+  "translation": "Na luk — glori bilong Elohim bilong Yisrael i kamap long rot bilong hap ist, na singaut bilong em i olsem nois bilong planti wara, na graun i gutpela lait namel long glori bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "00968a3da83cfe230019e70617d5e6bf262d48d99cf3b3d691d71ce96820e221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/43\/1-4.1792356834892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Na luk"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bilong Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i kamap"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "long rot bilong"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "hap ist"
+    },
+    {
+      "surface": "וקולו",
+      "gloss": "na singaut bilong em"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "i olsem nois bilong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wara"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na graun"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "i gutpela lait"
+    },
+    {
+      "surface": "מכבדו",
+      "gloss": "namel long glori bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:54.895348422Z",
+  "model": "glm-5.3"
+}

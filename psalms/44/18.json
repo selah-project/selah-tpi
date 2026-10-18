@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kontrak",
+      "rationale": "ברית em i kontrak — tok i holim strong, i no soft tok 'promis'"
+    }
+  ],
+  "translation": "Olgeta dispela i kamap long mipela, tasol mipela i no lusim yu, na mipela i no giaman long kontrak bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/44\/17-20.1792358287984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "i kamap long mipela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol mipela i no"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "lusim yu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mipela i no"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "giaman"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "long kontrak bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:18:07.985263362Z",
+  "model": "glm-5.3"
+}

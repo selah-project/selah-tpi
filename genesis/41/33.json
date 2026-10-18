@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i mas",
+      "rationale": "Hebrew jussive ירא rendered as obligation 'must look for'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em",
+      "rationale": "Pronoun added to make clear who is set over the land"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Joseph's counsel to Pharaoh",
+      "rationale": "Verse is direct advice, imperative-jussive speech to Pharaoh"
+    }
+  ],
+  "translation": "Na nau, Paroh i mas lukautim wanpela man i save tingting gutpela na i save, na i putim ⟨em⟩ bos long graun bilong Mitsrayim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "245db51fcb53d8a8f52559ad11388765297324ad42137efdba8179a50ff34ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/33-36.1792347176852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na nau"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i mas lukautim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "save tingting gutpela"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "na save"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "na i putim em"
+    },
+    {
+      "surface": "על",
+      "gloss": "bos long"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:56.853261236Z",
+  "model": "glm-5.3"
+}

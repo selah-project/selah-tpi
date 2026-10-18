@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחפזי",
+      "rationale": "'in my haste' (KJV) vs 'in my alarm\/fear' — root means sudden flight, panic."
+    }
+  ],
+  "translation": "Mi, mi tok long hap bilong pret: olgeta man i tok giaman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/116\/9-12.1792359066079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi tok"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "long hap bilong pret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "i tok giaman"
+    }
+  ],
+  "timestamp": "2026-10-18T21:31:06.080910530Z",
+  "model": "glm-5.3"
+}

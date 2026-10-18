@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sia bilong king",
+      "rationale": "לכסא em i throne; Tok Pisin i usim 'sia bilong king' bilong tokim em"
+    },
+    {
+      "kind": "alternative",
+      "subject": "long tsedek",
+      "rationale": "שופט צדק i ken tok 'skelim man olsem tsedek' o 'yu em i hematim tsedek'"
+    }
+  ],
+  "translation": "Long wanem, yu wokim kot bilong mi na skelim bilong mi; yu sindaun long sia bilong king, yu skelim long tsedek.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/9\/5-8.1792357908459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kot bilong mi"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "na skelim bilong mi"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "yu sindaun"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "long sia bilong king"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "yu skelim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "long tsedek"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:48.459791371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew i no gat copula — 'yu prais bilong mi' olsem em i stap; Tok Pisin i nidim 'em'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רפאני\/וארפא · הושיעני\/ואושעה",
+      "rationale": "ol pasiv i tanim tok gen long wanem rod (betim→bai orait, selvim→bai sel) — echo i stap."
+    },
+    {
+      "kind": "you",
+      "subject": "Yeremaya i tok long Yahwe",
+      "rationale": "peli bilong wanwan man i singautim Nem — direct address."
+    }
+  ],
+  "translation": "Yahwe, yu betim mi na mi bai orait gen; yu selvim mi na mi bai sel, long wanem yu ⟨em⟩ prais bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/17\/13-16.1792355220675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "yu betim mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "na mi bai orait gen"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "yu selvim mi"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "na mi bai sel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "long wanem"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "prais bilong mi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    }
+  ],
+  "timestamp": "2026-10-18T20:27:00.676065693Z",
+  "model": "glm-5.3"
+}

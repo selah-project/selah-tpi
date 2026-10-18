@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i needim predicate marker na copula, Hibru i no gat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol nem bilong ol king",
+      "rationale": "ves em i lista bilong ol nem long lain bilong David"
+    }
+  ],
+  "translation": "Na pikinini bilong Shelomo em i Rehavam, Aviya pikinini bilong en, Asa pikinini bilong en, Yehoshafat pikinini bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/3\/9-12.1792361821858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Na pikinini bilong"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T22:17:01.858942393Z",
+  "model": "glm-5.3"
+}

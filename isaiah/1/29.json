@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ol dia",
+      "rationale": "אילים: strong trees — oaks (KJV) vs terebinths (JPS); 'ol dia' keeps the strong-tree sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ותחפרו",
+      "rationale": "Parallel pair 'be ashamed\/blush with shame' repeated over oaks and gardens — chiastic echo lost as one Tok Pisin word 'sem\/sen'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ol bai sem",
+      "rationale": "Verb is 3rd person but suffixes on חמדתם are 2nd person — Hebrew mixes 'they' and 'you', kept as is."
+    }
+  ],
+  "translation": "Bilong olsem, ol bai sem long ol dia we yupela laikim tru, na yupela bai sen long ol gaden we yupela bilong makim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/1\/29-31.1792353816625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong olsem"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ol bai sem"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "long ol dia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "yupela laikim tru"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "na yupela bai sen"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "long ol gaden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "yupela bilong makim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:03:36.627093191Z",
+  "model": "glm-5.3"
+}

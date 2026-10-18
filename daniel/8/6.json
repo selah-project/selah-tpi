@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 8:6",
+  "book": "daniel",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dia",
+      "rationale": "איל — 'ram'; D4b i tok *dia*, i no *diua* (balus)"
+    },
+    {
+      "kind": "crux",
+      "subject": "האבל",
+      "rationale": "'wara' o 'geit' — Wycliffe i ritim 'bifore the yate'; KIV 'the river' — em i 'wara o wara bilong ples bilong kiap (Ulay\/Ubri)'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחמת כחו",
+      "rationale": "'bel he bilong strong' — tupela tok we i go wantaim, i painim 'fury of his power'"
+    }
+  ],
+  "translation": "Na em i kamap klostu long dispela dia, i gat tupela korn, we mi bin lukim em i sanap pastaim long wara; na em i ran i go long em, wantaim strongpela bel he bilong strong bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "491aa1c5cc94242790b105f345e06a1817693a5aba901e1e83e28999032798c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/daniel\/8\/5-8.1792361231732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na em i kamap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "klostu long"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dispela dia"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "i gat"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "tupela korn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi bin lukim"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "i sanap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pastaim long"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "wara"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "na em i ran"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i go long em"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "wantaim strongpela bel he"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "strong bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T22:07:11.733589102Z",
+  "model": "glm-5.3"
+}

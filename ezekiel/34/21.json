@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 34:21",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative 'that\/which' has no standalone Tok Pisin word here; absorbed into verb chain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהדפו\/תנגחו",
+      "rationale": "two pushing verbs (shoulder-shove and horn-butt) echo each other; Tok Pisin pushim\/butim keeps the pair"
+    },
+    {
+      "kind": "you",
+      "subject": "to the fat sheep\/leaders of Israel",
+      "rationale": "verse directly addresses the strong rams who bully the weak"
+    }
+  ],
+  "translation": "Long wanem, yu ol long sait na long sekel i pushim ol i go daun, na long ol karn bilong yu ol yet i butim olgeta ol man i no gat strong, inap yu ol yet i skerapredim ⟨את⟩ ol i go long autsait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/34\/21-24.1792356617658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "long wanem, bilong"
+    },
+    {
+      "surface": "בצד",
+      "gloss": "long sait"
+    },
+    {
+      "surface": "ובכתף",
+      "gloss": "na long sekel"
+    },
+    {
+      "surface": "תהדפו",
+      "gloss": "yu ol i pushim ol i go daun"
+    },
+    {
+      "surface": "ובקרניכם",
+      "gloss": "na long ol karn bilong yu ol yet"
+    },
+    {
+      "surface": "תנגחו",
+      "gloss": "yu ol i butim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הנחלות",
+      "gloss": "ol man i no gat strong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הפיצותם",
+      "gloss": "yu ol yet i skerapredim"
+    },
+    {
+      "surface": "אותנה",
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol man i no gat strong)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "autsait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:50:17.659059164Z",
+  "model": "glm-5.3"
+}

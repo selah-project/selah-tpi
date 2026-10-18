@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב literally 'heart', rendered 'bel' (seat of feeling and will in Tok Pisin), per D4."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי…כי",
+      "rationale": "repeated 'ki' frames cause and ground; repetition kept with 'bilong dispela' twice."
+    }
+  ],
+  "translation": "Bilong dispela, long em bel bilong yumi i save amamas, bilong dispela, long holi nem bilong em yumi strong bel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/33\/21-22.1792358096938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "i save amamas"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "bel bilong yumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong dispela"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "holi bilong em"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "yumi strong bel"
+    }
+  ],
+  "timestamp": "2026-10-18T21:14:56.938647182Z",
+  "model": "glm-5.3"
+}

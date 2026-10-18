@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wantaim",
+      "rationale": "על literally 'upon', rendered as accompaniment 'with' for head and legs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pekpek",
+      "rationale": "פרש is excrement, rendered plainly"
+    }
+  ],
+  "translation": "Na ⟨את⟩ skin bilong bulmakau man, na ⟨את⟩ olgeta mit bilong en, wantaim hed bilong en na wantaim lek bilong en, na ol insait bilong en, na pekpek bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/4\/9-12.1792348298438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skin bilong bulmakau man"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bulmakau man"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta mit bilong en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mit bilong en"
+    },
+    {
+      "surface": "על",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hed bilong en"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "lek bilong en"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "na ol insait bilong en"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na pekpek bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:31:38.440154639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשדי יער",
+      "rationale": "'ol gaden bilong bus' o 'gaden bilong Yaar' (ples nem, Kiryat-Yearim) — ol tanim tok i no wankain"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "safiks -ה long Hibru i tok 'en', Tok Pisin i bruikim tok em"
+    }
+  ],
+  "translation": "Lukim, miplela i harim tok bilong en long Efrata; miplela i painim ⟨em⟩ long ol gaden bilong bus.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/5-8.1792359203898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lukim"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "miplela i harim tok bilong en"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "long Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "miplela i painim ⟨em⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "long ol gaden"
+    },
+    {
+      "surface": "יער",
+      "gloss": "bilong bus"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:23.899198931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעולם היא לי",
+      "rationale": "Lit. 'it is to me forever' — KJV 'they are ever with me' vs YLT 'before me to the age'; kept 'stap wantaim mi oltaim'."
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "Feminine singular pronoun 'she\/it' points to Torah (v.97); plural 'ol i' follows the plural 'komand' reading."
+    }
+  ],
+  "translation": "Ol komand bilong yu ol i givim save long mi, moa long ol birua bilong mi, bilong wanem, ol i stap wantaim mi oltaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/97-100.1792359136277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "moa long ol birua bilong mi"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ol i givim save long mi"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ol komand bilong yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "oltaim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ol i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "stap wantaim mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:16.278468391Z",
+  "model": "glm-5.3"
+}

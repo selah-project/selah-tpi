@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "daunbilo",
+      "rationale": "בתחתית em i 'daunbilo bilong maunten' — ol tanim tok i tok 'foot' tasol Hibru i tok daunbilo"
+    },
+    {
+      "kind": "elision",
+      "subject": "לקראת",
+      "rationale": "Hibru i tok 'ol i go long ples bilong painim' — Tok Pisin i tanim olsem 'long kamap long stap klostu'"
+    }
+  ],
+  "translation": "Na Mose i bringautim ⟨את⟩ ol manmeri long kamap long stap klostu long Elohim, rausim ol long kemp, na ol i sanap daunbilo long ples bilong maunten.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/19\/17-20.1792347660777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "i bringautim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ol manmeri"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "long kamap long stap klostu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rausim ol long"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemp"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "na ol i sanap"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "daunbilo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ples bilong maunten"
+    }
+  ],
+  "timestamp": "2026-10-18T18:21:00.778402494Z",
+  "model": "glm-5.3"
+}

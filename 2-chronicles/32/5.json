@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 32:5",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלח",
+      "rationale": "slep — em i spia o wepen bilong trow, mi tanim olsem spia; KJV 'darts'"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "Milo — em i nem bilong ples, no wokim tanim; sampela i tok em i banis \/ hap bilong taun bilong David"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתחזק \/ ויחזק",
+      "rationale": "tupela i kam long wankain rod חזק — nem bilong Hizkiyahu tu (Yahwe i strongim) i holim strong dispela stori"
+    }
+  ],
+  "translation": "Na em i strongim bel bilong em, na em i wokim ⟨את⟩ olgeta banis i bruk pinis, na em i go antap long ol tauel, na long autsait em wokim narapela banis, na em i strongim ⟨את⟩ Milo, taun bilong David, na em i wokim planti spia na ol selet.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "0b1815226ee566c02f84e9b4e37260e94fa95d4461653cd5a1d0bd02aea8ff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/32\/5-8.1792362765222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "em i strongim bel bilong em"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta banis i bruk pinis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "banis"
+    },
+    {
+      "surface": "הפרוצה",
+      "gloss": "i bruk pinis"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "em i go antap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המגדלות",
+      "gloss": "ol tauel"
+    },
+    {
+      "surface": "ולחוצה",
+      "gloss": "na long autsait"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "banis"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "narapela"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "em i strongim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "taun"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "bilong David"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "spia"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "planti"
+    },
+    {
+      "surface": "ומגנים",
+      "gloss": "na ol selet"
+    }
+  ],
+  "timestamp": "2026-10-18T22:32:45.223231575Z",
+  "model": "glm-5.3"
+}

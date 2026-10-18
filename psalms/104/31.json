@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klovod",
+      "rationale": "כבוד = 'wehit' — klovod long Tok Pisin, i no 'glori'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "suffix -יו long במעשיו, Tok Pisin i ritim 'bilong em' namel long verse"
+    }
+  ],
+  "translation": "Wanem, klovod bilong Yahwe i stap olgeta taim; Yahwe i amamas long ol wok bilong ⟨em⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/29-32.1792358950356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "wanem, i stap"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "klovod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olgeta taim"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "i amamas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "long ol wok bilong ⟨em⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:10.358463729Z",
+  "model": "glm-5.3"
+}

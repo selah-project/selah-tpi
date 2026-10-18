@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Hebrew lacks copula — no verb 'to be' in the clause."
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "'Help opposite\/before him' — 'helpmeet', 'counterpart', or 'helper equal to him'; k-neged literally 'in front of, corresponding to'."
+    }
+  ],
+  "translation": "Na Yahwe Elohim i tok: ⟨em i⟩ no gutpela man i stap wanpela tasol; bai mi wokim bilong em wanpela helpeman, i stap arere long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/2\/17-20.1792346278561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "היות",
+      "gloss": "stap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wanpela tasol"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi wokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helpeman"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "i stap arere long em"
+    }
+  ],
+  "timestamp": "2026-10-18T17:57:58.562503204Z",
+  "model": "glm-5.3"
+}

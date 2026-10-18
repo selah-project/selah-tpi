@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na ⟨i⟩ givim",
+      "rationale": "Hibru i gat wanpela נותן tasol; Tok Pisin i laikim narapela verb long hap tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יקראו",
+      "rationale": "em i tok 'ol i singaut', no 'ol i singautim nem' — קרא i min tokaut strong"
+    }
+  ],
+  "translation": "Em i givim kaikai bilong ⟨את⟩ ol animal bilong lukautim, na ⟨i⟩ givim long ol pikinini bilong ol blakpela pisin kotkot, ol i singautim nem.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/9-12.1792359309360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Em i givim"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "long ol animal bilong lukautim"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "kaikai bilong"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "long ol pikinini bilong"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ol blakpela pisin kotkot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ol"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "i singautim nem"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:09.361694216Z",
+  "model": "glm-5.3"
+}

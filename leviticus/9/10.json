@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יתרת",
+      "rationale": "em i flap\/lobe bilong lewa, liklik hap i hang out"
+    },
+    {
+      "kind": "hapax-rare",
+      "subject": "החטאת",
+      "rationale": "chatat — sakrifaes bilong sin, wanpela kain sakrifaes"
+    }
+  ],
+  "translation": "Na ⟨את⟩ ol kol na ⟨את⟩ ol kidni na ⟨את⟩ flap bilong lewa, ol i brukwe long lewa bilong pikinini sipsip bilong sakrifaes bilong sin, em i bonim long altar, olsem Yahwe i bin bilong ⟨את⟩ Mose.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/9\/9-12.1792348384311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol kol"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ol kol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ol kidni"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ol kidni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "flap bilong lewa"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "flap bilong lewa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lewa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sakrifaes bilong sin"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "em i bonim"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "long altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i bin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    }
+  ],
+  "timestamp": "2026-10-18T18:33:04.312030385Z",
+  "model": "glm-5.3"
+}

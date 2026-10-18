@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב \/ יעקב",
+      "rationale": "'He grasped the heel (עקב)' sounds out the name Jacob (יעקב) — pun lost in Tok Pisin."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שרה",
+      "rationale": "Verb שׂרר\/שׂרה 'prevail as a prince' occurs only here; basis of name Israel (Gen 32)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובאונו",
+      "rationale": "'In his manhood\/vigor' (KJV 'strength') vs 'in his maturity' — און means might or wealth."
+    }
+  ],
+  "translation": "Long bel bilong mama yet em i holim ⟨את⟩ lek bilong brata bilong em; na long strong bilong em, em i pait wantaim ⟨את⟩ Elohim na em i winim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/12\/1-4.1792357089775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "long bel bilong mama"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "holim lek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lek bilong brata bilong em"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong em"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "na long strong bilong em"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "pait wantaim na winim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T20:58:09.776523470Z",
+  "model": "glm-5.3"
+}

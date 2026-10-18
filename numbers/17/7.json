@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 17:7",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hibru i gat suffix ו־ long כסהו; Tok Pisin i bradim ⟨em⟩ long karamapim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "glori",
+      "rationale": "כבוד em i 'weiman\/hevi'; 'glori' em i tok bilong stat bilong Nem"
+    }
+  ],
+  "translation": "Na taim olgeta kongrigesen i sanap wantaim long Mose na long Aharon, ol i kirap i go long Haus Bilong Sanap Wantaim, na luk — klaud i karamapim ⟨em⟩, na glori bilong Yahwe i kamap klia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "01e32913be63f8040c42e99e6c18717f851eb3d9d8a39933dee4e4634d611837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/17\/5-8.1792349298345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na i kamap"
+    },
+    {
+      "surface": "בהקהל",
+      "gloss": "taim ... i sanap wantaim"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "olgeta kongrigesen"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויפנו",
+      "gloss": "ol i kirap i go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Haus"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Bilong Sanap Wantaim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na luk"
+    },
+    {
+      "surface": "כסהו",
+      "gloss": "i karamapim"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "klaud"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "i kamap klia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glori bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T18:48:18.346669485Z",
+  "model": "glm-5.3"
+}

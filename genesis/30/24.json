@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יוסף\/יסף",
+      "rationale": "nem Yosef i kamap long tok יסף 'bungim\/olsem ken givim moa' — ol i hearim narim narim long Hibru"
+    },
+    {
+      "kind": "alternative",
+      "subject": "i baim ken givim",
+      "rationale": "Ol tanim tok i ritim olsem laik bilong Rahel: 'Yahwe i ken givim mi narapela pikinini man'"
+    }
+  ],
+  "translation": "Na em i karai nem bilong ⟨את⟩ em Yosef, olsem: Yahwe i baim ken givim mi narapela pikinini man.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fde1c94bcb49b1a4499c2da29cfb885d381ad0a35d7d29a0a589ae220f764943",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/30\/21-24.1792346858954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "em i karai nem bilong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nem bilong em"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "i baim ken givim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikinini man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "narapela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:07:38.955385749Z",
+  "model": "glm-5.3"
+}

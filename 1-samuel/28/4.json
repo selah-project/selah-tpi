@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקבצו ... ויקבץ",
+      "rationale": "Same verb 'gather' used for Philistines and Saul — the two hosts mirror each other before the clash."
+    }
+  ],
+  "translation": "Na ol Pelisit i kapsaitim olgeta, ol i kam, ol i setim han long Shunem; na Shaul i kapsaitim ⟨את⟩ olgeta Yisrael, na ol i setim han long Gilboa.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/28\/1-4.1792352064435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ol i kapsaitim olgeta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ol Pelisit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ol i kam"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ol i setim han"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "long Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "na ... i kapsaitim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "na ol i setim han"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "long Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-18T19:34:24.436658297Z",
+  "model": "glm-5.3"
+}

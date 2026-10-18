@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gaden",
+      "rationale": "שדה is an open field, not a garden; Tok Pisin 'gaden' is the nearest open-ground word but shifts the picture."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Wayehi 'and it came to pass' carries no content and is folded into the opening 'Na'."
+    }
+  ],
+  "translation": "Na long moning, Yehonatan i go ausait long gaden long taim ol i bin set bipo wantaim David, na wanpela liklik boi i stap wantaim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "87c2e699b1021beda4cf7eccdea89774c3abb6e67fd29e6b552a6a6796381392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/33-36.1792351849197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na em i kamap"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "long moning"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "i go ausait"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "long taim ol i bin set bipo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wantaim David"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "na wanpela boi"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "liklik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i stap wantaim em"
+    }
+  ],
+  "timestamp": "2026-10-18T19:30:49.198696139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ol pikinini bilong Yisrael",
+      "rationale": "Command addressed to Israel through Moses."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Pesak",
+      "rationale": "הפסח kept as Hebrew name, not 'kaikai bilong pes' or similar."
+    }
+  ],
+  "translation": "Na ol pikinini bilong Yisrael i mas wokim ⟨את⟩ Pesak long taim bilong en bilong ol i makim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/9\/1-4.1792349130575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "i mas wokim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ol pikinini bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesak"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesak"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "long taim bilong en bilong ol i makim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:45:30.576165816Z",
+  "model": "glm-5.3"
+}

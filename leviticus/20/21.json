@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nida",
+      "rationale": "נדה i tok bilong ol samting tambu na doti (sapos meri i gat sik mun), 'tambu' i klostu tasol i no gat piksa bilong doti"
+    },
+    {
+      "kind": "idom",
+      "subject": "opim bare",
+      "rationale": "גלה ערוה i tok bilong Hibru — 'opim bare' — em i pasin bilong sekstim, no tok bilong klos klos"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערירים",
+      "rationale": "Samting man i laik tok: 'nogat pikinini' o 'ol pikinini bai dai'; Tok Pisin i holim 'wantuat pikinini'"
+    }
+  ],
+  "translation": "Na man we i take ⟨את⟩ meri bilong brata bilong en, em i tambu: em i opim bare bilong brata bilong en; ol bai stap wantuat pikinini.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/20\/21-24.1792348718653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "na man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "i take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meri bilong brata bilong en"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "tambu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "em"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "bare"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brata bilong en"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "i opim"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "wantuat pikinini"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ol bai stap"
+    }
+  ],
+  "timestamp": "2026-10-18T18:38:38.653985273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוך...ברוך",
+      "rationale": "Parallel repetition: city\/field pair covers all dwelling places; blessing formula begins a toledet-style list."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברוך",
+      "rationale": "'blessed' borrowed; Hebrew root is kneel\/bless — Tok Pisin no native single word."
+    }
+  ],
+  "translation": "Blessed yu stap long taun, na blessed yu stap long gaden.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/28\/1-4.1792350282723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "long taun"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na blessed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "long gaden"
+    }
+  ],
+  "timestamp": "2026-10-18T19:04:42.724428981Z",
+  "model": "glm-5.3"
+}

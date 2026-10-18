@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Tok Pisin i nidim tok 'em' bilong skelim man, Hibru i no gat"
+    },
+    {
+      "kind": "you",
+      "subject": "ol manmeri bilong graun na ol pris",
+      "rationale": "kesin i go moa — ol kaikai na dring bilong ol yet, i no bilong Yahwe"
+    }
+  ],
+  "translation": "Na taim yu kaikai, na taim yu dring — i no yumi yet ⟨em⟩ ol i kaikai, na yumi yet ol i dring?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/7\/5-8.1792357661665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yu kaikai"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na taim"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "yu dring"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yumi yet"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ol i kaikai"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na yumi yet"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "ol i dring"
+    }
+  ],
+  "timestamp": "2026-10-18T21:07:41.666382661Z",
+  "model": "glm-5.3"
+}

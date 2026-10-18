@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלואים",
+      "rationale": "KJV 'are bent to backsliding' vs YLT 'are hanging in suspense' vs JPS 'in suspense about returning' — root תלא means to hang\/be uncertain."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירומם",
+      "rationale": "'none at all would exalt him' (KJV) vs 'he will by no means exalt them' (BSB) — subject of the verb is disputed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למשובתי",
+      "rationale": "Root שוב (turn\/return) echoes through Hosea; 'tanim bel' (turn the belly) keeps the turning picture in Tok Pisin."
+    }
+  ],
+  "translation": "Na ol manmeri bilong mi, ol i save tanim bel long pasin bilong lus long mi; na sapos ol i singautim i go long ⟨em⟩ we i stap antap, olgeta wantaim ol i no ken salim ⟨em⟩ antap.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eab8e7b43813d2a63cf9e407ec759f9a4461f2ee2e8e24b1342a51f4a56fddb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/11\/6-7.1792363296545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "na ol manmeri bilong mi"
+    },
+    {
+      "surface": "תלואאים",
+      "gloss": "ol i save tanim bel"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "long pasin bilong lus long mi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i go long"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨em⟩ we i stap antap"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "sapos ol i singautim"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "olgeta wantaim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no ken"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "salim antap"
+    }
+  ],
+  "timestamp": "2026-10-18T22:41:36.546320001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pis",
+      "rationale": "שלום i save tok 'olgeta i orait, ol i sef', i no bikpela pasin bilong lus pait tasol."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sod",
+      "rationale": "שבט em i stik bilong paitim o skelim; 'rod' bilong KJV."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפחד",
+      "rationale": "'ol i no scare' (safe from fear, KJV\/ASV) o 'wantaim ol i no save pret' (peace without fear, YLT\/JPS)."
+    }
+  ],
+  "translation": "Ol haus bilong ol i stap long pis, ol i no scare; na sod bilong Eloa i no stap antap long ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/21\/9-12.1792360124092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "ol haus bilong ol"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "long pis"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ol i no scare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... no"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sod"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "antap long ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:48:44.092658315Z",
+  "model": "glm-5.3"
+}

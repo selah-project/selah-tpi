@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fat",
+      "rationale": "פֶּדֶר — fat bilong insait (suet), i no wanpela samting narapela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתח\/נתחיו",
+      "rationale": "kotim \/ ol hap bilong em — wanpela as, Tok Pisin i no inap holim."
+    }
+  ],
+  "translation": "Na em i kotim ⟨את⟩ em long ol hap bilong em, na ⟨את⟩ hed bilong em na ⟨את⟩ fat bilong em; na pris i putim ol long loda long ol diwai we i stap long paia, we i stap long altar.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/1\/9-12.1792348249785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "em i kotim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ em"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "long ol hap bilong em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hed bilong em"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hed bilong em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fat bilong em"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "fat bilong em"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "i putim ol long loda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pris"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ol"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ol diwai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "האש",
+      "gloss": "paia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-10-18T18:30:49.787229659Z",
+  "model": "glm-5.3"
+}

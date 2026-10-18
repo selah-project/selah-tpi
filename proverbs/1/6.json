@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חידתם",
+      "rationale": "Rendered 'liklik tok mistiri' (little mystery-words) for 'riddles\/dark sayings'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "Verse names sealed, dark sayings — deliberately opaque speech."
+    }
+  ],
+  "translation": "Long save long tok bilong ol man save, ol tok satir, ol tok bilong ol man save, na ol liklik tok mistiri bilong ol.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/1\/5-8.1792359337760.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "long save long"
+    },
+    {
+      "surface": "משל",
+      "gloss": "tok bilong ol man save"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "ol tok satir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ol tok bilong"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ol man save"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "ol liklik tok mistiri bilong ol"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:37.764253918Z",
+  "model": "glm-5.3"
+}

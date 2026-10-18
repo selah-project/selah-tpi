@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 39:2",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bagarapim yu olgeta",
+      "rationale": "וששאתיך: 'annihilate you' (root שׁשׁא) vs 'leave a sixth part of you' (KJV, reading שׁשה)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "birua",
+      "rationale": "ירכתי literally 'flank\/recess'; rendered as 'far parts\/hinterland'."
+    }
+  ],
+  "translation": "Na mi baimbelim yu i kam bek, na mi bagarapim yu olgeta, na mi salim yu i kamap long olgeta birua bilong not, na mi bringim yu i kam antap long ol maunten bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/39\/1-4.1792356761700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Na mi baimbelim yu i kam bek"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "na mi bagarapim yu olgeta"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "na mi salim yu i kamap"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "long olgeta birua bilong"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "not"
+    },
+    {
+      "surface": "והבאותך",
+      "gloss": "na mi bringim yu i kam"
+    },
+    {
+      "surface": "על",
+      "gloss": "antap long"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ol maunten bilong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T20:52:41.701720753Z",
+  "model": "glm-5.3"
+}

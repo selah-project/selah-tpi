@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחד למאה הקטן והגדול לאלף",
+      "rationale": "Literal: 'one to a hundred the small, and the great to a thousand' — does it mean the least equals 100 men, or the least commands 100? Renderings differ (KJV 'over', ASV 'equal to')."
+    },
+    {
+      "kind": "addition",
+      "subject": "man i ken paitim",
+      "rationale": "Hebrew gives only numbers and 'small\/great'; verb of matching supplied to make the comparison readable."
+    }
+  ],
+  "translation": "Ol dispela olgeta ol pikinini bilong Gad, ol hetman bilong ol ami: wanpela long ol i save paitim wan handet man, em i liklik man; na bikpela man i ken paitim wan tausen.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/12\/13-16.1792362018150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ol dispela"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pikinini bilong"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ol hetman"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "bilong ol ami"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "long wan handet"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "em i liklik man"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "na bikpela man"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "long wan tausen"
+    }
+  ],
+  "timestamp": "2026-10-18T22:20:18.151856439Z",
+  "model": "glm-5.3"
+}

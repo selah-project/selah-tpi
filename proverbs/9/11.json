@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss rationale": "Hebrew conjunction 'for' has no natural Tok Pisin equivalent at verse start; dropped."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ol de na ol yia",
+      "rationale": "Verse counts days and years — wisdom as length of life measured."
+    }
+  ],
+  "translation": "Long mi, ol de bilong yu bai i kamap planti, na ol i bai skruim moa ol yia bilong laif long yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/9\/9-12.1792359421409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בי",
+      "gloss": "Long mi"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "bai i kamap planti"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ol de bilong yu"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "na ol i bai skruim moa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "long yu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ol yia"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bilong laif"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:01.410649756Z",
+  "model": "glm-5.3"
+}

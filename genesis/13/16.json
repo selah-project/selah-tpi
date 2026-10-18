@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaunim das",
+      "rationale": "verse turns on numberability — seed as countless as dust"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "אשר אם together form the conditional 'sapos' (if); אם folded into one gloss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע \/ עפר",
+      "rationale": "parallel repetition: dust counted ↔ seed counted, mirror structure kept in Tok Pisin"
+    }
+  ],
+  "translation": "Na bai mi putim ⟨את⟩ pikinini bilong yu olsem das bilong graun: sapos man inap kaunim ⟨את⟩ das bilong graun, olsem na pikinini bilong yu tu bai ol i kaunim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/13\/13-16.1792346437466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "bai mi putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikinini bilong yu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "olsem das"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "inap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "long kaunim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "das bilong graun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "das"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bilong graun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "bai ol i kaunim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:00:37.467374226Z",
+  "model": "glm-5.3"
+}

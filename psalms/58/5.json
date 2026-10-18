@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "posin",
+      "rationale": "חמה i tok 'hat\/pait', tasol long hia em i min posin bilong snek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת...חמת",
+      "rationale": "Hibru i ripitim wanem tok — 'posin...posin' — Tok Pisin i holim dispela ripit"
+    }
+  ],
+  "translation": "Posin bilong ol i olsem posin bilong ⟨את⟩ snek, olsem snek nogut i tarangu i pasim ⟨את⟩ aring bilong en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/58\/5-8.1792358354233.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "posin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bilong ol"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "posin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "snek"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "snek nogut"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tarangu"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "i pasim"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "aring bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:14.233961655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruak",
+      "rationale": "רוח rendered ruak always — one word covering Spirit\/wind\/breath; not 'spirit' or 'win' alone."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבהמה בבקעה תרד",
+      "rationale": "Singular 'as cattle goes down into the valley' (collective) vs 'as the beast' — Tok Pisin uses plural collective ol bulmakau."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "The verse addresses Yahwe directly in second person within the communal lament."
+    }
+  ],
+  "translation": "Olsem ol bulmakau i go daun long vali, ruak bilong Yahwe i givim malolo long ol; olsem na yu bin laidim ol man bilong yu, bilong mekim ⟨bilong yu⟩ nem bilong glori.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/63\/13-16.1792354782311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "olsem ol bulmakau"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "long vali"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "i go daun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "i givim malolo long ol"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "yu bin laidim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ol man bilong yu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong mekim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bilong yu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "glori"
+    }
+  ],
+  "timestamp": "2026-10-18T20:19:42.311845170Z",
+  "model": "glm-5.3"
+}

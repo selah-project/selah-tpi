@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "The psalmist turns to address Yahwe directly, breaking off from the oracle quotation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "man bilong yu ol i kapsaitim oil long en",
+      "rationale": "משיחך is 'your anointed one'; rendered by the literal picture (oil poured on) rather than a title, per the glossary."
+    }
+  ],
+  "translation": "Tasol yu, yu rausim na yu birukim, yu bel i hat wantaim ⟨את⟩ man bilong yu ol i kapsaitim oil long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/37-40.1792358777856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tasol yu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "yu rausim"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "yu birukim"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "yu bel i hat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "man bilong yu ol i kapsaitim oil long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:17.858237810Z",
+  "model": "glm-5.3"
+}

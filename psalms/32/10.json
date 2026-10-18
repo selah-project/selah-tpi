@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew i no gat kopula; Tok Pisin i nidim 'i stap'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד i stap olsem 'khesed' — marimari bilong kontrak; tok 'marimari' tasol i lusim wanem samting."
+    }
+  ],
+  "translation": "Planti pen i stap long man nogut; tasol man i beltanim long Yahwe — khesed i raunim em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "3f2afa0e392ea3a3152d4f2983eb0bda625507eb2f57410ad6a6574b6c0d5cea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/32\/9-11.1792358117258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "planti"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "pen"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "long man nogut"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "tasol man i beltanim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "i raunim em"
+    }
+  ],
+  "timestamp": "2026-10-18T21:15:17.259395521Z",
+  "model": "glm-5.3"
+}

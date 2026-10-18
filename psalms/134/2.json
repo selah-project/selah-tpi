@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדש",
+      "rationale": "KJV 'in the sanctuary', JPS\/ASV 'to the sanctuary' — קדש i ken tok ples holi o pasin holi bilong han"
+    }
+  ],
+  "translation": "Rausim ol han bilong yupela i go antap long ples holi, na barekim ⟨את⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/134\/1-3.1792359171378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "rausim … i go antap"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ol han bilong yupela"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "long ples holi"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "na barekim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:51.381834726Z",
+  "model": "glm-5.3"
+}

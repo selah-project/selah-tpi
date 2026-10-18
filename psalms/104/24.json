@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew lacks a pronoun object for כלם; Tok Pisin needs ⟨em⟩ for clarity"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנינך",
+      "rationale": "'thy possessions\/riches' (KJV\/ASV) vs 'thy creatures' (JPS\/BSB); root קנה can mean acquire or create"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה רבו",
+      "rationale": "exclamatory question 'How many!' — wonder, not an actual question, lost as statement"
+    },
+    {
+      "kind": "invitation",
+      "subject": "praise of creation",
+      "rationale": "verse summons hearer to wonder at Yahwe's works"
+    }
+  ],
+  "translation": "Olsem wanem i planti ol wok bilong yu, Yahwe! Olgeta ⟨em⟩ yu wokim wantaim kolim; graun i pulap long ol samting yu kisim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "efd7ba1a9f6a9767bb1d19efde84d96bff789f12d217be1265139c824b2183af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/104\/24-24.1792363388958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "olsem wanem"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "i planti"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ol wok bilong yu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "wantaim kolim"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "i pulap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "graun"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ol samting yu kisim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:43:08.958602748Z",
+  "model": "glm-5.3"
+}

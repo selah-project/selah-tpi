@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Tok Pisin i nidim ol man i wokim, Hebru i no tok aut wonem i givim dat."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tenpela pikinini bilong Haman",
+      "rationale": "Namba bilong ol pikinini bilong Haman i stap klostu — tenpela."
+    }
+  ],
+  "translation": "Na king i tok long wokim olsem; na ol i givim ⟨ol⟩ dat long Shushan, na ol i hangimapim ⟨את⟩ tenpela pikinini bilong Haman.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a71d7e490b0df3f5dac1be1e4aa16c42b292d43eb24b0c6dd471de159389436f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/9\/13-16.1792360998936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "na ol i givim"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "long Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tenpela pikinini bilong Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tenpela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikinini"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "ol i hangimapim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:03:18.937634170Z",
+  "model": "glm-5.3"
+}

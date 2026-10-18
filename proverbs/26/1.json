@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "snek",
+      "rationale": "snek em i Tok Pisin tok bilong snow, i no binatang snek; Tok Pisin i no gat narapela tok bilong snow"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaikai kamap",
+      "rationale": "קיץ em i taim bilong kaikai bilong gaden i kamap, samting i no save stap long Tok Pisin narapela pasin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "snek\/ren",
+      "rationale": "tupela piksa — samting i no save kamap long taim bilong en — olsem nem gut long man tingting nating"
+    }
+  ],
+  "translation": "Olsem snek long taim bilong kaikai kamap, na olsem ren long taim bilong kotim kaikai — olsem na ⟨i⟩ no stret long man long tingting long givim kaikai bilong nem long ol man ol i tingting nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/26\/1-4.1792359744443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "olsem snek"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "long taim bilong kaikai kamap"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "na olsem ren"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "long taim bilong kotim kaikai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "stret"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "long man long tingting nating"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nem gut"
+    }
+  ],
+  "timestamp": "2026-10-18T21:42:24.443801628Z",
+  "model": "glm-5.3"
+}

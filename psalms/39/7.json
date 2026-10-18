@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלם",
+      "rationale": "'image\/phantom': KJV 'vain shew', JPS 'mere semblance', BSB 'phantom' — shadow-image, not solid reality"
+    },
+    {
+      "kind": "substitution",
+      "subject": "krai nogut",
+      "rationale": "המה is to hum\/roar in commotion; Tok Pisin needs an action verb for the turmoil"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך ... אך",
+      "rationale": "double 'surely\/only' frames the verse with parallel limitation, kept as tasol ... tasol"
+    }
+  ],
+  "translation": "Tasol man i wokabaut olsem piksa nating; tasol ol i krai nogut long win nating. Em i storem samting kamapim olgeta, tasol i no save husat bai kisim olgeta ⟨ol⟩.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/39\/5-8.1792358218248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "olsem piksa nating"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "i wokabaut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "win nating"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ol i krai nogut"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "i storem samting kamapim olgeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tasol i no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "save"
+    },
+    {
+      "surface": "מי",
+      "gloss": "husat"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "bai kisim olgeta"
+    }
+  ],
+  "timestamp": "2026-10-18T21:16:58.250305425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 2:6",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה וחי נפשך",
+      "rationale": "Oath formula 'as Yahwe lives and as your nefesh lives'; אם with negation means 'if I ever leave you'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laip bilong yu",
+      "rationale": "נפשך is the breathing life-force, rendered 'laip' not 'soul'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elisha",
+      "rationale": "Elijah addresses Elisha directly with the command and the oath reply."
+    }
+  ],
+  "translation": "Na Eliya i tokim em: Sanap ⟨i⟩ stap hia, bilong wanem, Yahwe i salim mi i go long Jarden. Na em i tok: Olsem Yahwe i gat laip, na olsem laip bilong yu i stap, bai mi no lusim yu. Na tupela i go wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/2\/5-8.1792353234094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tokim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "em"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sanap i stap"
+    },
+    {
+      "surface": "נא",
+      "gloss": "olsem na"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "i salim mi"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "i go long Jarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na i tok"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i gat laip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na ... i gat laip"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "laip bilong yu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "bai mi lusim yu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na tupela i go"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tupela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:53:54.095399283Z",
+  "model": "glm-5.3"
+}

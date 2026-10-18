@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "tpi",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "בלבבך em i לב — bel, i no hat (D4)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ol gutpela samting",
+      "rationale": "החיל הזה: strong, mani, o ol samting — KJV 'wealth', JPS 'wealth', ol narapela 'power'"
+    },
+    {
+      "kind": "addition",
+      "subject": "em i",
+      "rationale": "Tok Pisin i laikim predicate marker i, Hibru i nogat"
+    }
+  ],
+  "translation": "Na yu bai tokim long bel bilong yu: Stret strong bilong mi na strong bilong han bilong mi, em i wokim ⟨את⟩ ol gutpela samting bilong mi.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/8\/17-20.1792349914259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "yu bai tokim"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "long bel bilong yu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "stret strong bilong mi"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "na strong"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bilong han bilong mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "em i wokim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol gutpela samting bilong mi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ol gutpela samting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T18:58:34.260359408Z",
+  "model": "glm-5.3"
+}

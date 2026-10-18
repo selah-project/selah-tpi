@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matseva",
+      "rationale": "מצבה em i ston i stap aphap long graun bilong lukautim \/ ton; Tok Pisin i no gat wanpela tok, olsem na hyphen"
+    },
+    {
+      "kind": "measurement",
+      "subject": "matseva",
+      "rationale": "ston i kirap long graun olsem mak bilong tingim kontrak"
+    }
+  ],
+  "translation": "Na Yakov i kisim wanpela ston, na em i kirapim em olsem stsion ston (matseva).",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "1f0c037b833ef00dd676d440f215e097187483bd586a204f844715eddedf67d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/31\/45-48.1792346978231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "i kisim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wanpela ston"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "i kirapim em"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stsion ston (matseva)"
+    }
+  ],
+  "timestamp": "2026-10-18T18:09:38.231576642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 25:1",
+  "book": "2-chronicles",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Amatsiahu",
+      "rationale": "Age at accession and length of reign counted: twenty-five years, twenty-nine years."
+    },
+    {
+      "kind": "addition",
+      "subject": "tupela yia aninitupela ten na faiv yia olsem",
+      "rationale": "Hebrew 'son of twenty and five years' idiom expanded for Tok Pisin; בן rendered as age construction."
+    }
+  ],
+  "translation": "Amatsiahu i bin tupela yia aninitupela ten na faiv yia olsem king, na long Yerusalayim i bin king naintini na nain yia. Nem bilong mama bilong em Yehoadan, bilong Yerusalayim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/25\/1-4.1792362686582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "tupela yia aninitupela ten na faiv yia olsem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tupela yia aninitupela ten"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na faiv"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "naintini"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na nain"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "long Yerusalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama bilong em"
+    },
+    {
+      "surface": "יהועדן",
+      "gloss": "Yehoadan"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "bilong Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-10-18T22:31:26.583527045Z",
+  "model": "glm-5.3"
+}

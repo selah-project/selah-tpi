@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 6:29",
+  "book": "job",
+  "lang": "tpi",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew lacks a copula in 'my righteousness is in it'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבו \/ ושבי",
+      "rationale": "Root שׁוב repeated — 'return... return again' — rhetorical repetition kept with 'kam bek... kam bek gen'"
+    },
+    {
+      "kind": "you",
+      "subject": "ol pren bilong Job",
+      "rationale": "Job direct-im ol pren bilong en long olgeta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kam bek",
+      "rationale": "Imperative we Job i singautim ol pren bilong en olsem"
+    },
+    {
+      "kind": "crux",
+      "subject": "בה",
+      "rationale": "'in it' — i tokim taim kot (צדקי), o i tokim tok bilong Job; mipela holim taim kot"
+    }
+  ],
+  "translation": "Kam bek, plis, i no ken kamap nogut pasin; na kam bek gen — tsedek bilong mi i stap long en.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c85faf882637b583841736e2c5253523f37b9f5a1978e737583eec37f2d056d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/job\/6\/29-30.1792359939735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבו",
+      "gloss": "Kam bek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "plis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i no"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kamap"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nogut pasin"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "kam bek gen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gen"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedek bilong mi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "long en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:45:39.735526318Z",
+  "model": "glm-5.3"
+}

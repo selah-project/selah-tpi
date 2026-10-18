@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jok",
+      "rationale": "על is the wooden yoke on oxen necks — Hananiah's claim of a broken yoke; kept literal 'jok'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שברתי perfect",
+      "rationale": "Hananiah uses a completed ('I have broken') form for a future event — prophetic perfect or overstatement."
+    }
+  ],
+  "translation": "Olsem Yahwe Tsebaot, Elohim bilong Yisrael, i tok: Mi brokim pinis ⟨את⟩ jok bilong king bilong Bavel.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "079f9383f32f1dbd195e2ceed92f44f201ebd8972ecf6221aca797430f9cd7a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/28\/1-4.1792355479451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Olsem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Mi brokim pinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jok bilong king bilong Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "jok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-18T20:31:19.452463447Z",
+  "model": "glm-5.3"
+}

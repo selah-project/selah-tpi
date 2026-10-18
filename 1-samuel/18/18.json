@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "David's humble rhetorical questions are direct address to Saul."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי אנכי ומי חיי",
+      "rationale": "Literally 'who am I and who is my life' — Hebrew idiom of self-abasement."
+    }
+  ],
+  "translation": "Na David i tokim Saul: Hu bilong mi, na wanem laip bilong mi, o ol klan bilong papa bilong mi long Yisrael — bilong wanem mi inap kamap man-marit bilong king?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/18\/17-20.1792351876968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na … i tok"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "bilong mi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na wanem"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ol klan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bilong papa bilong mi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "long Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilong wanem"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mi inap kamap"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "man-marit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilong king"
+    }
+  ],
+  "timestamp": "2026-10-18T19:31:16.969988256Z",
+  "model": "glm-5.3"
+}

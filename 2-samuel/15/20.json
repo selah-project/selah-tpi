@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב \/ והשב",
+      "rationale": "Root שׁוב repeated: 'return (yourself)' and 'cause to return (your brothers)' — pivot lost in Tok Pisin 'go bek \/ bringim bek'."
+    },
+    {
+      "kind": "crux",
+      "subject": "khesed na emet",
+      "rationale": "חסד ואמת with no verb: a blessing 'may kindness and truth be with you' (KJV) or adverbial 'in kindness and truth' (JPS); khesed kept per discipline."
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hebrew lacks a verb with khesed na emet; copula supplied and bracketed."
+    }
+  ],
+  "translation": "Asde yu i kam, na tede mi bai save wakabautim yu wantaim mipela? Mi yet mi save wokabaut long rot ⟨we⟩ mi wokabaut — go bek, na bringim bek ⟨את⟩ ol brata bilong yu wantaim yu. Khesed na emet ⟨i stap⟩ wantaim yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/15\/17-20.1792352404546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "asde"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "yu i kam"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "na tede"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "mi bai save wakabautim yu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wantaim mipela"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "long wokabaut"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mi yet"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mi save wokabaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rot we"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mi wokabaut"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "na bringim bek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol brata bilong yu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ol brata bilong yu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wantaim yu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na emet"
+    }
+  ],
+  "timestamp": "2026-10-18T19:40:04.551152726Z",
+  "model": "glm-5.3"
+}

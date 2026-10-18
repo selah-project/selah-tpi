@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 51:5",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלמן",
+      "rationale": "'widowed\/forsaken one' (masculine) — KJV\/ASV 'forsaken' vs JPS 'widowed'; Tok Pisin keeps the picture of one left by a spouse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gilt",
+      "rationale": "אשם is guilt, fault, or a guilt-offering; 'rong' loses the cultic overtone."
+    },
+    {
+      "kind": "addition",
+      "subject": "long helsait bilong",
+      "rationale": "Hebrew מקדוש is a simple preposition 'from\/against the Holy One'; Tok Pisin needs the relational phrase."
+    }
+  ],
+  "translation": "Bikos Yisrael i no wanpela i lus, na Yuda i no lusim Elohim bilong en, Yahwe Tsebaot; bikos graun bilong ol i fulap long gilt, long helsait bilong Holi bilong Yisrael.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/5-8.1792355889140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "wanpela i lus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "lusim Elohim bilong en"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "graun bilong ol"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "i fulap"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "long gilt"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "long Holi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-18T20:38:09.141655183Z",
+  "model": "glm-5.3"
+}

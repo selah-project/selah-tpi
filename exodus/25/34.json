@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 25:34",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "foapela kap",
+      "rationale": "Counting of goblets on the central shaft."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i stap⟩",
+      "rationale": "Hebrew is a verbless nominal clause; Tok Pisin needs a locative copula."
+    }
+  ],
+  "translation": "Na long Menora ⟨i stap⟩ foapela kap i wokim olsem siki, wantaim ol kaptora bilong en na ol plaua bilong en.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "aa773e3ecc7110f84ad4456890b9cf12cc4119b3bd194604bb209277735cac10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/33-36.1792347864834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "Na long Menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "foapela"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "kap"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "i wokim olsem siki"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "ol kaptora bilong en"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "na ol plaua bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:24.835208711Z",
+  "model": "glm-5.3"
+}

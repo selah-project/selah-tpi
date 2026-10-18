@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Tok bilong swirim bilong ol Hebri — 'Yahwe i stap praipela'; Tok Pisin i holim pasin bilong swirim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rong",
+      "rationale": "עון em i rong o pen bilong rong; 'punishment' long KJV i tanim liklik"
+    }
+  ],
+  "translation": "Na Shaul i swirim long Yahwe, i tok olsem: Olsem Yahwe i stap praipela, sapos rong i no inap kamap long yu long dispela samting.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/28\/9-12.1792352025909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "na i swirim"
+    },
+    {
+      "surface": "לה",
+      "gloss": "long em"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "long Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tok olsem"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i stap praipela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sapos"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "i kamap long yu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "rong"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "long dispela tok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dispela"
+    }
+  ],
+  "timestamp": "2026-10-18T19:33:45.910975565Z",
+  "model": "glm-5.3"
+}

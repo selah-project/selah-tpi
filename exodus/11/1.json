@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גרש יגרש",
+      "rationale": "Infinitive absolute + verb pair: 'he-will-drive-out driving-out' — intense certainty, rendered 'rausim tru tru olgeta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "salim i go",
+      "rationale": "שלח here 'let go\/send away' Pharaoh releasing Israel, not just 'send'."
+    }
+  ],
+  "translation": "Na Yahwe i tok long Mose: Wanpela pait moa bai mi bringim long Parao na long Mitsrayim; bihain long olsem, bai i salim ⟨את⟩ yu i go long hia. Taim em i salim ⟨את⟩ yu, bai i rausim yu tru tru olgeta long hia.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/11\/1-4.1792347557499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na i tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "moa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "pait"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "bai mi bringim"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na long"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bihain long"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olsem"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bai i salim i go"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu (olgeta man Isrel)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long hia"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "taim em i salim i go"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "olgeta tru"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "rausim"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "bai i rausim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu (olgeta man Isrel)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "long hia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:19:17.500537048Z",
+  "model": "glm-5.3"
+}

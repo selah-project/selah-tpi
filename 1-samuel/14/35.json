@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו החל",
+      "rationale": "Hibru i tok '⟨את⟩ em i stat long wokim alta bilong Yahwe' — ol i agument: dispela em i stat namba wan bilong Sha'ul, o em i stat bilong wokim olgeta alta long Yisrael."
+    },
+    {
+      "kind": "elision",
+      "subject": "namba wan",
+      "rationale": "Hibru i no gat tok 'namba wan' — 'stat' i singautim en tasol."
+    }
+  ],
+  "translation": "Na Sha'ul i wokim wanpela alta bilong Yahwe; ⟨את⟩ em i stat long wokim ol alta bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/14\/33-36.1792351795562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na em i wokim"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em i stat long wokim ol alta bilong Yahwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "em i stat"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "long wokim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bilong Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T19:29:55.563435186Z",
+  "model": "glm-5.3"
+}

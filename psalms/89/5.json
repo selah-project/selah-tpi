@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Mak bilong miusik i stap — em i nem, mi no tanim."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikinini bilong yu",
+      "rationale": "זרעך i no 'sidin' — em i pikinini bilong man."
+    },
+    {
+      "kind": "measurement",
+      "subject": "generation wantaim generation",
+      "rationale": "Taim i namba: long generation wantaim generation, promis i olgeta taim."
+    }
+  ],
+  "translation": "Long taim bilong olgeta, bai mi wokim strong ⟨את⟩ pikinini bilong yu, na bai mi bilim stol bilong yu long generation wantaim generation. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/89\/5-8.1792358792253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "long"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taim bilong olgeta"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "bai mi wokim strong"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "pikinini bilong yu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "na bai mi bilim"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "long generation"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "wantaim generation"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "stol bilong yu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:26:32.254382736Z",
+  "model": "glm-5.3"
+}

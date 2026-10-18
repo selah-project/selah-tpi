@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "tpi",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קסמים",
+      "rationale": "Diviners: rendered 'ol man i kwasim long posin'; glasman is forbidden by D2 since Lo 18 forbids it and the meaning differs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישכל",
+      "rationale": "Lemma means 'to be silly'; rendered causatively 'em i mekim i kamap nating' — make their knowledge into foolishness."
+    }
+  ],
+  "translation": "Em i bagarapim ol tok bilong ol giaman man, na ol man i kwasim long posin em i mekim ol i go longlong; em i kirapim ol man bilong save ol i go bek, na save bilong ol em i mekim i kamap nating.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/44\/25-28.1792354542275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "bagarapim"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "bilong ol giaman man"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "na ol man i kwasim long posin"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "em i mekim ol i go longlong"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "em i kirapim ol i go bek"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ol man bilong save"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "go bek"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "na save bilong ol"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "em i mekim i kamap nating"
+    }
+  ],
+  "timestamp": "2026-10-18T20:15:42.276269393Z",
+  "model": "glm-5.3"
+}

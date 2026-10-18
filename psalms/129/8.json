@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "samting gutpela",
+      "rationale": "ברכה em i 'tok gutpela\/benediction'; Tok Pisin i no gat wanpela tok stret"
+    }
+  ],
+  "translation": "Na ol man i wokabaut i go pas ol i no tokim ol: Samting gutpela bilong Yahwe i stap wantaim ⟨⟨yumi⟩⟩; yumi givim gutpela tok long ⟨את⟩ yu long nem bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/129\/5-8.1792359186794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ol i no"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tokim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ol man i wokabaut i go pas"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "samting gutpela bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨ol⟩"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "yumi givim gutpela tok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu (ol birua bilong Tsiyon)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "long nem bilong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:33:06.795516121Z",
+  "model": "glm-5.3"
+}

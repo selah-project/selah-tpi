@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "belhat",
+      "rationale": "אף em i nus\/narapela bilong pes — belhat long Hibru i stap long nus; Tok Pisin i tokim long bel."
+    },
+    {
+      "kind": "you",
+      "subject": "pikinini skul",
+      "rationale": "Lo i tok stret long man i rit — tambu bilong sindaun wantaim man belhat."
+    }
+  ],
+  "translation": "No ken sindaun wantaim ⟨את⟩ man bilong belhat, na ⟨את⟩ man bilong strongpela belhat, nogat — yu no ken go wantaim.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/22\/21-24.1792359695461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "sindaun wantaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man bilong belhat"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "man bilong"
+    },
+    {
+      "surface": "אף",
+      "gloss": "belhat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "man bilong strongpela belhat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man bilong"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "strongpela belhat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nogat"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "go wantaim"
+    }
+  ],
+  "timestamp": "2026-10-18T21:41:35.462315153Z",
+  "model": "glm-5.3"
+}

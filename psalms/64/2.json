@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yu",
+      "rationale": "Tok Pisin i laikim subjek ⟨yu⟩; Hibru i no gat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kot tok",
+      "rationale": "שיחי em i tok kot\/kros bilong man; olsemtaim 'tingting bilong mi'"
+    }
+  ],
+  "translation": "Elohim, yu harim tok bilong mi long kot tok bilong mi; long pret bilong birua yu save lukautim laip bilong mi.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/64\/1-4.1792358415833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yu harim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tok bilong mi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "long kot tok bilong mi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "long pret bilong"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "birua"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "yu save lukautim"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "laip bilong mi"
+    }
+  ],
+  "timestamp": "2026-10-18T21:20:15.834423706Z",
+  "model": "glm-5.3"
+}

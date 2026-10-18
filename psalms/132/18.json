@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sem",
+      "rationale": "בשת — tok bilong sem; salim long sem em i pasin bilong Tok Pisin"
+    },
+    {
+      "kind": "crux",
+      "subject": "krown",
+      "rationale": "נזר — samting ol i setapim apart, krown o tin bilong pris; JPS 'shine', KJV 'flourish'"
+    }
+  ],
+  "translation": "⟨את⟩ ol birua bilong en bai mi salim ol long sem, tasol long em yet, krown bilong en bai i sanap gut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/132\/17-18.1792359168971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "ol birua bilong en"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "bai mi salim ol long"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "tasol long em yet"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bai i sanap gut"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "krown bilong en"
+    }
+  ],
+  "timestamp": "2026-10-18T21:32:48.975603254Z",
+  "model": "glm-5.3"
+}

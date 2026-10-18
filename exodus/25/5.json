@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "takhash",
+      "rationale": "תחש animal i stap wantaim nem tasol long Tanakh; olsemtaim i no klia wanem animal — dabel, seal, o narapela; mipela holim nem Hibru"
+    },
+    {
+      "kind": "crux",
+      "subject": "skin bilong ol dia",
+      "rationale": "אילם: ol tanim i no wankain — 'ram' (KJV) o 'dia' (D4b); Tok Pisin tebol i makim dia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i redpela",
+      "rationale": "מאדמים em i 'ol i redim olgeta' — pasin bilong painim kala, tupela i wankain tru"
+    }
+  ],
+  "translation": "Na ol skin bilong ol dia i redpela, na ol skin bilong ol takhash, na ol diwai akasia;",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/25\/5-8.1792347840727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "na ol skin"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "bilong ol dia"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "i redpela"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "na ol skin"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "bilong ol takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "na ol diwai"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    }
+  ],
+  "timestamp": "2026-10-18T18:24:00.727627418Z",
+  "model": "glm-5.3"
+}

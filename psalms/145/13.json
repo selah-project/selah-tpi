@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עולם → taim oltaim",
+      "rationale": "עולם i tok 'samting i hait \/ point we i lukluk i lus' — mining bilong taim oltaim i kam long en"
+    },
+    {
+      "kind": "addition",
+      "subject": "i stap",
+      "rationale": "Hibru i no gat kopula; Tok Pisin i nidim"
+    },
+    {
+      "kind": "measurement",
+      "subject": "olgeta taim, olgeta taim bilong ol manmeri",
+      "rationale": "ves i skelim kingdom bilong Yahwe long olgeta taim na olgeta olkain ol manmeri"
+    }
+  ],
+  "translation": "Kingdom bilong yu em i kingdom bilong olgeta taim, na pasin bilong yu bosim ⟨i⟩ stap long olgeta taim bilong ol manmeri.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/145\/13-16.1792359313206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "kingdom bilong yu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "taim oltaim"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "na pasin bilong yu bosim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "long olgeta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taim bilong ol manmeri"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na taim bilong ol manmeri"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:13.207088903Z",
+  "model": "glm-5.3"
+}

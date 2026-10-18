@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩",
+      "rationale": "Hebrew 'hear in the voice of' lacks a preposition-free Tok Pisin equivalent; Tok Pisin adds 'em' to carry 'harim em bilong tok'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok olgeta samting nogut",
+      "rationale": "וירגנו is grumble\/murmur in rebellion; Tok Pisin has no single word, rendered as complaint-speech"
+    }
+  ],
+  "translation": "Na ol i tok olgeta samting nogut long ol haus sel bilong ol, ol i no harim ⟨em⟩ bilong tok bilong Yahwe.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/106\/25-28.1792358989721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "ol i tok olgeta samting nogut"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "long ol haus sel bilong ol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ol i no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "harim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bilong tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T21:29:49.723256342Z",
+  "model": "glm-5.3"
+}

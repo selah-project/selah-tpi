@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "tpi",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גבול",
+      "rationale": "'border\/ledge' (KJV 'space', BSB 'wall one cubit high') — a boundary rim before the chambers."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wanpela ama na sikis ama",
+      "rationale": "Boundary one cubit; chambers six cubits each side."
+    },
+    {
+      "kind": "addition",
+      "subject": "narapela hapsait",
+      "rationale": "Same Hebrew word מפו both times; Tok Pisin distinguishes the two sides."
+    }
+  ],
+  "translation": "Na boda long frond bilong ol rum, wanpela ama, na wanpela ama boda long hapsait; na ol rum, sikis ama long hapsait, na sikis ama long narapela hapsait.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/40\/9-12.1792356804848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Na boda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "long frond bilong"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "ol rum"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "wanpela ama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na wanpela ama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wanpela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "boda"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "na ol rum"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sikis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "long hapsait"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sikis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "long narapela hapsait"
+    }
+  ],
+  "timestamp": "2026-10-18T20:53:24.849943572Z",
+  "model": "glm-5.3"
+}

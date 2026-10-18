@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "Sheminit i tok wanem ol i no save gut — ol i tingting em i ol strin bilong namba et, o wanpela ton bilong miusik."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss gap": "",
+      "rationale": "no more"
+    }
+  ],
+  "translation": "Bilong man i bosim ol miusik, long ol strin bilong namba et, wanpela mizmor bilong David.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/12\/1-4.1792357917138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bilong man i bosim ol miusik"
+    },
+    {
+      "surface": "על",
+      "gloss": "long"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ol strin bilong namba et"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wanpela mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bilong David"
+    }
+  ],
+  "timestamp": "2026-10-18T21:11:57.140092656Z",
+  "model": "glm-5.3"
+}

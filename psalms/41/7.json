@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨em⟩ ⟨mi⟩",
+      "rationale": "Hibru i no gat nem bilong man i kam na man i lukim; Tok Pisin i nidim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tok giaman",
+      "rationale": "שוא em i nating\/samting i no stap tru — tok i no tru"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבר ... ידבר",
+      "rationale": "Tupela tok 'tok' i sealim ves — tok insait long haus, tok ausait; Tok Pisin i holim wantaim 'tok' na 'stori'"
+    }
+  ],
+  "translation": "Na sapos ⟨em⟩ i kam long lukim ⟨mi⟩, em i tok giaman; bel bilong em i kolektem ol samting nogut bilong em; taim em i go ausait, em i stori olgeta.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/41\/5-8.1792358222609.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "long lukim"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tok giaman"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "i tok"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "bel bilong em"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "kolektem"
+    },
+    {
+      "surface": "און",
+      "gloss": "ol samting nogut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bilong em"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i go"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ausait"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "i stori"
+    }
+  ],
+  "timestamp": "2026-10-18T21:17:02.618079250Z",
+  "model": "glm-5.3"
+}

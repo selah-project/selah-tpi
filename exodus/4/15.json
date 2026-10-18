@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והוריתי",
+      "rationale": "From ירה 'to throw\/flow (as water)' — hence 'direct\/teach': 'I will instruct you' vs 'I will direct you'; TPI skulim chooses teach."
+    },
+    {
+      "kind": "addition",
+      "subject": "olgeta",
+      "rationale": "Distributed object marker olgeta added to render double את (אתכם ... את אשר) distinctly in TPI."
+    }
+  ],
+  "translation": "Na yu tokim em, na yu putim ⟨את⟩ ol tok long maus bilong en; na mi, mi bai stap wantaim maus bilong yu na wantaim maus bilong en, na mi bai skulim ⟨olgeta⟩ yu ⟨את⟩ olgeta ol samting yu ol bai wokim.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/4\/13-16.1792347408388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "na yu tokim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "na yu putim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol tok"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ol tok"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "long maus bilong en"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na mi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mi bai stap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wantaim"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "maus bilong yu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na wantaim"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "maus bilong en"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "na mi bai skulim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ol samting yu ol bai wokim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olgeta ol samting"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "yu ol bai wokim"
+    }
+  ],
+  "timestamp": "2026-10-18T18:16:48.389826994Z",
+  "model": "glm-5.3"
+}

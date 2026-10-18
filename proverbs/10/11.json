@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמס",
+      "rationale": "violence\/wrong rendered 'bagarap pasin'; Tok Pisin lacks a single-word 'violence'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכסה חמס",
+      "rationale": "'violence covers the mouth' (KJV) vs 'mouth conceals violence' (JPS) — Hebrew syntax ambiguous"
+    }
+  ],
+  "translation": "Hanua bilong laip em i maus bilong man stret; tasol maus bilong ol man nogut i tapelaem olgeta bagarap pasin.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/10\/9-12.1792359467757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "hanua"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bilong laip"
+    },
+    {
+      "surface": "פי",
+      "gloss": "maus"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bilong man stret"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "tasol maus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bilong ol man nogut"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "i tapelaem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "olgeta bagarap pasin"
+    }
+  ],
+  "timestamp": "2026-10-18T21:37:47.758461194Z",
+  "model": "glm-5.3"
+}

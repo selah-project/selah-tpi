@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laip bilong mi",
+      "rationale": "נפש em i laip\/win bilong bodi, i no 'soul'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "mak bilong miusik — pinis, em i stap olsem nem"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "ol man nogut i no salim Elohim long ai bilong ol — tok bilong daunim ol"
+    }
+  ],
+  "translation": "Long wanem, ol stranger i kirap agensem mi, na ol strongpela man nogut i painim ⟨את⟩ laip bilong mi; ol i no putim Elohim long pes bilong ol. Sela.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/54\/5-8.1792358344326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ol stranger"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "i kirap agensem mi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "agensem mi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ol strongpela man nogut"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "i painim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "laip bilong mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "i no"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "putim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "long pes bilong ol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T21:19:04.326477415Z",
+  "model": "glm-5.3"
+}

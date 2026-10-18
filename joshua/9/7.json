@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "tpi",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Hibru i tokim ol Hiwi long singuler (אתה, לך) tasol Tok Pisin i nidim ⟨ol⟩ bilong olgeta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "katim kontrak",
+      "rationale": "כרת ברית — 'katim kontrak', pasin bilong ol i kukim animal na katim ol long namel; mipela i raitim 'katim kontrak' long tok stret"
+    },
+    {
+      "kind": "you",
+      "subject": "ol Hiwi",
+      "rationale": "Ol man bilong Yisrael i toktok直接 long ol Hiwi, ol i askim ol long ples ol i stap"
+    }
+  ],
+  "translation": "Na ol man bilong Yisrael i tokim ol Hiwi: Atinkat yu ⟨ol⟩ i stap insait long graun bilong mipela; na olsem wanem mipela ken wokim kontrak wantaim yu?",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "19020a82a11207aa4721cc6a2165f72bdcabf8f83306f0010f899333c3209b47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/9\/6-7.1792363006524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na ol i tokim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ol man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bilong Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ol Hiwi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "atinkat"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "i stap insait long graun bilong mipela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "i stap"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na olsem wanem"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "mipela ken katim kontrak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wantaim yu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kontrak"
+    }
+  ],
+  "timestamp": "2026-10-18T22:36:46.525286242Z",
+  "model": "glm-5.3"
+}

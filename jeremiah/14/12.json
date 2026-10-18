@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 14:12",
+  "book": "jeremiah",
+  "lang": "tpi",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sik nogut",
+      "rationale": "דבר is pestilence\/plague — rendered sik nogut."
+    },
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Object of רצם supplied as ⟨ol⟩; Hebrew has only the suffix in רצם."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו \/ עלה",
+      "rationale": "Verb 'ascend' plays on the burnt offering's name עלה — both lost in tpi salim\/ofa."
+    }
+  ],
+  "translation": "Long wanem ol i fasten, mi no ken harim krai bilong ol; na sapos ol i salim ofa ol i kukim olgeta na minkha, mi no ken laikim ⟨ol⟩. Long wanem, mi bai pinisim ⟨את⟩ ol wantaim bainat, na wantaim hangre, na wantaim sik nogut.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "4ee4d7c13d129494ff944252cf0f6807e8ba25834a6b84bcccdcb82310a1800d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/14\/9-12.1792355155420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "יצמו",
+      "gloss": "ol i fasten"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "mi no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ken harim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "long"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "krai bilong ol"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na sapos"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ol i salim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ofa ol i kukim olgeta"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "na minkha"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "mi no"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "ken laikim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Long wanem"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wantaim bainat"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "na wantaim hangre"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "na wantaim sik nogut"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "bai pinisim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ol"
+    }
+  ],
+  "timestamp": "2026-10-18T20:25:55.421665049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "tpi",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "נפש em i lait bilong tupela nus na laik bilong bodi; 'bel' long Tok Pisin i klostu long wanpela Mining"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוטא",
+      "rationale": "'wokim rong' o 'lusim mak' — חטא em i 'lusim mak' pastu"
+    }
+  ],
+  "translation": "Tu, bel i no gat save, em i no gutpela; na man i hariap long leg, em i wokim rong.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/19\/1-4.1792359640286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "i no gat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "save"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gutpela"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "na i hariap"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "long leg"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "i wokim rong"
+    }
+  ],
+  "timestamp": "2026-10-18T21:40:40.287197241Z",
+  "model": "glm-5.3"
+}

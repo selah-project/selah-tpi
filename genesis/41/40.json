@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "tpi",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישק",
+      "rationale": "Literal 'kiss' (YLt 'at thy mouth do all my people kiss') vs traditional 'obey\/be ruled' — rendered here as 'bihainim tok bilong maus bilong yu' (obey your mouth)."
+    },
+    {
+      "kind": "addition",
+      "subject": "bilong king",
+      "rationale": "הכסא is 'the throne' alone; 'bilong king' supplied for clarity in Tok Pisin."
+    },
+    {
+      "kind": "addition",
+      "subject": "long het bilong",
+      "rationale": "Hebrew על 'over' expanded to Tok Pisin 'long het bilong' to convey authority."
+    }
+  ],
+  "translation": "Yu bai i stap long het bilong haus bilong mi, na olgeta man bilong graun bilong mi bai bihainim tok bilong maus bilong yu; tasol long thron bilong king tasol mi dai nu winim yu.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "2e5ef7d0768d01708b0df992f16de2d272e564f680e868186844fd7b6a0756f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/37-40.1792347157670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bai i stap"
+    },
+    {
+      "surface": "על",
+      "gloss": "long het bilong"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "haus bilong mi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "maus bilong yu"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "bai bihainim tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "man bilong graun bilong mi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tasol"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "thron bilong king"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "mi dai nu winim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "yu"
+    }
+  ],
+  "timestamp": "2026-10-18T18:12:37.671330563Z",
+  "model": "glm-5.3"
+}

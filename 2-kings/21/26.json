@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "tpi",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ol",
+      "rationale": "Hebrew wayyiqtol 'and-he-buried' leaves the buriers unnamed; Tok Pisin needs plural subject 'ol i berim'"
+    }
+  ],
+  "translation": "Na ol i berim ⟨את⟩ em long ples berin bilong em, long gaden bilong Uza; na Yoashiya, pikinini bilong em, i kamap king long ples bilong em.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/21\/25-26.1792353670980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Na ol i berim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "em"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "long ples berin bilong em"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "long gaden"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "bilong Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i kamap king"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoashiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pikinini bilong em"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "long ples bilong em"
+    }
+  ],
+  "timestamp": "2026-10-18T20:01:10.984477448Z",
+  "model": "glm-5.3"
+}

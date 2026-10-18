@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "tpi",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קטרת זרה",
+      "rationale": "'strange incense' — incense of a foreign\/unauthorized recipe vs incense offered by non-priests; both readings attested"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "D2 fixes מנחה as minkha, the grain offering — not 'gift' or 'taksi'"
+    }
+  ],
+  "translation": "No ken salim go antap long em smel bilong narapela kain, na ofa bilong paia, na minkha; na dring ofa tu, no ken poarem long em.",
+  "provenance": {
+    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
+    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/30\/9-12.1792347932137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "salim go antap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "smel"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "bilong narapela kain"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "na ofa bilong paia"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "na minkha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "na dring ofa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ken"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "poarem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-18T18:25:32.137640160Z",
+  "model": "glm-5.3"
+}

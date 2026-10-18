@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "tpi",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tok bilong David long Yahwe",
+      "rationale": "Prayer addresses Yahwe directly as 'yu' throughout."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bel",
+      "rationale": "לב rendered 'bel' (tingting na laik), long Tok Pisin i no 'hat'."
+    }
+  ],
+  "translation": "Bilong tok bilong yu, na long bel bilong yu, yu wokim ⟨את⟩ olgeta bikpela wok dispela, bilong givim save long ⟨את⟩ wokman bilong yu.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "a1d174db72177a2b8a5363b0d9894050428bface4dfd08d88c6e3aa957ae350e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/21-24.1792352250503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "bilong"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tok bilong yu"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "na long bel bilong yu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yu wokim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta bikpela wok dispela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "bikpela wok"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dispela"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "bilong givim save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wokman bilong yu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wokman bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T19:37:30.503722914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "tpi",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fat bilong waitpis",
+      "rationale": "חלב חטים i tok 'fat bilong waitpis' — bild piksa bilong moa gutpela hap, olsem best part."
+    },
+    {
+      "kind": "addition",
+      "subject": "bel bilong yu",
+      "rationale": "ישביעך i tok tasol 'em i kelim yu bel gut' — Tok Pisin i laikim 'bel' bilong clearing."
+    }
+  ],
+  "translation": "Em i mekim pas long ol boda bilong yu, i pulapim bel bilong yu wantaim fat bilong waitpis.",
+  "provenance": {
+    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/147\/13-16.1792359315975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Em i putim \/ i mekim"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "long ol boda bilong yu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pas"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fat"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bilong waitpis"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "i pulapim bel bilong yu"
+    }
+  ],
+  "timestamp": "2026-10-18T21:35:15.976311681Z",
+  "model": "glm-5.3"
+}
