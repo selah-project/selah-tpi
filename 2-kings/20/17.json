@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יותר",
-      "rationale": "Hebrew 'jut over\/remain' rendered as 'stap' with לא as negation: 'not a thing shall remain'."
-    },
-    {
-      "kind": "addition",
-      "subject": "长期",
-      "rationale": "Stray insertion removed in final text; Hebrew עד rendered 'i go (until)'."
-    }
-  ],
-  "translation": "Lukim, ol de i kamap, na ol bai karim i go long Bavel olgeta samting i stap long haus bilong yu, na ol samting ol papa bilong yu i kepim i go长期 long dispela de; samting bai i no stap, Yahwe i tok.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "46423c9ec65d9570647e29cd79a7578560568e4a145ebc0bbd11f159eec93aca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/20\/17-20.1792353739221.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lukim, ol de i kamap, na ol bai karim i go long Babel olgeta samting i stap insait long haus bilong yu, na olgeta samting ol papa bilong yu bin storim i go insait long dispela de; wanpela samting bai i no stap, Yahwe i tok.",
   "tokens": [
     {
       "surface": "הנה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "na bai karim i go"
+      "gloss": "na ol bai karim i go"
     },
     {
       "surface": "כל",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "בביתך",
-      "gloss": "i stap long haus bilong yu"
+      "gloss": "i stap insait long haus bilong yu"
     },
     {
       "surface": "ואשר",
-      "gloss": "na ol samting"
+      "gloss": "na olgeta samting"
     },
     {
       "surface": "אצרו",
-      "gloss": "i kepim"
+      "gloss": "ol papa bilong yu bin storim"
     },
     {
       "surface": "אבתיך",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "i go"
+      "gloss": "i go insait long"
     },
     {
       "surface": "היום",
-      "gloss": "long de"
+      "gloss": "dispela de"
     },
     {
       "surface": "הזה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "בבלה",
-      "gloss": "long Bavel"
+      "gloss": "long Babel"
     },
     {
       "surface": "לא",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "samting"
+      "gloss": "wanpela samting"
     },
     {
       "surface": "אמר",
@@ -105,6 +84,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T20:02:19.221967378Z",
+  "timestamp": "2026-10-19T00:32:24.670278989Z",
   "model": "glm-5.3"
 }

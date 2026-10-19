@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Tok Pisin i nidim tok `em` bilong holim ren na sno; Hibru i no gat."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hibru `כי אם` i tok `tasol`; wanpela tok Tasol i tanim tupela tok Hibru."
-    },
-    {
-      "kind": "substitution",
-      "subject": "זרע",
-      "rationale": "Hibru i gat wanpela tok `זרע` tupela ples hia; Tok Pisin i narupela tok bilong graun na bilong man."
-    }
-  ],
-  "translation": "Bikos olsem ren na sno i kamapdaun long heven, na ⟨em⟩ i no go bek long ples ia, tasol ⟨em⟩ i welim ⟨את⟩ graun, na mekim ⟨em⟩ i kirapim pikinini bilong en, na mekim ol kaikai pikinini bilong ol diwai i kamap, na givim kaikai pikinini long man i planim, na bret long man i kaikai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/55\/9-12.1792354683839.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bihainim olsem ren i kam daun na lapun sneg i kam daun long heven, na em i no ken go bek long ples ia, tasol sapos em i no dringimim graun pinis, na mekim graun i kirapim kaikai na gro long en, na givim kaikai pikinini long man i planim, na bret long man i kaikai —",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bikos"
+      "gloss": "Bihainim olsem"
     },
     {
       "surface": "כאשר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ירד",
-      "gloss": "i kamapdaun"
+      "gloss": "i kam daun"
     },
     {
       "surface": "הגשם",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "והשלג",
-      "gloss": "na sno"
+      "gloss": "na lapun sneg i kam daun"
     },
     {
       "surface": "מן",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "no"
+      "gloss": "no ken"
     },
     {
       "surface": "ישוב",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "tasol"
+      "gloss": "tasol sapos"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "no ... pinis"
     },
     {
       "surface": "הרוה",
-      "gloss": "welim"
+      "gloss": "i dringimim"
     },
     {
       "surface": "את",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "והולידה",
-      "gloss": "mekim em i kirapim pikinini bilong en"
+      "gloss": "na mekim graun i kirapim kaikai"
     },
     {
       "surface": "והצמיחה",
-      "gloss": "mekim ol kaikai pikinini bilong ol diwai i kamap"
+      "gloss": "na gro long en"
     },
     {
       "surface": "ונתן",
-      "gloss": "givim"
+      "gloss": "na givim"
     },
     {
       "surface": "זרע",
@@ -123,6 +97,6 @@
       "gloss": "long man i kaikai"
     }
   ],
-  "timestamp": "2026-10-18T20:18:03.840275103Z",
+  "timestamp": "2026-10-19T00:43:30.149747423Z",
   "model": "glm-5.3"
 }

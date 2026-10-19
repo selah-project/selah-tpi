@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "קללה",
-      "rationale": "ארר i min 'tok nogut long man, senim bel nogut' — 'tok bel bilong ol i no gut' i holim piksa bilong tok, i no glasim (Lo 18 i tambuim glasman)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תברך מברך \/ תאר יואר",
-      "rationale": "Rut bilong barkh na arar i tanim klostu — man yu blesim em i gat blesin, man yu krosim em i gat tok nogut; rait i stap klostu long Inglis."
-    },
-    {
-      "kind": "crux",
-      "subject": "אולי אוכל",
-      "rationale": "Sampela tanim i tok 'maybe mi inap' (KJV), sampela 'bilong bai yumi paitim' — heten i stap namel."
-    },
-    {
-      "kind": "you",
-      "subject": "Bilak i tokim Bilam",
-      "rationale": "Invitesen bilong king i go long Bilam: 'yu kam, plis'."
-    }
-  ],
-  "translation": "Na nau, yu kam, plis, tok bel bilong ol i no gut long mi long ⟨את⟩ dispela lain, long wanem, ol i strong moa long mi; sapos mi inap long paitim ol, bai mi rausim ol long graun; long wanem, mi save olsem: ol yu blesim, blesin i stap long ol, na ol yu tokim tok nogut, tok nogut i stap long ol.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e526de88defe184821d97ddc9d1f5356672183828ad86ad3a96217095dd131d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/22\/5-8.1792349379954.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na nau, kam ken, plis, kapsaitim tok birua long mi ⟨i⟩ ⟨את⟩ ol man dispela, long wanem, ol i strongpela moa long mi; bel o bai mi inap paitim ⟨i⟩ na rausim ⟨i⟩ ol long graun; long wanem, mi save ⟨את⟩ olsem: samting yu blesim, em i gat blesing, na samting yu kapsaitim tok birua long em, em i gat tok birua.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Na nau"
+      "gloss": "na nau"
     },
     {
       "surface": "לכה",
-      "gloss": "yu kam"
+      "gloss": "kam ken"
     },
     {
       "surface": "נא",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "ארה",
-      "gloss": "tok bel bilong ol i no gut"
+      "gloss": "kapsaitim tok birua"
     },
     {
       "surface": "לי",
@@ -61,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dispela lain"
+      "marks": "ol man dispela"
     },
     {
       "surface": "העם",
-      "gloss": "dispela lain"
+      "gloss": "ol man"
     },
     {
       "surface": "הזה",
@@ -77,7 +46,7 @@
     },
     {
       "surface": "עצום",
-      "gloss": "ol i strong moa"
+      "gloss": "strongpela moa"
     },
     {
       "surface": "הוא",
@@ -89,7 +58,7 @@
     },
     {
       "surface": "אולי",
-      "gloss": "sapos"
+      "gloss": "bel o"
     },
     {
       "surface": "אוכל",
@@ -97,15 +66,15 @@
     },
     {
       "surface": "נכה",
-      "gloss": "paitim ol"
+      "gloss": "paitim"
     },
     {
       "surface": "בו",
-      "gloss": "ol"
+      "gloss": "⟨i⟩"
     },
     {
       "surface": "ואגרשנו",
-      "gloss": "bai mi rausim ol"
+      "gloss": "na rausim ol"
     },
     {
       "surface": "מן",
@@ -121,16 +90,16 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "mi save olsem"
+      "gloss": "mi save"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol yu blesim..."
+      "marks": "olsem: samting yu blesim …"
     },
     {
       "surface": "אשר",
-      "gloss": "ol"
+      "gloss": "olsem"
     },
     {
       "surface": "תברך",
@@ -138,21 +107,21 @@
     },
     {
       "surface": "מברך",
-      "gloss": "blesin i stap long ol"
+      "gloss": "gat blesing"
     },
     {
       "surface": "ואשר",
-      "gloss": "na ol"
+      "gloss": "na olsem"
     },
     {
       "surface": "תאר",
-      "gloss": "yu tokim tok nogut"
+      "gloss": "yu kapsaitim tok birua"
     },
     {
       "surface": "יואר",
-      "gloss": "tok nogut i stap long ol"
+      "gloss": "gat tok birua"
     }
   ],
-  "timestamp": "2026-10-18T18:49:39.956447895Z",
+  "timestamp": "2026-10-19T00:49:22.881709009Z",
   "model": "glm-5.3"
 }

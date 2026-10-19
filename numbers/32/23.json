@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Hibru i gat אשר namel long 'rong' na 'bai i painim'; Tok Pisin i no nidim em."
-    },
-    {
-      "kind": "you",
-      "subject": "bilong man Gad na man Reuben",
-      "rationale": "Mose i warnim ol daunbilo olsem rong bai i painim ol."
-    },
-    {
-      "kind": "substitution",
-      "subject": "rong",
-      "rationale": "חטאה i tok bilong narakim rot — stat long 'misim'; 'rong' i klostu tasol piksa bilong target i lus."
-    }
-  ],
-  "translation": "Tasol sapos yupela i no mekim olsem, lukim, yupela i mekim rong long Yahwe; na save gut: rong bilong yupela bai i painim yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "eebff812b60964f951c488ced241115918d885ce053226b71eb3ecd21a5e4acc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/32\/21-24.1792349592980.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na sapos yu no mekim olsem, lukim, yu bagarapim tok long Yahwe; na save long hevi bilong yu, em bai kirapim ⟨את⟩ yu.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "tasol sapos"
+      "gloss": "na sapos"
     },
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "yupela i mekim"
+      "gloss": "yu mekim"
     },
     {
       "surface": "כן",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "yupela i mekim rong"
+      "gloss": "yu bagarapim tok"
     },
     {
       "surface": "ליהוה",
@@ -63,25 +37,26 @@
     },
     {
       "surface": "ודעו",
-      "gloss": "na save gut"
+      "gloss": "na save"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "rong bilong yupela"
+      "gloss": "hevi bilong yu"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "em"
     },
     {
       "surface": "תמצא",
-      "gloss": "bai i painim"
+      "gloss": "bai kirapim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩",
+      "marks": "yu"
     }
   ],
-  "timestamp": "2026-10-18T18:53:12.981493145Z",
+  "timestamp": "2026-10-19T00:49:30.236296113Z",
   "model": "glm-5.3"
 }

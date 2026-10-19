@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mi no bin",
-      "rationale": "Hebrew states the question directly; the framing 'have I spoken a word... why have you not built' implies the negative, made explicit here."
-    },
-    {
-      "kind": "crux",
-      "subject": "אחד שפטי ישראל",
-      "rationale": "'one of the judges of Israel' — some read אחד as 'a single one', others (with the Greek) as 'a ruler\/leader'."
-    },
-    {
-      "kind": "you",
-      "subject": "ol juj bilong Yisrael",
-      "rationale": "Rhetorical question addressed through David to the judges\/shepherds of Israel."
-    }
-  ],
-  "translation": "Long olgeta ples we mi wokabaut namel long olgeta Yisrael, mi no bin tokim wanpela tok wantaim wanpela bilong ol juj bilong Yisrael, we mi bin givim tok long em bilong lukautim olsem sipsip ⟨את⟩ ol man bilong mi, na tok: Bilong wanem yupela no wokim haus bilong mi long ol cedar diwai?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/17\/5-8.1792362131125.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long olgeta ples we mi wokabaut wantaim olgeta Yisrael, mi tok wanpela tok ⟨את⟩ long wanpela man bilong olgeta man bilong skelim bilong Yisrael, we mi givim tok long em bilong lukautim olsem sipsip ⟨את⟩ ol manmeri bilong mi, na tok olsem: Bilong wanem yu no wokim haus bilong ol diwai seda long mi?",
   "tokens": [
     {
       "surface": "בכל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "namel long olgeta"
+      "gloss": "wantaim olgeta"
     },
     {
       "surface": "ישראל",
@@ -55,16 +29,16 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "tok"
+      "gloss": "wanpela tok"
     },
     {
       "surface": "דברתי",
-      "gloss": "mi tokim"
+      "gloss": "mi tok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wanpela bilong ol juj"
+      "marks": "wanpela man bilong olgeta man bilong skelim bilong Yisrael"
     },
     {
       "surface": "אחד",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "שפטי",
-      "gloss": "bilong ol juj"
+      "gloss": "ol man bilong skelim"
     },
     {
       "surface": "ישראל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "mi givim tok"
+      "gloss": "mi givim tok long em"
     },
     {
       "surface": "לרעות",
@@ -93,15 +67,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol man bilong mi"
+      "marks": "ol manmeri bilong mi"
     },
     {
       "surface": "עמי",
-      "gloss": "ol man bilong mi"
+      "gloss": "ol manmeri bilong mi"
     },
     {
       "surface": "לאמר",
-      "gloss": "na tok"
+      "gloss": "na tok olsem"
     },
     {
       "surface": "למה",
@@ -113,11 +87,11 @@
     },
     {
       "surface": "בניתם",
-      "gloss": "yupela i wokim"
+      "gloss": "yu wokim"
     },
     {
       "surface": "לי",
-      "gloss": "bilong mi"
+      "gloss": "long mi"
     },
     {
       "surface": "בית",
@@ -125,9 +99,9 @@
     },
     {
       "surface": "ארזים",
-      "gloss": "ol cedar diwai"
+      "gloss": "ol diwai seda"
     }
   ],
-  "timestamp": "2026-10-18T22:22:11.126328759Z",
+  "timestamp": "2026-10-19T00:29:33.134648200Z",
   "model": "glm-5.3"
 }

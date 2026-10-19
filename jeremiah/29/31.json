@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Hibru relativ אשר i no gat wanpela tok insait long Tok Pisin hia."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Objekt suksok bilong salim — Tok Pisin i nidim ⟨em⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "ol man i kalap long namel",
-      "rationale": "Tok i go dairekt long olgeta eksail long Babel."
-    }
-  ],
-  "translation": "Salim tok i go long olgeta man i kalap long namel, i tok olsem: Olsem Yahwe i tok long Shemaya, man bilong ol Nehelamait: Long wanem, Shemaya i autim tok profet long yupela, tasol mi no salim ⟨em⟩, na em i mekim yupela i bilip long giaman.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "b189fb87f47d6ec7e45dc14baa957a234487189bd3147d5036d65513f46c7c2e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/29\/30-31.1792363201705.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Salim tok i go long olgeta man i kalaput long olgeta hap, bilong tok olsem: Olsem na Yahwe i tok long Shemaya, man bilong Nechalam: Bilong olsem Shemaya i autim tok profet long yupela, tasol mi no salim ⟨את⟩ em, na em i mekim yupela i trustim long tok nogut;",
   "tokens": [
     {
       "surface": "שלח",
-      "gloss": "Salim tok i go"
+      "gloss": "salim tok"
     },
     {
       "surface": "על",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "הגולה",
-      "gloss": "man i kalap long namel"
+      "gloss": "man i kalaput"
     },
     {
       "surface": "לאמר",
-      "gloss": "i tok olsem"
+      "gloss": "bilong tok olsem"
     },
     {
       "surface": "כה",
-      "gloss": "Olsem"
+      "gloss": "olsem na"
     },
     {
       "surface": "אמר",
@@ -75,19 +49,19 @@
     },
     {
       "surface": "הנחלמי",
-      "gloss": "man bilong ol Nehelamait"
+      "gloss": "man bilong Nechalam"
     },
     {
       "surface": "יען",
-      "gloss": "Long wanem"
+      "gloss": "bilong olsem"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "olsem"
     },
     {
       "surface": "נבא",
-      "gloss": "i autim tok profet"
+      "gloss": "autim tok profet"
     },
     {
       "surface": "לכם",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "ואני",
-      "gloss": "na mi"
+      "gloss": "tasol mi"
     },
     {
       "surface": "לא",
@@ -107,15 +81,16 @@
     },
     {
       "surface": "שלחתיו",
-      "gloss": "salim ⟨em⟩"
+      "gloss": "salim em"
     },
     {
       "surface": "ויבטח",
-      "gloss": "na em i mekim bilip"
+      "gloss": "na em i mekim … trustim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
     },
     {
       "surface": "על",
@@ -123,9 +98,9 @@
     },
     {
       "surface": "שקר",
-      "gloss": "giaman"
+      "gloss": "tok nogut"
     }
   ],
-  "timestamp": "2026-10-18T22:40:01.706681330Z",
+  "timestamp": "2026-10-19T00:44:46.292218194Z",
   "model": "glm-5.3"
 }

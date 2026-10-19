@@ -5,38 +5,7 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "namba bilong olgeta siti",
-      "rationale": "The number of gold rats matches the number of Philistine cities — counting frame."
-    },
-    {
-      "kind": "crux",
-      "subject": "Abel Bikpela",
-      "rationale": "אבל הגדולה: 'great Abel (meadow)' vs KJV 'great stone of Abel' vs 'Abel by the great stone' — text-repair crux."
-    },
-    {
-      "kind": "crux",
-      "subject": "כפר הפרזי",
-      "rationale": "'village of the Perizzite' vs 'unwalled village' — unclear whether a place name or a common noun."
-    },
-    {
-      "kind": "addition",
-      "subject": "i stap long en",
-      "rationale": "Hebrew 'until this day' lacks an explicit verb; supplied 'it remains' in Tok Pisin."
-    }
-  ],
-  "translation": "Na ol rat bilong gol — namba bilong olgeta siti bilong ol man Peliset, long ol fivpela bikman — i stap long siti bilong banis i go inap long ples bilong ol man bilong graun, na inap long Abel Bikpela, we ol i putim ⟨את⟩ ark bilong Yahwe long en; i stap long en inap long dispela de, long gaden bilong Yehosua, man bilong Bet-Semes.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/6\/17-20.1792351566379.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol rat bilong gol, olsem namba bilong olgeta siti bilong ol Pelisit, long ol fipela bikman, long wanpela siti bilong banis, inap long ples bilong ol Prazi, na inap long Abel bikpela, we ol i putim ⟨את⟩ ark bilong Yahwe long en, inap long dispela de, long gaden bilong Yehosua, man bilong Bet-Semese.",
   "tokens": [
     {
       "surface": "ועכברי",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "bilong ol man Peliset"
+      "gloss": "ol Pelisit"
     },
     {
       "surface": "לחמשת",
-      "gloss": "long ol fivpela"
+      "gloss": "long ol fipela"
     },
     {
       "surface": "הסרנים",
@@ -80,15 +49,15 @@
     },
     {
       "surface": "ועד",
-      "gloss": "i go inap long"
+      "gloss": "inap long"
     },
     {
       "surface": "כפר",
-      "gloss": "ples bilong ol man bilong graun"
+      "gloss": "ples"
     },
     {
       "surface": "הפרזי",
-      "gloss": "ol man bilong graun"
+      "gloss": "bilong ol Prazi"
     },
     {
       "surface": "ועד",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "Bikpela"
+      "gloss": "bikpela"
     },
     {
       "surface": "אשר",
@@ -117,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ark bilong Yahwe"
+      "marks": "ark"
     },
     {
       "surface": "ארון",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "bilong Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "עד",
@@ -133,7 +102,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "dispela de"
+      "gloss": "de"
     },
     {
       "surface": "הזה",
@@ -145,17 +114,17 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "bilong Yehosua"
+      "gloss": "Yehosua"
     },
     {
       "surface": "בית",
-      "gloss": "Bet-Semes"
+      "gloss": "Bet-Semese"
     },
     {
       "surface": "השמשי",
-      "gloss": "man bilong Bet-Semes"
+      "gloss": "man bilong ⟨en⟩"
     }
   ],
-  "timestamp": "2026-10-18T19:26:06.380054300Z",
+  "timestamp": "2026-10-19T00:31:21.930369600Z",
   "model": "glm-5.3"
 }

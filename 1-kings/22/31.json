@@ -5,66 +5,40 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tupela na teti",
-      "rationale": "Namba bilong ol bosman bilong ol kario — שלשים ושנים."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לא תלחמו את קטן ואת גדול",
-      "rationale": "Stail Hibru: 'liklik man na bikpela man' = man olgeta; tanim tok literal i holim piksa."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Tupela tok 'tasol' — אם i bagarap long wanpela 'tasol'."
-    }
-  ],
-  "translation": "Na king bilong Aram i givimordre long ⟨את⟩ ol bosman bilong ol kario i stap long em — tupela na teti — i tok: Yu ol i no ken pait wantaim ⟨את⟩ liklik man na ⟨את⟩ bikpela man, tasol wantaim ⟨את⟩ king bilong Yisrael wanwan tasol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c7671b92e68bbba243a1370755a392553601eecda7eb01de80a553f0549086ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/22\/29-32.1792353242129.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na king bilong Aram i givim bodi bilong ⟨את⟩ ol hetman bilong ol reka, ol bilong en — olgeta teti-na-tupela — i tok: Uno ken pait wantaim ⟨את⟩ liklik man o ⟨את⟩ bikpela man, tasol wantaim ⟨את⟩ king bilong Yisrael wanwan tasol.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "Na king bilong"
+      "gloss": "Na king bilong Aram"
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "king bilong Aram"
     },
     {
       "surface": "צוה",
-      "gloss": "i givimordre"
+      "gloss": "i givim bodi bilong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol bosman bilong ol kario"
+      "marks": "ol hetman bilong ol reka"
     },
     {
       "surface": "שרי",
-      "gloss": "ol bosman bilong"
+      "gloss": "ol hetman"
     },
     {
       "surface": "הרכב",
-      "gloss": "ol kario"
+      "gloss": "bilong ol reka"
     },
     {
       "surface": "אשר",
-      "gloss": "ol i"
+      "gloss": "ol"
     },
     {
       "surface": "לו",
-      "gloss": "stap long em"
+      "gloss": "bilong en"
     },
     {
       "surface": "שלשים",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "uno ken"
     },
     {
       "surface": "תלחמו",
-      "gloss": "pait"
+      "gloss": "pait wantaim"
     },
     {
       "surface": "את",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "wantaim ⟨את⟩",
       "marks": "bikpela man"
     },
     {
@@ -110,7 +84,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "sapos"
     },
     {
       "surface": "את",
@@ -119,17 +93,17 @@
     },
     {
       "surface": "מלך",
-      "gloss": "king bilong"
+      "gloss": "king"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "bilong Yisrael"
     },
     {
       "surface": "לבדו",
       "gloss": "wanwan tasol"
     }
   ],
-  "timestamp": "2026-10-18T19:54:02.131075838Z",
+  "timestamp": "2026-10-19T00:30:06.974175693Z",
   "model": "glm-5.3"
 }

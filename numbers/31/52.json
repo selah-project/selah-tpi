@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "16 750 sekel",
-      "rationale": "Ves em i skelim wiat bilong gol — sikis-et tausen, seven handet na fifti sekel."
-    },
-    {
-      "kind": "addition",
-      "subject": "i kamap",
-      "rationale": "Tok Pisin i nidim tok 'i kamap' bilong stretim pes, tasol Hibru ויהי em i wanpela tok tasol."
-    }
-  ],
-  "translation": "Na olgeta gol bilong teruma we ol i rausim i go long Yahwe i kamap 16 750 sekel — i kam long olgeta ⟨את⟩ ol hea bilong ol tausen, na long olgeta ⟨את⟩ ol hea bilong ol handet.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "f120b510b8b93621728eedec0fa6e379e813f4966449b92a71f336fa330bf3d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/31\/49-52.1792349561811.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na olgeta gol bilong ofa ol i raisim i go long Yahwe — long ⟨את⟩ ol bikman bilong ol tausen na long ⟨את⟩ ol bikman bilong ol handet — em i sixteen tausen seven handet na fifti sekel.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i kamap"
+      "gloss": "Na … i kamap"
     },
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "bilong teruma"
+      "gloss": "bilong ofa"
     },
     {
       "surface": "אשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הרימו",
-      "gloss": "ol i rausim i go"
+      "gloss": "ol i raisim i go"
     },
     {
       "surface": "ליהוה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "ששה",
-      "gloss": "sikis"
+      "gloss": "siks"
     },
     {
       "surface": "עשר",
-      "gloss": "et"
+      "gloss": "ten"
     },
     {
       "surface": "אלף",
@@ -86,29 +65,31 @@
     },
     {
       "surface": "מאת",
-      "gloss": "long olgeta ⟨את⟩"
+      "gloss": "long ⟨את⟩",
+      "marks": "ol bikman bilong ol tausen"
     },
     {
       "surface": "שרי",
-      "gloss": "ol hea bilong"
+      "gloss": "ol bikman"
     },
     {
       "surface": "האלפים",
-      "gloss": "ol tausen"
+      "gloss": "bilong ol tausen"
     },
     {
       "surface": "ומאת",
-      "gloss": "na long olgeta ⟨את⟩"
+      "gloss": "na long ⟨את⟩",
+      "marks": "ol bikman bilong ol handet"
     },
     {
       "surface": "שרי",
-      "gloss": "ol hea bilong"
+      "gloss": "ol bikman"
     },
     {
       "surface": "המאות",
-      "gloss": "ol handet"
+      "gloss": "bilong ol handet"
     }
   ],
-  "timestamp": "2026-10-18T18:52:41.812407863Z",
+  "timestamp": "2026-10-19T00:49:42.566425877Z",
   "model": "glm-5.3"
 }

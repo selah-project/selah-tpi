@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מאת",
-      "rationale": "מאת H854 em i pespisin ‘long’, i no ⟨את⟩ bilong makim olgeta, tasol prompt i makim ⟨את⟩ long gloss."
-    },
-    {
-      "kind": "you",
-      "subject": "tok bilong Farao",
-      "rationale": "Farao i tokim Mose na Airon dairet pastaim long rausim ol."
-    }
-  ],
-  "translation": "I no inap olsem. Go nau, ol man tasol, na wokim servisi bilong Yahwe, long wanem em tasol bilong yumi ol i painim. Na em i rausim ol long pes bilong Farao ⟨mε⟩ wantaim ⟨את⟩ olgeta.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/10\/9-12.1792347493371.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nogat, i no olsem; go nau, ol manmeri, na wokim ⟨את⟩ Yahwe, bilong olsem ⟨את⟩ yupela ol i painim; na em i rausim ⟨את⟩ ol i go ⟨את⟩ hul long pes bilong Paroh.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "I no inap"
+      "gloss": "nogat"
     },
     {
       "surface": "כן",
-      "gloss": "olsem"
+      "gloss": "i no olsem"
     },
     {
       "surface": "לכו",
-      "gloss": "Go"
+      "gloss": "go"
     },
     {
       "surface": "נא",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "ol man tasol"
+      "gloss": "ol manmeri"
     },
     {
       "surface": "ועבדו",
-      "gloss": "na wokim servisi bilong"
+      "gloss": "na wokim"
     },
     {
       "surface": "את",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong olsem"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ em tasol",
-      "marks": "yumi"
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
     },
     {
       "surface": "אתם",
-      "gloss": "bilong yumi"
+      "gloss": "yupela"
     },
     {
       "surface": "מבקשים",
@@ -80,15 +59,16 @@
     },
     {
       "surface": "ויגרש",
-      "gloss": "Na em i rausim ol"
+      "gloss": "na em i rausim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ long"
+      "gloss": "i go ⟨את⟩ hul long"
     },
     {
       "surface": "פני",
@@ -96,9 +76,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Farao"
+      "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-10-18T18:18:13.372625591Z",
+  "timestamp": "2026-10-19T00:37:16.370516324Z",
   "model": "glm-5.3"
 }

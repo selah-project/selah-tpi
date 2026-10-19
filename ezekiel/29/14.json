@@ -5,41 +5,20 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "shvut (שבות)",
-      "rationale": "'Stet we i lusim pinis' vs 'ol man we ol i holim' (prisoners) vs 'olsem i bin stap wanem bipo' (former prosperity)."
-    },
-    {
-      "kind": "elision",
-      "subject": "ol",
-      "rationale": "בגוי omitted: 'rule among the nations' has no 'over'; rendered without."
-    }
-  ],
-  "translation": "Na bai mi tanimim bek ⟨את⟩ stet we Mitsrayim i lusim pinis, na bai mi salim ol i go bek long graun bilong Patros, long graun bilong ol i kamap long en; na bai ol i stap long en olsem wanpela kingdom bilong daunbelo.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d7776574e5fa9a1611955f73768600e1a5932d0f2b9abd138187164eea311b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/29\/13-16.1792356557411.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na bai mi bringim bek ⟨את⟩ ol man Mitsrayim ol i kirap pinis long ples ol i kalap long en, na bai mi salim ol i go bek long graun Patros, long graun bilong ol i kamap long en; na bai ol i stap long hap olsem wanpela kingdon i go daunbilo.",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "na bai mi tanimim bek"
+      "gloss": "bai mi bringim bek"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stet we Mitsrayim i lusim pinis"
+      "marks": "ol man Mitsrayim ol i kirap pinis long ples ol i kalap long en"
     },
     {
       "surface": "שבות",
-      "gloss": "stet we … i lusim pinis"
+      "gloss": "ol man ol i kirap pinis long ples ol i kalap long en"
     },
     {
       "surface": "מצרים",
@@ -51,8 +30,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol",
-      "marks": "ol (manmeri bilong Mitsrayim) long graun"
+      "gloss": "⟨את⟩",
+      "marks": "long graun Patros"
     },
     {
       "surface": "ארץ",
@@ -76,21 +55,21 @@
     },
     {
       "surface": "והיו",
-      "gloss": "na bai ol i stap"
+      "gloss": "na bai ol i"
     },
     {
       "surface": "שם",
-      "gloss": "long en"
+      "gloss": "stap long hap"
     },
     {
       "surface": "ממלכה",
-      "gloss": "kingdom"
+      "gloss": "wanpela kingdon"
     },
     {
       "surface": "שפלה",
-      "gloss": "bilong daunbelo"
+      "gloss": "i go daunbilo"
     }
   ],
-  "timestamp": "2026-10-18T20:49:17.412715511Z",
+  "timestamp": "2026-10-19T00:39:35.278610754Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "החלתי \/ החל",
-      "rationale": "Wanem roat bilong חלל ('stat') i kamap tupela taim — Yahwe i stat, na yu tu yu stat — Tok Pisin i holim dispela roster."
-    }
-  ],
-  "translation": "Na Yahwe i tok long mi: Lukim, mi bin stat givim ⟨את⟩ Sihon na ⟨את⟩ graun bilong en long pes bilong yu; yu stat, yu kisim graun bilong en.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e71f91e8c762e5a16aa9c9c262e34a9b075ea96ac8ef84a7b24a17712acbc572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/2\/29-32.1792349725712.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i tok long mi: Lukim, mi stat pinis long givim ⟨את⟩ Sihon wantaim ⟨את⟩ graun bilong en i go long pes bilong yu; stat nau, yu ken tekewe graun bilong en ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tok"
+      "gloss": "Na … i tok"
     },
     {
       "surface": "יהוה",
@@ -37,19 +21,19 @@
     },
     {
       "surface": "ראה",
-      "gloss": "lukim"
+      "gloss": "Lukim"
     },
     {
       "surface": "החלתי",
-      "gloss": "mi bin stat"
+      "gloss": "mi stat pinis"
     },
     {
       "surface": "תת",
-      "gloss": "givim"
+      "gloss": "long givim"
     },
     {
       "surface": "לפניך",
-      "gloss": "long pes bilong yu"
+      "gloss": "i go long pes bilong yu"
     },
     {
       "surface": "את",
@@ -62,7 +46,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩"
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "graun bilong en"
     },
     {
       "surface": "ארצו",
@@ -70,15 +55,15 @@
     },
     {
       "surface": "החל",
-      "gloss": "yu stat"
+      "gloss": "stat nau"
     },
     {
       "surface": "רש",
-      "gloss": "yu kisim"
+      "gloss": "yu ken tekewe"
     },
     {
       "surface": "לרשת",
-      "gloss": "bilong kisim"
+      "gloss": "bilong tekewe"
     },
     {
       "surface": "את",
@@ -90,6 +75,6 @@
       "gloss": "graun bilong en"
     }
   ],
-  "timestamp": "2026-10-18T18:55:25.713361594Z",
+  "timestamp": "2026-10-19T00:36:15.074899138Z",
   "model": "glm-5.3"
 }

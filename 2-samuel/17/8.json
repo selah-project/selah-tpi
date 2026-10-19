@@ -5,54 +5,23 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "נפש em i hanpela mining — laif, win, hungri; Tok Pisin 'bel' i klostu long pasin bilong tingting na laik"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ומרי נפש",
-      "rationale": "Hebrew 'bitter long nefesh' — Tok Pisin 'bel i sot nogut' i holim piksa bilong marimeri"
-    },
-    {
-      "kind": "addition",
-      "subject": "ol pikinini bilong en",
-      "rationale": "שכול 'i lusim pikinini' — Hebrew i tok 'bea i lusim' tasol, Tok Pisin i klarim"
-    },
-    {
-      "kind": "elision",
-      "subject": "את (long ילין את העם)",
-      "rationale": "Hia את em i preposisen 'wantaim', i no aleph-tav bilong 853"
-    }
-  ],
-  "translation": "Na Khushai i tok: Yu save long papa bilong yu na ⟨את⟩ ol man bilong en, long wanem, ol man bilong pait tru ol i stap, na bel bilong ol i sot nogut, olsem bea i lusim ol pikinini bilong en long gaden; na papa bilong yu em i man bilong pait, na em i no ken slip ⟨את⟩ wantaim ol manmeri.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/17\/5-8.1792352420100.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Khusai i tok: Yu save ⟨את⟩ papa bilong yu na ⟨את⟩ ol man bilong en, long wanem ol i strongpela man tru, na ol i hatwara bel, olsem bea i lusim ol pikinini bilong en long gaden; na papa bilong yu, em i man bilong pait, na em i no bai slip wantaim ⟨את⟩ ol manmeri.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "na i tok"
     },
     {
       "surface": "חושי",
-      "gloss": "Khushai"
+      "gloss": "Khusai"
     },
     {
       "surface": "אתה",
-      "gloss": "Yu"
+      "gloss": "yu"
     },
     {
       "surface": "ידעת",
-      "gloss": "save long"
+      "gloss": "yu save"
     },
     {
       "surface": "את",
@@ -78,15 +47,15 @@
     },
     {
       "surface": "גברים",
-      "gloss": "ol man bilong pait tru"
+      "gloss": "strongpela man tru"
     },
     {
       "surface": "המה",
-      "gloss": "ol i stap"
+      "gloss": "ol"
     },
     {
       "surface": "ומרי",
-      "gloss": "na bel bilong ol i sot nogut"
+      "gloss": "na ol i hatwara bel"
     },
     {
       "surface": "נפש",
@@ -94,7 +63,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "ol i stap"
+      "gloss": "ol"
     },
     {
       "surface": "כדב",
@@ -126,17 +95,18 @@
     },
     {
       "surface": "ילין",
-      "gloss": "ken slip"
+      "gloss": "slip"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ wantaim"
+      "gloss": "⟨את⟩",
+      "marks": "ol manmeri"
     },
     {
       "surface": "העם",
       "gloss": "ol manmeri"
     }
   ],
-  "timestamp": "2026-10-18T19:40:20.101822430Z",
+  "timestamp": "2026-10-19T00:34:59.924525087Z",
   "model": "glm-5.3"
 }

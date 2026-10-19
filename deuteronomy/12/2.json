@@ -5,41 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אבד תאבדון",
-      "rationale": "Infinitive absolute — tok i kam tupela taim bilong strongim tok; Tok Pisin \"rausim, yupela mas rausim olgeta\""
-    },
-    {
-      "kind": "substitution",
-      "subject": "ol god",
-      "rationale": "אלהיהם long hia em i ol god bilong ol lain narapela — liklik leta, i no Elohim"
-    },
-    {
-      "kind": "you",
-      "subject": "long Yisrael",
-      "rationale": "Komandim ol Yisrael bilong rausim ol ples bilong ol god"
-    }
-  ],
-  "translation": "Rausim, yupela mas rausim olgeta ⟨את⟩ olgeta ol ples we ol lain bilong ol narapela kantri, we yupela bai rausim ⟨את⟩ ⟨ol⟩ na holim, i wokim bihain long ol god bilong ol long sanaples — long ol maunten i antap, na long ol hil, na ananit long olgeta goren diwai.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "c95a845d91546d0fddaa56306d1a8dcb889d1538fff03de1eae7ba857884b7aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/12\/1-4.1792350030402.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bai yumi bagarapim olgeta ⟨את⟩ olgeta ol ples we ol lain, ol yumi ken tekewe graun bilong ol, i wokim ol god bilong ol long ol maunten antap, long ol smol hil, na ananit long wanwan diwai grinpela.",
   "tokens": [
     {
       "surface": "אבד",
-      "gloss": "rausim"
+      "gloss": "bagarapim"
     },
     {
       "surface": "תאבדון",
-      "gloss": "yupela mas rausim olgeta"
+      "gloss": "bai yumi bagarapim olgeta"
     },
     {
       "surface": "את",
@@ -60,31 +34,32 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "i wokim bihain long"
+      "gloss": "i wokim"
     },
     {
       "surface": "שם",
-      "gloss": "long sanaples"
+      "gloss": "long en"
     },
     {
       "surface": "הגוים",
-      "gloss": "ol lain bilong ol narapela kantri"
+      "gloss": "ol lain"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "ol"
     },
     {
       "surface": "אתם",
-      "gloss": "yupela"
+      "gloss": "yumi ken tekewe"
     },
     {
       "surface": "ירשים",
-      "gloss": "bai rausim ol na holim"
+      "gloss": "graun bilong ol"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨ol⟩"
+      "gloss": "⟨את⟩",
+      "marks": "graun bilong ol lain"
     },
     {
       "surface": "את",
@@ -105,7 +80,7 @@
     },
     {
       "surface": "הרמים",
-      "gloss": "i antap"
+      "gloss": "antap"
     },
     {
       "surface": "ועל",
@@ -113,15 +88,15 @@
     },
     {
       "surface": "הגבעות",
-      "gloss": "ol hil"
+      "gloss": "ol smol hil"
     },
     {
       "surface": "ותחת",
-      "gloss": "na ananit"
+      "gloss": "na ananit long"
     },
     {
       "surface": "כל",
-      "gloss": "olgeta"
+      "gloss": "wanwan"
     },
     {
       "surface": "עץ",
@@ -129,9 +104,9 @@
     },
     {
       "surface": "רענן",
-      "gloss": "goren"
+      "gloss": "grinpela"
     }
   ],
-  "timestamp": "2026-10-18T19:00:30.403048003Z",
+  "timestamp": "2026-10-19T00:36:31.870831358Z",
   "model": "glm-5.3"
 }

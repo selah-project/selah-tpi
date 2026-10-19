@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruak",
-      "rationale": "רוח i 'ruak' — wanpela tok, em i win, ruak bilong man, na Spirit"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דברי\/דבר",
-      "rationale": "tupela tok we i wankain — 'olgeta tok we em i tok' — Tok Pisin i holim liklik"
-    }
-  ],
-  "translation": "Ol i tokim em olgeta tok bilong Yosep, ol tok we em i tokim ol long en, na taim em i lukim ⟨את⟩ ol karia we Yosep i salim long karim em, ruak bilong Yakov, papa bilong ol, i kirap gen i liv.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "625655797e8480bfc538fc859382891fa5ca5d2e4655d53efe5cd61b60e2e62e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/45\/25-28.1792347268046.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol i tokim em ⟨את⟩ olgeta tok bilong Yosef, ol tok em i tokim ol; na taim em i lukim ⟨את⟩ ol karia, ol Yosef i salim long karim em, na ruak bilong Yakov, papa bilong ol, i kirap gen i live.",
   "tokens": [
     {
       "surface": "וידברו",
@@ -34,12 +13,12 @@
     },
     {
       "surface": "אליו",
-      "gloss": "em"
+      "gloss": "long em"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta tok bilong Yosep"
+      "marks": "olgeta tok bilong Yosef"
     },
     {
       "surface": "כל",
@@ -47,19 +26,19 @@
     },
     {
       "surface": "דברי",
-      "gloss": "tok"
+      "gloss": "tok bilong"
     },
     {
       "surface": "יוסף",
-      "gloss": "bilong Yosep"
+      "gloss": "Yosef"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "ol"
     },
     {
       "surface": "דבר",
-      "gloss": "em i tokim"
+      "gloss": "i tokim"
     },
     {
       "surface": "אלהם",
@@ -80,15 +59,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "ol"
     },
     {
       "surface": "שלח",
-      "gloss": "Yosep i salim"
+      "gloss": "i salim"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosep"
+      "gloss": "Yosef"
     },
     {
       "surface": "לשאת",
@@ -96,11 +75,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em (Yakov)"
     },
     {
       "surface": "ותחי",
-      "gloss": "i kirap gen i liv"
+      "gloss": "i kirap gen i live"
     },
     {
       "surface": "רוח",
@@ -115,6 +95,6 @@
       "gloss": "papa bilong ol"
     }
   ],
-  "timestamp": "2026-10-18T18:14:28.047772936Z",
+  "timestamp": "2026-10-19T00:42:21.909354752Z",
   "model": "glm-5.3"
 }

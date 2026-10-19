@@ -5,41 +5,20 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ערף",
-      "rationale": "'nape bilong nek' — ol tanim 'ol i ken bek long yu'; hia em i idiom bilong 'givim nek' = ranawe, lusim pait"
-    },
-    {
-      "kind": "idiom",
-      "subject": "נתתי ערף",
-      "rationale": "'givim nek' long birua = ol bai ranawe; literal 'mi givim nape bilong nek'"
-    }
-  ],
-  "translation": "⟨את⟩ bigpela fright bilong mi mi bai salim go pastaim long yu, na mi bai kilim olgeta man bilong ol lain yu bai kam long ol, na mi bai givim olgeta birua bilong yu long yu olsem man i katimain.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/23\/25-28.1792347773026.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bilong mi, pret bilong mi bai mi salim ⟨את⟩ pastaim long yu, na bai mi bagarapim ⟨את⟩ olgeta ol manmeri yu bai go long ol, na bai mi givim ⟨את⟩ olgeta ol birua bilong yu — nek bilong ol — i go long yu.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bigpela fright bilong mi"
+      "marks": "pret bilong mi"
     },
     {
       "surface": "אימתי",
-      "gloss": "bigpela fright bilong mi"
+      "gloss": "pret bilong mi"
     },
     {
       "surface": "אשלח",
-      "gloss": "mi bai salim go"
+      "gloss": "salim"
     },
     {
       "surface": "לפניך",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "והמתי",
-      "gloss": "na mi bai kilim"
+      "gloss": "bai mi bagarapim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta man bilong ol lain"
+      "marks": "olgeta ol manmeri"
     },
     {
       "surface": "כל",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "man bilong ol lain"
+      "gloss": "ol manmeri"
     },
     {
       "surface": "אשר",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "תבא",
-      "gloss": "yu bai kam long"
+      "gloss": "yu bai go"
     },
     {
       "surface": "בהם",
@@ -76,12 +55,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "na mi bai givim"
+      "gloss": "bai mi givim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta birua bilong yu"
+      "marks": "olgeta ol birua bilong yu"
     },
     {
       "surface": "כל",
@@ -89,17 +68,17 @@
     },
     {
       "surface": "איביך",
-      "gloss": "birua bilong yu"
+      "gloss": "ol birua bilong yu"
     },
     {
       "surface": "אליך",
-      "gloss": "long yu"
+      "gloss": "i go long yu"
     },
     {
       "surface": "ערף",
-      "gloss": "olsem man i katimain"
+      "gloss": "nek bilong ol"
     }
   ],
-  "timestamp": "2026-10-18T18:22:53.027236574Z",
+  "timestamp": "2026-10-19T00:38:06.420082167Z",
   "model": "glm-5.3"
 }

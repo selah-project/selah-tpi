@@ -5,55 +5,29 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨את⟩ ol",
-      "rationale": "aleph-tav i stap insait long יוציאם (safiks -ם), mi putim ⟨את⟩ long gloss bilong em"
-    },
-    {
-      "kind": "substitution",
-      "subject": "seds bilong dai",
-      "rationale": "צלמות em i 'seds bilong dai' (tsel + mavet) — tanim tok literal, no 'dai yet'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ol ropes",
-      "rationale": "מוסרות em i 'ol rop bilong holim \/ pasim' — no 'chain' (ol sen)"
-    }
-  ],
-  "translation": "Em i bringautim ol i kamap autsait long tudak nalong seds bilong dai, na ol ropes bilong ol em i sotim olgeta.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/13-16.1792358994597.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Em i bringautim ⟨ol⟩ olsem long graun ol i no save lukim na long kalabus ol i matmat long olgeta samting, na em i brukim klostu ol rop bilong holim ⟨ol⟩.",
   "tokens": [
     {
       "surface": "יוציאם",
-      "gloss": "em i bringautim ⟨את⟩ ol"
+      "gloss": "em i bringautim ol"
     },
     {
       "surface": "מחשך",
-      "gloss": "i kamap autsait long tudak"
+      "gloss": "long graun ol i no save lukim"
     },
     {
       "surface": "וצלמות",
-      "gloss": "na seds bilong dai"
+      "gloss": "na long kalabus ol i matmat long olgeta samting"
     },
     {
       "surface": "ומוסרותיהם",
-      "gloss": "na ol ropes bilong ol"
+      "gloss": "ol rop bilong holim ol"
     },
     {
       "surface": "ינתק",
-      "gloss": "em i sotim olgeta"
+      "gloss": "em i brukim klostu"
     }
   ],
-  "timestamp": "2026-10-18T21:29:54.600653074Z",
+  "timestamp": "2026-10-19T00:50:05.584632084Z",
   "model": "glm-5.3"
 }

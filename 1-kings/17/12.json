@@ -5,39 +5,7 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrew pair 'ki im' = 'only\/nothing but', rendered as single Tok Pisin 'tasol'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Oath formula 'as Yahwe lives'; second אם of the conditional oath elided into the oath sense."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם (second)",
-      "gloss rationale placeholder": true,
-      "rationale": "Second אם absorbed into the 'ki im' idiom; gloss left empty."
-    },
-    {
-      "kind": "addition",
-      "subject": "em",
-      "rationale": "Pronoun added (bracketed ⟨…⟩ convention applies to supplied words) to mark the object of 'kaikai ⟨את⟩'."
-    }
-  ],
-  "translation": "Na em i tok: Yahwe, Elohim bilong yu, i stap yet — mi no gat kek, tasol wanpela hanful plawo long kad, na liklik oil long sapahat; na lukim, mi sanapim tupela diwai, na bai mi go insait na wokim ⟨את⟩ kaikai bilong mi na bilong pikinini man bilong mi, na bai mipela kaikai ⟨את⟩ em, na mipela dai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "f2e9d5117c9416844ebfceb291693b202e246105c1ae93d56092c98b6e6d1458",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/17\/12-12.1792363154627.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tok: Yahwe, Elohim bilong yu, i laip — mi no gat keik; tasol fulnis bilong wanpela han bilong flaua long jar, na liklik oli long smol botol; na lukluk, mi kolektim tupela stik diwai, na bai mi go insait na wokim ⟨em⟩ bilong mi na bilong pikinini man bilong mi, na mipela kaikai ⟨em⟩ na mipela dai.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -45,7 +13,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "i stap yet"
+      "gloss": "i laip"
     },
     {
       "surface": "יהוה",
@@ -65,35 +33,35 @@
     },
     {
       "surface": "לי",
-      "gloss": "long mi"
+      "gloss": "bilong mi"
     },
     {
       "surface": "מעוג",
-      "gloss": "kek"
+      "gloss": "keik"
     },
     {
       "surface": "כי",
-      "gloss": "tasol"
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tasol"
     },
     {
       "surface": "מלא",
-      "gloss": "wanpela hanful"
+      "gloss": "fulnis"
     },
     {
       "surface": "כף",
-      "gloss": "hanful"
+      "gloss": "bilong wanpela han"
     },
     {
       "surface": "קמח",
-      "gloss": "plawo"
+      "gloss": "flaua"
     },
     {
       "surface": "בכד",
-      "gloss": "long kad"
+      "gloss": "long jar"
     },
     {
       "surface": "ומעט",
@@ -101,19 +69,19 @@
     },
     {
       "surface": "שמן",
-      "gloss": "oil"
+      "gloss": "oli"
     },
     {
       "surface": "בצפחת",
-      "gloss": "long sapahat"
+      "gloss": "long smol botol"
     },
     {
       "surface": "והנני",
-      "gloss": "na lukim mi"
+      "gloss": "na lukluk mi"
     },
     {
       "surface": "מקששת",
-      "gloss": "mi sanapim"
+      "gloss": "kolektim"
     },
     {
       "surface": "שנים",
@@ -121,7 +89,7 @@
     },
     {
       "surface": "עצים",
-      "gloss": "diwai"
+      "gloss": "stik diwai"
     },
     {
       "surface": "ובאתי",
@@ -129,7 +97,7 @@
     },
     {
       "surface": "ועשיתיהו",
-      "gloss": "na wokim ⟨את⟩ kaikai"
+      "gloss": "na wokim ⟨em⟩"
     },
     {
       "surface": "לי",
@@ -141,13 +109,13 @@
     },
     {
       "surface": "ואכלנהו",
-      "gloss": "na bai mipela kaikai ⟨את⟩ em"
+      "gloss": "na mipela kaikai ⟨em⟩"
     },
     {
       "surface": "ומתנו",
       "gloss": "na mipela dai"
     }
   ],
-  "timestamp": "2026-10-18T22:39:14.627905623Z",
+  "timestamp": "2026-10-19T00:30:10.350568951Z",
   "model": "glm-5.3"
 }

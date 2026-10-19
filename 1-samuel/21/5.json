@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אך מאשה",
-      "rationale": "'only from women' — priest sets ritual purity of the young men as the condition; some read אך as emphatic 'assuredly'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "no-holi",
-      "rationale": "חל is 'profane\/common' — the opposite of קדש, not merely 'ordinary'"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "idiom 'but rather' rendered by single 'tasol'; אם elided"
-    }
-  ],
-  "translation": "Na pris i ansa ⟨את⟩ David, na i tok: I no gat bret no-holi long aninit han bilong mi, tasol bret holi i stap — sapos ol yangpela man i holim pas olgeta long ol meri.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/21\/5-8.1792351995104.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na pris i bekim ⟨את⟩ David, na i tok: Nogat bret i no holi i stap aninit long han bilong mi, tasol bret holi i stap; sapos ol yangpela man i holimpas ol yet, wantaim no klostu long ol meri.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "na i ansa"
+      "gloss": "i bekim"
     },
     {
       "surface": "הכהן",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "i no gat"
+      "gloss": "nogat"
     },
     {
       "surface": "לחם",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "חל",
-      "gloss": "no-holi"
+      "gloss": "i no holi"
     },
     {
       "surface": "אל",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "aninit"
+      "gloss": "aninit long"
     },
     {
       "surface": "ידי",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "sapos"
     },
     {
       "surface": "לחם",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "נשמרו",
-      "gloss": "i holim pas"
+      "gloss": "i holimpas ol yet"
     },
     {
       "surface": "הנערים",
@@ -112,13 +86,13 @@
     },
     {
       "surface": "אך",
-      "gloss": "olgeta"
+      "gloss": "wantaim no klostu"
     },
     {
       "surface": "מאשה",
       "gloss": "long ol meri"
     }
   ],
-  "timestamp": "2026-10-18T19:33:15.105708253Z",
+  "timestamp": "2026-10-19T00:52:48.240075518Z",
   "model": "glm-5.3"
 }

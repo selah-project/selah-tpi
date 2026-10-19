@@ -5,27 +5,11 @@
   "book": "esther",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ויבא",
-      "rationale": "Hebrew singular verb 'he came' covers both king and Haman"
-    }
-  ],
-  "translation": "Na king i tok: Yu kirapim Haman kwiktru, bilong wokim ⟨את⟩ tok bilong Ester. Na king na Haman i kam long miskan bilong kaikai bilong wain we Ester i wokim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/5\/5-8.1792360895324.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na king i tok: Kalapim ⟨את⟩ Haman bilong wokim ⟨את⟩ tok bilong Ester. Na king na Haman i go insait long kaikai bilong dring we Ester i wokim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tok"
+      "gloss": "na king i tok"
     },
     {
       "surface": "המלך",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "kirapim kwiktru"
+      "gloss": "kalapim"
     },
     {
       "surface": "את",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "i kam"
+      "gloss": "na i go insait"
     },
     {
       "surface": "המלך",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "המשתה",
-      "gloss": "miskan bilong kaikai bilong wain"
+      "gloss": "kaikai bilong dring"
     },
     {
       "surface": "אשר",
@@ -94,6 +78,6 @@
       "gloss": "Ester"
     }
   ],
-  "timestamp": "2026-10-18T22:01:35.325277315Z",
+  "timestamp": "2026-10-19T00:37:15.511699920Z",
   "model": "glm-5.3"
 }

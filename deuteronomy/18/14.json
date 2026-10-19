@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ol man i lukim sain long heven",
-      "rationale": "מעוננין i kam long ענן (klaut) — man i lukim klaut na skelim; 'glasman' em i tok tambu long Lo 18"
-    },
-    {
-      "kind": "addition",
-      "subject": "pasin",
-      "rationale": "נתן לך כן i tok 'i no givim olsem long yu'; Tok Pisin i laikim wanpela tok bilong tok"
-    }
-  ],
-  "translation": "Long wanem, ol dispela lain bilong ol narapela kantri, ol lain yu ken tekewe graun bilong ol, ol i harim tok bilong ol man i lukim sain long heven na ol man i skelim ol sain; tasol long yu, Yahwe Elohim bilong yu i no givim dispela pasin long yu.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "a1dd87fc64440fbbf284c1bcd670e84ef1c6ab5cdcea4e3597080ccbca0ca6c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/18\/13-16.1792350109386.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long wanem, ol dispela goyim we yu ken rausim ⟨את⟩ ol na tekim graun bilong ol, ol i harim tok bilong ol man i lukluk long klaut na ol man i skelim ol tingen; tasol long yu, Yahwe Elohim bilong yu i no givim pasin olsem.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "ol lain bilong ol narapela kantri"
+      "gloss": "ol goyim"
     },
     {
       "surface": "האלה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ol⟩"
+      "gloss": "we"
     },
     {
       "surface": "אתה",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "יורש",
-      "gloss": "yu ken tekewe graun bilong ol"
+      "gloss": "yu ken rausim na tekim graun bilong"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol dispela goyim)"
     },
     {
       "surface": "אל",
@@ -62,7 +42,7 @@
     },
     {
       "surface": "מעננים",
-      "gloss": "ol man i lukim sain long heven"
+      "gloss": "ol man i lukluk long klaut"
     },
     {
       "surface": "ואל",
@@ -70,7 +50,7 @@
     },
     {
       "surface": "קסמים",
-      "gloss": "ol man i skelim ol sain"
+      "gloss": "ol man i skelim ol tingen"
     },
     {
       "surface": "ישמעו",
@@ -105,6 +85,6 @@
       "gloss": "Elohim bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T19:01:49.386906437Z",
+  "timestamp": "2026-10-19T00:36:15.553704678Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mekim stret",
-      "rationale": "כפר 'cover\/atone' rendered functionally; tpi has no single word for atonement."
-    },
-    {
-      "kind": "addition",
-      "subject": "olgeta",
-      "rationale": "Plural object implied by the sacrifices of v6; Hebrew suffix is singular 'it'."
-    }
-  ],
-  "translation": "Na em i bringim ⟨את⟩ olgeta long ananit bilong Yahwe, na em i mekim stret long em, na em i kamap klia long as bilong blut bilong em. Dispela em i Tora bilong meri i karim pikinini, long man o long meri.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/12\/5-8.1792348490168.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i bringim ⟨em⟩ i go long pes bilong Yahwe, na em i mekim kovim long em, na em i kamap klaklain long founten bilong blut bilong em. Dispela em i Tora bilong meri i bringim pikinini i kamap, sapos ⟨pikinini⟩ manpela o meri.",
   "tokens": [
     {
       "surface": "והקריבו",
-      "gloss": "Na em i bringim ⟨את⟩"
+      "gloss": "na em i bringim i go"
     },
     {
       "surface": "לפני",
-      "gloss": "long ananit bilong"
+      "gloss": "long pes bilong"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "na em i mekim stret"
+      "gloss": "na em i mekim kovim"
     },
     {
       "surface": "עליה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "וטהרה",
-      "gloss": "na em i kamap klia"
+      "gloss": "na em i kamap klaklain"
     },
     {
       "surface": "ממקר",
-      "gloss": "long as bilong"
+      "gloss": "long founten bilong"
     },
     {
       "surface": "דמיה",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "זאת",
-      "gloss": "Dispela"
+      "gloss": "dispela"
     },
     {
       "surface": "תורת",
-      "gloss": "Tora bilong"
+      "gloss": "Tora"
     },
     {
       "surface": "הילדת",
-      "gloss": "meri i karim pikinini"
+      "gloss": "bilong meri i bringim pikinini i kamap"
     },
     {
       "surface": "לזכר",
-      "gloss": "long man"
+      "gloss": "sapos manpela"
     },
     {
       "surface": "או",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "לנקבה",
-      "gloss": "long meri"
+      "gloss": "meri"
     }
   ],
-  "timestamp": "2026-10-18T18:34:50.169336866Z",
+  "timestamp": "2026-10-19T00:48:02.366822827Z",
   "model": "glm-5.3"
 }

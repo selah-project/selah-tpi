@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mi stap",
-      "rationale": "Hebrew i no gat kopula; לך אני i tok stret olsem 'bilong yu mi'"
-    },
-    {
-      "kind": "you",
-      "subject": "bilong Yahwe",
-      "rationale": "Olgeta Psalm 119 i toktok stret long Yahwe"
-    }
-  ],
-  "translation": "Bilong yu mi stap; seivim mi, long wanem mi painim ⟨את⟩ ol pikudim bilong yu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "134277dd293f18750098f9e80223d4b030993d4db6efc606d416f1c1af5ecc17",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/93-96.1792359117310.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bilong yu mi stap, olsem na rausim mi long senemba: bilong ol tok bilong yu mi painim",
   "tokens": [
     {
       "surface": "לך",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "הושיעני",
-      "gloss": "seivim mi"
+      "gloss": "rausim mi long senemba"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "פקודיך",
-      "gloss": "ol pikudim bilong yu"
+      "gloss": "ol tok bilong yu"
     },
     {
       "surface": "דרשתי",
-      "gloss": "mi painim ⟨את⟩"
+      "gloss": "mi painim"
     }
   ],
-  "timestamp": "2026-10-18T21:31:57.311668088Z",
+  "timestamp": "2026-10-19T00:50:32.318594119Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "לב em i bel long Tok Pisin — tingting na laik, i no hat"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "tupela tok wantaim — 'tasol' i holim tupela, em i no gat wanpela wanpela tanim"
-    },
-    {
-      "kind": "you",
-      "subject": "pikinini man",
-      "rationale": "tok i toktok long wanpela man — 'bel bilong yu'"
-    }
-  ],
-  "translation": "No ken larim bel bilong ⟨את⟩ yu kaikai man long ol man i wokim rong, tasol i stap long bilim Yahwe olgeta de.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/23\/17-20.1792359714573.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bel bilong yu i no ken jelos long ol man i wokim rong, tasol ⟨em⟩ i stap long sem long Yahwe olgeta de.",
   "tokens": [
     {
       "surface": "אל",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "יקנא",
-      "gloss": "kaikai man long"
+      "gloss": "jelos"
     },
     {
       "surface": "לבך",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tasol"
     },
     {
       "surface": "ביראת",
-      "gloss": "long bilim"
+      "gloss": "long sem long"
     },
     {
       "surface": "יהוה",
@@ -74,6 +48,6 @@
       "gloss": "de"
     }
   ],
-  "timestamp": "2026-10-18T21:41:54.574432457Z",
+  "timestamp": "2026-10-19T00:50:11.417456392Z",
   "model": "glm-5.3"
 }

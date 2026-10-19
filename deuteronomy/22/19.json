@@ -5,42 +5,16 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "wan handet silva",
-      "rationale": "namba bilong skelim — panis i gat stret mak: 100 silva"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הוציא שם רע",
-      "rationale": "tok Hibru i tok 'igo aut nem nogut'; mipela tanim 'autim nem nogut'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "skrusem",
-      "rationale": "שלח i tok 'salim i go'; long pasin bilong meri em i 'skrusem'"
-    }
-  ],
-  "translation": "Na ol bainim em long panis bilong wan handet silva, na givim long papa bilong meri yang, long wanem em i autim ⟨את⟩ nem nogut long wanpela betula bilong Yisrael. Na em bai stap bilong man olsem meri; em i no inap skrusem olgeta de bilong laip bilong em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/22\/17-20.1792350177816.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol i putim penalti long em ⟨את⟩ wan handet sekel silva, na ol i givim ol long papa bilong olpela meri, long wanem em i autim nem nogut long wanpela meri i no save man yet bilong Yisrael; na em bai i stap olsem meri bilong em, em i no inap salim em i go long olgeta de bilong laip bilong em.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "na ol bainim em long panis"
+      "gloss": "ol i putim penalti long"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em",
-      "marks": "em (man)"
+      "gloss": "⟨את⟩",
+      "marks": "wan handet sekel silva"
     },
     {
       "surface": "מאה",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "silva"
+      "gloss": "sekel silva"
     },
     {
       "surface": "ונתנו",
-      "gloss": "na givim"
+      "gloss": "na ol i givim ol"
     },
     {
       "surface": "לאבי",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "meri yang"
+      "gloss": "olpela meri"
     },
     {
       "surface": "כי",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "autim"
+      "gloss": "em i autim"
     },
     {
       "surface": "שם",
-      "gloss": "⟨את⟩ nem"
+      "gloss": "nem"
     },
     {
       "surface": "רע",
@@ -84,23 +58,23 @@
     },
     {
       "surface": "בתולת",
-      "gloss": "wanpela betula"
+      "gloss": "meri i no save man yet"
     },
     {
       "surface": "ישראל",
-      "gloss": "bilong Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ולו",
-      "gloss": "na bilong man"
+      "gloss": "na bilong em"
     },
     {
       "surface": "תהיה",
-      "gloss": "bai stap"
+      "gloss": "bai i stap"
     },
     {
       "surface": "לאשה",
-      "gloss": "olsem meri"
+      "gloss": "olsem meri bilong em"
     },
     {
       "surface": "לא",
@@ -108,11 +82,11 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "inap"
+      "gloss": "i no inap"
     },
     {
       "surface": "לשלחה",
-      "gloss": "skrusem"
+      "gloss": "salim em i go"
     },
     {
       "surface": "כל",
@@ -123,6 +97,6 @@
       "gloss": "de bilong laip bilong em"
     }
   ],
-  "timestamp": "2026-10-18T19:02:57.817753268Z",
+  "timestamp": "2026-10-19T00:36:32.351501247Z",
   "model": "glm-5.3"
 }

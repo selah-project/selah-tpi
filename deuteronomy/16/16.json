@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tripela taim long yia",
-      "rationale": "Ves i kaunim ol taim bilong pes — tripela hag, nem bilong wanwan i stap."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ריקם",
-      "rationale": "Letarel 'nating' \/ hankap tumas — em i minim ol i mas bringim samting long hag, i no ken kam long han nating."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לראות את פני",
-      "rationale": "Letarel 'lukim fes bilong Yahwe' — Tok Pisin 'kamap long fes bilong' i holim piksa yet."
-    }
-  ],
-  "translation": "Tripela taim long wanpela yia, olgeta man bilong yu bai i kamap long fes bilang Yahwe Elohim bilong yu, long ples we em bai makim: long hag bilong bret i no gat yis, na long hag bilong ol wiki, na long hag bilong Sukot; na ol i no ken kamap ⟨long⟩ fes bilong Yahwe long han nating.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/16\/13-16.1792350027721.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tripela taim long wanpela yia, olgeta man bilong yu bai i kam lukim ⟨את⟩ pes bilong Yahwe Elohim bilong yu long ples we em bai i makim, long festival bilong bret nogat yis, na long festival bilong ol wiki, na long festival bilong ol haus sel; na ol i no ken kam lukim ⟨את⟩ pes bilong Yahwe wantaim nating.",
   "tokens": [
     {
       "surface": "שלוש",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יראה",
-      "gloss": "bai i kamap long fes"
+      "gloss": "bai i kam lukim"
     },
     {
       "surface": "כל",
@@ -60,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fes bilong Yahwe Elohim bilong yu"
+      "marks": "pes"
     },
     {
       "surface": "פני",
-      "gloss": "fes bilong"
+      "gloss": "pes"
     },
     {
       "surface": "יהוה",
@@ -84,48 +58,48 @@
     },
     {
       "surface": "יבחר",
-      "gloss": "em bai makim"
+      "gloss": "em bai i makim"
     },
     {
       "surface": "בחג",
-      "gloss": "long hag"
+      "gloss": "long festival bilong"
     },
     {
       "surface": "המצות",
-      "gloss": "bilong bret i no gat yis"
+      "gloss": "bret nogat yis"
     },
     {
       "surface": "ובחג",
-      "gloss": "na long hag"
+      "gloss": "na long festival bilong"
     },
     {
       "surface": "השבעות",
-      "gloss": "bilong ol wiki"
+      "gloss": "ol wiki"
     },
     {
       "surface": "ובחג",
-      "gloss": "na long hag"
+      "gloss": "na long festival bilong"
     },
     {
       "surface": "הסכות",
-      "gloss": "bilong Sukot"
+      "gloss": "ol haus sel"
     },
     {
       "surface": "ולא",
-      "gloss": "na ol i no ken"
+      "gloss": "na i no ken"
     },
     {
       "surface": "יראה",
-      "gloss": "kamap long fes"
+      "gloss": "kam lukim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fes bilong Yahwe"
+      "marks": "pes"
     },
     {
       "surface": "פני",
-      "gloss": "fes bilong"
+      "gloss": "pes"
     },
     {
       "surface": "יהוה",
@@ -133,9 +107,9 @@
     },
     {
       "surface": "ריקם",
-      "gloss": "long han nating"
+      "gloss": "wantaim nating"
     }
   ],
-  "timestamp": "2026-10-18T19:00:27.723038609Z",
+  "timestamp": "2026-10-19T00:36:25.913846072Z",
   "model": "glm-5.3"
 }

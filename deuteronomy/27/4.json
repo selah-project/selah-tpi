@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "pinis",
-      "rationale": "infinitive bilong Hebrew 'when you cross' — Tok Pisin i nidim 'pinis' o 'taim'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "maunden Ebal",
-      "rationale": "ples i gat nem — ol i makim ples bilong kirapim ol ston"
-    }
-  ],
-  "translation": "Na taim yupela i go antap long ⟨את⟩ Yarden pinis, yupela i ken kirapim ⟨את⟩ ol dispela ston, olsem mi Tok Pisin bilong givim lo long yupela ⟨long⟩ dispela de, long maunden Ebal, na yu kapsaitim ⟨את⟩ ol long saim.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/1-4.1792350237540.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em bai i kamap: taim yu ol i go braut long ⟨את⟩ Yarden, yu ol i kirapim ⟨את⟩ dispela ol ston, we mi, Anokoi, i gat tok wantaim ⟨את⟩ yu ol long dispela de, long maunten Ebal; na yu ol i putim ⟨את⟩ ol long said.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Na em i kamap"
+      "gloss": "Na em bai i kamap"
     },
     {
       "surface": "בעברכם",
-      "gloss": "taim yupela i go antap long"
+      "gloss": "taim yu ol i go braut long"
     },
     {
       "surface": "את",
@@ -47,16 +26,16 @@
     },
     {
       "surface": "תקימו",
-      "gloss": "pinis, yupela i ken kirapim"
+      "gloss": "yu ol i kirapim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol dispela ston"
+      "marks": "dispela ol ston"
     },
     {
       "surface": "האבנים",
-      "gloss": "ol ston"
+      "gloss": "dispela ol ston"
     },
     {
       "surface": "האלה",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "olsem"
+      "gloss": "we"
     },
     {
       "surface": "אנכי",
@@ -72,19 +51,20 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "mi Tok Pisin bilong givim lo long yupela"
+      "gloss": "i gat tok wantaim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩ yu ol",
+      "marks": "yu ol (tok i go long ol)"
     },
     {
       "surface": "היום",
-      "gloss": "dispela de"
+      "gloss": "long dispela de"
     },
     {
       "surface": "בהר",
-      "gloss": "long maunden"
+      "gloss": "long maunten"
     },
     {
       "surface": "עיבל",
@@ -92,18 +72,18 @@
     },
     {
       "surface": "ושדת",
-      "gloss": "na yu kapsaitim"
+      "gloss": "na yu ol i putim ol long said"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ol (ston)"
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol ston"
     },
     {
       "surface": "בשיד",
-      "gloss": "long saim"
+      "gloss": "long said"
     }
   ],
-  "timestamp": "2026-10-18T19:03:57.543163855Z",
+  "timestamp": "2026-10-19T00:36:56.526528044Z",
   "model": "glm-5.3"
 }

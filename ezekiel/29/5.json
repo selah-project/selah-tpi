@@ -5,45 +5,25 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יאריך",
-      "rationale": "'wara bilong yu' — Hebrew יאר i minim Nil na ol kanela, Tok Pisin i no gat wanpela tok bilong em."
-    },
-    {
-      "kind": "addition",
-      "subject": "bai ol i",
-      "rationale": "Hebrew i no gat man i kisim bek; Tok Pisin i needim man bilong verb."
-    }
-  ],
-  "translation": "Na bai mi tromoi yu go long ples wailbus, yu wantaim ⟨את⟩ olgeta pis bilong ol wara bilong yu; bai yu pundaun long pes bilong gaden; bai ol i no kisim yu bek, na ol i no bai olsem yu wantaim; long ol animal bilong graun na long ol pisin bilong skai mi givim yu bilong kaikai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6259207c75eb5328c10b54ed9170e8492f06ad95e8dfc1a9c6435aa5df65a34d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/29\/5-8.1792356504518.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi bai brukim ⟨את⟩ yu go long wailbus, yu wantaim ⟨את⟩ olgeta pis bilong ol wara bilong yu; bai yu pundaun long pes bilong graun gaden; ol i no ken kisim yu bek, na ol i no ken bungim yu; mi givim yu long ol animal bilong graun na long ol pisin bilong skai bilong kaikai.",
   "tokens": [
     {
       "surface": "ונטשתיך",
-      "gloss": "bai mi tromoi yu"
+      "gloss": "na mi bai brukim yu go"
     },
     {
       "surface": "המדברה",
-      "gloss": "long ples wailbus"
+      "gloss": "long wailbus"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ yu"
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu (Farao)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "olgeta pis bilong ol wara bilong yu"
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "olgeta pis bilong ol wara"
     },
     {
       "surface": "כל",
@@ -67,7 +47,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "bilong gaden"
+      "gloss": "bilong graun gaden"
     },
     {
       "surface": "תפול",
@@ -79,7 +59,7 @@
     },
     {
       "surface": "תאסף",
-      "gloss": "bai ol i kisim yu bek"
+      "gloss": "ken kisim yu bek"
     },
     {
       "surface": "ולא",
@@ -87,7 +67,7 @@
     },
     {
       "surface": "תקבץ",
-      "gloss": "bai ol i olsem yu wantaim"
+      "gloss": "ken bungim yu"
     },
     {
       "surface": "לחית",
@@ -114,6 +94,6 @@
       "gloss": "bilong kaikai"
     }
   ],
-  "timestamp": "2026-10-18T20:48:24.518885528Z",
+  "timestamp": "2026-10-19T00:39:53.954398879Z",
   "model": "glm-5.3"
 }

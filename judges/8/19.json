@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "Olsem Yahwe i stap liv",
-      "rationale": "חי יהוה em i bet bilong Tok Pisin — 'olsem Yahwe i tru i liv' — sapos tok i giaman, Yahwe i no moa liv"
-    },
-    {
-      "kind": "substitution",
-      "subject": "litimap",
-      "rationale": "החיא causative bilong חיה 'mekim i liv' — 'salim i liv'"
-    }
-  ],
-  "translation": "Na em i tok: Ol brata bilong mi, pikinini bilong mama bilong mi, ol ⟨i⟩ stap. Olsem Yahwe i stap liv — sapos yu ol bin litimap ol, mi no bin kilim ⟨את⟩ yupa.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/8\/17-20.1792351195586.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tok: Ol brata bilong mi, pikinini bilong mama bilong mi, ol ⟨i⟩ stap; olsem Yahwe i stap beltaim, sapos yupela i larim ⟨את⟩ ol i stap laip, mi no inap kilim ⟨את⟩ yupela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na em i tok"
+      "gloss": "na em i tok"
     },
     {
       "surface": "אחי",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "ol"
+      "gloss": "ol i stap"
     },
     {
       "surface": "חי",
-      "gloss": "i stap liv"
+      "gloss": "i stap beltaim"
     },
     {
       "surface": "יהוה",
@@ -62,11 +41,12 @@
     },
     {
       "surface": "החיתם",
-      "gloss": "yu ol bin litimap"
+      "gloss": "larim ⟨את⟩ ol i stap laip"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol brata bilong mi)"
     },
     {
       "surface": "לא",
@@ -74,13 +54,14 @@
     },
     {
       "surface": "הרגתי",
-      "gloss": "mi bin kilim"
+      "gloss": "mi kilim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupa"
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela (Zeba na Salmuna)"
     }
   ],
-  "timestamp": "2026-10-18T19:19:55.587679311Z",
+  "timestamp": "2026-10-19T00:47:48.403498840Z",
   "model": "glm-5.3"
 }

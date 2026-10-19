@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "'Na save' i holim ting bilong כי; no gat wanpela Tok Pisin tok stret"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חסיד",
-      "rationale": "'Man khesed' — khesed em wok bilong marimari\/loyalti; 'man holi' o 'man gutpela' i lusim dis"
-    },
-    {
-      "kind": "you",
-      "subject": "yu ol man",
-      "rationale": " imperativ 'save' i go long ol man i harim"
-    }
-  ],
-  "translation": "Na yu ol man save: Yahwe i makim man khesed bilong em yet; Yahwe bai harim taim mi singaut long em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/4\/1-4.1792357838621.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yupela i save long olsem: Yahwe i senisim ⟨את⟩ man khesed bilong em i kamap olgeta bilong em; Yahwe bai i harim taim mi singaut long em.",
   "tokens": [
     {
       "surface": "ודעו",
-      "gloss": "na yu ol man save"
+      "gloss": "na yupela i save"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "long olsem"
     },
     {
       "surface": "הפלה",
-      "gloss": "i makim man i go ausait long"
+      "gloss": "i senisim i go ausait"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "bilong em yet"
+      "gloss": "bilong em"
     },
     {
       "surface": "יהוה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ישמע",
-      "gloss": "bai harim"
+      "gloss": "bai i harim"
     },
     {
       "surface": "בקראי",
@@ -74,6 +48,6 @@
       "gloss": "long em"
     }
   ],
-  "timestamp": "2026-10-18T21:10:38.622800729Z",
+  "timestamp": "2026-10-19T00:50:39.120615261Z",
   "model": "glm-5.3"
 }

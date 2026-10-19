@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רב טבחים",
-      "rationale": "Tok i tok 'bikman bilong ol katim-man' (butcher) — em i kapsaitim nem bilong ol man bilong katim, ol i kamap sutiman bilong king."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הנפש",
-      "rationale": "nefesh — em i samting i got win\/laip, hia mi tanim 'olgeta man'."
-    },
-    {
-      "kind": "crux",
-      "subject": "את גדליהו",
-      "rationale": "Hia את em i preposition 'wantaim', i no aleph-tav bilong makim objekt — 'i livim wantaim Gedalya'."
-    }
-  ],
-  "translation": "⟨את⟩ ol man, na ⟨את⟩ ol meri, na ⟨את⟩ ol pikinini, na ⟨את⟩ ol dauta bilong king, na ⟨את⟩ olgeta man we Nevuzaradan, bikman bilong ol katim-man, i livim wantaim Gedalya pikinini bilong Akikam pikinini bilong Safan, wantaim ⟨את⟩ profet Yeremaya, na ⟨את⟩ Baruk pikinini bilong Neriya.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "49f36c35806e72bc5204f6f8dc911c782beada782e2534627dee5f6c9ddd849d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/43\/5-8.1792355756664.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ ol man, na ⟨את⟩ ol meri, na ⟨את⟩ ol pikinini, na ⟨את⟩ ol pikinini meri bilong king, na ⟨את⟩ olgeta manmeri we Nevuzaradan, bikman bilong ol man i katim ol, i livim ⟨את⟩ long Gedalyahu pikinini bilong Akikam, pikinini bilong Safan, na ⟨את⟩ profet Yirmeyahu, na ⟨את⟩ Baruk pikinini bilong Neriyahu.",
   "tokens": [
     {
       "surface": "את",
@@ -63,11 +37,11 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "ol dauta bilong king"
+      "marks": "ol pikinini meri bilong king"
     },
     {
       "surface": "בנות",
-      "gloss": "ol dauta bilong"
+      "gloss": "ol pikinini meri"
     },
     {
       "surface": "המלך",
@@ -76,7 +50,7 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "olgeta man"
+      "marks": "olgeta manmeri"
     },
     {
       "surface": "כל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "man"
+      "gloss": "manmeri"
     },
     {
       "surface": "אשר",
@@ -104,15 +78,16 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "ol katim-man"
+      "gloss": "ol man i katim ol"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ wantaim"
+      "gloss": "⟨את⟩ long",
+      "marks": "Gedalyahu"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalya"
+      "gloss": "Gedalyahu"
     },
     {
       "surface": "בן",
@@ -132,12 +107,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "wantaim ⟨את⟩",
-      "marks": "profet Yeremaya"
+      "gloss": "na ⟨את⟩",
+      "marks": "profet Yirmeyahu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yeremaya"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "הנביא",
@@ -146,7 +121,7 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "Baruk pikinini bilong Neriya"
+      "marks": "Baruk"
     },
     {
       "surface": "ברוך",
@@ -158,9 +133,9 @@
     },
     {
       "surface": "נריהו",
-      "gloss": "Neriya"
+      "gloss": "Neriyahu"
     }
   ],
-  "timestamp": "2026-10-18T20:35:56.665351988Z",
+  "timestamp": "2026-10-19T00:45:51.042442077Z",
   "model": "glm-5.3"
 }

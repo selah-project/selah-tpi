@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "panim",
-      "rationale": "לפני את פני — pes: Tok Pisin 'long pes bilong' i holim tupela pasin bilong 'lipni' na 'et penai'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "seven taim",
-      "rationale": "Namba seven i makim pasin bilong skaterim blut — kaunim i stap long ves."
-    }
-  ],
-  "translation": "Na pris i ken putim ⟨את⟩ pinga bilong ⟨em⟩ long blut, na em i ken skaterim sampela blut sevenpela taim stap long pes bilong Yahwe, long pes bilong kloss bilong holi ples.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/4\/5-8.1792348350969.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na pris i putim ⟨את⟩ pinga bilong em long blut, na em i skaterim olgeta smol blut klostu long tufela sevenpela taim stap long pes bilong Yahwe, long pes bilong paroket bilong ples holi.",
   "tokens": [
     {
       "surface": "וטבל",
-      "gloss": "i ken putim"
+      "gloss": "i putim"
     },
     {
       "surface": "הכהן",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "והזה",
-      "gloss": "i ken skaterim"
+      "gloss": "na em i skaterim"
     },
     {
       "surface": "מן",
-      "gloss": "sampela bilong"
+      "gloss": "klostu long"
     },
     {
       "surface": "הדם",
@@ -79,21 +58,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ long pes bilong"
+      "gloss": "⟨את⟩",
+      "marks": "pes"
     },
     {
       "surface": "פני",
-      "gloss": "pes bilong"
+      "gloss": "pes"
     },
     {
       "surface": "פרכת",
-      "gloss": "kloss"
+      "gloss": "paroket"
     },
     {
       "surface": "הקדש",
-      "gloss": "holi ples"
+      "gloss": "ples holi"
     }
   ],
-  "timestamp": "2026-10-18T18:32:30.970534122Z",
+  "timestamp": "2026-10-19T00:48:48.736791534Z",
   "model": "glm-5.3"
 }

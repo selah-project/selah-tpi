@@ -5,57 +5,31 @@
   "book": "proverbs",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "סוד",
-      "rationale": "verse concerns the sod — the intimate council\/secret — and its betrayal"
-    },
-    {
-      "kind": "substitution",
-      "subject": "סוד",
-      "gloss-note": "rendered 'sod' as a near-technical term: close council, intimate secret, not just 'saparai'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ולפתה שפתיו",
-      "rationale": "'opens wide his lips' — babbling (JPS, ASV) vs flattering (Geneva, KJV follow different tradition); Tok Pisin keeps the literal opening"
-    }
-  ],
-  "translation": "Man i wokabaut olgeta ples i stori nogut, em i autim ⟨את⟩ sod; olsem na, no ken miksim wantaim man i opim ol lip bilong en tumas.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/20\/17-20.1792359654680.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Man i autim ⟨את⟩ sod, em i wokabaut olsem man i spredim tok nogut; na long man i opim ol gut bilong em, no ken painim klostu.",
   "tokens": [
     {
       "surface": "גולה",
-      "gloss": "i autim"
+      "gloss": "man i autim"
     },
     {
       "surface": "סוד",
-      "gloss": "⟨את⟩ sod"
+      "gloss": "sod"
     },
     {
       "surface": "הולך",
-      "gloss": "man i wokabaut olgeta ples"
+      "gloss": "i wokabaut"
     },
     {
       "surface": "רכיל",
-      "gloss": "i stori nogut"
+      "gloss": "olsem man i spredim tok nogut"
     },
     {
       "surface": "ולפתה",
-      "gloss": "i opim tumas"
+      "gloss": "na long man i opim"
     },
     {
       "surface": "שפתיו",
-      "gloss": "ol lip bilong en"
+      "gloss": "ol gut bilong em"
     },
     {
       "surface": "לא",
@@ -63,9 +37,9 @@
     },
     {
       "surface": "תתערב",
-      "gloss": "miksim wantaim"
+      "gloss": "painim klostu"
     }
   ],
-  "timestamp": "2026-10-18T21:40:54.681718782Z",
+  "timestamp": "2026-10-19T00:50:16.897652853Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "long Akazia",
-      "rationale": "tok bilong Yahwe i go dairek long king, long han bilong mesinja"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מות תמות",
-      "rationale": "infinitive absolute: 'dai, bai yu dai' — mi tanim 'bai yu dai tru'"
-    },
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "'long en' i stap long tok klostu, no nidimwanpela tok moa"
-    }
-  ],
-  "translation": "Olsem na, Yahwe i tok olsem: Long bed we yu go antap long en, yu bai no go daun long en, long wanem, bai yu dai tru. Na Eliya i go.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/1\/1-4.1792353278757.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem, Yahwe i tok olsem: Long bet yu go antap long em, bai yu no ken kamdaun long em, long wanem, bai yu dai tru. Na Eliya i go.",
   "tokens": [
     {
       "surface": "ולכן",
-      "gloss": "Olsem na"
+      "gloss": "Olsem"
     },
     {
       "surface": "כה",
@@ -51,31 +25,31 @@
     },
     {
       "surface": "המטה",
-      "gloss": "Long bed"
+      "gloss": "bet"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "עלית",
-      "gloss": "yu go antap long en"
+      "gloss": "yu go antap"
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "long en"
     },
     {
       "surface": "לא",
-      "gloss": "no"
+      "gloss": "no ken"
     },
     {
       "surface": "תרד",
-      "gloss": "yu bai go daun long en"
+      "gloss": "kamdaun"
     },
     {
       "surface": "ממנה",
-      "gloss": "long en"
+      "gloss": "long em"
     },
     {
       "surface": "כי",
@@ -87,17 +61,17 @@
     },
     {
       "surface": "תמות",
-      "gloss": "yu bai dai tru"
+      "gloss": "dai tru"
     },
     {
       "surface": "וילך",
-      "gloss": "Na Eliya i go"
+      "gloss": "i go"
     },
     {
       "surface": "אליה",
-      "gloss": ""
+      "gloss": "Eliya"
     }
   ],
-  "timestamp": "2026-10-18T19:54:38.758962411Z",
+  "timestamp": "2026-10-19T00:32:19.125193456Z",
   "model": "glm-5.3"
 }

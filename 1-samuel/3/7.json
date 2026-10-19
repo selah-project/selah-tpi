@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "no",
-      "rationale": "טרם 'not-yet' presupposes negation; Tok Pisin must supply no in both clauses"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kamap klia",
-      "rationale": "יגלה 'be uncovered\/revealed' rendered as 'come clear'; the stripping image is softened"
-    }
-  ],
-  "translation": "Na Shemuel i no save long Yahwe yet, na tok bilong Yahwe i no bin kamap klia long em yet.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/5-8.1792351541061.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Semuel i no save long Yahwe yet, na tok bilong Yahwe i no yet i kamap klia long em.",
   "tokens": [
     {
       "surface": "ושמואל",
-      "gloss": "na Shemuel"
+      "gloss": "Na Semuel"
     },
     {
       "surface": "טרם",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "וטרם",
-      "gloss": "na ... yet"
+      "gloss": "na … yet"
     },
     {
       "surface": "יגלה",
-      "gloss": "i no bin kamap klia"
+      "gloss": "i no yet i kamap klia"
     },
     {
       "surface": "אליו",
@@ -63,13 +42,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "tok"
+      "gloss": "tok bilong"
     },
     {
       "surface": "יהוה",
-      "gloss": "bilong Yahwe"
+      "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T19:25:41.062334403Z",
+  "timestamp": "2026-10-19T00:30:51.102064408Z",
   "model": "glm-5.3"
 }

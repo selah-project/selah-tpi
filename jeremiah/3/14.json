@@ -5,50 +5,19 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שובו\/שובבים",
-      "rationale": "root שוב i kamap tupela tok: 'kirap i kam bek' na 'ol i go bek long rot nogut' — pilaia i lus long Tok Pisin"
-    },
-    {
-      "kind": "crux",
-      "subject": "בעלתי",
-      "rationale": "בעל i bin 'man bilong\/marit' — KJV 'mi maritim yu', JPS 'mi i man bilong yu'; tok i zug long Baal tu, na ol translator i no agri"
-    },
-    {
-      "kind": "you",
-      "subject": "Yisrael",
-      "rationale": "Yahwe i singautim ol pikinini man bilong en long kirap i kam bek"
-    },
-    {
-      "kind": "invitation",
-      "subject": "kirap i kam bek",
-      "rationale": "plural imperative — singaut bilong Yahwe long ol pikinini man bilong en"
-    }
-  ],
-  "translation": "Kirap i kam bek, ol pikinini man i go bek long rot nogut, Yahwe i tok; long wanem mi i man bilong yu ⟨tegere>, na bai mi tekim yupela — wanpela man long wanpela siti, na tupela man long wanpela famili — na bai mi bringim yupela i go long Tsiyon.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8ff1da43b5b9f1edf590e6c17b6c7f1ead1add17687c259c67a12def594e5807",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/3\/13-16.1792354991056.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kam bek, ol pikinini ol i save go bek, Yahwe i tok, bilong mi bosim pinis yupela; na bai mi kisim ⟨את⟩ yupela — wanpela long wanpela siti na tupela long wanpela famili — na bai mi bringim ⟨את⟩ yupela i kamap long Tsiyon.",
   "tokens": [
     {
       "surface": "שובו",
-      "gloss": "kirap i kam bek"
+      "gloss": "kam bek"
     },
     {
       "surface": "בנים",
-      "gloss": "ol pikinini man"
+      "gloss": "ol pikinini"
     },
     {
       "surface": "שובבים",
-      "gloss": "ol i go bek long rot nogut"
+      "gloss": "ol i save go bek"
     },
     {
       "surface": "נאם",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "אנכי",
@@ -68,23 +37,24 @@
     },
     {
       "surface": "בעלתי",
-      "gloss": "mi i man bilong"
+      "gloss": "bosim pinis"
     },
     {
       "surface": "בכם",
-      "gloss": "yu"
+      "gloss": "yupela"
     },
     {
       "surface": "ולקחתי",
-      "gloss": "na bai mi tekim"
+      "gloss": "na bai mi kisim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
     },
     {
       "surface": "אחד",
-      "gloss": "wanpela man"
+      "gloss": "wanpela"
     },
     {
       "surface": "מעיר",
@@ -92,7 +62,7 @@
     },
     {
       "surface": "ושנים",
-      "gloss": "na tupela man"
+      "gloss": "na tupela"
     },
     {
       "surface": "ממשפחה",
@@ -104,13 +74,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩",
+      "marks": "yupela i go long Tsiyon"
     },
     {
       "surface": "ציון",
-      "gloss": "long Tsiyon"
+      "gloss": "Tsiyon"
     }
   ],
-  "timestamp": "2026-10-18T20:23:11.057985355Z",
+  "timestamp": "2026-10-19T00:44:59.178720863Z",
   "model": "glm-5.3"
 }

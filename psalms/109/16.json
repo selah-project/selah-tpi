@@ -5,58 +5,27 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Tok Pisin needs the object pronoun for 'to kill him\/them'; Hebrew leaves למותת bare."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "gloss-note": "לבב rendered 'bel' per D4 — heart as seat of feeling in Hebrew, belly\/insides in Tok Pisin idiom."
-    },
-    {
-      "kind": "substitution",
-      "subject": "khesed",
-      "gloss-note": "חסד kept as 'khesed' per D2 — kindness\/loyalty; 'marimari' alone would mislead."
-    },
-    {
-      "kind": "crux",
-      "subject": "ונכאה לבב",
-      "rationale": "'smitten of heart' — a beaten-down heart rather than 'brokenhearted' (grief); renderings split between 'broken in heart' (KJV) and 'crushed in spirit' sense."
-    }
-  ],
-  "translation": "Long wanem em i no tingim long wokim khesed, tasol em i bihainim ⟨את⟩ man poro na ⟨את⟩ man i no gat samting, na ⟨את⟩ man bel i bruk, bilong kilim ⟨em⟩.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/109\/13-16.1792359055822.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bihain long wanem em i no tingting bilong wokim khesed, na em i bihainim man bilong pundaun na man i no gat samting, na man bel i pundaun, bilong kilim i dai.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "long wanem"
+      "gloss": "bihain long wanem"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "long"
     },
     {
       "surface": "לא",
-      "gloss": "i no"
+      "gloss": "no"
     },
     {
       "surface": "זכר",
-      "gloss": "tingim"
+      "gloss": "tingting"
     },
     {
       "surface": "עשות",
-      "gloss": "long wokim"
+      "gloss": "bilong wokim"
     },
     {
       "surface": "חסד",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "וירדף",
-      "gloss": "tasol em i bihainim"
+      "gloss": "na em i bihainim"
     },
     {
       "surface": "איש",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "עני",
-      "gloss": "poro"
+      "gloss": "bilong pundaun"
     },
     {
       "surface": "ואביון",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "ונכאה",
-      "gloss": "na man bel i bruk"
+      "gloss": "na man bel i pundaun"
     },
     {
       "surface": "לבב",
@@ -88,9 +57,9 @@
     },
     {
       "surface": "למותת",
-      "gloss": "bilong kilim"
+      "gloss": "bilong kilim i dai"
     }
   ],
-  "timestamp": "2026-10-18T21:30:55.823199063Z",
+  "timestamp": "2026-10-19T00:50:22.662657526Z",
   "model": "glm-5.3"
 }

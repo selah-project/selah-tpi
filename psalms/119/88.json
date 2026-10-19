@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "khesed",
-      "rationale": "חסד i stap olsem khesed — marimari tasol i no kaunim olgeta bilong en"
-    }
-  ],
-  "translation": "Long khesed bilong yu, givim laik bilong mi gen, na bai mi lukautim ⟨את⟩ ol tok bilong mau bilong yu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/119\/85-88.1792359143065.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long khesed bilong yu, kirapim mi gen long laip, na bai mi lukautim ⟨את⟩ ol tok baksait bilong maus bilong yu.",
   "tokens": [
     {
       "surface": "כחסדך",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "חיני",
-      "gloss": "givim laik bilong mi gen"
+      "gloss": "kirapim mi gen long laip"
     },
     {
       "surface": "ואשמרה",
@@ -37,13 +21,14 @@
     },
     {
       "surface": "עדות",
-      "gloss": "⟨את⟩ ol tok bilong maur"
+      "gloss": "⟨את⟩ ol tok baksait",
+      "marks": "ol tok baksait"
     },
     {
       "surface": "פיך",
-      "gloss": "mau bilong yu"
+      "gloss": "bilong maus bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T21:32:23.066470725Z",
+  "timestamp": "2026-10-19T00:52:28.778009995Z",
   "model": "glm-5.3"
 }

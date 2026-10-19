@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Shelomo (king)",
-      "rationale": "Huram's letter states the transport arrangement, addressing Solomon as 'yu'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "rafsodot",
-      "rationale": "רפסדות (rafts) — wordplay-name with Hiram's workman Hiram-abi? no: it appears only here and 2Chr 2:15\/\/1Chr 22? rare term for log-rafts, kept literal."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "nekhrot\/naveam",
-      "rationale": "Hebrew repeats verb pairs katim\/bringim plainly; no pun lost — but note on 'al yam: 'over the sea' kept as 'antap long solwara'."
-    }
-  ],
-  "translation": "Na mipela bai katim ol diwai long Lebnon, olsem olgeta samting yu nidim, na mipela bai bringim ⟨את⟩ olgeta i kam long yu long ol raflong, antap long solwara, i go long Yafo; na yu bai karim ⟨את⟩ olgeta i go antap long Yerusalayim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/2\/13-16.1792362367984.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yumi bilong hia mipela i kaitim ol diwai long Lebnon, olsem olgeta samting yu laikim, na mipela i bringim i kam long yu long ol raft i go long solwara Japo, na yu bai karim ⟨את⟩ olgeta i antap long Yerusalayim.",
   "tokens": [
     {
       "surface": "ואנחנו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "נכרת",
-      "gloss": "bai katim"
+      "gloss": "i kaitim"
     },
     {
       "surface": "עצים",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "צרכך",
-      "gloss": "samting yu nidim"
+      "gloss": "samting yu laikim"
     },
     {
       "surface": "ונביאם",
-      "gloss": "na mipela bai bringim ⟨את⟩ olgeta i kam"
+      "gloss": "na mipela i bringim i kam"
     },
     {
       "surface": "לך",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "רפסדות",
-      "gloss": "long ol raflong"
+      "gloss": "ol raft"
     },
     {
       "surface": "על",
-      "gloss": "antap long"
+      "gloss": "long"
     },
     {
       "surface": "ים",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "יפו",
-      "gloss": "Yafo"
+      "gloss": "Japo"
     },
     {
       "surface": "ואתה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "bai karim ⟨את⟩ olgeta i go antap"
+      "gloss": "bai karim i antap"
     },
     {
       "surface": "אתם",
@@ -103,6 +77,6 @@
       "gloss": "Yerusalayim"
     }
   ],
-  "timestamp": "2026-10-18T22:26:07.985572993Z",
+  "timestamp": "2026-10-19T00:31:05.442741617Z",
   "model": "glm-5.3"
 }

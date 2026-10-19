@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הרעה",
-      "rationale": "tok i min 'wok bilong lukautim sipsip' — JPS 'shepherd'; Tok Pisin i holim piksa bilong sipsip"
-    },
-    {
-      "kind": "measurement",
-      "subject": "מעודי עד היום הזה",
-      "rationale": "taim bilong laip i skelim — stat long taim mi kamap inap long dispela de"
-    }
-  ],
-  "translation": "Na i barekim ⟨את⟩ Yosef, na i tok olsem: HaElohim, ol ia ol papa bilong mi — Avraham na Yitsak — i wokabaut long pes bilong en; HaElohim, em i save lusim mi gut long wokabaut olsem man i lukautim sipsip, stat long taim mi kamap yet inap long dispela de.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "ae6a3e29f2e5d88d418ae237d58e78f162bf8464a8f9ea965299d0a3727d48c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/13-16.1792347283148.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i blesim ⟨את⟩ Yosef, na em i tok: Elohim, long pes bilong en ol papa bilong mi Avraham na Yitsak i wokabaut; Elohim i wokim sipsip long ⟨את⟩ ⟨mi⟩, stat yet long taim mi kamap inap long dispela de.",
   "tokens": [
     {
       "surface": "ויברך",
-      "gloss": "i barekim"
+      "gloss": "i blesim"
     },
     {
       "surface": "את",
@@ -43,15 +22,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na i tok olsem"
+      "gloss": "na em i tok"
     },
     {
       "surface": "האלהים",
-      "gloss": "HaElohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשר",
-      "gloss": "ol ia"
+      "gloss": ""
     },
     {
       "surface": "התהלכו",
@@ -75,20 +54,20 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "HaElohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הרעה",
-      "gloss": "i save lukautim olsem sipsip"
+      "gloss": "i wokim sipsip long"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "mi"
+      "gloss": "⟨את⟩ ⟨mi⟩",
+      "marks": "mi, stat yet long taim mi kamap"
     },
     {
       "surface": "מעודי",
-      "gloss": "stat long taim mi kamap yet"
+      "gloss": "stat yet long taim mi kamap"
     },
     {
       "surface": "עד",
@@ -103,6 +82,6 @@
       "gloss": "dispela"
     }
   ],
-  "timestamp": "2026-10-18T18:14:43.150226463Z",
+  "timestamp": "2026-10-19T00:42:11.556719661Z",
   "model": "glm-5.3"
 }

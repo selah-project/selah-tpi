@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Imperative 'strongim em' addresses Israel through Moses."
-    },
-    {
-      "kind": "addition",
-      "subject": "en",
-      "rationale": "Object suffix -נה on ינחלנה ('the land') supplied as bracketed ⟨en⟩."
-    }
-  ],
-  "translation": "Yehosua, pikinini bilong Nun, man i sanap pastaim long yu — em bai go long hap. Strongim ⟨em⟩, long wanem em bai mekim ⟨את⟩ Yisrael i kisim ⟨en⟩.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/1\/37-40.1792349710960.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehoshua bilong Nun, em i sanapim klos long yu, em bai i go long en; givim strong ⟨את⟩ em, long wanem em bai i givim ⟨את⟩ Yisrael long en olsem kantri bilong ol.",
   "tokens": [
     {
       "surface": "יהושע",
-      "gloss": "Yehosua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "בן",
-      "gloss": "pikinini bilong"
+      "gloss": "pikinini man bilong"
     },
     {
       "surface": "נון",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "העמד",
-      "gloss": "i sanap"
+      "gloss": "i sanapim klos"
     },
     {
       "surface": "לפניך",
-      "gloss": "pastaim long yu"
+      "gloss": "long yu"
     },
     {
       "surface": "הוא",
@@ -54,20 +33,20 @@
     },
     {
       "surface": "יבא",
-      "gloss": "bai go"
+      "gloss": "bai i go"
     },
     {
       "surface": "שמה",
-      "gloss": "long hap"
+      "gloss": "long en"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "em (Yehosua)"
+      "marks": "givim strong em"
     },
     {
       "surface": "חזק",
-      "gloss": "strongim"
+      "gloss": "givim strong"
     },
     {
       "surface": "כי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ינחלנה",
-      "gloss": "bai mekim i kisim"
+      "gloss": "bai i givim long en olsem kantri bilong ol"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-18T18:55:10.962551975Z",
+  "timestamp": "2026-10-19T00:35:26.238354570Z",
   "model": "glm-5.3"
 }

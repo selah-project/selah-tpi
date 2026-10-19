@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kam lukaut long",
-      "rationale": "אפקד (paqad) i gat tupela mining — lukaut gutpela o lukaut nogut; long hia em i pasin bilong penim, olsem 'bai mi askim ol long bek long tingting bilong mi'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "putim nek long jok",
-      "rationale": "בעל — jok bilong bulmakau; Tok Pisin i gat 'putim nek long jok' olsem Tok Hibru putim צואר בעל"
-    }
-  ],
-  "translation": "Na bai i kamap: ol lain kantri na kingdom we ol i no wokim long ⟨את⟩ em — ⟨את⟩ Nevukadnetsar, king bilong Bavel — na ⟨את⟩ ol we ol i no putim nek bilong ol long jok bilong king bilong Bavel, bai mi kam lukaut long ol lain kantri olgeta wantaim bainat, na wantaim hangre, na wantaim sik nogut — Yahwe i tok — i go inap mi pinisim ⟨את⟩ olgeta long han bilong em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6daa34ae43df54ac910cc02c1020e968402961072fa170fadbff0c42b14dfd21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/27\/5-8.1792355392250.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na bai i kamap: ol lain kantri na ol gavman i no ken wokim ⟨את⟩ ⟨em⟩ — Nebukadnesar, king bilong Babel — na ol i no ken salim ⟨את⟩ nek bilong ol insait long jok bilong king bilong Babel, bai mi skelim wantaim bainat, na hangre, na sik nupela ⟨antap long⟩ lain kantri olsem — Yahwe i tok — inap mi pinisim ⟨את⟩ olgeta long han bilong em.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "na bai i kamap"
+      "gloss": "Na bai i kamap"
     },
     {
       "surface": "הגוי",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "והממלכה",
-      "gloss": "na kingdom"
+      "gloss": "na ol gavman"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "לא",
@@ -50,37 +29,38 @@
     },
     {
       "surface": "יעבדו",
-      "gloss": "i wokim long"
+      "gloss": "ken wokim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩",
+      "marks": "Nebukadnesar, king bilong Babel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nevukadnetsar, king bilong Bavel"
+      "marks": "Nebukadnesar, king bilong Babel"
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nevukadnetsar"
+      "gloss": "Nebukadnesar"
     },
     {
       "surface": "מלך",
-      "gloss": "king bilong"
+      "gloss": "king"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "ol we i no putim nek bilong ol long jok"
+      "marks": "ol i no ken salim nek bilong ol"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "לא",
@@ -88,7 +68,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "i putim"
+      "gloss": "ken salim"
     },
     {
       "surface": "את",
@@ -101,15 +81,15 @@
     },
     {
       "surface": "בעל",
-      "gloss": "long jok bilong"
+      "gloss": "insait long jok"
     },
     {
       "surface": "מלך",
-      "gloss": "king bilong"
+      "gloss": "king"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "בחרב",
@@ -117,27 +97,27 @@
     },
     {
       "surface": "וברעב",
-      "gloss": "na wantaim hangre"
+      "gloss": "na hangre"
     },
     {
       "surface": "ובדבר",
-      "gloss": "na wantaim sik nogut"
+      "gloss": "na sik nupela"
     },
     {
       "surface": "אפקד",
-      "gloss": "bai mi kam lukaut long"
+      "gloss": "bai mi skelim"
     },
     {
       "surface": "על",
-      "gloss": "long"
+      "gloss": "antap long"
     },
     {
       "surface": "הגוי",
-      "gloss": "ol lain kantri"
+      "gloss": "lain kantri"
     },
     {
       "surface": "ההוא",
-      "gloss": "olgeta"
+      "gloss": "olsem"
     },
     {
       "surface": "נאם",
@@ -149,21 +129,22 @@
     },
     {
       "surface": "עד",
-      "gloss": "i go inap"
+      "gloss": "inap"
     },
     {
       "surface": "תמי",
-      "gloss": "mi pinisim"
+      "gloss": "mi pinisim olgeta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ olgeta"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta (ol lain kantri)"
     },
     {
       "surface": "בידו",
       "gloss": "long han bilong em"
     }
   ],
-  "timestamp": "2026-10-18T20:29:52.252435948Z",
+  "timestamp": "2026-10-19T00:45:16.978149926Z",
   "model": "glm-5.3"
 }

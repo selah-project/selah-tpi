@@ -5,52 +5,31 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ol dora bilong yupela",
-      "rationale": "Purpose clause addressed to Israel's generations so they may know."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sapos",
-      "rationale": "כי here rendered as 'long dispela\/sapos' — explanatory 'that', not conditional."
-    }
-  ],
-  "translation": "Bilong ol dora bilong yupela inap save long dispela: sapos long ol sukul mi bin mekim ol pikinini bilong Yisrael long stap, taim mi bin bringim ol ⟨את⟩ i go ausait long graun bilong Mitsrayim; mi Yahwe, Elohim bilong yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/41-44.1792348734484.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bilong olsem ol olgeta pikinini bilong yupela bai i save long wanem: long ol Sukot mi bilivim ⟨את⟩ ol pikinini bilong Yisrael i stap insait, taim mi bagarapim ⟨⟨em⟩⟩ ol i go ausait long graun bilong Mitsrayim. Mi Yahwe, Elohim bilong yupela.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "bilong"
+      "gloss": "bilong olsem"
     },
     {
       "surface": "ידעו",
-      "gloss": "inap save"
+      "gloss": "bai i save"
     },
     {
       "surface": "דרתיכם",
-      "gloss": "ol dora bilong yupela"
+      "gloss": "ol olgeta pikinini bilong yupela"
     },
     {
       "surface": "כי",
-      "gloss": "long dispela"
+      "gloss": "long wanem"
     },
     {
       "surface": "בסכות",
-      "gloss": "long ol sukul"
+      "gloss": "long ol Sukot"
     },
     {
       "surface": "הושבתי",
-      "gloss": "mi bin mekim ol long stap"
+      "gloss": "mi bilivim i stap insait"
     },
     {
       "surface": "את",
@@ -67,20 +46,19 @@
     },
     {
       "surface": "בהוציאי",
-      "gloss": "taim mi bin bringim ol i go ausait"
+      "gloss": "taim mi bagarapim ⟨em⟩ ol i go ausait"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol",
-      "marks": "ausait long graun"
+      "gloss": "⟨את⟩ ol"
     },
     {
       "surface": "מארץ",
-      "gloss": "long graun"
+      "gloss": "long graun bilong"
     },
     {
       "surface": "מצרים",
-      "gloss": "bilong Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "אני",
@@ -95,6 +73,6 @@
       "gloss": "Elohim bilong yupela"
     }
   ],
-  "timestamp": "2026-10-18T18:38:54.485577981Z",
+  "timestamp": "2026-10-19T00:48:10.815730493Z",
   "model": "glm-5.3"
 }

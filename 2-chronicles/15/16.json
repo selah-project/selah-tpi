@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מפלצת",
-      "rationale": "'samting i frighteningim man' — KJV 'idol in a grove' vs ASV 'abominable image for an Asherah'; mi tanim 'bikpela samting nogut'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לאשרה מפלצת ... מפלצתה",
-      "rationale": "Hebrew i ripitim מפלצת tupela taim — Tok Pisin i ripitim 'bikpela samting nogut bilong em' tu"
-    }
-  ],
-  "translation": "Na tu Maakha, mama bilong king Asa, em i rausim em long wok bilong kwin, bilong em i wokim wanpela bikpela samting nogut bilong Ashera. Na Asa i katim ⟨את⟩ bikpela samting nogut bilong em, i brukim olgeta, na i kukim long wara bilong Kidron.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "51afa861ce45eb013f3a06037f7a5a4c4bc533205fe8818c5dd894991f7f455c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/15\/13-16.1792362506946.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na tu, Maakha, mama bilong Asa king, em i rausim ⟨את⟩ em long ples bilong bikmeri bilong lain, bilong wanem em i wokim samting i kirapim pret long Asela; na Asa i katim ⟨את⟩ samting pret bilong em, i brukim olgeta i kamap smol, na i kukim long wara Kidron.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "na tu"
+      "gloss": "Na tu"
     },
     {
       "surface": "מעכה",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "הסירה",
-      "gloss": "em i rausim em"
+      "gloss": "em i rausim"
     },
     {
       "surface": "מגבירה",
-      "gloss": "long wok bilong kwin"
+      "gloss": "long ples bilong bikmeri bilong lain"
     },
     {
       "surface": "אשר",
-      "gloss": "bilong"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "עשתה",
@@ -66,42 +45,46 @@
     },
     {
       "surface": "לאשרה",
-      "gloss": "bilong Ashera"
+      "gloss": "long Asela"
     },
     {
       "surface": "מפלצת",
-      "gloss": "bikpela samting nogut"
+      "gloss": "samting i kirapim pret"
     },
     {
       "surface": "ויכרת",
-      "gloss": "na i katim"
+      "gloss": "i katim"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bikpela samting nogut bilong em"
+      "marks": "samting pret bilong em"
     },
     {
       "surface": "מפלצתה",
-      "gloss": "⟨את⟩ bikpela samting nogut bilong em"
+      "gloss": "samting pret bilong em"
     },
     {
       "surface": "וידק",
-      "gloss": "i brukim olgeta"
+      "gloss": "i brukim olgeta i kamap smol"
     },
     {
       "surface": "וישרף",
-      "gloss": "na i kukim"
+      "gloss": "i kukim"
     },
     {
       "surface": "בנחל",
-      "gloss": "long wara bilong"
+      "gloss": "long wara"
     },
     {
       "surface": "קדרון",
       "gloss": "Kidron"
     }
   ],
-  "timestamp": "2026-10-18T22:28:26.948281660Z",
+  "timestamp": "2026-10-19T00:31:13.916634339Z",
   "model": "glm-5.3"
 }

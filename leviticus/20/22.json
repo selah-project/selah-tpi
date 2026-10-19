@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "long Yisrael",
-      "rationale": "Yahwe i tok stret long ol lain Yisrael long olgeta tok-imperatif"
-    },
-    {
-      "kind": "substitution",
-      "subject": "truim",
-      "rationale": "קוֹא em i tok bilong truim — graun i ken truim man aut olsem bel i truim kaikai nogut; piksa bilong Hibru i stap"
-    }
-  ],
-  "translation": "Na yupela ken lukautim ⟨את⟩ olgeta lo bilong mi na ⟨את⟩ olgeta kot bilong mi, na yupela ken wokim olgeta, bilong graun we mi bringim ⟨את⟩ yupela go long en bilong stop long em, i no ken truim ⟨את⟩ yupela aut.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/20\/21-24.1792348718653.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yumi mas lukautim ⟨את⟩ olgeta lo bilong mi na ⟨את⟩ olgeta pasin bilong skelim bilong mi, na yumi mekim ⟨את⟩ olgeta; bilong graun, we mi bringim yumi go long en bilong stop long en, i no ken trimpekim yumi go ausait.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "yupela ken lukautim"
+      "gloss": "yumi mas lukautim"
     },
     {
       "surface": "את",
@@ -48,7 +27,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "olgeta kot bilong mi"
+      "marks": "olgeta pasin bilong skelim bilong mi"
     },
     {
       "surface": "כל",
@@ -56,15 +35,16 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "kot bilong mi"
+      "gloss": "pasin bilong skelim bilong mi"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "na yupela ken wokim"
+      "gloss": "na yumi mekim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ olgeta"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
     },
     {
       "surface": "ולא",
@@ -72,12 +52,11 @@
     },
     {
       "surface": "תקיא",
-      "gloss": "truim"
+      "gloss": "trimpekim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "yupela"
+      "gloss": "⟨את⟩ yumi"
     },
     {
       "surface": "הארץ",
@@ -93,12 +72,11 @@
     },
     {
       "surface": "מביא",
-      "gloss": "mi bringim"
+      "gloss": "bringim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "yupela"
+      "gloss": "⟨את⟩ yumi"
     },
     {
       "surface": "שמה",
@@ -110,9 +88,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "long em"
+      "gloss": "long en"
     }
   ],
-  "timestamp": "2026-10-18T18:38:38.654259779Z",
+  "timestamp": "2026-10-19T00:47:55.431872991Z",
   "model": "glm-5.3"
 }

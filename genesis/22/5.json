@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שבו לכם",
-      "rationale": "Hebrew 'sit for yourselves' — Tok Pisin 'yupela sindaun' drops the reflexive לכם."
-    },
-    {
-      "kind": "alternative",
-      "subject": "וְנָשׁוּבָה אֲלֵיכֶם",
-      "rationale": "Abraham says 'we will return' — read as faith (Heb 11:19) or as concealment from the servants."
-    },
-    {
-      "kind": "mystery",
-      "subject": "עַד כֹּה",
-      "rationale": "Abraham deliberately vague: 'as far as over there' — withholds from the servants what will happen."
-    }
-  ],
-  "translation": "Na Avraham i tokim ol boi bilong en: Yupela sindaun wantaim ⟨⟨⟩⟩ donki hia; mi na pikinini bai yumi go klostu long klostu, na yumi goesdaun, na yumi kamap bek long yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "ee1cc4c3e38cd3970757f7844553ba5a32841f2e40b4f83571c8edb53a322a55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/22\/5-8.1792346588672.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Avraham i tok long ol pikinini man bilong en: Yupela sanap wantaim ⟨⟨em⟩⟩ hia longpela taim wantaim donki; na mi na pikinini man bai yumi go kaha, na yumi beastim, na yumi kamap bek long yupela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tokim"
+      "gloss": "i tok"
     },
     {
       "surface": "אברהם",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "נעריו",
-      "gloss": "ol boi bilong en"
+      "gloss": "ol pikinini man bilong en"
     },
     {
       "surface": "שבו",
-      "gloss": "yupela sindaun"
+      "gloss": "sanap wantaim"
     },
     {
       "surface": "לכם",
-      "gloss": "long yupela"
+      "gloss": "longpela taim bilong yupela"
     },
     {
       "surface": "פה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "והנער",
-      "gloss": "na pikinini"
+      "gloss": "na pikinini man"
     },
     {
       "surface": "נלכה",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "go long"
+      "gloss": "kamap"
     },
     {
       "surface": "כה",
-      "gloss": "klostu"
+      "gloss": "kaha"
     },
     {
       "surface": "ונשתחוה",
-      "gloss": "na yumi goesdaun"
+      "gloss": "na yumi beastim"
     },
     {
       "surface": "ונשובה",
@@ -102,6 +76,6 @@
       "gloss": "long yupela"
     }
   ],
-  "timestamp": "2026-10-18T18:03:08.672696437Z",
+  "timestamp": "2026-10-19T00:40:57.968690446Z",
   "model": "glm-5.3"
 }

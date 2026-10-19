@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨את⟩ em wantaim",
-      "rationale": "Hebrew has two objects marked separately (אתו, ועמו); Tok Pisin needs one verb phrase covering both"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jok",
-      "rationale": "על is the wooden neck-yoke for animals; Tok Pisin 'jok' keeps the literal farm picture"
-    },
-    {
-      "kind": "you",
-      "subject": "to Tsidkiya king of Yuda and the people",
-      "rationale": "Direct imperative address: put your necks, serve, and live"
-    },
-    {
-      "kind": "invitation",
-      "subject": "וחיו",
-      "rationale": "The closing imperative 'and live' summons the addressee to choose life by submission"
-    }
-  ],
-  "translation": "Na long Tsidkiya, king bilong Yuda, mi tokim olsem long olgeta dispela tok, olsem: Putim ⟨את⟩ ol nek bilong yumi aninit long jok bilong king bilong Bavel, na wokim ⟨את⟩ em wantaim ⟨את⟩ ol man bilong em, na bai yumi liv.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "1b49394b3b99e38ac8f43b4973f00bce694dfa3295c42cfc2f1b4c511a74b302",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/27\/12-12.1792363182044.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na long Tsadkiya, king bilong Yuda, mi tokim olsem long olgeta dispela tok, na tok olsem: Putim ⟨את⟩ ol nek bilong yu olgeta long yoke bilong king bilong Babel, na wokim ⟨את⟩ em wantaim ⟨את⟩ ol man bilong en, na bai yu olgeta i stap gutpela laip.",
   "tokens": [
     {
       "surface": "ואל",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "צדקיה",
-      "gloss": "Tsidkiya"
+      "gloss": "Tsadkiya"
     },
     {
       "surface": "מלך",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "olsem"
+      "gloss": "na tok olsem"
     },
     {
       "surface": "הביאו",
@@ -81,15 +50,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol nek bilong yumi"
+      "marks": "ol nek bilong yu olgeta"
     },
     {
       "surface": "צואריכם",
-      "gloss": "ol nek bilong yumi"
+      "gloss": "ol nek bilong yu olgeta"
     },
     {
       "surface": "בעל",
-      "gloss": "aninit long jok"
+      "gloss": "long yoke"
     },
     {
       "surface": "מלך",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "ועבדו",
@@ -105,18 +74,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em wantaim",
-      "marks": "ol man bilong em"
+      "gloss": "⟨את⟩ em",
+      "marks": "wantaim ol man bilong en"
     },
     {
       "surface": "ועמו",
-      "gloss": "⟨את⟩ ol man bilong em"
+      "gloss": "wantaim ol man bilong en"
     },
     {
       "surface": "וחיו",
-      "gloss": "na bai yumi liv"
+      "gloss": "na bai yu olgeta i stap gutpela laip"
     }
   ],
-  "timestamp": "2026-10-18T22:39:42.045141759Z",
+  "timestamp": "2026-10-19T00:44:37.513878731Z",
   "model": "glm-5.3"
 }

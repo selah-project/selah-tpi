@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אפד\/אפוד",
-      "rationale": "Stamba חגר–אפד–אפוד i kamap olgeta taim: tanim belt, pasim efod, belt bilong efod — repetisen bilong wok salapim."
-    },
-    {
-      "kind": "crux",
-      "subject": "בו",
-      "rationale": "'wantaim en' — KJV 'bound it unto him therewith': em i pasim efod wantaim belt bilong efod; sam man i ting em i pasim belt long efod."
-    }
-  ],
-  "translation": "Na em i putim long em ⟨את⟩ kos, na tanim belt raun long ⟨em⟩, na salapim em wantaim ⟨את⟩ robu, na putim long em ⟨את⟩ efod, na tanim belt bilong efod raun long ⟨em⟩, na em i pasim efod long em wantaim en.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/5-8.1792348419197.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i putim ⟨את⟩ kot bilong insait long em, na em i taipelem em ⟨את⟩ wantaim belt bilong pris, na em i salim em ⟨את⟩ wantaim ⟨את⟩ kot bilong ausait, na em i putim ⟨את⟩ efod long em, na em i taipelem em ⟨את⟩ wantaim ol belt bilong efod, na em i taipelem efod long em wantaim em.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "i putim"
+      "gloss": "em i putim"
     },
     {
       "surface": "עליו",
@@ -39,46 +18,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kos"
+      "marks": "kot bilong insait"
     },
     {
       "surface": "הכתנת",
-      "gloss": "kos"
+      "gloss": "kot bilong insait"
     },
     {
       "surface": "ויחגר",
-      "gloss": "na tanim belt raun long"
+      "gloss": "em i taipelem"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "belt"
+      "marks": "em"
     },
     {
       "surface": "באבנט",
-      "gloss": "belt"
+      "gloss": "wantaim belt bilong pris"
     },
     {
       "surface": "וילבש",
-      "gloss": "na salapim"
+      "gloss": "em i salim em"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "robu"
+      "marks": "em"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "robu"
+      "marks": "kot bilong ausait"
     },
     {
       "surface": "המעיל",
-      "gloss": "robu"
+      "gloss": "kot bilong ausait"
     },
     {
       "surface": "ויתן",
-      "gloss": "na putim"
+      "gloss": "em i putim"
     },
     {
       "surface": "עליו",
@@ -95,24 +74,24 @@
     },
     {
       "surface": "ויחגר",
-      "gloss": "na tanim belt raun long"
+      "gloss": "em i taipelem"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "belt bilong efod"
+      "marks": "em"
     },
     {
       "surface": "בחשב",
-      "gloss": "belt bilong efod"
+      "gloss": "wantaim ol belt bilong efod"
     },
     {
       "surface": "האפד",
       "gloss": "efod"
     },
     {
-      "surface": "ויאפד",
-      "gloss": "na pasim efod"
+      "surface": "ואפד",
+      "gloss": "em i taipelem efod"
     },
     {
       "surface": "לו",
@@ -120,9 +99,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "wantaim en"
+      "gloss": "wantaim em"
     }
   ],
-  "timestamp": "2026-10-18T18:33:39.198712604Z",
+  "timestamp": "2026-10-19T00:48:33.111581435Z",
   "model": "glm-5.3"
 }

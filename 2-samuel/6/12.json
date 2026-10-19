@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בשמחה",
-      "rationale": "token 'long hamamas' (with joy) — Hebrew has 29 tokens but the final token בשמחה lacks a per-token slot in the alignment list; rendered in the translation as 'long hamamas'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bokis",
-      "rationale": "ארון is literally 'box\/chest'; 'bokis' keeps the shape rather than 'ark'"
-    },
-    {
-      "kind": "addition",
-      "subject": "i go antap",
-      "rationale": "ויעל 'went up\/brought up' — directional 'antap' supplied to show ascent to the City of David"
-    }
-  ],
-  "translation": "Ol i stori long king David olsem: Yahwe i blessim ⟨את⟩ haus bilong Obed-Edom, na ⟨את⟩ olgeta samting bilong en, bilong as bilong bokis bilong Elohim. Na David i go, na em i karim ⟨את⟩ bokis bilong Elohim i go antap, long haus bilong Obed-Edom i go long taun bilong David, long hamamas.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "a982129193889e23eafa0bd4feb1eb581d7e7841fdc824a6a8f0fe09250cc6a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/6\/12-12.1792363093082.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i go telim king David, ol i tok: Yahwe i blesim ⟨את⟩ haus bilong Oved-Edom, na ⟨את⟩ olgeta samting bilong en, bilong arks bilong Elohim. Na David i go, na i go karamapim ⟨את⟩ arks bilong Elohim i kam long haus bilong Oved-Edom, i go long taun bilong David, long hamamas.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "ol i stori long"
+      "gloss": "ol i go telim"
     },
     {
       "surface": "למלך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "olsem"
+      "gloss": "ol i tok"
     },
     {
       "surface": "ברך",
-      "gloss": "blessim"
+      "gloss": "i blesim"
     },
     {
       "surface": "יהוה",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "haus bilong Obed-Edom"
+      "marks": "haus bilong Oved-Edom"
     },
     {
       "surface": "בית",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "Obed"
+      "gloss": "Oved"
     },
     {
       "surface": "אדם",
@@ -81,11 +55,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "olgeta"
+      "gloss": "olgeta samting"
     },
     {
       "surface": "אשר",
-      "gloss": "samting"
+      "gloss": "ol i stap long em"
     },
     {
       "surface": "לו",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "bilong as bilong"
+      "gloss": "bilong"
     },
     {
       "surface": "ארון",
-      "gloss": "bokis"
+      "gloss": "arks"
     },
     {
       "surface": "האלהים",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "na em i go"
+      "gloss": "na i go"
     },
     {
       "surface": "דוד",
@@ -113,16 +87,16 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "na em i karim i go antap"
+      "gloss": "na i go karamapim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bokis bilong Elohim"
+      "marks": "arks bilong Elohim"
     },
     {
       "surface": "ארון",
-      "gloss": "bokis"
+      "gloss": "arks"
     },
     {
       "surface": "האלהים",
@@ -130,11 +104,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "long haus bilong"
+      "gloss": "i kam long haus"
     },
     {
       "surface": "עבד",
-      "gloss": "Obed"
+      "gloss": "Oved"
     },
     {
       "surface": "אדם",
@@ -147,8 +121,12 @@
     {
       "surface": "דוד",
       "gloss": "bilong David"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "long hamamas"
     }
   ],
-  "timestamp": "2026-10-18T22:38:13.082631403Z",
+  "timestamp": "2026-10-19T00:34:46.696045192Z",
   "model": "glm-5.3"
 }

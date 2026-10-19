@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "slip",
-      "rationale": "לינו i min 'stap ova nait' — 'stap slip' i klia long Tok Pisin."
-    },
-    {
-      "kind": "mystery",
-      "subject": "bai mi givim yupela tok bek",
-      "rationale": "Bilam i holim tok — wanem Yahwe bai tok, em i no yet opim; ol man i wet nait."
-    }
-  ],
-  "translation": "Na em i tokim ol: Yupela stap hia dispela nait, na bai mi givim yupela tok bek, olsem Yahwe bai tokim mi. Na ol bosman bilong Moab ol i stap wantaim Bilam.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e526de88defe184821d97ddc9d1f5356672183828ad86ad3a96217095dd131d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/22\/5-8.1792349379954.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tok olsem long ol: Yumi stap hia long dispela nait, na bai mi bringim bek ⟨את⟩ tok bilong yu olgeta, olsem Yahwe bai i tokim mi. Na ol bikman bilong Moab i stap wantaim Bilam.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na em i tokim ol"
+      "gloss": "i tok olsem long ol"
     },
     {
       "surface": "אליהם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לינו",
-      "gloss": "Yupela stap slip"
+      "gloss": "stap long nait"
     },
     {
       "surface": "פה",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "bai mi givim bek"
+      "gloss": "na bai mi bringim bek"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ long yupela"
+      "gloss": "⟨את⟩",
+      "marks": "tok bilong yu olgeta"
     },
     {
       "surface": "דבר",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "bai tokim"
+      "gloss": "bai i tokim"
     },
     {
       "surface": "יהוה",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "long mi"
+      "gloss": "mi"
     },
     {
       "surface": "וישבו",
@@ -82,7 +62,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "ol bosman bilong"
+      "gloss": "ol bikman bilong"
     },
     {
       "surface": "מואב",
@@ -97,6 +77,6 @@
       "gloss": "Bilam"
     }
   ],
-  "timestamp": "2026-10-18T18:49:39.957049981Z",
+  "timestamp": "2026-10-19T00:49:15.487519875Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "twentipela yia … tenpela yia",
-      "rationale": "Accession age and reign length, standard regnal formula."
-    },
-    {
-      "kind": "substitution",
-      "subject": "stret samting",
-      "rationale": "הישר is 'the straight (thing)'; Tok Pisin renders shape as 'stret'."
-    },
-    {
-      "kind": "addition",
-      "subject": "i gat",
-      "gloss note": "Hebrew 'son of twenty years' idiom expanded with possessive verb."
-    }
-  ],
-  "translation": "Akas i gat twentipela yia taim em i kamap king, na em i king raunetripela yia i go sikispela na tenpela yia long Yerusalayim; na em i no mekim ⟨את⟩ stret samting long ai bilong Yahwe, Elohim bilong en, olsem David papa bilong em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/16\/1-4.1792353627871.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ahaz i gat twenti yia taim em i kamap king, na em i king tupela ten na sikis yia long Yerusalayim, tasol em i no mekim ⟨את⟩ stret pasin long ai bilong Yahwe, Elohim bilong em, olsem David papa bilong em.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "i gat … yia"
+      "gloss": "pikinini"
     },
     {
       "surface": "עשרים",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Akas"
+      "gloss": "Ahaz"
     },
     {
       "surface": "במלכו",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na em i no"
+      "gloss": "tasol em i no"
     },
     {
       "surface": "עשה",
@@ -83,7 +57,8 @@
     },
     {
       "surface": "הישר",
-      "gloss": "⟨את⟩ stret samting"
+      "gloss": "⟨את⟩ stret pasin",
+      "marks": "stret pasin"
     },
     {
       "surface": "בעיני",
@@ -95,7 +70,7 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "Elohim bilong en"
+      "gloss": "Elohim bilong em"
     },
     {
       "surface": "כדוד",
@@ -106,6 +81,6 @@
       "gloss": "papa bilong em"
     }
   ],
-  "timestamp": "2026-10-18T20:00:27.872216689Z",
+  "timestamp": "2026-10-19T00:32:07.266753030Z",
   "model": "glm-5.3"
 }

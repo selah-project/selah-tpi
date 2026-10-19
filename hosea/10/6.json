@@ -5,28 +5,7 @@
   "book": "hosea",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Yarev",
-      "rationale": "'King Yareb' — symbolic name: 'king bilong pait\/argument' vs a real Assyrian king's name; kept as name."
-    },
-    {
-      "kind": "substitution",
-      "subject": "מנחה",
-      "rationale": "Here מנחה means tribute, not grain offering — rendered 'takis', not 'minkha'."
-    }
-  ],
-  "translation": "Tu, ⟨את⟩ em ol bai karim i go long Ashur, ol i givim takis long king Yarev; sem bai kisim Efraim, na Yisrael bai sem long tingting bilong en yet.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "5be1c5f40aafa56264eebb268922b2cfe6bdf8d88c1d774a75c041c2bf2d8157",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/10\/5-8.1792357138653.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Em tu ol i karim ⟨את⟩ i go long Ashur, olsem minkha bilong king Yarev; sem i painim Efrayim, na Yisrael i sem long plan bilong en yet.",
   "tokens": [
     {
       "surface": "גם",
@@ -34,19 +13,24 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
     },
     {
       "surface": "לאשור",
-      "gloss": "ol bai karim i go long Ashur"
+      "gloss": "long Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ol i karim i go"
     },
     {
       "surface": "מנחה",
-      "gloss": "ol i givim takis"
+      "gloss": "minkha"
     },
     {
       "surface": "למלך",
-      "gloss": "long king"
+      "gloss": "bilong king"
     },
     {
       "surface": "ירב",
@@ -58,23 +42,15 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "bai kisim Efraim"
+      "gloss": "Efrayim"
     },
     {
       "surface": "יקח",
-      "gloss": "bai kisim"
+      "gloss": "i painim"
     },
     {
-      "surface": "ובושׁ",
-      "gloss": "na … bai sem"
-    },
-    {
-      "surface": "ישראל",
-      "gloss": "Yisrael"
-    },
-    {
-      "surface": "ובושׁ",
-      "gloss": "bai sem"
+      "surface": "ויבוש",
+      "gloss": "na i sem"
     },
     {
       "surface": "ישראל",
@@ -82,9 +58,9 @@
     },
     {
       "surface": "מעצתו",
-      "gloss": "long tingting bilong en yet"
+      "gloss": "long plan bilong en yet"
     }
   ],
-  "timestamp": "2026-10-18T20:58:58.654739073Z",
+  "timestamp": "2026-10-19T00:41:59.288381835Z",
   "model": "glm-5.3"
 }

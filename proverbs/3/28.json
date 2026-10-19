@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sapos",
-      "rationale": "conditional 'if' implied by the clause structure, supplied in Tok Pisin"
-    },
-    {
-      "kind": "you",
-      "subject": "poro bilong yu",
-      "rationale": "direct address: the son is warned about how he treats his neighbour"
-    }
-  ],
-  "translation": "No ken tok long poro bilong yu: Go, kam bek, na tumora bai mi givim; sapos samting i stap wantaim yu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/3\/25-28.1792359393742.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No ken tokim poro bilong yu: Go, na kam bek, na tumora bai mi givim — na samting ⟨את⟩ i stap wantaim yu.",
   "tokens": [
     {
       "surface": "אל",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "tok"
+      "gloss": "tokim"
     },
     {
       "surface": "לרעיך",
-      "gloss": "long poro bilong yu"
+      "gloss": "poro bilong yu"
     },
     {
       "surface": "לך",
-      "gloss": "Go"
+      "gloss": "go"
     },
     {
       "surface": "ושוב",
-      "gloss": "kam bek"
+      "gloss": "na kam bek"
     },
     {
       "surface": "ומחר",
@@ -58,13 +37,14 @@
     },
     {
       "surface": "ויש",
-      "gloss": "samting i stap"
+      "gloss": "na em i stap"
     },
     {
       "surface": "אתך",
-      "gloss": "wantaim ⟨את⟩ yu"
+      "gloss": "wantaim ⟨את⟩ yu",
+      "marks": "samting bilong givim"
     }
   ],
-  "timestamp": "2026-10-18T21:36:33.744214597Z",
+  "timestamp": "2026-10-19T00:50:25.499355021Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "em",
-      "rationale": "Suffix on בידו — hand of the wicked — supplied as bracketed pronoun in Tok Pisin"
-    },
-    {
-      "kind": "substitution",
-      "subject": "skelim i rong",
-      "rationale": "ירשיענו is declare-wrong in court; Tok Pisin court idiom used"
-    }
-  ],
-  "translation": "Yahwe i no ken lusim ⟨את⟩ em long han bilong ⟨em⟩, na i no ken skelim em i rong taim ol i kotim ⟨את⟩ em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d9ababeea0ef04fe82edd4d1ec042dcea3da3cd3d965075e04b67e92d4c8820b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/33-34.1792363360254.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yahwe i no ken lusim ⟨את⟩ em long han bilong ⟨i⟩, na i no ken skelim ⟨את⟩ em i rong taim kot i skelim ⟨i⟩.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -34,29 +13,29 @@
     },
     {
       "surface": "לא",
-      "gloss": "i no ken"
+      "gloss": "i no"
     },
     {
       "surface": "יעזבנו",
-      "gloss": "lusim em"
+      "gloss": "ken lusim ⟨את⟩ em"
     },
     {
       "surface": "בידו",
-      "gloss": "long han bilong ⟨em⟩"
+      "gloss": "long han bilong ⟨i⟩"
     },
     {
       "surface": "ולא",
-      "gloss": "na i no ken"
+      "gloss": "na i no"
     },
     {
       "surface": "ירשיענו",
-      "gloss": "skelim em i rong"
+      "gloss": "ken skelim ⟨את⟩ em i rong"
     },
     {
       "surface": "בהשפטו",
-      "gloss": "taim ol i kotim ⟨את⟩ em"
+      "gloss": "taim kot i skelim ⟨i⟩"
     }
   ],
-  "timestamp": "2026-10-18T22:42:40.254814642Z",
+  "timestamp": "2026-10-19T00:50:45.404884210Z",
   "model": "glm-5.3"
 }

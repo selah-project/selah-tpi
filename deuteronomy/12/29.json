@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rausim olgeta",
-      "rationale": "יכרית i min 'kotim of' — kotim olgeta, rausim olgeta long graun"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לרשת וירשת",
-      "rationale": "wankain as i kamap tupela taim — kisim graun, graun i kamap long tok bilong ol"
-    }
-  ],
-  "translation": "Taim Yahwe Elohim bilong yu i rausim olgeta ⟨את⟩ ol lain gens we yu save go long ples bilong ol bilong kisim ol graun bilong ol, ol i go lus long ai bilong yu, na yu kisim graun bilong ol, na yu stap long graun bilong ol.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/12\/29-31.1792350023956.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taim Yahwe Elohim bilong yu i katim ⟨את⟩ ol lain i go ausait long ples bilong yu — ol lain we yu save go longen long kisim — na yu kisim pinis ⟨את⟩ olgeta, na yu stap long graun bilong ol",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "taim"
+      "gloss": "Taim"
     },
     {
       "surface": "יכרית",
-      "gloss": "irausim olgeta"
+      "gloss": "i katim olgeta i go ausait"
     },
     {
       "surface": "יהוה",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol lain gens"
+      "marks": "ol lain"
     },
     {
       "surface": "הגוים",
-      "gloss": "ol lain gens"
+      "gloss": "ol lain"
     },
     {
       "surface": "אשר",
@@ -63,31 +42,33 @@
     },
     {
       "surface": "בא",
-      "gloss": "go"
+      "gloss": "save go"
     },
     {
       "surface": "שמה",
-      "gloss": "long ples bilong ol"
+      "gloss": "longen"
     },
     {
       "surface": "לרשת",
-      "gloss": "bilong kisim graun bilong ol"
+      "gloss": "long kisim"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "long ples bilong yu"
     },
     {
       "surface": "מפניך",
-      "gloss": "long ai bilong yu"
+      "gloss": "i go ausait long ples bilong yu"
     },
     {
       "surface": "וירשת",
-      "gloss": "na yu kisim graun bilong ol"
+      "gloss": "na yu kisim pinis"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
     },
     {
       "surface": "וישבת",
@@ -98,6 +79,6 @@
       "gloss": "long graun bilong ol"
     }
   ],
-  "timestamp": "2026-10-18T19:00:23.957513210Z",
+  "timestamp": "2026-10-19T00:36:26.744269444Z",
   "model": "glm-5.3"
 }

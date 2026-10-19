@@ -5,63 +5,32 @@
   "book": "zechariah",
   "lang": "tpi",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "צרף\/בחן",
-      "rationale": "Tupela tok bilong skelim metal i bin tanim wantaim — pasin bilong skelim i makim ol manmeri, i no metal tasol."
-    },
-    {
-      "kind": "crux",
-      "subject": "ענה",
-      "rationale": "'autim tok bek' o 'harim tok na bekim' — ענה i tok bilong bekim, i no harim nating tasol."
-    },
-    {
-      "kind": "you",
-      "subject": "Yisrael",
-      "rationale": "Yahwe i tokim ol manmeri bilong en — ol i tok bek long em."
-    },
-    {
-      "kind": "addition",
-      "subject": "i stap",
-      "rationale": "Hibru i no gat kopula long עמי הוא; Tok Pisin i nidim ⟨i stap⟩."
-    }
-  ],
-  "translation": "Na mi bai bringim ⟨את⟩ tupela hat long \\u05e9\\u05dc\\u05d9\\u05e9\\u05d9\\u05ea? Wait — correct: Na mi bai bringim ⟨את⟩ ol bilong namba tri long paia, na mi bain skelim ol olsem ol i skelim ⟨את⟩ silva, na mi bain traim ol olsem ol i traim ⟨את⟩ gol. Ol bai singautim nem bilong mi, na mi bautim ⟨את⟩ ol. Mi tok: Ol i stap, ol manmeri bilong mi; na ol bai tok: Yahwe, em i Elohim bilong mi.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/zechariah\/13\/9-9.1792357704517.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi bai karim ⟨את⟩ tripela hap i go insait long paia, na mi bai kliaim ol olsem ol i kliaim ⟨את⟩ silva, na mi bai sekim ol olsem ol i sekim ⟨את⟩ gol. Ol bai singautim long nem bilong mi, na mi bai anserim ⟨את⟩ ol. Mi tok: Ol i kantri bilong mi, na ol bai tok: Yahwe, Elohim bilong mi.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "na mi bai bringim"
+      "gloss": "na mi bai karim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol bilong namba tri"
+      "marks": "tripela hap"
     },
     {
       "surface": "השלשית",
-      "gloss": "ol bilong namba tri"
+      "gloss": "tripela hap"
     },
     {
       "surface": "באש",
-      "gloss": "long paia"
+      "gloss": "insait long paia"
     },
     {
       "surface": "וצרפתים",
-      "gloss": "na mi bain skelim ol"
+      "gloss": "na mi bai kliaim ol"
     },
     {
       "surface": "כצרף",
-      "gloss": "olsem ol i skelim"
+      "gloss": "olsem ol i kliaim"
     },
     {
       "surface": "את",
@@ -74,11 +43,11 @@
     },
     {
       "surface": "ובחנתים",
-      "gloss": "na mi bain traim ol"
+      "gloss": "na mi bai sekim ol"
     },
     {
       "surface": "כבחן",
-      "gloss": "olsem ol i traim"
+      "gloss": "olsem ol i sekim"
     },
     {
       "surface": "את",
@@ -99,7 +68,7 @@
     },
     {
       "surface": "בשמי",
-      "gloss": "nem bilong mi"
+      "gloss": "long nem bilong mi"
     },
     {
       "surface": "ואני",
@@ -107,11 +76,11 @@
     },
     {
       "surface": "אענה",
-      "gloss": "bai autim tok bek"
+      "gloss": "bai anserim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ol",
       "marks": "ol"
     },
     {
@@ -120,15 +89,15 @@
     },
     {
       "surface": "עמי",
-      "gloss": "ol manmeri bilong mi"
+      "gloss": "kantri bilong mi"
     },
     {
       "surface": "הוא",
-      "gloss": "i stap"
+      "gloss": "ol i"
     },
     {
       "surface": "והוא",
-      "gloss": "na ol"
+      "gloss": "na ol bai tok"
     },
     {
       "surface": "יאמר",
@@ -143,6 +112,6 @@
       "gloss": "Elohim bilong mi"
     }
   ],
-  "timestamp": "2026-10-18T21:08:24.518349910Z",
+  "timestamp": "2026-10-19T00:52:09.799429253Z",
   "model": "glm-5.3"
 }

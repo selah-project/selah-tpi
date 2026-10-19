@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Kiryat Yearim",
-      "rationale": "Ol man Betsemes i toktok daun long ol man bilong Kiryat Yearim: yu kamdaun, karim ark."
-    },
-    {
-      "kind": "invitation",
-      "subject": "yu kamdaun, yu karim em antap",
-      "rationale": "Tupela tok bilong wokim samting i singautim ol man bilong Kiryat Yearim."
-    },
-    {
-      "kind": "substitution",
-      "subject": "salim bek",
-      "rationale": "השבו em i 'turim bek \/ givim bek', Tok Pisin i no gat wanpela tok stret, olsem 'salim bek'."
-    }
-  ],
-  "translation": "Na ol i salim ol mesinja long ol man i stop long Kiryat Yearim, ol i tok: Ol Filistia i salim bek ⟨את⟩ ark bilong Yahwe; yu kamdaun, yu karim em antap i go long yu.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/6\/21-21.1792351509898.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol man i salim ol mesinja i go long ol man i stap long Kiryat Yevarim, ol i tok olsem: Ol Peliset i bringim bek ⟨את⟩ bokis bilong Yahwe; yu ol i kamdaun, yu ol i karim em i go antap long ⟨ol⟩ yu.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "ol i salim"
+      "gloss": "ol man i salim"
     },
     {
       "surface": "מלאכים",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יושבי",
-      "gloss": "ol man i stop long"
+      "gloss": "ol man i stap long"
     },
     {
       "surface": "קרית",
@@ -55,28 +29,28 @@
     },
     {
       "surface": "יערים",
-      "gloss": "Yearim"
+      "gloss": "Yevarim"
     },
     {
       "surface": "לאמר",
-      "gloss": "ol i tok"
+      "gloss": "ol i tok olsem"
     },
     {
       "surface": "השבו",
-      "gloss": "i salim bek"
+      "gloss": "i bringim bek"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Ol Filistia"
+      "gloss": "Ol Peliset"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ark bilong Yahwe"
+      "marks": "bokis bilong Yahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "bokis"
     },
     {
       "surface": "יהוה",
@@ -84,22 +58,21 @@
     },
     {
       "surface": "רדו",
-      "gloss": "yu kamdaun"
+      "gloss": "yu ol i kamdaun"
     },
     {
       "surface": "העלו",
-      "gloss": "yu karim antap"
+      "gloss": "yu ol i karim em i go antap"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "long yu"
+      "gloss": "⟨את⟩ ⟨em⟩"
     },
     {
       "surface": "אליכם",
-      "gloss": "long yu"
+      "gloss": "long yu ol"
     }
   ],
-  "timestamp": "2026-10-18T19:25:09.899734586Z",
+  "timestamp": "2026-10-19T00:31:05.586960880Z",
   "model": "glm-5.3"
 }

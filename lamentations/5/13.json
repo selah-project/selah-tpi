@@ -5,28 +5,7 @@
   "book": "lamentations",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "טחון נשאו",
-      "rationale": "'Karim stoan mil' (ASV\/JPS) o 'wokim pekpek long stoan mil' (KJV) — karim em i literal tru bilong נשאו."
-    },
-    {
-      "kind": "crux",
-      "subject": "בעץ כשלו",
-      "rationale": "'Pundaun sotpela long ol diwai' o 'karim ol het bilong wud na i sot nogut' (BSB) — Hebrew i tok 'stumbled under the wood' tasol."
-    }
-  ],
-  "translation": "Ol yangpela man i karim ⟨את⟩ stoan mil, na ol pikinini i pundaun sotpela long ol diwai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/lamentations\/5\/13-16.1792360713070.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol yangpela man ol i salim ⟨את⟩ long wok bilong grainim, na ol pikinini man i pundaun longsan long wud.",
   "tokens": [
     {
       "surface": "בחורים",
@@ -34,25 +13,26 @@
     },
     {
       "surface": "טחון",
-      "gloss": "stoan mil"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "נשאו",
-      "gloss": "i karim ⟨את⟩"
+      "gloss": "ol i salim long wok bilong graining",
+      "marks": "grainim"
     },
     {
       "surface": "ונערים",
-      "gloss": "na ol pikinini"
+      "gloss": "na ol pikinini man"
     },
     {
       "surface": "בעץ",
-      "gloss": "long ol diwai"
+      "gloss": "longsan long wud"
     },
     {
       "surface": "כשלו",
-      "gloss": "i pundaun sotpela"
+      "gloss": "i pundaun"
     }
   ],
-  "timestamp": "2026-10-18T21:58:33.070786720Z",
+  "timestamp": "2026-10-19T00:47:45.531366921Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ההבל \/ ויהבלו",
-      "rationale": "They followed hevel (vapor, nating) and became hevel — the pun 'followed nating, became nating' is preserved."
-    },
-    {
-      "kind": "idiom",
-      "subject": "i bin katim wantaim",
-      "rationale": "כרת ברית literally 'cut a covenant' (cutting pieces between which parties pass) — kept with 'katim wantaim'."
-    }
-  ],
-  "translation": "Na ol i rausim ⟨את⟩ ol lo bilong en, na ⟨את⟩ kontrak bilong en we i bin katim wantaim ⟨את⟩ ol papa bilong ol, na ⟨את⟩ ol toksave bilong en we i bin skruim long ol; na ol i bihainim ol samting nating, na ol i kamap nating, na bihainim ol lain gulsai we i stap raun long ol, we Yahwe i bin givim komand long ol bilong ol i no ken wokim olsem ol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/13-16.1792353661900.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol i tekwe ⟨את⟩ ol lo bilong en, na ⟨את⟩ kontrak bilong en we em i bin wokim wantaim ⟨את⟩ ol papa bilong ol, na ⟨את⟩ ol toksave skru bilong en we em i bin givim toksave long ol; na ol i go bihainim ol samting nating, na ol i kamap ol samting nating, na ol i go bihainim ol lain bilong olgeta kantri we i stap klostu long ol, we Yahwe i bin givim tok stret long ⟨את⟩ ol, se ol i no ken wokim olsem ol.",
   "tokens": [
     {
       "surface": "וימאסו",
-      "gloss": "rausim"
+      "gloss": "ol i tekwe"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "kontrak bilong en"
     },
     {
@@ -56,7 +35,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "i bin katim wantaim"
+      "gloss": "i bin wokim wantaim"
     },
     {
       "surface": "את",
@@ -69,12 +48,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ol toksave bilong en"
+      "gloss": "na ⟨את⟩",
+      "marks": "ol toksave skru bilong en"
     },
     {
       "surface": "עדותיו",
-      "gloss": "ol toksave bilong en"
+      "gloss": "ol toksave skru bilong en"
     },
     {
       "surface": "אשר",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "העיד",
-      "gloss": "i skruim tok"
+      "gloss": "i bin givim toksave"
     },
     {
       "surface": "בם",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "ol i bihainim"
+      "gloss": "na ol i go bihainim"
     },
     {
       "surface": "אחרי",
@@ -102,15 +81,15 @@
     },
     {
       "surface": "ויהבלו",
-      "gloss": "kamap nating"
+      "gloss": "na ol i kamap ol samting nating"
     },
     {
       "surface": "ואחרי",
-      "gloss": "na bihainim"
+      "gloss": "na ol i go bihainim"
     },
     {
       "surface": "הגוים",
-      "gloss": "ol lain gulsai"
+      "gloss": "ol lain bilong olgeta kantri"
     },
     {
       "surface": "אשר",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "סביבתם",
-      "gloss": "stap raun long ol"
+      "gloss": "i stap klostu long ol"
     },
     {
       "surface": "אשר",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "i bin givim komand"
+      "gloss": "i bin givim tok stret"
     },
     {
       "surface": "יהוה",
@@ -134,11 +113,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol (we i no ken wokim olsem)"
     },
     {
       "surface": "לבלתי",
-      "gloss": "bilong ol i no ken"
+      "gloss": "ol i no ken"
     },
     {
       "surface": "עשות",
@@ -149,6 +129,6 @@
       "gloss": "olsem ol"
     }
   ],
-  "timestamp": "2026-10-18T20:01:01.902418557Z",
+  "timestamp": "2026-10-19T00:32:37.430881473Z",
   "model": "glm-5.3"
 }

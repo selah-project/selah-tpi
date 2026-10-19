@@ -5,34 +5,7 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אל מבית השדרות",
-      "rationale": "'Out from within the ranks' vs 'between the ranks' (KJV\/ASV); rendered as out between the rows"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אמר הכהן",
-      "rationale": "Causal clause 'for the priest had said' rendered 'bilong pris i tok olsem'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלהם",
-      "gloss-note": "",
-      "rationale": "Preposition 'to them' folded into the verb phrase 'i tok long ol'; gloss left empty to avoid doubling"
-    }
-  ],
-  "translation": "Na Yehoyada pris i bringautim ⟨את⟩ ol kapten bilong ol handet, ol man i lukautim ol soldia, na i tok long ol: Bringautim ⟨em⟩ i go ausait namel long ol ron; na man i bihainim ⟨em⟩, bai ol i kilim ⟨em⟩ wantaim bainat; bilong pris i tok olsem: No ken kilim ⟨em⟩ long haus bilong Yahwe.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "262f8ffd6e4a79b042f21e6150ea151ea9190f02b29d650efd7c60c5e12c794c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/23\/13-16.1792362623450.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yehoyada pris i bringautim ⟨את⟩ ol heda bilong ol handet, ol i olgeta lukautim ol man bilong pait, na i tok long ol: Bringautim ⟨em⟩ i go long ausait bilong ol rao, na man i bihainim ⟨em⟩, bai ol i kilim em long bainat; bilong pris i tok olsem: No ken kilim ⟨em⟩ long haus bilong Yahwe.",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -49,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol kapten bilong ol handet"
+      "marks": "ol heda bilong ol handet"
     },
     {
       "surface": "שרי",
-      "gloss": "ol kapten bilong"
+      "gloss": "ol heda bilong ol handet"
     },
     {
       "surface": "המאות",
@@ -61,11 +34,11 @@
     },
     {
       "surface": "פקודי",
-      "gloss": "ol man i lukautim"
+      "gloss": "ol i olgeta lukautim"
     },
     {
       "surface": "החיל",
-      "gloss": "ol soldia"
+      "gloss": "ol man bilong pait"
     },
     {
       "surface": "ויאמר",
@@ -73,39 +46,39 @@
     },
     {
       "surface": "אלהם",
-      "gloss": ""
+      "gloss": "long ol"
     },
     {
       "surface": "הוציאוה",
-      "gloss": "Bringautim em i go ausait"
+      "gloss": "bringautim em"
     },
     {
       "surface": "אל",
-      "gloss": "namel long"
+      "gloss": "i go long ausait bilong"
     },
     {
       "surface": "מבית",
-      "gloss": "ol ron"
+      "gloss": "long insait long"
     },
     {
       "surface": "השדרות",
-      "gloss": "ol ron"
+      "gloss": "ol rao"
     },
     {
       "surface": "והבא",
-      "gloss": "man i bihainim"
+      "gloss": "na man i bihainim"
     },
     {
       "surface": "אחריה",
-      "gloss": "em"
+      "gloss": "bihainim em"
     },
     {
       "surface": "יומת",
-      "gloss": "bai ol i kilim"
+      "gloss": "bai ol i kilim em"
     },
     {
       "surface": "בחרב",
-      "gloss": "wantaim bainat"
+      "gloss": "long bainat"
     },
     {
       "surface": "כי",
@@ -121,21 +94,21 @@
     },
     {
       "surface": "לא",
-      "gloss": "No ken"
+      "gloss": "no ken"
     },
     {
       "surface": "תמיתוה",
-      "gloss": "kilim"
+      "gloss": "kilim em"
     },
     {
       "surface": "בית",
-      "gloss": "long haus bilong"
+      "gloss": "long haus"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T22:30:23.452044694Z",
+  "timestamp": "2026-10-19T00:31:54.758569937Z",
   "model": "glm-5.3"
 }

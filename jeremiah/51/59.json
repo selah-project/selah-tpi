@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שר מנוחה",
-      "rationale": "'prince of rest\/menucha': KJV 'quiet prince', JPS 'quartermaster', ASV 'chief chamberlain' — literal 'hetman bilong malolo' kept, office uncertain"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fourth year",
-      "rationale": "date pinned to fourth year of Zedekiah's reign"
-    },
-    {
-      "kind": "addition",
-      "subject": "em i kamap king",
-      "rationale": "למלכו 'of his reigning' expanded to make Tok Pisin possession clear"
-    }
-  ],
-  "translation": "Tok we profet Yirmeyahu i givim olgeta long Serayah, pikinini bilong Neryah, pikinini bilong Mahseyah, taim em i go ⟨את⟩ wantaim Tsidkiyahu, king bilong Yuda, i go long Bavel — long namba fo yia bilong em i kamap king; na Serayah em i hetman bilong malolo.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/51\/57-60.1792355960010.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tok we profet Yirmeyau i givim ordar long ⟨את⟩ Seraya, pikinini bilong Neraya, pikinini bilong Maksaya, taim em i go wantaim ⟨את⟩ Tsidkiyau, king bilong Yuda, i go long Babel, long namba fo yia bilong ol i mekim em king; na Seraya em i bikman bilong malolo.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "i givim olgeta"
+      "gloss": "givim ordar long"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirmeyau"
     },
     {
       "surface": "הנביא",
@@ -56,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Serayah"
+      "marks": "Seraya"
     },
     {
       "surface": "שריה",
-      "gloss": "Serayah"
+      "gloss": "Seraya"
     },
     {
       "surface": "בן",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "נריה",
-      "gloss": "Neryah"
+      "gloss": "Neraya"
     },
     {
       "surface": "בן",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "מחסיה",
-      "gloss": "Mahseyah"
+      "gloss": "Maksaya"
     },
     {
       "surface": "בלכתו",
@@ -84,15 +58,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ wantaim"
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "Tsidkiyau"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkiyahu"
+      "gloss": "Tsidkiyau"
     },
     {
       "surface": "מלך",
-      "gloss": "king"
+      "gloss": "king bilong"
     },
     {
       "surface": "יהודה",
@@ -100,11 +75,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "long Bavel"
+      "gloss": "i go long Babel"
     },
     {
       "surface": "בשנת",
-      "gloss": "long yia"
+      "gloss": "long yia bilong"
     },
     {
       "surface": "הרבעית",
@@ -112,21 +87,21 @@
     },
     {
       "surface": "למלכו",
-      "gloss": "bilong em i kamap king"
+      "gloss": "bilong ol i mekim em king"
     },
     {
       "surface": "ושריה",
-      "gloss": "na Serayah"
+      "gloss": "na Seraya"
     },
     {
       "surface": "שר",
-      "gloss": "hetman"
+      "gloss": "bikman"
     },
     {
       "surface": "מנוחה",
       "gloss": "malolo"
     }
   ],
-  "timestamp": "2026-10-18T20:39:20.011222779Z",
+  "timestamp": "2026-10-19T00:45:34.837258249Z",
   "model": "glm-5.3"
 }

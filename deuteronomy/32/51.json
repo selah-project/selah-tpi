@@ -5,53 +5,27 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bagarapim kontrak",
-      "rationale": "מעל ב — 'wokim treteri, statim kontrak'"
-    },
-    {
-      "kind": "addition",
-      "subject": "yu tupela",
-      "rationale": "Hebrew i tok planel (מעלתם) tasol narativ i soim em i Mose na Aharon"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותי",
-      "rationale": "aleph-tav wantaim pronoun suffiks; ⟨את⟩ i stap, suffiks i kamap 'mi'"
-    }
-  ],
-  "translation": "Long as bilong yu tupela i bagarapim kontrak wantaim mi namel long ol pikinini bilong Yisrael, long wara bilong Meriba-Kedesh, long ples wail graun bilong Tsin; long as bilong yu tupela i no mekim mi holi namel long ol pikinini bilong Yisrael.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "873ccfd3e4a8112c3ec3f18c6c4ac4a86ca0bab5c0e33268beeadc82c0f6132c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/32\/49-52.1792350375874.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bikos yupela i putim mi long senis long namel bilong ol pikinini bilong Yisrael, long wara bilong Meribat Kadesh, long graun wail bilong Tsin, bikos yupela i no mekim holi ⟨את⟩ ⟨em⟩ long namel bilong ol pikinini bilong Yisrael.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Long as bilong"
+      "gloss": "bikos"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "מעלתם",
-      "gloss": "yu tupela i bagarapim kontrak"
+      "gloss": "yupela i putim mi long senis"
     },
     {
       "surface": "בי",
-      "gloss": "wantaim mi"
+      "gloss": "long mi"
     },
     {
       "surface": "בתוך",
-      "gloss": "namel long"
+      "gloss": "long namel bilong"
     },
     {
       "surface": "בני",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "מריבת",
-      "gloss": "Meriba"
+      "gloss": "Meribat"
     },
     {
       "surface": "קדש",
-      "gloss": "Kedesh"
+      "gloss": "Kadesh"
     },
     {
       "surface": "מדבר",
-      "gloss": "long ples wail graun bilong"
+      "gloss": "graun wail bilong"
     },
     {
       "surface": "צן",
@@ -83,27 +57,28 @@
     },
     {
       "surface": "על",
-      "gloss": "Long as bilong"
+      "gloss": "bikos"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "לא",
-      "gloss": "i no"
+      "gloss": "no"
     },
     {
       "surface": "קדשתם",
-      "gloss": "mekim mi holi"
+      "gloss": "yupela i no mekim holi"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mi"
+      "gloss": "⟨את⟩",
+      "marks": "long namel bilong ol pikinini bilong Yisrael"
     },
     {
       "surface": "בתוך",
-      "gloss": "namel long"
+      "gloss": "long namel bilong"
     },
     {
       "surface": "בני",
@@ -114,6 +89,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-18T19:06:15.876003916Z",
+  "timestamp": "2026-10-19T00:37:06.543941132Z",
   "model": "glm-5.3"
 }

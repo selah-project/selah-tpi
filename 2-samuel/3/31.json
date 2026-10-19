@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "המטה",
-      "rationale": "מטה i min bet bilong karim bodi — 'bet bilong dedman'."
-    },
-    {
-      "kind": "addition",
-      "subject": "em yet",
-      "rationale": "KJV\/JPS 'himself' — Hebrew i tok 'king David' tasol; mi no putim em long tok."
-    }
-  ],
-  "translation": "Na David i tokim Yoav, na olgeta man i stap wantaim em: Ripim ol klos bilong yu, na wan bilong yu ol i putim sat bilong sak, na ol i krai tru bilong Avner. Na king David em yet i bihainim bet bilong dedman.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/29-32.1792352177666.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i tok long Yoab, na long olgeta man ol i stap wantaim ⟨את⟩ en: Ripim ol klos bilong yu, na wanbel bilong yu ol sak, na yu krai long pes bilong Avner. Na king David yet i wokabaut bihain long bet ol i karim dedman long en.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na David i tokim"
+      "gloss": "i tok"
     },
     {
       "surface": "דוד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Yoab"
     },
     {
       "surface": "ואל",
@@ -58,11 +37,12 @@
     },
     {
       "surface": "אשר",
-      "gloss": "i stap"
+      "gloss": "ol"
     },
     {
       "surface": "אתו",
-      "gloss": "wantaim ⟨את⟩ em"
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "en"
     },
     {
       "surface": "קרעו",
@@ -74,19 +54,19 @@
     },
     {
       "surface": "וחגרו",
-      "gloss": "na ol i putim"
+      "gloss": "na wanbel bilong yu"
     },
     {
       "surface": "שקים",
-      "gloss": "sat bilong sak"
+      "gloss": "ol sak"
     },
     {
       "surface": "וספדו",
-      "gloss": "na ol i krai tru bilong"
+      "gloss": "na yu krai"
     },
     {
       "surface": "לפני",
-      "gloss": "bilong"
+      "gloss": "long pes bilong"
     },
     {
       "surface": "אבנר",
@@ -102,7 +82,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "i bihainim"
+      "gloss": "i wokabaut"
     },
     {
       "surface": "אחרי",
@@ -110,9 +90,9 @@
     },
     {
       "surface": "המטה",
-      "gloss": "bet bilong dedman"
+      "gloss": "bet ol i karim dedman long en"
     }
   ],
-  "timestamp": "2026-10-18T19:36:17.667559500Z",
+  "timestamp": "2026-10-19T00:34:55.170768422Z",
   "model": "glm-5.3"
 }

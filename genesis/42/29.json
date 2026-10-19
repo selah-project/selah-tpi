@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i",
-      "rationale": "Tok Pisin predicate marker i needim, Hibru i no gat"
-    },
-    {
-      "kind": "elision",
-      "subject": "לאמר",
-      "rationale": "infinitive 'olsem' i makim tok i kam bihain, no ken transleim olgeta"
-    }
-  ],
-  "translation": "Ol i kam bek go long Yakov, papa bilong ol, long graun bilong Kenan, na ol i stori long em ⟨i⟩ olgeta samting i bin kamap long ol, olsem:",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "5933c0637e91465dd8ddabbdc8d586683311ae72728660062db239ddca332a3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/42\/29-32.1792347204627.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol i kam bek go long Yakov, papa bilong ol, long graun bilong Kenaan, na ol i stori long ⟨את⟩ em olgeta samting i kamap long ⟨את⟩ ol, ol i tok olsem:",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "ויגידו",
-      "gloss": "na ol i stori"
+      "gloss": "ol i stori long em"
     },
     {
       "surface": "לו",
@@ -63,26 +42,26 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta samting i bin kamap long ol"
+      "marks": "olgeta samting i kamap"
     },
     {
       "surface": "כל",
-      "gloss": "olgeta"
+      "gloss": "olgeta samting"
     },
     {
       "surface": "הקרת",
-      "gloss": "samting i bin kamap long ol"
+      "gloss": "i kamap"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "long ol"
     },
     {
       "surface": "לאמר",
-      "gloss": "olsem"
+      "gloss": "ol i tok olsem"
     }
   ],
-  "timestamp": "2026-10-18T18:13:24.628695059Z",
+  "timestamp": "2026-10-19T00:41:21.676750614Z",
   "model": "glm-5.3"
 }

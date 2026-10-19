@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel bilong paia",
-      "rationale": "חמה i tok 'hat' — paia bilong bel, no marimari tasol"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "askim",
-      "rationale": "דרשו i min 'trodim bihainim, painim' — long Tok Pisin askim long pasin bilong profet"
-    },
-    {
-      "kind": "you",
-      "subject": "ol man bilong king",
-      "rationale": "king Yosia i tokim ol man bilong em long olgeta komand hia"
-    }
-  ],
-  "translation": "Go, askim Yahwe long bilong mi, na long bilong ol i stap yet long Yisrael na long Yuda, long ol tok bilong buk dispela i painim; bikol bel bilong paia bilong Yahwe i pulim i kam long mipela, long wanem ol papa bilong mipela i no holim tok bilong Yahwe, bilong wokim olgeta samting i raitim long dispela buk.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/34\/21-24.1792362839431.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go, askim Yahwe bilong mi na bilong ol i stap yet long Yisrael na long Yuda, long ol tok bilong buk dispela i stap, long wanem, bel heait bilong Yahwe i pulim i go daun long mipela, long wanem ol papa bilong mipela i no holim ⟨את⟩ tok bilong Yahwe bilong wokim olgeta samting i stap long dispela buk.",
   "tokens": [
     {
       "surface": "לכו",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "long bilong mi"
+      "gloss": "bilong mi"
     },
     {
       "surface": "ובעד",
-      "gloss": "na long bilong"
+      "gloss": "na bilong"
     },
     {
       "surface": "הנשאר",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "i painim"
+      "gloss": "i stap"
     },
     {
       "surface": "כי",
-      "gloss": "bikol"
+      "gloss": "long wanem"
     },
     {
       "surface": "גדולה",
@@ -100,19 +74,19 @@
     },
     {
       "surface": "חמת",
-      "gloss": "bel bilong paia"
+      "gloss": "bel heait"
     },
     {
       "surface": "יהוה",
-      "gloss": "bilong Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "dispela"
+      "gloss": "i"
     },
     {
       "surface": "נתכה",
-      "gloss": "i pulim i kam"
+      "gloss": "pulim i go daun"
     },
     {
       "surface": "בנו",
@@ -120,11 +94,11 @@
     },
     {
       "surface": "על",
-      "gloss": "long"
+      "gloss": "long wanem"
     },
     {
       "surface": "אשר",
-      "gloss": "wanem"
+      "gloss": "ol"
     },
     {
       "surface": "לא",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "i holim"
+      "gloss": "holim"
     },
     {
       "surface": "אבותינו",
@@ -141,7 +115,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tok"
+      "marks": "tok bilong Yahwe"
     },
     {
       "surface": "דבר",
@@ -149,7 +123,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "bilong Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "לעשות",
@@ -161,7 +135,7 @@
     },
     {
       "surface": "הכתוב",
-      "gloss": "i raitim"
+      "gloss": "i stap olsem raet"
     },
     {
       "surface": "על",
@@ -176,6 +150,6 @@
       "gloss": "dispela"
     }
   ],
-  "timestamp": "2026-10-18T22:33:59.431972718Z",
+  "timestamp": "2026-10-19T00:31:57.956177101Z",
   "model": "glm-5.3"
 }

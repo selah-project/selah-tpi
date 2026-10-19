@@ -5,29 +5,7 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צמא",
-      "rationale": "Hebrew tsama = thirst; rendered 'hangre long wara' (hunger for water), Tok Pisin lacks a single thirst word"
-    },
-    {
-      "kind": "elision",
-      "subject": "זה",
-      "gloss-note": null,
-      "rationale": "Demonstrative 'this' (Bilong wanem zeh) folded into the question, no standalone Tok Pisin equivalent"
-    }
-  ],
-  "translation": "Na ol manmeri i hangre long wara long enpela hap, na ol manmeri i singaut nogut long Mose, na ol i tok: Bilong wanem yu bringim mipela i kamap antis long Mitsrayim, bilong kilim mi, na ⟨את⟩ ol pikinini bilong mi, na ⟨את⟩ ol animal bilong mi, wantaim hangre long wara?",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/17\/1-4.1792347710877.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol manmeri i hangre long wara long hap, na ol manmeri i sotim tok nogut long Mose, ol i tok: Bilong wanem yu bringim yumi kirap i kam ausait long Mitsrayim, bilong kilim ⟨את⟩ mi na ⟨את⟩ ol pikinini bilong mi na ⟨את⟩ ol animal bilong mi long hangre long wara?",
   "tokens": [
     {
       "surface": "ויצמא",
@@ -35,7 +13,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "long enpela hap"
+      "gloss": "long hap"
     },
     {
       "surface": "העם",
@@ -47,7 +25,7 @@
     },
     {
       "surface": "וילן",
-      "gloss": "i singaut nogut"
+      "gloss": "i sotim tok nogut"
     },
     {
       "surface": "העם",
@@ -63,23 +41,23 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na ol i tok"
+      "gloss": "ol i tok"
     },
     {
       "surface": "למה",
-      "gloss": "Bilong wanem"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "זה",
-      "gloss": "⟨em⟩"
+      "gloss": "⟨dispela⟩"
     },
     {
       "surface": "העליתנו",
-      "gloss": "yu bringim mipela i kamap antis"
+      "gloss": "yu bringim yumi kirap i kam"
     },
     {
       "surface": "ממצרים",
-      "gloss": "long Mitsrayim"
+      "gloss": "ausait long Mitsrayim"
     },
     {
       "surface": "להמית",
@@ -92,7 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "ol pikinini bilong mi"
     },
     {
@@ -101,7 +79,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "ol animal bilong mi"
     },
     {
@@ -110,9 +88,9 @@
     },
     {
       "surface": "בצמא",
-      "gloss": "wantaim hangre long wara"
+      "gloss": "long hangre long wara"
     }
   ],
-  "timestamp": "2026-10-18T18:21:50.878844257Z",
+  "timestamp": "2026-10-19T00:38:11.516517297Z",
   "model": "glm-5.3"
 }

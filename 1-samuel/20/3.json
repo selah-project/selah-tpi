@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע ידע",
-      "rationale": "infinitive absolute doubling 'knowing he knows' rendered 'i save tru'"
-    },
-    {
-      "kind": "crux",
-      "subject": "וחי נפשך",
-      "rationale": "oath formula: 'as your soul lives' — life-force, not 'soul'"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי (last)",
-      "rationale": "oath-particle כי has no Tok Pisin equivalent, rendered as nothing"
-    }
-  ],
-  "translation": "Na David i sworim gen, na em i tok: Papa bilong yu i save tru se mi kisim gras long ai bilong yu; na em i tok: Yonatan i no ken save long dispela, bilong no ken kamap sori; tasol, olsem Yahwe i stap livmun, na olsem laip bilong yu i stap livmun, wanpela step tasol i stap namel long mi na namel long dai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/1-4.1792351874063.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i swear gen, na i tok: Papa bilong yu i save tumas long olsem mi painim gras long ai bilong yu, na ⟨em⟩ i tok: Yehonatan i no ken save long dispela samting, bilong olsem em i no ken bel heavi; tasol, olsem Yahwe i stap laip, na olsem laip bilong yu i stap laip, i stap wanpela step tasol namel long mi na long dai.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "i sworim"
+      "gloss": "i swear"
     },
     {
       "surface": "עוד",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na em i tok"
+      "gloss": "na i tok"
     },
     {
       "surface": "ידע",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "tru"
+      "gloss": "tumas"
     },
     {
       "surface": "אביך",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "se"
+      "gloss": "long olsem"
     },
     {
       "surface": "מצאתי",
-      "gloss": "mi kisim"
+      "gloss": "mi painim"
     },
     {
       "surface": "חן",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na em i tok"
+      "gloss": "na ⟨em⟩ i tok"
     },
     {
       "surface": "אל",
-      "gloss": "no ken"
+      "gloss": "i no ken"
     },
     {
       "surface": "ידע",
@@ -91,19 +65,19 @@
     },
     {
       "surface": "זאת",
-      "gloss": "dispela"
+      "gloss": "dispela samting"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Yonatan"
+      "gloss": "Yehonatan"
     },
     {
       "surface": "פן",
-      "gloss": "bilong no ken"
+      "gloss": "bilong olsem em i no ken"
     },
     {
       "surface": "יעצב",
-      "gloss": "kamap sori"
+      "gloss": "bel heavi"
     },
     {
       "surface": "ואולם",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "i stap livmun"
+      "gloss": "i stap laip"
     },
     {
       "surface": "יהוה",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "na ... i stap livmun"
+      "gloss": "na olsem … i stap laip"
     },
     {
       "surface": "נפשך",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "olsem tru"
     },
     {
       "surface": "כפשע",
@@ -139,13 +113,13 @@
     },
     {
       "surface": "ובין",
-      "gloss": "na namel long"
+      "gloss": "na long"
     },
     {
       "surface": "המות",
       "gloss": "dai"
     }
   ],
-  "timestamp": "2026-10-18T19:31:14.065149503Z",
+  "timestamp": "2026-10-19T00:30:39.772903363Z",
   "model": "glm-5.3"
 }

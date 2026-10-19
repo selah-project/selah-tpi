@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "tpi",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bai",
-      "rationale": "Hebrew participle נתן needs future marker in Tok Pisin"
-    },
-    {
-      "kind": "you",
-      "subject": "to elders of Gilead",
-      "rationale": "Yiftak negotiates terms directly with the elders"
-    }
-  ],
-  "translation": "Na Yiftak i tok long ol olfela man bilong Gilat: sapos yumi bringim mi bek long pait wantaim ol pikinini bilong Amon, na Yahwe i givim ⟨את⟩ ol long han bilong mi, bai mi stap olsem het bilong yu olgeta.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/11\/9-12.1792351268384.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yiftak i tok long ol bikman bilong Gilad: Sapos yupela i bringim ⟨את⟩ mi bek bilong go pait long ol pikinini bilong Amon, na Yahwe i givim ⟨את⟩ ol i go long front bilong mi, orait mi bai kamap het bilong yupela.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tok"
+      "gloss": "Na Yiftak i tok"
     },
     {
       "surface": "יפתח",
@@ -42,36 +21,36 @@
     },
     {
       "surface": "זקני",
-      "gloss": "olfela man"
+      "gloss": "ol bikman bilong"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilat"
+      "gloss": "Gilad"
     },
     {
       "surface": "אם",
-      "gloss": "sapos"
+      "gloss": "Sapos"
     },
     {
       "surface": "משיבים",
-      "gloss": "bringim bek"
+      "gloss": "yupela i bringim bek"
     },
     {
       "surface": "אתם",
-      "gloss": "yu olgeta"
+      "gloss": "yupela"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "mi"
+      "gloss": "⟨את⟩ mi",
+      "marks": "mi — objekt bilong bringim bek, long ples bilong להלחם"
     },
     {
       "surface": "להלחם",
-      "gloss": "long pait"
+      "gloss": "bilong go pait"
     },
     {
       "surface": "בבני",
-      "gloss": "wantaim ol pikinini"
+      "gloss": "long ol pikinini bilong"
     },
     {
       "surface": "עמון",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "na i givim"
+      "gloss": "na Yahwe i givim"
     },
     {
       "surface": "יהוה",
@@ -87,12 +66,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol — objekt bilong givim, i go long front bilong mi (לפני)"
     },
     {
       "surface": "לפני",
-      "gloss": "long pes bilong"
+      "gloss": "i go long front bilong mi"
     },
     {
       "surface": "אנכי",
@@ -100,17 +79,17 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "bai mi stap"
+      "gloss": "bai kamap"
     },
     {
       "surface": "לכם",
-      "gloss": "bilong yu olgeta"
+      "gloss": "bilong yupela"
     },
     {
       "surface": "לראש",
-      "gloss": "olsem het"
+      "gloss": "het bilong yupela"
     }
   ],
-  "timestamp": "2026-10-18T19:21:08.385255467Z",
+  "timestamp": "2026-10-19T00:47:31.671491943Z",
   "model": "glm-5.3"
 }

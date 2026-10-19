@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 80,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שליש",
-      "rationale": "'a third (measure)' — KJV 'in great measure', YLT 'a third time', BSB 'full measure'; shape kept as tripela hap."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דמעה\/בדמעות",
-      "rationale": "Root דמע repeats in both halves (bread-of-tears \/ with-tears), binding the couplet; repetition kept."
-    }
-  ],
-  "translation": "Yu mekim ⟨את⟩ ol manmeri bilong yu kaikai bret bilong traut, na yu givim ol drink wantaim ol traut bilong tripela hap.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/80\/5-8.1792358608649.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yu givim ol kaikai bret bilong wara bilong ai, na yu mekim ol dring wara bilong ai long tripela mak.",
   "tokens": [
     {
       "surface": "האכלתם",
-      "gloss": "yu mekim ⟨את⟩ ol manmeri bilong yu kaikai"
+      "gloss": "yu givim ol kaikai"
     },
     {
       "surface": "לחם",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "דמעה",
-      "gloss": "bilong traut"
+      "gloss": "bilong wara bilong ai"
     },
     {
       "surface": "ותשקמו",
-      "gloss": "na yu givim ol drink"
+      "gloss": "na yu mekim ol dring"
     },
     {
       "surface": "בדמעות",
-      "gloss": "wantaim ol traut"
+      "gloss": "wara bilong ai"
     },
     {
       "surface": "שליש",
-      "gloss": "bilong tripela hap"
+      "gloss": "long tripela mak"
     }
   ],
-  "timestamp": "2026-10-18T21:23:28.650366860Z",
+  "timestamp": "2026-10-19T00:51:39.501397601Z",
   "model": "glm-5.3"
 }

@@ -5,48 +5,32 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "autsait long ol lain bilong soldia",
-      "rationale": "מבית לשדרות: 'autsait long ol lain' o 'namel long tupela lain' (ASV 'between the ranks')."
-    }
-  ],
-  "translation": "Na Yehoiada pris i givim olget toksave long ol bikman bilong ol handet, ol man i lukautim ol soldia, na i tok long ol: Bringim ⟨את⟩ em i go autsait long ol lain bilong soldia; na man i bihainim em, bai yu kilim em long bainat; bikos pris i tok: No ken kilim em long haus bilong Yahwe.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/11\/13-16.1792353514610.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na pris bilong Yahwe, Yehoyada i givim tok ⟨את⟩ ol hedman bilong ol handet, ol man i lukautim ol soldia, na i tok long ol: Bringim ⟨את⟩em i go ausait long ol rangk bilong soldia; na man i bihainim em, bai ol i kilim em wantaim bainat. Long wanem, pris i tokim ol yet: Em i no ken kil long haus bilong Yahwe.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Na Yehoiada pris i givim olget toksave"
+      "gloss": "i givim tok"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yehoiada"
+      "gloss": "Yehoyada"
     },
     {
       "surface": "הכהן",
-      "gloss": "pris"
+      "gloss": "pris bilong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol bikman bilong ol handet"
+      "marks": "ol hedman bilong ol handet"
     },
     {
       "surface": "שרי",
-      "gloss": "ol bikman bilong"
+      "gloss": "ol hedman"
     },
     {
       "surface": "המיאות",
-      "gloss": "ol handet"
+      "gloss": "bilong ol handet"
     },
     {
       "surface": "פקדי",
@@ -66,24 +50,24 @@
     },
     {
       "surface": "הוציאו",
-      "gloss": "Bringim i go"
+      "gloss": "bringim i go ausait"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "em (Atalya)"
+      "gloss": "⟨את⟩em",
+      "marks": "em (Atalia, kwin)"
     },
     {
       "surface": "אל",
-      "gloss": "long"
+      "gloss": "i go ausait long"
     },
     {
       "surface": "מבית",
-      "gloss": "autsait long haus"
+      "gloss": "inap ausait long"
     },
     {
       "surface": "לשדרת",
-      "gloss": "ol lain bilong soldia"
+      "gloss": "ol rangk bilong soldia"
     },
     {
       "surface": "והבא",
@@ -91,23 +75,23 @@
     },
     {
       "surface": "אחריה",
-      "gloss": "em"
+      "gloss": "bihain long em"
     },
     {
       "surface": "המת",
-      "gloss": "bai yu kilim em"
+      "gloss": "ol i kilim em"
     },
     {
       "surface": "בחרב",
-      "gloss": "long bainat"
+      "gloss": "wantaim bainat"
     },
     {
       "surface": "כי",
-      "gloss": "bikos"
+      "gloss": "long wanem"
     },
     {
       "surface": "אמר",
-      "gloss": "i tok"
+      "gloss": "i tokim ol yet"
     },
     {
       "surface": "הכהן",
@@ -115,11 +99,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "No ken"
+      "gloss": "i no ken"
     },
     {
       "surface": "תומת",
-      "gloss": "kilim em"
+      "gloss": "kil"
     },
     {
       "surface": "בית",
@@ -130,6 +114,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T19:58:34.611736262Z",
+  "timestamp": "2026-10-19T00:32:30.247633306Z",
   "model": "glm-5.3"
 }

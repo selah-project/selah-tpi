@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "wanpela man",
-      "rationale": "נפש em i 'wanpela man i gat win bilong laip', Inglis 'soul' i no stret"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "tok כי long hia i no gat ples klia long Tok Pisin, mi rausim"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨⟩ pen",
-      "rationale": "ונשא עונו — 'karim rong bilong em', mi bin putim 'pen' bilong klia"
-    }
-  ],
-  "translation": "Na sapos wanpela man i wokim sin, na i mekim wanpela long olgeta ol komand bilong Yahwe we ol i no ken mekim, na em i no save, em i gat salat long en, na bai em i karim ⟨⟩ pen bilong rong bilong em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/5\/17-20.1792348304926.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na sapos wanpela manmeri i rugu, na em i wokim wanpela long olgeta ol tok bilong Yahwe, olsem ol i no ken wokim ⟨i⟩, na em i no save, em i gat sala, na em bai karamapim ⟨i⟩ bilong em olgeta hebil rong bilong em.",
   "tokens": [
     {
       "surface": "ואם",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "wanpela man"
+      "gloss": "wanpela manmeri"
     },
     {
       "surface": "כי",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "תחטא",
-      "gloss": "i wokim sin"
+      "gloss": "i rugu"
     },
     {
       "surface": "ועשתה",
-      "gloss": "na i mekim"
+      "gloss": "na em i wokim"
     },
     {
       "surface": "אחת",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "ol komand"
+      "gloss": "ol tok bilong"
     },
     {
       "surface": "יהוה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "לא",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "תעשינה",
-      "gloss": "ken mekim"
+      "gloss": "ken wokim"
     },
     {
       "surface": "ולא",
@@ -91,17 +65,17 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "em i gat salat long en"
+      "gloss": "em i gat sala"
     },
     {
       "surface": "ונשא",
-      "gloss": "bai em i karim"
+      "gloss": "na em bai karamapim"
     },
     {
       "surface": "עונו",
-      "gloss": "pen bilong rong bilong em"
+      "gloss": "hebil rong bilong em"
     }
   ],
-  "timestamp": "2026-10-18T18:31:44.927573375Z",
+  "timestamp": "2026-10-19T00:48:46.256734190Z",
   "model": "glm-5.3"
 }

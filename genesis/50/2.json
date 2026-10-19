@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kapsaitim spais long bodi",
-      "rationale": "חנט em i pasin bilong Egipt long putim spais long bodi bilong man dai; Tok Pisin i no gat wanpela tok, olsem mi wokim wantaim ol hap tok"
-    },
-    {
-      "kind": "you",
-      "subject": "ol wokman bilong Yosep",
-      "rationale": "Yosep i tokim ol wokman na ol dokta bilong en"
-    }
-  ],
-  "translation": "Na Yosep i givim tok long ol wokman bilong en, ol dokta bilong givim marasin, long save kapsaitim spais long bodi bilong papa bilong en; na ol dokta bilong givim marasin i kapsaitim spais long bodi bilong ⟨את⟩ Yisrael.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "6de483df7cd332d2c50869e4162bdf6560f779e247c4efab0d2b67198531b620",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/50\/1-4.1792347357330.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yosep i givim ol bodda bilong em ⟨את⟩ ol wokman bilong en, ⟨את⟩ ol dokta bilong salim marilung, long go putim spes long ⟨את⟩ papa bilong em; na ol dokta bilong salim marilung i go putim spes ⟨את⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Na Yosep i givim tok"
+      "gloss": "i givim bodda"
     },
     {
       "surface": "יוסף",
@@ -48,32 +27,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol dokta bilong givim marasin"
+      "marks": "ol dokta bilong salim marilung"
     },
     {
       "surface": "הרפאים",
-      "gloss": "ol dokta bilong givim marasin"
+      "gloss": "ol dokta bilong salim marilung"
     },
     {
       "surface": "לחנט",
-      "gloss": "long save kapsaitim spais long bodi"
+      "gloss": "long go putim spes"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "papa bilong en"
+      "marks": "papa bilong em"
     },
     {
       "surface": "אביו",
-      "gloss": "papa bilong en"
+      "gloss": "papa bilong em"
     },
     {
       "surface": "ויחנטו",
-      "gloss": "na i kapsaitim spais long bodi"
+      "gloss": "i go putim spes"
     },
     {
       "surface": "הרפאים",
-      "gloss": "ol dokta bilong givim marasin"
+      "gloss": "ol dokta bilong salim marilung"
     },
     {
       "surface": "את",
@@ -85,6 +64,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-18T18:15:57.331648883Z",
+  "timestamp": "2026-10-19T00:42:06.817857523Z",
   "model": "glm-5.3"
 }

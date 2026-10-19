@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הגד הגיד",
-      "rationale": "infinitiv-absolyut + verb olgeta: 'tok stret i tok', Saul i usim infinitiv-absolyut long strongim tok"
-    },
-    {
-      "kind": "secret",
-      "subject": "tok bilong king wok",
-      "rationale": "Saul i haitim tok bilong king wok long kandere bilong em — samting i stap hait"
-    }
-  ],
-  "translation": "Na Saul i tokim kandere bilong em: Em i tok stret long mipela olsem ol donki meri ol i painim ol pinis; tasol long tok bilong king wok, em i no tokim em wanem samting Semuel i tok.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/10\/13-16.1792351658442.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Saul i tok long kandere bilong en: Em i tok klia klia long mipela olsem ol donki meri ol i painim pinis. Tasol long tok bilong kingdom, Saul i no tokim em wanem Samuel i tok.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tokim"
+      "gloss": "i tok"
     },
     {
       "surface": "שאול",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "דודו",
-      "gloss": "kandere bilong em"
+      "gloss": "kandere bilong en"
     },
     {
       "surface": "הגד",
-      "gloss": "tok stret"
+      "gloss": "tok klia klia"
     },
     {
       "surface": "הגיד",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "ol i painim ol pinis"
+      "gloss": "ol i painim pinis"
     },
     {
       "surface": "האתנות",
@@ -71,7 +50,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tok bilong king wok"
+      "marks": "tok bilong kingdom"
     },
     {
       "surface": "דבר",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "המלוכה",
-      "gloss": "bilong king wok"
+      "gloss": "bilong kingdom"
     },
     {
       "surface": "לא",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "הגיד",
-      "gloss": "i tokim"
+      "gloss": "tokim"
     },
     {
       "surface": "לו",
-      "gloss": "long em"
+      "gloss": "em"
     },
     {
       "surface": "אשר",
-      "gloss": "wanem samting"
+      "gloss": "wanem"
     },
     {
       "surface": "אמר",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Semuel"
+      "gloss": "Samuel"
     }
   ],
-  "timestamp": "2026-10-18T19:27:38.444239152Z",
+  "timestamp": "2026-10-19T00:30:06.844763044Z",
   "model": "glm-5.3"
 }

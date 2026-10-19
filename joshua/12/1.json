@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i paitim ol",
-      "rationale": "Tok Pisin i nidim ol bilong olgeta king, Hibru i no gat em"
-    },
-    {
-      "kind": "substitution",
-      "subject": "painim",
-      "rationale": "ירש em i 'ol kisim graun na ol i rausim ol man i stap bipo' — Tok Pisin i no gat wanpela tok stret"
-    },
-    {
-      "kind": "measurement",
-      "subject": "king list",
-      "rationale": "ves ya em i statim lista bilong ol king — nem na graun bilong ol"
-    }
-  ],
-  "translation": "Na ol dispela em ol king bilong ⟨⟨ol⟩⟩ graun we ol pikinini bilong Yisrael i paitim ol, na ol painim ⟨את⟩ graun bilong ol, long narapela sait bilong wanwara Yarden, long sait we san i kirap, wantaim wara Arnon i go insait long maunten Hermon, na olgeta Arava long sait bilong san i kirap.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "a6b079b3e1feee7c7d89e55f443b1b6061c22b408191308adc00d98d0ba2ad4a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/12\/1-4.1792350737782.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol dispela i ol king bilong ⟨i⟩ graun, ol pikinini bilong Yisrael i paitim ol, na ol kisim ⟨את⟩ graun bilong ol, long hapsait narapela bilong wara Yarden, long sait bilong san i kirap, mai puni: sapos `ה-` bilong Hibru i raitim insait, ol i no raitim — long Tok Pisin, `ples` o `naktaim` i raitim olgeta taim.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "ol king bilong"
+      "gloss": "king bilong"
     },
     {
       "surface": "הארץ",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "ol"
     },
     {
       "surface": "הכו",
-      "gloss": "i paitim ol"
+      "gloss": "i paitim"
     },
     {
       "surface": "בני",
-      "gloss": "ol pikinini bilong"
+      "gloss": "pikinini bilong"
     },
     {
       "surface": "ישראל",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "na ol painim"
+      "gloss": "na ol kisim"
     },
     {
       "surface": "את",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "long narapela sait bilong"
+      "gloss": "long hapsait narapela bilong"
     },
     {
       "surface": "הירדן",
-      "gloss": "wanwara Yarden"
+      "gloss": "wara Yarden"
     },
     {
       "surface": "מזרחה",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "מנחל",
-      "gloss": "wantaim wara"
+      "gloss": "waraples bilong"
     },
     {
       "surface": "ארנון",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "i go long"
+      "gloss": "inap long"
     },
     {
       "surface": "הר",
@@ -116,13 +90,13 @@
     },
     {
       "surface": "הערבה",
-      "gloss": "Arava"
+      "gloss": "Araba"
     },
     {
       "surface": "מזרחה",
       "gloss": "long sait bilong san i kirap"
     }
   ],
-  "timestamp": "2026-10-18T19:12:17.783316605Z",
+  "timestamp": "2026-10-19T00:46:44.986431590Z",
   "model": "glm-5.3"
 }

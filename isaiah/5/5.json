@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נא",
-      "rationale": "Entreaty particle attached to verb, rendered 'plis' rather than KJV 'go to'."
-    },
-    {
-      "kind": "crux",
-      "subject": "לבער",
-      "rationale": "'Kindle\/consume' — grazing animals eat the hedge vs fire consumes it; rendered 'kaikai olgeta'."
-    },
-    {
-      "kind": "you",
-      "subject": "yumi",
-      "rationale": "Yahwe addresses the Jerusalemites\/Judah directly ('bae mi laraitim yumi save')."
-    }
-  ],
-  "translation": "Na nau, plis, bai mi laraitim yumi save ⟨את⟩ ol samting we mi wokim long gaden wain bilong mi: rausim banis lip bilong en, na bai i kamap long kaikai olgeta; brukim banis bilong en, na bai i kamap long trampel.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/5\/5-8.1792353949743.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na nau, mi laikim ⟨⟨את⟩⟩ bilong yumi save, ⟨את⟩ wanem samting mi wokim long gaden wain bilong mi: mi rausim banis rat long em, na em bai kamap kaikai bilong ol abus; mi brukim banis ston long em, na em bai kamap graun bilonglukluk long lukautim na wokabaut antap long en.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,25 +13,25 @@
     },
     {
       "surface": "אודיעה",
-      "gloss": "bai mi laraitim save"
+      "gloss": "bai mi autim"
     },
     {
       "surface": "נא",
-      "gloss": "plis"
+      "gloss": "mi laikim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "yumi"
+      "gloss": "⟨את⟩ long yumi save",
+      "marks": "את"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol samting"
+      "marks": "wanem samting"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "wanem samting"
     },
     {
       "surface": "אני",
@@ -73,37 +47,37 @@
     },
     {
       "surface": "הסר",
-      "gloss": "rausim"
+      "gloss": "mi rausim"
     },
     {
       "surface": "משוכתו",
-      "gloss": "banis lip bilong en"
+      "gloss": "banis rat long em"
     },
     {
       "surface": "והיה",
-      "gloss": "na bai i kamap"
+      "gloss": "na em bai kamap"
     },
     {
       "surface": "לבער",
-      "gloss": "long kaikai olgeta"
+      "gloss": "kaikai bilong ol abus"
     },
     {
       "surface": "פרץ",
-      "gloss": "brukim"
+      "gloss": "mi brukim"
     },
     {
       "surface": "גדרו",
-      "gloss": "banis bilong en"
+      "gloss": "banis ston long em"
     },
     {
       "surface": "והיה",
-      "gloss": "na bai i kamap"
+      "gloss": "na em bai kamap"
     },
     {
       "surface": "למרמס",
-      "gloss": "long trampel"
+      "gloss": "graun bilong wokabaut antap"
     }
   ],
-  "timestamp": "2026-10-18T20:05:49.744746930Z",
+  "timestamp": "2026-10-19T00:43:34.733740576Z",
   "model": "glm-5.3"
 }

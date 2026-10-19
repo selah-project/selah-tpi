@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הדבר דברתי",
-      "rationale": "infinitive-absolute: 'did I speak a word at all?' — rhetorical negation; some read with one tribe (KJV) vs leaders\/shepherds (BSB, geneva 'judges')"
-    },
-    {
-      "kind": "crux",
-      "subject": "שבטי",
-      "rationale": "'tribes' vs 'tribes' read as 'rulers\/shepherds' (shōṭerim-like sense) — BSB renders 'leaders'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הדבר דברתי",
-      "rationale": "infinitive absolute doubling of דבר, intensifies 'ever spoke a word' — lost in Tok Pisin"
-    }
-  ],
-  "translation": "Long olgeta ples we mi wokabaut namel long olgeta pikinini bilong Yisrael, mi tok wanpela tok long wanpela lain bilong Yisrael, we mi givim tok bilong ol i lukautim ⟨את⟩ ol manmeri bilong mi, ⟨את⟩ Yisrael, olsem: Bilong wanem yu no wokim haus bilong ol seda bilong mi?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/7\/5-8.1792352266573.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long olgeta ples we mi wokabaut wantaim olgeta pikinini bilong Yisrael, mi toktok wanpela tok wantaim ⟨את⟩ wanpela long ol lain bilong Yisrael, we mi givim tok bilong lukautim gut ⟨את⟩ ol manmeri bilong mi, ⟨את⟩ Yisrael, olsem: Bilong wanem yumi no wokim haus bilong diwai seda bilong mi?",
   "tokens": [
     {
       "surface": "בכל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "namel long olgeta"
+      "gloss": "wantaim olgeta"
     },
     {
       "surface": "בני",
-      "gloss": "ol pikinini bilong"
+      "gloss": "pikinini bilong"
     },
     {
       "surface": "ישראל",
@@ -63,12 +37,12 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "mi tok"
+      "gloss": "mi toktok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wanpela lain bilong Yisrael"
+      "marks": "wanpela"
     },
     {
       "surface": "אחד",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "שבטי",
-      "gloss": "lain bilong"
+      "gloss": "long ol lain bilong"
     },
     {
       "surface": "ישראל",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "לרעות",
-      "gloss": "bilong ol i lukautim"
+      "gloss": "bilong lukautim gut"
     },
     {
       "surface": "את",
@@ -126,7 +100,7 @@
     },
     {
       "surface": "בניתם",
-      "gloss": "yu no wokim"
+      "gloss": "yumi wokim"
     },
     {
       "surface": "לי",
@@ -138,9 +112,9 @@
     },
     {
       "surface": "ארזים",
-      "gloss": "bilong ol seda"
+      "gloss": "bilong diwai seda"
     }
   ],
-  "timestamp": "2026-10-18T19:37:46.575240534Z",
+  "timestamp": "2026-10-19T00:35:11.047443213Z",
   "model": "glm-5.3"
 }

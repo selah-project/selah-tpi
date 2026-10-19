@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לרוב",
-      "rationale": "Riwbil em i hapaks; KJV 'to complain', JPS 'to strive' — pasin bilong paitim tok."
-    },
-    {
-      "kind": "hapax",
-      "subject": "לרוב",
-      "rationale": "Toki i stap wanpela taim tasol long Tanakh."
-    },
-    {
-      "kind": "crux",
-      "subject": "כעת תאשמו",
-      "rationale": "ASV\/JPS: 'sapos yupela i no givim, yupela bai i gat sala' — KJV i tanim olsem 'bai yupela i no gat sala'."
-    }
-  ],
-  "translation": "Na em bai i kamap, taim ol papa bilong ol, o ol brata bilong ol, i kam long yumi long kot, na yumi tok long ol: Yupela mas sori long ol bilong yumi yet, long wanem, mipela i no kisim, olsem wanpela man, wanpela meri bilong en, long pait; na long wanem yupela i no givim ol long mipela taim nau — sapos yupela i givim, yupela bai i gat sala.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e568ec361d3caf590b52944048fe7697c63b18220fe87bf65668a079f421c0c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/judges\/21\/21-24.1792351503080.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na bihain, taim ol papa bilong ol o ol brata bilong ol i kam long yumi bilong kotim, yumi bai tokim ol: Trutim marimari long yumi wantaim ⟨את⟩ ol, long wanem yumi no bin kisim meri bilong wanwan man long pait, na long wanem yupela no bin givim ol meri long ol, na olsem yupela i no gat rong nau.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "na em bai i kamap"
+      "gloss": "Na bihain"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לרוב",
-      "gloss": "long kot"
+      "gloss": "bilong kotim"
     },
     {
       "surface": "אלינו",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "ואמרנו",
-      "gloss": "na yumi tok"
+      "gloss": "yumi bai tokim ol"
     },
     {
       "surface": "אליהם",
-      "gloss": "long ol"
+      "gloss": ""
     },
     {
       "surface": "חנונו",
-      "gloss": "yupela mas sori long ol"
+      "gloss": "Trutim marimari long yumi wantaim"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ol (ol meri)"
+      "marks": "ol"
     },
     {
       "surface": "כי",
@@ -92,15 +66,15 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "mipela i kisim"
+      "gloss": "yumi no bin kisim"
     },
     {
       "surface": "איש",
-      "gloss": "olsem wanpela man"
+      "gloss": "wanwan man"
     },
     {
       "surface": "אשתו",
-      "gloss": "wanpela meri bilong en"
+      "gloss": "meri bilong en"
     },
     {
       "surface": "במלחמה",
@@ -120,21 +94,21 @@
     },
     {
       "surface": "נתתם",
-      "gloss": "i givim"
+      "gloss": "no bin givim"
     },
     {
       "surface": "להם",
-      "gloss": "long mipela"
+      "gloss": "long ol"
     },
     {
       "surface": "כעת",
-      "gloss": "taim nau"
+      "gloss": "nau"
     },
     {
       "surface": "תאשמו",
-      "gloss": "bai i gat sala"
+      "gloss": "i no gat rong"
     }
   ],
-  "timestamp": "2026-10-18T19:25:03.081118340Z",
+  "timestamp": "2026-10-19T00:47:26.730226795Z",
   "model": "glm-5.3"
 }

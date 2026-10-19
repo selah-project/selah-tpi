@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "painim gutpela",
-      "rationale": "ושלמתי i save tok 'mi salim stret\/painim gutpela' — mi givim bek stret long yu"
-    },
-    {
-      "kind": "crux",
-      "subject": "אמש",
-      "rationale": "'asde' o 'apinun bilong asde\/nait' — asde long Tok Pisin, D4 i holim"
-    }
-  ],
-  "translation": "'Sapos mi no lukim blut bilong Navot na blut bilong ol pikinini bilong em asde, Yahwe i tok' — na bai mi painim gutpela long yu long dispela hap graun, Yahwe i tok. Na nau, kisim em, throwim em i go long dispela hap graun, olsem tok bilong Yahwe.'",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/25-28.1792353462301.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sapos mi no lukim ⟨את⟩ blut bilong Navot na ⟨את⟩ blut bilong ol pikinini man bilong em asde — Yahwe i tok — na bai mi bekim long yu long dispela hap graun — Yahwe i tok — na nau, kisim em, kapsaitim em i go long dispela hap graun, olsem tok bilong Yahwe.",
   "tokens": [
     {
       "surface": "אם",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "נבות",
-      "gloss": "Navot"
+      "gloss": "bilong Navot"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "blut bilong ol pikinini bilong em"
+      "marks": "blut bilong ol pikinini man bilong en"
     },
     {
       "surface": "דמי",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "ol pikinini bilong em"
+      "gloss": "bilong ol pikinini man bilong em"
     },
     {
       "surface": "ראיתי",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ושלמתי",
-      "gloss": "bai mi painim gutpela"
+      "gloss": "na bai mi bekim"
     },
     {
       "surface": "לך",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "בחלקה",
-      "gloss": "long dispela hap"
+      "gloss": "long dispela hap graun"
     },
     {
       "surface": "הזאת",
@@ -108,11 +87,11 @@
     },
     {
       "surface": "שא",
-      "gloss": "kisim"
+      "gloss": "kisim em"
     },
     {
       "surface": "השלכהו",
-      "gloss": "throwim em"
+      "gloss": "kapsaitim em i go"
     },
     {
       "surface": "בחלקה",
@@ -127,6 +106,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T19:57:42.302881355Z",
+  "timestamp": "2026-10-19T00:34:04.878868498Z",
   "model": "glm-5.3"
 }

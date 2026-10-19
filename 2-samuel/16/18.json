@@ -5,48 +5,22 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "Hushai i tok",
-      "rationale": "Hushai's words carry a hidden double meaning — 'he whom Yahwe chose' secretly means David, while Avshalom hears himself."
-    },
-    {
-      "kind": "elision",
-      "subject": "לא אהיה",
-      "rationale": "Second לא absorbed into the emphatic 'em bilong en mi save' ('his I will be', lit. 'no, I will not be')."
-    },
-    {
-      "kind": "you",
-      "subject": "Hushai i tok long Avshalom",
-      "rationale": "Direct answer to Avshalom's question of v17."
-    }
-  ],
-  "translation": "Na Hushai i tok long Avshalom: Nogat, long wanem — man weh Yahwe, na ol manmeri dispela, na olgeta man bilong Yisrael i makim, em bilong en mi save, na wantaim ⟨את⟩ em bai mi stap.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/16\/17-20.1792352437076.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Khusai i tok long Avshalom: Nogat; long wanem, man we Yahwe i bin makimim, na dispela manmeri, na olgeta man bilong Yisrael — bilong em yet mi inap, na ⟨את⟩ wantaim em mi save stap.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "i tok"
     },
     {
       "surface": "חושי",
-      "gloss": "Hushai"
+      "gloss": "Khusai"
     },
     {
       "surface": "אל",
       "gloss": "long"
     },
     {
-      "surface": "אבשלום",
+      "surface": "אבשלם",
       "gloss": "Avshalom"
     },
     {
@@ -59,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "weh"
+      "gloss": "we"
     },
     {
       "surface": "בחר",
-      "gloss": "i makim"
+      "gloss": "bin makimim"
     },
     {
       "surface": "יהוה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "והעם",
-      "gloss": "na ol manmeri"
+      "gloss": "na manmeri"
     },
     {
       "surface": "הזה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "bilong Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לא",
@@ -95,17 +69,18 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "em bilong en mi save"
+      "gloss": "mi inap"
     },
     {
       "surface": "ואתו",
-      "gloss": "wantaim ⟨את⟩ em"
+      "gloss": "⟨את⟩ wantaim em",
+      "marks": "em (man we Yahwe i makimim)"
     },
     {
       "surface": "אשב",
-      "gloss": "bai mi stap"
+      "gloss": "mi save stap"
     }
   ],
-  "timestamp": "2026-10-18T19:40:37.076974100Z",
+  "timestamp": "2026-10-19T00:35:07.124412776Z",
   "model": "glm-5.3"
 }

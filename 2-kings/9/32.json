@@ -5,53 +5,27 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סריסים",
-      "rationale": "'Eunuchs' vs 'officers\/officials' (JPS) — the word can mean either."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tupela, tripela",
-      "rationale": "Indefinite small-number count of the eunuchs who looked out."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Husat i stap wantaim mi?",
-      "rationale": "Jehu's summons-call demands a response from hearers."
-    }
-  ],
-  "translation": "Na em i rausim fes bilong en i go antap long winda, na em i tok: Husat i stap wantaim mi? Husat? Na tupela, tripela saris i lukluk i kam daun long em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/29-32.1792353389183.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yehu i singautim ai bilong en i go long windo, na i tok: Husat i stap wantaim ⟨את⟩ mi? Husat? Na tupela o tripela saris i lukluk i kam daun long em.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "i rausim i go antap"
+      "gloss": "i singautim"
     },
     {
       "surface": "פניו",
-      "gloss": "fes bilong en"
+      "gloss": "ai bilong en"
     },
     {
       "surface": "אל",
-      "gloss": "i go antap long"
+      "gloss": "i go long"
     },
     {
       "surface": "החלון",
-      "gloss": "winda"
+      "gloss": "windo"
     },
     {
       "surface": "ויאמר",
-      "gloss": "na em i tok"
+      "gloss": "na i tok"
     },
     {
       "surface": "מי",
@@ -59,7 +33,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "i stap wantaim ⟨את⟩ mi"
+      "gloss": "wantaim ⟨את⟩ mi",
+      "marks": "mi"
     },
     {
       "surface": "מי",
@@ -67,7 +42,7 @@
     },
     {
       "surface": "וישקיפו",
-      "gloss": "i lukluk i kam daun"
+      "gloss": "i lukluk i kam daun long"
     },
     {
       "surface": "אליו",
@@ -79,13 +54,13 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "tripela"
+      "gloss": "o tripela"
     },
     {
       "surface": "סריסים",
-      "gloss": "saris"
+      "gloss": "ol saris"
     }
   ],
-  "timestamp": "2026-10-18T19:56:29.184661454Z",
+  "timestamp": "2026-10-19T00:34:07.374148605Z",
   "model": "glm-5.3"
 }

@@ -5,62 +5,36 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "האבנים",
-      "rationale": "dual bilong אבן — 'tupela ston' \/ ston bilong tulait \/ stul bilong tulait; ol man i no save long mining"
-    },
-    {
-      "kind": "you",
-      "subject": "ol meri bilong helpim tulait",
-      "rationale": "king i tokim Shifra na Pua stret — tok i go long ol"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וחיה",
-      "rationale": "em i tok 'bai em i lait' — Tok Pisin i larim em i lait, pasin olsem KJV"
-    }
-  ],
-  "translation": "I tok: Long taim yu helpim ol meri Hebru long tulait, na yu lukim ol long antena bilong tupela ston bilong tulait: sapos em i pikinini man, bai yu kilim ⟨את⟩ em; tasol sapos em i pikinini meri, bai yu larim em i lait.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/1\/13-16.1792347340391.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Em i tok: Taim yumi ol meri bilong helpim karim ol ⟨את⟩ meri ol Hebrew, na yu lukluk ol long tupela ston bilong karim pikinini: sapos em i pikinini man, bai yu kilim ⟨את⟩ em i dai; tasol sapos em i pikinini meri, em i ken lip.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tok"
+      "gloss": "Em i tok"
     },
     {
       "surface": "בילדכן",
-      "gloss": "long taim yu helpim tulait"
+      "gloss": "taim yumi ol meri bilong helpim karim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol meri Hebru"
+      "marks": "meri ol Hebrew"
     },
     {
       "surface": "העבריות",
-      "gloss": "ol meri Hebru"
+      "gloss": "meri ol Hebrew"
     },
     {
       "surface": "וראיתן",
-      "gloss": "na yu lukim"
+      "gloss": "yu lukluk ol"
     },
     {
       "surface": "על",
-      "gloss": "long antena bilong"
+      "gloss": "long"
     },
     {
       "surface": "האבנים",
-      "gloss": "tupela ston bilong tulait"
+      "gloss": "tupela ston bilong karim pikinini"
     },
     {
       "surface": "אם",
@@ -72,20 +46,20 @@
     },
     {
       "surface": "הוא",
-      "gloss": "em"
+      "gloss": "em i"
     },
     {
       "surface": "והמתן",
-      "gloss": "bai yu kilim"
+      "gloss": "yu kilim"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "em"
+      "marks": "em (pikinini man)"
     },
     {
       "surface": "ואם",
-      "gloss": "na sapos"
+      "gloss": "tasol sapos"
     },
     {
       "surface": "בת",
@@ -93,13 +67,13 @@
     },
     {
       "surface": "היא",
-      "gloss": "em"
+      "gloss": "em i"
     },
     {
       "surface": "וחיה",
-      "gloss": "bai yu larim em i lait"
+      "gloss": "em i ken lip"
     }
   ],
-  "timestamp": "2026-10-18T18:15:40.392881018Z",
+  "timestamp": "2026-10-19T00:37:27.894722721Z",
   "model": "glm-5.3"
 }

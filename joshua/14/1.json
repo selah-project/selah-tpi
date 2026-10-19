@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "matat",
-      "rationale": "מטה em i rod\/supevisen bilong matat; Tok Pisin i no gat tok bilong en, olsem mi holim nem 'matat' olsem supa."
-    },
-    {
-      "kind": "elision",
-      "subject": "נחלו אותם",
-      "rationale": "Hibru i tok 'ol i mekim ol i kisim' — Tok Pisin mi tanim 'ol i givim long ol'."
-    }
-  ],
-  "translation": "Na ol dispela samting i olgeta ol pikinini bilong Yisrael i kisim long graun bilong Kenahan, ol samting Elazar pris na Yehosua pikinini bilong Nun na ol hetman bilong ol papa bilong ol matat, ol i givim long ol pikinini bilong Yisrael.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "dea73aa7e88ebb3cdb9da0a77ba1ce83d433ee8b37ecf020501d173728d622d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/14\/1-4.1792350745759.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol dispela samting ol i givim long olsem long ol: ol pikinini bilong Yisrael i kisim ol graun olsem long graun bilong Kenaan; Elazar pris, na Yehosua pikinini bilong Nun, na ol hetman bilong ol papa bilong ol lain bilong ol pikinini bilong Yisrael, ol i givim ⟨את⟩ olgeta long ol.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "i olgeta"
+      "gloss": "ol i givim long olsem"
     },
     {
       "surface": "נחלו",
-      "gloss": "kisim"
+      "gloss": "ol i kisim ol graun olsem"
     },
     {
       "surface": "בני",
@@ -54,20 +33,20 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenahan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "אשר",
-      "gloss": "ol samting"
+      "gloss": "ol i givim"
     },
     {
       "surface": "נחלו",
-      "gloss": "ol i givim"
+      "gloss": "givim long olsem"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ol samting"
+      "marks": "olgeta (ol pikinini bilong Yisrael)"
     },
     {
       "surface": "אלעזר",
@@ -99,17 +78,17 @@
     },
     {
       "surface": "המטות",
-      "gloss": "ol matat"
+      "gloss": "ol lain"
     },
     {
       "surface": "לבני",
-      "gloss": "long ol pikinini bilong"
+      "gloss": "bilong ol pikinini bilong"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-18T19:12:25.759820410Z",
+  "timestamp": "2026-10-19T00:46:30.441541450Z",
   "model": "glm-5.3"
 }

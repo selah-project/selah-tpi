@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "כי אם wantaim i wok olsem 'tasol' — wanpela tok Tasol i holim tupela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "ממעיק pl. bilong מעה — insait bilong bel, samting insait long man; Tok Pisin i tok bel bilong yu"
-    }
-  ],
-  "translation": "Na lukluk, tok bilong Yahwe i kamap long em, i tok: Dispela man i no ken kisim olgeta yu; tasol man i kamap ausait bilong bel bilong yu — em bai kisim olgeta yu.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/15\/1-4.1792346478131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na lukim, tok bilong Yahwe i kamap long em, i tok: Dispela man i no inap kamap man bilong holim graun bilong yu; tasol man i save kamap ausait long bel bilong yu, em bai i holim graun bilong yu.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Na lukluk"
+      "gloss": "Na lukim"
     },
     {
       "surface": "דבר",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "no"
     },
     {
       "surface": "יירשך",
-      "gloss": "kisim olgeta yu"
+      "gloss": "i no inap kamap man bilong holim graun bilong yu"
     },
     {
       "surface": "זה",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "tasol"
     },
     {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
       "surface": "אשר",
-      "gloss": "man"
+      "gloss": "man i save"
     },
     {
       "surface": "יצא",
-      "gloss": "i kamap"
+      "gloss": "kamap ausait"
     },
     {
       "surface": "ממעיך",
-      "gloss": "ausait bilong bel bilong yu"
+      "gloss": "long bel bilong yu"
     },
     {
       "surface": "הוא",
@@ -86,9 +65,9 @@
     },
     {
       "surface": "יירשך",
-      "gloss": "bai kisim olgeta yu"
+      "gloss": "bai i holim graun bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T18:01:18.132188982Z",
+  "timestamp": "2026-10-19T00:40:42.729663940Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויעלה מעלינו",
-      "rationale": "YLT\/Hiphil: 'em i salim em i go het long yumi' (Nevukadnetsar i go); KJV\/JPS: 'em i go het i lusim yumi' (Yahwe o laim nem i go)."
-    },
-    {
-      "kind": "you",
-      "subject": "to Jeremiah",
-      "rationale": "Tsidkiyahu i salim ol man bilong askim Yirmeyahu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mirakel",
-      "rationale": "נפלאות — ol wok i stretim olgeta, ol gutpela samting i no ken bihainim; Tok Pisin 'mirakel' i holim bikpela hap tasol."
-    }
-  ],
-  "translation": "Askim Yahwe, mi begs yu, long bilong yumi, long wanem Nevukadnetsar, king bilong Bavel, i pait long ⟨את⟩ yumi; inap Yahwe i wokim yumi olsem olgeta ol mirakel bilong en, na em i go het i lusim yumi.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "f86ecbe3c5b463204cf0420bcb179a9253d05f9738cdd09327278da4b8317342",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/21\/1-4.1792355288226.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Askim plis bilong yumi ⟨את⟩ Yahwe, long wanem Nevukadnetsar, king bilong Babel, i pait long yumi; mintaem Yahwe bai wokim ⟨את⟩ yumi olsem olgeta ol samting wondamartin bilong en, na em i go antap i lusim yumi.",
   "tokens": [
     {
       "surface": "דרש",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "mi begs yu"
+      "gloss": "plis"
     },
     {
       "surface": "בעדנו",
-      "gloss": "long bilong yumi"
+      "gloss": "bilong yumi"
     },
     {
       "surface": "את",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "king bilong"
+      "gloss": "king"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "נלחם",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "אולי",
-      "gloss": "inap"
+      "gloss": "mintaem"
     },
     {
       "surface": "יעשה",
-      "gloss": "i wokim"
+      "gloss": "wokim"
     },
     {
       "surface": "יהוה",
@@ -92,7 +66,8 @@
     },
     {
       "surface": "אותנו",
-      "gloss": "⟨את⟩ yumi"
+      "gloss": "⟨את⟩ yumi",
+      "marks": "yumi"
     },
     {
       "surface": "ככל",
@@ -100,17 +75,17 @@
     },
     {
       "surface": "נפלאתיו",
-      "gloss": "ol mirakel bilong en"
+      "gloss": "ol samting wondamartin bilong en"
     },
     {
       "surface": "ויעלה",
-      "gloss": "na em i go het"
+      "gloss": "na em i go antap i lusim yumi"
     },
     {
       "surface": "מעלינו",
-      "gloss": "i lusim yumi"
+      "gloss": "long yumi"
     }
   ],
-  "timestamp": "2026-10-18T20:28:08.227487022Z",
+  "timestamp": "2026-10-19T00:52:41.151236319Z",
   "model": "glm-5.3"
 }

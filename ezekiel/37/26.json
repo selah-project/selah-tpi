@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וכרתי ברית",
-      "rationale": "Tok Hibru i tok 'katim kontrak' (karat) — Tok Pisin i tok 'wokim kontrak'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "Tupela aleph-tav i stap, wan wan i makim olgeta man; mi rit onli long tok"
-    }
-  ],
-  "translation": "Na mi bai wokim kontrak bilong pis wantaim ol, kontrak bilong oltaim em bai i stap wantaim ol; na mi bai putum ⟨את⟩ ol na mi bai olsem gutpela moa ol; na mi bai putim ⟨את⟩ Miskan bilong mi long namel bilong ol, inap oltaim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/37\/25-28.1792356735594.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi bai katim wanpela kontrak bilong pis long ol; kontrak bilong oltaim em i stap long ⟨את⟩ ol; na mi bai putim ol long ples, na mi bai plantiim ol, na mi bai putim ⟨את⟩ ples holi bilong mi long namel bilong ol, long oltaim.",
   "tokens": [
     {
       "surface": "וכרתי",
-      "gloss": "na mi bai wokim kontrak"
+      "gloss": "na mi bai katim"
     },
     {
       "surface": "להם",
-      "gloss": "wantaim ol"
+      "gloss": "long ol"
     },
     {
       "surface": "ברית",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "bilong pis"
+      "gloss": "pis"
     },
     {
       "surface": "ברית",
@@ -50,29 +29,29 @@
     },
     {
       "surface": "עולם",
-      "gloss": "bilong oltaim"
+      "gloss": "oltaim"
     },
     {
       "surface": "יהיה",
-      "gloss": "em bai i stap"
-    },
-    {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ wantaim ol",
-      "marks": "ol"
-    },
-    {
-      "surface": "ונתתים",
-      "gloss": "na mi bai putum ol"
-    },
-    {
-      "surface": "והרביתי",
-      "gloss": "na mi bai olsem gutpela moa ol"
+      "gloss": "em i stap"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ol",
-      "marks": "ol"
+      "marks": "ol man bilong mi"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "na mi bai putim ol long ples"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "na mi bai plantiim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol man bilong mi"
     },
     {
       "surface": "ונתתי",
@@ -81,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Miskan bilong mi"
+      "marks": "ples holi bilong mi"
     },
     {
       "surface": "מקדשי",
-      "gloss": "Miskan bilong mi"
+      "gloss": "ples holi bilong mi"
     },
     {
       "surface": "בתוכם",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "inap oltaim"
+      "gloss": "long oltaim"
     }
   ],
-  "timestamp": "2026-10-18T20:52:15.596193439Z",
+  "timestamp": "2026-10-19T00:40:32.542220305Z",
   "model": "glm-5.3"
 }

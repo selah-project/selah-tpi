@@ -5,43 +5,7 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אחקר",
-      "rationale": "כי hat long hia: ol i skelim olsem oat ('by YHWH') o taim ('when') — mi usim 'taim', ASV\/JPS i usim oat."
-    },
-    {
-      "kind": "idiom",
-      "subject": "גליתי את אזנך",
-      "rationale": "Literal 'mi opim ear bilong yu' — Hibru idiom bilong 'tokim klia'; Tok Pisin 'opim ear' i wok yet."
-    },
-    {
-      "kind": "crux",
-      "subject": "השלשית",
-      "rationale": "KJV 'any time, or the third day' vs YLT\/JPS 'tomorrow or the third day' — mi bihainim 'tete de' (third day)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אז",
-      "rationale": "'אז' i go insait long 'mi no salim ... wantaim' — mi elisim long tok, negesen i holim yet."
-    },
-    {
-      "kind": "mystery",
-      "subject": "sentence i no pinis",
-      "rationale": "Oat bilong Yonatan i stat hia na i no pinis — i go olgeta long ves 13; tok i sikarap."
-    }
-  ],
-  "translation": "Na Yonatan i tok long David: Yahwe, Elohim bilong Yisrael — taim mi painimaut ⟨את⟩ bel bilong papa bilong mi, long dispela taim tumora o long tete de, na sapos i stap gutpela long David, na mi no salim tok i kam long yu, na mi no opim ⟨את⟩ ear bilong yu —",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/9-12.1792351822394.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yonatan i tok long David: Yahwe, Elohim bilong Yisrael, sapos mi skelim ⟨את⟩ papa bilong mi, long dispela taim bilong tumora, o long tripela de, na sapos i gutpela long David, na mi no salim man i kam long yu na mi opim ⟨את⟩ ear bilong yu —",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -73,11 +37,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "taim"
+      "gloss": "sapos"
     },
     {
       "surface": "אחקר",
-      "gloss": "mi painimaut"
+      "gloss": "mi skelim"
     },
     {
       "surface": "את",
@@ -86,11 +50,11 @@
     },
     {
       "surface": "אבי",
-      "gloss": "bel bilong papa bilong mi"
+      "gloss": "papa bilong mi"
     },
     {
       "surface": "כעת",
-      "gloss": "long dispela taim"
+      "gloss": "long dispela taim bilong"
     },
     {
       "surface": "מחר",
@@ -98,7 +62,7 @@
     },
     {
       "surface": "השלשית",
-      "gloss": "long tete de"
+      "gloss": "o long tripela de"
     },
     {
       "surface": "והנה",
@@ -106,7 +70,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "i stap gutpela"
+      "gloss": "i gutpela"
     },
     {
       "surface": "אל",
@@ -122,11 +86,11 @@
     },
     {
       "surface": "אז",
-      "gloss": ""
+      "gloss": "long taim olsem"
     },
     {
       "surface": "אשלח",
-      "gloss": "salim tok i kam"
+      "gloss": "salim man i kam"
     },
     {
       "surface": "אליך",
@@ -134,7 +98,7 @@
     },
     {
       "surface": "וגליתי",
-      "gloss": "na mi no opim"
+      "gloss": "na mi opim"
     },
     {
       "surface": "את",
@@ -146,6 +110,6 @@
       "gloss": "ear bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T19:30:22.396013003Z",
+  "timestamp": "2026-10-19T00:30:34.509299661Z",
   "model": "glm-5.3"
 }

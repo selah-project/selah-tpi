@@ -5,23 +5,7 @@
   "book": "1-chronicles",
   "lang": "tpi",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "wantaim",
-      "rationale": "Hebrew joins the two offerings with a single ו; Tok Pisin needs 'wantaim' to link them"
-    }
-  ],
-  "translation": "Na ol i bringim ⟨את⟩ bokis bilong Elohim, na ol i putim ⟨em⟩ namel long haus sel we David i setapim long ⟨em⟩, na ol i presentim ofa ol i kukim olgeta wantaim ol ofa bilong wanbel long pes bilong Elohim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-chronicles\/16\/1-4.1792362044705.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i bringim ⟨את⟩ bokis bilong Elohim, na ol i putim ⟨את⟩ ⟨em⟩ long namel bilong sel we David i spanim long em, na ol i bringim klostu ofa ol i kukim olgeta na ofa bilong pes wantaim long pes bilong Elohim.",
   "tokens": [
     {
       "surface": "ויביאו",
@@ -46,16 +30,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨em⟩",
-      "marks": "bokis bilong Elohim"
+      "gloss": "⟨את⟩",
+      "marks": "long namel bilong sel"
     },
     {
       "surface": "בתוך",
-      "gloss": "namel long"
+      "gloss": "long namel"
     },
     {
       "surface": "האהל",
-      "gloss": "haus sel"
+      "gloss": "bilong sel"
     },
     {
       "surface": "אשר",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "setapim"
+      "gloss": "spanim"
     },
     {
       "surface": "לו",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "ויקריבו",
-      "gloss": "ol i presentim"
+      "gloss": "ol i bringim klostu"
     },
     {
       "surface": "עלות",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "ושלמים",
-      "gloss": "ofa bilong wanbel"
+      "gloss": "ofa bilong pes wantaim"
     },
     {
       "surface": "לפני",
@@ -94,6 +78,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-18T22:20:44.706620552Z",
+  "timestamp": "2026-10-19T00:29:31.769773621Z",
   "model": "glm-5.3"
 }

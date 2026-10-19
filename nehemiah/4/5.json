@@ -5,32 +5,11 @@
   "book": "nehemiah",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relative particle folded into 'inap taim' — no separate Tok Pisin word"
-    },
-    {
-      "kind": "crux",
-      "subject": "verse placement",
-      "rationale": "Hebrew verse 5 is the foes' speech (JPS\/KJV numbering differs); existing English renderings shown mix verse 4b material"
-    }
-  ],
-  "translation": "Na ol birua bilong yumi i tok: Ol bai i no save, na ol bai i no lukluk, inap taim mipela i kam insait long namel bilong ol, na mipela i kilim ol i dai, na mipela i stopim ⟨את⟩ wok.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/4\/5-8.1792361604995.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol birua bilong yumi ol i tok: Bai ol i no save, na bai ol i no lukluk, inap taim yumi go insait namel long ol, na yumi kilim ol i dai, na yumi stopim ⟨את⟩ wok.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "i tok"
+      "gloss": "ol i tok"
     },
     {
       "surface": "צרינו",
@@ -41,8 +20,8 @@
       "gloss": "no"
     },
     {
-      "surface": "יידעו",
-      "gloss": "save"
+      "surface": "ידעו",
+      "gloss": "bai ol i save"
     },
     {
       "surface": "ולא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "lukluk"
+      "gloss": "bai ol i lukluk"
     },
     {
       "surface": "עד",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "נבוא",
-      "gloss": "mipela i kam"
+      "gloss": "yumi go"
     },
     {
       "surface": "אל",
-      "gloss": "long"
+      "gloss": "insait"
     },
     {
       "surface": "תוכם",
-      "gloss": "namel bilong ol"
+      "gloss": "namel long ol"
     },
     {
       "surface": "והרגנום",
-      "gloss": "na mipela i kilim ol i dai"
+      "gloss": "na yumi kilim ol i dai"
     },
     {
       "surface": "והשבתנו",
-      "gloss": "na mipela i stopim"
+      "gloss": "na yumi stopim"
     },
     {
       "surface": "את",
@@ -90,6 +69,6 @@
       "gloss": "wok"
     }
   ],
-  "timestamp": "2026-10-18T22:13:24.995697913Z",
+  "timestamp": "2026-10-19T00:48:25.524067248Z",
   "model": "glm-5.3"
 }

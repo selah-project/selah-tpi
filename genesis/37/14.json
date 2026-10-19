@@ -5,40 +5,19 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שלום",
-      "rationale": "Hibru tok holia 'shalom' — orait, gutpela sindaun; Tok Pisin 'orait o nogat' i holim pasin bilong askim."
-    },
-    {
-      "kind": "alternative",
-      "subject": "מעמק חברון",
-      "rationale": "'Veli bilong Hevron' — sampela ritas i tok Hevron i stap antap long maunten, tasol Hibru i tok veli."
-    }
-  ],
-  "translation": "Na em i tok long em: Yu go nau, lukim ol brata bilong yu ol i orait o nogat, na ol sipsip tu ol i orait o nogat, na brongim tok bek long mi. Na em i salim em i go long veli bilong Hevron, na em i kamap long Sekem.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/37\/13-16.1792347057432.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Em i tokim ⟨em⟩: Go nau, lukim ⟨את⟩ olgeta ol i orait o nogat bilong ol brata bilong yu, na ⟨את⟩ olgeta ol i orait o nogat bilong ol sipsip na meme, na bringim tok i kam bek long mi. Na em i salim ⟨את⟩ em i go long vale bilong Kevron, na em i kamap long Sekem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "em i tokim"
     },
     {
       "surface": "לו",
-      "gloss": "long em"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "לך",
-      "gloss": "yu go"
+      "gloss": "go"
     },
     {
       "surface": "נא",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol brata bilong yu ol i orait o nogat"
+      "marks": "olgeta ol i orait o nogat bilong ol brata bilong yu"
     },
     {
       "surface": "שלום",
-      "gloss": "orait bilong"
+      "gloss": "olgeta ol i orait o nogat"
     },
     {
       "surface": "אחיך",
@@ -64,11 +43,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ol sipsip ol i orait o nogat"
+      "marks": "olgeta ol i orait o nogat bilong ol sipsip na meme"
     },
     {
       "surface": "שלום",
-      "gloss": "orait bilong"
+      "gloss": "olgeta ol i orait o nogat"
     },
     {
       "surface": "הצאן",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "והשבני",
-      "gloss": "na brongim bek long mi"
+      "gloss": "bringim tok i kam bek long mi"
     },
     {
       "surface": "דבר",
@@ -84,25 +63,25 @@
     },
     {
       "surface": "וישלחהו",
-      "gloss": "Na i salim em"
+      "gloss": "em i salim em i go"
     },
     {
       "surface": "מעמק",
-      "gloss": "long veli bilong"
+      "gloss": "long vale"
     },
     {
       "surface": "חברון",
-      "gloss": "Hevron"
+      "gloss": "Kevron"
     },
     {
       "surface": "ויבא",
-      "gloss": "na i kamap"
+      "gloss": "em i kamap"
     },
     {
       "surface": "שכמה",
       "gloss": "long Sekem"
     }
   ],
-  "timestamp": "2026-10-18T18:10:57.433222777Z",
+  "timestamp": "2026-10-19T00:41:29.035715483Z",
   "model": "glm-5.3"
 }

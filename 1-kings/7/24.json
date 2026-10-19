@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ten long wanpela ama",
-      "rationale": "Namba bilong ol knob — ten long wanpela ama, tupela lain olgeta raun long Solwara."
-    },
-    {
-      "kind": "hapax",
-      "subject": "פקעים",
-      "rationale": "Tok 'pekaim' (ol knob raunpela, semi-globe) i kamap long Tanakh long hia tasol na long Stat 6:18 (narapela ples wantaim 'pes')."
-    }
-  ],
-  "translation": "Na ol knob raunpela i stap aninit long lip bilong en, raun olgeta; tupela... ten long wanpela ama ol i go raun long ⟨את⟩ Solwara olgeta; tupela lain bilong ol knob, ol i kotim wantaim taim ol i meltim en.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "33701fd0d0bb83b4005a731db5de1f6eea5b4b1460460621e95a6469368eb57b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/7\/21-24.1792352825400.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol hap-bol i stap daunbilo long lip bilong en, i go long raun, ol i raunim ⟨את⟩ em — ten long wanpela ama — ol i raunim ⟨את⟩ Solwara long raun; tupela lain bilong ol hap-bol, ol i kapsaitim ⟨i⟩ kamap wantaim long kapsait bilong en.",
   "tokens": [
     {
       "surface": "ופקעים",
-      "gloss": "Na ol knob raunpela"
+      "gloss": "na ol hap-bol"
     },
     {
       "surface": "מתחת",
-      "gloss": "i stap aninit"
+      "gloss": "daunbilo"
     },
     {
       "surface": "לשפתו",
@@ -42,15 +21,16 @@
     },
     {
       "surface": "סביב",
-      "gloss": "raun"
+      "gloss": "i go long raun"
     },
     {
       "surface": "סבבים",
-      "gloss": "ol i go raun long"
+      "gloss": "ol i raunim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩",
+      "marks": "em"
     },
     {
       "surface": "עשר",
@@ -62,7 +42,7 @@
     },
     {
       "surface": "מקפים",
-      "gloss": "ol i go raun long"
+      "gloss": "ol i raunim"
     },
     {
       "surface": "את",
@@ -75,7 +55,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "olgeta raun"
+      "gloss": "long raun"
     },
     {
       "surface": "שני",
@@ -87,17 +67,17 @@
     },
     {
       "surface": "הפקעים",
-      "gloss": "bilong ol knob"
+      "gloss": "ol hap-bol"
     },
     {
       "surface": "יצקים",
-      "gloss": "ol i kotim"
+      "gloss": "ol i kapsaitim"
     },
     {
       "surface": "ביצקתו",
-      "gloss": "wantaim taim ol i meltim en"
+      "gloss": "long kapsait bilong en"
     }
   ],
-  "timestamp": "2026-10-18T19:47:05.402024833Z",
+  "timestamp": "2026-10-19T00:29:45.074812613Z",
   "model": "glm-5.3"
 }

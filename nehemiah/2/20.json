@@ -5,45 +5,20 @@
   "book": "nehemiah",
   "lang": "tpi",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "long yupela",
-      "rationale": "Nehemia i bekim tok stret long Sanbalat, Tovia, na Geshem."
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsedek",
-      "rationale": "וצדקה — \"tsedek\" mi holim long nois bilong Hibru; sampela tanim i tok \"rait\" o \"wok gutpela\"."
-    },
-    {
-      "kind": "alternative",
-      "subject": "אותם",
-      "rationale": "Sampela i lukim אות׸ olsem ⟨את⟩ wantaim suffix, tasol long gramer em i pronon \"ol\" — mi bihainim gramar."
-    }
-  ],
-  "translation": "Na mi bekim ol long tok, na mi tokim ol: Elohim bilong ol heven, em bai i mekim gutpela long mipela; na mipela, ol wokboi bilong em, kirap, yumi wokim; tasol long yupela i no gat hap, i no gat tsedek, i no gat tingting long en, long Yerusalayim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "9e33d046a47d82ea6f36e9c7c3feda24e8101225ff898250dfcfc3785a1a93cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/nehemiah\/2\/17-20.1792361604775.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi givim ⟨את⟩ tok bek long ol, na mi tokim ol: Elohim bilong ol heven, em yet bai givim gutpela lukaut long yumi; na yumi, ol wokman bilong em, bai yumi kirap na yumi wokim; tasol long yupela i no gat hap, i no gat tsedek, i no gat memorial long Yerusalayim.",
   "tokens": [
     {
       "surface": "ואשיב",
-      "gloss": "na mi bekim"
+      "gloss": "mi givim bek"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "tok bek"
     },
     {
       "surface": "דבר",
-      "gloss": "long tok"
+      "gloss": "tok bek"
     },
     {
       "surface": "ואומר",
@@ -51,39 +26,39 @@
     },
     {
       "surface": "להם",
-      "gloss": "ol"
+      "gloss": "long ol"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim bilong"
+      "gloss": "Elohim"
     },
     {
       "surface": "השמים",
-      "gloss": "ol heven"
+      "gloss": "bilong ol heven"
     },
     {
       "surface": "הוא",
-      "gloss": "em"
+      "gloss": "em yet"
     },
     {
       "surface": "יצליח",
-      "gloss": "bai i mekim gutpela"
+      "gloss": "bai givim gutpela lukaut"
     },
     {
       "surface": "לנו",
-      "gloss": "long mipela"
+      "gloss": "long yumi"
     },
     {
       "surface": "ואנחנו",
-      "gloss": "na mipela"
+      "gloss": "na yumi"
     },
     {
       "surface": "עבדיו",
-      "gloss": "ol wokboi bilong em"
+      "gloss": "ol wokman bilong em"
     },
     {
       "surface": "נקום",
-      "gloss": "kirap"
+      "gloss": "yumi kirap"
     },
     {
       "surface": "ובנינו",
@@ -91,7 +66,7 @@
     },
     {
       "surface": "ולכם",
-      "gloss": "long yupela"
+      "gloss": "tasol long yupela"
     },
     {
       "surface": "אין",
@@ -103,17 +78,17 @@
     },
     {
       "surface": "וצדקה",
-      "gloss": "na tsedek"
+      "gloss": "tsedek"
     },
     {
       "surface": "וזכרון",
-      "gloss": "na tingting long en"
+      "gloss": "memorial"
     },
     {
       "surface": "בירושלם",
       "gloss": "long Yerusalayim"
     }
   ],
-  "timestamp": "2026-10-18T22:13:24.777338201Z",
+  "timestamp": "2026-10-19T00:48:41.608665266Z",
   "model": "glm-5.3"
 }

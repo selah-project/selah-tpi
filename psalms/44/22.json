@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "לב",
-      "rationale": "D4: לב is 'bel' (tingting na laik), not 'hat'"
-    },
-    {
-      "kind": "secret",
-      "subject": "תעלמות לב",
-      "rationale": "Verse names the hidden things of the heart that Elohim knows"
-    },
-    {
-      "kind": "elision",
-      "subject": "הלא",
-      "rationale": "Rhetorical negative question rendered as negative statement with 'sapos'"
-    }
-  ],
-  "translation": "Sapos Elohim i no skelim ⟨את⟩ dispela samting, bilong wanem em i save ol secret bilong bel.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/44\/21-24.1792358234598.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bai Elohim i no skelim ⟨את⟩ dispela samting? Long wanem, em i save ol sekret bilong bel.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "sapos … i no"
+      "gloss": "i no"
     },
     {
       "surface": "אלהים",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "יחקר",
-      "gloss": "skelim ⟨את⟩"
+      "gloss": "skelim"
     },
     {
       "surface": "זאת",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bilong wanem"
+      "gloss": "long wanem"
     },
     {
       "surface": "הוא",
@@ -59,17 +33,17 @@
     },
     {
       "surface": "ידע",
-      "gloss": "i save"
+      "gloss": "save"
     },
     {
       "surface": "תעלמות",
-      "gloss": "ol secret"
+      "gloss": "ol sekret"
     },
     {
       "surface": "לב",
-      "gloss": "bilong bel"
+      "gloss": "bel"
     }
   ],
-  "timestamp": "2026-10-18T21:17:14.598888032Z",
+  "timestamp": "2026-10-19T00:51:29.182433004Z",
   "model": "glm-5.3"
 }

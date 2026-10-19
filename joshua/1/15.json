@@ -5,40 +5,19 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Second אשר has no separate gloss; Tok Pisin relativizer we already carried by 'graun we Mose i givim'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ירש\/ירושה",
-      "rationale": "Possess (ירש) and possession\/inheritance (ירשתכם) share one root — kept as kisim \/ samting bilong."
-    }
-  ],
-  "translation": "I go inap long taim Yahwe i givim malolo long ol brata bilong yupela, olsem long yupela tu, na ol tu i kisim graun we Yahwe, Elohim bilong yupela, i givim long ol; na bihain yupela ken bek long graun bilong olgeta samting bilong yupela, na yupela kisim ⟨את⟩ em, graun we Mose, wokman bilong Yahwe, i givim long yupela, long narapela saim bilong Jarden, long hap we san i kamap.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "b00f3725aff8b8cb07455fd3574627ec5a02bc7597f46b8b1b1d790b975f1660",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/1\/13-16.1792350515798.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "I go insait long taim Yahwe i givim malolo long ol brata bilong yu, olsem ⟨em⟩ i givim long yu, na ol tu i tekim ⟨את⟩ graun we Yahwe Elohim bilong yu i givim long ol; na bai yu go bek long graun bilong olgeta bilong yu, na yu tekim ⟨את⟩ em, we Mose, wokman bilong Yahwe, i givim long yu, long narapela sai bilong Jorden, long hap we san i kamap.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "i go inap long taim"
+      "gloss": "i go insait long taim"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "we"
     },
     {
       "surface": "יניח",
-      "gloss": "i givim malolo"
+      "gloss": "givim malolo"
     },
     {
       "surface": "יהוה",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "לאחיכם",
-      "gloss": "long ol brata bilong yupela"
+      "gloss": "long ol brata bilong yu"
     },
     {
       "surface": "ככם",
-      "gloss": "olsem long yupela"
+      "gloss": "olsem yu"
     },
     {
       "surface": "וירשו",
-      "gloss": "na ol i kisim"
+      "gloss": "na ol i tekim"
     },
     {
       "surface": "גם",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim bilong yupela"
+      "gloss": "Elohim bilong yu"
     },
     {
       "surface": "נתן",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "ושבתם",
-      "gloss": "na yupela ken bek"
+      "gloss": "na yu go bek"
     },
     {
       "surface": "לארץ",
@@ -103,20 +82,20 @@
     },
     {
       "surface": "ירשתכם",
-      "gloss": "bilong olgeta samting bilong yupela"
+      "gloss": "bilong olgeta bilong yu"
     },
     {
       "surface": "וירשתם",
-      "gloss": "na yupela kisim"
+      "gloss": "na yu tekim"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ em",
-      "marks": "graun"
+      "gloss": "⟨את⟩",
+      "marks": "em (graun)"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "we"
     },
     {
       "surface": "נתן",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "long yupela"
+      "gloss": "long yu"
     },
     {
       "surface": "משה",
@@ -132,7 +111,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "wokman"
+      "gloss": "wokman bilong"
     },
     {
       "surface": "יהוה",
@@ -140,11 +119,11 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "long narapela saim bilong"
+      "gloss": "long narapela sai bilong"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jarden"
+      "gloss": "Jorden"
     },
     {
       "surface": "מזרח",
@@ -152,9 +131,9 @@
     },
     {
       "surface": "השמש",
-      "gloss": ""
+      "gloss": "san"
     }
   ],
-  "timestamp": "2026-10-18T19:08:35.799809517Z",
+  "timestamp": "2026-10-19T00:46:29.862405688Z",
   "model": "glm-5.3"
 }

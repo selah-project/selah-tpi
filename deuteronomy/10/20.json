@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "aleph-tav plus pronoun suffix rendered as bracketed ⟨em⟩ pointing at Yahwe"
-    },
-    {
-      "kind": "idiom",
-      "subject": "תשבע",
-      "rationale": "Hebrew 'swear' is literally 'seven oneself', repeating an oath seven times; lost in Tok Pisin"
-    },
-    {
-      "kind": "you",
-      "subject": "Yisrael",
-      "rationale": "direct address to Israel, second-person singular commands"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יהוה ... אתו",
-      "rationale": "opening את fronts the Name for emphasis, fronted object structure; rendered by word order in Tok Pisin"
-    }
-  ],
-  "translation": "⟨את⟩ Yahwe Elohim bilong yu yu ken scared long ⟨em⟩, yu ken wokim ⟨em⟩, na wantaim ⟨em⟩ yu ken holim strong, na long nem bilong ⟨em⟩ yu ken swearim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "0110e52f8b0a7941e2fed092f430ee3c8975ff61568263f3f5cc34bab88f1329",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/10\/20-20.1792362988558.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ Yahwe Elohim bilong yu yu ken bia long em, ⟨את⟩ ⟨em⟩ yu ken wokim sevim, na long em yu ken kasim strong, na long nem bilong em yu ken sutim tok moa.",
   "tokens": [
     {
       "surface": "את",
@@ -53,34 +22,34 @@
     },
     {
       "surface": "תירא",
-      "gloss": "yu ken scared long"
+      "gloss": "yu ken bia long em"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨em⟩",
-      "marks": "yu ken wokim — object: Yahwe"
+      "gloss": "⟨את⟩",
+      "marks": "yu ken wokim sevim"
     },
     {
       "surface": "תעבד",
-      "gloss": "yu ken wokim"
+      "gloss": "yu ken wokim sevim"
     },
     {
       "surface": "ובו",
-      "gloss": "wantaim ⟨em⟩"
+      "gloss": "na long em"
     },
     {
       "surface": "תדבק",
-      "gloss": "yu ken holim strong"
+      "gloss": "yu ken kasim strong"
     },
     {
       "surface": "ובשמו",
-      "gloss": "long nem bilong ⟨em⟩"
+      "gloss": "na long nem bilong em"
     },
     {
       "surface": "תשבע",
-      "gloss": "yu ken swearim"
+      "gloss": "yu ken sutim tok moa"
     }
   ],
-  "timestamp": "2026-10-18T22:36:28.559442020Z",
+  "timestamp": "2026-10-19T00:35:24.105600817Z",
   "model": "glm-5.3"
 }

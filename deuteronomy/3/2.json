@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Mose",
-      "rationale": "Yahwe i tokim Mose stret — 'yu' long olgeta tok"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כי → bilong",
-      "rationale": "כי hia i min 'bilong' (beach), no 'bikos'"
-    }
-  ],
-  "translation": "Na Yahwe i tokim mi: No ken pret long em, bilong mi givim ⟨את⟩ em wantaim ⟨את⟩ olgeta man bilong en na ⟨את⟩ graun bilong em long han bilong yu; na yu bai mekim long em olsem yu bin mekim long Sihon, king bilong ol Amorai, we i stap long Heshbon.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/3\/1-4.1792349764310.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i tok long mi: No ken scare long ⟨את⟩ em, bilong mi givim ⟨את⟩ em, na ⟨את⟩ olgeta manmeri bilong en, na ⟨את⟩ graun bilong em, long han bilong yu; na yu bai wokim ⟨i⟩ olsem wanem yu wokim long Sihon, king bilong ol Emorait, we i stap long Hesbon.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Yahwe i tokim"
+      "gloss": "Na Yahwe i tok"
     },
     {
       "surface": "יהוה",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "אל",
-      "gloss": "no ken"
+      "gloss": "No ken"
     },
     {
       "surface": "תירא",
-      "gloss": "pret"
+      "gloss": "scare long"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "em"
+      "marks": "em (Og, king bilong Basan)"
     },
     {
       "surface": "כי",
@@ -72,8 +51,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "wantaim ⟨את⟩",
-      "marks": "olgeta man bilong en"
+      "gloss": "na ⟨את⟩",
+      "marks": "olgeta manmeri bilong en"
     },
     {
       "surface": "כל",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "man bilong en"
+      "gloss": "manmeri bilong en"
     },
     {
       "surface": "ואת",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "yu bai mekim"
+      "gloss": "na yu bai wokim"
     },
     {
       "surface": "לו",
@@ -102,11 +81,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "olsem"
+      "gloss": "olsem wanem"
     },
     {
       "surface": "עשית",
-      "gloss": "yu bin mekim"
+      "gloss": "yu wokim"
     },
     {
       "surface": "לסיחן",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "bilong ol Amorai"
+      "gloss": "bilong ol Emorait"
     },
     {
       "surface": "אשר",
@@ -126,13 +105,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "i stap"
+      "gloss": "i stap long"
     },
     {
       "surface": "בחשבון",
-      "gloss": "long Heshbon"
+      "gloss": "Hesbon"
     }
   ],
-  "timestamp": "2026-10-18T18:56:04.311033631Z",
+  "timestamp": "2026-10-19T00:36:49.685702599Z",
   "model": "glm-5.3"
 }

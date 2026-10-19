@@ -5,68 +5,59 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מזרח השמש",
-      "rationale": "Hebrew ‘rait bilong san i kirap’ = sait ist; ‘senahet’ (משמאל) long bihain bilong graun i min natsaid"
-    },
-    {
-      "kind": "measurement",
-      "subject": "banis",
-      "rationale": "Skelim banis i go het — nem bilong ples na ol sait"
-    }
-  ],
-  "translation": "Na banis i tanim bek i go long sait bilong san i kirap, long Bet-Dagon, na i wokabaut i go klin long graun bilong Zevulon, na long gulintvali bilong Yiftakh-El i go long natsaid, long Bet-ha-Emek na Neiel; na i go aut i go long Kavul long senahet.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "7e5af7e62833d735835827018f1a1157f9ec4dd88ca9dcf004c8197f1ff0e6a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/19\/25-28.1792350829230.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i kirap i go bek long hap bilong san i kamap, Bet-Dagon, na em i wokabaut i go kasem Zbulon, na i go long Gel bilong Yiftael-El, long hap naip, Bet-Emek na Neiel; na em i go ausait i go long Kavul long han kais.",
   "tokens": [
     {
       "surface": "ושב",
-      "gloss": "i tanim bek"
+      "gloss": "i go bek"
     },
     {
       "surface": "מזרח",
-      "gloss": "long sait bilong san i kirap"
+      "gloss": "long hap bilong san i kamap"
     },
     {
       "surface": "השמש",
       "gloss": "san"
     },
     {
-      "surface": "בית דגן",
-      "gloss": "Bet-Dagon"
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "Dagon"
     },
     {
       "surface": "ופגע",
-      "gloss": "na i wokabaut i go klin long"
+      "gloss": "i wokabaut i go kasem"
     },
     {
       "surface": "בזבלון",
-      "gloss": "Zevulon"
+      "gloss": "Zbulon"
     },
     {
       "surface": "ובגי",
-      "gloss": "na long gulintvali bilong"
+      "gloss": "na i go long gel"
     },
     {
-      "surface": "יפתח אל",
-      "gloss": "Yiftakh-El"
+      "surface": "יפתח",
+      "gloss": "Yiftael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
     },
     {
       "surface": "צפונה",
-      "gloss": "i go long natsaid"
+      "gloss": "long hap naip"
     },
     {
-      "surface": "בית העמק",
-      "gloss": "Bet-ha-Emek"
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ha-Emek"
     },
     {
       "surface": "ונעיאל",
@@ -74,11 +65,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "na i go aut i go long"
+      "gloss": "na em i go ausait"
     },
     {
       "surface": "אל",
-      "gloss": "long"
+      "gloss": "i go long"
     },
     {
       "surface": "כבול",
@@ -86,9 +77,9 @@
     },
     {
       "surface": "משמאל",
-      "gloss": "long senahet"
+      "gloss": "long han kais"
     }
   ],
-  "timestamp": "2026-10-18T19:13:49.231597569Z",
+  "timestamp": "2026-10-19T00:46:35.937386757Z",
   "model": "glm-5.3"
 }

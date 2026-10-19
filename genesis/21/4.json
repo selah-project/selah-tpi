@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kotim skin",
-      "rationale": "מול em i wok bilong kotim skin bilong man; Tok Pisin i no gat wanpela tok, olsem mipela tokim piksa bilong en."
-    },
-    {
-      "kind": "measurement",
-      "subject": "et de",
-      "rationale": "Namba bilong taim — et de olsem Lo bilong kotim skin i tok."
-    }
-  ],
-  "translation": "Na Avraham i kotim skin bilong ⟨את⟩ Yitsak pikinini man bilong em, taim em i pikinini man bilong et de, olsem we Elohim i bin tokim em bilong wokim.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/21\/1-4.1792346599231.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Avraham i katim skin ⟨את⟩ Yitsak pikinini bilong em, taim em i pikinini bilong etpela de, olsem Elohim i bin larim em ⟨את⟩.",
   "tokens": [
     {
       "surface": "וימל",
-      "gloss": "Na i kotim skin bilong"
+      "gloss": "i katim skin"
     },
     {
       "surface": "אברהם",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "בנו",
-      "gloss": "pikinini man bilong em"
+      "gloss": "pikinini bilong em"
     },
     {
       "surface": "בן",
-      "gloss": "pikinini man bilong"
+      "gloss": "pikinini bilong"
     },
     {
       "surface": "שמנת",
-      "gloss": "et"
+      "gloss": "etpela"
     },
     {
       "surface": "ימים",
@@ -63,22 +42,22 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "olsem we"
+      "gloss": "olsem"
     },
     {
       "surface": "צוה",
-      "gloss": "i bin tokim em bilong wokim"
+      "gloss": "i bin larim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "em (Avraham)"
+      "gloss": "⟨את⟩ em",
+      "marks": "em (Avraham) — objekt bilong komand, Elohim i givim"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-18T18:03:19.232630560Z",
+  "timestamp": "2026-10-19T00:40:49.359947727Z",
   "model": "glm-5.3"
 }

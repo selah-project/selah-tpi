@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "em yet",
-      "rationale": "נגלה (Niphal) i tokOlsem 'i soim em yet' — refleksiv, Tok Pisin i lainim pronoun"
-    },
-    {
-      "kind": "crux",
-      "subject": "i kontiniu",
-      "rationale": "ויסף: 'i kontiniu' (KJV 'again', YLT 'addeth') — namba tupela pasin i gat strong"
-    },
-    {
-      "kind": "mystery",
-      "subject": "נגלה יהוה",
-      "rationale": "Yahwe i soim em yet — klostu, em i samting i stap hait na i kamap klia"
-    }
-  ],
-  "translation": "Na Yahwe i kontiniu long kamap long Silo, long wanem Yahwe i soim ⟨את⟩ em yet long Semuel long Silo, long tok bilong Yahwe.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/3\/21-21.1792351509445.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i-go het wantaim long soim em i kamap long Shilo, bilong Yahwe i bin soim em i kamap long Shemuel long Shilo, long tok bilong Yahwe.",
   "tokens": [
     {
       "surface": "ויסף",
-      "gloss": "i kontiniu"
+      "gloss": "i-go het wantaim"
     },
     {
       "surface": "יהוה",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "להראה",
-      "gloss": "long kamap long"
+      "gloss": "long soim em i kamap"
     },
     {
       "surface": "בשלה",
-      "gloss": "long Silo"
+      "gloss": "long Shilo"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "נגלה",
-      "gloss": "i soim ⟨את⟩ em yet"
+      "gloss": "i bin soim em i kamap"
     },
     {
       "surface": "יהוה",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Semuel"
+      "gloss": "Shemuel"
     },
     {
       "surface": "בשלו",
-      "gloss": "long Silo"
+      "gloss": "long Shilo"
     },
     {
       "surface": "בדבר",
@@ -82,6 +56,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T19:25:09.446974939Z",
+  "timestamp": "2026-10-19T00:30:52.265458945Z",
   "model": "glm-5.3"
 }

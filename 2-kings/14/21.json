@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Tok Pisin i nidim pronoun bilong SKIM, Hibru i onli gat makela"
-    },
-    {
-      "kind": "measurement",
-      "subject": "siks-pela-ten yia",
-      "rationale": "Yia bilong king i tok — not bilong ol yia king"
-    }
-  ],
-  "translation": "Olgeta man bilong Yehuda i kisim ⟨את⟩ Azarya — em i pikinini bilong siks-pela-ten yia — na ol i putim em i kamap king long ples bilong papa bilong en, Amatsyahu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/14\/21-24.1792353534953.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olgeta manmeri bilong Yuda i kisim ⟨את⟩ Azaraya, na em i pikinini man bilong sixteen yia, na ol i mekim em i kamap king long ples bilong papa bilong en, Amatsya.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "i kisim"
+      "gloss": "ol i kisim"
     },
     {
       "surface": "כל",
@@ -38,32 +17,32 @@
     },
     {
       "surface": "עם",
-      "gloss": "man bilong"
+      "gloss": "manmeri bilong"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yuda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Azarya"
+      "marks": "Azaraya"
     },
     {
       "surface": "עזריה",
-      "gloss": "Azarya"
+      "gloss": "Azaraya"
     },
     {
       "surface": "והוא",
-      "gloss": "em i"
+      "gloss": "na em"
     },
     {
       "surface": "בן",
-      "gloss": "pikinini bilong"
+      "gloss": "pikinini man bilong"
     },
     {
       "surface": "שש",
-      "gloss": "siks"
+      "gloss": "sixteen"
     },
     {
       "surface": "עשרה",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "ol i putim em i kamap king"
+      "gloss": "ol i mekim em i kamap king"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
     },
     {
       "surface": "תחת",
@@ -91,9 +71,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahu"
+      "gloss": "Amatsya"
     }
   ],
-  "timestamp": "2026-10-18T19:58:54.953754423Z",
+  "timestamp": "2026-10-19T00:32:17.674935362Z",
   "model": "glm-5.3"
 }

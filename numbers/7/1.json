@@ -5,40 +5,19 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "long dei we Mose i pinisim wok",
-      "rationale": "pinis bilong wok bilong statim Miskan — hap bilong kaunim ol dei na wok"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Miskan",
-      "rationale": "המשכן i stap olsem nem bilong haus — Miskan, i no haus sel tasol"
-    }
-  ],
-  "translation": "Na i kamap long dei we Mose i pinisim wok bilong kirapim ⟨את⟩ Miskan, na em i kapsaitim oil long em na mekim em holi, na ⟨את⟩ olgeta kain kain samting bilong em, na ⟨את⟩ altas na ⟨את⟩ olgeta kain kain samting bilong em, na em i kapsaitim oil long ol na mekim ol holi.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/7\/1-4.1792348985185.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na i kamap long de Mose i pinisim wok bilong kirapim ⟨את⟩ Miskan, na em i kapsaitim oil long ⟨את⟩ em na mekim ⟨את⟩ em i kamap holi, na ⟨את⟩ olgeta kain samting bilong em, na ⟨את⟩ olta bilong ofa na ⟨את⟩ olgeta kain samting bilong en, na em i kapsaitim oil long ol na mekim ol i kamap holi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "i kamap"
+      "gloss": "Na i kamap"
     },
     {
       "surface": "ביום",
-      "gloss": "long dei"
+      "gloss": "long de"
     },
     {
       "surface": "כלות",
-      "gloss": "i pinisim wok"
+      "gloss": "pinisim wok"
     },
     {
       "surface": "משה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "להקים",
-      "gloss": "bilong kirapim"
+      "gloss": "kirapim"
     },
     {
       "surface": "את",
@@ -59,24 +38,26 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "na em i kapsaitim oil long"
+      "gloss": "kapsaitim oil long em"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩",
+      "marks": "em (Miskan)"
     },
     {
       "surface": "ויקדש",
-      "gloss": "na mekim holi"
+      "gloss": "mekim i kamap holi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩",
+      "marks": "em (Miskan)"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "olgeta kain kain samting bilong em"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kain samting bilong em"
     },
     {
       "surface": "כל",
@@ -84,21 +65,21 @@
     },
     {
       "surface": "כליו",
-      "gloss": "kain kain samting bilong em"
+      "gloss": "kain samting bilong em"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "altas"
+      "gloss": "⟨את⟩",
+      "marks": "olta bilong ofa"
     },
     {
       "surface": "המזבח",
-      "gloss": "altas"
+      "gloss": "olta bilong ofa"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "olgeta kain kain samting bilong em"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta kain samting bilong en"
     },
     {
       "surface": "כל",
@@ -106,21 +87,22 @@
     },
     {
       "surface": "כליו",
-      "gloss": "kain kain samting bilong em"
+      "gloss": "kain samting bilong en"
     },
     {
       "surface": "וימשחם",
-      "gloss": "na em i kapsaitim oil long ol"
+      "gloss": "kapsaitim oil long ol"
     },
     {
       "surface": "ויקדש",
-      "gloss": "na mekim holi"
+      "gloss": "mekim ol i kamap holi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol (Miskan, ol kain samting, na olta)"
     }
   ],
-  "timestamp": "2026-10-18T18:43:05.186425602Z",
+  "timestamp": "2026-10-19T00:49:42.148417166Z",
   "model": "glm-5.3"
 }

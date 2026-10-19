@@ -5,23 +5,7 @@
   "book": "hosea",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ol pis-pis",
-      "rationale": "שבבים: hapax; sampela tanim 'ol pis-pis i kamap' (KJV), sampela 'em i ol pis-pis Pinis' (YLT)"
-    }
-  ],
-  "translation": "Long wanem, em i kamap long Yisrael: wanpela wokman bilong mekim samting i wokim ⟨את⟩ em, na em i no Elohim; long wanem, pikinini bulmakau bilong Samaria bai i kamap ol pis-pis.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/8\/5-8.1792357089018.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long wanem, em i kam long Yisrael yet: wokman bilong wokim samting i wokim ⟨את⟩ em, na em i no Elohim — long wanem, pikinini bulmakau bilong Shomron bai i kamap ol hap hap.",
   "tokens": [
     {
       "surface": "כי",
@@ -37,11 +21,12 @@
     },
     {
       "surface": "חרש",
-      "gloss": "wanpela wokman bilong mekim samting"
+      "gloss": "wokman bilong wokim samting"
     },
     {
       "surface": "עשהו",
-      "gloss": "i wokim ⟨את⟩ em"
+      "gloss": "i wokim ⟨את⟩ em",
+      "marks": "em (pikinini bulmakau)"
     },
     {
       "surface": "ולא",
@@ -61,7 +46,7 @@
     },
     {
       "surface": "שבבים",
-      "gloss": "ol pis-pis"
+      "gloss": "ol hap hap"
     },
     {
       "surface": "יהיה",
@@ -73,9 +58,9 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Samaria"
+      "gloss": "bilong Shomron"
     }
   ],
-  "timestamp": "2026-10-18T20:58:09.019211768Z",
+  "timestamp": "2026-10-19T00:42:02.170903347Z",
   "model": "glm-5.3"
 }

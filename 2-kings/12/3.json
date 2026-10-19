@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": "First את (before הישר) written into the token order; note marks ol stret samting."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הורהו \/ יהוה",
-      "rationale": "Root ירה 'instruct' echoes in the name Yehoyada ('Yahwe knows'); the sound link is faint in Tok Pisin."
-    }
-  ],
-  "translation": "Na Yehoash i wokim ⟨את⟩ ol stret samting long ai bilong Yahwe, olgeta de bilong en, taim Yehoyada pris i skulim ⟨את⟩ em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/12\/1-4.1792353525264.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yehoas i wokim olgeta samting i stret long ol ai bilong Yahwe, olgeta de bilong em, taim Yehoyada pris i skulim ⟨em⟩.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "na i wokim"
+      "gloss": "i wokim"
     },
     {
       "surface": "יהואש",
-      "gloss": "Yehoash"
+      "gloss": "Yehoas"
     },
     {
       "surface": "הישר",
-      "gloss": "ol stret samting"
+      "gloss": "olgeta samting i stret"
     },
     {
       "surface": "בעיני",
-      "gloss": "long ai bilong"
+      "gloss": "long ol ai bilong"
     },
     {
       "surface": "יהוה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "de bilong en"
+      "gloss": "de bilong em"
     },
     {
       "surface": "אשר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הורהו",
-      "gloss": "i skulim ⟨את⟩ em"
+      "gloss": "i skulim ⟨em⟩"
     },
     {
       "surface": "יהוידע",
@@ -73,6 +52,6 @@
       "gloss": "pris"
     }
   ],
-  "timestamp": "2026-10-18T19:58:45.265203651Z",
+  "timestamp": "2026-10-19T00:32:22.783007822Z",
   "model": "glm-5.3"
 }

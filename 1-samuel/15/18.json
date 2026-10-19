@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bagarapim olgeta",
-      "rationale": "חרם is devotion-to-destruction under ban; Tok Pisin 'bagarapim olgeta' keeps the destruction, loses the ban sense."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ol⟩",
-      "rationale": "Hebrew בו 'against him' is singular for Amalek; plural pronoun supplied for sense."
-    },
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "Samuel quotes Yahwe's original command addressed to Saul."
-    }
-  ],
-  "translation": "Na Yahwe i salim yu long rot, na i tok: Go, na yu mas bagarapim olgeta ⟨את⟩ ol man bilong paiut — ⟨את⟩ Amalek — na yu mas pait wantaim ⟨ol⟩, inap yu pinisim ⟨ol⟩ olgeta.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/15\/17-20.1792351769238.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i salim yu long rot, na i tok: Go, na yu rausim olgeta ⟨את⟩ ol man bilong wok rong, ⟨את⟩ ol Amalek, na yu pait wantaim ⟨em⟩ olgeta, i go halim yu pinisim olgeta ⟨את⟩ ol.",
   "tokens": [
     {
       "surface": "וישלחך",
-      "gloss": "Na Yahwe i salim yu"
+      "gloss": "i salim yu"
     },
     {
       "surface": "יהוה",
@@ -51,25 +25,25 @@
     },
     {
       "surface": "לך",
-      "gloss": "Go"
+      "gloss": "go"
     },
     {
       "surface": "והחרמתה",
-      "gloss": "yu mas bagarapim olgeta"
+      "gloss": "yu rausim olgeta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol man bilong paiut"
+      "marks": "ol man bilong wok rong"
     },
     {
       "surface": "החטאים",
-      "gloss": "ol man bilong paiut"
+      "gloss": "ol man bilong wok rong"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amalek"
+      "marks": "ol Amalek"
     },
     {
       "surface": "עמלק",
@@ -77,15 +51,15 @@
     },
     {
       "surface": "ונלחמת",
-      "gloss": "na yu mas pait"
+      "gloss": "na yu pait"
     },
     {
       "surface": "בו",
-      "gloss": "wantaim ol"
+      "gloss": "wantaim ⟨em⟩"
     },
     {
       "surface": "עד",
-      "gloss": "inap"
+      "gloss": "i go halim"
     },
     {
       "surface": "כלותם",
@@ -94,9 +68,9 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ol"
+      "marks": "ol (ol man bilong Amalek)"
     }
   ],
-  "timestamp": "2026-10-18T19:29:29.239619529Z",
+  "timestamp": "2026-10-19T00:30:41.996699321Z",
   "model": "glm-5.3"
 }

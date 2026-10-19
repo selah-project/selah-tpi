@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ואתי",
-      "rationale": "aleph-tav wantaim mi — gloss i holim ⟨את⟩ mi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ol hukim",
-      "rationale": "חקים em i ol lo ol i tanim nabaut, mi usim hukim"
-    }
-  ],
-  "translation": "Na long dispela taim, Yahwe i givim strong long mi bilong skulim yupela long ol hukim na ol pasin bilong skelim, bilong yupela i wokim ol long graun we yupela i go long en, bilong yupela kisim em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/4\/13-16.1792349794320.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i givim tok long ⟨את⟩ mi long taim bilong dispela, bilong skulim yupela ⟨את⟩ ol huk na ol kot, bilong yupela wokim ⟨את⟩ ol long graun we yupela i wok long go krosim i go long hap, bilong kisim holim long en.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "na ⟨את⟩ mi",
-      "marks": "Yahwe i givim strong long mi"
+      "gloss": "na long ⟨את⟩ mi",
+      "marks": "givim tok (צוה)"
     },
     {
       "surface": "צוה",
-      "gloss": "i givim strong long"
+      "gloss": "i givim tok"
     },
     {
       "surface": "יהוה",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "dispela"
+      "gloss": "bilong dispela"
     },
     {
       "surface": "ללמד",
@@ -55,15 +34,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩ yupela",
+      "marks": "ol huk na ol kot (חקים ומשפטים)"
     },
     {
       "surface": "חקים",
-      "gloss": "ol hukim"
+      "gloss": "ol huk"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "na ol pasin bilong skelim"
+      "gloss": "na ol kot"
     },
     {
       "surface": "לעשתכם",
@@ -71,8 +51,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol",
-      "marks": "ol hukim na ol pasin bilong skelim"
+      "gloss": "⟨את⟩",
+      "marks": "ol (graun bilong wokim ol long en)"
     },
     {
       "surface": "בארץ",
@@ -88,17 +68,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "i go"
+      "gloss": "i wok long go krosim"
     },
     {
       "surface": "שמה",
-      "gloss": "long en"
+      "gloss": "i go long hap"
     },
     {
       "surface": "לרשתה",
-      "gloss": "bilong kisim em"
+      "gloss": "bilong kisim holim long en"
     }
   ],
-  "timestamp": "2026-10-18T18:56:34.321033120Z",
+  "timestamp": "2026-10-19T00:37:02.761702270Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,37 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ol man Yisrael",
-      "rationale": "tok i go stret long ol man — yupela, ol ofisa i tokim ol"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sanduk",
-      "rationale": "ארון em i 'sanduk\/boxes', 'ark' i no tok bilong Tok Pisin"
-    }
-  ],
-  "translation": "Na ol i givim tok ⟨את⟩ long ol man: yupela i tok — taim yupela i lukim ⟨את⟩ sanduk bilong kontrak bilong Yahwe, Elohim bilong yupela, na ol pris, ol man Levi, ol i karamapim em, bai yupela i lusim ples bilong yupela, na yupela i wokabaut bihain long em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/3\/1-4.1792350493081.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol i givim tok long ⟨את⟩ ol manmeri, ol i tok olsem: Taim yupela lukim ⟨את⟩ bokis bilong kontrak bilong Yahwe Elohim bilong yupela, na ol pris bilong ol Levi i karim ⟨את⟩ em, bai yupela i go we long ples bilong yupela, na yupela i wokabaut bihain long em.",
   "tokens": [
     {
       "surface": "ויצוו",
-      "gloss": "ol i givim tok"
+      "gloss": "ol i givim tok long"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol man"
+      "marks": "ol manmeri"
     },
     {
       "surface": "העם",
-      "gloss": "ol man"
+      "gloss": "ol manmeri"
     },
     {
       "surface": "לאמר",
-      "gloss": "yupela i tok"
+      "gloss": "ol i tok olsem"
     },
     {
       "surface": "כראותכם",
-      "gloss": "taim yupela i lukim"
+      "gloss": "taim yupela lukim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanduk bilong kontrak"
+      "marks": "bokis bilong kontrak"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduk"
+      "gloss": "bokis"
     },
     {
       "surface": "ברית",
@@ -76,15 +55,16 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "ol man Levi"
+      "gloss": "bilong ol Levi"
     },
     {
       "surface": "נשאים",
-      "gloss": "ol i karamapim"
+      "gloss": "i karim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em (bokis)"
     },
     {
       "surface": "ואתם",
@@ -92,21 +72,21 @@
     },
     {
       "surface": "תסעו",
-      "gloss": "i lusim"
+      "gloss": "bai yupela i go we"
     },
     {
       "surface": "ממקומכם",
-      "gloss": "ples bilong yupela"
+      "gloss": "long ples bilong yupela"
     },
     {
       "surface": "והלכתם",
-      "gloss": "yupela i wokabaut"
+      "gloss": "na yupela i wokabaut"
     },
     {
       "surface": "אחריו",
       "gloss": "bihain long em"
     }
   ],
-  "timestamp": "2026-10-18T19:08:13.082917922Z",
+  "timestamp": "2026-10-19T00:46:50.631675209Z",
   "model": "glm-5.3"
 }

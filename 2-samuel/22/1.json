@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav plus pronoun suffix rendered as ⟨את⟩ pointing at em."
-    },
-    {
-      "kind": "addition",
-      "subject": "em",
-      "rationale": "Pronoun object added in brackets; Hebrew aleph-tav marks the object without a separate pronoun."
-    }
-  ],
-  "translation": "Na David i tokim Yahwe ⟨את⟩ ol tok bilong singsing dispela, long de Yahwe i selvim ⟨em⟩ long han bilong olgeta birua bilong en, na long han bilong Seul.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/22\/1-4.1792352568335.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i tokim Yahwe ⟨את⟩ ol tok bilong dispela sing, long de Yahwe i pulim ⟨את⟩ em i go ausait long han bilong olgeta birua bilong en, na long han bilong Saol.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol tok bilong singsing dispela"
+      "marks": "ol tok"
     },
     {
       "surface": "דברי",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "השירה",
-      "gloss": "bilong singsing"
+      "gloss": "bilong dispela sing"
     },
     {
       "surface": "הזאת",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "הציל",
-      "gloss": "i selvim"
+      "gloss": "i pulim i go ausait"
     },
     {
       "surface": "יהוה",
@@ -71,12 +50,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em (David)"
     },
     {
       "surface": "מכף",
-      "gloss": "long han bilong"
+      "gloss": "i go ausait long han"
     },
     {
       "surface": "כל",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "ומכף",
-      "gloss": "na long han bilong"
+      "gloss": "na long han"
     },
     {
       "surface": "שאול",
-      "gloss": "Seul"
+      "gloss": "bilong Saol"
     }
   ],
-  "timestamp": "2026-10-18T19:42:48.336697666Z",
+  "timestamp": "2026-10-19T00:34:57.571064537Z",
   "model": "glm-5.3"
 }

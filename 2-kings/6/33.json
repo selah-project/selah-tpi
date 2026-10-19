@@ -5,42 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i kam",
-      "rationale": "Hebrew מאת with את marker; Tok Pisin needs a verb, supplied in brackets is only ⟨את⟩ marker as 'i kam long'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מלאך",
-      "rationale": "messenger of the king vs angel — context (king's messenger, 6:32) fixes 'man bilong tok mesij'"
-    },
-    {
-      "kind": "you",
-      "subject": "king's speech via messenger",
-      "rationale": "speaker is the king (spoken to Elisha); Hebrew leaves subject implicit"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kikim sanguma i kam daun",
-      "rationale": "simplified: 'i kam daun' suffices; 'kikim sanguma' removed to keep literal"
-    }
-  ],
-  "translation": "Em i stap yet i tok wantaim ol, na luk, man bilong tok mesij i kikim sanguma i kam daun long em, na em i tok: Luk, dispela samting nogut i kam ⟨מאת→long⟩ Yahwe; wanem samting moa mi ken wet long Yahwe?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "5f160898a5af93b0bf3f15b7794a5834234bf79a6d19745fcdb34e22388d8fff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/6\/33-33.1792353297334.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Em i tok yet wantaim ol, na luk, mesinja i kamdaun long em, na em i tok: Luk, dispela samting nogut i kam long ⟨את⟩ Yahwe — bilong wanem mi mas wet long Yahwe moa?",
   "tokens": [
     {
       "surface": "עודנו",
-      "gloss": "i stap yet"
+      "gloss": "yet"
     },
     {
       "surface": "מדבר",
@@ -56,11 +25,11 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "man bilong tok mesij"
+      "gloss": "mesinja"
     },
     {
       "surface": "ירד",
-      "gloss": "i kam daun"
+      "gloss": "i kamdaun"
     },
     {
       "surface": "אליו",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Luk"
+      "gloss": "luk"
     },
     {
       "surface": "זאת",
@@ -84,8 +53,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ i kam long",
-      "marks": "Yahwe"
+      "gloss": "long ⟨את⟩",
+      "marks": "dispela samting nogut"
     },
     {
       "surface": "יהוה",
@@ -93,11 +62,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "wanem samting"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "אוחיל",
-      "gloss": "mi ken wet"
+      "gloss": "mi mas wet"
     },
     {
       "surface": "ליהוה",
@@ -108,6 +77,6 @@
       "gloss": "moa"
     }
   ],
-  "timestamp": "2026-10-18T19:54:57.335780068Z",
+  "timestamp": "2026-10-19T00:34:17.363095779Z",
   "model": "glm-5.3"
 }

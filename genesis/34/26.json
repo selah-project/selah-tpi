@@ -5,41 +5,21 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "Hebri i tok 'long maus bilong bainat' — pasin bilong tok: 'long hap sait bilong bainat'."
-    }
-  ],
-  "translation": "Na ol i kilim ⟨את⟩ Hamor na ⟨את⟩ Sekem pikinini bilong em, long maus bilong bainat; ⟨את⟩ na ol i kisim ⟨את⟩ Dina long haus bilong Sekem, na ol i go aut.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "be6ad816fb9db0c6c7a8d80b2c066510b8febeee4802a32d37704fc28769f308",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/34\/25-28.1792347031321.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ⟨את⟩ Kamor na ⟨את⟩ Sekem pikinini man bilong en, ol i kilim ol long moa bilong bainat; na ol i tekim ⟨את⟩ Dina long haus bilong Sekem, na ol i go ausait.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Hamor"
+      "marks": "Kamor"
     },
     {
       "surface": "חמור",
-      "gloss": "Hamor"
-    },
-    {
-      "surface": "ויקחו placeholder removed",
-      "gloss": "⟨את⟩"
+      "gloss": "Kamor"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Sekem"
+      "marks": "Sekem pikinini man bilong en"
     },
     {
       "surface": "שכם",
@@ -47,15 +27,15 @@
     },
     {
       "surface": "בנו",
-      "gloss": "pikinini bilong em"
+      "gloss": "pikinini man bilong en"
     },
     {
       "surface": "הרגו",
-      "gloss": "ol i kilim i dai"
+      "gloss": "ol i kilim ol"
     },
     {
       "surface": "לפי",
-      "gloss": "long maus bilong"
+      "gloss": "long moa"
     },
     {
       "surface": "חרב",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "ויקחו",
-      "gloss": "⟨את⟩ na ol i kisim"
+      "gloss": "na ol i tekim"
     },
     {
       "surface": "את",
@@ -84,9 +64,9 @@
     },
     {
       "surface": "ויצאו",
-      "gloss": "na ol i go aut"
+      "gloss": "na ol i go ausait"
     }
   ],
-  "timestamp": "2026-10-18T18:10:31.322435992Z",
+  "timestamp": "2026-10-19T00:41:32.690827385Z",
   "model": "glm-5.3"
 }

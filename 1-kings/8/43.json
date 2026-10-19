@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נקרא על הבית",
-      "rationale": "'nem bilong yu i stap long haus' — KJV i tokim 'is called by thy name'; i no gat Inglis 'of' long Tok Pisin, mi usim 'i stap long'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "scare",
-      "rationale": "יראה i tok bilong save na respek tru, i no scare nating — Tok Pisin i no gat wanpela tok stret bilong em"
-    }
-  ],
-  "translation": "yu yet i harim long heven, ples bilong yu i stap long en, na yu wokim olgeta samting we man bilong narapela graun i singautim long yu — bilong olgeta man bilong graun i save nem bilong yu, na ol i scare long yu olsem ol man bilong yu Yisrael, na ol i save se nem bilong yu i stap long haus dispela we mi bin wokim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/41-44.1792352922450.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yu, yu harim long heven, ples bilong stap bilong yu, na yu wokim olsem olgeta samting we man bilong narapela kantri i singautim long yu; bilong olgeta lain bilong manmeri bilong graun i save ⟨את⟩ nem bilong yu, na bilong bia long ⟨את⟩ yu, olsem lain bilong yu Yisrael, na bilong save se nem bilong yu i kalsut long dispela haus we mi bilim.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "yu yet"
+      "gloss": "yu"
     },
     {
       "surface": "תשמע",
-      "gloss": "i harim"
+      "gloss": "harim"
     },
     {
       "surface": "השמים",
-      "gloss": "long heven"
+      "gloss": "heven"
     },
     {
       "surface": "מכון",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "שבתך",
-      "gloss": "bilong yu i stap long en"
+      "gloss": "bilong stap bilong yu"
     },
     {
       "surface": "ועשית",
-      "gloss": "na yu wokim"
+      "gloss": "na wokim"
     },
     {
       "surface": "ככל",
-      "gloss": "olgeta samting"
+      "gloss": "olsem olgeta"
     },
     {
       "surface": "אשר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "i singautim"
+      "gloss": "singautim"
     },
     {
       "surface": "אליך",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "הנכרי",
-      "gloss": "man bilong narapela graun"
+      "gloss": "man bilong narapela kantri"
     },
     {
       "surface": "למען",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ידעון",
-      "gloss": "ol i save"
+      "gloss": "save"
     },
     {
       "surface": "כל",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "man bilong"
+      "gloss": "lain bilong manmeri"
     },
     {
       "surface": "הארץ",
@@ -103,24 +82,24 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "na ol i scare long"
+      "gloss": "bilong bia long"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ yu",
-      "marks": "yu"
+      "gloss": "⟨את⟩",
+      "marks": "yu, olsem lain bilong yu"
     },
     {
       "surface": "כעמך",
-      "gloss": "olsem ol man bilong yu"
+      "gloss": "olsem lain bilong yu"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     },
     {
-      "surface": "ולדעת",
-      "gloss": "na ol i save"
+      "surface": "ו לדעת",
+      "gloss": "na bilong save"
     },
     {
       "surface": "כי",
@@ -132,11 +111,11 @@
     },
     {
       "surface": "נקרא",
-      "gloss": "i stap"
+      "gloss": "i kalsut long"
     },
     {
       "surface": "על",
-      "gloss": "long"
+      "gloss": "long antap long"
     },
     {
       "surface": "הבית",
@@ -152,9 +131,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "mi bin wokim"
+      "gloss": "mi bilim"
     }
   ],
-  "timestamp": "2026-10-18T19:48:42.452494006Z",
+  "timestamp": "2026-10-19T00:30:22.308296731Z",
   "model": "glm-5.3"
 }

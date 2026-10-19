@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pasin bilong bagerapim holi",
-      "rationale": "חנפה — pasin bilong lukautim luk holi tasol bel i nogut; 'profaneness' long Inglis."
-    },
-    {
-      "kind": "crux",
-      "subject": "rosh",
-      "rationale": "ראש — poison diwai; hapax-near; KJV 'gall', BSB 'poisoned water'."
-    },
-    {
-      "kind": "you",
-      "subject": "long ol profet",
-      "rationale": "Yahwe i toktok daun long ol profet."
-    }
-  ],
-  "translation": "Olsem na, olsem Yahwe Tsebaot i tok long ol profet: Lukim, bai mi givim kaikai laena long ol, na bai mi givim ol dring wara bilong rosh; long wanem, bilong ⟨את⟩ ol profet bilong Yerusalayim pasin bilong bagerapim holi i go ausait, i go long olgeta graun.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/23\/13-16.1792355367049.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem, Yahwe Tsebaot i tok olsem long ol profet: Lukluk, mi bai skruim ⟨את⟩ ol long kaikai womut, na mi bai givim ol long dring wara bilong poison, long wanem, long ⟨את⟩ ol profet bilong Yerusalayim pasin nogut i go ausait i go long olgeta graun.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Olsem na"
+      "gloss": "Olsem"
     },
     {
       "surface": "כה",
@@ -63,23 +37,24 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Lukim, mi"
+      "gloss": "Lukluk, mi"
     },
     {
       "surface": "מאכיל",
-      "gloss": "givim kaikai"
+      "gloss": "skruim ol long kaikai"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol profet)"
     },
     {
       "surface": "לענה",
-      "gloss": "laena"
+      "gloss": "womut"
     },
     {
       "surface": "והשקתים",
-      "gloss": "na bai mi givim ol dring"
+      "gloss": "na mi bai givim ol long dring"
     },
     {
       "surface": "מי",
@@ -87,7 +62,7 @@
     },
     {
       "surface": "ראש",
-      "gloss": "rosh — samting bilong poison"
+      "gloss": "bilong poison"
     },
     {
       "surface": "כי",
@@ -95,11 +70,12 @@
     },
     {
       "surface": "מאת",
-      "gloss": "bilong ⟨את⟩"
+      "gloss": "long ⟨את⟩",
+      "marks": "ol profet bilong Yerusalayim"
     },
     {
       "surface": "נביאי",
-      "gloss": "ol profet"
+      "gloss": "ol profet bilong"
     },
     {
       "surface": "ירושלם",
@@ -111,17 +87,17 @@
     },
     {
       "surface": "חנפה",
-      "gloss": "pasin bilong bagerapim holi"
+      "gloss": "pasin nogut"
     },
     {
       "surface": "לכל",
-      "gloss": "i go long olgeta"
+      "gloss": "long olgeta"
     },
     {
       "surface": "הארץ",
       "gloss": "graun"
     }
   ],
-  "timestamp": "2026-10-18T20:29:27.051345592Z",
+  "timestamp": "2026-10-19T00:44:09.525836010Z",
   "model": "glm-5.3"
 }

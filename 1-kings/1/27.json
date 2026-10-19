@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מאת",
-      "rationale": "Sampela i tanim 'long' (mining: dispela i kamap long king), sampela 'bikos long' — mi holim pasin 'long ⟨את⟩ bilong'"
-    },
-    {
-      "kind": "you",
-      "subject": "to David",
-      "rationale": "Natan i askim King David stret long em"
-    }
-  ],
-  "translation": "Sapos dispela samting i kamap long bikman bilong mi, king, na yu no skelim ⟨את⟩ wokman bilong yu, husat bai i sindaun long thron bilong bikman bilong mi, king, bihain long em?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "e0b35e2ff16ad281eb331f8fc5edfcc6b58259e4beea55d604ccd517a359a17f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/1\/25-28.1792352700265.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sapos dispela samting i kamap ⟨את⟩ long bikman bilong mi, king bilong mi, na yu no bin skelim ⟨את⟩ ol saveman bilong yu, husat bai sindaun long throne bilong bikman bilong mi, king bilong mi, bihain long em?",
   "tokens": [
     {
       "surface": "אם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "long ⟨את⟩ bilong"
+      "gloss": "long ⟨את⟩"
     },
     {
       "surface": "אדני",
@@ -58,20 +37,20 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na i no"
+      "gloss": "na no"
     },
     {
       "surface": "הודעת",
-      "gloss": "yu skelim"
+      "gloss": "yu no bin skelim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wokman bilong yu"
+      "marks": "ol saveman bilong yu"
     },
     {
       "surface": "עבדיך",
-      "gloss": "wokman bilong yu"
+      "gloss": "ol saveman bilong yu"
     },
     {
       "surface": "מי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "i sindaun"
+      "gloss": "sindaun"
     },
     {
       "surface": "על",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "כסא",
-      "gloss": "thron"
+      "gloss": "throne"
     },
     {
       "surface": "אדני",
@@ -102,6 +81,6 @@
       "gloss": "bihain long em"
     }
   ],
-  "timestamp": "2026-10-18T19:45:00.267474880Z",
+  "timestamp": "2026-10-19T00:29:37.443451405Z",
   "model": "glm-5.3"
 }

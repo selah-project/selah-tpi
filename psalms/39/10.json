@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i",
-      "rationale": "Tok Pisin predicate marker added for the clause 'thou hast done it'."
-    },
-    {
-      "kind": "you",
-      "subject": "Yahwe",
-      "rationale": "Speech addressed directly to God, who 'has done it'."
-    }
-  ],
-  "translation": "Maus bilong mi i pas, mi no opim ⟨את⟩ maus bilong mi, long wanem yu yet yu wokim ⟨i⟩.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/39\/9-12.1792358200230.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mi no tok, mi no opim maus bilong mi, bilong wanem yu yet ⟨em⟩ ⟨i⟩ wokim.",
   "tokens": [
     {
       "surface": "נאלמתי",
-      "gloss": "maus bilong mi i pas"
+      "gloss": "mi no tok"
     },
     {
       "surface": "לא",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "אפתח",
-      "gloss": "mi opim"
+      "gloss": "opim"
     },
     {
       "surface": "פי",
-      "gloss": "⟨את⟩ maus bilong mi"
+      "gloss": "maus bilong mi"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "אתה",
-      "gloss": "yu"
+      "gloss": "yu yet"
     },
     {
       "surface": "עשית",
-      "gloss": "yu wokim"
+      "gloss": "⟨i⟩ wokim"
     }
   ],
-  "timestamp": "2026-10-18T21:16:40.231896534Z",
+  "timestamp": "2026-10-19T00:50:37.267964701Z",
   "model": "glm-5.3"
 }

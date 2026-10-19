@@ -5,48 +5,11 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Em⟩",
-      "rationale": "Participle השלח describes the land of v1; pronoun added to carry the subject."
-    },
-    {
-      "kind": "crux",
-      "subject": "קו קו",
-      "rationale": "Hebrew qav-qav, 'line upon line \/ measured out' — KJV 'meted out', others 'mighty\/sturdy nation'; the measuring-line picture kept."
-    },
-    {
-      "kind": "crux",
-      "subject": "ממשך ומורט",
-      "rationale": "'Drawn out and scraped\/polished' — KJV 'scattered and peeled', JPS 'tall and smooth'; literal picture of a tall smooth-skinned people kept."
-    },
-    {
-      "kind": "crux",
-      "subject": "בזאו",
-      "rational": "Rare verb, likely 'divide\/cleave' — 'whose land the rivers divide' (ASV) vs KJV 'have spoiled'.",
-      "rationale": "Rare verb, likely 'divide\/cleave' — 'whose land the rivers divide' (ASV\/JPS) vs KJV 'have spoiled'."
-    },
-    {
-      "kind": "you",
-      "subject": "ol mesinja",
-      "rationale": "Imperative 'Go, ye swift messengers' — direct address to the messengers."
-    }
-  ],
-  "translation": "⟨Em⟩ i salim ol mesinja long solwara, na long ol kano bilong paipas, long hepen bilong wara. Go, ol mesinja swiftpela, go long wanpela lain ol i drawim longpela na skin i pulapul, go long wanpela lain man ol i scare gut, stat yet i go inap long nau — wanpela lain ol i skelim-skelim wantaim rosen na trampel daun, we ol wara i brukim ⟨את⟩ graun bilong en!",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/18\/1-4.1792354144451.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i salim ol mesinja long solwara, wantaim ol kargo bilong papyrus long pes bilong wara. Go, ol mesinja swif, i go long wanpela lain stret-longpela na skin-klia, long wanpela manmeri i pret nogut, long em i stat i go het; wanpela lain ol i skelim wantaim lain-lain na pundaunim, we ol wara i brukim ⟨את⟩ graun bilong en.",
   "tokens": [
     {
       "surface": "השלח",
-      "gloss": "⟨Em⟩ i salim"
+      "gloss": "ol i salim"
     },
     {
       "surface": "בים",
@@ -58,11 +21,11 @@
     },
     {
       "surface": "ובכלי",
-      "gloss": "na long ol kano bilong"
+      "gloss": "wantaim ol kargo bilong"
     },
     {
       "surface": "גמא",
-      "gloss": "paipas"
+      "gloss": "papyrus"
     },
     {
       "surface": "על",
@@ -70,7 +33,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "hepen bilong"
+      "gloss": "pes bilong"
     },
     {
       "surface": "מים",
@@ -78,7 +41,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "Go"
+      "gloss": "go"
     },
     {
       "surface": "מלאכים",
@@ -86,11 +49,11 @@
     },
     {
       "surface": "קלים",
-      "gloss": "swiftpela"
+      "gloss": "swif"
     },
     {
       "surface": "אל",
-      "gloss": "go long"
+      "gloss": "i go long"
     },
     {
       "surface": "גוי",
@@ -98,35 +61,35 @@
     },
     {
       "surface": "ממשך",
-      "gloss": "ol i drawim longpela"
+      "gloss": "stret-longpela"
     },
     {
       "surface": "ומורט",
-      "gloss": "na skin i pulapul"
+      "gloss": "na skin-klia"
     },
     {
       "surface": "אל",
-      "gloss": "go long"
+      "gloss": "long"
     },
     {
       "surface": "עם",
-      "gloss": "wanpela lain man"
+      "gloss": "wanpela manmeri"
     },
     {
       "surface": "נורא",
-      "gloss": "ol i scare gut"
+      "gloss": "i pret nogut"
     },
     {
       "surface": "מן",
-      "gloss": "stat"
+      "gloss": "long"
     },
     {
       "surface": "הוא",
-      "gloss": "yet"
+      "gloss": "em i stat"
     },
     {
       "surface": "והלאה",
-      "gloss": "i go inap long nau"
+      "gloss": "i go het"
     },
     {
       "surface": "גוי",
@@ -134,15 +97,15 @@
     },
     {
       "surface": "קו",
-      "gloss": "skelim"
+      "gloss": "lain"
     },
     {
       "surface": "קו",
-      "gloss": "skelim"
+      "gloss": "lain"
     },
     {
       "surface": "ומבוסה",
-      "gloss": "na trampel daun"
+      "gloss": "na pundaunim"
     },
     {
       "surface": "אשר",
@@ -154,14 +117,13 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "ol wara"
+      "gloss": "ol wara bilong flow"
     },
     {
       "surface": "ארצו",
-      "gloss": "⟨את⟩ graun bilong en",
-      "marks": "graun bilong en"
+      "gloss": "graun bilong en"
     }
   ],
-  "timestamp": "2026-10-18T20:09:04.452895456Z",
+  "timestamp": "2026-10-19T00:43:04.727712696Z",
   "model": "glm-5.3"
 }

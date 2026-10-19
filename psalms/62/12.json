@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 62,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "once...twice",
-      "rationale": "Hebrew numerical idiom for repetition for emphasis, not literal counts."
-    },
-    {
-      "kind": "addition",
-      "subject": "taim",
-      "rationale": "Number words rendered as 'times' to carry the adverbial idiom."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "gloss": "Hebrew particle כי introducing the heard content has no separate Tok Pisin word."
-    }
-  ],
-  "translation": "Wanpela taim Elohim i tok; tupela taim mi harim dispela: strong i bilong Elohim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/62\/9-12.1792358393353.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Wanpela taim Elohim i tokim; tupela taim mi harim dispela: olsem strong i bilong Elohim.",
   "tokens": [
     {
       "surface": "אחת",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "tok"
+      "gloss": "i tokim"
     },
     {
       "surface": "אלהים",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "olsem"
     },
     {
       "surface": "עז",
@@ -67,9 +41,9 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "bilong Elohim"
+      "gloss": "i bilong Elohim"
     }
   ],
-  "timestamp": "2026-10-18T21:19:53.355210720Z",
+  "timestamp": "2026-10-19T00:51:43.964658793Z",
   "model": "glm-5.3"
 }

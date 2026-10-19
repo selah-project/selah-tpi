@@ -5,45 +5,19 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Tok Pisin needs subject pronoun; Hebrew has only wayyiqtol"
-    },
-    {
-      "kind": "elision",
-      "subject": "לו (second)",
-      "rationale": "ethical dative with no Tok Pisin equivalent, rendered as nothing"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חלילה",
-      "rationale": "lit. 'profaned thing'; interjection rendered 'Tambu tru!'"
-    }
-  ],
-  "translation": "Na ⟨em⟩ i tok long em: Tambu tru! Yu no ken dai. Lukim: sapos papa bilong mi i wokim wanpela samting, samting bikpela o samting liklik, em i no ken lusim ⟨את⟩ ear bilong mi stret; na bilong wanem papa bilong mi bai haitim ⟨את⟩ dispela tok long mi? Em i no olsem.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/20\/1-4.1792351874063.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tokim ⟨em⟩: Tambu tru! Yu bai no dai. Lukim, papa bilong mi i no wokim wanpela samting bilong tok, i no bikpela o liklik, na em i no openim ⟨את⟩ ar bilong mi; na bilong wanem papa bilong mi i haitim ⟨את⟩ dispela tok long mi? Em i no olsem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na ⟨em⟩ i tok"
+      "gloss": "Na em i tokim"
     },
     {
       "surface": "לו",
-      "gloss": "long em"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "חלילה",
-      "gloss": "Tambu tru"
+      "gloss": "Tambu tru!"
     },
     {
       "surface": "לא",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "תמות",
-      "gloss": "yu ken dai"
+      "gloss": "yu bai dai"
     },
     {
       "surface": "הנה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "עשה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "samting"
+      "gloss": "wanpela samting bilong tok"
     },
     {
       "surface": "גדול",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "samting"
+      "gloss": "samting bilong tok"
     },
     {
       "surface": "קטן",
@@ -91,20 +65,20 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na em i no ken"
+      "gloss": "na i no"
     },
     {
       "surface": "יגלה",
-      "gloss": "lusim ... stret"
+      "gloss": "openim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ear bilong mi"
+      "marks": "ar bilong mi"
     },
     {
       "surface": "אזני",
-      "gloss": "ear bilong mi"
+      "gloss": "ar bilong mi"
     },
     {
       "surface": "ומדוע",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "יסתיר",
-      "gloss": "bai haitim"
+      "gloss": "i haitim"
     },
     {
       "surface": "אבי",
@@ -137,13 +111,13 @@
     },
     {
       "surface": "אין",
-      "gloss": "em i no"
+      "gloss": "i no"
     },
     {
       "surface": "זאת",
       "gloss": "olsem"
     }
   ],
-  "timestamp": "2026-10-18T19:31:14.064902943Z",
+  "timestamp": "2026-10-19T00:30:44.019668220Z",
   "model": "glm-5.3"
 }

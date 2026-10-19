@@ -5,49 +5,23 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩",
-      "rationale": "Tok Pisin predicate marker added before Elohim bilong ol, Hebrew lacks it"
-    },
-    {
-      "kind": "substitution",
-      "subject": "השאטים",
-      "rationale": "'the ones showing contempt' rendered with Tok Pisin 'skirtim' (despise)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וישבו ... לבטח",
-      "rationale": "Phrase 'they shall dwell in safety' repeats twice, Hebrew emphasis kept verbatim"
-    }
-  ],
-  "translation": "Na ol bai stap long em long gutpela sefeti, na ol bai wokim ol haus, na ol bai planim ol gaden wain; na ol bai stap long gutpela sefeti, taim mi wokim ol kot long olgeta man we ol i skirtim ol long olgeta ples klostu long ol; na ol bai save se mi, Yahwe, em ⟨i⟩ Elohim bilong ol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "107a6cd93dba7f0cfdba22a43d7c5274eb103e97dc073426055d3a8874172a7c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/28\/25-26.1792356495846.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ol bai stap long en ⟨i⟩ stret olgeta, na ol bai wokim haus, na ol bai planim ol gaden wain; i no gat wanpela samting bai wari ol, taim mi skelim kot long olgeta man i stap nambaut long ol we i lukdaun long ol; na ol bai save olsem mi, Yahwe, em i Elohim bilong ol.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "na ol bai stap"
+      "gloss": "ol bai stap"
     },
     {
       "surface": "עליה",
-      "gloss": "long em"
+      "gloss": "long en"
     },
     {
       "surface": "לבטח",
-      "gloss": "long gutpela sefeti"
+      "gloss": "stret olgeta"
     },
     {
       "surface": "ובנו",
-      "gloss": "na ol bai wokim"
+      "gloss": "ol bai wokim"
     },
     {
       "surface": "בתים",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ונטעו",
-      "gloss": "na ol bai planim"
+      "gloss": "ol bai planim"
     },
     {
       "surface": "כרמים",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "na ol bai stap"
+      "gloss": "ol bai stap"
     },
     {
       "surface": "לבטח",
-      "gloss": "long gutpela sefeti"
+      "gloss": "stret olgeta"
     },
     {
       "surface": "בעשותי",
-      "gloss": "taim mi wokim"
+      "gloss": "taim mi skelim kot"
     },
     {
       "surface": "שפטים",
-      "gloss": "ol kot"
+      "gloss": "skelim kot"
     },
     {
       "surface": "בכל",
@@ -83,16 +57,16 @@
     },
     {
       "surface": "השאטים",
-      "gloss": "man we ol i skirtim ol"
+      "gloss": "we i lukdaun long ol"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "man we ol i skirtim ol"
+      "marks": "ol man i stap nambaut long ol"
     },
     {
       "surface": "מסביבותם",
-      "gloss": "long olgeta ples klostu long ol"
+      "gloss": "i stap nambaut long ol"
     },
     {
       "surface": "וידעו",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "se"
+      "gloss": "olsem"
     },
     {
       "surface": "אני",
@@ -115,6 +89,6 @@
       "gloss": "Elohim bilong ol"
     }
   ],
-  "timestamp": "2026-10-18T20:48:15.847240622Z",
+  "timestamp": "2026-10-19T00:40:00.084399782Z",
   "model": "glm-5.3"
 }

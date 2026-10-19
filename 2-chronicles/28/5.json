@@ -5,27 +5,11 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אחז",
-      "rationale": "Ahaz is only in the wider context; Hebrew object suffixes on 'gave him' and 'struck him' carry him, so I render 'em' without adding the name."
-    }
-  ],
-  "translation": "Na Yahwe, Elohim bilong en, i givim ⟨את⟩ em long han bilong king bilong Aram, na ol i paitim em, na ol i kapsaitim planti man i kalabus long em, na ol i bringim ol i go long Damasek; na tu, em i givim long han bilong king bilong Yisrael, na em i paitim em — em i bikpela pait nogut.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8dee184a6b1b54564e80b940c367f2109b38e290dd9fee73ef05f07a2b51ed34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/28\/5-8.1792362670827.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem, Yahwe Elohim bilong en i givim ⟨את⟩ em long han bilong king bilong Aram, na ol i paitim ⟨את⟩ em, na ol i karim olgeta man i go kalabus — planti man tru — na ol i bringim ol i go long Darmasek; na tu, em i bin givim em long han bilong king bilong Yisrael, na em i paitim ⟨את⟩ em — pait bikpela tru.",
   "tokens": [
     {
       "surface": "ויתנהו",
-      "gloss": "i givim ⟨את⟩ em"
+      "gloss": "i givim"
     },
     {
       "surface": "יהוה",
@@ -53,31 +37,32 @@
     },
     {
       "surface": "בו",
-      "gloss": "em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
     },
     {
       "surface": "וישבו",
-      "gloss": "na ol i kapsaitim kalabus"
+      "gloss": "na ol i karim olgeta man i go kalabus"
     },
     {
       "surface": "ממנו",
-      "gloss": "long em"
+      "gloss": "bilong en"
     },
     {
       "surface": "שביה",
-      "gloss": "planti man i kalabus"
+      "gloss": "ol kalabus"
     },
     {
       "surface": "גדולה",
-      "gloss": "planti"
+      "gloss": "planti man tru"
     },
     {
       "surface": "ויביאו",
-      "gloss": "na ol i bringim"
+      "gloss": "na ol i bringim ol i go"
     },
     {
       "surface": "דרמשק",
-      "gloss": "ol i go long Damasek"
+      "gloss": "long Darmasek"
     },
     {
       "surface": "וגם",
@@ -97,7 +82,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "em i givim"
+      "gloss": "i bin givim"
     },
     {
       "surface": "ויך",
@@ -105,17 +90,18 @@
     },
     {
       "surface": "בו",
-      "gloss": "em"
+      "gloss": "⟨את⟩ em",
+      "marks": "em"
     },
     {
       "surface": "מכה",
-      "gloss": "pait nogut"
+      "gloss": "pait"
     },
     {
       "surface": "גדולה",
-      "gloss": "bikpela"
+      "gloss": "bikpela tru"
     }
   ],
-  "timestamp": "2026-10-18T22:31:10.828361753Z",
+  "timestamp": "2026-10-19T00:31:52.166778970Z",
   "model": "glm-5.3"
 }

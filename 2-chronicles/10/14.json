@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "skorpien",
-      "rationale": "עקרבים em i figurative — wip ol i wokim long roap ol i tanim olsem hul bilong skorpien — tasol sipa i holim piksa bilong skorpien"
-    },
-    {
-      "kind": "you",
-      "subject": "long ol manmeri bilong Yisrael",
-      "rationale": "Tok bilong king i go daun long ol man we ol i kotim tok long en"
-    }
-  ],
-  "translation": "Na i tokim ol olsem advais bilong ol yangpela man, i tok olsem: Mi bai mekim ⟨את⟩ jul bilong yupela i heavypela moa, na mi bai putim moa long en; papa bilong mi i save skulim yupela long ol wip, tasol mi bai skulim yupela long ol skorpien.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/10\/13-16.1792362432410.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tokim ol long advais bilong ol yangpela man, i tok olsem: Papa bilong mi i mekim ⟨את⟩ jul bilong yumi i bikpela tru, na mi bai skruim moa long en; papa bilong mi i磁盘 skelim ⟨את⟩ ol bilong yumi wantaim ol wip, tasol mi bai skelim ol wantaim ol skorpion.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "na i tokim"
+      "gloss": "i tokim"
     },
     {
       "surface": "אלהם",
-      "gloss": "ol"
+      "gloss": "long ol"
     },
     {
       "surface": "כעצת",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "אכביד",
-      "gloss": "mi bai mekim i heavypela"
+      "gloss": "i mekim i bikpela tru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jul bilong yupela"
+      "marks": "jul bilong yumi"
     },
     {
       "surface": "עלכם",
-      "gloss": "jul bilong yupela"
+      "gloss": "jul bilong yumi"
     },
     {
       "surface": "ואני",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אסיף",
-      "gloss": "bai putim moa"
+      "gloss": "bai skruim moa"
     },
     {
       "surface": "עליו",
@@ -79,15 +58,16 @@
     },
     {
       "surface": "יסר",
-      "gloss": "i save skulim"
+      "gloss": "i skelim ol"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩ ol bilong yumi",
+      "marks": "ol wip"
     },
     {
       "surface": "בשוטים",
-      "gloss": "long ol wip"
+      "gloss": "wantaim ol wip"
     },
     {
       "surface": "ואני",
@@ -95,9 +75,9 @@
     },
     {
       "surface": "בעקרבים",
-      "gloss": "long ol skorpien"
+      "gloss": "wantaim ol skorpion"
     }
   ],
-  "timestamp": "2026-10-18T22:27:12.410952269Z",
+  "timestamp": "2026-10-19T00:30:59.582334188Z",
   "model": "glm-5.3"
 }

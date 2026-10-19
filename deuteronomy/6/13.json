@@ -5,33 +5,12 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "sotim tok",
-      "rationale": "תשבע literal i 'ol i mekim seven' — pasin bilong sotim tok long nem bilong Yahwe."
-    },
-    {
-      "kind": "elision",
-      "subject": "wokim wok bilong",
-      "rationale": "ואתו i makim direct object; תעבד wanpela tok tasol, Tok Pisin i laikim tupela tok."
-    }
-  ],
-  "translation": "Yu ken pret long Yahwe, Elohim bilong yu, na yu ken wokim wok bilong ⟨את⟩ em, na yu ken sotim tok long nem bilong em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/6\/13-16.1792349784146.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ Yahwe Elohim bilong yu yu ken scaret longen, na ⟨את⟩ ⟨em⟩ yu ken wokim longen, na long nem bilong ⟨em⟩ yu ken sot long nem.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim bilong yu"
     },
     {
       "surface": "יהוה",
@@ -43,25 +22,26 @@
     },
     {
       "surface": "תירא",
-      "gloss": "yu ken pret long"
+      "gloss": "yu ken scaret longen"
     },
     {
       "surface": "ואתו",
-      "gloss": "na ⟨את⟩ em"
+      "gloss": "⟨את⟩ ⟨em⟩",
+      "marks": "yu ken wokim longen"
     },
     {
       "surface": "תעבד",
-      "gloss": "yu ken wokim wok bilong"
+      "gloss": "yu ken wokim longen"
     },
     {
       "surface": "ובשמו",
-      "gloss": "na long nem bilong em"
+      "gloss": "na long nem bilong ⟨em⟩"
     },
     {
       "surface": "תשבע",
-      "gloss": "yu ken sotim tok"
+      "gloss": "yu ken sot long nem"
     }
   ],
-  "timestamp": "2026-10-18T18:56:24.147391849Z",
+  "timestamp": "2026-10-19T00:37:31.951591168Z",
   "model": "glm-5.3"
 }

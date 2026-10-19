@@ -5,59 +5,38 @@
   "book": "proverbs",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מודע",
-      "rationale": "מודע i stap hia tasol olsem 'kandin' — sampela i tanim 'fren man', sampela 'meri bilong kantri'."
-    },
-    {
-      "kind": "you",
-      "subject": "yu",
-      "rationale": "Tok i go long pikinini man — makim save na binin olsem susa na kandin."
-    }
-  ],
-  "translation": "Tokim save: Yu susa bilong mi; na long save long ol samting, yu bai kolim ⟨את⟩ em kandin bilong yu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/proverbs\/7\/1-4.1792359472592.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tokim save: ⟨את⟩ sista bilong mi yu; na man yu save long em bilong tingting gut, yu kolim ⟨em⟩ olwantok bilong yu.",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "Tokim"
+      "gloss": "tokim"
     },
     {
       "surface": "לחכמה",
-      "gloss": "save"
+      "gloss": "long save"
     },
     {
       "surface": "אחתי",
-      "gloss": "Yu susa bilong mi"
+      "gloss": "sista bilong mi"
     },
     {
       "surface": "את",
-      "gloss": "yu"
+      "gloss": "⟨את⟩",
+      "marks": "man yu save long em (olwantok)"
     },
     {
       "surface": "ומדע",
-      "gloss": "na save long ol samting"
+      "gloss": "na man yu save long em"
     },
     {
       "surface": "לבינה",
-      "gloss": "long wanem long skelim"
+      "gloss": "bilong tingting gut"
     },
     {
       "surface": "תקרא",
-      "gloss": "yu bai kolim ⟨את⟩ em kandin bilong yu",
-      "marks": "kandin bilong yu"
+      "gloss": "yu kolim"
     }
   ],
-  "timestamp": "2026-10-18T21:37:52.593686929Z",
+  "timestamp": "2026-10-19T00:50:17.728375981Z",
   "model": "glm-5.3"
 }

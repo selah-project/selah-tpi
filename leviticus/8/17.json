@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pait kaikai",
-      "rationale": "פרש is dung\/excrement of the animal"
-    }
-  ],
-  "translation": "Na ⟨את⟩ bulmakau man, na ⟨את⟩ skin bilong en, na ⟨את⟩ mit bilong en, na ⟨את⟩ pait kaikai bilong en, em i brunim ⟨⟨long paia⟩⟩ autsait long kemp, olsem Yahwe i bin salim tok long ⟨את⟩ Mose.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/17-20.1792348419852.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ⟨את⟩ bulmakau man wantaim ⟨את⟩ skin bilong en, na ⟨את⟩ mit bilong en, na ⟨את⟩ pait bilong en, em i kukim long paia, ausait long kemp, olsem na Yahwe i givim tok ⟨את⟩ Mose.",
   "tokens": [
     {
       "surface": "ואת",
@@ -53,23 +37,23 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pait kaikai bilong en"
+      "marks": "pait bilong en"
     },
     {
       "surface": "פרשו",
-      "gloss": "pait kaikai bilong en"
+      "gloss": "pait bilong en"
     },
     {
       "surface": "שרף",
-      "gloss": "brunim"
+      "gloss": "kukim long paia"
     },
     {
       "surface": "באש",
-      "gloss": "long paia"
+      "gloss": "paia"
     },
     {
       "surface": "מחוץ",
-      "gloss": "autsait"
+      "gloss": "ausait"
     },
     {
       "surface": "למחנה",
@@ -77,11 +61,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "olsem"
+      "gloss": "olsem na"
     },
     {
       "surface": "צוה",
-      "gloss": "salim tok"
+      "gloss": "givim tok"
     },
     {
       "surface": "יהוה",
@@ -97,6 +81,6 @@
       "gloss": "Mose"
     }
   ],
-  "timestamp": "2026-10-18T18:33:39.852880703Z",
+  "timestamp": "2026-10-19T00:48:45.561569880Z",
   "model": "glm-5.3"
 }

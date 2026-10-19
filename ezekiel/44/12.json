@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאתי ידי",
-      "rationale": "lifted my hand — oath\/judgment gesture, tpi 'mi kirapim han bilong mi' keeps the literal gesture"
-    },
-    {
-      "kind": "crux",
-      "subject": "אותם",
-      "rationale": "served 'them' — the people (KJV) or the idols' worship (as if serving them); suffix rendered 'ol' ambiguous like Hebrew"
-    }
-  ],
-  "translation": "Long wanem ol i wokim ol long pes bilong ol piksa bilong ol, na ol i kamap long haus bilong Yisrael olsem samting i makim ol i pundaun long rong — long olsem mi kirapim han bilong mi long ol, Adonai Yahwe i tok, na bai ol karim rong bilong ol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/44\/9-12.1792356937317.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bikos ol i wokim sevis long ⟨את⟩ ol long pes bilong ol piksa bilong ol, na ol i kamap long haus bilong Yisrael olsem wanpela samting i kirapim pundaun — pasin nogut; olsem na mi goapim han bilong mi antap long ol, tok bilong Adonai Yahwe, na ol bai karim pasin nogut bilong ol.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Long wanem"
+      "gloss": "Bikos"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "sevis"
     },
     {
       "surface": "ישרתו",
@@ -42,7 +21,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol man ol i wokim sevis long ol)"
     },
     {
       "surface": "לפני",
@@ -58,31 +38,31 @@
     },
     {
       "surface": "לבית",
-      "gloss": "long haus"
+      "gloss": "long haus bilong"
     },
     {
       "surface": "ישראל",
-      "gloss": "bilong Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "למכשול",
-      "gloss": "olsem samting i makim ol i pundaun"
+      "gloss": "olsem wanpela samting i kirapim pundaun"
     },
     {
       "surface": "עון",
-      "gloss": "long rong"
+      "gloss": "pasin nogut"
     },
     {
       "surface": "על",
-      "gloss": "Long"
+      "gloss": "olsem na"
     },
     {
       "surface": "כן",
-      "gloss": "olsem"
+      "gloss": ""
     },
     {
       "surface": "נשאתי",
-      "gloss": "mi kirapim"
+      "gloss": "mi goapim"
     },
     {
       "surface": "ידי",
@@ -90,11 +70,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "long ol"
+      "gloss": "antap long ol"
     },
     {
       "surface": "נאם",
-      "gloss": "i tok"
+      "gloss": "tok bilong"
     },
     {
       "surface": "אדני",
@@ -106,13 +86,13 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "na bai ol karim"
+      "gloss": "na ol bai karim"
     },
     {
       "surface": "עונם",
-      "gloss": "rong bilong ol"
+      "gloss": "pasin nogut bilong ol"
     }
   ],
-  "timestamp": "2026-10-18T20:55:37.319223377Z",
+  "timestamp": "2026-10-19T00:40:16.854016650Z",
   "model": "glm-5.3"
 }

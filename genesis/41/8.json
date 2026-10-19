@@ -5,62 +5,36 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruak",
-      "rationale": "רוח oltaim 'ruak' — hia em i tingting-save bilong man, i no win tasol"
-    },
-    {
-      "kind": "substitution",
-      "subject": "man bilong ol mak bilong skai",
-      "rationale": "חרטם — man i makim ol lain na ol sekol bilong lukim ol mak; 'magician' i no stret long Tok Pisin"
-    },
-    {
-      "kind": "mystery",
-      "subject": "drim bilong Paroh",
-      "rationale": "nogat man i inap opim tok — drim i stap hait, i wetim man i save"
-    }
-  ],
-  "translation": "Na long moning, ruak bilong em i gat trabel, na em i salim man na singautim ⟨את⟩ olgeta man bilong ol mak bilong skai bilong Mitsrayim, na ⟨את⟩ olgeta man save bilong en. Na Paroh i stori long ol ⟨את⟩ drim bilong em, tasol i no gat man i save opim tok bilong ol long Paroh.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/5-8.1792347140626.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na long moningtaim i kamap, ruak bilong en i kirap nogut, na em i salim na singautim ⟨את⟩ olgeta man bilong marila bilong Mitsrayim, na ⟨את⟩ olgeta man save bilong en; na Paroh i stori long ol ⟨את⟩ driman bilong en, tasol i no gat man inap tanim ⟨את⟩ ol long Paroh.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Na i kamap"
+      "gloss": "Na ... i kamap"
     },
     {
       "surface": "בבקר",
-      "gloss": "long moning"
+      "gloss": "long moningtaim"
     },
     {
       "surface": "ותפעם",
-      "gloss": "i gat trabel"
+      "gloss": "i kirap nogut"
     },
     {
       "surface": "רוחו",
-      "gloss": "ruak bilong em"
+      "gloss": "ruak bilong en"
     },
     {
       "surface": "וישלח",
-      "gloss": "i salim man"
+      "gloss": "na em i salim"
     },
     {
       "surface": "ויקרא",
-      "gloss": "i singautim"
+      "gloss": "na singautim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta man bilong ol mak bilong skai bilong Mitsrayim"
+      "marks": "olgeta man bilong marila bilong Mitsrayim"
     },
     {
       "surface": "כל",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "חרטמי",
-      "gloss": "man bilong ol mak bilong skai"
+      "gloss": "man bilong marila"
     },
     {
       "surface": "מצרים",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "ויספר",
-      "gloss": "i stori long"
+      "gloss": "na i stori"
     },
     {
       "surface": "פרעה",
@@ -97,16 +71,16 @@
     },
     {
       "surface": "להם",
-      "gloss": "ol"
+      "gloss": "long ol"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "drim bilong em"
+      "marks": "driman bilong en"
     },
     {
       "surface": "חלמו",
-      "gloss": "drim bilong em"
+      "gloss": "driman bilong en"
     },
     {
       "surface": "ואין",
@@ -114,17 +88,18 @@
     },
     {
       "surface": "פותר",
-      "gloss": "man i save opim tok"
+      "gloss": "man inap tanim"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "long Paroh"
     },
     {
       "surface": "לפרעה",
       "gloss": "long Paroh"
     }
   ],
-  "timestamp": "2026-10-18T18:12:20.627262224Z",
+  "timestamp": "2026-10-19T00:41:41.914605055Z",
   "model": "glm-5.3"
 }

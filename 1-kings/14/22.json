@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "mekim bel bilong em i painim",
-      "rationale": "ויקנאו — 'provoked Him to jealousy'; literally 'made Him jealous\/zealous'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "olgeta samting we ol papa bilong ol i bin wokim",
-      "rationale": "מכל אשר עשו אבתם read as 'more than all their fathers did' (KJV) vs 'with all that their fathers did' (YLT); I follow the comparative sense."
-    }
-  ],
-  "translation": "Na Yehuda i wokim ol samting nogut long ai bilong Yahwe, na ol i mekim bel bilong em i painim ⟨את⟩ ol long olgeta olgeta samting we ol papa bilong ol i bin wokim, long ol sin ol i bin wokim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "cfb75b040cc44eb66a820c664b6ae3386fedad67c4b6a69c1544477fe06a5426",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/14\/21-24.1792353054453.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yuda i wokim ⟨את⟩ samting nogut long ai bilong Yahwe, na ol i mekim bel hevi ⟨long⟩ em, olsem long olgeta samting ol papa bilong ol i wokim, long ol sin ol i sinim.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Na Yehuda i wokim"
+      "gloss": "i wokim"
     },
     {
       "surface": "יהודה",
-      "gloss": ""
+      "gloss": "Yuda"
     },
     {
       "surface": "הרע",
-      "gloss": "ol samting nogut"
+      "gloss": "samting nogut"
     },
     {
       "surface": "בעיני",
@@ -50,28 +29,28 @@
     },
     {
       "surface": "ויקנאו",
-      "gloss": "na ol i mekim bel bilong em i painim"
+      "gloss": "ol i mekim bel hevi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ol"
+      "marks": "em — Yahwe"
     },
     {
       "surface": "מכל",
-      "gloss": "long olgeta olgeta samting"
+      "gloss": "olsem long olgeta"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "samting"
     },
     {
       "surface": "עשו",
-      "gloss": "i bin wokim"
+      "gloss": "i wokim"
     },
     {
       "surface": "אבתם",
-      "gloss": "ol papa bilong ol"
+      "gloss": "papa bilong ol"
     },
     {
       "surface": "בחטאתם",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "חטאו",
-      "gloss": "i bin wokim"
+      "gloss": "i sinim"
     }
   ],
-  "timestamp": "2026-10-18T19:50:54.454750033Z",
+  "timestamp": "2026-10-19T00:29:45.624959123Z",
   "model": "glm-5.3"
 }

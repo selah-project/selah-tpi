@@ -5,17 +5,76 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 13,
-  "translation": "Olgeta tok ⟨את⟩ olgetadispela tok we mi laikim yumi olgeta i wokim — yupela i ken lukautim ⟨em⟩ gut, long wokim ⟨em⟩; yupela i no ken raitim sampela moa long ⟨em⟩ na i no ken rausim sampela long ⟨em⟩. Olgeta samting we mi, mi tok stret long yumi, yupela i mas bihainim olgeta — i no ken raitim moa, i no ken rausim.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/13\/1-4.1792349997790.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-18T18:59:57.791167261Z",
+  "translation": "⟨את⟩ olgeta tok bilong ⟨em⟩ we mi bareim long ⟨את⟩ yupela — em ⟨את⟩ yupela i mas lukaut long en bilong wokim; no ken putim moa long em, na no ken rausim samting long em.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olgeta tok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "olgeta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "bareim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yupela i mas lukaut long en"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "yupela i mas lukaut long en"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bilong wokim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ken putim moa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "long em"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na no"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ken rausim samting"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "long em"
+    }
+  ],
+  "timestamp": "2026-10-19T00:36:07.946084181Z",
   "model": "glm-5.3"
 }

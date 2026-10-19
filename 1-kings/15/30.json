@@ -5,31 +5,15 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "chata\/hichita",
-      "rationale": "חטא\/החטיא — em i wokim sinsin \/ em i makim ol i wokim sinsin; wankain rit, planti kal long Tok Pisin, singaut i lus."
-    }
-  ],
-  "translation": "Long ol sinsin bilong Yaravam we em i wokim sinsin, na we em i makim Yisrael long wokim sinsin, na long kros bilong em we em i mekim Yahwe, Elohim bilong Yisrael, i kros.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/15\/29-32.1792353071669.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bikos long ol sung bilong Yaravam, we em i sungim, na we em i mekim Yisrael i sungim, long kus bilong em, we em i kusim ⟨את⟩ Yahwe, Elohim bilong Yisrael.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "long"
+      "gloss": "bikos long"
     },
     {
       "surface": "חטאות",
-      "gloss": "ol sinsin bilong"
+      "gloss": "ol sung"
     },
     {
       "surface": "ירבעם",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "חטא",
-      "gloss": "em i wokim sinsin"
+      "gloss": "i sungim"
     },
     {
       "surface": "ואשר",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "em i makim long wokim sinsin"
+      "gloss": "i mekim … i sungim"
     },
     {
       "surface": "את",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "בכעסו",
-      "gloss": "long kros bilong em"
+      "gloss": "long kus bilong em"
     },
     {
       "surface": "אשר",
@@ -70,12 +54,12 @@
     },
     {
       "surface": "הכעיס",
-      "gloss": "em i mekim i kros"
+      "gloss": "i kusim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe, Elohim bilong Yisrael"
+      "marks": "Yahwe"
     },
     {
       "surface": "יהוה",
@@ -90,6 +74,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-10-18T19:51:11.670738957Z",
+  "timestamp": "2026-10-19T00:29:51.411814974Z",
   "model": "glm-5.3"
 }

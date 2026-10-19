@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "kap bilong wain bilong kros",
-      "rationale": "cup of wine of fury — heat\/חמה rendered as kros, literal picture of a potion drunk by the nations"
-    },
-    {
-      "kind": "addition",
-      "subject": "dringim",
-      "rationale": "causative השקיתה requires 'mekim dringim' — Hebrew causative verb has no single Tok Pisin equivalent"
-    }
-  ],
-  "translation": "Bilong wanem olsem Yahwe, Elohim bilong Yisrael, i tok long mi: Kisim ⟨את⟩ kap bilong wain bilong kros dispela long han bilong mi, na yu mekim dringim ⟨את⟩ olgeta ol lain we mi salim yu long ol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/25\/13-16.1792355356972.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long wanem, olsem ia Yahwe, Elohim bilong Yisrael, i tokim mi: Tekim ⟨את⟩ dispela kap bilong wain bilong kros long han bilong mi, na yu mas givim dring long ⟨את⟩ olgeta ol lain, olgeta ol lain we mi salim ⟨את⟩ yu i go long ol.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bilong wanem"
+      "gloss": "long wanem"
     },
     {
       "surface": "כה",
-      "gloss": "olsem"
+      "gloss": "olsem ia"
     },
     {
       "surface": "אמר",
-      "gloss": "i tok"
+      "gloss": "i tokim"
     },
     {
       "surface": "יהוה",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "קח",
-      "gloss": "kisim"
+      "gloss": "tekim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kap bilong wain bilong kros"
+      "marks": "dispela kap bilong wain bilong kros"
     },
     {
       "surface": "כוס",
@@ -87,12 +66,12 @@
     },
     {
       "surface": "והשקיתה",
-      "gloss": "na yu mekim dringim"
+      "gloss": "na yu mas givim dring long"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "olgeta ol lain"
+      "gloss": "⟨את⟩ em",
+      "marks": "dispela kap"
     },
     {
       "surface": "את",
@@ -121,13 +100,14 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ yu"
+      "gloss": "⟨את⟩ yu",
+      "marks": "yu, man mi salim i go long ol"
     },
     {
       "surface": "אליהם",
       "gloss": "long ol"
     }
   ],
-  "timestamp": "2026-10-18T20:29:16.973217118Z",
+  "timestamp": "2026-10-19T00:44:26.644155232Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "meri bilong wok",
-      "rationale": "שפחה em i slaif meri insait long haus; 'meri bilong wok' i kliaim wanem em i mekim, tasol no kLostu olgeta"
-    },
-    {
-      "kind": "elision",
-      "subject": "ואין מציל ביניהם",
-      "rationale": "'i no gat man i pulum long namel bilong ol' — מציל em i man i ritimautim\/pulum, Inglis 'part them' i no wanem"
-    }
-  ],
-  "translation": "Na meri bilong wok bilong yu i gat tupela pikinini man, na tupela i pait long gaden, i no gat man i pulum long namel bilong ol, na wanpela i paitim ⟨את⟩ narapela, na em i dai pinis.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/14\/5-8.1792352369097.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na sere bilong yu i gat tupela pikinini man, na tupela i pait long gaden, na i no gat man i ritim namel long ol; na wanpela i paitim ⟨את⟩ narapela, na em i kilim ⟨את⟩ em i dai.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "na meri bilong wok bilong yu"
+      "gloss": "na sere bilong yu"
     },
     {
       "surface": "שני",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וינצו",
-      "gloss": "na tupela i pait"
+      "gloss": "i pait"
     },
     {
       "surface": "שניהם",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "ואין",
-      "gloss": "i no gat"
+      "gloss": "na i no gat"
     },
     {
       "surface": "מציל",
-      "gloss": "man i pulum"
+      "gloss": "man i ritim"
     },
     {
       "surface": "ביניהם",
-      "gloss": "long namel bilong ol"
+      "gloss": "namel long ol"
     },
     {
       "surface": "ויכו",
@@ -75,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "narapela"
+      "marks": "narapela (wanpela)"
     },
     {
       "surface": "האחד",
@@ -83,14 +62,14 @@
     },
     {
       "surface": "וימת",
-      "gloss": "na em i dai pinis"
+      "gloss": "na em i kilim"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "em"
+      "marks": "em (narapela i dai)"
     }
   ],
-  "timestamp": "2026-10-18T19:39:29.104658559Z",
+  "timestamp": "2026-10-19T00:34:43.577781541Z",
   "model": "glm-5.3"
 }

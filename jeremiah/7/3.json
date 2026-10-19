@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ol",
-      "rationale": "Hibru i gat second person (dir rot bilong yu); Tok Pisin i tokim ol manmeri long third person"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Yahwe Tsebaot",
-      "rationale": "Nem bilong God wantaim titol Tsebaot i stap wantaim — Wanpela tok, i no senis (D1)"
-    }
-  ],
-  "translation": "Olsem Yahwe Tsebaot, Elohim bilong Yisrael, i tok: Ol i mas senisim ol rot bilong ol na ol wok bilong ol, na bai mi larim ol ⟨em⟩ i stop long dispela ples.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/7\/1-4.1792355004907.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem Yahwe Tsebaot, Elohim bilong Yisrael, i tok: Stap gutpela olsem long ol rot bilong yumi ⟨i⟩ na ol wok bilong yumi, na bai mi tingim ⟨את⟩ yupela long dispela ples.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Olsem"
+      "gloss": "olsem"
     },
     {
       "surface": "אמר",
@@ -46,42 +25,42 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim bilong"
     },
     {
       "surface": "ישראל",
-      "gloss": "bilong Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "היטיבו",
-      "gloss": "Ol i mas senisim"
+      "gloss": "stap gutpela olsem"
     },
     {
       "surface": "דרכיכם",
-      "gloss": "ol rot bilong ol"
+      "gloss": "ol rot bilong yumi"
     },
     {
       "surface": "ומעלליכם",
-      "gloss": "na ol wok bilong ol"
+      "gloss": "na ol wok bilong yumi"
     },
     {
       "surface": "ואשכנה",
-      "gloss": "na bai mi larim ol i stop"
+      "gloss": "na bai mi tingim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨em⟩",
-      "marks": "ol"
+      "gloss": "⟨את⟩",
+      "marks": "yupela"
     },
     {
       "surface": "במקום",
-      "gloss": "long ples"
+      "gloss": "long dispela ples"
     },
     {
       "surface": "הזה",
       "gloss": "dispela"
     }
   ],
-  "timestamp": "2026-10-18T20:23:24.909011248Z",
+  "timestamp": "2026-10-19T00:46:15.128511435Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מטה לוי",
-      "rationale": "מטה em i lain (tribe) na tu spak; hia em i lain bilong Levi"
-    },
-    {
-      "kind": "you",
-      "subject": "to Mose",
-      "rationale": "Bikpela tokim Mose — em i dairek"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ושרתו",
-      "rationale": "sharat — wokim wok bilong pris, olsem samting bilong wosip"
-    }
-  ],
-  "translation": "Kenim klostu ⟨את⟩ lain bilong Levi, na yu ken kirapim ol i stap_ABC stain long pes bilong Aharon, pris bilong ⟨em⟩, na ol i ken wokim wok bilong ⟨em⟩:",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/3\/5-8.1792348934491.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kenim ⟨את⟩ ol man bilong mata bilong Levi klostu, na yu ken kirapim ol i stap sanap pastaim long Aharon, pris, bilong ol i wokim wok bilong em.",
   "tokens": [
     {
       "surface": "הקרב",
@@ -40,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lain bilong Levi"
+      "marks": "ol man bilong mata bilong Levi"
     },
     {
       "surface": "מטה",
-      "gloss": "lain"
+      "gloss": "mata bilong Levi"
     },
     {
       "surface": "לוי",
-      "gloss": "bilong Levi"
+      "gloss": "Levi"
     },
     {
       "surface": "והעמדת",
@@ -56,12 +30,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ol",
-      "marks": "ol i stap long pes bilong Aharon"
+      "gloss": "⟨את⟩ em",
+      "marks": "pastaim long Aharon"
     },
     {
       "surface": "לפני",
-      "gloss": "long pes bilong"
+      "gloss": "pastaim long"
     },
     {
       "surface": "אהרן",
@@ -73,14 +47,14 @@
     },
     {
       "surface": "ושרתו",
-      "gloss": "na ol i ken wokim wok"
+      "gloss": "bilong ol i wokim wok bilong em"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ bilong em",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩ em",
+      "marks": "em (Aharon)"
     }
   ],
-  "timestamp": "2026-10-18T18:42:14.492042138Z",
+  "timestamp": "2026-10-19T00:48:58.723669748Z",
   "model": "glm-5.3"
 }

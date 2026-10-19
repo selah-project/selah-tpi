@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שם שם",
-      "rationale": "'The Name is called — the Name of Yahwe Tsebaot': double שם read variously as 'called by the Name, the Name of YHWH' or 'upon which a Name is invoked'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bokis",
-      "rationale": "ארון literally a box\/chest; 'ark' carries later cargo-ship connotation."
-    },
-    {
-      "kind": "crux",
-      "subject": "ישב הכרבים",
-      "rationale": "'the one sitting (upon) the cherubim' vs 'sitting between the cherubim' (1 Chr 13:6 parallel adds בין)."
-    }
-  ],
-  "translation": "Na David i sanap na i wokabaut, wantaim olgeta man bilong en, i kam long Baale bilong Yuda, bilong karim i go antap long san bilong dispela ples ⟨את⟩ bokis bilong Elohim — ol i kolim nem bilong en nem bilong Yahwe Tsebaot, em i stap long ol kerub antap long en.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/6\/1-4.1792352272817.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i kirap na i go, wantaim olgeta man we i stap wantaim ⟨את⟩ en, long Baale bilong Yuda, bilong karamapim long ples ia ⟨את⟩ bokis bilong Elohim, we Nem i kolim long em — Nem bilong Yahwe Tsebaot, we i stap long ol kerub long antena bilong em.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "i sanap"
+      "gloss": "i kirap"
     },
     {
       "surface": "וילך",
-      "gloss": "i wokabaut"
+      "gloss": "i go"
     },
     {
       "surface": "דוד",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "we"
     },
     {
       "surface": "אתו",
-      "gloss": "long en ⟨את⟩"
+      "gloss": "wantaim ⟨את⟩ en"
     },
     {
       "surface": "מבעלי",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "bilong Yuda"
     },
     {
       "surface": "להעלות",
-      "gloss": "bilong karim i go antap"
+      "gloss": "bilong karamapim"
     },
     {
       "surface": "משם",
-      "gloss": "long san bilong dispela ples"
+      "gloss": "long ples ia"
     },
     {
       "surface": "את",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "we"
     },
     {
       "surface": "נקרא",
-      "gloss": "ol i kolim"
+      "gloss": "i kolim"
     },
     {
       "surface": "שם",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "nem"
+      "gloss": "nem bilong"
     },
     {
       "surface": "יהוה",
@@ -116,17 +90,17 @@
     },
     {
       "surface": "ישב",
-      "gloss": "i stap"
+      "gloss": "i stap long"
     },
     {
       "surface": "הכרבים",
-      "gloss": "long ol kerub"
+      "gloss": "ol kerub"
     },
     {
       "surface": "עליו",
-      "gloss": "antap long en"
+      "gloss": "long antena bilong em"
     }
   ],
-  "timestamp": "2026-10-18T19:37:52.818140773Z",
+  "timestamp": "2026-10-19T00:35:13.746570884Z",
   "model": "glm-5.3"
 }

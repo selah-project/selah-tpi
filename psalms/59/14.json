@@ -5,38 +5,7 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כלה...כלה",
-      "rationale": "imperative repetition 'consume, consume' — kept as 'pinisim, pinisim'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חמה",
-      "rationale": "Heb 'heat\/fury' rendered 'bel kros' (anger) rather than literal heat."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "conjunction folded into 'ol i save se' with no separate gloss."
-    },
-    {
-      "kind": "you",
-      "subject": "to Yahwe",
-      "rationale": "imperatives addressed to God, continuing the plea of the psalm."
-    }
-  ],
-  "translation": "Pinisim ⟨את⟩ ol long bel kros; pinisim, ol i no ken kamap gen; na ol i save se Elohim i bosim long Yakov, i go inap long ol het bilong graun. Sela.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "8cf0e06c5641272bcbf5ce5083a98b8da9e892bd73a30581a60516db36bd875c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/59\/13-14.1792363350991.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pinisim ol wantaim strongpela kros, pinisim ol, na ol i no ken stap moa; na bai ol i save long se Elohim i bosim long Yakov, i go insait long ol ken bilong graun. Sela.",
   "tokens": [
     {
       "surface": "כלה",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "בחמה",
-      "gloss": "long bel kros"
+      "gloss": "wantaim strongpela kros"
     },
     {
       "surface": "כלה",
@@ -52,15 +21,15 @@
     },
     {
       "surface": "ואינמו",
-      "gloss": "ol i no ken kamap gen"
+      "gloss": "na ol i no ken stap moa"
     },
     {
       "surface": "וידעו",
-      "gloss": "na ol i save se"
+      "gloss": "na bai ol i save"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "long se"
     },
     {
       "surface": "אלהים",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "לאפסי",
-      "gloss": "i go inap long ol het bilong"
+      "gloss": "i go insait long ol ken bilong"
     },
     {
       "surface": "הארץ",
@@ -87,6 +56,6 @@
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-18T22:42:30.992198908Z",
+  "timestamp": "2026-10-19T00:51:44.064618257Z",
   "model": "glm-5.3"
 }

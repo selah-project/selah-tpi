@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bret bilong pes",
-      "rationale": "לחם הפנים literally 'bread of the face\/presence' — traditional 'shewbread' dropped the picture"
-    },
-    {
-      "kind": "measurement",
-      "subject": "rotation",
-      "rationale": "verse describes the weekly ritual exchange: hot bread put in the day the old is taken away"
-    }
-  ],
-  "translation": "Na pris i givim long em samting holi, bilong wanem i no gat bret long hap, tasol bret bilong pes — ol i rausim i kamap biaut long pes bilong Yahwe, bilong putim bret het long de ol i tekim em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/21\/5-8.1792351995104.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na pris i givim long em ⟨את⟩ samting holi, long wanem i no gat bret long hap, tasol bret bilong pes, bret ol i rausim ⟨em⟩ i kam long pes bilong Yahwe, bilong putim bret hat long de ol i tekim ⟨em⟩ weg.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "na i givim"
+      "gloss": "na pris i givim"
     },
     {
       "surface": "לו",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "bilong wanem"
+      "gloss": "long wanem"
     },
     {
       "surface": "לא",
-      "gloss": "nogat"
+      "gloss": "no"
     },
     {
       "surface": "היה",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "tasol"
     },
     {
       "surface": "אם",
-      "gloss": "tasol"
+      "gloss": "⟨no gat narapela⟩"
     },
     {
       "surface": "לחם",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "i kamap biaut long pes bilong"
+      "gloss": "i kam long pes bilong"
     },
     {
       "surface": "יהוה",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "חם",
-      "gloss": "het"
+      "gloss": "hat"
     },
     {
       "surface": "ביום",
@@ -110,9 +89,9 @@
     },
     {
       "surface": "הלקחו",
-      "gloss": "ol i tekim em"
+      "gloss": "ol i tekim weg"
     }
   ],
-  "timestamp": "2026-10-18T19:33:15.106273387Z",
+  "timestamp": "2026-10-19T00:30:30.200991429Z",
   "model": "glm-5.3"
 }

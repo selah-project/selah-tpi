@@ -5,46 +5,15 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "laip",
-      "rationale": "נפש: 'throat, breath, life-force', not 'soul'; 'laip' keeps the life-force meaning"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יבקש ... יבקש",
-      "rationale": "The repetition of 'seek' frames the parallel laip bilong mi \/ laip bilong yu; the mirrored structure is preserved"
-    },
-    {
-      "kind": "you",
-      "subject": "David i tokim Avyatar",
-      "rationale": "Direct address: David comforts Abiathar with imperatives 'stop', 'no ken pret'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "stop wantaim mi",
-      "rationale": "The imperative summons Abiathar to stay with David"
-    }
-  ],
-  "translation": "Stop wantaim mi, no ken pret; long wanem man i painim ⟨את⟩ laip bilong mi, bai em i painim ⟨את⟩ laip bilong yu; long wanem yu i samting bilong lukautim wantaim mi.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/22\/21-23.1792351909554.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Stop ⟨את⟩ wantaim mi, no ken pret: bilong wanem, man i lukluk long ⟨את⟩ laif bilong mi bai i lukluk tu long ⟨את⟩ laif bilong yu: bilong wanem, yu stap long lukaut bilong mi.",
   "tokens": [
     {
       "surface": "שבה",
-      "gloss": "stop"
+      "gloss": "Stop"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ wantaim mi"
+      "gloss": "wantaim mi ⟨את⟩"
     },
     {
       "surface": "אל",
@@ -56,45 +25,45 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "אשר",
-      "gloss": "man"
+      "gloss": "man i"
     },
     {
       "surface": "יבקש",
-      "gloss": "i painim"
+      "gloss": "lukluk long"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "laip bilong mi"
+      "marks": "laif bilong mi"
     },
     {
       "surface": "נפשי",
-      "gloss": "laip bilong mi"
+      "gloss": "laif bilong mi"
     },
     {
       "surface": "יבקש",
-      "gloss": "bai em i painim"
+      "gloss": "lukluk tu long"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "laip bilong yu"
+      "marks": "laif bilong yu"
     },
     {
       "surface": "נפשך",
-      "gloss": "laip bilong yu"
+      "gloss": "laif bilong yu"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "משמרת",
-      "gloss": "samting bilong lukautim"
+      "gloss": "lukaut"
     },
     {
       "surface": "אתה",
@@ -102,9 +71,9 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "wantaim mi"
+      "gloss": "long mi"
     }
   ],
-  "timestamp": "2026-10-18T19:31:49.555544993Z",
+  "timestamp": "2026-10-19T00:30:25.393800883Z",
   "model": "glm-5.3"
 }

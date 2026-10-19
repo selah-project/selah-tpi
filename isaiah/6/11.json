@@ -5,45 +5,19 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עד מתי \/ עד אשר אם",
-      "rationale": "Hebrew stacked particles 'until when' and 'until that if' condensed into 'olsem wanem taim' and 'oltaim'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Adonai",
-      "rationale": "Isaiah's direct question addressed to Adonai."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאו \/ תשאה \/ שממה",
-      "rationale": "Root repetition שאה plus שממה builds sound-chain of desolation, lost in Tok Pisin."
-    }
-  ],
-  "translation": "Na mi tok: Olsem wanem taim, Adonai? Na em i tok: Oltaim ol taun i bagarap, ol i no gat man i stap long en, na ol haus ol i no gat man, na graun i bagarap tumas, em i stap wanpela nating.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/6\/9-12.1792353938874.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi tok: Gutpela taim tasol, Adonai? Na em i tok: Olsem inap ol taun i bagarap, i no gat wanpela man i stap long en, na ol haus i no gat man, na graun i kamap nating olgeta, ples i no gat man i stap long en.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "na mi tok"
+      "gloss": "Na mi tok"
     },
     {
       "surface": "עד",
-      "gloss": ""
+      "gloss": "Olsem"
     },
     {
       "surface": "מתי",
-      "gloss": "olsem wanem taim"
+      "gloss": "gutpela taim tasol"
     },
     {
       "surface": "אדני",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na em i tok"
+      "gloss": "Na em i tok"
     },
     {
       "surface": "עד",
-      "gloss": "oltaim"
+      "gloss": "Olsem inap"
     },
     {
       "surface": "אשר",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tru"
     },
     {
       "surface": "שאו",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "מאין",
-      "gloss": "i no gat"
+      "gloss": "i no gat wanpela man"
     },
     {
       "surface": "יושב",
-      "gloss": "man i stap"
+      "gloss": "i stap long en"
     },
     {
       "surface": "ובתים",
@@ -99,13 +73,13 @@
     },
     {
       "surface": "תשאה",
-      "gloss": "i bagarap tumas"
+      "gloss": "i kamap nating olgeta"
     },
     {
       "surface": "שממה",
-      "gloss": "stap wanpela nating"
+      "gloss": "ples i no gat man i stap long en"
     }
   ],
-  "timestamp": "2026-10-18T20:05:38.875551837Z",
+  "timestamp": "2026-10-19T00:43:21.542707291Z",
   "model": "glm-5.3"
 }

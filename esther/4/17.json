@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "i go stret",
-      "rationale": "עבר i min 'i go lusim' o 'i wokabaut i go', ol tanim tok i usim 'went his way'"
-    },
-    {
-      "kind": "addition",
-      "subject": "<em>olsem<\/em>",
-      "rationale": "Tok Pisin i laikim tok 'olsem' bilong kamapim pasin, Hibru i no gat"
-    }
-  ],
-  "translation": "Na Mordekai i go stret, na em i wokim olgeta olgeta samting we Ester i tokim em long <em>olsem<\/em>.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/esther\/4\/17-17.1792360839838.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Mordekai i go stret, na em i wokim olgeta samting we Ester i bin salim tok long em.",
   "tokens": [
     {
       "surface": "ויעבר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "i wokim"
+      "gloss": "na em i wokim"
     },
     {
       "surface": "ככל",
-      "gloss": "olgeta olgeta samting"
+      "gloss": "olgeta samting"
     },
     {
       "surface": "אשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "צותה",
-      "gloss": "i tokim em"
+      "gloss": "i bin salim tok"
     },
     {
       "surface": "עליו",
@@ -61,6 +40,6 @@
       "gloss": "Ester"
     }
   ],
-  "timestamp": "2026-10-18T22:00:39.839198536Z",
+  "timestamp": "2026-10-19T00:37:14.242936241Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "tupela tok כי אם wantaim em i wanpela idiom 'tasol\/bihain', olsem na כ_i i no gat tok wanwan"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hip",
-      "rationale": "מחלציך em i hip — ples bilong strong bilong man, i no 'lewa' o narapela pat bilong bodi"
-    }
-  ],
-  "translation": "Tasol yu — yu no inap wokim ⟨את⟩ haus; tasol pikinini man bilong yu, em i save kamap ausait long ol hip bilong yu, em bai i wokim ⟨את⟩ haus long nem bilong mi.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-kings\/8\/17-20.1792352876596.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tasol yu yet, no yu bai wokim ⟨את⟩ haus; tasol pikinini bilong yu, em i kamap long bel bilong yu, em bai wokim ⟨את⟩ haus bilong nem bilong mi.",
   "tokens": [
     {
       "surface": "רק",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "yu"
+      "gloss": "yu yet"
     },
     {
       "surface": "לא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תבנה",
-      "gloss": "inap wokim"
+      "gloss": "bai wokim"
     },
     {
       "surface": "הבית",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "tasol"
     },
     {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
       "surface": "בנך",
-      "gloss": "pikinini man bilong yu"
+      "gloss": "pikinini bilong yu"
     },
     {
       "surface": "היצא",
-      "gloss": "i save kamap ausait"
+      "gloss": "i kamap"
     },
     {
       "surface": "מחלציך",
-      "gloss": "long ol hip bilong yu"
+      "gloss": "long bel bilong yu"
     },
     {
       "surface": "הוא",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "יבנה",
-      "gloss": "bai i wokim"
+      "gloss": "bai wokim"
     },
     {
       "surface": "הבית",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "לשמי",
-      "gloss": "long nem bilong mi"
+      "gloss": "bilong nem bilong mi"
     }
   ],
-  "timestamp": "2026-10-18T19:47:56.597590610Z",
+  "timestamp": "2026-10-19T00:29:46.933843164Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,19 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "skru",
-      "rationale": "קשר is literally 'binding' (alliance); Tok Pisin 'skru' (conspiracy) is the fixed idiom for unlawful political alliance."
-    },
-    {
-      "kind": "addition",
-      "subject": "em",
-      "rationale": "Hebrew suffix pronouns on ויכהו\/וימיתהו appear as free pronouns in Tok Pisin, which lacks suffixing."
-    },
-    {
-      "kind": "measurement",
-      "subject": "yia tupela ten",
-      "rationale": "Reign synchronism — regnal year dating formula of the king lists."
-    }
-  ],
-  "translation": "Na Hoshea pikinini bilong Ela i mekim skru_against long Pekah pikinini bilong Remalyahu, na em i paitim ⟨em⟩, na kilim ⟨em⟩ i dai, na em i kamap king long ples bilong ⟨em⟩, long yia tupela ten bilong Yotam pikinini bilong Uziya.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "bf182c679f9fe47a9406b97e821457128be26e6ee48fffec8ee0b652ad850492",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/15\/29-32.1792353569327.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Hoshea, pikinini bilong Ela, i wokim wanpela plan nogut long pem kilim Pekah, pikinini bilong Remaljahu, na em i paitim ⟨את⟩ em, na em i kilim ⟨את⟩ em i dai, na em i kamap king long ples bilong em, long twentipela yia bilong Yotam, pikinini bilong Uzija.",
   "tokens": [
     {
-      "surface": "והושע",
-      "gloss": "Na Hoshea"
+      "surface": "ויקשר",
+      "gloss": "i wokim wanpela plan nogut"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "plan nogut"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
     },
     {
       "surface": "בן",
@@ -46,12 +28,8 @@
       "gloss": "Ela"
     },
     {
-      "surface": "קשר",
-      "gloss": "i mekim skru"
-    },
-    {
       "surface": "על",
-      "gloss": "long"
+      "gloss": "long pem kilim"
     },
     {
       "surface": "פקח",
@@ -63,15 +41,15 @@
     },
     {
       "surface": "רמליהו",
-      "gloss": "Remalyahu"
+      "gloss": "Remaljahu"
     },
     {
       "surface": "ויכהו",
-      "gloss": "na em i paitim em"
+      "gloss": "na em i paitim ⟨את⟩ em"
     },
     {
       "surface": "וימיתהו",
-      "gloss": "na kilim em i dai"
+      "gloss": "na em i kilim ⟨את⟩ em i dai"
     },
     {
       "surface": "וימלך",
@@ -83,11 +61,11 @@
     },
     {
       "surface": "בשנת",
-      "gloss": "long yia"
+      "gloss": "long yia bilong"
     },
     {
       "surface": "עשרים",
-      "gloss": "tupela ten"
+      "gloss": "twentipela"
     },
     {
       "surface": "ליותם",
@@ -99,9 +77,9 @@
     },
     {
       "surface": "עזיה",
-      "gloss": "Uziya"
+      "gloss": "Uzija"
     }
   ],
-  "timestamp": "2026-10-18T19:59:29.328605090Z",
+  "timestamp": "2026-10-19T00:32:25.956631943Z",
   "model": "glm-5.3"
 }

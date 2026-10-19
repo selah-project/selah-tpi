@@ -5,42 +5,16 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "לבב is heart as inner seat of thought and will — rendered 'bel' per D4"
-    },
-    {
-      "kind": "substitution",
-      "subject": "save bilong laip",
-      "rationale": "נפש is throat\/breath\/life-force, not immaterial 'soul'"
-    },
-    {
-      "kind": "crux",
-      "subject": "totafot",
-      "rationale": "טוטפת hapax-family word: 'frontlets\/bands between the eyes' — meaning uncertain, rabbinic tradition understands tefillin"
-    }
-  ],
-  "translation": "Olsem na yupela i putim ⟨את⟩ ol tok bilong mi olsem long bel bilong yupela, na long save bilong laip bilong yupela, na yupela i taiim ol long mak long han bilong yupela, na ol i kamap ol beng long hol bilong ai namel bilong yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/11\/17-20.1792349910295.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yupela putim ⟨את⟩ ol tok bilong mi long bel bilong yupela na long laip bilong yupela, na yupela taim ol long sejn olsem long han bilong yupela, na ol bai kamap ol bond bilong apa long namel bilong ol ai bilong yupela.",
   "tokens": [
     {
       "surface": "ושמתם",
-      "gloss": "na yupela i putim"
+      "gloss": "na yupela putim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol tok bilong mi olsem"
+      "marks": "ol tok bilong mi"
     },
     {
       "surface": "דברי",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "olsem"
+      "gloss": "ol"
     },
     {
       "surface": "על",
@@ -64,19 +38,20 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "save bilong laip bilong yupela"
+      "gloss": "laip bilong yupela"
     },
     {
       "surface": "וקשרתם",
-      "gloss": "na yupela i taiim ol"
+      "gloss": "na yupela taim ol"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "sejn olsem long han bilong yupela"
     },
     {
       "surface": "לאות",
-      "gloss": "long mak"
+      "gloss": "long sejn olsem"
     },
     {
       "surface": "על",
@@ -88,21 +63,21 @@
     },
     {
       "surface": "והיו",
-      "gloss": "na ol i kamap"
+      "gloss": "na ol bai kamap"
     },
     {
       "surface": "לטוטפת",
-      "gloss": "ol beng long hol bilong ai namel"
+      "gloss": "ol bond bilong apa"
     },
     {
       "surface": "בין",
-      "gloss": "namel bilong"
+      "gloss": "long namel"
     },
     {
       "surface": "עיניכם",
-      "gloss": "ai bilong yupela"
+      "gloss": "bilong ol ai bilong yupela"
     }
   ],
-  "timestamp": "2026-10-18T18:58:30.296448412Z",
+  "timestamp": "2026-10-19T00:35:37.182248633Z",
   "model": "glm-5.3"
 }

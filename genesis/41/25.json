@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "i",
-      "rationale": "Tok Pisin i mas putim predicate marker i"
-    },
-    {
-      "kind": "you",
-      "subject": "to Pharaoh",
-      "rationale": "Yosep i tokim Paro dairek long dispela tok"
-    },
-    {
-      "kind": "mystery",
-      "subject": "drim",
-      "rationale": "Yosep i opim drim i stap tat long man nogut"
-    }
-  ],
-  "translation": "Na Yosep i tokim Paro: Drim bilong Paro em i wanpela tasol. Wanem samting Elohim i wokim, em i bin sotim long Paro.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/41\/25-28.1792347111771.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yosep i tok long Paro: Drim bilong Paro em i wanpela tasol; wanem samting Elohim i wokim, em i brongim tokaut ⟨את⟩ long Paro.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tokim"
+      "gloss": "i tok"
     },
     {
       "surface": "יוסף",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "חלום",
-      "gloss": "Drim"
+      "gloss": "drim bilong"
     },
     {
       "surface": "פרעה",
-      "gloss": "bilong Paro"
+      "gloss": "Paro"
     },
     {
       "surface": "אחד",
@@ -68,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wanem samting"
+      "marks": "wanem samting Elohim i wokim"
     },
     {
       "surface": "אשר",
@@ -84,13 +58,13 @@
     },
     {
       "surface": "הגיד",
-      "gloss": "em i bin sotim"
+      "gloss": "em i brongim tokaut"
     },
     {
       "surface": "לפרעה",
       "gloss": "long Paro"
     }
   ],
-  "timestamp": "2026-10-18T18:11:51.771949749Z",
+  "timestamp": "2026-10-19T00:41:30.704715947Z",
   "model": "glm-5.3"
 }

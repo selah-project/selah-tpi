@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "em",
-      "rationale": "Hebrew wayyiqtol carries the subject; Tok Pisin needs the pronoun."
-    },
-    {
-      "kind": "you",
-      "subject": "to the man",
-      "rationale": "Yahwe questions Adam directly with two probing questions."
-    }
-  ],
-  "translation": "Na ⟨em⟩ i tok: Husat i tokim yu long wanem yu no gat klos? Yu kaikai pinis long diwai we mi bin givim性强 orders bilong mi long yu bilong no kaikai long em?",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/3\/9-12.1792346245806.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ⟨em⟩ i tok: Husat i tokim yu bilong yu yet i no gat klos? Apsun yu kaikai pinis long diwai, we mi bin gat tok wantaim yu se yu no ken kaikai long em?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na ⟨em⟩ i tok"
+      "gloss": "i tok"
     },
     {
       "surface": "מי",
-      "gloss": "Husat"
+      "gloss": "husat"
     },
     {
       "surface": "הגיד",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "עירם",
-      "gloss": "yu no gat klos"
+      "gloss": "i no gat klos"
     },
     {
       "surface": "אתה",
-      "gloss": "yu"
+      "gloss": "yu yet"
     },
     {
       "surface": "המן",
-      "gloss": "long"
+      "gloss": "apsun"
     },
     {
       "surface": "העץ",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "צויתיך",
-      "gloss": "mi bin givim 强 orders bilong mi long yu"
+      "gloss": "mi bin gat tok wantaim yu"
     },
     {
       "surface": "לבלתי",
-      "gloss": "bilong no"
+      "gloss": "no ken"
     },
     {
       "surface": "אכל",
@@ -86,9 +65,9 @@
     },
     {
       "surface": "אכלת",
-      "gloss": "Yu kaikai pinis"
+      "gloss": "yu kaikai pinis"
     }
   ],
-  "timestamp": "2026-10-18T17:57:25.807822080Z",
+  "timestamp": "2026-10-19T00:40:52.145074026Z",
   "model": "glm-5.3"
 }

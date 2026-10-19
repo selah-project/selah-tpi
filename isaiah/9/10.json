@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יסכסך",
-      "rationale": "Root סכך 'weave\/screen' — 'join together' (KJV) vs 'stir up' (ASV) vs 'incite'; rendered as joinim wantaim"
-    },
-    {
-      "kind": "alternative",
-      "subject": "i bikim",
-      "rationale": "ושגב could read 'set on high' (against him) or causatively 'exalt'; both preserve YHWH as the actor"
-    }
-  ],
-  "translation": "Na Yahwe i bikim ol birua bilong Retisin long antap long em, na ⟨את⟩ ol birua bilong em i joinim ol wantaim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/9\/9-12.1792353998531.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i stretpela bekim ⟨את⟩ ol bilong pait bilong Retsin long em, na ⟨את⟩ ol birua bilong em i wok long karamapim.",
   "tokens": [
     {
       "surface": "וישגב",
-      "gloss": "i bikim"
+      "gloss": "i stretpela bekim"
     },
     {
       "surface": "יהוה",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol birua bilong Retisin"
+      "marks": "ol bilong pait bilong Retsin"
     },
     {
       "surface": "צרי",
-      "gloss": "ol birua"
+      "gloss": "ol bilong pait"
     },
     {
       "surface": "רצין",
-      "gloss": "bilong Retisin"
+      "gloss": "Retsin"
     },
     {
       "surface": "עליו",
-      "gloss": "long antap long em"
+      "gloss": "long em"
     },
     {
       "surface": "ואת",
@@ -64,9 +43,9 @@
     },
     {
       "surface": "יסכסך",
-      "gloss": "i joinim ol wantaim"
+      "gloss": "i wok long karamapim"
     }
   ],
-  "timestamp": "2026-10-18T20:06:38.533187220Z",
+  "timestamp": "2026-10-19T00:43:27.427987311Z",
   "model": "glm-5.3"
 }

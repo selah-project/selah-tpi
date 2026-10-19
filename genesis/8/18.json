@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ובניו \/ ואשתו",
-      "rationale": "Hebrew single word 'and-his-sons' requires a Tok Pisin phrase plus an added bracketed ⟨את⟩ marker; the bound possessive construction is unbundled."
-    }
-  ],
-  "translation": "Na Noa i go aut, wantaim ⟨את⟩ ol pikinini man bilong em, na wantaim ⟨את⟩ meri bilong em, na ol meri bilong ol pikinini man bilong em, wantaim ⟨את⟩ em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/8\/17-20.1792346382235.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Noa i go ausait, wantaim ol pikinini man bilong en, na meri bilong en, na ol meri bilong ol pikinini man bilong en wantaim ⟨את⟩-em.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "na em i go aut"
+      "gloss": "i go ausait"
     },
     {
       "surface": "נח",
@@ -33,13 +17,11 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "wantaim ⟨את⟩ ol pikinini man bilong em",
-      "marks": "ol pikinini man bilong em"
+      "gloss": "wantaim ol pikinini man bilong en"
     },
     {
       "surface": "ואשתו",
-      "gloss": "na wantaim ⟨את⟩ meri bilong em",
-      "marks": "meri bilong em"
+      "gloss": "na meri bilong en"
     },
     {
       "surface": "ונשי",
@@ -47,14 +29,14 @@
     },
     {
       "surface": "בניו",
-      "gloss": "ol pikinini man bilong em"
+      "gloss": "ol pikinini man bilong en"
     },
     {
       "surface": "אתו",
-      "gloss": "wantaim ⟨את⟩ em",
-      "marks": "wantaim em"
+      "gloss": "⟨את⟩ wantaim em",
+      "marks": "em (Noa)"
     }
   ],
-  "timestamp": "2026-10-18T17:59:42.236478246Z",
+  "timestamp": "2026-10-19T00:41:54.632015794Z",
   "model": "glm-5.3"
 }

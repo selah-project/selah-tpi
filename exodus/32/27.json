@@ -5,45 +5,19 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "от",
-      "rationale": "Stray non-tpi preposition slipped in at משער; correct tpi is 'long dua i go long dua'."
-    },
-    {
-      "kind": "you",
-      "subject": "olgeta man bilong Levi",
-      "rationale": "Moses addresses the Levites directly with the imperative 'putim… go… kilim'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "על ירכו",
-      "rationale": "'upon his thigh' → 'long sai bilong lek'; idiom for a sword at the side, ready to draw."
-    }
-  ],
-  "translation": "Na i tok long ol: Olsem na Yahwe, Elohim bilong Yisrael, i tok: Olgeta man, putim bainat bilong yu long sai bilong lek bilong yu, go passing na bek, от dua i go long dua, namel long kamp, na kilim man ⟨em⟩ ⟨את⟩ bra bilong en, na man ⟨em⟩ ⟨את⟩ poro bilong en, na man ⟨em⟩ ⟨את⟩ klostu wantaim en.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/32\/25-28.1792348045168.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i tokim ol: Yahwe, Elohim bilong Yisrael, i tok olsem: Ol man, wanwan i putim bainat bilong en long sai bilong en; yu ol i go na yu ol i kam bek, long dua bilong banis i go wantaim i kam long narapela dua bilong banis, namel long ol lain long kemp, na yu ol i kilim i dai ol man: manim ⟨את⟩ brata bilong en, na manim ⟨את⟩ poro bilong en, na manim ⟨את⟩ man klostu long en.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "Na em i tokim ol"
     },
     {
       "surface": "להם",
-      "gloss": "long ol"
+      "gloss": "ol"
     },
     {
       "surface": "כה",
-      "gloss": "Olsem"
+      "gloss": "olsem"
     },
     {
       "surface": "אמר",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "שימו",
-      "gloss": "putim"
+      "gloss": "ol man, wanwan i putim"
     },
     {
       "surface": "איש",
-      "gloss": "olgeta man"
+      "gloss": "man"
     },
     {
       "surface": "חרבו",
-      "gloss": "bainat bilong yu"
+      "gloss": "bainat bilong en"
     },
     {
       "surface": "על",
@@ -79,48 +53,48 @@
     },
     {
       "surface": "ירכו",
-      "gloss": "sai bilong lek bilong yu"
+      "gloss": "sai bilong en"
     },
     {
       "surface": "עברו",
-      "gloss": "go passing"
+      "gloss": "yu ol i go"
     },
     {
       "surface": "ושובו",
-      "gloss": "na bek"
+      "gloss": "na yu ol i kam bek"
     },
     {
       "surface": "משער",
-      "gloss": "от dua"
+      "gloss": "long dua bilong banis"
     },
     {
       "surface": "לשער",
-      "gloss": "i go long dua"
+      "gloss": "i go wantaim i kam long narapela dua bilong banis"
     },
     {
       "surface": "במחנה",
-      "gloss": "namel long kamp"
+      "gloss": "namel long ol lain long kemp"
     },
     {
       "surface": "והרגו",
-      "gloss": "na kilim"
+      "gloss": "na yu ol i kilim i dai"
     },
     {
       "surface": "איש",
-      "gloss": "man"
+      "gloss": "ol man: manim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bra bilong en"
+      "marks": "brata bilong en"
     },
     {
       "surface": "אחיו",
-      "gloss": "bra bilong en"
+      "gloss": "brata bilong en"
     },
     {
       "surface": "ואיש",
-      "gloss": "na man"
+      "gloss": "na manim"
     },
     {
       "surface": "את",
@@ -133,18 +107,18 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "na man"
+      "gloss": "na manim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "klostu wantaim en"
+      "marks": "man klostu long en"
     },
     {
       "surface": "קרבו",
-      "gloss": "klostu wantaim en"
+      "gloss": "man klostu long en"
     }
   ],
-  "timestamp": "2026-10-18T18:27:25.169655986Z",
+  "timestamp": "2026-10-19T00:38:45.655517501Z",
   "model": "glm-5.3"
 }

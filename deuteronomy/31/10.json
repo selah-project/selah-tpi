@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sevenpela yia",
-      "rationale": "kaunim bilong sevenpela yia na yia bilong shmita — namba i stap long ves."
-    },
-    {
-      "kind": "crux",
-      "subject": "השמטה",
-      "rationale": "shmita — 'lusim ol det' (Deut 15) o 'stop wokim gaden' (Exod 23:10-11); mipela putim det bilong holim pasin bilong Deuteronomi."
-    }
-  ],
-  "translation": "Na Mose i givim ol lo long ol, i tok olsem: Long taim sevenpela yia i pinis, long taim bilong olgeta man i kamap longen, long yia bilong lusim ol det, long fest bilong ol haus sel:",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e58533c7d09ce5af90e49da9ea42e9ef5cbf45be13e46f868b3a4a8d9c38becf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/31\/9-12.1792350421420.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Mose i gat ⟨את⟩ ol i stretim olgeta man, i tok olsem: Longpinis bilong sevenpela yia, long taim ol i bin makim pinis, long yia bilong lesim wok olgeta, long taim bilong olgeta pela Festivel bilong Sukot —",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "na i givim lo long"
+      "gloss": "i gat ol i stretim olgeta man"
     },
     {
       "surface": "משה",
@@ -38,7 +17,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol"
     },
     {
       "surface": "לאמר",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "מקץ",
-      "gloss": "long taim i pinis"
+      "gloss": "longpinis bilong"
     },
     {
       "surface": "שבע",
@@ -58,25 +38,25 @@
     },
     {
       "surface": "במעד",
-      "gloss": "long taim bilong kamap longen"
+      "gloss": "long taim ol i bin makim pinis"
     },
     {
       "surface": "שנת",
-      "gloss": "yia bilong"
+      "gloss": "long yia bilong"
     },
     {
       "surface": "השמטה",
-      "gloss": "lusim ol det"
+      "gloss": "lesim wok olgeta"
     },
     {
       "surface": "בחג",
-      "gloss": "long fest bilong"
+      "gloss": "long taim bilong olgetapela Festivel"
     },
     {
       "surface": "הסכות",
-      "gloss": "ol haus sel"
+      "gloss": "bilong Sukot"
     }
   ],
-  "timestamp": "2026-10-18T19:07:01.421450056Z",
+  "timestamp": "2026-10-19T00:36:42.023472402Z",
   "model": "glm-5.3"
 }

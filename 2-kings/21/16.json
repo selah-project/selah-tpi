@@ -5,133 +5,107 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פה לפה",
-      "rationale": "'Maus i go long maus' — tupela ridin: olgeta hap 'end-to-end' (KJV\/JPS) o olgeta man i no inap lukluk (blut i go antap long maus); Tok Pisin i holim literal piksa."
-    },
-    {
-      "kind": "measurement",
-      "subject": "פה לפה",
-      "rationale": "Mak bilong olgeta hap — mi pulapim Yerusalayim olgeta; em i namba-wan pasin bilong skelim olgeta."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מחטאתו \/ החטיא",
-      "rationale": "Wankain rot חטא — 'tewel bilong em' na 'em i mekim Yehuda i tewel'; Tok Pisin i holim wantaim wankain tok 'tewel'."
-    }
-  ],
-  "translation": "Na tu, Menashe i skelim planti tumas blut bilong man i no gat rong, inap em i pulapim ⟨את⟩ Yerusalayim, maus i go long maus; apartsait long olgeta tewel bilong em we em i mekim ⟨את⟩ Yehuda i tewel, long wokim olgeta samting nogut long ai bilong Yahwe.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/21\/13-16.1792353741068.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na tu, Menashe i kapsaitim planti blut bilong ol man i no gat rong, olgeta i hatwok tumas, inap em i pulimapim ⟨את⟩ Yerusalayim maut wantaim maut; olsem nau long olgeta, liklik tasol i stap, em i no singautim ol — bihainim tu long olgeta hevi bilong en we ol i raitim long ol buk bilong ol king bilong Yuda.",
   "tokens": [
     {
-      "surface": "וגם",
+      "surface": "וְגַם",
       "gloss": "na tu"
     },
     {
-      "surface": "דם",
+      "surface": "דָּם",
       "gloss": "blut"
     },
     {
-      "surface": "נקי",
-      "gloss": "bilong man i no gat rong"
+      "surface": "נָקִי",
+      "gloss": "bilong ol man i no gat rong"
     },
     {
-      "surface": "שפך",
-      "gloss": "i skelim"
+      "surface": "שָׁפַךְ",
+      "gloss": "i kapsaitim"
     },
     {
-      "surface": "מנשה",
+      "surface": "מְנַשֶּׁה",
       "gloss": "Menashe"
     },
     {
-      "surface": "הרבה",
-      "gloss": "planti"
+      "surface": "הִרְבֶּה",
+      "gloss": "olgeta i hatwok"
     },
     {
-      "surface": "מאד",
+      "surface": "מְאֹד",
       "gloss": "tumas"
     },
     {
-      "surface": "עד",
+      "surface": "עַד",
       "gloss": "inap"
     },
     {
-      "surface": "אשר",
-      "gloss": ""
+      "surface": "אֲשֶׁר",
+      "gloss": "we"
     },
     {
-      "surface": "מלא",
-      "gloss": "em i pulapim"
+      "surface": "מִלֵּא",
+      "gloss": "i pulimapim"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "Yerusalayim"
     },
     {
-      "surface": "ירושלם",
+      "surface": "יְרוּשָׁלִַ֖ם",
       "gloss": "Yerusalayim"
     },
     {
-      "surface": "פה",
-      "gloss": "maus"
+      "surface": "פֶּה",
+      "gloss": "maut"
     },
     {
-      "surface": "לפה",
-      "gloss": "i go long maus"
+      "surface": "לָפֶה",
+      "gloss": "wantaim maut"
     },
     {
-      "surface": "לבד",
-      "gloss": "apartsait long"
+      "surface": "לְבַד",
+      "gloss": "liklik tasol i stap, em i no singautim ol — bihainim tu"
     },
     {
-      "surface": "מחטאתו",
-      "gloss": "olgeta tewel bilong em"
+      "surface": "מֵחַטָּאתוֹ",
+      "gloss": "long olgeta hevi bilong en we ol i raitim long ol buk bilong ol king bilong Yuda"
     },
     {
-      "surface": "אשר",
-      "gloss": "we"
+      "surface": "אֲשֶׁר",
+      "gloss": ""
     },
     {
-      "surface": "החטיא",
-      "gloss": "em i mekim ... i tewel"
+      "surface": "הֶחֱטִיא",
+      "gloss": ""
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "Yehuda"
+      "marks": ""
     },
     {
-      "surface": "יהודה",
-      "gloss": "Yehuda"
+      "surface": "יְהוּדָה",
+      "gloss": ""
     },
     {
-      "surface": "לעשות",
-      "gloss": "long wokim"
+      "surface": "לַעֲשׂוֹת",
+      "gloss": ""
     },
     {
-      "surface": "הרע",
-      "gloss": "olgeta samting nogut"
+      "surface": "הָרַע",
+      "gloss": ""
     },
     {
-      "surface": "בעיני",
-      "gloss": "long ai bilong"
+      "surface": "בְּעֵינֵי",
+      "gloss": ""
     },
     {
-      "surface": "יהוה",
-      "gloss": "Yahwe"
+      "surface": "יְהוָֽה",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-18T20:02:21.070230443Z",
+  "timestamp": "2026-10-19T00:52:27.492797393Z",
   "model": "glm-5.3"
 }

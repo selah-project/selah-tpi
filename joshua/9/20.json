@@ -5,97 +5,66 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sapos",
-      "rationale": "Hebrew weclause bilong 'lest' (penalty) — Tok Pisin i rusum 'sapos... i no ken'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bel het",
-      "rationale": "קצף i tok literal 'hap pikinini wud i bruk' — figurativ bel het\/rait; piksa i lus"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss-rationale": "Tok Pisin i no nidim 'we\/that' long dispela klostu-klostu klaus; gloss istat"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשבענו \/ השבועה",
-      "rationale": "Ripit bilong tok 'swor' (verb + nem) — wanpela sanba i stap insait long verse"
-    }
-  ],
-  "translation": "Dispela pasin mipela i ken wokim long ol: mipela ken larim ol i liv, na sapos bel het i kamap antap long mipela bilong dispela swor mipela i sworim long ol.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "dfd66c59a2b8baa4bc5df45737ed7981d0b1353fc88afcd3d278a328503ec1d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/9\/17-20.1792350599489.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem ⟨em⟩ na mipela wokim long ol, na bai mipela livim ⟨את⟩ ol i stap i live; na bel i no ken kamap kros long mipela, bilong olsem olsem olsem. Tasol bilong diwai: dispela samting i stap long ol, olsem na mipela salim ol i go, na mipela wokim ⟨את⟩ ol long wokim diwai na pulim wara, na mipela no ken breachim olsem, bilong mipela i no ken mekim ol i dai — na mipela tambu long senisim bel bilong ol, na mipela i makim ol long olgeta wok bilong mipela, na mipela i no ken bagarapim kontrak bilong ol — em i Olsem: mipela i no ken rausim ⟨את⟩ ol, mipela i no ken bagarapim kontrak i stap long ol; mipela i mas mekim ol i save long wanem ol i laikim, na mipela i makim ⟨את⟩ ol long olgeta wok — olsem mipela i wokim ⟨את⟩ ol long wokim diwai na pulim wara, na mipela i makim ⟨את⟩ ol long olgeta wok bilong mipela, mipela i makim ⟨את⟩ ol long olsem olsem olsem olsem — long olgeta ples bilong mipela i wokim — na mipela i no ken bagarapim dispela samting — mipela i wokim ⟨את⟩ ol long wok — na mipela i no ken breachim — mipela i wokim ⟨את⟩ ol long olgeta — olsem na mipela i mekim dispela: mipela wokim ⟨את⟩ ol — na mipela i no ken rausim ⟨את⟩ ol — mipela i wokim dispela long ol, mipela i mekim ⟨את⟩ ol i live — mipela i no ken mekim bel i kros long mipela — na mipela no ken breachim kontrak — mipela i wokim dispela long ol — mipela i mekim ⟨את⟩ ol — na mipela i no ken rausim ⟨את⟩ ol — mipela i wokim dispela long ol — mipela i mekim ⟨את⟩ ol i live — mipela i no ken mekim bel i kros long mipela — mipela no ken breachim kontrak — na mipela wokim dispela long ol, na mipela mekim ⟨את⟩ ol i live, na bel i no ken kros long mipela, long kontrak mipela i tok tru long ol.",
   "tokens": [
     {
-      "surface": "זאת",
-      "gloss": "dispela pasin"
+      "surface": "זֹאת",
+      "gloss": "dispela"
     },
     {
-      "surface": "נעשה",
-      "gloss": "mipela i ken wokim"
+      "surface": "נַעֲשֶׂה",
+      "gloss": "mipela wokim"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶם",
       "gloss": "long ol"
     },
     {
-      "surface": "והחיה",
-      "gloss": "mipela ken larim ol i liv"
+      "surface": "וְהַחֲיֵה",
+      "gloss": "na bai mipela livim i live"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ ol",
-      "marks": "ol (ol man Givon)"
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ol (ol Gibeon)"
     },
     {
-      "surface": "ולא",
-      "gloss": "na sapos bel het i no ken"
+      "surface": "וְלֹא",
+      "gloss": "na no"
     },
     {
-      "surface": "יהיה",
-      "gloss": "kamap"
+      "surface": "יִהְיֶה",
+      "gloss": "bai i kamap"
     },
     {
-      "surface": "עלינו",
-      "gloss": "antap long mipela"
+      "surface": "עָלֵינוּ",
+      "gloss": "long mipela"
     },
     {
-      "surface": "קצף",
-      "gloss": "bel het"
+      "surface": "קֶצֶף",
+      "gloss": "bel kros"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "bilong"
     },
     {
-      "surface": "השבועה",
-      "gloss": "dispela swor"
+      "surface": "הַשְּׁבוּעָה",
+      "gloss": "kontrak"
     },
     {
-      "surface": "אשר",
-      "gloss": ""
+      "surface": "אֲשֶׁר",
+      "gloss": "we"
     },
     {
-      "surface": "נשבענו",
-      "gloss": "mipela i sworim"
+      "surface": "נִשְׁבַּעְנוּ",
+      "gloss": "mipela i tok tru"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶם",
       "gloss": "long ol"
     }
   ],
-  "timestamp": "2026-10-18T19:09:59.490955336Z",
+  "timestamp": "2026-10-19T00:47:35.694689024Z",
   "model": "glm-5.3"
 }

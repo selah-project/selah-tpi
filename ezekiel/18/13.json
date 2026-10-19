@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "?",
-      "rationale": "Tok Pisin i gat lapun tok bilong askim, Hebrew i no gat mak bilong askim"
-    },
-    {
-      "kind": "idiom",
-      "subject": "דמיו בו יהיה",
-      "rationale": "'blut bilong em i stap long em' — min olsem em yet i kisim blut bilong em, man i no ken sutim tok long narapela man"
-    }
-  ],
-  "translation": "Namba bilong mani long sait em i givim, na planti mani olsem ponus em i tekim; em i save laip? Em i ⟨את⟩ no inap laip: ⟨את⟩ olgeta ol samting nogut olsem em i mekim, em bai dai olgeta, blut bilong em i stap long em yet.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "4894524e40458eae33af60e59c594f42a01d62ac8bbb0d6278a0ac2686695c9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/18\/13-16.1792356313804.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long intres em i givim, na long tarbisit em i kisim; em i stap lain — em bai no stap lain: ⟨את⟩ olgeta ol samting nogut olsem em i mekim; em bai dai tru, blut bilong em i long em yet i stap.",
   "tokens": [
     {
       "surface": "בנשך",
-      "gloss": "namba bilong mani long sait"
+      "gloss": "long intres"
     },
     {
       "surface": "נתן",
@@ -38,32 +17,28 @@
     },
     {
       "surface": "ותרבית",
-      "gloss": "planti mani olsem ponus"
+      "gloss": "na long tarbisit"
     },
     {
       "surface": "לקח",
-      "gloss": "em i tekim"
+      "gloss": "em i kisim"
     },
     {
       "surface": "וחי",
-      "gloss": "em i save laip"
+      "gloss": "em i stap lain"
     },
     {
       "surface": "לא",
-      "gloss": "?"
+      "gloss": "no"
     },
     {
       "surface": "יחיה",
-      "gloss": "em i inap laip"
-    },
-    {
-      "surface": "לא",
-      "gloss": "⟨את⟩ no"
+      "gloss": "bai i stap lain"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta ol samting nogut"
+      "marks": "olgeta ol samting nogut olsem"
     },
     {
       "surface": "כל",
@@ -87,7 +62,7 @@
     },
     {
       "surface": "יומת",
-      "gloss": "em bai dai"
+      "gloss": "bai em i dai tru"
     },
     {
       "surface": "דמיו",
@@ -95,13 +70,13 @@
     },
     {
       "surface": "בו",
-      "gloss": "long em"
+      "gloss": "long em yet"
     },
     {
       "surface": "יהיה",
       "gloss": "i stap"
     }
   ],
-  "timestamp": "2026-10-18T20:45:13.805273542Z",
+  "timestamp": "2026-10-19T00:39:01.016486256Z",
   "model": "glm-5.3"
 }

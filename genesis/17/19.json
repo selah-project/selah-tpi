@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kontrak",
-      "rationale": "ברית em i kontrak — wok tupela i wokim tingting wantaim, i no 'pact' o 'promis' tasol"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יצחק",
-      "rationale": "Nem Yitsak ('lap') i tok bek long lap bilong Avraham long ves 17"
-    }
-  ],
-  "translation": "Na Elohim i tok: Nogat, tasol Sara, meri bilong yu, bai i karim pikinini man long yu, na yu bai kolim nem bilong en Yitsak; na bai mi kirapim ⟨את⟩ kontrak bilong mi wantaim em, kontrak bilong oltaim, long pikinini bilong em bihain long en.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "aaf5e80fbf1ff7cfbe18724592656b392113c95cf5cf12e30c69a7820891039e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/17\/17-20.1792346525760.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Elohim i tok: Nogat, tasol Sara, meri bilong yu, bai ⟨em⟩ karim wanpela pikinini man bilong yu, na yu bai kolim ⟨את⟩ nem bilong em Yitsak; na bai mi kirapim ⟨את⟩ kontrak bilong mi wantaim ⟨את⟩ em, long kamap kontrak bilong oltaim oltaim, long pikinini bilong em i kamap bihain long em.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na i tok"
+      "gloss": "Na Elohim i tok"
     },
     {
       "surface": "אלהים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אבל",
-      "gloss": "nogat, tasol"
+      "gloss": "Nogat, tasol"
     },
     {
       "surface": "שרה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ילדת",
-      "gloss": "bai i karim pikinini"
+      "gloss": "bai karim"
     },
     {
       "surface": "לך",
-      "gloss": "long yu"
+      "gloss": "bilong yu"
     },
     {
       "surface": "בן",
@@ -67,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nem bilong en"
+      "marks": "nem bilong em"
     },
     {
       "surface": "שמו",
-      "gloss": "nem bilong en"
+      "gloss": "nem bilong em"
     },
     {
       "surface": "יצחק",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "לברית",
-      "gloss": "kontrak bilong"
+      "gloss": "long kamap kontrak"
     },
     {
       "surface": "עולם",
-      "gloss": "oltaim"
+      "gloss": "bilong oltaim oltaim"
     },
     {
       "surface": "לזרעו",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "bihain long en"
+      "gloss": "bihain long em"
     }
   ],
-  "timestamp": "2026-10-18T18:02:05.761375455Z",
+  "timestamp": "2026-10-19T00:41:00.692074196Z",
   "model": "glm-5.3"
 }

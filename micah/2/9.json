@@ -5,40 +5,19 @@
   "book": "micah",
   "lang": "tpi",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "את",
-      "rationale": "Hebrew has no direct-object marker here; suffixes on verbs mark the object, so ⟨את⟩ marks 'glori bilong mi'"
-    },
-    {
-      "kind": "crux",
-      "subject": "הדרי",
-      "rationale": "'Hadari — My splendor': renderings split between 'my glory' (KJV) and 'my blessing\/finery' (BSB)"
-    }
-  ],
-  "translation": "Ol meri bilong lain bilong mi, yupela i rausim ol long haus swit bilong ol; long ol liklik pikinini bilong ol yupela kisim ⟨את⟩ glori bilong mi oltaim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/micah\/2\/9-12.1792357350392.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol meri bilong lain bilong mi, yupela rausim ⟨את⟩ ol i go long haus switpela sindaun bilong ol; yupela tekewe ⟨את⟩ ⟨em⟩ long ol liklik pikinini bilong ol — ⟨את⟩ glori bilong mi, oltaim olgeta.",
   "tokens": [
     {
       "surface": "נשי",
-      "gloss": "ol meri"
+      "gloss": "ol meri bilong"
     },
     {
       "surface": "עמי",
-      "gloss": "bilong lain bilong mi"
+      "gloss": "lain bilong mi"
     },
     {
       "surface": "תגרשון",
-      "gloss": "yupela i rausim"
+      "gloss": "yupela rausim ol i go"
     },
     {
       "surface": "מבית",
@@ -46,29 +25,29 @@
     },
     {
       "surface": "תענגיה",
-      "gloss": "swit bilong en"
+      "gloss": "switpela sindaun bilong ol"
     },
     {
       "surface": "מעל",
-      "gloss": "long olgeta"
+      "gloss": "long ol liklik pikinini bilong ol"
     },
     {
       "surface": "עלליה",
-      "gloss": "liklik pikinini bilong en"
+      "gloss": "⟨em⟩"
     },
     {
       "surface": "תקחו",
-      "gloss": "yupela kisim"
+      "gloss": "yupela tekewe"
     },
     {
       "surface": "הדרי",
-      "gloss": "⟨את⟩ glori bilong mi"
+      "gloss": "glori bilong mi"
     },
     {
       "surface": "לעולם",
-      "gloss": "oltaim"
+      "gloss": "oltaim olgeta"
     }
   ],
-  "timestamp": "2026-10-18T21:02:30.392654714Z",
+  "timestamp": "2026-10-19T00:48:40.204196003Z",
   "model": "glm-5.3"
 }

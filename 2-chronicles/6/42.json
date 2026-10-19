@@ -5,38 +5,7 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תשב פני",
-      "rationale": "Hebrew 'turn back the face of' means reject\/refuse; rendered literally 'tanim bek pes' to keep the picture."
-    },
-    {
-      "kind": "substitution",
-      "subject": "man i kapsaitim oil",
-      "rationale": "משיח here is the anointed king, so the Tanakh gloss 'man ol i kapsaitim oil long em' is used, not Masiak."
-    },
-    {
-      "kind": "you",
-      "subject": "prayer to Yahwe",
-      "rationale": "Direct petition addressed to Yahwe Elohim, closing Solomon's dedication prayer."
-    },
-    {
-      "kind": "crux",
-      "subject": "לחסדי דויד",
-      "rationale": "'The kindnesses of David' — kindnesses shown TO David (promises) or shown BY David (his deeds); JPS reads 'good deeds of David'."
-    }
-  ],
-  "translation": "Yahwe Elohim, no ken tanim bek ⟨את⟩ pes bilong ol man bilong yu ol i kapsaitim oil long en; tingim ol khesed bilong David, wokboi bilong yu.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "723a8eab90368c9d660a59b69366d80a65d583938a4fa3d90518331166d23c27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/6\/41-42.1792362309692.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yahwe Elohim, yu no ken kirapim ⟨את⟩ pes bilong man ol i kapsaitim oil long em bilong yu; yu mas tingim ol khesed bilong David, wokman bilong yu.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -52,19 +21,19 @@
     },
     {
       "surface": "תשב",
-      "gloss": "tanim bek"
+      "gloss": "kirapim"
     },
     {
       "surface": "פני",
-      "gloss": "⟨את⟩ pes"
+      "gloss": "pes"
     },
     {
       "surface": "משיחיך",
-      "gloss": "bilong ol man bilong yu ol i kapsaitim oil long en"
+      "gloss": "man ol i kapsaitim oil long em bilong yu"
     },
     {
       "surface": "זכרה",
-      "gloss": "tingim"
+      "gloss": "yu mas tingim"
     },
     {
       "surface": "לחסדי",
@@ -72,13 +41,13 @@
     },
     {
       "surface": "דויד",
-      "gloss": "bilong David"
+      "gloss": "David"
     },
     {
       "surface": "עבדך",
-      "gloss": "wokboi bilong yu"
+      "gloss": "wokman bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T22:25:09.693216352Z",
+  "timestamp": "2026-10-19T00:31:28.553482042Z",
   "model": "glm-5.3"
 }

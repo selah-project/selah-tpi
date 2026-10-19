@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שנאתיהו",
-      "rationale": "mi les long em (D3: שנא = les long \/ birua)"
-    },
-    {
-      "kind": "crux",
-      "subject": "כן",
-      "rationale": "'olsem' — king i no ken tok olsem; sampla tanim i rausim tok"
-    }
-  ],
-  "translation": "Na king bilong Yisrael i tokim Yehoshafat: I stap yet wanpela man bilong askim ⟨את⟩ Yahwe long em; tasol mi les long em, long wanem em i no autim tok profet bilong gutpela long mi, tasol olgeta de bilong em i tok bilong nogut — em Mikaiahu, pikinini bilong Yimla. Na Yehoshafat i tok: King, i no ken tok olsem.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/18\/5-8.1792362526320.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na king bilong Yisrael i tok long Yehosafat: I stap yet wanpela man bilong askim ⟨את⟩ Yahwe long em, ⟨את⟩ na mi les long em, long wanem em i no save autim tok profet gutpela long mi, long wanem olgeta de bilong em em i tok tok nogut — em i Mikaia, pikinini bilong Imla. Na Yehosafat i tok: King, i no ken tok olsem.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tokim"
+      "gloss": "Na i tok"
     },
     {
       "surface": "מלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafat"
+      "gloss": "Yehosafat"
     },
     {
       "surface": "עוד",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "man"
+      "gloss": "wanpela man"
     },
     {
       "surface": "אחד",
-      "gloss": "wanpela"
+      "gloss": "wan"
     },
     {
       "surface": "לדרוש",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ long em"
+      "gloss": "⟨את⟩",
+      "marks": "mi"
     },
     {
       "surface": "ואני",
-      "gloss": "tasol mi"
+      "gloss": "na mi"
     },
     {
       "surface": "שנאתיהו",
@@ -91,7 +71,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "i no"
+      "gloss": "i no save"
     },
     {
       "surface": "מתנבא",
@@ -103,11 +83,11 @@
     },
     {
       "surface": "לטובה",
-      "gloss": "bilong gutpela"
+      "gloss": "gutpela"
     },
     {
       "surface": "כי",
-      "gloss": "tasol"
+      "gloss": "long wanem"
     },
     {
       "surface": "כל",
@@ -119,15 +99,15 @@
     },
     {
       "surface": "לרעה",
-      "gloss": "bilong nogut"
+      "gloss": "tok nogut"
     },
     {
       "surface": "הוא",
-      "gloss": "em"
+      "gloss": "em i"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mikaiahu"
+      "gloss": "Mikaia"
     },
     {
       "surface": "בן",
@@ -135,7 +115,7 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "Yimla"
+      "gloss": "Imla"
     },
     {
       "surface": "ויאמר",
@@ -143,7 +123,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafat"
+      "gloss": "Yehosafat"
     },
     {
       "surface": "אל",
@@ -162,6 +142,6 @@
       "gloss": "olsem"
     }
   ],
-  "timestamp": "2026-10-18T22:28:46.321972167Z",
+  "timestamp": "2026-10-19T00:31:22.465915218Z",
   "model": "glm-5.3"
 }

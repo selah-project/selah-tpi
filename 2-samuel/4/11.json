@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הלוא",
-      "rationale": "Tok askim bilong Hibru wantaim 'no' — mi tanim 'a, mi no inap no' bilong kaunim olsem olsem askim narapela."
-    },
-    {
-      "kind": "you",
-      "subject": "Rechab na Baana",
-      "rationale": "David i toktok dairekt long tupela man we ol i kilim Isboshet."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ובערתי",
-      "rationale": "בער nar planti mining — kukim\/kaikai wantaim paia; mi usim 'rausim' long ples bilong tok dairekt 'kukim'."
-    }
-  ],
-  "translation": "Olsem wanem moa — sapos ol man nogut i bin kilim ⟨את⟩ wanpela man stret long haus bilong en, antap long bet bilong en! Na nau, a, mi no inap no lukautim ⟨את⟩ blut bilong en long han bilong yupela, na rausim yupela ⟨olgeta⟩ long graun?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "c568d1a6fc9f26e5e847915c891142ea249839abf1f055e996f489afd425b7d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/4\/10-11.1792363112971.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem wanem long taim ol man nogut i kilim ⟨את⟩ man bilong tsedek long haus bilong en, antap long bet bilong en? Na nau, em i no tru a, bai mi painim ⟨את⟩ blut bilong en long han bilong yupela, na bai mi rausim ⟨את⟩yupela ⟨i⟩ graun?",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "olsem wanem moa"
+      "gloss": "olsem wanem long taim"
     },
     {
       "surface": "כי",
@@ -51,12 +25,12 @@
     },
     {
       "surface": "הרגו",
-      "gloss": "kilim"
+      "gloss": "i kilim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wanpela man stret"
+      "marks": "man bilong tsedek"
     },
     {
       "surface": "איש",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "stret"
+      "gloss": "bilong tsedek"
     },
     {
       "surface": "בביתו",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "a, no inap no"
+      "gloss": "em i no tru a"
     },
     {
       "surface": "אבקש",
-      "gloss": "mi lukautim"
+      "gloss": "bai mi painim"
     },
     {
       "surface": "את",
@@ -105,11 +79,12 @@
     },
     {
       "surface": "ובערתי",
-      "gloss": "rausim"
+      "gloss": "na bai mi rausim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩yupela",
+      "marks": "yupela"
     },
     {
       "surface": "מן",
@@ -120,6 +95,6 @@
       "gloss": "graun"
     }
   ],
-  "timestamp": "2026-10-18T22:38:32.971993876Z",
+  "timestamp": "2026-10-19T00:34:46.696045192Z",
   "model": "glm-5.3"
 }

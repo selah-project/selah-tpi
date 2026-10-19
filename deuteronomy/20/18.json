@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bai",
-      "rationale": "Future marker added to mark consequence clause 'and you would sin'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "wokim rong",
-      "rationale": "חטא literally 'miss the mark'; Tok Pisin uses moral 'rong' idiom."
-    }
-  ],
-  "translation": "Bikos ol i no ken skulim yupla long wokim olgeta ol samting nogut bilong ol we ol i wokim long ol god bilong ol, na bai yupla wokim rong long Yahwe Elohim bilong yupla.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/20\/17-20.1792350143172.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bilong olsem, ol i no inap skulim ⟨את⟩ yupela long wokim olgeta ol samting i no gutpela long ai, olsem ol i wokim long ol god bilong ol, na yupela i pailim gut long Yahwe, Elohim bilong yupela.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "bikos"
+      "gloss": "bilong olsem"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "olsem"
     },
     {
       "surface": "לא",
@@ -42,11 +21,12 @@
     },
     {
       "surface": "ילמדו",
-      "gloss": "ol i ken skulim"
+      "gloss": "ol i skulim"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupla"
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
     },
     {
       "surface": "לעשות",
@@ -58,11 +38,11 @@
     },
     {
       "surface": "תועבתם",
-      "gloss": "samting nogut bilong ol"
+      "gloss": "ol samting i no gutpela long ai bilong ol"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "olsem"
     },
     {
       "surface": "עשו",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "וחטאתם",
-      "gloss": "na yupla wokim rong"
+      "gloss": "na yupela i pailim gut"
     },
     {
       "surface": "ליהוה",
@@ -82,9 +62,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim bilong yupla"
+      "gloss": "Elohim bilong yupela"
     }
   ],
-  "timestamp": "2026-10-18T19:02:23.173369353Z",
+  "timestamp": "2026-10-19T00:36:32.162233368Z",
   "model": "glm-5.3"
 }

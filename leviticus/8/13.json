@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "klos",
-      "rationale": "כתנת em i klos bilong putim long bodi, olsem saret; 'klos' em i tok klia moa long tpi"
-    }
-  ],
-  "translation": "Na Mose i bringim klostu ⟨את⟩ ol pikinini bilong Aharon, na em i sarapim ol long ol klos, na em i bitim ol long ol bel, na em i taiim long ol ⟨long ol⟩ ol kap, olsem Yahwe i bin salim tok long ⟨את⟩ Mose.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/13-16.1792348456688.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Mose i bringim ⟨את⟩ ol pikinini man bilong Aharon klostu, na em i salapim ol long ol klos, na em i taitim ol wantaim ban bilong ken, na em i raunim ol long ol kap bilong het, olsem Yahwe i bin tokim ⟨את⟩ Mose.",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol pikinini bilong Aharon"
+      "marks": "ol pikinini man bilong Aharon"
     },
     {
       "surface": "בני",
-      "gloss": "ol pikinini bilong"
+      "gloss": "ol pikinini man bilong"
     },
     {
       "surface": "אהרן",
@@ -46,28 +30,28 @@
     },
     {
       "surface": "וילבשם",
-      "gloss": "em i sarapim ol"
+      "gloss": "em i salapim ol"
     },
     {
       "surface": "כתנת",
-      "gloss": "klos"
+      "gloss": "ol klos"
     },
     {
       "surface": "ויחגר",
-      "gloss": "em i bitim"
+      "gloss": "em i taitim ol"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ol bel"
+      "marks": "ban bilong ken"
     },
     {
       "surface": "אבנט",
-      "gloss": "ol bel"
+      "gloss": "ban bilong ken"
     },
     {
       "surface": "ויחבש",
-      "gloss": "em i taiim"
+      "gloss": "em i raunim ol"
     },
     {
       "surface": "להם",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "מגבעות",
-      "gloss": "ol kap"
+      "gloss": "ol kap bilong het"
     },
     {
       "surface": "כאשר",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "salim tok"
+      "gloss": "i bin tokim"
     },
     {
       "surface": "יהוה",
@@ -99,6 +83,6 @@
       "gloss": "Mose"
     }
   ],
-  "timestamp": "2026-10-18T18:34:16.689400372Z",
+  "timestamp": "2026-10-19T00:48:29.565687869Z",
   "model": "glm-5.3"
 }

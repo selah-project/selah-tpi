@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כברת ארץ",
-      "rationale": "kibrat is a distance measure of uncertain size; renderings range from 'some distance' to 'a kibrath' to Wycliffe's 'beginning of summer' gloss"
-    },
-    {
-      "kind": "hapax",
-      "subject": "כברת",
-      "rationale": "כִּבְרָה as a measure appears only here in the Tanakh"
-    },
-    {
-      "kind": "substitution",
-      "subject": "putim em long graun",
-      "rationale": "ואקברה 'I buried her' rendered with Tok Pisin burial idiom 'putim long graun'"
-    }
-  ],
-  "translation": "Na mi, taim mi kam bek bilong Padan, Rahel i dai long mi long graun bilong Kenaan, long rot, we i gat liklik hap rot moa i go insait long Efrata; na mi putim em long graun long hap, long rot i go Efrat — em i Betlehem.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "9e71674377fff5797f7fe843ca9f47a33b9bbb8787d6f59b14acb95a728cd027",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/48\/5-8.1792347278131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi, taim mi kamap bek na i kam long Padan, Rakel i dai long ples bilong mi, long graun bilong Kenaan, long rot, taim i stap liklik hap graun moa yet bilong go insait long Efrata, na mi begirim em long hap, long rot bilong Efrata — em i Betlehem.",
   "tokens": [
     {
       "surface": "ואני",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בבאי",
-      "gloss": "taim mi kam bek bilong"
+      "gloss": "taim mi kamap bek na i kam"
     },
     {
       "surface": "מפדן",
-      "gloss": "Padan"
+      "gloss": "long Padan"
     },
     {
       "surface": "מתה",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "עלי",
-      "gloss": "long mi"
+      "gloss": "long ples bilong mi"
     },
     {
       "surface": "רחל",
-      "gloss": "Rahel"
+      "gloss": "Rakel"
     },
     {
       "surface": "בארץ",
@@ -71,19 +45,19 @@
     },
     {
       "surface": "בעוד",
-      "gloss": "we i gat"
+      "gloss": "taim i stap liklik"
     },
     {
       "surface": "כברת",
-      "gloss": "liklik hap"
+      "gloss": "hap graun"
     },
     {
       "surface": "ארץ",
-      "gloss": "rot"
+      "gloss": "graun"
     },
     {
       "surface": "לבא",
-      "gloss": "moa i go insait long"
+      "gloss": "bilong go insait long"
     },
     {
       "surface": "אפרתה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ואקברה",
-      "gloss": "na mi putim em long graun"
+      "gloss": "na mi begirim em"
     },
     {
       "surface": "שם",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "long rot i go"
+      "gloss": "long rot bilong"
     },
     {
       "surface": "אפרת",
@@ -110,10 +84,14 @@
       "gloss": "em i"
     },
     {
-      "surface": "בית לחם",
-      "gloss": "Betlehem"
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
     }
   ],
-  "timestamp": "2026-10-18T18:14:38.132837448Z",
+  "timestamp": "2026-10-19T00:42:23.571535756Z",
   "model": "glm-5.3"
 }

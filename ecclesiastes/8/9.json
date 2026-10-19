@@ -5,33 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "pinis",
-      "rationale": "perfective aspect no in Tok Pisin, bracket idea given by Hebrew perfect"
-    },
-    {
-      "kind": "crux",
-      "subject": "לרע לו",
-      "rationale": "'long bagarapim em' — Hebrew ambiguous: harm to the ruled man or to the ruler himself; versions differ"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "second אשר after עת is relative particle with no separate Tok Pisin word"
-    }
-  ],
-  "translation": "⟨את⟩ olgeta dispela samting mi lukim pinis, na mi givim ⟨את⟩ bel bilong mi long evri wok i wokim ananit long san — taim man i bosim man, long bagarapim em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/9-12.1792360822355.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olgeta dispela samting mi lukim pinis, na mi givim ⟨את⟩ bel bilong mi long olgeta wok i wokim olgeta insait long graun olsem long aninit bilong san; taim i stap we man i bosim ⟨i⟩ man long bagarapim em yet.",
   "tokens": [
     {
       "surface": "את",
@@ -65,7 +39,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "long evri"
+      "gloss": "long olgeta"
     },
     {
       "surface": "מעשה",
@@ -73,15 +47,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "i"
+      "gloss": "i wokim"
     },
     {
       "surface": "נעשה",
-      "gloss": "wokim"
+      "gloss": "olgeta insait long graun"
     },
     {
       "surface": "תחת",
-      "gloss": "ananit long"
+      "gloss": "long aninit bilong"
     },
     {
       "surface": "השמש",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "i stap we"
     },
     {
       "surface": "שלט",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "באדם",
-      "gloss": "long man"
+      "gloss": "⟨i⟩ man"
     },
     {
       "surface": "לרע",
@@ -113,9 +87,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "em"
+      "gloss": "em yet"
     }
   ],
-  "timestamp": "2026-10-18T22:00:22.356282391Z",
+  "timestamp": "2026-10-19T00:37:23.278086365Z",
   "model": "glm-5.3"
 }

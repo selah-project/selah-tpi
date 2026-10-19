@@ -5,40 +5,19 @@
   "book": "ecclesiastes",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פתגם",
-      "rationale": "Persian loanword 'sentence\/decree', rare in Tanakh; rendered 'kot'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "לב rendered 'bel' per D4 — seat of feeling and will, no 'hat'"
-    }
-  ],
-  "translation": "Bihainim kot long wok bilong ol man nogut i no tanim kwiktaim, olsem na bel bilong ol pikinini man i fulap long dispela, na ol i wokim olgeta samting nogut.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/9-12.1792360822355.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Olsem kot bilong ⟨את⟩ wok nogut i no kamap kwiktaim, olsem na bel bilong ol pikinini bilong man i fulap long ol long mekim nogut.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "bihainim"
+      "gloss": "olsem"
     },
     {
       "surface": "אין",
-      "gloss": "i no"
+      "gloss": "i no gat"
     },
     {
       "surface": "נעשה",
-      "gloss": "tanim"
+      "gloss": "ol i no mekim"
     },
     {
       "surface": "פתגם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "bilong ol man nogut"
+      "gloss": "nogut"
     },
     {
       "surface": "מהרה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "על",
-      "gloss": "olsem na"
+      "gloss": "long"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "olsem na"
     },
     {
       "surface": "מלא",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "pikinini"
+      "gloss": "pikinini bilong"
     },
     {
       "surface": "האדם",
@@ -82,17 +61,17 @@
     },
     {
       "surface": "בהם",
-      "gloss": "long dispela"
+      "gloss": "long ol"
     },
     {
       "surface": "לעשות",
-      "gloss": "na ol i wokim"
+      "gloss": "long mekim"
     },
     {
       "surface": "רע",
-      "gloss": "olgeta samting nogut"
+      "gloss": "nogut"
     }
   ],
-  "timestamp": "2026-10-18T22:00:22.356650696Z",
+  "timestamp": "2026-10-19T00:37:25.297931112Z",
   "model": "glm-5.3"
 }

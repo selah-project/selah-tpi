@@ -5,33 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תלך",
-      "rationale": "'you may go' (permission, YLT) vs 'go out of his presence' (KJV, as feared departure) — verb left elided in rendering."
-    },
-    {
-      "kind": "elision",
-      "subject": "תלך",
-      "rationale": "No clean Tok Pisin equivalent within the hasty-flee idiom; rendered as nothing."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Pronoun supplied for the Hebrew face-suffix."
-    }
-  ],
-  "translation": "No ken hariap long kisim sansen long pes bilong ⟨em⟩; no ken sanap long samting nogut, long wanem olgeta samting we em i laikim, em i wokim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ecclesiastes\/8\/1-4.1792360795221.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "No ken hariap wantaim long pes bilong em; ken go. No ken sanap long tok bilong samting nogut, bilong em i save wokim olgeta samting em i laikim.",
   "tokens": [
     {
       "surface": "אל",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "תבהל",
-      "gloss": "hariap long kisim sansen"
+      "gloss": "hariap wantaim"
     },
     {
       "surface": "מפניו",
-      "gloss": "long pes bilong ⟨em⟩"
+      "gloss": "long pes bilong em"
     },
     {
       "surface": "תלך",
-      "gloss": ""
+      "gloss": "ken go"
     },
     {
       "surface": "אל",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "בדבר",
-      "gloss": "long samting"
+      "gloss": "long tok bilong"
     },
     {
       "surface": "רע",
-      "gloss": "nogut"
+      "gloss": "samting nogut"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "כל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "em i laikim"
     },
     {
       "surface": "יחפץ",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "em i wokim"
+      "gloss": "i save wokim"
     }
   ],
-  "timestamp": "2026-10-18T21:59:55.222783552Z",
+  "timestamp": "2026-10-19T00:37:17.370450943Z",
   "model": "glm-5.3"
 }

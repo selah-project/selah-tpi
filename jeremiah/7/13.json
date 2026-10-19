@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "השכם ודבר",
-      "rationale": "Hebrew idiom 'rising early and speaking' = repeated persistent speech; Tok Pisin 'go liklik long moning na tok' keeps the literal picture."
-    },
-    {
-      "kind": "you",
-      "subject": "Yupela",
-      "rationale": "Direct address to Judah and Jerusalem in the temple court."
-    }
-  ],
-  "translation": "Na nau, bilong yupela i wokim ⟨את⟩ olgeta dispela wok, Yahwe i tok, na mi toksave long yupela — mi go liklik long moning na mi tok, tasol yupela i no harim; na mi singautim yupela, tasol yupela i no bekim tok.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/jeremiah\/7\/13-16.1792355009603.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na nau, bilong olsem yupela i wokim ⟨את⟩ olgeta ol dispela wok, Yahwe i tok, na mi toktok save long yupela, mi kirap bek long moningtaim na toktok, tasol yupela i no harim; na mi singautim ⟨את⟩ yupela, tasol yupela i no bekim tok.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "bilong"
+      "gloss": "bilong olsem"
     },
     {
       "surface": "עשותכם",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta dispela wok"
+      "marks": "olgeta ol dispela wok"
     },
     {
       "surface": "כל",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "המעשים",
-      "gloss": "dispela wok"
+      "gloss": "ol wok"
     },
     {
       "surface": "האלה",
-      "gloss": "dispela"
+      "gloss": "ol dispela"
     },
     {
       "surface": "נאם",
-      "gloss": "i tok"
+      "gloss": "tok"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ואדבר",
-      "gloss": "na mi toksave"
+      "gloss": "na mi toktok"
     },
     {
       "surface": "אליכם",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "השכם",
-      "gloss": "go liklik long moning"
+      "gloss": "kirap bek long moningtaim"
     },
     {
       "surface": "ודבר",
-      "gloss": "na tok"
+      "gloss": "na toktok"
     },
     {
       "surface": "ולא",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "yupela harim"
+      "gloss": "yupela i harim"
     },
     {
       "surface": "ואקרא",
@@ -95,7 +74,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yupela"
+      "gloss": "⟨את⟩ yupela",
+      "marks": "yupela"
     },
     {
       "surface": "ולא",
@@ -103,9 +83,9 @@
     },
     {
       "surface": "עניתם",
-      "gloss": "yupela bekim tok"
+      "gloss": "yupela i bekim tok"
     }
   ],
-  "timestamp": "2026-10-18T20:23:29.603804244Z",
+  "timestamp": "2026-10-19T00:45:28.586272709Z",
   "model": "glm-5.3"
 }

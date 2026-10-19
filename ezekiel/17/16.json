@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אם לא",
-      "rationale": "Kago bilong oli — 'em i no ken' o 'totol tru' — em i pasin bilong ol kago strongpela long Tanakh, Tok Pisin i holim bilong 'sapos em i no ken'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חי אני",
-      "rationale": "Yahwe i usim nem bilong em yet — 'Mi stap gutpela' — long wanem dispela i kago bilong ol man"
-    }
-  ],
-  "translation": "Mi stap gutpela — Yahwe i tok, Adonai Yahwe — sapos em i no ken, long ples bilong king we em i mekim em i kamap king, we em i lek nogut ⟨את⟩ kago bilong en na em i brukim ⟨את⟩ kontrak bilong en, wantaim em long namel bilong Bavel em bai dai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/17\/13-16.1792356252780.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mi stap olgeta long laip, Adonai Yahwe i tok: sapos i no olsem — long ples bilong king, we em i mekim ⟨את⟩ em i kamap king, na em i ting ⟨את⟩ ola bilong em i nogat, na em i brukim ⟨את⟩ kontrak bilong en — wantaim em, namel long Babel, bai em i dai.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Mi stap gutpela"
+      "gloss": "olgeta long laip"
     },
     {
       "surface": "אני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "Yahwe i tok"
+      "gloss": "i tok"
     },
     {
       "surface": "אדני",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "i no ken"
+      "gloss": "i no"
     },
     {
       "surface": "במקום",
@@ -66,12 +45,12 @@
     },
     {
       "surface": "הממליך",
-      "gloss": "we em i mekim em i kamap king"
+      "gloss": "i mekim em i kamap king"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ em",
-      "marks": "king we em i mekim em i kamap king"
+      "gloss": "⟨את⟩",
+      "marks": "em we king i kingim (אשר)"
     },
     {
       "surface": "אשר",
@@ -79,16 +58,16 @@
     },
     {
       "surface": "בזה",
-      "gloss": "em i lek nogut"
+      "gloss": "i ting i nogat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kago bilong en"
+      "marks": "ola bilong en (אלתו)"
     },
     {
       "surface": "אלתו",
-      "gloss": "kago bilong en"
+      "gloss": "ola bilong en"
     },
     {
       "surface": "ואשר",
@@ -96,12 +75,12 @@
     },
     {
       "surface": "הפר",
-      "gloss": "em i brukim"
+      "gloss": "i brukim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kontrak bilong en"
+      "marks": "kontrak bilong en (בריתו)"
     },
     {
       "surface": "בריתו",
@@ -109,22 +88,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ wantaim em",
-      "marks": "king we i mekim em i kamap king"
+      "gloss": "wantaim ⟨את⟩ em"
     },
     {
       "surface": "בתוך",
-      "gloss": "long namel bilong"
+      "gloss": "namel long"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "ימות",
-      "gloss": "em bai dai"
+      "gloss": "bai em i dai"
     }
   ],
-  "timestamp": "2026-10-18T20:44:12.781801269Z",
+  "timestamp": "2026-10-19T00:39:07.168468138Z",
   "model": "glm-5.3"
 }

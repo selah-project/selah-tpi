@@ -5,42 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בצנור",
-      "rationale": "The 'water-shaft\/tsinnor': a tunnel up which attackers climb (ASV\/BSB 'watercourse') vs Josephus 'gutters'; only here in Tanakh."
-    },
-    {
-      "kind": "hapax",
-      "subject": "צנור",
-      "rationale": "Singular occurrence; the precise siege feature is unknown."
-    },
-    {
-      "kind": "crux",
-      "subject": "word order in v.8",
-      "rationale": "Whether the lame and blind are struck\/struck-at (KJV) or reached via the tunnel, and whether שנאו is 'David's soul hates them' or 'they hate David's soul' — versions divide."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "נפש rendered as bel (inner self\/appetite), not 'soul'."
-    }
-  ],
-  "translation": "Na long dispela de David i tok: Man i kilim wanpela Yebusi, em i ken sanap long hul bilong wara, na ⟨את⟩ ol man i no inap wokabaut gut na ⟨את⟩ ol man i no inap luk — bel bilong David i les long ol. Olsem na ol i tok: Man i no inap luk o i no inap wokabaut gut, em i no ken kam insait long haus.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/5\/5-8.1792352223843.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i tok long dispela de: Ol man i paitim ol man Jebusi, ol i ken kisim ✅tsinor, ol i paitim ⟨את⟩ ol man lem na ⟨את⟩ ol blain man, ol we bel bilong David i les long ol. Olsem na ol i tok: Man blain na man lem, em i no ken kam insait long haus.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na … i tok"
+      "gloss": "na i tok"
     },
     {
       "surface": "דוד",
@@ -56,45 +25,45 @@
     },
     {
       "surface": "כל",
-      "gloss": "Man i"
+      "gloss": "olgeta man"
     },
     {
       "surface": "מכה",
-      "gloss": "kilim"
+      "gloss": "i paitim"
     },
     {
       "surface": "יבסי",
-      "gloss": "wanpela Yebusi"
+      "gloss": "ol man Jebusi"
     },
     {
       "surface": "ויגע",
-      "gloss": "em i ken sanap long"
+      "gloss": "ol i ken kisim"
     },
     {
       "surface": "בצנור",
-      "gloss": "hul bilong wara"
+      "gloss": "✅tsinor"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ol man i no inap wokabaut gut"
+      "marks": "ol man lem"
     },
     {
       "surface": "הפסחים",
-      "gloss": "ol man i no inap wokabaut gut"
+      "gloss": "ol man lem"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ol man i no inap luk"
+      "marks": "ol blain man"
     },
     {
       "surface": "העורים",
-      "gloss": "ol man i no inap luk"
+      "gloss": "ol blain man"
     },
     {
       "surface": "שנאו",
-      "gloss": "i les long ol"
+      "gloss": "i les long"
     },
     {
       "surface": "נפש",
@@ -106,11 +75,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "long"
     },
     {
       "surface": "כן",
-      "gloss": "Olsem na"
+      "gloss": "olsem"
     },
     {
       "surface": "יאמרו",
@@ -118,19 +87,19 @@
     },
     {
       "surface": "עור",
-      "gloss": "Man i no inap luk"
+      "gloss": "man blain"
     },
     {
       "surface": "ופסח",
-      "gloss": "o i no inap wokabaut gut"
+      "gloss": "na man lem"
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "no"
     },
     {
       "surface": "יבוא",
-      "gloss": "kam insait"
+      "gloss": "ken kam insait"
     },
     {
       "surface": "אל",
@@ -141,6 +110,6 @@
       "gloss": "haus"
     }
   ],
-  "timestamp": "2026-10-18T19:37:03.844875886Z",
+  "timestamp": "2026-10-19T00:35:07.042996080Z",
   "model": "glm-5.3"
 }

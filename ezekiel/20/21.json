@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel bilong nus",
-      "rationale": "אף i minim nus, tasol long Tok Pisin kros i stap long bel — nus bilong God i wokim kros"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חמתי\/אפי",
-      "rationale": "tupela tok bilong kros i kamap wantaim — hat (חמה) na nus (אף) — planti KJV i makim wanpela tasol"
-    }
-  ],
-  "translation": "Tasol ol pikinini i bagarapim mi: ol i no wokabaut long ol lo bilong mi, na ol i no lukautim ⟨את⟩ ol kot bilong mi bilong wokim ol, olsem man i wokim ol na em i save long ol — tasol ol i bagarapim ⟨את⟩ ol Sabat bilong mi. Na mi tokim bai mi kapsaitim kros bilong mi antiap long ol, bilong pinisim bel bilong nus bilong mi long ol, long wailbus.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/20\/21-24.1792356346242.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tasol ol pikinini i kirap long mi: ol i no wokabaut long ol stetu bilong mi, na ol i no lukautim ⟨את⟩ ol kot bilong mi bilong wokim ⟨את⟩ olgeta we man i wokim ⟨את⟩ olgeta, em i laip wantaim ol; ol i bagarapim ⟨את⟩ ol Sabat bilong mi. Na mi tok long karamap hat bilong kros bilong mi long ol, bilong pinisim kros bilong mi long ol, long wail graun.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "i bagarapim"
+      "gloss": "ol i kirap long"
     },
     {
       "surface": "בי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בחקותי",
-      "gloss": "ol lo bilong mi"
+      "gloss": "long ol stetu bilong mi"
     },
     {
       "surface": "לא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "i wokabaut"
+      "gloss": "ol i wokabaut"
     },
     {
       "surface": "ואת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "i lukautim"
+      "gloss": "ol i lukautim"
     },
     {
       "surface": "לעשות",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ olgeta",
+      "marks": "olgeta we man i wokim"
     },
     {
       "surface": "אשר",
-      "gloss": "olsem"
+      "gloss": "we"
     },
     {
       "surface": "יעשה",
@@ -87,7 +67,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ olgeta",
+      "marks": "olgeta (we man i wokim)"
     },
     {
       "surface": "האדם",
@@ -95,11 +76,11 @@
     },
     {
       "surface": "וחי",
-      "gloss": "na em i save long ol"
+      "gloss": "em i laip"
     },
     {
       "surface": "בהם",
-      "gloss": "long ol"
+      "gloss": "wantaim ol"
     },
     {
       "surface": "את",
@@ -116,19 +97,19 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "na mi tokim"
+      "gloss": "na mi tok"
     },
     {
       "surface": "לשפך",
-      "gloss": "bai mi kapsaitim"
+      "gloss": "long karamap"
     },
     {
       "surface": "חמתי",
-      "gloss": "kros bilong mi"
+      "gloss": "hat bilong kros bilong mi"
     },
     {
       "surface": "עליהם",
-      "gloss": "antiap long ol"
+      "gloss": "long ol"
     },
     {
       "surface": "לכלות",
@@ -136,7 +117,7 @@
     },
     {
       "surface": "אפי",
-      "gloss": "bel bilong nus bilong mi"
+      "gloss": "kros bilong mi"
     },
     {
       "surface": "בם",
@@ -144,9 +125,9 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "long wailbus"
+      "gloss": "long wail graun"
     }
   ],
-  "timestamp": "2026-10-18T20:45:46.243145054Z",
+  "timestamp": "2026-10-19T00:39:32.002064076Z",
   "model": "glm-5.3"
 }

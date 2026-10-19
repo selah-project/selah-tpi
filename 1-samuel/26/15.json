@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "tpi",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "man tru",
-      "rationale": "אישׁ em i 'man'; KJV i putim 'valiant man' — tpi i holim leksem 'man' tasol"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "אל שמרת em idiom bilong 'lukautim'; pripozisen i no gat wanpela tok long tpi hia"
-    },
-    {
-      "kind": "you",
-      "subject": "to Abner",
-      "rationale": "David i bagarapim nem bilong Avner stret long toktok"
-    }
-  ],
-  "translation": "Na David i tok long Avner: Yu no man tru? Na husat i wankain olsem yu long Yisrael? Bilong wanem yu no lukautim bikman bilong yu, king, long wanem wanpela man bilong ol manmeri i kam insait long bagarapim ⟨את⟩ king, bikman bilong yu?",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/1-samuel\/26\/13-16.1792352088727.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i tokim Abner: Yu no man bilong strong? Na wanpela man i olsem yu long Yisrael? Na bilong wanem yu no lukautim ⟨את⟩ bikman bilong yu, king? Long wanem, wanpela man bilong ol manmeri i kam bilong bagarapim ⟨את⟩ king, bikman bilong yu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na i tok"
+      "gloss": "i tokim"
     },
     {
       "surface": "דוד",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Avner"
+      "gloss": "Abner"
     },
     {
       "surface": "הלוא",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "man tru"
+      "gloss": "man bilong strong"
     },
     {
       "surface": "אתה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "ומי",
-      "gloss": "na husat"
+      "gloss": "na wanpela man"
     },
     {
       "surface": "כמוך",
-      "gloss": "wankain olsem yu"
+      "gloss": "olsem yu"
     },
     {
       "surface": "בישראל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "bilong wanem"
+      "gloss": "na bilong wanem"
     },
     {
       "surface": "לא",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "wantaim"
     },
     {
       "surface": "אדניך",
@@ -103,19 +77,19 @@
     },
     {
       "surface": "בא",
-      "gloss": "i kam insait"
+      "gloss": "i kam"
     },
     {
       "surface": "אחד",
-      "gloss": "wanpela"
+      "gloss": "wanpela man"
     },
     {
       "surface": "העם",
-      "gloss": "man bilong ol manmeri"
+      "gloss": "bilong ol manmeri"
     },
     {
       "surface": "להשחית",
-      "gloss": "long bagarapim"
+      "gloss": "bilong bagarapim"
     },
     {
       "surface": "את",
@@ -131,6 +105,6 @@
       "gloss": "bikman bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T19:34:48.728589763Z",
+  "timestamp": "2026-10-19T00:30:44.015851207Z",
   "model": "glm-5.3"
 }

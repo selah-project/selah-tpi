@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bel",
-      "rationale": "לב em i bel long Tok Pisin — tingting na laik, i no hat"
-    },
-    {
-      "kind": "crux",
-      "subject": "mekim bel i hevi",
-      "rationale": "הכבדתי: 'mi mekim bel i hevi' vs 'mi titim long em' — tradisen i tambu"
-    },
-    {
-      "kind": "you",
-      "subject": "to Mose",
-      "rationale": "Yahwe i tok dairek long Mose"
-    }
-  ],
-  "translation": "Na Yahwe i tok long Mose: Go long Para'o, long wanem, mi bin mekim bel bilong em i hevi, na bel bilong ol wokman bilong em, bilong olsem mi ken putim ol mak bilong mi olsem insait long em.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/10\/1-4.1792347520692.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i tokim Mose: Go long Paro, bilong mi bin mekim ⟨את⟩ bel bilong em i hevi, na ⟨את⟩ bel bilong ol wokman bilong em, bilong mi ken putim ol mak bilong mi olsem long namel bilong em.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "i tok"
     },
     {
       "surface": "יהוה",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Para'o"
+      "gloss": "Paro"
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "אני",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "הכבדתי",
-      "gloss": "mi bin mekim i hevi"
+      "gloss": "bin mekim i hevi"
     },
     {
       "surface": "את",
@@ -84,8 +58,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "bel"
+      "gloss": "⟨את⟩",
+      "marks": "bel bilong ol wokman"
     },
     {
       "surface": "לב",
@@ -93,15 +67,15 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "bilong ol wokman bilong em"
+      "gloss": "ol wokman bilong em"
     },
     {
       "surface": "למען",
-      "gloss": "bilong olsem"
+      "gloss": "bilong"
     },
     {
       "surface": "שתי",
-      "gloss": "mi ken putim"
+      "gloss": "ken putim"
     },
     {
       "surface": "אתתי",
@@ -113,9 +87,9 @@
     },
     {
       "surface": "בקרבו",
-      "gloss": "insait long em"
+      "gloss": "long namel bilong em"
     }
   ],
-  "timestamp": "2026-10-18T18:18:40.693507532Z",
+  "timestamp": "2026-10-19T00:37:17.107643484Z",
   "model": "glm-5.3"
 }

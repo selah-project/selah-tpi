@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צבה",
-      "rationale": "צבה (turgid, swollen) appears only here in the Tanakh; rendered 'i swel'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "lek bilong yu",
-      "rationale": "ירך is 'thigh', a euphemism for the generative parts; 'lek' keeps the literal body part."
-    },
-    {
-      "kind": "crux",
-      "subject": "lek i pundaun",
-      "rationale": "נפלת 'falling thigh': KJV 'rot', JPS\/ASV 'fall away' — shame\/infertility vs physical decay."
-    }
-  ],
-  "translation": "Na pris i mekim ⟨את⟩ meri i beten long beten bilong tok kago, na pris i tokim meri: Yahwe i givim yu long tok kago na long beten namel long ol man bilong yu, taim Yahwe i givim ⟨את⟩ lek bilong yu i pundaun na ⟨את⟩ bel bilong yu i swel.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "c2b1bc0fcd1f8edb088f4e20b5b2ebe4b137c32cec4491f10285ecc5070772d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/5\/21-24.1792349009823.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na pris i mekim ⟨את⟩ meri i sworem long swer bilong kros, na pris i tokim meri: Yahwe i givim ⟨את⟩ yu long kros bilong olgeta man na long swer namel long ol manmeri bilong yu, taim Yahwe i givim ⟨את⟩ lek bilong yu i pundaun na ⟨את⟩ bel bilong yu i swelap.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "i mekim i beten"
+      "gloss": "na pris i mekim sworem"
     },
     {
       "surface": "הכהן",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "בשבעת",
-      "gloss": "long beten bilong tok kago"
+      "gloss": "long swer"
     },
     {
       "surface": "האלה",
-      "gloss": "tok kago"
+      "gloss": "bilong kros"
     },
     {
       "surface": "ואמר",
-      "gloss": "na i tokim"
+      "gloss": "na tokim"
     },
     {
       "surface": "הכהן",
@@ -80,15 +54,16 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ yu"
+      "gloss": "⟨את⟩",
+      "marks": "yu"
     },
     {
       "surface": "לאלה",
-      "gloss": "long tok kago"
+      "gloss": "long kros"
     },
     {
       "surface": "ולשבעה",
-      "gloss": "na long beten"
+      "gloss": "na long swer"
     },
     {
       "surface": "בתוך",
@@ -96,7 +71,7 @@
     },
     {
       "surface": "עמך",
-      "gloss": "ol man bilong yu"
+      "gloss": "ol manmeri bilong yu"
     },
     {
       "surface": "בתת",
@@ -130,9 +105,9 @@
     },
     {
       "surface": "צבה",
-      "gloss": "i swel"
+      "gloss": "i swelap"
     }
   ],
-  "timestamp": "2026-10-18T18:43:29.824643478Z",
+  "timestamp": "2026-10-19T00:49:57.956878563Z",
   "model": "glm-5.3"
 }

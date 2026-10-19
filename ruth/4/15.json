@@ -5,32 +5,11 @@
   "book": "ruth",
   "lang": "tpi",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "laip",
-      "rationale": "נפש em i breath \/ laip-fors, i no 'sol' o 'hat'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "sevenpela pikinini man",
-      "rationale": "Namba seven i tok bilong olgeta fulap — 'gutpela moa long sevenpela pikinini man' em i tok bilong strongim tok."
-    }
-  ],
-  "translation": "Na em bai i stap long yu olsem man we i bringim bek laip bilong yu, na man we i lukautim yu long graunpela taim; long wanem, kolat bilong yu we i laikim yu, em i bornim em — em i gutpela long yu moa long sevenpela pikinini man.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ruth\/4\/13-16.1792360539264.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em bai i kamap long yu long wanpela man i bringim bek ⟨את⟩ laip bilong yu, na long lukautim ⟨את⟩ olpela taim bilong yu: long wanem, kalamanmeri bilong yu, we i laikim yu tru, i karim em — we em i gutpela long yu moa long sevenpela pikinini man.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "bai i stap"
+      "gloss": "em bai i kamap"
     },
     {
       "surface": "לך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "למשיב",
-      "gloss": "olsem man we i bringim bek"
+      "gloss": "long man i bringim bek"
     },
     {
       "surface": "נפש",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ולכלכל",
-      "gloss": "na man we i lukautim"
+      "gloss": "na lukautim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "graunpela taim bilong yu"
+      "marks": "laip bilong yu"
     },
     {
       "surface": "שיבתך",
-      "gloss": "graunpela taim bilong yu"
+      "gloss": "olpela taim bilong yu"
     },
     {
       "surface": "כי",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "כלתך",
-      "gloss": "kolat bilong yu"
+      "gloss": "kalamanmeri bilong yu"
     },
     {
       "surface": "אשר",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "אהבתך",
-      "gloss": "i laikim yu"
+      "gloss": "i laikim yu tru"
     },
     {
       "surface": "ילדתו",
-      "gloss": "em i bornim em"
+      "gloss": "i karim em"
     },
     {
       "surface": "אשר",
@@ -102,6 +81,6 @@
       "gloss": "pikinini man"
     }
   ],
-  "timestamp": "2026-10-18T21:55:39.265980267Z",
+  "timestamp": "2026-10-19T00:52:14.807710271Z",
   "model": "glm-5.3"
 }

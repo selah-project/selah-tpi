@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חרה אף",
-      "rationale": "Tok Hibru i tok 'nus i hatap' — bel i painim; mi tanim olsem 'nus i hatap' long sait bilong piksa."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "Proma bilong 'yupela', i no mak ⟨את⟩ DOM."
-    },
-    {
-      "kind": "you",
-      "subject": "Yisrael",
-      "rationale": "Tok tok bilong sansen i go direk long yupela man Yisrael."
-    }
-  ],
-  "translation": "Long taim yupela brukim ⟨את⟩ kontrak bilong Yahwe Elohim bilong yupela, we em i tok strong long yupela, na yupela go na wokim bilong ol narapela ol god, na yupela kondan long ol, olsem na nus bilong Yahwe i hatap long yupela, na yupela bai lus olgeta kwiktru long het bilong dispela gutpela graun we em i givim long yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "993bb73692a49117fd80f4e3eaa593096e801a0883966c36e9411b7df3120cfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/joshua\/23\/13-16.1792351024396.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sapos yupela i brukim ⟨את⟩ kontrak bilong Yahwe Elohim bilong yupela, we em i bin salim tok long yupela, na yupela i go na wokim ol narapela god, na yupela i mangim long ol, bai bel bilong paia bilong Yahwe i bruk lus long yupela, na yupela bai i lus <fait> kwiktaim long graun gutpela we em i givim long yupela.",
   "tokens": [
     {
       "surface": "בעברכם",
-      "gloss": "long taim yupela brukim"
+      "gloss": "sapos yupela i brukim"
     },
     {
       "surface": "את",
@@ -60,19 +34,20 @@
     },
     {
       "surface": "צוה",
-      "gloss": "i tok strong"
+      "gloss": "i bin salim tok"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ long yupela"
+      "gloss": "⟨את⟩ long yupela",
+      "marks": "long yupela"
     },
     {
       "surface": "והלכתם",
-      "gloss": "na yupela go"
+      "gloss": "na yupela i go"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "na wokim bilong"
+      "gloss": "na wokim"
     },
     {
       "surface": "אלהים",
@@ -84,19 +59,19 @@
     },
     {
       "surface": "והשתחויתם",
-      "gloss": "na yupela kondan long ol"
+      "gloss": "na yupela i mangim"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "long ol"
     },
     {
       "surface": "וחרה",
-      "gloss": "na i hatap"
+      "gloss": "bai bel bilong paia i bruk lus"
     },
     {
       "surface": "אף",
-      "gloss": "nus"
+      "gloss": "nep"
     },
     {
       "surface": "יהוה",
@@ -108,15 +83,15 @@
     },
     {
       "surface": "ואבדתם",
-      "gloss": "na yupela bai lus olgeta"
+      "gloss": "na yupela bai i lus"
     },
     {
       "surface": "מהרה",
-      "gloss": "kwiktru"
+      "gloss": "kwiktaim"
     },
     {
       "surface": "מעל",
-      "gloss": "long het bilong"
+      "gloss": "long"
     },
     {
       "surface": "הארץ",
@@ -139,6 +114,6 @@
       "gloss": "long yupela"
     }
   ],
-  "timestamp": "2026-10-18T19:17:04.399422827Z",
+  "timestamp": "2026-10-19T00:46:52.234707807Z",
   "model": "glm-5.3"
 }

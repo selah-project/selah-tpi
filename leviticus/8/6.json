@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "klostu",
-      "rationale": "ויקרב em i 'bringim klostu' (karim i kam klostu), OLSEM Na 'bringim' tasol i lusum piksa bilong kamap klostu long altar."
-    }
-  ],
-  "translation": "Na Mose i bringim klostu ⟨את⟩ Aharon na ⟨את⟩ ol pikinini bilong en, na wasim ol long wara.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/8\/5-8.1792348419197.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Mose i bringim ⟨את⟩ Aharon na ⟨את⟩ ol pikinini man bilong en i kam klostu, na em i wasim olgeta ⟨את⟩ wantaim wara.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "i bringim klostu"
+      "gloss": "i bringim i kam klostu"
     },
     {
       "surface": "משה",
@@ -42,26 +26,27 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ol pikinini bilong en"
+      "gloss": "wantaim ⟨את⟩",
+      "marks": "ol pikinini man bilong en"
     },
     {
       "surface": "בניו",
-      "gloss": "ol pikinini bilong en"
+      "gloss": "ol pikinini man bilong en"
     },
     {
       "surface": "וירחץ",
-      "gloss": "na wasim"
+      "gloss": "i wasim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ olgeta",
+      "marks": "Aharon na ol pikinini man bilong en"
     },
     {
       "surface": "במים",
-      "gloss": "long wara"
+      "gloss": "wantaim wara"
     }
   ],
-  "timestamp": "2026-10-18T18:33:39.198501378Z",
+  "timestamp": "2026-10-19T00:48:25.385688728Z",
   "model": "glm-5.3"
 }

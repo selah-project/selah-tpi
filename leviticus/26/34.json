@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבת\/השמה",
-      "rationale": "Malolo (shabat) na nogut-tru (shamem) — ol tok i tanim nais namel long vers; Tok Pisin i no inap holim."
-    },
-    {
-      "kind": "crux",
-      "subject": "salim det",
-      "rationale": "תרצה i save tok bilong salim det: graun i karim det bilong ol Sabat we yupela no givim; KJV 'enjoy' i luspela mining."
-    }
-  ],
-  "translation": "Olsem, graun bai salim det bilong ol Sabat bilong en, olgeta dej bilong taim i nogut tru, na yupela i stap long graun bilong ol birua bilong yupela; olsem, graun bai malolo, na bai salim det bilong ol Sabat bilong en.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/26\/33-36.1792348843333.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long taim olsem, graun bai i kisim ⟨את⟩ ol Sabat bilong en, olgeta ol de bilong taim graun i stap nating; na yupela i stap long graun bilong ol birua bilong yupela; long taim olsem, graun bai i malolo, na bai i payim ⟨את⟩ ol Sabat bilong en.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "olsem"
+      "gloss": "long taim olsem"
     },
     {
       "surface": "תרצה",
-      "gloss": "bai salim det bilong"
+      "gloss": "bai i kisim"
     },
     {
       "surface": "הארץ",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "dej bilong"
+      "gloss": "ol de"
     },
     {
       "surface": "השמה",
-      "gloss": "taim i nogut tru"
+      "gloss": "taim graun i stap nating"
     },
     {
       "surface": "ואתם",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "אז",
-      "gloss": "olsem"
+      "gloss": "long taim olsem"
     },
     {
       "surface": "תשבת",
-      "gloss": "bai malolo"
+      "gloss": "bai i malolo"
     },
     {
       "surface": "הארץ",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "והרצת",
-      "gloss": "na bai salim det bilong"
+      "gloss": "na bai i payim"
     },
     {
       "surface": "את",
@@ -99,6 +78,6 @@
       "gloss": "ol Sabat bilong en"
     }
   ],
-  "timestamp": "2026-10-18T18:40:43.334154827Z",
+  "timestamp": "2026-10-19T00:47:56.490656113Z",
   "model": "glm-5.3"
 }

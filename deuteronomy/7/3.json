@@ -5,35 +5,19 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בם",
-      "rationale": "Preposition 'with them' already carried by 'wantaim ol' in the verb gloss."
-    }
-  ],
-  "translation": "Yu no ken marit wantaim ol: yu no ken givim pikinini meri bilong yu long pikinini man bilong ol, na yu no ken kisim pikinini meri bilong ol long pikinini man bilong yu.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/7\/1-4.1792349861912.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yu no ken marit wantaim ol; yu no ken givim pikinini meri bilong yu long pikinini man bilong ol, na yu no ken kisim pikinini meri bilong ol long pikinini man bilong yu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "yu no ken"
+      "gloss": "na yu no ken"
     },
     {
       "surface": "תתחתן",
-      "gloss": "marit wantaim ol"
+      "gloss": "marit wantaim"
     },
     {
       "surface": "בם",
-      "gloss": ""
+      "gloss": "long ol"
     },
     {
       "surface": "בתך",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "yu no ken"
     },
     {
       "surface": "תתן",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "ובתו",
-      "gloss": "pikinini meri bilong ol"
+      "gloss": "na pikinini meri bilong ol"
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "yu no ken"
     },
     {
       "surface": "תקח",
@@ -68,6 +52,6 @@
       "gloss": "long pikinini man bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T18:57:41.914312324Z",
+  "timestamp": "2026-10-19T00:37:35.054156657Z",
   "model": "glm-5.3"
 }

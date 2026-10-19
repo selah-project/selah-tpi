@@ -5,36 +5,16 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "skulim ol pikinini",
-      "rationale": "imperative-shaped instruction continuing the Shema passage, summoning Israel to teach"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "infinitive construct chain",
-      "rationale": "four paired merisms (sitting\/walking, lying\/rising) cover all of life — rhythmic repetition kept in full"
-    }
-  ],
-  "translation": "Na yupela i skulim ol, ⟨את⟩ ol pikinini bilong yupela, long tokaut long ol; taim yu sindaun long haus bilong yu, na taim yu wokabaut long rot, na taim yu slip, na taim yu kirap.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/11\/17-20.1792349910295.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yupela i mas skulim ⟨את⟩ ol tok olsem long ol pikinini bilong yupela, bilong toktok wantaim ol; long taim yupela i sindaun long haus bilong yupela, na long taim yupela i wokabaut long rot, na long taim yupela i slip na long taim yupela i kirap.",
   "tokens": [
     {
       "surface": "ולמדתם",
-      "gloss": "na yupela i skulim ol"
+      "gloss": "skulim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩",
+      "marks": "ol tok olsem"
     },
     {
       "surface": "את",
@@ -47,23 +27,23 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "long tokaut long"
+      "gloss": "bilong toktok"
     },
     {
       "surface": "בם",
-      "gloss": "ol"
+      "gloss": "wantaim ol"
     },
     {
       "surface": "בשבתך",
-      "gloss": "taim yu sindaun"
+      "gloss": "long taim yupela i sindaun"
     },
     {
       "surface": "בביתך",
-      "gloss": "long haus bilong yu"
+      "gloss": "long haus bilong yupela"
     },
     {
       "surface": "ובלכתך",
-      "gloss": "na taim yu wokabaut"
+      "gloss": "na long taim yupela i wokabaut"
     },
     {
       "surface": "בדרך",
@@ -71,13 +51,13 @@
     },
     {
       "surface": "ובשכבך",
-      "gloss": "na taim yu slip"
+      "gloss": "na long taim yupela i slip"
     },
     {
       "surface": "ובקומך",
-      "gloss": "na taim yu kirap"
+      "gloss": "na long taim yupela i kirap"
     }
   ],
-  "timestamp": "2026-10-18T18:58:30.296677651Z",
+  "timestamp": "2026-10-19T00:36:03.902331274Z",
   "model": "glm-5.3"
 }

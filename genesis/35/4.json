@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "tpi",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "האלה",
-      "rationale": "Oak (KJV\/ASV) vs terebinth (JPS) — 'traipela diwai' keeps the strong-tree picture without choosing species."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "אֹתָם is the pronoun 'olgeta', not the aleph-tav DOM marker — no ⟨את⟩ glyph."
-    }
-  ],
-  "translation": "Na ol i givim long Yakov ⟨את⟩ olgeta ol god bilong ol lain narap we i stap long han bilong ol, na ⟨את⟩ ol ring bilong ia we i stap long ia bilong ol; na Yakov i haitim olgeta aninit long traipela diwai we i stap klostu long Sekem.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/genesis\/35\/1-4.1792347057399.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i givim long Yakov ⟨את⟩ olgeta ol god bilong ol stranger we i stap long han bilong olgeta, na ⟨את⟩ ol ring we i stap long aus bilong olgeta; na Yakov i haitim ⟨את⟩ olgeta ananit bilong ⟨i⟩ bigpela diwai we i stap klostu long Sekem.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "Na ol i givim"
+      "gloss": "ol i givim"
     },
     {
       "surface": "אל",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta ol god bilong ol lain narap"
+      "marks": "olgeta ol god bilong ol stranger"
     },
     {
       "surface": "כל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "הנכר",
-      "gloss": "bilong ol lain narap"
+      "gloss": "bilong ol stranger"
     },
     {
       "surface": "אשר",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "בידם",
-      "gloss": "long han bilong ol"
+      "gloss": "long han bilong olgeta"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ol ring bilong ia"
+      "gloss": "⟨את⟩",
+      "marks": "ol ring long aus bilong olgeta"
     },
     {
       "surface": "הנזמים",
-      "gloss": "ol ring bilong ia"
+      "gloss": "ol ring long aus"
     },
     {
       "surface": "אשר",
@@ -80,15 +59,16 @@
     },
     {
       "surface": "באזניהם",
-      "gloss": "long ia bilong ol"
+      "gloss": "long aus bilong olgeta"
     },
     {
       "surface": "ויטמן",
-      "gloss": "na i haitim"
+      "gloss": "na Yakov i haitim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ olgeta"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta (ol god na ol ring)"
     },
     {
       "surface": "יעקב",
@@ -96,11 +76,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "aninit long"
+      "gloss": "ananit bilong"
     },
     {
       "surface": "האלה",
-      "gloss": "traipela diwai"
+      "gloss": "bigpela diwai"
     },
     {
       "surface": "אשר",
@@ -115,6 +95,6 @@
       "gloss": "Sekem"
     }
   ],
-  "timestamp": "2026-10-18T18:10:57.400864284Z",
+  "timestamp": "2026-10-19T00:41:30.374590416Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "hosea",
   "lang": "tpi",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אישי הראשון",
-      "rationale": "‘man bilong mi long taim bipo’ — first husband, i.e. Yahwe in the allegory."
-    },
-    {
-      "kind": "alternative",
-      "subject": "אז מעתה",
-      "rationale": "‘long dispela taim moa long nau’ — some read ‘then it was better for me than now’ (past comparison)."
-    },
-    {
-      "kind": "you",
-      "subject": "em",
-      "rationale": "Direct speech of the woman quoted inside Yahwe’s oracle."
-    }
-  ],
-  "translation": "Na em i bai ran afta ⟨את⟩ ol man i laikim em, tasol em i no inap kapsim ol; na em i bai painim ol, tasol em i no bai painim ol; na em i bai tok: Mi mas go na kam bek go long man bilong mi long taim bipo, long wanen gutpela long mi long dispela taim moa long nau.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/hosea\/2\/9-12.1792356984928.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i go bihain long ⟨את⟩ ol man i laikim em, tasol em i no inap kasem ⟨את⟩ ol; em i painim ol, tasol em i no painim ol. Na em bai i tok: Mi go, na mi kamap bek long man bilong mi long taim bipo, bilong wanem taim bipo i gutpela long mi moa long taim nau.",
   "tokens": [
     {
       "surface": "ורדפה",
-      "gloss": "i bai ran afta"
+      "gloss": "i go bihain long"
     },
     {
       "surface": "את",
@@ -48,43 +22,44 @@
     },
     {
       "surface": "ולא",
-      "gloss": "tasol … i no"
+      "gloss": "tasol em i no"
     },
     {
       "surface": "תשיג",
-      "gloss": "inap kapsim"
+      "gloss": "inap kasem"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol man i laikim em"
     },
     {
       "surface": "ובקשתם",
-      "gloss": "i bai painim"
+      "gloss": "em i painim ol"
     },
     {
       "surface": "ולא",
-      "gloss": "i no"
+      "gloss": "tasol em i no"
     },
     {
       "surface": "תמצא",
-      "gloss": "bai painim"
+      "gloss": "painim ol"
     },
     {
       "surface": "ואמרה",
-      "gloss": "i bai tok"
+      "gloss": "Na em bai i tok"
     },
     {
       "surface": "אלכה",
-      "gloss": "mi mas go"
+      "gloss": "Mi go"
     },
     {
       "surface": "ואשובה",
-      "gloss": "kam bek"
+      "gloss": "na mi kamap bek"
     },
     {
       "surface": "אל",
-      "gloss": "go long"
+      "gloss": "long"
     },
     {
       "surface": "אישי",
@@ -96,11 +71,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanen"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "טוב",
-      "gloss": "gutpela"
+      "gloss": "i gutpela"
     },
     {
       "surface": "לי",
@@ -108,13 +83,13 @@
     },
     {
       "surface": "אז",
-      "gloss": "long dispela taim"
+      "gloss": "taim bipo"
     },
     {
       "surface": "מעתה",
-      "gloss": "moa long nau"
+      "gloss": "moa long taim nau"
     }
   ],
-  "timestamp": "2026-10-18T20:56:24.929334194Z",
+  "timestamp": "2026-10-19T00:42:14.401714636Z",
   "model": "glm-5.3"
 }

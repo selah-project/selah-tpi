@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הרחק \/ תרחיקו",
-      "rationale": "Wanem rot רחק i kamap tupela taim — 'go we, no ken go we tumas' — infinitif absolut, repit bilong wok, em i stap long Tok Pisin."
-    },
-    {
-      "kind": "crux",
-      "subject": "העתירו בעדי",
-      "rationale": "רוט עתר i min 'pairim insens \/ puren' — hia 'begim' o 'purenim long mi'; sampla tanim tok i tok 'praem bilong mi'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩ \/ bilong yumi",
-      "rationale": "Heber i no gat 'bilong yumi' long lek bilong בעדי — Paroh i laik Mose i puren long Yahwe bilong em."
-    }
-  ],
-  "translation": "Na Paroh i tok: Mi bai salim yumi, na yumi kilim animal bilong sakrifaes long Yahwe, Elohim bilong yu, long ples wailbush; tasol yu go we — no ken go we tumas. Begim ⟨i⟩ long mi bilong yumi.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/8\/21-24.1792347487873.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Paroh i tok: Mi bai salim ⟨את⟩ olgeta yupela, na yupela ken wokim ofa long Yahwe, Elohim bilong yupela, long ples wailbus; tasol yupela i no ken go longpela tumas. Praim bilong mi long Yahwe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na i tok"
+      "gloss": "Na … i tok"
     },
     {
       "surface": "פרעה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Mi"
+      "gloss": "mi"
     },
     {
       "surface": "אשלח",
@@ -51,12 +25,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "yumi ⟨את⟩",
-      "marks": "yumi (ol man Isrel)"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta yupela"
     },
     {
       "surface": "וזבחתם",
-      "gloss": "na yumi kilim animal bilong sakrifaes"
+      "gloss": "na yupela ken wokim ofa"
     },
     {
       "surface": "ליהוה",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim bilong yu"
+      "gloss": "Elohim bilong yupela"
     },
     {
       "surface": "במדבר",
-      "gloss": "long ples wailbush"
+      "gloss": "long ples wailbus"
     },
     {
       "surface": "רק",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "הרחק",
-      "gloss": "yu go we"
+      "gloss": "go longpela tumas"
     },
     {
       "surface": "לא",
-      "gloss": "no ken"
+      "gloss": "no"
     },
     {
       "surface": "תרחיקו",
-      "gloss": "go we tumas"
+      "gloss": "ken go longpela"
     },
     {
       "surface": "ללכת",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "העתירו",
-      "gloss": "Begim"
+      "gloss": "praim"
     },
     {
       "surface": "בעדי",
-      "gloss": "long mi"
+      "gloss": "bilong mi"
     }
   ],
-  "timestamp": "2026-10-18T18:18:07.875112558Z",
+  "timestamp": "2026-10-19T00:39:05.818306131Z",
   "model": "glm-5.3"
 }

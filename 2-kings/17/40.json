@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Tupela tok כי אם i kamap wanpela 'tasol' long hia tu."
-    },
-    {
-      "kind": "addition",
-      "subject": "bikos",
-      "rationale": "Tok Pisin i needim konjaksen bilong joinim tupela hap tok; Hibru i no gat em."
-    }
-  ],
-  "translation": "Tasol ol i no harim; bikos ol i wokim olsem pasin bilong ol long bipo.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/37-40.1792353593767.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tasol ol i no harim tok, bilong ol i wokim olgeta samting olsem pasin bilong ol bipo yet.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "na no"
+      "gloss": "tasol ol i no"
     },
     {
       "surface": "שמעו",
-      "gloss": "ol i harim"
+      "gloss": "harim tok"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "bilong"
     },
     {
       "surface": "אם",
-      "gloss": "tasol"
+      "gloss": ""
     },
     {
       "surface": "כמשפטם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "long bipo"
+      "gloss": "bipo yet"
     },
     {
       "surface": "הם",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "עשים",
-      "gloss": "i wokim"
+      "gloss": "wokim olgeta samting"
     }
   ],
-  "timestamp": "2026-10-18T19:59:53.768651587Z",
+  "timestamp": "2026-10-19T00:32:14.176441156Z",
   "model": "glm-5.3"
 }

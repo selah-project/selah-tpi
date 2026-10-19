@@ -5,42 +5,15 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משפט אלהי הארץ",
-      "rationale": "'pasin bilong skelim' — narapela: 'lo' (ASV), 'pasin' (KJV 'manner'), 'ol samting em i laikim' (BSB)."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "",
-      "rationale": "Heb relativ 'asher' i no gat wanpela tok — Tok Pisin i stap wantaim narapela klaus."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משפט אלהי הארץ",
-      "rationale": "Frep i kamap tupela taim long ves — narapela insait long tok bilong ol man, wanpela narapela i ripitim."
-    }
-  ],
-  "translation": "Na ol i tokim king bilong Ashur, ol i tok olsem: Ol lain bilong olgeta kantri yu bin karamapim na yu putim long ol siti bilong Shomron, ol i no save long ⟨את⟩ pasin bilong skelim bilong Elohim bilong graun; olsem na em i salim ⟨את⟩ ol laion long ol, na lukim, ol i kilim ol i dai, long wanem, ol i no save long ⟨את⟩ pasin bilong skelim bilong Elohim bilong graun.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d51b58fdc7b9ac26e707ab9c755f7613ad643c8c1f315d5bc327fdbd4d369f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/17\/25-28.1792353644383.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i tok long king bilong Ashur, olsem: Ol lain bilong olgeta kantri yu bin karamapim i go long exil, na yu putim ⟨את⟩ ol long ol siti bilong Shomron; ol i no save ⟨את⟩ pasin bilong skelim bilong Elohim bilong graun; na em i salim ⟨את⟩ ol laion long ol, na luk, ol i kilim ⟨את⟩ ol, bilong ol i no save ⟨את⟩ pasin bilong skelim bilong Elohim bilong graun.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ol i tokim"
+      "gloss": "ol i tok"
     },
     {
       "surface": "למלך",
-      "gloss": "king"
+      "gloss": "long king"
     },
     {
       "surface": "אשור",
@@ -48,7 +21,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ol i tok olsem"
+      "gloss": "olsem"
     },
     {
       "surface": "הגוים",
@@ -56,15 +29,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "bilong"
     },
     {
       "surface": "הגלית",
-      "gloss": "yu bin karamapim"
+      "gloss": "yu bin karamapim i go long exil"
     },
     {
       "surface": "ותושב",
-      "gloss": "yu putim"
+      "gloss": "yu putim ol i stap"
     },
     {
       "surface": "בערי",
@@ -72,7 +45,7 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Shomron"
+      "gloss": "bilong Shomron"
     },
     {
       "surface": "לא",
@@ -93,7 +66,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "bilong Elohim"
     },
     {
       "surface": "הארץ",
@@ -101,7 +74,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "em i salim"
+      "gloss": "na em i salim"
     },
     {
       "surface": "בם",
@@ -118,23 +91,24 @@
     },
     {
       "surface": "והנם",
-      "gloss": "na lukim ol"
+      "gloss": "na luk"
     },
     {
       "surface": "ממיתים",
-      "gloss": "kilim ol i dai"
+      "gloss": "ol i kilim"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ ol",
+      "marks": "ol lain bilong olgeta kantri"
     },
     {
       "surface": "כאשר",
-      "gloss": "long wanem"
+      "gloss": "bilong ol"
     },
     {
       "surface": "אינם",
-      "gloss": "no"
+      "gloss": "i no"
     },
     {
       "surface": "ידעים",
@@ -151,13 +125,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "bilong Elohim"
     },
     {
       "surface": "הארץ",
       "gloss": "bilong graun"
     }
   ],
-  "timestamp": "2026-10-18T20:00:44.385027984Z",
+  "timestamp": "2026-10-19T00:32:13.706303143Z",
   "model": "glm-5.3"
 }

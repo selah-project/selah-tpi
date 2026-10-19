@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "wing bilong ami",
-      "rationale": "אגפיך 'your wings' = army divisions\/wings of troops; shape kept as 'wing of army'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כל כנף",
-      "rationale": "'every wing' — a bird of every sort of wing; rendered 'olgeta kain wing' to keep the literal 'wing'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Gog",
-      "rationale": "Direct second-person address to Gog continues from v.1."
-    }
-  ],
-  "translation": "Long ol maunten bilong Yisrael yu bai pundaun — yu, na olgeta wing bilong ami bilong yu, na ol lain ⟨ol i⟩ stap wantaim yu; mi givim yu long ol pisin i kaikai mit, bilong olgeta kain wing, na long ol animal bilong gaden kaikai bilong ol — long kaikai.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/39\/1-4.1792356761700.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long ol maunten bilong Yisrael yu bai pinedaun ⟨em⟩, yu na olgeta ol lain soldia bilong yu, na ol manmeri ol i stap wantaim yu; mi givim ⟨את⟩ yu long ol pisin bilong kaikai, ⟨em⟩ i save kaikai olgeta samting, long wanwan wing, na long ol animal bilong gaden, bilong ol i kaikai yu.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Long"
+      "gloss": "long"
     },
     {
       "surface": "הרי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "תפול",
-      "gloss": "yu bai pundaun"
+      "gloss": "yu bai pinedaun"
     },
     {
       "surface": "אתה",
@@ -59,23 +33,24 @@
     },
     {
       "surface": "אגפיך",
-      "gloss": "wing bilong ami bilong yu"
+      "gloss": "ol lain soldia bilong yu"
     },
     {
       "surface": "ועמים",
-      "gloss": "na ol lain"
+      "gloss": "na ol manmeri"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ol i⟩"
+      "gloss": "ol"
     },
     {
       "surface": "אתך",
-      "gloss": "stap wantaim ⟨את⟩ yu"
+      "gloss": "⟨את⟩ wantaim yu",
+      "marks": "ol manmeri"
     },
     {
       "surface": "לעיט",
-      "gloss": "long ol pisin i kaikai mit"
+      "gloss": "long ol pisin bilong kaikai"
     },
     {
       "surface": "צפור",
@@ -83,7 +58,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "olgeta kain"
+      "gloss": "wanwan"
     },
     {
       "surface": "כנף",
@@ -91,11 +66,11 @@
     },
     {
       "surface": "וחית",
-      "gloss": "na long ol animal bilong"
+      "gloss": "na ol animal"
     },
     {
       "surface": "השדה",
-      "gloss": "gaden"
+      "gloss": "bilong gaden"
     },
     {
       "surface": "נתתיך",
@@ -103,9 +78,9 @@
     },
     {
       "surface": "לאכלה",
-      "gloss": "long kaikai"
+      "gloss": "bilong ol i kaikai yu"
     }
   ],
-  "timestamp": "2026-10-18T20:52:41.702197600Z",
+  "timestamp": "2026-10-19T00:40:31.339760956Z",
   "model": "glm-5.3"
 }

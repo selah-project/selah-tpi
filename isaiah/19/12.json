@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "polite particle 'now\/I pray' has no Tok Pisin equivalent, dropped"
-    },
-    {
-      "kind": "invitation",
-      "subject": "challenge to Egypt's sages",
-      "rationale": "sarcastic summons: let them declare what Yahwe has planned"
-    },
-    {
-      "kind": "secret",
-      "subject": "מה יעץ יהוה",
-      "rationale": "Yahwe's hidden counsel against Egypt, unknowable to the wise men"
-    }
-  ],
-  "translation": "Ol man save bilong yu, ol i stap we taim? Make ol i tokim yu, na ol i save wanem Yahwe Tsebaot i planim long Mitsrayim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/19\/9-12.1792354081990.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i stap we nau, ol man save bilong yu? Ol i ken tokim yu nau, na ol i ken save wanem samting Yahwe Tsebaot i planim long Mitsrayim.",
   "tokens": [
     {
       "surface": "אים",
-      "gloss": "stap we"
+      "gloss": "we"
     },
     {
       "surface": "אפוא",
-      "gloss": "taim"
+      "gloss": "nau"
     },
     {
       "surface": "חכמיך",
@@ -47,27 +21,27 @@
     },
     {
       "surface": "ויגידו",
-      "gloss": "make ol i tokim"
+      "gloss": "ol i ken tokim"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "nau"
     },
     {
       "surface": "לך",
-      "gloss": "yupela... yu"
+      "gloss": "yu"
     },
     {
       "surface": "וידעו",
-      "gloss": "na ol i save"
+      "gloss": "na ol i ken save"
     },
     {
       "surface": "מה",
-      "gloss": "wanem"
+      "gloss": "wanem samting"
     },
     {
       "surface": "יעץ",
-      "gloss": "i planim"
+      "gloss": "iplanim"
     },
     {
       "surface": "יהוה",
@@ -86,6 +60,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-10-18T20:08:01.991142053Z",
+  "timestamp": "2026-10-19T00:42:47.396358609Z",
   "model": "glm-5.3"
 }

@@ -5,38 +5,7 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bai ol i",
-      "rationale": "Tok Pisin i needim predicate marker na fyuva bilong strong tok; Hibru i no gat"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruak",
-      "rationale": "רוחי em i ruak bilong mi — no 'Spirit' tasol, wanpela tok bilong win\/ruak\/breth"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ol pikinini",
-      "rationale": "זרע em i pikinini bilong man — 'sidin' i tambu long D4"
-    },
-    {
-      "kind": "idiom",
-      "subject": "maus bilong ol pikinini bilong yu",
-      "rationale": "זרעך em i 'pikinini bilong yu' — Hibru i tok pikinini bilong man, olgeta ol man i kamap long line"
-    }
-  ],
-  "translation": "Na mi yet — dispela kontrak bilong mi wantaim ol, Yahwe i tok: ruak bilong mi we i stap antap long yu, na ol tok bilong mi we mi putim long maus bilong yu, bai ol i no lus long maus bilong yu, na long maus bilong ol pikinini bilong yu, na long maus bilong ol pikinini bilong ol pikinini bilong yu, Yahwe i tok, stat long taim nau i go inap olgeta taim.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "7f677311097f87eedf9854bb462ec43ea9db40d95103c847f3231414cf8965d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/59\/21-21.1792354722933.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na mi yet — dispela em ⟨i⟩ kontrak bilong mi wantaim ⟨את⟩ ⟨ol⟩, Yahwe i tok: ruak bilong mi we i stap antap long yu, na ol tok bilong mi we mi putim long maus bilong yu, ol i no ken lus long maus bilong yu, na long maus bilong pikinini bilong yu, na long maus bilong pikinini bilong pikinini bilong yu, Yahwe i tok, long nau i go inap oltaim olgeta.",
   "tokens": [
     {
       "surface": "ואני",
@@ -53,7 +22,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ol"
+      "marks": "ol (wantaim ol)"
     },
     {
       "surface": "אמר",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "ימושו",
-      "gloss": "bai ol i lus"
+      "gloss": "ken lus"
     },
     {
       "surface": "מפיך",
@@ -109,7 +78,7 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "ol pikinini bilong yu"
+      "gloss": "pikinini bilong yu"
     },
     {
       "surface": "ומפי",
@@ -117,11 +86,11 @@
     },
     {
       "surface": "זרע",
-      "gloss": "ol pikinini bilong"
+      "gloss": "pikinini bilong"
     },
     {
       "surface": "זרעך",
-      "gloss": "ol pikinini bilong yu"
+      "gloss": "pikinini bilong yu"
     },
     {
       "surface": "אמר",
@@ -133,7 +102,7 @@
     },
     {
       "surface": "מעתה",
-      "gloss": "stat long taim nau"
+      "gloss": "long nau"
     },
     {
       "surface": "ועד",
@@ -141,9 +110,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "olgeta taim"
+      "gloss": "oltaim olgeta"
     }
   ],
-  "timestamp": "2026-10-18T20:18:42.933639114Z",
+  "timestamp": "2026-10-19T00:43:43.763204407Z",
   "model": "glm-5.3"
 }

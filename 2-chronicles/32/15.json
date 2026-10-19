@@ -5,79 +5,53 @@
   "book": "2-chronicles",
   "lang": "tpi",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אף כי",
-      "rationale": "pasin 'how much less' — mi raitim 'senis moa' long Tok Pisin"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישיא \/ יסית",
-      "rationale": "tupela tok i klostu long nois — giaman na praim — olsem wanpela pair, lost long Tok Pisin"
-    },
-    {
-      "kind": "you",
-      "subject": "long ol manmeri bilong Yuda",
-      "rationale": "ol manis na ol toktok bilong paia i go long olgeta manmeri"
-    }
-  ],
-  "translation": "Na nau, no ken livim Hizkiyahu long giamanim yupela, na no ken lusim yupela olsem, na no ken bilip long em; long wanem, no wanpela Eloa bilong wanpela lain o kingdom inap salvim ol manmeri bilong en long han bilong mi na long han bilong ol papa bilong mi — senis moa, Elohim bilong yupela bai i no salvim ⟨את⟩ yupela long han bilong mi!",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "b3625020094a9b845c29881016d0eb532f1840b3b09d3ea34fb546cf2ba62aac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-chronicles\/32\/13-16.1792362777493.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na nau, Hizkiya i no ken traimit ⟨את⟩ yupela, na i no ken sweatim ⟨את⟩ yupela olsem dispela, na yupela i no ken bilivim long em; bilong wanem wanpela Eloa bilong olgeta kantri na kingdom i no inap rausim ol manmeri bilong en long han bilong mi, na long han bilong ol papa bilong mi; olsem moa yet, Elohim bilong yupela i no ken rausim ⟨את⟩ yupela long han bilong mi.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "na nau"
+      "gloss": "Na nau"
     },
     {
       "surface": "אל",
-      "gloss": "no ken"
+      "gloss": "i no ken"
     },
     {
       "surface": "ישיא",
-      "gloss": "giamanim"
+      "gloss": "traimit"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ yupela",
-      "marks": "yupela"
+      "marks": "Hizkiya"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkiyahu"
+      "gloss": "Hizkiya"
     },
     {
       "surface": "ואל",
-      "gloss": "na no ken"
+      "gloss": "na i no ken"
     },
     {
       "surface": "יסית",
-      "gloss": "lusim"
+      "gloss": "sweatim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ yupela",
-      "marks": "yupela"
+      "marks": "olsem dispela"
     },
     {
       "surface": "כזאת",
-      "gloss": "olsem"
+      "gloss": "olsem dispela"
     },
     {
       "surface": "ואל",
-      "gloss": "na no ken"
+      "gloss": "na yupela i no ken"
     },
     {
       "surface": "תאמינו",
-      "gloss": "bilip"
+      "gloss": "bilivim"
     },
     {
       "surface": "לו",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong wanem"
     },
     {
       "surface": "לא",
-      "gloss": "no"
+      "gloss": "i no"
     },
     {
       "surface": "יוכל",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "wanpela"
+      "gloss": "wanpela long olgeta"
     },
     {
       "surface": "אלוה",
@@ -105,19 +79,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "bilong wanpela"
+      "gloss": "olgeta"
     },
     {
       "surface": "גוי",
-      "gloss": "lain"
+      "gloss": "kantri"
     },
     {
       "surface": "וממלכה",
-      "gloss": "o kingdom"
+      "gloss": "na kingdom"
     },
     {
       "surface": "להציל",
-      "gloss": "salvim"
+      "gloss": "rausim"
     },
     {
       "surface": "עמו",
@@ -129,19 +103,19 @@
     },
     {
       "surface": "ומיד",
-      "gloss": "na long han bilong"
+      "gloss": "na long han"
     },
     {
       "surface": "אבותי",
-      "gloss": "ol papa bilong mi"
+      "gloss": "bilong ol papa bilong mi"
     },
     {
       "surface": "אף",
-      "gloss": "senis moa"
+      "gloss": "olsem moa yet"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "bilong"
     },
     {
       "surface": "אלהיכם",
@@ -149,22 +123,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "bai i no"
+      "gloss": "i no"
     },
     {
       "surface": "יצילו",
-      "gloss": "salvim"
+      "gloss": "ken rausim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ yupela",
-      "marks": "yupela"
+      "marks": "long han bilong mi"
     },
     {
       "surface": "מידי",
       "gloss": "long han bilong mi"
     }
   ],
-  "timestamp": "2026-10-18T22:32:57.495067065Z",
+  "timestamp": "2026-10-19T00:31:52.195659963Z",
   "model": "glm-5.3"
 }

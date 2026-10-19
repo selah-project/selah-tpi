@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kapsaitim oil long em",
-      "rationale": "משח i tok bilong kapsaitim oil — long hia i wanpela pra pis, ol i tanim olsem 'anoint'"
-    },
-    {
-      "kind": "elision",
-      "subject": "את (bilong בגדי)",
-      "rationale": "Hibru i gat tupela את; namba tu em i preposisen 'wantaim', tasol mi holim pasin ⟨את⟩"
-    }
-  ],
-  "translation": "Na yu ken salim ⟨את⟩ Aharon i putim ol klos bilong ⟨את⟩ ol klos holi, na yu kapsaitim oil long em, na yu mekim holi em, na em i wokim pris long mi.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/40\/13-16.1792348215130.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na yu ken salim ⟨את⟩ Aharon putim ⟨את⟩ ol klos holi long em, na yu ken kapsaitim oil long ⟨את⟩ em, na yu ken mekim holi ⟨את⟩ em, bilong em i wokim pris bilong mi.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "yu ken salim i putim klos"
+      "gloss": "na yu ken salim putim klos"
     },
     {
       "surface": "את",
@@ -48,7 +27,7 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "ol klos bilong"
+      "gloss": "ol klos"
     },
     {
       "surface": "הקדש",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "yu kapsaitim oil long"
+      "gloss": "na yu ken kapsaitim oil long"
     },
     {
       "surface": "אתו",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "yu mekim holi"
+      "gloss": "na yu ken mekim holi"
     },
     {
       "surface": "אתו",
@@ -72,13 +51,13 @@
     },
     {
       "surface": "וכהן",
-      "gloss": "i wokim pris"
+      "gloss": "na em i wokim pris"
     },
     {
       "surface": "לי",
-      "gloss": "long mi"
+      "gloss": "bilong mi"
     }
   ],
-  "timestamp": "2026-10-18T18:30:15.131402469Z",
+  "timestamp": "2026-10-19T00:38:42.990533507Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "באזני",
-      "rationale": "'In the ears of' = 'to speak to directly'; kept literally as 'long ol ia bilong'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "טוב בעיני",
-      "rationale": "'Good in the eyes of' = 'pleasing to'; kept literally as 'gutpela long ai bilong'."
-    }
-  ],
-  "translation": "Na Avner tu i tok long ol ia bilong Binyamin, na Avner tu i go long Hevron long tok long ia bilong David ⟨long⟩ olgeta samting i gutpela long ai bilong ol manmeri Yisrael, na long ai bilong olgeta haus bilong Binyamin.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/3\/17-20.1792352167300.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Avner i tok tu long ol ar bilong Binyamin, na Avner i go tu bilong tok long ol ar bilong David long Hevron — ⟨את⟩ olgeta samting i gutpela long ai bilong Yisrael na long ai bilong olgeta haus bilong Binyamin.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "na i tok"
+      "gloss": "i tok"
     },
     {
       "surface": "גם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "long ol ia bilong"
+      "gloss": "long ol ar bilong"
     },
     {
       "surface": "בנימין",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "na i go"
+      "gloss": "i go"
     },
     {
       "surface": "גם",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "long tok"
+      "gloss": "bilong tok"
     },
     {
       "surface": "באזני",
-      "gloss": "long ol ia bilong"
+      "gloss": "long ol ar bilong"
     },
     {
       "surface": "דוד",
@@ -79,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olgeta samting i gutpela"
+      "marks": "olgeta samting i gutpela long ai bilong Yisrael na long ai bilong olgeta haus bilong Binyamin"
     },
     {
       "surface": "כל",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ol manmeri Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ובעיני",
@@ -118,6 +97,6 @@
       "gloss": "Binyamin"
     }
   ],
-  "timestamp": "2026-10-18T19:36:07.301808573Z",
+  "timestamp": "2026-10-19T00:34:58.770205639Z",
   "model": "glm-5.3"
 }

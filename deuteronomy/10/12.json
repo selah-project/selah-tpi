@@ -5,38 +5,7 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "na nau, Yisrael",
-      "rationale": "tok i singautim Yisrael stret olsem wanpela askim"
-    },
-    {
-      "kind": "you",
-      "subject": "long Yisrael",
-      "rationale": "tok i go stret long Yisrael olsem man i harim"
-    },
-    {
-      "kind": "substitution",
-      "subject": "laip bilong yu",
-      "rationale": "נפש em i win bilong laif, olgeta laip — i no 'soul' we i stap apafta long dai"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "tupela tok hia i wok wantaim olsem 'tasol' — אם i no gat tok wanwan"
-    }
-  ],
-  "translation": "Na nau, Yisrael, wanem samting Yahwe Elohim bilong yu i askim long yu? Tasol bilong gat bia long ⟨את⟩ Yahwe Elohim bilong yu, bilong wokabaut long olgeta rot bilong en, bilong lavim ⟨את⟩ em, na bilong wokim long ⟨את⟩ Yahwe Elohim bilong yu wantaim olgeta bel bilong yu na olgeta laip bilong yu.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "e62f3ec3ade9c0906c2907e177f0bcacb97ab4a2e46019503257bab719fd5d42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/10\/9-12.1792349889978.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na nau, Yisrael, wanem Yahwe Elohim bilong yu i askim long yu? Nogat — tasol long scare long ⟨את⟩ Yahwe Elohim bilong yu, long wokabaut long olgeta rot bilong en, long luvim ⟨את⟩ em, na long wokim servant bilong ⟨את⟩ Yahwe Elohim bilong yu wantaim olgeta bel bilong yu na wantaim olgeta laip bilong yu;",
   "tokens": [
     {
       "surface": "ועתה",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "wanem samting"
+      "gloss": "wanem"
     },
     {
       "surface": "יהוה",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "tasol"
+      "gloss": "⟨nogat — tasol⟩"
     },
     {
       "surface": "אם",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "bilong gat bia long"
+      "gloss": "long scare long"
     },
     {
       "surface": "את",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "bilong wokabaut"
+      "gloss": "long wokabaut"
     },
     {
       "surface": "בכל",
@@ -105,16 +74,15 @@
     },
     {
       "surface": "ולאהבה",
-      "gloss": "bilong lavim"
+      "gloss": "long luvim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "em"
+      "gloss": "⟨את⟩ em"
     },
     {
       "surface": "ולעבד",
-      "gloss": "bilong wokim long"
+      "gloss": "long wokim servant bilong"
     },
     {
       "surface": "את",
@@ -146,6 +114,6 @@
       "gloss": "laip bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T18:58:09.979315435Z",
+  "timestamp": "2026-10-19T00:35:29.166207800Z",
   "model": "glm-5.3"
 }

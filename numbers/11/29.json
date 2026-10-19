@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ומי יתן",
-      "rationale": "Hebrew wish-formula 'who will give...' rendered as 'sapos ... bai gutpela tru'"
-    },
-    {
-      "kind": "addition",
-      "subject": "bai gutpela tru",
-      "rationale": "wish-force of the idiom made explicit; Hebrew verb pair יתן\/יתן elided in gloss"
-    },
-    {
-      "kind": "you",
-      "subject": "Mose i tokim Yosua",
-      "rationale": "direct address, Moses answering Joshua"
-    }
-  ],
-  "translation": "Na Mose i tok long em: Yu save gelo long mi? Sapos olgeta lain bilong Yahwe i kamap ol profet, na Yahwe i putim ⟨את⟩ ruak bilong en long ol — bai gutpela tru!",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "9c4aab5071c1383fed50a644053d555640637d1a95c290a5fe79654c5263fbe3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/11\/29-32.1792349176718.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Mose i tokim em: Yu save gelos bilong mi? Makem olsem olgeta manmeri bilong Yahwe i kamap ol profet, bilong Yahwe i givim ⟨את⟩ ruak bilong en long olgeta olgeta!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tok"
+      "gloss": "i tokim"
     },
     {
       "surface": "לו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "המקנא",
-      "gloss": "gelo"
+      "gloss": "save gelos"
     },
     {
       "surface": "אתה",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "long mi"
+      "gloss": "bilong mi"
     },
     {
       "surface": "ומי",
-      "gloss": "sapos"
+      "gloss": "na sapos"
     },
     {
       "surface": "יתן",
-      "gloss": ""
+      "gloss": "givim"
     },
     {
       "surface": "כל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "lain"
+      "gloss": "manmeri bilong"
     },
     {
       "surface": "יהוה",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "na"
+      "gloss": "bilong"
     },
     {
       "surface": "יתן",
-      "gloss": "i putim"
+      "gloss": "givim"
     },
     {
       "surface": "יהוה",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "long ol"
+      "gloss": "long olgeta olgeta"
     }
   ],
-  "timestamp": "2026-10-18T18:46:16.719149986Z",
+  "timestamp": "2026-10-19T00:49:01.514921848Z",
   "model": "glm-5.3"
 }

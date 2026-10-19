@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אמר יאמר",
-      "rationale": "Infinitive-absolute plus verb for emphasis ('saying he shall surely say'); the doubled saying is folded into 'i tok klia'."
-    },
-    {
-      "kind": "addition",
-      "subject": "klia",
-      "rationale": "The infinitive absolute אמר יאמר intensifies; tpi carries the intensity with 'klia'."
-    }
-  ],
-  "translation": "Na sapos ol tanim man i tok klia: Mi laikim ⟨את⟩ masta bilong mi, ⟨את⟩ meri bilong mi, na ⟨את⟩ ol pikinini bilong mi; mi no inap go aut fri.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/exodus\/21\/5-8.1792347796098.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na sapos sevet i tok tru: Mi laikim ⟨את⟩ masta bilong mi, ⟨את⟩ meri bilong mi, na ⟨את⟩ ol pikinini bilong mi; mi no ken go ausait olsem fri man.",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "אמר",
-      "gloss": ""
+      "gloss": "tok tru"
     },
     {
       "surface": "יאמר",
-      "gloss": "i tok klia"
+      "gloss": "i tok"
     },
     {
       "surface": "העבד",
-      "gloss": "ol tanim man"
+      "gloss": "sevet"
     },
     {
       "surface": "אהבתי",
-      "gloss": "mi laikim"
+      "gloss": "Mi laikim"
     },
     {
       "surface": "את",
@@ -77,17 +56,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "no"
+      "gloss": "no ken"
     },
     {
       "surface": "אצא",
-      "gloss": "go aut"
+      "gloss": "go ausait"
     },
     {
       "surface": "חפשי",
-      "gloss": "fri"
+      "gloss": "olsem fri man"
     }
   ],
-  "timestamp": "2026-10-18T18:23:16.098992542Z",
+  "timestamp": "2026-10-19T00:37:59.166350984Z",
   "model": "glm-5.3"
 }

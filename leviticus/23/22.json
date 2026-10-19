@@ -5,50 +5,24 @@
   "book": "leviticus",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ולגר",
-      "rationale": "'sojourner\/stranger' — Tok Pisin ken tok 'man i stap long ples bilong narapela' o 'stretman'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לקט",
-      "rationale": "gleaning — ol kaikai i lus long graun bihain long haraest, i no gat wanpela tok instik long Tok Pisin"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אלהיכם",
-      "rationale": "Elohim bilong yupela — 'God bilong yupela' em i composite Nem, tasol Tok Pisin i nidim possessive bilong make clear"
-    }
-  ],
-  "translation": "Na taim yupela wanem katim kaikai bilong graun bilong yupela — yupela ken pinisim ⟨את⟩ haraest bilong graun bilong yupela; yupela no ken raitunim graun bilong yupela — em i no ken katim, na tupela kona graun bilong yupela; i no long wok — em i bilong man i no gat — na ol lain i no save wok long en — mipela i stap olsem, Yahwe i God bilong yupela.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0b5a7c6260cfd5973932dfb029cafecb76a24edc37dbfee79c4162ad8af31a8a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/leviticus\/23\/21-24.1792348739141.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na taim yumi katim ⟨את⟩ kaikai bilong graun bilong yumi, yu no ken katim olgeta kona bilong gaden bilong yu taim yu katim, na yu no ken kisim ol kaikai i pundaun i stap bilong harvest bilong yu — bilong poorman na bilong man i kam long narapela ples yu ken lusim ⟨את⟩ olgeta; mi Yahwe, Elohim bilong yumi.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "taim yupela katim kaikai"
+      "gloss": "Na taim yumi katim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨את⟩ haraest bilong graun bilong yupela"
+      "marks": "kaikai bilong graun bilong yumi"
     },
     {
       "surface": "קציר",
-      "gloss": "haraest"
+      "gloss": "kaikai"
     },
     {
       "surface": "ארצכם",
-      "gloss": "graun bilong yupela"
+      "gloss": "graun bilong yumi"
     },
     {
       "surface": "לא",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "תכלה",
-      "gloss": "ken pinisim"
+      "gloss": "ken katim olgeta"
     },
     {
       "surface": "פאת",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "ולקט",
-      "gloss": "ol kaikai i lus long graun"
+      "gloss": "na ol kaikai i pundaun i stap"
     },
     {
       "surface": "קצירך",
-      "gloss": "haraest bilong yu"
+      "gloss": "harvest bilong yu"
     },
     {
       "surface": "לא",
@@ -84,23 +58,24 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "ken kisim olgeta"
+      "gloss": "ken kisim"
     },
     {
       "surface": "לעני",
-      "gloss": "long man i no gat samting"
+      "gloss": "bilong poorman"
     },
     {
       "surface": "ולגר",
-      "gloss": "na long man i kam long narapela ples"
+      "gloss": "na bilong man i kam long narapela ples"
     },
     {
       "surface": "תעזב",
-      "gloss": "yu ken livim"
+      "gloss": "yu ken lusim"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ olgeta"
+      "gloss": "⟨את⟩",
+      "marks": "olgeta"
     },
     {
       "surface": "אני",
@@ -112,9 +87,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim bilong yupela"
+      "gloss": "Elohim bilong yumi"
     }
   ],
-  "timestamp": "2026-10-18T18:38:59.142522499Z",
+  "timestamp": "2026-10-19T00:48:20.803353790Z",
   "model": "glm-5.3"
 }

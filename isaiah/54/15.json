@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "tpi",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גור יגור \/ גר",
-      "rationale": "Rut wankain גור i kamap tripela taim — infinitif absolut bilong strongim, na Tok Pisin i no inap holim dispela lon"
-    },
-    {
-      "kind": "crux",
-      "subject": "מי גר אתך",
-      "rationale": "KJV\/ASV: 'man i sanap nogut long yu bai pundaun'; YLT: 'husat i sanap klostu long yu? Long yu em i pundaun' — אתך i save tok 'wantaim yu' o 'i stap klostu long yu'"
-    },
-    {
-      "kind": "you",
-      "subject": "yu",
-      "rationale": "Tok i go stret long Sion"
-    }
-  ],
-  "translation": "Lukim: sapos ol i sanap Wantaim, ⟨את⟩ em i no long mi; husat i sanap wantaim yu, long yu em bai i pundaun.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/isaiah\/54\/13-16.1792354652893.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lukim, wanpela i bungim bai i bungim ⟨את⟩, tasol i no long ⟨את⟩ bilong mi; husat i bungim wantaim ⟨את⟩ yu, long yu bai i pundaun.",
   "tokens": [
     {
       "surface": "הן",
@@ -39,20 +13,20 @@
     },
     {
       "surface": "גור",
-      "gloss": "sapos ol i sanap wantaim"
+      "gloss": "i bungim"
     },
     {
       "surface": "יגור",
-      "gloss": "ol i sanap wantaim tru"
+      "gloss": "bai i bungim"
     },
     {
       "surface": "אפס",
-      "gloss": "em i no"
+      "gloss": "tasol i no"
     },
     {
       "surface": "מאותי",
-      "gloss": "⟨את⟩",
-      "marks": "husat"
+      "gloss": "long ⟨את⟩ bilong mi",
+      "marks": "husat i bungim"
     },
     {
       "surface": "מי",
@@ -60,11 +34,12 @@
     },
     {
       "surface": "גר",
-      "gloss": "i sanap wantaim"
+      "gloss": "i bungim"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wantaim yu"
+      "gloss": "wantaim ⟨את⟩ yu",
+      "marks": "yu"
     },
     {
       "surface": "עליך",
@@ -72,9 +47,9 @@
     },
     {
       "surface": "יפול",
-      "gloss": "em bai i pundaun"
+      "gloss": "bai i pundaun"
     }
   ],
-  "timestamp": "2026-10-18T20:17:32.894625208Z",
+  "timestamp": "2026-10-19T00:43:39.251629311Z",
   "model": "glm-5.3"
 }

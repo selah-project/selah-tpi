@@ -5,36 +5,16 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hibru i tok 'ol i no painim, sapos tasol' — em i min 'ol i painim tasol dispela'; Tok Pisin i hariap long lukluk"
-    },
-    {
-      "kind": "substitution",
-      "subject": "skull",
-      "rationale": "הגלגלת em i 'namba long het' — i no 'het' holem; Tok Pisin i brukim wanpela tok long tupela"
-    }
-  ],
-  "translation": "Na ol i go bilong putim ⟨את⟩ em long graun, tasol ol i no painim ⟨את⟩ noting i stap long em, i no olsem narapela tok, tasol ⟨i stap⟩ ol namba long het, na tupela lek, na ol palma bilong tupela han.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "195f7a8a5469420232826c48a271aaf97612aa5415a4db170792b5617dc071c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/33-36.1792353444572.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol i go bilong berim ⟨את⟩ em, tasol ol i no painim long em samting, i no long holskru bilong em, na ol fut bilong em, na ol palm bilong ol han bilong em.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "Na ol i go"
+      "gloss": "ol i go"
     },
     {
-      "surface": "לקברה",
-      "gloss": "bilong putim ⟨את⟩ em long graun"
+      "surface": "לקבברה",
+      "gloss": "bilong berim ⟨את⟩ em",
+      "marks": "em (Izebel)"
     },
     {
       "surface": "ולא",
@@ -50,29 +30,29 @@
     },
     {
       "surface": "כי",
-      "gloss": "i no olsem narapela tok, tasol"
+      "gloss": "samting, i no long"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tasol"
     },
     {
       "surface": "הגלגלת",
-      "gloss": "ol namba long het"
+      "gloss": "holskru bilong em"
     },
     {
       "surface": "והרגלים",
-      "gloss": "na tupela lek"
+      "gloss": "na ol fut bilong em"
     },
     {
       "surface": "וכפות",
-      "gloss": "na ol palma"
+      "gloss": "na ol palm bilong ol han"
     },
     {
       "surface": "הידים",
-      "gloss": "bilong tupela han"
+      "gloss": "bilong em"
     }
   ],
-  "timestamp": "2026-10-18T19:57:24.573983381Z",
+  "timestamp": "2026-10-19T00:34:12.479133534Z",
   "model": "glm-5.3"
 }

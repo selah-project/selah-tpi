@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨em⟩",
-      "rationale": "Pronaun bilong klariti — Hibru i no gat em"
-    },
-    {
-      "kind": "you",
-      "subject": "David na Bat-Sheba",
-      "rationale": "Stori i tok dairekt long pasin bilong tupela"
-    }
-  ],
-  "translation": "Na David i kirapim bel bilong Bat-Sheba, meri bilong en, na em i go long em, na em i slip wantaim ⟨em⟩; na em i karim wanpela pikinini man, na em i senisim nem bilong en Shelomo, na Yahwe i laikim em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d31da3a0cb420da2352f89f387e51be2c39559b0a256069cd70c9da6de2b55bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/21-24.1792352326496.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na David i komfortim ⟨את⟩ Bat-Seba, meri bilong en, na em i go long em, na em i slip wantaim em; na em i karim wanpela pikinini man, na em i senisim ⟨את⟩ nem bilong en, Salomo; na Yahwe i laikim em.",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "i kirapim bel bilong"
+      "gloss": "i komfortim"
     },
     {
       "surface": "דוד",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bat-Sheba, meri bilong en"
+      "marks": "Bat-Seba"
     },
     {
       "surface": "בת",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Sheba"
+      "gloss": "Seba"
     },
     {
       "surface": "אשתו",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "na em i go"
+      "gloss": "i go long"
     },
     {
       "surface": "אליה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וישכב",
-      "gloss": "na em i slip"
+      "gloss": "i slip wantaim"
     },
     {
       "surface": "עמה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "na em i karim"
+      "gloss": "i karim"
     },
     {
       "surface": "בן",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "na em i senisim nem"
+      "gloss": "i senisim nem bilong en"
     },
     {
       "surface": "את",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Salomo"
     },
     {
       "surface": "ויהוה",
@@ -103,6 +82,6 @@
       "gloss": "i laikim em"
     }
   ],
-  "timestamp": "2026-10-18T19:38:46.498187048Z",
+  "timestamp": "2026-10-19T00:34:12.050270950Z",
   "model": "glm-5.3"
 }

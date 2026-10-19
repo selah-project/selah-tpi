@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 108,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "khesed",
-      "rationale": "חסד i tanim long khesed, i no 'marimari' tasol — wanpela tok bilong D2."
-    },
-    {
-      "kind": "alternative",
-      "subject": "שחקים",
-      "rationale": "Šakim i tok 'pawa\/'thin dust' i kamap 'klaut\/skai' — mi usim ol klaut olsem klostu olgeta tanim tok."
-    }
-  ],
-  "translation": "Bikpela khesed bilong yu i stap antap long ol heven, na tru bilong yu i go inap long ol klaut.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/108\/5-8.1792359042658.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Long wanem, khesed bilong yu i bikpela moa long ol heven, na tru bilong yu i go antap bitim olgeta ⟨i go⟩ long ol skai.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "bilong"
+      "gloss": "long wanem"
     },
     {
       "surface": "גדול",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "antap long"
+      "gloss": "moa long"
     },
     {
       "surface": "שמים",
@@ -50,17 +29,17 @@
     },
     {
       "surface": "ועד",
-      "gloss": "na inap long"
+      "gloss": "na i go bitim"
     },
     {
       "surface": "שחקים",
-      "gloss": "ol klaut"
+      "gloss": "ol skai"
     },
     {
       "surface": "אמתך",
       "gloss": "tru bilong yu"
     }
   ],
-  "timestamp": "2026-10-18T21:30:42.658648797Z",
+  "timestamp": "2026-10-19T00:50:18.221295048Z",
   "model": "glm-5.3"
 }

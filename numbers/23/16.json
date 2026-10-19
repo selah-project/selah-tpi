@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tok bilong Yahwe",
-      "rationale": "Em i tok dairet long Balam; 'na i tok' i stap long tok bilong Yahwe, i no gat narapela nem."
-    },
-    {
-      "kind": "you",
-      "subject": "Balam",
-      "rationale": "Yahwe i tokim Balam dairet long imperativ 'go bek'."
-    }
-  ],
-  "translation": "Na Yahwe i kam painim Balam, na em i putim ⟨את⟩ tok long maus bilong em, na i tok: Go bek long Balak, na olsem yu bai tok.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "0988d0f547045cda27a7b829a9203c95fd16c7bd55c0902a864f191d2cfff8e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/23\/13-16.1792349446320.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yahwe i painim Balam, na i putim tok long maus bilong em, na i tok: Go bek long Balak, na olsem yu ken tok.",
   "tokens": [
     {
       "surface": "ויקר",
-      "gloss": "i kam painim"
+      "gloss": "i painim"
     },
     {
       "surface": "יהוה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilam"
+      "gloss": "Balam"
     },
     {
       "surface": "וישם",
-      "gloss": "i putim ⟨את⟩"
+      "gloss": "na i putim"
     },
     {
       "surface": "דבר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "שוב",
-      "gloss": "go bek"
+      "gloss": "Go bek"
     },
     {
       "surface": "אל",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "תדבר",
-      "gloss": "yu bai tok"
+      "gloss": "yu ken tok"
     }
   ],
-  "timestamp": "2026-10-18T18:50:46.321939971Z",
+  "timestamp": "2026-10-19T00:49:07.104017875Z",
   "model": "glm-5.3"
 }

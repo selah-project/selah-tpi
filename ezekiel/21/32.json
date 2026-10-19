@@ -5,38 +5,7 @@
   "book": "ezekiel",
   "lang": "tpi",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עוה עוה עוה",
-      "rationale": "Triple repetition of 'avah (ruin) — emphatic hammering, lost in single-word repetition in Tok Pisin."
-    },
-    {
-      "kind": "crux",
-      "subject": "עד בא אשר לו המשפט",
-      "rationale": "'Until he comes whose right\/judgment it is' — famous crux: JPS reads the coming one (later read messianically, 'Shiloh' echo of Gen 49:10); KJV takes a different Hebrew text, rendering the verse about fuel for fire and being no more remembered."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩",
-      "rationale": "Copula supplied in Tok Pisin for the relative clause 'whose is the judgment'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "עוה",
-      "rationale": "Rare interjection-like noun of ruin, repeated three times only here in this form."
-    }
-  ],
-  "translation": "Bagarap, bagarap, bagarap — mi bai mekim ⟨את⟩ em; na dispela tu bai i no kamap, i go long taim man i kam bilong en ⟨i⟩ kot, na bai mi givim ⟨את⟩ em long em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "d373d9f794ddf78adf57416aa27bf9b5b07d7d83d74a0c5f259e71eced19e80e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/ezekiel\/21\/32-32.1792363232469.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bagarap, bagarap, bagarap — mi mekim ⟨את⟩ em i kamap olsem; dispela tu i no bai kamap, i go long taim man i kamap bilong en ⟨em⟩ kot i stap, na mi givim ⟨את⟩ i long em.",
   "tokens": [
     {
       "surface": "עוה",
@@ -52,11 +21,11 @@
     },
     {
       "surface": "אשימנה",
-      "gloss": "mi bai mekim ⟨את⟩ em"
+      "gloss": "mi mekim em i kamap olsem"
     },
     {
       "surface": "גם",
-      "gloss": "na ... tu"
+      "gloss": "tu"
     },
     {
       "surface": "זאת",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "i kam"
+      "gloss": "i kamap"
     },
     {
       "surface": "אשר",
@@ -92,9 +61,9 @@
     },
     {
       "surface": "ונתתיו",
-      "gloss": "na bai mi givim ⟨את⟩ em"
+      "gloss": "na mi givim ⟨את⟩ i long em"
     }
   ],
-  "timestamp": "2026-10-18T22:40:32.469448039Z",
+  "timestamp": "2026-10-19T00:52:48.100298112Z",
   "model": "glm-5.3"
 }

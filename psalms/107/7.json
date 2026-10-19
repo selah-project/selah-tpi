@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bringaut",
-      "rationale": "דרך is 'cause to tread\/walk'; rendered as lead out"
-    },
-    {
-      "kind": "addition",
-      "subject": "wanpela",
-      "rationale": "Tok Pisin needs wanpela for indefinite singular"
-    }
-  ],
-  "translation": "Na em i bringaut ⟨את⟩ ol i go long rot stret, bilong ol i ken wokabaut i go long wanpela siti bilong stop.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "67cd6155dca0eae42a4ff8d6f9085820cad9e38665b643d7354834a1e66e2a3e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/107\/6-7.1792363384038.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na em i salim ⟨ol⟩ i wokabaut long rot stret, bilong ol i ken go long wanpela siti bilong stop.",
   "tokens": [
     {
       "surface": "וידריכם",
-      "gloss": "na em i bringaut ⟨את⟩ ol"
+      "gloss": "em i salim ⟨ol⟩ i wokabaut"
     },
     {
       "surface": "בדרך",
@@ -42,21 +21,21 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "bilong wokabaut"
+      "gloss": "bilong ol i ken go"
     },
     {
       "surface": "אל",
-      "gloss": "i go long"
+      "gloss": "long"
     },
     {
       "surface": "עיר",
-      "gloss": "siti"
+      "gloss": "wanpela siti"
     },
     {
       "surface": "מושב",
       "gloss": "bilong stop"
     }
   ],
-  "timestamp": "2026-10-18T22:43:04.038996574Z",
+  "timestamp": "2026-10-19T00:50:04.581883571Z",
   "model": "glm-5.3"
 }

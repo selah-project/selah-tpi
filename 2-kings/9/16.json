@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "i kapsait long karia",
-      "rationale": "וירכב i tok 'em i raet' tasol — Tok Pisin i nidim wanem em raet long wanem, olsem karia."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨i⟩",
-      "rationale": "Heber i no gat pronaun bihain 'lukluk' — Tok Pisin i nidim em."
-    }
-  ],
-  "translation": "Na Yehu i kapsait long karia na i go long Yizreel, long wanem Yoram i slip long hap; na Ahazia, king bilong Yuda, i go daun bilong lukluk ⟨i⟩ long Yoram.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "1c246a19aba2c490cc4c2653d3c6a1657a962e560c4253b1eed12cd5b0755a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/13-16.1792353433002.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yehu i raidim karet, na em i go long Yizreel, bilong Yoram i slip longen, na Akazia, king bilong Yuda, i go daun long lukim ⟨את⟩ Yoram.",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "i kapsait long karia"
+      "gloss": "i raidim karet"
     },
     {
       "surface": "יהוא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "na i go"
+      "gloss": "i go"
     },
     {
       "surface": "יזרעאלה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "long wanem"
+      "gloss": "bilong"
     },
     {
       "surface": "יורם",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "שמה",
-      "gloss": "long hap"
+      "gloss": "longen"
     },
     {
       "surface": "ואחזיה",
-      "gloss": "na Ahazia"
+      "gloss": "na Akazia"
     },
     {
       "surface": "מלך",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "לראות",
-      "gloss": "bilong lukluk"
+      "gloss": "long lukim"
     },
     {
       "surface": "את",
@@ -90,6 +69,6 @@
       "gloss": "Yoram"
     }
   ],
-  "timestamp": "2026-10-18T19:57:13.004070902Z",
+  "timestamp": "2026-10-19T00:34:17.096649271Z",
   "model": "glm-5.3"
 }

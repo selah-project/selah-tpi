@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "tpi",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tora",
-      "rationale": "שם תורה i stap olsem Tora — nogat 'lo' tasol"
-    },
-    {
-      "kind": "you",
-      "subject": "olgeta manmeri bilong ples",
-      "rationale": "Ol manmeri bilong Yisrael i mas tok Amen"
-    }
-  ],
-  "translation": "Tok brum i stap long man we em i no ken kirapim ⟨את⟩ ol tok bilong Tora dispela bilong wokim ol, na olgeta manmeri bilong ples bai tok: Amen.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/deuteronomy\/27\/25-26.1792350251262.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tok sot: man i no kirapim ⟨את⟩ ol tok bilong dispela Tora long mekim olgeta — na olgeta manmeri i tok: Amen.",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "Tok brum i stap long"
+      "gloss": "Tok sot"
     },
     {
       "surface": "אשר",
-      "gloss": "we"
+      "gloss": "man"
     },
     {
       "surface": "לא",
@@ -47,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol tok bilong Tora dispela"
+      "marks": "ol tok bilong dispela Tora"
     },
     {
       "surface": "דברי",
-      "gloss": "ol tok bilong"
+      "gloss": "ol tok"
     },
     {
       "surface": "התורה",
-      "gloss": "Tora"
+      "gloss": "bilong Tora"
     },
     {
       "surface": "הזאת",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "bilong wokim"
+      "gloss": "long mekim"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ol"
+      "gloss": "⟨את⟩ olgeta"
     },
     {
       "surface": "ואמר",
-      "gloss": "na bai tok"
+      "gloss": "na i tok"
     },
     {
       "surface": "כל",
@@ -79,13 +58,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "manmeri bilong ples"
+      "gloss": "manmeri"
     },
     {
       "surface": "אמן",
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-10-18T19:04:11.263238374Z",
+  "timestamp": "2026-10-19T00:36:13.039330110Z",
   "model": "glm-5.3"
 }

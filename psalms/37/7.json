@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "tpi",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "והתחולל",
-      "rationale": "Wok i tanim 'wait patiently'; lemma i min 'tanim raun \/ girea' — narakain ol i skelim 'bel hevi wantaim' o 'wokabaut liklik olsem drivel'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "מזמות",
-      "rationale": "Plan — lemma i tok 'plan, plantaim olsem nogut'; hia em i plan nogut bilong man."
-    }
-  ],
-  "translation": "Kirap nup long Yahwe, na wet gut long em; no ken kros tru long man i go het long rot bilong en, long man i wokim ⟨את⟩ ol plan nogut bilong en.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/psalms\/37\/5-8.1792358150662.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Stap kwait bilong Yahwe, na wet gut long em; no ken kros long man i wokim gutpela rot bilong en, o long man i wokim ⟨את⟩ ol plan bilong em i nogut.",
   "tokens": [
     {
       "surface": "דום",
-      "gloss": "Kirap nup"
+      "gloss": "stap kwait"
     },
     {
       "surface": "ליהוה",
-      "gloss": "long Yahwe"
+      "gloss": "bilong Yahwe"
     },
     {
       "surface": "והתחולל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "תתחר",
-      "gloss": "kros tru"
+      "gloss": "kros"
     },
     {
       "surface": "במצליח",
-      "gloss": "long man i go het"
+      "gloss": "long man i wokim gutpela"
     },
     {
       "surface": "דרכו",
@@ -62,18 +41,18 @@
     },
     {
       "surface": "באיש",
-      "gloss": "long man"
+      "gloss": "o long man"
     },
     {
       "surface": "עשה",
-      "gloss": "i wokim ⟨את⟩",
-      "marks": "ol plan nogut bilong en"
+      "gloss": "i wokim"
     },
     {
       "surface": "מזמות",
-      "gloss": "ol plan nogut bilong en"
+      "gloss": "ol plan bilong em i nogut",
+      "marks": "ol plan i nogut"
     }
   ],
-  "timestamp": "2026-10-18T21:15:50.663146784Z",
+  "timestamp": "2026-10-19T00:50:54.477171713Z",
   "model": "glm-5.3"
 }

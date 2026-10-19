@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "tpi",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עליו",
-      "rationale": "'long em' — Hebrew עליו can mean 'over\/upon\/against'; versions split between 'against him' (ylt) and 'beside him' (jps)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kaikai",
-      "rationale": "ברא here is 'to eat\/feed', not its more common sense 'create'; rendered as plain 'kaikai'."
-    }
-  ],
-  "translation": "Na ol olpela man bilong haus bilong em i kirap, na i go long em bilong kirapim em i kamap long graun, tasol em i no laik, na em i no kaikai bret wantaim ol.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-samuel\/12\/17-20.1792352321556.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ol bikman bilong haus bilong en i kirap na sanap klostu long em, bilong helpim em i kirap long graun, tasol em i no laikim, na em i no kaikai ⟨את⟩ bret wantaim ol.",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -34,23 +13,23 @@
     },
     {
       "surface": "זקני",
-      "gloss": "ol olpela man"
+      "gloss": "ol bikman"
     },
     {
       "surface": "ביתו",
-      "gloss": "bilong haus bilong em"
+      "gloss": "bilong haus bilong en"
     },
     {
       "surface": "עליו",
-      "gloss": "long em"
+      "gloss": "klostu long em"
     },
     {
       "surface": "להקימו",
-      "gloss": "bilong kirapim em"
+      "gloss": "bilong helpim em i kirap"
     },
     {
       "surface": "מן",
-      "gloss": "i kamap long"
+      "gloss": "long"
     },
     {
       "surface": "הארץ",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אבה",
-      "gloss": "laik"
+      "gloss": "laikim"
     },
     {
       "surface": "ולא",
@@ -75,13 +54,13 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wantaim ol"
+      "marks": "bret"
     },
     {
       "surface": "לחם",
-      "gloss": "bret"
+      "gloss": "bret wantaim ol"
     }
   ],
-  "timestamp": "2026-10-18T19:38:41.557560970Z",
+  "timestamp": "2026-10-19T00:34:17.039617485Z",
   "model": "glm-5.3"
 }

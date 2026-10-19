@@ -5,51 +5,25 @@
   "book": "numbers",
   "lang": "tpi",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מוסבת שם",
-      "rationale": "I no klia: 'ol i senisim ol nem' o 'ol nem bilong ol i senis pinis' — planti tanim tok i go long fes wan."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בשמת",
-      "rationale": "Hebru i tok 'long nem' tasol; 'narapela nem' i kamap long mining — KJV 'other names'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "ol nem bilong ol taun",
-      "rationale": "Ritin daun bilong ol nem — pasin bilong makim olgeta taun."
-    }
-  ],
-  "translation": "Na ⟨את⟩ Nebo, na ⟨את⟩ Baal Meon — ol i senisim ol nem — na ⟨את⟩ Sibma; na ol i givim narapela nem long ol taun ol i wokim.",
-  "provenance": {
-    "system-sha256": "e5010e04fe93b86138a1e55d521d5e98f5d4289dd49e21025ce217312eaac5dd",
-    "user-sha256": "421c52d2ef615303ba2de46b9dce7ccc5970458a96aacbf73113a873f7dcaf2e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/numbers\/32\/37-40.1792349556455.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ⟨את⟩ Nevo, na ⟨את⟩ Baal-Meon — ol i senisim ⟨i⟩ nem — na ⟨את⟩ Sibma; na ol i kolem wantaim ol nem, ⟨את⟩ ol nem bilong ol taun ol i binim.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "Nebo"
+      "marks": "Nevo"
     },
     {
       "surface": "נבו",
-      "gloss": "Nebo"
+      "gloss": "Nevo"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "Baal Meon"
+      "marks": "Baal-Meon"
     },
     {
       "surface": "בעל",
-      "gloss": "Baal"
+      "gloss": "Baal-"
     },
     {
       "surface": "מעון",
@@ -74,16 +48,16 @@
     },
     {
       "surface": "ויקראו",
-      "gloss": "ol i givim nem long"
+      "gloss": "na ol i kolem"
     },
     {
       "surface": "בשמת",
-      "gloss": "long ol narapela nem"
+      "gloss": "wantaim ol nem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol nem bilong ol taun"
+      "marks": "ol nem"
     },
     {
       "surface": "שמות",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "הערים",
-      "gloss": "ol taun"
+      "gloss": "bilong ol taun"
     },
     {
       "surface": "אשר",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "בנו",
-      "gloss": "wokim"
+      "gloss": "i binim"
     }
   ],
-  "timestamp": "2026-10-18T18:52:36.456744222Z",
+  "timestamp": "2026-10-19T00:49:58.267917675Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "tpi",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "baras",
-      "rationale": "המשא em i tok profet bilong baras — 'baras' i holim piksa bilong lifting"
-    },
-    {
-      "kind": "crux",
-      "subject": "שלשה",
-      "rationale": "shelisha: man bilong tupela karet \/ thirti-man ofisa \/ bodyguard — ol tanima i no wankain"
-    }
-  ],
-  "translation": "Na Yehu i tokim Bidkar, man bilong tupela karet: Kisim em, throwim em i go long hap graun bilong Navot, man bilong Yisreel; long wanem, mi tingim yu na mi yet, tupela i wokabaut wantaim ol tupela karet bihain long Ahav papa bilong em, na Yahwe i putim dispela baras long em.",
-  "provenance": {
-    "system-sha256": "aeab46ac2584dd5f799a4a97ed94052499179a0354a8e33e6419e7800498bab8",
-    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/tpi\/2-kings\/9\/25-28.1792353462301.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na Yehu i tok long Bidkar, ofisa bilong en: Kisim em i go antap, trowem em i go long hap bilong gaden bilong Navot, man bilong Yizreel; long wanem, yu ken tingim, taim mi wantaim yu ⟨את⟩ ridim tupela karet wantaim bihain long Ahab, papa bilong en, na Yahwe i putim ⟨את⟩ dispela barda long em:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "i tokim"
+      "gloss": "i tok"
     },
     {
       "surface": "אל",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "man bilong tupela karet"
+      "gloss": "ofisa bilong en"
     },
     {
       "surface": "שא",
-      "gloss": "Kisim"
+      "gloss": "kisim em i go antap"
     },
     {
       "surface": "השלכהו",
-      "gloss": "throwim em"
+      "gloss": "trowem em i go"
     },
     {
       "surface": "בחלקת",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שדה",
-      "gloss": "graun"
+      "gloss": "gaden"
     },
     {
       "surface": "נבות",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "man bilong Yisreel"
+      "gloss": "man bilong Yizreel"
     },
     {
       "surface": "כי",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "זכר",
-      "gloss": "mi tingim"
+      "gloss": "yu ken tingim"
     },
     {
       "surface": "אני",
@@ -82,16 +61,16 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "na yu"
+      "gloss": "wantaim yu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ol man i raidim karet"
+      "marks": "ridim ol karet"
     },
     {
       "surface": "רכבים",
-      "gloss": "i raidim"
+      "gloss": "ridim ol karet"
     },
     {
       "surface": "צמדים",
@@ -103,11 +82,11 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahav"
+      "gloss": "Ahab"
     },
     {
       "surface": "אביו",
-      "gloss": "papa bilong em"
+      "gloss": "papa bilong en"
     },
     {
       "surface": "ויהוה",
@@ -124,17 +103,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dispela baras"
+      "marks": "dispela barda"
     },
     {
       "surface": "המשא",
-      "gloss": "baras"
+      "gloss": "dispela barda"
     },
     {
       "surface": "הזה",
       "gloss": "dispela"
     }
   ],
-  "timestamp": "2026-10-18T19:57:42.302582688Z",
+  "timestamp": "2026-10-19T00:34:09.753141891Z",
   "model": "glm-5.3"
 }
