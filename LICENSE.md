@@ -14,7 +14,7 @@ Em i stap aninit long laisens **Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## Long ol dispela lo
 
-- **Tokaut long as** — tokaut we dispela wok i kam long en (**Selah**, https://selahproject.com), putim link bilong
+- **Tokaut long as** — tokaut we dispela wok i kam long en (**Selah**, https://s33k3r.com), putim link bilong
   dispela laisens, na tokaut sapos yu senisim samting.
 - **Serim long wankain pasin** — samting yu senisim o wokim long dispela wok, serim aninit long wankain laisens.
 
